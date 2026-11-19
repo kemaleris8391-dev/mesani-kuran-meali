@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 30 / 100 Kök (Toplam Mühürlü: 135 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 31 / 100 Kök (Toplam Mühürlü: 136 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -48,7 +48,7 @@
 | 28 | 131 | `أ-ح-د` | `E-H-D` | **85** | 82 | 2:96 | Ehad / İhdâ (Bölünmez Mutlak Teklik, İkiden Biri ve İstisnasız Her Tek Fert) | ✅ **MÜHÜRLÜ** |
 | 29 | 132 | `ن-ج-و` | `N-C-W` | **84** | 75 | 2:49 | Necât / Necvâ (Kuşatmadan Yüksek Selamete Çekip Kurtarma ve Tenhaya Çekilip Gizlice Konuşma) | ✅ **MÜHÜRLÜ** |
 | 30 | 133 | `س-و-ي` | `S-W-Y` | **83** | 80 | 2:6 | Sevî / Tesviye (Pürüzsüz Düzlem, Eksiksiz Uyum ve İki Yönlü Denge/Denklik) | ✅ **MÜHÜRLÜ** |
-| 31 | 134 | `ك-ي-ف` | `K-Y-F` | **83** | 83 | 2:28 | Analiz Bekliyor (kayof) | ⏳ *Bekliyor* |
+| 31 | 134 | `ك-ي-ف` | `K-Y-F` | **83** | 83 | 2:28 | Keyf / Hâl-Tarz Sorgusu (Oluş Biçimi, İşleyiş Mekanizması ve Mantıksal Yüzleştirme) | ✅ **MÜHÜRLÜ** |
 | 32 | 135 | `ح-ر-م` | `H-R-M` | **83** | 71 | 2:85 | Analiz Bekliyor (Har~ama, HaraAm, muHar~am) | ⏳ *Bekliyor* |
 | 33 | 136 | `ز-و-ج` | `Z-W-C` | **81** | 72 | 2:25 | Analiz Bekliyor (zawoj, zuw~ijato) | ⏳ *Bekliyor* |
 | 34 | 137 | `ع-ق-ب` | `A-K-B` | **80** | 74 | 2:143 | Analiz Bekliyor (Ea`qibap, EiqaAb, Eaqib) | ⏳ *Bekliyor* |

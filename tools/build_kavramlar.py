@@ -832,6 +832,12 @@ ROOT_CONFIG = {
         'concept_name': 'Sevî / Tesviye (Pürüzsüz Düzlem, Eksiksiz Uyum ve İki Yönlü Denge/Denklik)',
         'keywords': ['düz', 'denk', 'eşit', 'düzenle', 'kurul', 'yönel', 'tamam', 'orta', 'hizala', 'dosdoğru'],
     },
+    'ك-ي-ف': {
+        'buckwalter': 'kyf',
+        'slug': 'keyf_hal_tarz_kyf',
+        'concept_name': 'Keyf / Hâl-Tarz Sorgusu (Oluş Biçimi, İşleyiş Mekanizması ve Mantıksal Yüzleştirme)',
+        'keywords': ['nasıl', 'biçim', 'tarz', 'hâl', 'bak', 'gör', 'dilediği', 'yöntem', 'son', 'akıbet'],
+    },
 }
 
 
@@ -7535,6 +7541,25 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
         if lemma == 'suwFY':
             return "İki tarafa da eşit mesafede açık bir orta meydan (`مَكَانًا سُوًى`, maksûr elifle mansûb sıfat)"
 
+    if root_ar == 'ك-ي-ف':
+        if (s, a) in {(3, 6), (5, 64), (30, 48)}:
+            return "Dilediği biçim ve düzende (`كَيْفَ يَشَآءُ`, fetha üzerine mebnî hâl/tarz ismi — soru anlamı olmadan fiilin biçimlendirme tarzını belirleyen hâl)"
+        if (s, a) in {(3, 25), (4, 41), (4, 62), (47, 27)}:
+            return "Peki ya ... geldiğinde hâlleri nasıl olacak (`فَكَيْفَ إِذَا`, `فَـ` sonuç bağlacıyla fetha üzerine mebnî soru ismi — örtük fiille keskin yüzleştirme)"
+        if (s, a) in {(13, 32), (22, 44), (34, 45), (35, 26), (40, 5), (54, 16), (54, 18), (54, 21), (54, 30), (67, 18)}:
+            return "Peki nasıldı (`فَكَيْفَ كَانَ`, `فَـ` sonuç bağlacıyla fetha üzerine mebnî soru ismi — `كَانَ` nâkıs fiilinin öncelenmiş haberi)"
+        if (s, a) in {(7, 93), (73, 17)}:
+            return "Öyleyse nasıl (`فَكَيْفَ`, `فَـ` sonuç bağlacıyla fetha üzerine mebnî soru ismi — tam fiilin önünde öncelenmiş hâl)"
+        if (s, a) in {(3, 101), (4, 21), (5, 43), (6, 81), (18, 68)}:
+            return "Ve nasıl / hangi mantıkla (`وَكَيْفَ`, `وَ` bağlacıyla fetha üzerine mebnî soru ismi — hâl cümlesi eşliğinde mantıksal çelişki yüzleştirmesi)"
+        if (s, a) == (9, 8):
+            return "Nasıl olabilir ki (`كَيْفَ وَإِن`, fetha üzerine mebnî soru ismi — örtük fiil/haberle mantıksal imkânsızlık sorgusu)"
+        if (s, a) in {(3, 137), (6, 11), (7, 84), (7, 86), (7, 103), (9, 7), (10, 39), (10, 73), (12, 109), (16, 36), (27, 14), (27, 51), (27, 69), (28, 40), (30, 9), (30, 42), (35, 44), (37, 73), (40, 21), (40, 82), (43, 25), (47, 10), (67, 17)}:
+            return "Nasıl oldu / nasıldır (`كَيْفَ`, fetha üzerine mebnî soru ismi — `كَانَ / يَكُونُ` veya isim cümlesi önünde öncelenmiş haber)"
+        if (s, a) in {(14, 45), (74, 19), (74, 20), (89, 6), (105, 1)}:
+            return "Hangi tarz ve biçimde (`كَيْفَ`, fetha üzerine mebnî soru ismi — eylemin yapılış biçimini belirten mef'ûl-i mutlak nâibi)"
+        return "Nasıl / hangi biçim ve işleyişle (`كَيْفَ`, fetha üzerine mebnî soru ismi — tam fiilin önünde öncelenmiş hâl)"
+
     raise ValueError(f"Eşleşmeyen lemma: root={root_ar}, lemma={lemma}, ref={s}:{a}")
 
 
@@ -11350,6 +11375,19 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in {(2, 108), (3, 64), (3, 113), (4, 89), (5, 12), (5, 60), (5, 77), (8, 58), (20, 58), (21, 109), (22, 25), (28, 22), (37, 55), (38, 22), (41, 10), (44, 47), (45, 21), (60, 1)}:
             return "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
         return "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+
+    if root_ar == 'ك-ي-ف':
+        if (s, a) in {(3, 6), (5, 64), (30, 48)}:
+            return "Soru anlamı taşımayan hâl ve tasarım tarzı belirleyicisi (`3:6`, `5:64`, `30:48`): Ana rahimlerinde insanları (`3:6`), rızık/kaynak akışını (`5:64`) ve gökteki bulut yayılımını (`30:48`) dilediği biçim, desen ve dağıtım düzeniyle (`كَيْفَ يَشَآءُ`) şekillendirme işleyişi."
+        if (s, a) in {(2, 259), (2, 260), (5, 31), (25, 45), (29, 19), (29, 20), (30, 50), (50, 6), (71, 15), (88, 17), (88, 18), (88, 19), (88, 20)}:
+            return "Doğrudan gözleme dayalı fiziksel, biyolojik, kozmolojik ve pratik süreç incelemesi (`2:259-260`, `5:31`, `25:45`, `29:19-20`, `30:50`, `50:6`, `71:15`, `88:17-20`): Karganın toprağı eşeleyip gömme yöntemini göstermesi (`5:31`), kemiklerin kaldırılıp et giydirilmesi ve diriltme mekanizması (`2:259-260`), gölge fiziği (`25:45`), yaratılışın başlangıcı ve toprağın canlanması (`29:19-20`, `30:50`), göklerin tabakalı yapısı ile devenin, dağların ve yeryüzünün somut tasarım düzeni (`50:6`, `71:15`, `88:17-20`)."
+        if (s, a) in {(3, 137), (6, 11), (7, 84), (7, 86), (7, 103), (10, 39), (10, 73), (12, 109), (14, 45), (16, 36), (27, 14), (27, 51), (27, 69), (28, 40), (30, 9), (30, 42), (35, 44), (37, 73), (40, 21), (40, 82), (43, 25), (47, 10), (89, 6), (105, 1)}:
+            return "Tarihsel ve arkeolojik sonuç gözlemi (`3:137`, `6:11`, `7:84,86,103`, `10:39,73`, `12:109`, `14:45`, `16:36`, `27:14,51,69`, `28:40`, `30:9,42`, `35:44`, `37:73`, `40:21,82`, `43:25`, `47:10`, `89:6`, `105:1`): Yeryüzünde gezip önceki toplumların, yalanlayıcıların, bozguncuların, Âd ve Fil ordusunun akıbetinin hangi somut yasalar ve süreçlerle gerçekleştiğini yerinde inceleme çağrısı."
+        if (s, a) in {(3, 25), (4, 41), (4, 62), (7, 93), (13, 32), (22, 44), (34, 45), (35, 26), (40, 5), (47, 27), (54, 16), (54, 18), (54, 21), (54, 30), (67, 18), (73, 17)}:
+            return "Sonuç bağlacıyla (`فَكَيْفَ`) çarpıcı yüzleştirme ve kaçınılmaz netice sorgusu (`3:25`, `4:41,62`, `7:93`, `13:32`, `22:44`, `34:45`, `35:26`, `40:5`, `47:27`, `54:16,18,21,30`, `67:18`, `73:17`): Büyük hesap anı, tanıklık yüzleşmesi veya kural ihlalinin doğurduğu ağır karşılık (`عِقَابِ / نَكِيرِ / عَذَابِى`) karşısında insanın içine düşeceği çarpıcı hâlin muhatabın vicdanına bırakılması."
+        if (s, a) in {(2, 28), (3, 86), (3, 101), (4, 21), (5, 43), (6, 81), (9, 7), (9, 8), (10, 35), (18, 68), (19, 29), (37, 154), (68, 36), (74, 19), (74, 20)}:
+            return "Açık olgu ve ölçüt karşısında mantıksal çelişki yüzleştirmesi (`2:28`, `3:86,101`, `4:21`, `5:43`, `6:81`, `9:7-8`, `10:35`, `18:68`, `19:29`, `37:154`, `68:36`, `74:19-20`): Diriltilmiş olma, sağlam ahit, elde metin bulunması veya bilgi sınırı gibi somut gerçekler ortadayken tutarsız davranışın, çarpık hüküm ölçütünün (`مَا لَكُمْ كَيْفَ تَحْكُمُونَ`) ve kurgusal çarpıtmanın (`كَيْفَ قَدَّرَ`) mantıksal zeminsizliğini açığa çıkarma."
+        return "İletişim, kanıt tasrifi ve eylem niteliği incelemesi (`4:50`, `5:75`, `6:24,46,65`, `7:129`, `10:14`, `14:24`, `17:21,48`, `25:9`, `67:17`): Kanıtların farklı açılardan açıklanma biçimi (`كَيْفَ نُصَرِّفُ / نُبَيِّنُ`), örnek kurma yöntemleri (`كَيْفَ ضَرَبَ / ضَرَبُوا۟`), yalan uydurma biçimleri (`4:50`, `6:24`) ve toplumlara emanet edilen sorumlulukta nasıl iş ortaya koyduklarının sahada gözlemlenmesi (`7:129`, `10:14`)."
 
     raise ValueError(f"Açıklama üretilemedi: root={root_ar}, lemma={lemma}, ref={s}:{a}")
 

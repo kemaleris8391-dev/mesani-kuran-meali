@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 135,
+    "total_locked": 136,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1407,6 +1407,16 @@
         "ف-ض-ل & د-ر-ج (Artı Pay ve Kademe Üstünlüğü vs Eşitlik Reddi: 4:95, 9:19-20, 57:10)",
         "ض-ل-ل (Ana Rotadan Sapma: 2:108, 5:12, 5:60, 5:77, 28:22, 60:1)",
         "ش-ك-س (Birbiriyle Çekişen Çoklu Parçalanma vs Tek Esenlikli Denge: 39:29)"
+      ]
+    },
+    "ك-ي-ف": {
+      "latin": "K-Y-F (kyf)",
+      "core": "Bir varlığın, olgunun veya eylemin bulunduğu hâli, oluş biçimini ve işleyiş mekanizmasını mercek altına alan sorgu ve tarz belirleyicisi.",
+      "physical": "Üçlü bir fiziksel fiil kökünden türememiş, yerleşik (vaz'î) bileşik bir hâl ve tarz sorgu ismidir: bir varlığın veya olgunun bulunduğu somut hâli, oluş biçimini ve işleyiş yöntemini mercek altına alır. (Aynı harf maddesinde kaydedilen 'deriden/elbiseden kesilen yama/parça' anlamındaki كِيفَة / كَيَّفَ الْأَدِيمَ Kur'an'da hiç geçmeyen ayrı bir somut kelimedir.)",
+      "opposites": [
+        "ظ-ن-ن & ك-ذ-ب (Kanıtsız Sanı ve Bilgisiz Yalanlama <-> كَيْفَ ile Gözlemsel/Mantıksal Sorgu: 10:35-39)",
+        "ب-ي-ن & ع-ل-م (Apaçık Belirme ve Kesin Kavrayış — كَيْفَ sorusunun somut çözümü: 2:259, 14:45)",
+        "كَذَٰلِكَ (İşte Böyle! — كَيْفَ tarz sorusunun olumlu karşılığı: 30:19/50, 2:259-260)"
       ]
     }
   }

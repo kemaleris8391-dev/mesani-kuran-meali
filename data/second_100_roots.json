@@ -11,7 +11,7 @@
   "projected_total_locked_roots": 205,
   "projected_cumulative_tokens": 38066,
   "projected_cumulative_percentage": 76.18,
-  "locked_in_second_100": 30,
+  "locked_in_second_100": 31,
   "prelocked_skipped_in_range": [
     {
       "global_rank": 101,
@@ -556,8 +556,8 @@
       "buckwalter": "kyf",
       "frequency": 83,
       "unique_ayahs": 83,
-      "concept_label": "Analiz Bekliyor (kayof)",
-      "is_locked": false,
+      "concept_label": "Keyf / Hâl-Tarz Sorgusu (Oluş Biçimi, İşleyiş Mekanizması ve Mantıksal Yüzleştirme)",
+      "is_locked": true,
       "sample_ayah": "2:28",
       "top_lemmas": [
         "kayof"

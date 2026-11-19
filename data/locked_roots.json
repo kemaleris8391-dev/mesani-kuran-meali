@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 29/100 — Toplam 134 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 31/100 — Toplam 136 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -14168,6 +14168,86 @@
         "سَوَآء (27 geçiş)": "Eşit düzey/denklik, iki seçeneğin sonuçça farksız olması (2:6, 52:16), adil/düz ana yol (سَوَآءُ ٱلسَّبِيلِ), taraflar arası şeffaf eşitlik zemini (3:64, 8:58, 22:25, 41:10) ve tam orta merkez (37:55, 44:47).",
         "سَوِىّ (5 geçiş)": "Organ sakatlığı ve arızası bulunmayan sağlam/orantılı yapı (19:10, 19:17); eğrisiz ve dengeli yürüyüş/yol (19:43, 20:135, 67:22).",
         "سُوًى / سِوًى (1 geçiş)": "Her iki tarafa eşit uzaklıkta bulunan açık, düz ve adil orta buluşma yeri (20:58)."
+      }
+    },
+    "ك-ي-ف": {
+      "root_latin": "K-Y-F (kyf)",
+      "arabic": "ك-ي-ف",
+      "rank": 134,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "كيف (noktasız iskelet: كٮڡ — 62 kez; örn. San'a DAM 01-29.1 el yazmasında 5:31 ليريه كيف يورى سواه اخيه)",
+          "فكيف (noktasız iskelet: ڡكٮڡ — 16 kez: 3:25, 4:41, 4:62, 7:93, 13:32, 22:44, 34:45, 35:26, 40:5, 47:27, 54:16, 54:18, 54:21, 54:30, 67:18, 73:17)",
+          "وكيف (noktasız iskelet: وكٮڡ — 5 kez: 3:101, 4:21, 5:43, 6:81, 18:68)",
+          "Mebnî (sabit fethalı) olduğu için 83 geçişin tamamında tek bir imlâ ve tek kıraatle sabittir."
+        ],
+        "verb_forms_used": [
+          "Kur'an'da fiil babı yoktur (0 fiil geçişi). Tüm 83 geçiş değişmez (mebnî) soru/hâl ismi olan كَيْفَ formundadır. Klasik Arapçada 'bir şeye keyfiyet yüklemek' anlamındaki كَيَّفَ fiili sonradan üretilmiştir (müvelled)."
+        ],
+        "preposition_patterns": [
+          "Kur'an'da önüne harf-i cer almaz; yalnızca yalın (62), فَـ bağlacıyla (16) veya وَ bağlacıyla (5) gelir.",
+          "نَظَرَ / رَأَى / تَبَيَّنَ / عَلِمَ + كَيْفَ: Gözlemsel süreç, doğa mekanizması ve tarihî sonuç incelemesi (2:259-260, 5:31, 6:11, 14:45, 25:45, 29:19-20, 30:42, 40:82, 71:15, 88:17-20, 105:1).",
+          "كَيْفَ / وَكَيْفَ + (fiil) + وَ (hâl cümlesi): Açık delil veya ahit ortadayken tutarsız davranışı mantıken yüzleştirme (2:28, 3:101, 4:21, 5:43, 6:81).",
+          "Fiil + كَيْفَ يَشَآءُ: Soru anlamı olmadan 'dilediği biçim, tasarım ve dağıtım tarzında' anlamında hâl/tarz belirleyicisi (3:6, 5:64, 30:48).",
+          "فَكَيْفَ إِذَا / كَيْفَ وَإِن: Örtük fiille (halleri nasıl olur?) keskin yüzleştirme ve uyarı (3:25, 4:41, 4:62, 9:8, 47:27)."
+        ],
+        "approx_frequency": "83 geçiş / 83 ayet (37 sure — referans amaçlı)"
+      },
+      "physical_core": "Üçlü bir fiziksel fiil kökünden türememiş, yerleşik (vaz'î) bileşik bir hâl ve tarz sorgu ismidir: bir varlığın veya olgunun bulunduğu somut hâli, oluş biçimini ve işleyiş yöntemini mercek altına alır. (Aynı harf maddesinde kaydedilen 'deriden/elbiseden kesilen yama/parça' anlamındaki كِيفَة / كَيَّفَ الْأَدِيمَ Kur'an'da hiç geçmeyen ayrı bir somut kelimedir.)",
+      "ibn_faris_asl": {
+        "text": "الكاف والياء والفاء كلمة. يقولون: الكيفة: الكسفة من الثوب. فأما كيف فكلمة موضوعة يستفهم بها عن حال الإنسان فيقال: كيف هو؟ فيقال: صالح.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (كيف maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Üçlü tek bir semantik asıl zorlamaz; iki ayrı unsuru dürüstçe ayırır: (1) elbiseden kesilen parça/yama (el-kîfe), (2) insanın hâlini sormak için vaz'edilmiş (yerleşik) soru kelimesi (kayfa).",
+        "lisan_al_arab": "Lihyânî'den deriyi kesip biçme (keyyefe'l-edîm) ve ön etek yaması (kîfe) bilgisini aktardıktan sonra, 'kayfa'nın hâl soran gayr-i mütemekkin mübhem bir isim olduğunu (Cevherî) ve felsefî/kelâmî 'keyyefe'ş-şey'e' (keyfiyetlendirme) fiilinin sonradan uydurulmuş (müvelled) olduğunu kesinler; ayrıca 'kayfa aṣbaḥta?' sorusuna 'ka-ḫayrin' yanıtı verilebilmesiyle başındaki ka- izini belgeler. Halîl b. Ahmed (el-Ayn) ise kelimeyi doğrudan işlevsel bir edat/alet (harfü edât) sayar.",
+        "ragib_mufredat": "Benzeri bulunabilen siyah-beyaz, sağlıklı-hasta gibi hâl ve nitelikleri sormak için kullanılan lafız olduğunu, Allah'ın Kur'an'da 'kayfa' ile yaptığı bildirimlerin muhatabı uyarmak veya kınamak için geldiğini belirtir; ayrıca sonradan kelâm/felsefe literatüründe 'keyfiyet'in on kategoriden biri yapıldığına değinir.",
+        "arbitration_decision": "Sami morfolojisi (Zammit korpusunda üçlü *k-y-f için 8 dilde 0 eşkökenli; bileşik *ka- edat kökeni), 83 Kur'an geçişinin tamamının yalnızca değişmez soru/hâl ismi olması ve Lihyânî'nin 'müvelled' uyarısı ışığında; elbise yaması (kîfe) ile sonradan üretilen felsefî 'keyfiyet/tekyîf' ve modern 'keyif' anlamları elenir. İbn Fâris, Halîl ve Cevherî çizgisindeki 'hâl, oluş biçimi ve işleyiş yöntemini sorgulayan/belirleyen yerleşik isim' çekirdeği mühürlenir."
+      },
+      "semitic_cognates": {
+        "hebrew": "Üçlü *k-y-f kökü yoktur. Ancak Fleischer–Nöldeke hipotezinde kayfa < ka- + *ayfa bileşimindeki ikinci unsurun İbranice אֵיפֹה (ʾēp̄ō, Strong's H375: 'nerede? hangi tarzda / ne biçim?') ile kökdeş olabileceği önerilmiştir. Ayrıca İbranice 'nasıl?' anlamına gelen אֵיךְ / אֵיכָה (ʾēḵ / ʾēḵāh, Strong's H349), *ʾay- + ka- morfemlerinin ters sırayla birleşmesinden oluşan işlevsel paraleldir.",
+        "aramaic_and_syriac": "Doğrudan *k-y-f eşkökenlisi tespit edilmedi (Zammit 2002 korpusunda Aramice ve Süryanice: 0).",
+        "akkadian": "Doğrudan *k-y-f eşkökenlisi tespit edilmedi (Zammit 2002: 0).",
+        "geez_and_esa": "Doğrudan *k-y-f eşkökenlisi tespit edilmedi (Zammit 2002: Ge'ez 0, ESA/Sebece 0).",
+        "note": "كَيْفَ (kayfa) üçlü Proto-Sami bir fiil kökü değil, Proto-Sami benzetme/tarz unsuru *ka- ile bir soru unsurunun kaynaşmasından doğmuş Arapçaya özgü bileşik bir hâl/tarz zarfıdır; başındaki ka- etimonu klasik Arapçadaki 'kayfa aṣbaḥta? — ka-ḫayrin' yanıtında ve sonundaki -a leksikal ünlüsü Faifî čīfa formunda korunmuştur."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ظ-ن-ن & ك-ذ-ب (Kanıtsız Sanı ve Bilgisiz Yalanlama <-> كَيْفَ ile Gözlemsel/Mantıksal Sorgu: 10:35-39)",
+          "ب-ي-ن & ع-ل-م (Apaçık Belirme ve Kesin Kavrayış — كَيْفَ sorusunun somut çözümü: 2:259, 14:45)",
+          "كَذَٰلِكَ (İşte Böyle! — كَيْفَ tarz sorusunun olumlu karşılığı: 30:19/50, 2:259-260)"
+        ],
+        "key_ayahs": [
+          "10:35-39 (فَمَا لَكُمْ كَيْفَ تَحْكُمُونَ * وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا ... فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ)",
+          "2:259 (وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ... فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ)",
+          "14:45 (وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ)",
+          "2:28 & 4:21 & 6:81 (كَيْفَ + açık olguyu bildiren hâl cümlesiyle mantıksal çelişki teşhiri)"
+        ],
+        "reverse_stress_test": "ظ-ن-ن ('kanıtsız sanıya kapılmak') ve ك-ذ-ب ('bilgiyle kuşatmadan reddetmek') köklerinin tersi alındığında 'süreç mekanizmasını gözlemleyerek ve ölçüt sorgulayarak kavramak' ortaya çıkar; bu da Kur'an'da كَيْفَnın 83 geçişte yürüttüğü gözlemsel, hukukî ve mantıksal yüzleştirme mekanizmasını %100 doğrular."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "أَنَّىٰ vs كَمْ vs كَيْفَ [2:259]",
+          "مَا (مَا لَكُمْ) vs كَيْفَ (كَيْفَ تَحْكُمُونَ) [10:35, 37:154, 68:36]",
+          "أَىّ (أَىُّ ٱلْفَرِيقَيْنِ) vs كَيْفَ (وَكَيْفَ أَخَافُ) [6:81]",
+          "مَا يَشَآءُ [3:40,47] vs كَيْفَ يَشَآءُ [3:6, 5:64, 30:48]"
+        ],
+        "mechanical_difference": "2:259'da أَنَّىٰ uzak imkân ve köken şaşkınlığını ('nereden/hangi yoldan mümkün olacak?'), كَمْ zaman/miktar niceliğini ('ne kadar süre?'), كَيْفَ ise doğrudan gözlemlenen somut oluş biçimini ve mekanizmasını ('kemikleri hangi sırayla kaldırıp et giydirdiğimizi gör!') sorar. 10:35, 37:154 ve 68:36'da مَا لَكُمْ içsel arızanın/gerekçenin mahiyetini ('size ne oluyor?'), كَيْفَ تَحْكُمُونَ ise hüküm verme yöntem ve ölçütünü ('hangi biçim ve mantıkla hükmediyorsunuz?') sorgular. 3:6 ve 30:48'deki كَيْفَ يَشَآءُ ise مَا يَشَآءُ ('ne dilerse') kalıbından farklı olarak iradenin nesnesini değil, tasarım çeşitliliği ve işleyiş tarzını belirtir."
+      },
+      "anchor_ayahs": [
+        "5:31 (لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ — karganın toprağı eşeleyerek gömme tekniğini fiilen göstermesi)",
+        "2:259 & 2:260 (وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا / رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ — biyolojik inşa ve diriltme sürecinin gözlemlenmesi)",
+        "25:45 (أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ — güneş ve gölge fiziğinin işleyişi)",
+        "30:48 (فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ — bulutların gökte farklı biçim ve düzenlerde yayılması)",
+        "88:17-20 (أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ ... — canlı, gök, dağ ve yerin somut tasarım mekanizması)",
+        "29:20 & 30:42 & 40:82 (سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ / كَيْفَ كَانَ عَٰقِبَةُ — doğa tarihi ve arkeolojik inceleme)"
+      ],
+      "unified_core_mechanism": "Bir varlığın, olgunun veya eylemin bulunduğu hâli, oluş biçimini ve işleyiş mekanizmasını mercek altına alan sorgu ve tarz belirleyicisi.",
+      "grammar_and_branch_rules": "Mebnî (sabit fethalı) soru/hâl ismidir; şart edatı olarak cezm yapmaz. 1) Gözlem fiillerinden (رَأَى، نَظَرَ، عَلِمَ، تَبَيَّنَ) sonra bilimsel/tarihsel süreç mekanizmasını inceler; 2) Hâl cümlesiyle (وَقَدْ، وَأَنتُمْ، وَلَا) açık olgu karşısındaki mantıksal tutarsızlığı yüzleştirir; 3) يَشَآءُ fiiliyle soru dışına çıkıp 'dilediği biçim ve düzende' tarz zarfına dönüşür; 4) فَـ bağlacıyla (فَكَيْفَ كَانَ / فَكَيْفَ إِذَا) ihmalkârlığın doğurduğu çarpıcı sonuç hâlini ortaya koyar. Cümlede nakıs fiil/isim cümlesi önünde haber-i mukaddem, tam fiil önünde hâl veya mef'ûl-i mutlak nâibi olur.",
+      "derivatives": {
+        "كَيْفَ (62 geçiş)": "Yalın hâl, oluş biçimi ve mekanizma sorgulayıcısı/belirleyicisi (2:28, 2:259-260, 3:6, 5:31, 10:35, 25:45, 29:19-20, 30:42,48,50, 71:15, 74:19-20, 88:17-20, 105:1).",
+        "فَكَيْفَ (16 geçiş)": "Önceki olgu veya kural ihlalinin kaçınılmaz neticesi olan çarpıcı hâli yüzleştiren sonuç sorgusu (3:25, 4:41, 4:62, 7:93, 13:32, 22:44, 34:45, 35:26, 40:5, 47:27, 54:16,18,21,30, 67:18, 73:17).",
+        "وَكَيْفَ (5 geçiş)": "Açık kanıt, antlaşma veya bilgi sınırı ortadayken karşıt tutumun mantıksal imkânsızlığını vurgulayan yüzleştirme (3:101, 4:21, 5:43, 6:81, 18:68)."
       }
     }
   }
