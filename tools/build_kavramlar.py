@@ -840,6 +840,55 @@ ROOT_CONFIG = {
     },
 }
 
+_DYNAMIC_SPECS_PATH = os.path.join(DATA_DIR, 'root_build_specs.json')
+DYNAMIC_ROOT_SPECS = {}
+if os.path.exists(_DYNAMIC_SPECS_PATH):
+    with open(_DYNAMIC_SPECS_PATH, 'r', encoding='utf-8') as _sf:
+        DYNAMIC_ROOT_SPECS = json.load(_sf)
+    for _ar_root, _spec in DYNAMIC_ROOT_SPECS.items():
+        if _ar_root not in ROOT_CONFIG:
+            ROOT_CONFIG[_ar_root] = {
+                'buckwalter': _spec['buckwalter'],
+                'slug': _spec['slug'],
+                'concept_name': _spec['concept_name'],
+                'keywords': _spec.get('keywords', []),
+            }
+
+
+def _rule_matches(rule, lemma, pos, features, s, a, word_rasm=''):
+    ref = f"{s}:{a}"
+    ayahs = rule.get('ayahs')
+    if ayahs and ref not in ayahs:
+        return False
+    lemmas = rule.get('lemma')
+    if lemmas:
+        if isinstance(lemmas, str):
+            if lemma != lemmas:
+                return False
+        elif lemma not in lemmas:
+            return False
+    pos_req = rule.get('pos')
+    if pos_req:
+        if isinstance(pos_req, str):
+            if pos != pos_req:
+                return False
+        elif pos not in pos_req:
+            return False
+    feats = rule.get('features_contains')
+    if feats and not all(ft in features for ft in feats):
+        return False
+    feats_any = rule.get('features_any')
+    if feats_any and not any(ft in features for ft in feats_any):
+        return False
+    rasm_req = rule.get('rasm')
+    if rasm_req:
+        if isinstance(rasm_req, str):
+            if word_rasm != rasm_req:
+                return False
+        elif word_rasm not in rasm_req:
+            return False
+    return True
+
 
 def extract_turkish_snippet(full_tr, root_ar):
     """Uzun Türkçe ayetlerde kökün geçtiği cümle bağlamını çıkarır."""
@@ -7560,6 +7609,14 @@ def determine_literal_irab(root_ar, lemma, pos, features, s, a):
             return "Hangi tarz ve biçimde (`كَيْفَ`, fetha üzerine mebnî soru ismi — eylemin yapılış biçimini belirten mef'ûl-i mutlak nâibi)"
         return "Nasıl / hangi biçim ve işleyişle (`كَيْفَ`, fetha üzerine mebnî soru ismi — tam fiilin önünde öncelenmiş hâl)"
 
+    if root_ar in DYNAMIC_ROOT_SPECS:
+        spec = DYNAMIC_ROOT_SPECS[root_ar]
+        for rule in spec.get('irab_rules', []):
+            if _rule_matches(rule, lemma, pos, features, s, a):
+                return rule['label']
+        if spec.get('irab_default'):
+            return spec['irab_default']
+
     raise ValueError(f"Eşleşmeyen lemma: root={root_ar}, lemma={lemma}, ref={s}:{a}")
 
 
@@ -11388,6 +11445,14 @@ def generate_contextual_explanation(root_ar, word_uthmani, word_rasm, lemma, pos
         if (s, a) in {(2, 28), (3, 86), (3, 101), (4, 21), (5, 43), (6, 81), (9, 7), (9, 8), (10, 35), (18, 68), (19, 29), (37, 154), (68, 36), (74, 19), (74, 20)}:
             return "Açık olgu ve ölçüt karşısında mantıksal çelişki yüzleştirmesi (`2:28`, `3:86,101`, `4:21`, `5:43`, `6:81`, `9:7-8`, `10:35`, `18:68`, `19:29`, `37:154`, `68:36`, `74:19-20`): Diriltilmiş olma, sağlam ahit, elde metin bulunması veya bilgi sınırı gibi somut gerçekler ortadayken tutarsız davranışın, çarpık hüküm ölçütünün (`مَا لَكُمْ كَيْفَ تَحْكُمُونَ`) ve kurgusal çarpıtmanın (`كَيْفَ قَدَّرَ`) mantıksal zeminsizliğini açığa çıkarma."
         return "İletişim, kanıt tasrifi ve eylem niteliği incelemesi (`4:50`, `5:75`, `6:24,46,65`, `7:129`, `10:14`, `14:24`, `17:21,48`, `25:9`, `67:17`): Kanıtların farklı açılardan açıklanma biçimi (`كَيْفَ نُصَرِّفُ / نُبَيِّنُ`), örnek kurma yöntemleri (`كَيْفَ ضَرَبَ / ضَرَبُوا۟`), yalan uydurma biçimleri (`4:50`, `6:24`) ve toplumlara emanet edilen sorumlulukta nasıl iş ortaya koyduklarının sahada gözlemlenmesi (`7:129`, `10:14`)."
+
+    if root_ar in DYNAMIC_ROOT_SPECS:
+        spec = DYNAMIC_ROOT_SPECS[root_ar]
+        for cluster in spec.get('context_clusters', []):
+            if _rule_matches(cluster, lemma, pos, features, s, a, word_rasm):
+                return cluster['text']
+        if spec.get('context_default'):
+            return spec['context_default']
 
     raise ValueError(f"Açıklama üretilemedi: root={root_ar}, lemma={lemma}, ref={s}:{a}")
 
