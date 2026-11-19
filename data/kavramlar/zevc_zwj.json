@@ -1,0 +1,1681 @@
+{
+  "root": "ز-و-ج",
+  "root_latin": "Z-W-C (zwj)",
+  "concept_name": "Zevc / Ezvâc / Tezvîc (Tamamlayıcı Eş, Çift Kutuplu Bütünlük ve Sınıf Eşleşmesi)",
+  "rank": 136,
+  "total_occurrences": 81,
+  "unique_ayahs_count": 72,
+  "unified_core_mechanism": "Bir varlığın, türün veya bireyin tek başına kalmayıp kendisini tamamlayan, dengeleyen yahut kendisiyle aynı nitelik ve yörüngeyi paylaşan karşıt veya benzer eşleniğiyle birleşip çift/sınıf bütünlüğü kurması.",
+  "physical_core": "Bir nesnenin, canlının veya bireyin tek kalmayıp kendisini tamamlayan ve dengeleyen bir eşleniğe bitişip bağlanması (İbn Fâris: mukârenetü şey'in li-şey'; devenin hevdecine serilip onunla bütünleşen örtüye dahi 'zevc' denmesi ve iki unsurun aynı boyunduruğa koşulmuş eşleri gibi birbirini tamamlaması).",
+  "dictionary_arbitration": {
+    "ibn_faris": "Tek bir asıl tespit eder: Bir şeyin bir başka şeye bitişik eşleşmesi (mukârenetü şey'in li-şey'). Erkeğin de kadının da birbirinin 'zevc'i olmasını en fasih kullanım sayar; bitki türlerini ve hevdec örtüsünü dahi aynı eşleşme aslına bağlar.",
+    "lisan_al_arab": "Zevci tekilin (ferd/vitr) tam karşıtı olarak tanımlar; İbn Sîde, Asmaî ve İbnü'l-Enbârî'den nakille 'zevc'in iki nesne toplamı değil, bir dengi bulunan iki eşten her biri olduğunu kesinler (ayakkabı çiftine 'zevcâ ni'âl', erkek ve dişi güvercine 'zevcâ hamâm' denir). Gece-gündüz ve tatlı-ekşi gibi tamamlayıcı karşıtların, tür ve renklerin de 'zevc' sayıldığını belgeler. Halîl (el-Ayn) ise zevci karşılıklı hayat yoldaşı (aşîr) olarak tanımlar.",
+    "ragib_mufredat": "Eşleşen canlılardaki eril ve dişilden her birine, mes ile pabuç gibi birbirini tamamlayan her parçaya ve ister benzer ister karşıt olsun bir başka varlıkla eşleşen her şeye 'zevc' dendiğini belirtir; dişil 'zevce' kullanımını zayıf lehçe sayar.",
+    "arbitration_decision": "Semitik-tarihsel katman (Aramice/Süryanice zawgā ve Yunanca zeûgos 'boyunduruk/çift'), Kur'an içi Mesânî zıtları (و-ح-د tekil öz, ف-ر-ق ayırma, ع-ق-م kısırlık), 81 ayetlik stres testi (6:143 sekiz eş, 38:58 çeşitler, 56:7 üç zümre, 81:7 benliklerin eşleştirilmesi) ve بِـ harf-i cer vektörü ışığında; dar nikâh akdi indirgemesi ile 'bir zevc = iki adet' yanılsaması elenir. İbn Fâris, İbn Sîde ve Râgıb'ın sentezlediği 'dengi veya karşıt kutbuyla eşleşen tamamlayıcı unsur ve uyumlu sınıf' çekirdeği mühürlenir."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde bu anlamda geçmez. Mişna ve Rabbinik İbranicesinde Yunanca/Aramice aracılığıyla girmiş זוּג (zūg: 'çift, ikili, eş') ve denominatif fiil ziwwēg ('eşleştirmek, birleştirmek') olarak kullanılır. (Kitâb-ı Mukaddes'teki גוז 'kesmek/geçmek' ayrı köktür.)",
+    "aramaic_and_syriac": "Targum Aramicesinde (Neofiti, Yaratılış 2:18,20) זוּג (zūg: 'eş, tamamlayıcı ortak'); Süryanicede ܙܰܘܓܳܐ (zawgā: 'boyunduruk, çift, eş, benzer') ve denominatif fiil ܙܰܘܶܓ (zawweg: 'birleştirmek, eşleştirmek, evlendirmek').",
+    "akkadian": "Doğrudan eşkökenli tespit edilmedi.",
+    "geez_and_esa": "Klasik Ethiopic (Ge'ez) zawg ('çift, eş' — Nöldeke ve Leslau'ya göre Süryanice veya Arapça üzerinden ödünçleme). Eski Güney Arapça (Sebece/ESA) için doğrudan eşkökenli tespit edilmedi.",
+    "note": "Semitik filoloji konsensüsüne göre (Fraenkel, Nöldeke, Jeffery, Murtonen) Arapça zawj, Yunanca ζεῦγος (zeûgos: 'boyunduruk, çift, eş') sözcüğünden Aramice/Süryanice zawgā aracılığıyla İslam öncesi erken dönemde Arapçaya yerleşmiş kültür ödünçlemesidir; زَوَّجَ gibi fiil biçimleri bu isimden türetilmiştir (denominatif) ve fiziksel çekirdeği olan 'birbirine bağlanmış eşlenik çift' anlamıyla tam örtüşür."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "و-ح-د & أ-ح-د (Tekil Öz ve Eşsiz Mutlak Teklik: 4:1, 7:189, 39:6, 42:11, 51:49)",
+      "ف-ر-ق & ط-ل-ق (Eşlerin Arasını Ayırma ve Bağı Çözüp Boşama: 2:102, 2:230, 66:5)",
+      "ع-ق-م (Çift Kutuplu Üretkenlikten Yoksun Kısırlık: 42:50)"
+    ],
+    "key_ayahs": [
+      "4:1 & 7:189 & 39:6 (خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ/جَعَلَ مِنْهَا زَوْجَهَا)",
+      "42:11 (جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا ... لَيْسَ كَمِثْلِهِۦ شَىْءٌ)",
+      "2:102 (يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ)",
+      "42:50 (أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا)",
+      "2:230 & 66:5 (فَإِن طَلَّقَهَا ... زَوْجًا غَيْرَهُۥ / أَزْوَٰجًا)"
+    ],
+    "reverse_stress_test": "و-ح-د ('tekil ve eşsiz kalma'), ف-ر-ق / ط-ل-ق ('arayı ayırıp bağı çözme') ve ع-ق-م ('üretken eşleşmeden kapalı kısırlık') köklerinin Kur'an'daki tüm kullanımları tersine çevrildiğinde, istisnasız 'dengiyle bir araya gelip tamamlayıcı çift, eş veya uyumlu sınıf kurma' çekirdeği doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "زَوْج (Z-W-C) vs بَعْل (B-A-L) vs صَٰحِبَة (S-H-B) vs ٱمْرَأَة (M-R-E)",
+      "زَوْج (Z-W-C) vs نِكَاح (N-K-H) [2:230, 2:232, 33:53]",
+      "ٱلزَّوْجَيْنِ vs ٱلذَّكَرَ وَٱلْأُنثَىٰ [53:45, 75:39, 42:50]",
+      "أَزْوَٰج vs شَكْل [38:58] & مِثْل [42:11]"
+    ],
+    "mechanical_difference": "بَعْل yalnızca erkeğe özgü olup fiilî beraberliği ve evin üstleniciliğini, صَٰحِبَة sürekli yan yanalığı, ٱمْرَأَة biyolojik kadın kimliğini (uyum koptuğunda veya çocuksuzluk anında) vurgular; زَوْج ise erkek ve kadın ayrımı yapmadan karşılıklı tamamlayıcı eşleniği anlatır. نِكَاح hukukî evlilik sözleşmesi ve birleşme eylemi, زَوْج o bağın eşit taraflarıdır. ذَكَر ve أُنثَىٰ biyolojik kutupları, زَوْجَيْنِ ise bu iki kutbun tek yaşam döngüsünde bütünleşmiş eşlenik çiftini ifade eder."
+  },
+  "anchor_ayahs": [
+    "51:49 & 36:36 & 43:12 (وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ / خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا — tüm varlık âlemindeki çift kutuplu kuruluş yasası)",
+    "6:143 & 53:45 & 75:39 (ثَمَٰنِيَةَ أَزْوَٰجٍ / خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ — her eşten birinin 'zevc' oluşunun matematik ve biyoloji çapası)",
+    "13:3 & 20:53 & 22:5 & 50:7 (مِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ / مِن كُلِّ زَوْجٍۭ بَهِيجٍ — meyve ve bitkilerdeki çiftli tür düzeni)",
+    "30:21 & 7:189 (خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا — aynı özden var edilen ve yanında sükûnete erilen insanî eşlik)",
+    "56:7 & 37:22 & 81:7 (وَكُنتُمْ أَزْوَٰجًا ثَلَٰثَةً / وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ — benzer karakter ve eylem dengiyle kurulan zümre ve sınıf eşleşmesi)"
+  ],
+  "grammar_and_branch_rules": "1) Tekil زَوْج (18 geçiş): İki eşten her biri — ailede cinsiyet ayrımı olmaksızın erkek veya kadın eş (2:35, 2:230, 4:20, 21:90, 33:37, 58:1); botanikte kendi tür eşleniğiyle yetişen her bitki çeşidi (22:5, 26:7, 31:10, 50:7). 2) İkil زَوْجَان / زَوْجَيْن (7 geçiş): Birbirini tamamlayan iki kutbun toplam çifti (11:40, 13:3, 23:27, 51:49, 53:45, 55:52, 75:39). 3) Çoğul أَزْوَٰج (51 geçiş): Aile eşleri, esenlik yurdunda arınmış eşler, kozmik-biyolojik tür çiftleri (6:143, 36:36, 43:12), toplumsal kesimler (15:88, 20:131), zümreler (56:7), karakter yandaşları (37:22) ve benzer yaptırım çeşitleri (38:58). 4) Form II fiil زَوَّجَ / يُزَوِّجُ / زُوِّجَتْ (5 geçiş): Çift nesneyle evlilik bağı kurmak (33:37) veya erkek-dişi çocukları eşlenik bağışlamak (42:50); بِـ ile arı eşlerle yakınlaştırmak (44:54, 52:20); edilgen olarak benlikleri kendi dengi sınıfıyla eşleştirmek (81:7).",
+  "derivatives": {
+    "زَوْج / زَوْجَان / زَوْجَيْن / أَزْوَٰج (N - 76 geçiş)": "Bir dengi bulunan iki eşten her biri (tekil), tamamlayıcı ikili çift (ikil) ve aile eşleri, doğadaki tür çiftleri, toplumsal kesimler, karakter yandaşları ile eylem sınıfları (çoğul).",
+    "زَوَّجَ / يُزَوِّجُ / زُوِّجَتْ (Form II fiil - 5 geçiş)": "İki tarafı evlilik bağıyla eş kılmak (33:37), erkek ve dişi çocukları birlikte bağışlamak (42:50), arı eşlerle yakınlaştırıp eşleştirmek (44:54, 52:20) ve benlikleri kendi eylem dengiyle eşleştirmek (81:7)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 25,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:25",
+      "word_position": 30,
+      "target_word_uthmani": "أَزْوَٰجٌ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler ve yararlı işler yapanlara, kendilerine altlarından ırmaklar akan esenlik bahçeleri olduğunu müjdele. Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ve yararlı işler yapanlara, kendilerine altlarından ırmaklar akan esenlik bahçeleri olduğunu müjdele. Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. Onlara orada tertemiz eşler vardır ve orada temelli kalırlar.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 2,
+      "ayah": 35,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:35",
+      "word_position": 5,
+      "target_word_uthmani": "وَزَوْجُكَ",
+      "target_word_rasm": "وزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Eşin ve sen esenlik bahçesinde kal, orada olandan istediğiniz yerde bol bol yiyin, yalnız şu ağaca yaklaşmayın; yoksa zalimlerden olursunuz\" dedik.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Eşin ve sen esenlik bahçesinde kal, orada olandan istediğiniz yerde bol bol yiyin, yalnız şu ağaca yaklaşmayın; yoksa zalimlerden olursunuz\" dedik.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 2,
+      "ayah": 102,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:102",
+      "word_position": 42,
+      "target_word_uthmani": "وَزَوْجِهِۦ",
+      "target_word_rasm": "وزوجه",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ وَمَا هُم بِضَآرِّينَ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güçlerin Süleyman'ın hükümdarlığı hakkında söylediklerine uydular. Oysa Süleyman gerçeğin üzerini örten değildi, ama insanlara sihri öğreten sa...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ وَمَا كَفَرَ سُلَيْمَٰنُ وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ لَوْ كَانُوا۟ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güçlerin Süleyman'ın hükümdarlığı hakkında söylediklerine uydular. Oysa Süleyman gerçeğin üzerini örten değildi, ama insanlara sihri öğreten saptırıcı yıkıcı güçler gerçeğin üzerini örten olmuşlardı. Babil'de, kozmik görevli denilen Harut ve Marut'a bir şey indirilmemişti. Bu ikisi \"Biz sadece imtihan ediyoruz, sakın gerçeğin üzerini ört\" demedikçe kimseye bir şey öğretmezlerdi. Halbuki bu ikisinden, koca ile karısının arasını ayıracak şeyler öğreniyorlardı. Oysa Allah'ın izni olmadıkça onlar kimseye zarar veremezlerdi. Kendilerine zarar verecek, faydalı olmayacak şeyler öğreniyorlardı. And olsun ki, onu satın alanın ahiretten bir nasibi olmadığını biliyorlardı. Kendilerini karşılığında sattıkları şeyin ne kötü olduğunu keşke bilselerdi!",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 2,
+      "ayah": 230,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:230",
+      "word_position": 10,
+      "target_word_uthmani": "زَوْجًا",
+      "target_word_rasm": "زوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ فَإِن طَلَّقَهَا",
+      "context_snippet_turkish_tabula_rasa": "... Eğer ikinci koca da onu boşarsa, Allah'ın yasalarını koruyacaklarını sanırlarsa eski karı kocanın birbirlerine dönmelerine bir engel yoktur. Bunlar, bilenkimseler için Allah'ın açıkladığı yasalardır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan sonra kadını boşarsa, kadın başka birisiyle evlenmedikçe bir daha kendisine helal olmaz. Eğer ikinci koca da onu boşarsa, Allah'ın yasalarını koruyacaklarını sanırlarsa eski karı kocanın birbirlerine dönmelerine bir engel yoktur. Bunlar, bilenkimseler için Allah'ın açıkladığı yasalardır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 2,
+      "ayah": 232,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:232",
+      "word_position": 10,
+      "target_word_uthmani": "أَزْوَٰجَهُنَّ",
+      "target_word_rasm": "أزوجهن",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم",
+      "context_snippet_turkish_tabula_rasa": "Kadınları boşadığınızda, müddetleri sona ermişse, kocaları ile birbirleriyle güzellikle anlaşmışlarsa evlenmelerine engel olmayın. İçinizden Allah'a ve ahiret g...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınları boşadığınızda, müddetleri sona ermişse, kocaları ile birbirleriyle güzellikle anlaşmışlarsa evlenmelerine engel olmayın. İçinizden Allah'a ve ahiret gününe güvene eren kimse bundan ibret alır. Bu sizin için daha nezih ve daha paktır. Allah bilir, siz bilmezsiniz.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 2,
+      "ayah": 234,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:234",
+      "word_position": 5,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ",
+      "context_snippet_turkish_tabula_rasa": "... müddetleri sona erdiğinde, onların kendi haklarında uygun şekilde yaptıklarından dolayı size sorumluluk yoktur. Allah işlediklerinizden haberdardır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden ölenlerin bırakmış olduğu eşler kendi kendilerine dört ay on gün beklerler; müddetleri sona erdiğinde, onların kendi haklarında uygun şekilde yaptıklarından dolayı size sorumluluk yoktur. Allah işlediklerinizden haberdardır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 2,
+      "ayah": 240,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:240",
+      "word_position": 5,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَٰعًا",
+      "context_snippet_turkish_tabula_rasa": "İçinizden ölüp, eşler bırakacak olanlar, evlerinden çıkarılmaksızın, senesine kadar eşlerinin geçimini sağlayacak şeyi vasiyet etsinler; eğer çıkarlarsa kendilerinin meşru olarak yaptıklarından dolayı size sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden ölüp, eşler bırakacak olanlar, evlerinden çıkarılmaksızın, senesine kadar eşlerinin geçimini sağlayacak şeyi vasiyet etsinler; eğer çıkarlarsa kendilerinin meşru olarak yaptıklarından dolayı size sorumluluk yoktur. Allah güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 2,
+      "ayah": 240,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:240",
+      "word_position": 7,
+      "target_word_uthmani": "لِّأَزْوَٰجِهِم",
+      "target_word_rasm": "لأزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَٰعًا إِلَى ٱلْحَوْلِ",
+      "context_snippet_turkish_tabula_rasa": "İçinizden ölüp, eşler bırakacak olanlar, evlerinden çıkarılmaksızın, senesine kadar eşlerinin geçimini sağlayacak şeyi vasiyet etsinler; eğer çıkarlarsa kendilerinin meşru olarak yaptıklarından dolayı size sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden ölüp, eşler bırakacak olanlar, evlerinden çıkarılmaksızın, senesine kadar eşlerinin geçimini sağlayacak şeyi vasiyet etsinler; eğer çıkarlarsa kendilerinin meşru olarak yaptıklarından dolayı size sorumluluk yoktur. Allah güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 3,
+      "ayah": 15,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:15",
+      "word_position": 17,
+      "target_word_uthmani": "وَأَزْوَٰجٌ",
+      "target_word_rasm": "وأزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "... Bundan daha iyisini size haber vereyim mi? Allah'a karşı gelmekten sakınanlara, Rab'lerinin katında, altlarından ırmaklar akan ve orada temelli kalacakları esenlik bahçeleri, tertemiz eşler ve Allah'ın rızası vardır. Allah kullarını hakkiyle görücüdür.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Bundan daha iyisini size haber vereyim mi? Allah'a karşı gelmekten sakınanlara, Rab'lerinin katında, altlarından ırmaklar akan ve orada temelli kalacakları esenlik bahçeleri, tertemiz eşler ve Allah'ın rızası vardır. Allah kullarını hakkiyle görücüdür.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 4,
+      "ayah": 1,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:1",
+      "word_position": 12,
+      "target_word_uthmani": "زَوْجَهَا",
+      "target_word_rasm": "زوجها",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا",
+      "context_snippet_turkish_tabula_rasa": "... Kendisi adına birbirinizden dilekte bulunduğunuz Allah'ın ve akrabanın haklarına riayetsizliktende sakının. Allah şüphesiz hepinizi görüp gözetmektedir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Sizi bir tek tek bir candan ve özden yaratan, ondan eşini var eden ve ikisinden pek çok erkek ve kadın meydana getiren Rabb'inize hürmetsizlikten sakının. Kendisi adına birbirinizden dilekte bulunduğunuz Allah'ın ve akrabanın haklarına riayetsizliktende sakının. Allah şüphesiz hepinizi görüp gözetmektedir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 4,
+      "ayah": 12,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:12",
+      "word_position": 5,
+      "target_word_uthmani": "أَزْوَٰجُكُمْ",
+      "target_word_rasm": "أزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن",
+      "context_snippet_turkish_tabula_rasa": "Kadınlarınızın çocukları yoksa bıraktıklarının yarısı sizindir, çocukları varsa, bıraktıklarının ettikleri vasiyetten veya borçtan arta kalanın dörtte biri sizi...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَآ أَوْ دَيْنٍ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم مِّنۢ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَآ أَوْ دَيْنٍ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ مِنۢ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّ وَصِيَّةً مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlarınızın çocukları yoksa bıraktıklarının yarısı sizindir, çocukları varsa, bıraktıklarının ettikleri vasiyetten veya borçtan arta kalanın dörtte biri sizindir. Sizin çocuğunuz yoksa ettiğiniz vasiyet veya borç çıktıktan sonra bıraktıklarınızın dörtte biri karılarınızındır; çocuğunuz varsa, bıraktıklarınızın sekizde biri onlarındır. Eğer bir erkek veya kadına kelale yollu (çocuğu ve babası olmadığı halde) varis olunuyor ve bunların ana-bir erkek veya bir kız kardeşi bulunuyorsa, her birine edilen vasiyetten veya borçtan arta kalanın altıda biri düşer; ikiden çoksalar, üçte birine, zarara uğratılmaksızın ortak olurlar. Bunlar Allah tarafından tavsiye edilmiştir. Allah bilendir. Halim'dir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 4,
+      "ayah": 20,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:20",
+      "word_position": 4,
+      "target_word_uthmani": "زَوْجٍ",
+      "target_word_rasm": "زوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Bir eşin yerine başka bir eşi almak isterseniz, birincisine bir yük altın vermiş olsanız bile ondan bir şey almayın. İftira ederek ve apaçık sapma ve kusura gir...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir eşin yerine başka bir eşi almak isterseniz, birincisine bir yük altın vermiş olsanız bile ondan bir şey almayın. İftira ederek ve apaçık sapma ve kusura girerek ona verdiğinizi geri alır mısınız?",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 4,
+      "ayah": 20,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:20",
+      "word_position": 6,
+      "target_word_uthmani": "زَوْجٍ",
+      "target_word_rasm": "زوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا",
+      "context_snippet_turkish_tabula_rasa": "Bir eşin yerine başka bir eşi almak isterseniz, birincisine bir yük altın vermiş olsanız bile ondan bir şey almayın. İftira ederek ve apaçık sapma ve kusura gir...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنْ أَرَدتُّمُ ٱسْتِبْدَالَ زَوْجٍ مَّكَانَ زَوْجٍ وَءَاتَيْتُمْ إِحْدَىٰهُنَّ قِنطَارًا فَلَا تَأْخُذُوا۟ مِنْهُ شَيْـًٔا أَتَأْخُذُونَهُۥ بُهْتَٰنًا وَإِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir eşin yerine başka bir eşi almak isterseniz, birincisine bir yük altın vermiş olsanız bile ondan bir şey almayın. İftira ederek ve apaçık sapma ve kusura girerek ona verdiğinizi geri alır mısınız?",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 4,
+      "ayah": 57,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:57",
+      "word_position": 16,
+      "target_word_uthmani": "أَزْوَٰجٌ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "أَبَدًا لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı iş işleyenleri içinde temelli ve ebedi kalacakları, içlerinden ırmaklar akan esenlik bahçelerine koyacağız. Onlara orada tertemiz eşler vardır. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَنُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı iş işleyenleri içinde temelli ve ebedi kalacakları, içlerinden ırmaklar akan esenlik bahçelerine koyacağız. Onlara orada tertemiz eşler vardır. Onları en koyu gölgeliklere yerleştireceğiz.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 6,
+      "ayah": 139,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:139",
+      "word_position": 11,
+      "target_word_uthmani": "أَزْوَٰجِنَا",
+      "target_word_rasm": "أزوجنا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا وَإِن يَكُن مَّيْتَةً",
+      "context_snippet_turkish_tabula_rasa": "\"Bu hayvanların karınlarında olan yavrular yalnız erkeklerimize mahsus olup, eşlerimize yasaktır. Ölü doğacak olursa hepsi ona ortak olurlar\" dediler. Allah bu ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ سَيَجْزِيهِمْ وَصْفَهُمْ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu hayvanların karınlarında olan yavrular yalnız erkeklerimize mahsus olup, eşlerimize yasaktır. Ölü doğacak olursa hepsi ona ortak olurlar\" dediler. Allah bu türlü sözlerin cezasını verecektir, çünkü O hakimdir, bilendir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 6,
+      "ayah": 143,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:143",
+      "word_position": 2,
+      "target_word_uthmani": "أَزْوَٰجٍ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "Sekiz çift: Koyundan iki ve keçiden iki; de ki: \"İki erkeği mi, yoksa iki dişiyi mi veya o iki dişinin rahimlerinde bulunan yavruları mı haram kılmıştır? Doğru ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sekiz çift: Koyundan iki ve keçiden iki; de ki: \"İki erkeği mi, yoksa iki dişiyi mi veya o iki dişinin rahimlerinde bulunan yavruları mı haram kılmıştır? Doğru sözlü iseniz bana bilgiye dayanarak cevap verin.\"",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 7,
+      "ayah": 19,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:19",
+      "word_position": 4,
+      "target_word_uthmani": "وَزَوْجُكَ",
+      "target_word_rasm": "وزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Sen ve eşin esenlik bahçesinde kalın ve istediğiniz yerden yiyin, yalnız şu ağaca yaklaşmayın yoksa zalimlerden olursunuz.\"",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Sen ve eşin esenlik bahçesinde kalın ve istediğiniz yerden yiyin, yalnız şu ağaca yaklaşmayın yoksa zalimlerden olursunuz.\"",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 7,
+      "ayah": 189,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:189",
+      "word_position": 9,
+      "target_word_uthmani": "زَوْجَهَا",
+      "target_word_rasm": "زوجها",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا",
+      "context_snippet_turkish_tabula_rasa": "Sizi bir tek bir candan ve özden yaratan ve gönlünün huzura kavuşacağı eşini de ondan var eden Allah'tır. Eşine yaklaşınca, eşi hafif bir yük yüklendi ve bu hal...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek bir candan ve özden yaratan ve gönlünün huzura kavuşacağı eşini de ondan var eden Allah'tır. Eşine yaklaşınca, eşi hafif bir yük yüklendi ve bu halde bir müddet taşıdı. Hamileliği ağırlaşınca, karı-koca, Rableri olan Allah'a: \"Bize kusursuz bir çocuk verirsen, and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye yalvardılar.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 9,
+      "ayah": 24,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:24",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَزْوَٰجُكُمْ",
+      "target_word_rasm": "وأزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez.\"",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 11,
+      "ayah": 40,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:40",
+      "word_position": 12,
+      "target_word_uthmani": "زَوْجَيْنِ",
+      "target_word_rasm": "زوجين",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Buyruğumuz gelip tandırdan sular kaynamağa başlayınca, \"Her cinsten birer çifti ve aleyhine hüküm verilmiş olanın dışında kalan çoluk çocuğunu ve güvene erenler...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|NOM"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Buyruğumuz gelip tandırdan sular kaynamağa başlayınca, \"Her cinsten birer çifti ve aleyhine hüküm verilmiş olanın dışında kalan çoluk çocuğunu ve güvene erenleri gemiye bindir\" dedik. Pek az kimse onunla beraber güven duy.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 13,
+      "ayah": 3,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:3",
+      "word_position": 14,
+      "target_word_uthmani": "زَوْجَيْنِ",
+      "target_word_rasm": "زوجين",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ",
+      "context_snippet_turkish_tabula_rasa": "Yeri düzleyen, orada dağlar, nehirler var eden, her türlü üründen çift çift yetiştiren, gündüzü geceyle bürüyen de O'dur. Doğrusu bunlarda, düşünen kimseler içi...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|NOM"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeri düzleyen, orada dağlar, nehirler var eden, her türlü üründen çift çift yetiştiren, gündüzü geceyle bürüyen de O'dur. Doğrusu bunlarda, düşünen kimseler için ibretler vardır.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 13,
+      "ayah": 23,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:23",
+      "word_position": 8,
+      "target_word_uthmani": "وَأَزْوَٰجِهِمْ",
+      "target_word_rasm": "وأزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 13,
+      "ayah": 38,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:38",
+      "word_position": 8,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "قَبْلِكَ وَجَعَلْنَا لَهُمْ أَزْوَٰجًا وَذُرِّيَّةً وَمَا كَانَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın izni olmadan hiçbir elçi bir ayet getiremez. Her şeyin vakti ve süresi yazılıdır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ وَجَعَلْنَا لَهُمْ أَزْوَٰجًا وَذُرِّيَّةً وَمَا كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ لِكُلِّ أَجَلٍ كِتَابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, senden önce nice elçiler gönderdik; onlara eşler ve çocuklar verdik. Allah'ın izni olmadan hiçbir elçi bir ayet getiremez. Her şeyin vakti ve süresi yazılıdır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 15,
+      "ayah": 88,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:88",
+      "word_position": 8,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler içinde bazı kimselere verdiğimiz kat kat servete gözünü dikme, onlara üzülme; güvene erenleri kanatların altına al.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَٱخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler içinde bazı kimselere verdiğimiz kat kat servete gözünü dikme, onlara üzülme; güvene erenleri kanatların altına al.",
+      "contextual_meaning": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+    },
+    {
+      "surah": 16,
+      "ayah": 72,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:72",
+      "word_position": 6,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ",
+      "context_snippet_turkish_tabula_rasa": "Allah size kendinizden eşler var eder. Eşlerinizden de oğullar ve torunlar var eder. Size temiz şeylerden rızık verir. Öyleyken batıla güven duy ve Allah'ın nim...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden eşler var eder. Eşlerinizden de oğullar ve torunlar var eder. Size temiz şeylerden rızık verir. Öyleyken batıla güven duy ve Allah'ın nimetini gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 16,
+      "ayah": 72,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:72",
+      "word_position": 10,
+      "target_word_uthmani": "أَزْوَٰجِكُم",
+      "target_word_rasm": "أزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم",
+      "context_snippet_turkish_tabula_rasa": "Allah size kendinizden eşler var eder. Eşlerinizden de oğullar ve torunlar var eder. Size temiz şeylerden rızık verir. Öyleyken batıla güven duy ve Allah'ın nim...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden eşler var eder. Eşlerinizden de oğullar ve torunlar var eder. Size temiz şeylerden rızık verir. Öyleyken batıla güven duy ve Allah'ın nimetini gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 20,
+      "ayah": 53,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:53",
+      "word_position": 16,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "مَآءً فَأَخْرَجْنَا بِهِۦٓ أَزْوَٰجًا مِّن نَّبَاتٍ شَتَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sizin için yeryüzünü döşeyen, yollar açan, gökten su indiren O'dur. Biz o su ile türlü türlü, çift çift bitkiler yetiştirdik.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًا وَسَلَكَ لَكُمْ فِيهَا سُبُلًا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦٓ أَزْوَٰجًا مِّن نَّبَاتٍ شَتَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin için yeryüzünü döşeyen, yollar açan, gökten su indiren O'dur. Biz o su ile türlü türlü, çift çift bitkiler yetiştirdik.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 20,
+      "ayah": 117,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:117",
+      "word_position": 7,
+      "target_word_uthmani": "وَلِزَوْجِكَ",
+      "target_word_rasm": "ولزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "هَٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi esenlik bahçesinden çıkarmasın, yoksa bedbaht olursun. Doğrusu esenlik bahçesinde ne acıkırsın, ne de çıplak kalırsın; ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَقُلْنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوٌّ لَّكَ وَلِزَوْجِكَ فَلَا يُخْرِجَنَّكُمَا مِنَ ٱلْجَنَّةِ فَتَشْقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi esenlik bahçesinden çıkarmasın, yoksa bedbaht olursun. Doğrusu esenlik bahçesinde ne acıkırsın, ne de çıplak kalırsın; orada ne susarsın ne de güneşin sıcağında kalırsın\" dedik.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 20,
+      "ayah": 131,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:131",
+      "word_position": 8,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerini sınamak için, dünya hayatının süsü olarak bol bol geçimlik verdiğimiz kimselere sakın göz dikme, Rabbinin rızkı daha iyi ve daha devamlıdır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerini sınamak için, dünya hayatının süsü olarak bol bol geçimlik verdiğimiz kimselere sakın göz dikme, Rabbinin rızkı daha iyi ve daha devamlıdır.",
+      "contextual_meaning": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+    },
+    {
+      "surah": 21,
+      "ayah": 90,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:90",
+      "word_position": 8,
+      "target_word_uthmani": "زَوْجَهُۥٓ",
+      "target_word_rasm": "زوجه",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟ يُسَٰرِعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Biz de ona icabet ederek, Yahya'yı bahşetmiş, eşini de doğum yapacak hale getirmiştik. Doğrusu onlar iyi işlerde yarışıyorlar, korkarak ve umarak Bize yalvarıyo...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟ يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de ona icabet ederek, Yahya'yı bahşetmiş, eşini de doğum yapacak hale getirmiştik. Doğrusu onlar iyi işlerde yarışıyorlar, korkarak ve umarak Bize yalvarıyorlardı. Bize karşı gönülden saygı duyuyorlardı.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 22,
+      "ayah": 5,
+      "surah_name": "Hac",
+      "ayah_ref": "22:5",
+      "word_position": 68,
+      "target_word_uthmani": "زَوْجٍۭ",
+      "target_word_rasm": "زوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Öldükten sonra tekrar dirilmekten şüphede iseniz bilin ki, ne olduğunuzu size açıklamak için, Biz sizi topraktan sonra nutfeden, sonra pıhtılaşmış ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Öldükten sonra tekrar dirilmekten şüphede iseniz bilin ki, ne olduğunuzu size açıklamak için, Biz sizi topraktan sonra nutfeden, sonra pıhtılaşmış kandan, sonra da yapısı belli belirsiz bir çiğnem etten yaratmışızdır. Dilediğimizi belli bir süreye kadar rahimlerde tutarız; sonra sizi çocuk olarak çıkartırız, böylece yetişip erginlik çağına varırsınız. Kiminiz öldürülür, kiminiz de ömrünün en fena zamanına ulaştırılır ki, bilirken birşey bilmez olur. Yeryüzünü görürsün ki kupkurudur; fakat Biz ona su indirdiğimiz zaman harekete geçer, kabarır, her güzel bitkiden çift çift yetiştirir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 23,
+      "ayah": 6,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:6",
+      "word_position": 3,
+      "target_word_uthmani": "أَزْوَٰجِهِمْ",
+      "target_word_rasm": "أزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, eşleri ve cariyeleri dışında, mahrem yerlerini herkesten korurlar. Doğrusu bunlar yerilemezler.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, eşleri ve cariyeleri dışında, mahrem yerlerini herkesten korurlar. Doğrusu bunlar yerilemezler.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 23,
+      "ayah": 27,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:27",
+      "word_position": 17,
+      "target_word_uthmani": "زَوْجَيْنِ",
+      "target_word_rasm": "زوجين",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine ona şöyle vahyettik: \"Nezaretimiz altında, sana bildirdiğimiz gibi gemiyi yap; buyruğumuz gelip tandırdan sular kaynayınca her cinsten birer çifti...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|NOM"
+      },
+      "ayah_text_arabic_full": "فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine ona şöyle vahyettik: \"Nezaretimiz altında, sana bildirdiğimiz gibi gemiyi yap; buyruğumuz gelip tandırdan sular kaynayınca her cinsten birer çifti ve aleyhine hüküm verilmiş olanın dışında kalan çoluk çocuğunu alıp gemiye bindir. Haksızlık yapanlar için Bana baş vurma, çünkü onlar suda boğulacaklardır.\"",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 24,
+      "ayah": 6,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:6",
+      "word_position": 3,
+      "target_word_uthmani": "أَزْوَٰجَهُمْ",
+      "target_word_rasm": "أزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Karılarına zina isnat edip de kendilerinden başka şahidleri olmayanların şahidliği, kendisinin doğru sözlülerden olduğuna Allah'ı dört defa şahit tutmasıyla olu...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karılarına zina isnat edip de kendilerinden başka şahidleri olmayanların şahidliği, kendisinin doğru sözlülerden olduğuna Allah'ı dört defa şahit tutmasıyla olur. Beşincisinde, eğer yalancılardan ise Allah'ın lanetinin kendisine olmasını diler.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 25,
+      "ayah": 74,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:74",
+      "word_position": 7,
+      "target_word_uthmani": "أَزْوَٰجِنَا",
+      "target_word_rasm": "أزوجنا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlar: \"Rabbimiz! Bize eşlerimizden ve çocuklarımızdan gözümüzün aydınlığı olacak insanlar ihsan et ve bizi, Allah'a karşı gelmekten sakınanlara önder yap\" derl...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Rabbimiz! Bize eşlerimizden ve çocuklarımızdan gözümüzün aydınlığı olacak insanlar ihsan et ve bizi, Allah'a karşı gelmekten sakınanlara önder yap\" derler.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 26,
+      "ayah": 7,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:7",
+      "word_position": 10,
+      "target_word_uthmani": "زَوْجٍ",
+      "target_word_rasm": "زوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzüne bakmazlar mı? Orada, bitkilerden nice güzel çiftler yetiştirmişizdir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzüne bakmazlar mı? Orada, bitkilerden nice güzel çiftler yetiştirmişizdir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 26,
+      "ayah": 166,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:166",
+      "word_position": 7,
+      "target_word_uthmani": "أَزْوَٰجِكُم",
+      "target_word_rasm": "أزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم بَلْ أَنتُمْ قَوْمٌ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edi...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 30,
+      "ayah": 21,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:21",
+      "word_position": 8,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ",
+      "context_snippet_turkish_tabula_rasa": "... aranızda muhabbet ve rahmet var etmesi, O'nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden, kendileriyle huzura kavuşacağınız eşler yaratıp; aranızda muhabbet ve rahmet var etmesi, O'nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 31,
+      "ayah": 10,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:10",
+      "word_position": 26,
+      "target_word_uthmani": "زَوْجٍ",
+      "target_word_rasm": "زوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah gökleri gördüğünüz gibi direksiz yaratmış, sizi sallar diye yeryüzüne sabit dağlar koymuş; orada her türlü canlıyı yaymıştır. Gökten su indirip orada her ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah gökleri gördüğünüz gibi direksiz yaratmış, sizi sallar diye yeryüzüne sabit dağlar koymuş; orada her türlü canlıyı yaymıştır. Gökten su indirip orada her hoş çiftten yetiştirmişizdir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 33,
+      "ayah": 4,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:4",
+      "word_position": 11,
+      "target_word_uthmani": "أَزْوَٰجَكُمُ",
+      "target_word_rasm": "أزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah insanın içine iki kalp koymamıştır. Allah, zıhar yapmanız suretiyle eşlerinizi, anneleriniz gibi yaratmamıştır; evlatlıklarınızı da öz oğullarınız gibi sa...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah insanın içine iki kalp koymamıştır. Allah, zıhar yapmanız suretiyle eşlerinizi, anneleriniz gibi yaratmamıştır; evlatlıklarınızı da öz oğullarınız gibi saymanızı meşru kılmamıştır. Bunlar sizin dillerinize doladığınız boş sözlerdir. Allah gerçeği söylemektedir, doğru yola O eriştirir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 6,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:6",
+      "word_position": 6,
+      "target_word_uthmani": "وَأَزْوَٰجُهُۥٓ",
+      "target_word_rasm": "وأزوجه",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟ ٱلْأَرْحَامِ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerin, elçiyi kendi kendi benliklerinden çok sevmeleri gerekir; onun eşleri onların anneleridir; akraba olanlar, miras hususunda, Allah'ın Kitap'ında...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا كَانَ ذَٰلِكَ فِى ٱلْكِتَٰبِ مَسْطُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerin, elçiyi kendi kendi benliklerinden çok sevmeleri gerekir; onun eşleri onların anneleridir; akraba olanlar, miras hususunda, Allah'ın Kitap'ında birbirlerine güvene erenler ve muhacirlerden daha yakındırlar. Dostlarınıza yapacağınız uygun bir vasiyet bunun dışındadır. Bu Kitap'ta yazılı bulunmaktadır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 28,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:28",
+      "word_position": 4,
+      "target_word_uthmani": "لِّأَزْوَٰجِكَ",
+      "target_word_rasm": "لأزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi! Eşlerine şöyle söyle: \"Eğer dünya hayatını ve süslerini istiyorsanız gelin size bağışta bulunayım ve güzellikle salıvereyim.\"",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi! Eşlerine şöyle söyle: \"Eğer dünya hayatını ve süslerini istiyorsanız gelin size bağışta bulunayım ve güzellikle salıvereyim.\"",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 11,
+      "target_word_uthmani": "زَوْجَكَ",
+      "target_word_rasm": "زوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى",
+      "context_snippet_turkish_tabula_rasa": "... Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlardan çekiniyordun; oysa Allah'tan çekinmen daha uygundu. Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 31,
+      "target_word_uthmani": "زَوَّجْنَٰكَهَا",
+      "target_word_rasm": "زوجنكها",
+      "target_word_literal_irab": "Eş kıldı / eşleştirdi (زَوَّجْنَا — II. bab etken mâzi fiil; çift nesneyle evlilik bağı kurma veya بِـ ile dengiyle yakınlaştırma)",
+      "context_snippet_arabic": "زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "morphology": {
+        "lemma": "zuw~ijato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:zuw~ijato|ROOT:zwj|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlardan çekiniyordun; oysa Allah'tan çekinmen daha uygundu. Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 39,
+      "target_word_uthmani": "أَزْوَٰجِ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟",
+      "context_snippet_turkish_tabula_rasa": "... Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlardan çekiniyordun; oysa Allah'tan çekinmen daha uygundu. Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 50,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:50",
+      "word_position": 6,
+      "target_word_uthmani": "أَزْوَٰجَكَ",
+      "target_word_rasm": "أزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği cariyeleri, seninle beraber hicret eden amcanın kızlarını, halalarının kızlarını, dayının kı...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği cariyeleri, seninle beraber hicret eden amcanın kızlarını, halalarının kızlarını, dayının kızlarını, teyzelerinin kızlarını ve elçi nikahlanmayı dilediği takdirde güvene erenlerden ayrı, sırf sana mahsus olmak üzere kendisinin mehrini elçiye hibe eden güvene eren kadını almanı helal kılmışızdır. Bir zorluğa uğramaman için; güvene erenlerin eşleri ve cariyeleri hakkında onların üzerine neyi farz kılmış olduğumuzu bildirmiştik. Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 50,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:50",
+      "word_position": 50,
+      "target_word_uthmani": "أَزْوَٰجِهِمْ",
+      "target_word_rasm": "أزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği cariyeleri, seninle beraber hicret eden amcanın kızlarını, halalarının kızlarını, dayının kı...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği cariyeleri, seninle beraber hicret eden amcanın kızlarını, halalarının kızlarını, dayının kızlarını, teyzelerinin kızlarını ve elçi nikahlanmayı dilediği takdirde güvene erenlerden ayrı, sırf sana mahsus olmak üzere kendisinin mehrini elçiye hibe eden güvene eren kadını almanı helal kılmışızdır. Bir zorluğa uğramaman için; güvene erenlerin eşleri ve cariyeleri hakkında onların üzerine neyi farz kılmış olduğumuzu bildirmiştik. Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 52,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:52",
+      "word_position": 12,
+      "target_word_uthmani": "أَزْوَٰجٍ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Bundan sonra sana hiçbir kadın, cariyelerin bir yana, güzellikleri ne kadar hoşuna giderse gitsin, hiçbirini boşayıp başka bir eşle değiştirmen helal değildir. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan sonra sana hiçbir kadın, cariyelerin bir yana, güzellikleri ne kadar hoşuna giderse gitsin, hiçbirini boşayıp başka bir eşle değiştirmen helal değildir. Allah her şeyi gözetmektedir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 60,
+      "target_word_uthmani": "أَزْوَٰجَهُۥ",
+      "target_word_rasm": "أزوجه",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا",
+      "context_snippet_turkish_tabula_rasa": "... fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için de girip oturmayın. Bu haliniz elçi'i üzüyor, o da size bir şey söylemeye çekiniyordu. ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için de girip oturmayın. Bu haliniz elçi'i üzüyor, o da size bir şey söylemeye çekiniyordu. Allah gerçeği söylemekten çekinmez. elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. Bundan sonra ne Allah'ın elçi'ini üzmeniz ve ne de O'nuneşlerini nikahlamanız asla caiz değildir. Doğrusu bu, Allah katında büyük şeydir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 33,
+      "ayah": 59,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:59",
+      "word_position": 4,
+      "target_word_uthmani": "لِّأَزْوَٰجِكَ",
+      "target_word_rasm": "لأزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi! Eşlerine, kızlarına ve güvene erenlerin kadınlarına, dışarı çıkarken üstlerine örtü almalarını söyle; bu, onların hür ve namuslu bilinmelerini ve bunda...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi! Eşlerine, kızlarına ve güvene erenlerin kadınlarına, dışarı çıkarken üstlerine örtü almalarını söyle; bu, onların hür ve namuslu bilinmelerini ve bundan dolayı incitilmemelerini daha iyi sağlar. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 35,
+      "ayah": 11,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:11",
+      "word_position": 10,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "... Ömrü uzun olanın çok yaşaması ve ömürlerin azalması şüphesiz Kitap'dadır. Doğrusu bu Allah'a kolaydır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sizi topraktan, sonra nutfeden yaratmış, sonra da sizi çiftler halinde varetmiştir. Dişinin gebe kalması ve doğurması, ancak O'nun bilgisiyledir. Ömrü uzun olanın çok yaşaması ve ömürlerin azalması şüphesiz Kitap'dadır. Doğrusu bu Allah'a kolaydır.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 36,
+      "ayah": 36,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:36",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْأَزْوَٰجَ",
+      "target_word_rasm": "ٱلأزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "سُبْحَٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ",
+      "context_snippet_turkish_tabula_rasa": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden çift çift yaratan Allah münezzehtir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "سُبْحَٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden çift çift yaratan Allah münezzehtir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 36,
+      "ayah": 56,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:56",
+      "word_position": 2,
+      "target_word_uthmani": "وَأَزْوَٰجُهُمْ",
+      "target_word_rasm": "وأزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَٰلٍ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Onlar ve eşleri gölgeliklerde, tahtlar üzerine yaslanmışlardır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|NOM"
+      },
+      "ayah_text_arabic_full": "هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar ve eşleri gölgeliklerde, tahtlar üzerine yaslanmışlardır.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 37,
+      "ayah": 22,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:22",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَزْوَٰجَهُمْ",
+      "target_word_rasm": "وأزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "İlgililere şöyle emredilir: \"Zulmedenleri, onlarla işbirliği edenleri ve Allah'ı bırakıp da taptıklarını derleyin. Onları yakıcı yıkım yurdu yoluna koyun.\"",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İlgililere şöyle emredilir: \"Zulmedenleri, onlarla işbirliği edenleri ve Allah'ı bırakıp da taptıklarını derleyin. Onları yakıcı yıkım yurdu yoluna koyun.\"",
+      "contextual_meaning": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+    },
+    {
+      "surah": 38,
+      "ayah": 58,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:58",
+      "word_position": 4,
+      "target_word_uthmani": "أَزْوَٰجٌ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ",
+      "context_snippet_turkish_tabula_rasa": "Bunlara benzer daha başkaları da vardır...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَءَاخَرُ مِن شَكْلِهِۦٓ أَزْوَٰجٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlara benzer daha başkaları da vardır...",
+      "contextual_meaning": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+    },
+    {
+      "surah": 39,
+      "ayah": 6,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:6",
+      "word_position": 8,
+      "target_word_uthmani": "زَوْجَهَا",
+      "target_word_rasm": "زوجها",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "... işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka sığınak mercii (ilâh) yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|ACC"
+      },
+      "ayah_text_arabic_full": "خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek tek bir candan ve özden yaratmış, sonra ondan eşini varetmiştir; sizin için hayvanlardan sekiz çift meydana getirmiştir; sizi annelerinizin karınlarında üç türlü karanlık içinde, yaratılıştan yaratılışa geçirerek yaratmıştır; işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka sığınak mercii (ilâh) yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 39,
+      "ayah": 6,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:6",
+      "word_position": 14,
+      "target_word_uthmani": "أَزْوَٰجٍ",
+      "target_word_rasm": "أزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ",
+      "context_snippet_turkish_tabula_rasa": "... işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka sığınak mercii (ilâh) yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek tek bir candan ve özden yaratmış, sonra ondan eşini varetmiştir; sizin için hayvanlardan sekiz çift meydana getirmiştir; sizi annelerinizin karınlarında üç türlü karanlık içinde, yaratılıştan yaratılışa geçirerek yaratmıştır; işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka sığınak mercii (ilâh) yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 40,
+      "ayah": 8,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:8",
+      "word_position": 11,
+      "target_word_uthmani": "وَأَزْوَٰجِهِمْ",
+      "target_word_rasm": "وأزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ إِنَّكَ أَنتَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! güvene erenleri ve babalarından, eşlerinden, soylarından iyi olanları, kendilerine söz verdiğin Adn esenlik bahçelerine koy; şüphesiz güçlü olan, Hakim olan ancak Sensin\"",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! güvene erenleri ve babalarından, eşlerinden, soylarından iyi olanları, kendilerine söz verdiğin Adn esenlik bahçelerine koy; şüphesiz güçlü olan, Hakim olan ancak Sensin\"",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 42,
+      "ayah": 11,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:11",
+      "word_position": 8,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا",
+      "context_snippet_turkish_tabula_rasa": "... Bu suretle, çoğalmanızı sağlamıştır. O'nun benzeri hiçbir şey yoktur. O, işitendir, görendir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin yaratanı, size içinizden eşler, çift çift hayvanlar var etmiştir. Bu suretle, çoğalmanızı sağlamıştır. O'nun benzeri hiçbir şey yoktur. O, işitendir, görendir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 42,
+      "ayah": 11,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:11",
+      "word_position": 11,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ",
+      "context_snippet_turkish_tabula_rasa": "... Bu suretle, çoğalmanızı sağlamıştır. O'nun benzeri hiçbir şey yoktur. O, işitendir, görendir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin yaratanı, size içinizden eşler, çift çift hayvanlar var etmiştir. Bu suretle, çoğalmanızı sağlamıştır. O'nun benzeri hiçbir şey yoktur. O, işitendir, görendir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 42,
+      "ayah": 50,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:50",
+      "word_position": 2,
+      "target_word_uthmani": "يُزَوِّجُهُمْ",
+      "target_word_rasm": "يزوجهم",
+      "target_word_literal_irab": "Çift olarak birleştirip veriyor (يُزَوِّجُ — II. bab etken muzâri fiil; erkek ve dişi çocukları birlikte bağışlama)",
+      "context_snippet_arabic": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ",
+      "context_snippet_turkish_tabula_rasa": "Yahut hem kız hem erkek çocuk verir, dilediğini de kısır kılar. O, bilendir, her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "zuw~ijato",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:zuw~ijato|ROOT:zwj|3MS"
+      },
+      "ayah_text_arabic_full": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا إِنَّهُۥ عَلِيمٌ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut hem kız hem erkek çocuk verir, dilediğini de kısır kılar. O, bilendir, her şeye Kadir'dir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 43,
+      "ayah": 12,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:12",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْأَزْوَٰجَ",
+      "target_word_rasm": "ٱلأزوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم",
+      "context_snippet_turkish_tabula_rasa": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak: \"Bunları buyruğumuza veren ne yücedir; zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz\" demeniz içindir.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 43,
+      "ayah": 70,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:70",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَزْوَٰجُكُمْ",
+      "target_word_rasm": "وأزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şöyle denir: \"Siz ve eşleriniz, ağırlanmış olarak esenlik bahçesine giriniz.\"",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱدْخُلُوا۟ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَٰجُكُمْ تُحْبَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle denir: \"Siz ve eşleriniz, ağırlanmış olarak esenlik bahçesine giriniz.\"",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 44,
+      "ayah": 54,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:54",
+      "word_position": 2,
+      "target_word_uthmani": "وَزَوَّجْنَٰهُم",
+      "target_word_rasm": "وزوجنهم",
+      "target_word_literal_irab": "Eş kıldı / eşleştirdi (زَوَّجْنَا — II. bab etken mâzi fiil; çift nesneyle evlilik bağı kurma veya بِـ ile dengiyle yakınlaştırma)",
+      "context_snippet_arabic": "كَذَٰلِكَ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu böyledir; onları iri siyah gözlü hurilerle eşlendiririz.",
+      "morphology": {
+        "lemma": "zuw~ijato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:zuw~ijato|ROOT:zwj|1P"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu böyledir; onları iri siyah gözlü hurilerle eşlendiririz.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 50,
+      "ayah": 7,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:7",
+      "word_position": 10,
+      "target_word_uthmani": "زَوْجٍۭ",
+      "target_word_rasm": "زوج",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a yönelen her kula öğüt ve bir belge olarak yeryüzünü yaydık, oraya sabit dağlar yerleştirdik, orada her güzel türden yetiştirdik.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a yönelen her kula öğüt ve bir belge olarak yeryüzünü yaydık, oraya sabit dağlar yerleştirdik, orada her güzel türden yetiştirdik.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 51,
+      "ayah": 49,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:49",
+      "word_position": 5,
+      "target_word_uthmani": "زَوْجَيْنِ",
+      "target_word_rasm": "زوجين",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "İbret alasınız diye her şeyi çift çift yaratmışızdır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbret alasınız diye her şeyi çift çift yaratmışızdır.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 52,
+      "ayah": 20,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:20",
+      "word_position": 5,
+      "target_word_uthmani": "وَزَوَّجْنَٰهُم",
+      "target_word_rasm": "وزوجنهم",
+      "target_word_literal_irab": "Eş kıldı / eşleştirdi (زَوَّجْنَا — II. bab etken mâzi fiil; çift nesneyle evlilik bağı kurma veya بِـ ile dengiyle yakınlaştırma)",
+      "context_snippet_arabic": "عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz.",
+      "morphology": {
+        "lemma": "zuw~ijato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:zuw~ijato|ROOT:zwj|1P"
+      },
+      "ayah_text_arabic_full": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 53,
+      "ayah": 45,
+      "surah_name": "Necm",
+      "ayah_ref": "53:45",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلزَّوْجَيْنِ",
+      "target_word_rasm": "ٱلزوجين",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 55,
+      "ayah": 52,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:52",
+      "word_position": 5,
+      "target_word_uthmani": "زَوْجَانِ",
+      "target_word_rasm": "زوجان",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "مِن كُلِّ فَٰكِهَةٍ زَوْجَانِ",
+      "context_snippet_turkish_tabula_rasa": "Bu esenlik bahçelerinde türlü meyveden çift çift vardır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|NOM"
+      },
+      "ayah_text_arabic_full": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍ زَوْجَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu esenlik bahçelerinde türlü meyveden çift çift vardır.",
+      "contextual_meaning": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+    },
+    {
+      "surah": 56,
+      "ayah": 7,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:7",
+      "word_position": 2,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَكُنتُمْ أَزْوَٰجًا ثَلَٰثَةً",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكُنتُمْ أَزْوَٰجًا ثَلَٰثَةً",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz.",
+      "contextual_meaning": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+    },
+    {
+      "surah": 58,
+      "ayah": 1,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:1",
+      "word_position": 8,
+      "target_word_uthmani": "زَوْجِهَا",
+      "target_word_rasm": "زوجها",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Kocası hakkında seninle tartışan ve Allah'a şikayette bulunan kadının sözünü Allah işitmiştir; esasen Allah konuşmanızı işitir. Doğrusu Allah işitendir, görendir.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسْمَعُ تَحَاوُرَكُمَآ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kocası hakkında seninle tartışan ve Allah'a şikayette bulunan kadının sözünü Allah işitmiştir; esasen Allah konuşmanızı işitir. Doğrusu Allah işitendir, görendir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 60,
+      "ayah": 11,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:11",
+      "word_position": 5,
+      "target_word_uthmani": "أَزْوَٰجِكُمْ",
+      "target_word_rasm": "أزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene eren erkekler! Eğer gerçeğin üzerini örten (gerçeğin üzerini örten olan) eşlerinize sarfettiklerinizden gerçeğin üzerini örtenlere bir şey geçecek olu...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene eren erkekler! Eğer gerçeğin üzerini örten (gerçeğin üzerini örten olan) eşlerinize sarfettiklerinizden gerçeğin üzerini örtenlere bir şey geçecek olursa ganimetten, eşleri giden güvene eren erkeklere dolaşıma sokup paylaştıkları miktar kadarını verin. güven duy Allah'a karşı gelmekten sakının.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 60,
+      "ayah": 11,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:11",
+      "word_position": 12,
+      "target_word_uthmani": "أَزْوَٰجُهُم",
+      "target_word_rasm": "أزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene eren erkekler! Eğer gerçeğin üzerini örten (gerçeğin üzerini örten olan) eşlerinize sarfettiklerinizden gerçeğin üzerini örtenlere bir şey geçecek olu...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene eren erkekler! Eğer gerçeğin üzerini örten (gerçeğin üzerini örten olan) eşlerinize sarfettiklerinizden gerçeğin üzerini örtenlere bir şey geçecek olursa ganimetten, eşleri giden güvene eren erkeklere dolaşıma sokup paylaştıkları miktar kadarını verin. güven duy Allah'a karşı gelmekten sakının.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 64,
+      "ayah": 14,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:14",
+      "word_position": 6,
+      "target_word_uthmani": "أَزْوَٰجِكُمْ",
+      "target_word_rasm": "أزوجكم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَٰدِكُمْ عَدُوًّا لَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Eşleriniz ve çocuklarınızdan size düşmanlık edenler olur, onlardan sakının; ama, siz affeder, suçlarını örter ve bağışlarsanız bilin ki Allah...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Eşleriniz ve çocuklarınızdan size düşmanlık edenler olur, onlardan sakının; ama, siz affeder, suçlarını örter ve bağışlarsanız bilin ki Allah da bağışlar ve acır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 66,
+      "ayah": 1,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:1",
+      "word_position": 11,
+      "target_word_uthmani": "أَزْوَٰجِكَ",
+      "target_word_rasm": "أزوجك",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine yasak ediyorsun? Allah bağışlayandır, acıyandır.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine yasak ediyorsun? Allah bağışlayandır, acıyandır.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 66,
+      "ayah": 3,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:3",
+      "word_position": 6,
+      "target_word_uthmani": "أَزْوَٰجِهِۦ",
+      "target_word_rasm": "أزوجه",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ",
+      "context_snippet_turkish_tabula_rasa": "elçi, eşlerinden birine gizlice bir söz söylemişti. O, bunu elçinin diğer bir eşine haber verince, Allah da elçiye durumu bildirmiş, o da bir kısmını yüzüne vur...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "elçi, eşlerinden birine gizlice bir söz söylemişti. O, bunu elçinin diğer bir eşine haber verince, Allah da elçiye durumu bildirmiş, o da bir kısmını yüzüne vurmuş bir kısmını yüzüne vurmaktan geri durmuştu. Eşine, gizlice söylediği şeyibaşkasına nakletmiş olduğunu bildirince, eşi: \"Bunu sana kim haber verdi?\" demiş, o da: \"Bana, herşeyi bilen ve herşeyden haberdar olan Allah haber verdi\" demişti.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 66,
+      "ayah": 5,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:5",
+      "word_position": 7,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi'in eşleri! Eğer o sizi boşarsa, Rabbi ona; sizden daha iyi olan, kendini Allah'a veren, güvene eren, boyun eğen, tevbe eden, kulluk eden, öz denetim ve ...",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَٰتٍ مُّؤْمِنَٰتٍ قَٰنِتَٰتٍ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍ سَٰٓئِحَٰتٍ ثَيِّبَٰتٍ وَأَبْكَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi'in eşleri! Eğer o sizi boşarsa, Rabbi ona; sizden daha iyi olan, kendini Allah'a veren, güvene eren, boyun eğen, tevbe eden, kulluk eden, öz denetim ve sakınma tutan, dul ve bakire eşler verebilir.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 70,
+      "ayah": 30,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:30",
+      "word_position": 3,
+      "target_word_uthmani": "أَزْوَٰجِهِمْ",
+      "target_word_rasm": "أزوجهم",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ",
+      "context_snippet_turkish_tabula_rasa": "Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler.",
+      "contextual_meaning": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+    },
+    {
+      "surah": 75,
+      "ayah": 39,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:39",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلزَّوْجَيْنِ",
+      "target_word_rasm": "ٱلزوجين",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Ondan, erkek, dişi iki cins yaratmıştı.",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MD|ACC"
+      },
+      "ayah_text_arabic_full": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Ondan, erkek, dişi iki cins yaratmıştı.",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 78,
+      "ayah": 8,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:8",
+      "word_position": 2,
+      "target_word_uthmani": "أَزْوَٰجًا",
+      "target_word_rasm": "أزوجا",
+      "target_word_literal_irab": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)",
+      "context_snippet_arabic": "وَخَلَقْنَٰكُمْ أَزْوَٰجًا",
+      "context_snippet_turkish_tabula_rasa": "Sizi çift çift yarattık;",
+      "morphology": {
+        "lemma": "zawoj",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:zawoj|ROOT:zwj|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَخَلَقْنَٰكُمْ أَزْوَٰجًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi çift çift yarattık;",
+      "contextual_meaning": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+    },
+    {
+      "surah": 81,
+      "ayah": 7,
+      "surah_name": "Tekvîr",
+      "ayah_ref": "81:7",
+      "word_position": 3,
+      "target_word_uthmani": "زُوِّجَتْ",
+      "target_word_rasm": "زوجت",
+      "target_word_literal_irab": "Eşleştirildi / dengiyle birleştirildi (زُوِّجَتْ — II. bab edilgen mâzi fiil; nâib-i fâil kendi sınıf ve dengiyle buluşan benlikler)",
+      "context_snippet_arabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "context_snippet_turkish_tabula_rasa": "Canlar bedenlerle birleştirildiği zaman;",
+      "morphology": {
+        "lemma": "zuw~ijato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:zuw~ijato|ROOT:zwj|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "ayah_text_turkish_tabula_rasa_full": "Canlar bedenlerle birleştirildiği zaman;",
+      "contextual_meaning": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+    }
+  ]
+}

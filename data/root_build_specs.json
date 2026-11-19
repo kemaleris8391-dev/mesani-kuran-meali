@@ -163,5 +163,143 @@
       }
     ],
     "context_default": "Bir nesnenin, canın, mekânın, zamanın veya kaynağın etrafına geçilmez bir engelleme kilidi ve koruma sınırı çekerek erişimi kapatma mekanizması."
+  },
+  "ز-و-ج": {
+    "buckwalter": "zwj",
+    "slug": "zevc_zwj",
+    "concept_name": "Zevc / Ezvâc / Tezvîc (Tamamlayıcı Eş, Çift Kutuplu Bütünlük ve Sınıf Eşleşmesi)",
+    "keywords": [
+      "zevc",
+      "es",
+      "cift",
+      "ezvac",
+      "eslesme",
+      "tur",
+      "zumre"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "zuw~ijato",
+        "features_contains": [
+          "PERF",
+          "PASS"
+        ],
+        "label": "Eşleştirildi / dengiyle birleştirildi (زُوِّجَتْ — II. bab edilgen mâzi fiil; nâib-i fâil kendi sınıf ve dengiyle buluşan benlikler)"
+      },
+      {
+        "lemma": "zuw~ijato",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Eş kıldı / eşleştirdi (زَوَّجْنَا — II. bab etken mâzi fiil; çift nesneyle evlilik bağı kurma veya بِـ ile dengiyle yakınlaştırma)"
+      },
+      {
+        "lemma": "zuw~ijato",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Çift olarak birleştirip veriyor (يُزَوِّجُ — II. bab etken muzâri fiil; erkek ve dişi çocukları birlikte bağışlama)"
+      },
+      {
+        "lemma": "zawoj",
+        "label": "Eş / tamamlayıcı çift / tür / zümre (زَوْج / زَوْجَان / أَزْوَٰج — isim; tekilde iki eşten her biri, ikilde çift kutup, çoğulda eşler, türler veya sınıflar)"
+      }
+    ],
+    "irab_default": "Tamamlayıcı eş, çift kutuplu bütünlük veya eşleştirme eylemi (ز-و-ج kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "4:1",
+          "6:143",
+          "7:189",
+          "11:40",
+          "13:3",
+          "20:53",
+          "22:5",
+          "23:27",
+          "26:7",
+          "31:10",
+          "35:11",
+          "36:36",
+          "39:6",
+          "42:11",
+          "42:50",
+          "43:12",
+          "50:7",
+          "51:49",
+          "53:45",
+          "75:39",
+          "78:8"
+        ],
+        "text": "Kozmik ve biyolojik çift kutupluluk yasası: Yalnız Mutlak Yaratıcı eşsiz ve benzersiz Tek'tir (42:11); buna karşılık insandan hayvanlara, bitkilerden meyvelere ve henüz bilinmeyen tüm varlık katmanlarına kadar bütün evren tamamlayıcı çiftler ve uyumlu türler (زَوْجَيْنِ / أَزْوَٰج) hâlinde kurulmuştur (36:36, 51:49, 53:45)."
+      },
+      {
+        "ayahs": [
+          "2:35",
+          "2:102",
+          "2:230",
+          "2:232",
+          "2:234",
+          "2:240",
+          "4:12",
+          "4:20",
+          "6:139",
+          "7:19",
+          "9:24",
+          "13:38",
+          "16:72",
+          "20:117",
+          "21:90",
+          "23:6",
+          "24:6",
+          "25:74",
+          "26:166",
+          "30:21",
+          "33:4",
+          "33:6",
+          "33:28",
+          "33:37",
+          "33:50",
+          "33:52",
+          "33:53",
+          "33:59",
+          "58:1",
+          "60:11",
+          "64:14",
+          "66:1",
+          "66:3",
+          "66:5",
+          "70:30"
+        ],
+        "text": "Aile bütünlüğü, evlilik hukuku ve karşılıklı eşlik: Erkek ve kadın ayrımı yapmadan her iki tarafı da birbirinin eşit tamamlayıcısı (زَوْج) sayan düzen; aynı özden yaratılan eşlerde sükûnet, sevgi ve şefkat bağı (30:21), miras, boşanma, bekleme süresi, iffet ve evlatlık sınırı hukuku (2:230-240, 4:12,20, 33:37, 58:1, 60:11) ile aile bağının ilke sınavı (9:24, 64:14)."
+      },
+      {
+        "ayahs": [
+          "15:88",
+          "20:131",
+          "37:22",
+          "38:58",
+          "56:7",
+          "81:7"
+        ],
+        "text": "Toplumsal kesimler, zümreler ve eylem denkliğine göre eşleşme: Dünyada geçici refahla sınanan kesimler (15:88, 20:131), aynı zulüm çizgisinde buluşan karakter yandaşları (37:22), benzer yapıda yaptırım çeşitleri (38:58), insanlığın üç ana sınıfa ayrılması (56:7) ve büyük dönüşümde her benliğin kendi eylem dengiyle eşleştirilmesi (81:7)."
+      },
+      {
+        "ayahs": [
+          "2:25",
+          "3:15",
+          "4:57",
+          "13:23",
+          "36:56",
+          "40:8",
+          "43:70",
+          "44:54",
+          "52:20",
+          "55:52"
+        ],
+        "text": "Sonuç yurdunda arınmış eşlik ve esenlik bütünlüğü: Esenlik bahçelerinde kusurdan ve kirden arındırılmış eşler (2:25, 3:15, 4:57), erdemli atalar-eşler-nesillerin bir araya toplanması (13:23, 36:56, 40:8, 43:70), arı eşlerle yakınlaştırma (44:54, 52:20) ve her meyvenin çiftli bolluğu (55:52)."
+      }
+    ],
+    "context_default": "Bir varlığın, türün veya bireyin tek başına kalmayıp kendisini tamamlayan yahut aynı nitelik ve yörüngeyi paylaşan karşıt ya da benzer eşleniğiyle bütünlük kurması."
   }
 }

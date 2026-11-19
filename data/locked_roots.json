@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 32/100 — Toplam 137 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 33/100 — Toplam 138 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -14331,6 +14331,85 @@
         "مُحَرَّم / مُحَرَّمَة (5 geçiş)": "Erişime veya saldırıya kapatılmış sözleşme yasağı (2:85), toprak (5:26), gıda (6:139, 6:145) ve dokunulmaz ev (14:37).",
         "مَحْرُوم (4 geçiş)": "Geçim veya mahsul akışına erişimi engellenerek yoksun kalmış kişi (51:19, 56:67, 68:27, 70:25).",
         "حُرُمَٰت (2 geçiş)": "İhlale kapalı dokunulmaz hak, zaman ve mekân sınırları (2:194, 22:30)."
+      }
+    },
+    "ز-و-ج": {
+      "root_latin": "Z-W-C (zwj)",
+      "arabic": "ز-و-ج",
+      "rank": 136,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "ازوج / ازوجهم / ازوجكم (أَزْوَٰجٌ / أَزْوَٰجِهِمْ / أَزْوَٰجُكُمْ — med elifi hazfedilmiş iskelet: Kahire qāf 47 [4:57], Chester Beatty Is 1615I [33:50], BnF Arabe 334 [13:23], Marcel 17 [4:12])",
+          "ازوجا (أَزْوَٰجًا — med elifi hazfedilmiş, mansûb tenvin elifiyle: BnF Arabe 325 [13:38, 15:88])",
+          "زوجنكها / وزوجنهم (33:37 زَوَّجْنَٰكَهَا, 44:54 & 52:20 وَزَوَّجْنَٰهُم — zamir نا sonrası bitişik zamir sebebiyle elif hazifli iskelet)",
+          "زوجت (81:7 وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ — Qatar National Library HC.MS.03155 yazmasında sabit iskelet)",
+          "زوج / زوجين (4:20 زوج مکاں زوج [qāf 47], 51:49 زوجين [Rusya Bilimler Akademisi yazması]; 11:40 & 23:27 مں کل زوجٮں اٮٮٮں iskeleti Hafs كُلٍّ ve cumhur كُلِّ kıraatlerine açık)"
+        ],
+        "verb_forms_used": [
+          "Form II (زَوَّجَ / يُزَوِّجُ / زُوِّجَتْ — 5 geçiş: 3 etken mâzi [33:37, 44:54, 52:20], 1 etken muzâri [42:50], 1 edilgen mâzi [81:7]; Kur'an'da başka fiil babı yoktur)"
+        ],
+        "preposition_patterns": [
+          "زَوَّجَ + çift doğrudan nesne (iki tarafı aile bağıyla [33:37] veya erkek-dişi çocuk eşleriyle [42:50] birleştirip vermek)",
+          "زَوَّجَ + بِـ (قَرَنَ بِـ yapısıyla arı ve uyumlu eşlerle yakınlaştırıp eşleştirmek: 44:54, 52:20)",
+          "مِنْ أَنفُسِكُمْ / مِن نَّفْسٍ وَٰحِدَةٍ + زَوْج / أَزْوَٰج (eşlerin aynı özden ve aynı insanî düzeyden var edilişi: 4:1, 7:189, 16:72, 30:21, 39:6, 42:11)",
+          "مِن كُلِّ + زَوْج / زَوْجَيْنِ (doğadaki tüm bitki, meyve, canlı ve varlık türlerindeki ikili eşleşme: 11:40, 13:3, 22:5, 23:27, 26:7, 31:10, 50:7, 51:49, 55:52)"
+        ],
+        "approx_frequency": "81 geçiş / 72 ayet (43 sure — referans amaçlı)"
+      },
+      "physical_core": "Bir nesnenin, canlının veya bireyin tek kalmayıp kendisini tamamlayan ve dengeleyen bir eşleniğe bitişip bağlanması (İbn Fâris: mukârenetü şey'in li-şey'; devenin hevdecine serilip onunla bütünleşen örtüye dahi 'zevc' denmesi ve iki unsurun aynı boyunduruğa koşulmuş eşleri gibi birbirini tamamlaması).",
+      "ibn_faris_asl": {
+        "text": "الزَّاءُ وَالْوَاوُ وَالْجِيمُ أَصْلٌ يَدُلُّ عَلَى مُقَارَنَةِ شَيْءٍ لِشَيْءٍ. مِنْ ذَلِكَ الزَّوْجُ زَوْجُ الْمَرْأَةِ، وَالْمَرْأَةُ زَوْجُ بَعْلِهَا، وَهُوَ الْفَصِيحُ. قَالَ اللَّهُ جَلَّ ثَنَاؤُهُ: {اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ}... فَأَمَّا قَوْلُهُ جَلَّ وَعَزَّ فِي ذِكْرِ النَّبَاتِ: {مِنْ كُلِّ زَوْجٍ بَهِيجٍ}، فَيُقَالُ أَرَادَ بِهِ اللَّوْنَ... وَهَذَا لَا يَبْعُدُ أَنْ يَكُونَ مِنَ الَّذِي ذَكَرْنَاهُ؛ لِأَنَّهُ يُزَوِّجُ غَيْرَهُ مِمَّا يُقَارِبُهُ. وَكَذَلِكَ قَوْلُهُمْ لِلنَّمَطِ الَّذِي يُطْرَحُ عَلَى الْهَوْدَجِ زَوْجٌ؛ لِأَنَّهُ زَوْجٌ لِمَا يُلْقَى عَلَيْهِ.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (زوج maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Tek bir asıl tespit eder: Bir şeyin bir başka şeye bitişik eşleşmesi (mukârenetü şey'in li-şey'). Erkeğin de kadının da birbirinin 'zevc'i olmasını en fasih kullanım sayar; bitki türlerini ve hevdec örtüsünü dahi aynı eşleşme aslına bağlar.",
+        "lisan_al_arab": "Zevci tekilin (ferd/vitr) tam karşıtı olarak tanımlar; İbn Sîde, Asmaî ve İbnü'l-Enbârî'den nakille 'zevc'in iki nesne toplamı değil, bir dengi bulunan iki eşten her biri olduğunu kesinler (ayakkabı çiftine 'zevcâ ni'âl', erkek ve dişi güvercine 'zevcâ hamâm' denir). Gece-gündüz ve tatlı-ekşi gibi tamamlayıcı karşıtların, tür ve renklerin de 'zevc' sayıldığını belgeler. Halîl (el-Ayn) ise zevci karşılıklı hayat yoldaşı (aşîr) olarak tanımlar.",
+        "ragib_mufredat": "Eşleşen canlılardaki eril ve dişilden her birine, mes ile pabuç gibi birbirini tamamlayan her parçaya ve ister benzer ister karşıt olsun bir başka varlıkla eşleşen her şeye 'zevc' dendiğini belirtir; dişil 'zevce' kullanımını zayıf lehçe sayar.",
+        "arbitration_decision": "Semitik-tarihsel katman (Aramice/Süryanice zawgā ve Yunanca zeûgos 'boyunduruk/çift'), Kur'an içi Mesânî zıtları (و-ح-د tekil öz, ف-ر-ق ayırma, ع-ق-م kısırlık), 81 ayetlik stres testi (6:143 sekiz eş, 38:58 çeşitler, 56:7 üç zümre, 81:7 benliklerin eşleştirilmesi) ve بِـ harf-i cer vektörü ışığında; dar nikâh akdi indirgemesi ile 'bir zevc = iki adet' yanılsaması elenir. İbn Fâris, İbn Sîde ve Râgıb'ın sentezlediği 'dengi veya karşıt kutbuyla eşleşen tamamlayıcı unsur ve uyumlu sınıf' çekirdeği mühürlenir."
+      },
+      "semitic_cognates": {
+        "hebrew": "Kitâb-ı Mukaddes İbranicesinde bu anlamda geçmez. Mişna ve Rabbinik İbranicesinde Yunanca/Aramice aracılığıyla girmiş זוּג (zūg: 'çift, ikili, eş') ve denominatif fiil ziwwēg ('eşleştirmek, birleştirmek') olarak kullanılır. (Kitâb-ı Mukaddes'teki גוז 'kesmek/geçmek' ayrı köktür.)",
+        "aramaic_and_syriac": "Targum Aramicesinde (Neofiti, Yaratılış 2:18,20) זוּג (zūg: 'eş, tamamlayıcı ortak'); Süryanicede ܙܰܘܓܳܐ (zawgā: 'boyunduruk, çift, eş, benzer') ve denominatif fiil ܙܰܘܶܓ (zawweg: 'birleştirmek, eşleştirmek, evlendirmek').",
+        "akkadian": "Doğrudan eşkökenli tespit edilmedi.",
+        "geez_and_esa": "Klasik Ethiopic (Ge'ez) zawg ('çift, eş' — Nöldeke ve Leslau'ya göre Süryanice veya Arapça üzerinden ödünçleme). Eski Güney Arapça (Sebece/ESA) için doğrudan eşkökenli tespit edilmedi.",
+        "note": "Semitik filoloji konsensüsüne göre (Fraenkel, Nöldeke, Jeffery, Murtonen) Arapça zawj, Yunanca ζεῦγος (zeûgos: 'boyunduruk, çift, eş') sözcüğünden Aramice/Süryanice zawgā aracılığıyla İslam öncesi erken dönemde Arapçaya yerleşmiş kültür ödünçlemesidir; زَوَّجَ gibi fiil biçimleri bu isimden türetilmiştir (denominatif) ve fiziksel çekirdeği olan 'birbirine bağlanmış eşlenik çift' anlamıyla tam örtüşür."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "و-ح-د & أ-ح-د (Tekil Öz ve Eşsiz Mutlak Teklik: 4:1, 7:189, 39:6, 42:11, 51:49)",
+          "ف-ر-ق & ط-ل-ق (Eşlerin Arasını Ayırma ve Bağı Çözüp Boşama: 2:102, 2:230, 66:5)",
+          "ع-ق-م (Çift Kutuplu Üretkenlikten Yoksun Kısırlık: 42:50)"
+        ],
+        "key_ayahs": [
+          "4:1 & 7:189 & 39:6 (خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ/جَعَلَ مِنْهَا زَوْجَهَا)",
+          "42:11 (جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا ... لَيْسَ كَمِثْلِهِۦ شَىْءٌ)",
+          "2:102 (يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ)",
+          "42:50 (أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَاثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا)",
+          "2:230 & 66:5 (فَإِن طَلَّقَهَا ... زَوْجًا غَيْرَهُۥ / أَزْوَٰجًا)"
+        ],
+        "reverse_stress_test": "و-ح-د ('tekil ve eşsiz kalma'), ف-ر-ق / ط-ل-ق ('arayı ayırıp bağı çözme') ve ع-ق-م ('üretken eşleşmeden kapalı kısırlık') köklerinin Kur'an'daki tüm kullanımları tersine çevrildiğinde, istisnasız 'dengiyle bir araya gelip tamamlayıcı çift, eş veya uyumlu sınıf kurma' çekirdeği doğrulanır."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "زَوْج (Z-W-C) vs بَعْل (B-A-L) vs صَٰحِبَة (S-H-B) vs ٱمْرَأَة (M-R-E)",
+          "زَوْج (Z-W-C) vs نِكَاح (N-K-H) [2:230, 2:232, 33:53]",
+          "ٱلزَّوْجَيْنِ vs ٱلذَّكَرَ وَٱلْأُنثَىٰ [53:45, 75:39, 42:50]",
+          "أَزْوَٰج vs شَكْل [38:58] & مِثْل [42:11]"
+        ],
+        "mechanical_difference": "بَعْل yalnızca erkeğe özgü olup fiilî beraberliği ve evin üstleniciliğini, صَٰحِبَة sürekli yan yanalığı, ٱمْرَأَة biyolojik kadın kimliğini (uyum koptuğunda veya çocuksuzluk anında) vurgular; زَوْج ise erkek ve kadın ayrımı yapmadan karşılıklı tamamlayıcı eşleniği anlatır. نِكَاح hukukî evlilik sözleşmesi ve birleşme eylemi, زَوْج o bağın eşit taraflarıdır. ذَكَر ve أُنثَىٰ biyolojik kutupları, زَوْجَيْنِ ise bu iki kutbun tek yaşam döngüsünde bütünleşmiş eşlenik çiftini ifade eder."
+      },
+      "anchor_ayahs": [
+        "51:49 & 36:36 & 43:12 (وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ / خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا — tüm varlık âlemindeki çift kutuplu kuruluş yasası)",
+        "6:143 & 53:45 & 75:39 (ثَمَٰنِيَةَ أَزْوَٰجٍ / خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ — her eşten birinin 'zevc' oluşunun matematik ve biyoloji çapası)",
+        "13:3 & 20:53 & 22:5 & 50:7 (مِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ / مِن كُلِّ زَوْجٍۭ بَهِيجٍ — meyve ve bitkilerdeki çiftli tür düzeni)",
+        "30:21 & 7:189 (خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا — aynı özden var edilen ve yanında sükûnete erilen insanî eşlik)",
+        "56:7 & 37:22 & 81:7 (وَكُنتُمْ أَزْوَٰجًا ثَلَٰثَةً / وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ — benzer karakter ve eylem dengiyle kurulan zümre ve sınıf eşleşmesi)"
+      ],
+      "unified_core_mechanism": "Bir varlığın, türün veya bireyin tek başına kalmayıp kendisini tamamlayan, dengeleyen yahut kendisiyle aynı nitelik ve yörüngeyi paylaşan karşıt veya benzer eşleniğiyle birleşip çift/sınıf bütünlüğü kurması.",
+      "grammar_and_branch_rules": "1) Tekil زَوْج (18 geçiş): İki eşten her biri — ailede cinsiyet ayrımı olmaksızın erkek veya kadın eş (2:35, 2:230, 4:20, 21:90, 33:37, 58:1); botanikte kendi tür eşleniğiyle yetişen her bitki çeşidi (22:5, 26:7, 31:10, 50:7). 2) İkil زَوْجَان / زَوْجَيْن (7 geçiş): Birbirini tamamlayan iki kutbun toplam çifti (11:40, 13:3, 23:27, 51:49, 53:45, 55:52, 75:39). 3) Çoğul أَزْوَٰج (51 geçiş): Aile eşleri, esenlik yurdunda arınmış eşler, kozmik-biyolojik tür çiftleri (6:143, 36:36, 43:12), toplumsal kesimler (15:88, 20:131), zümreler (56:7), karakter yandaşları (37:22) ve benzer yaptırım çeşitleri (38:58). 4) Form II fiil زَوَّجَ / يُزَوِّجُ / زُوِّجَتْ (5 geçiş): Çift nesneyle evlilik bağı kurmak (33:37) veya erkek-dişi çocukları eşlenik bağışlamak (42:50); بِـ ile arı eşlerle yakınlaştırmak (44:54, 52:20); edilgen olarak benlikleri kendi dengi sınıfıyla eşleştirmek (81:7).",
+      "derivatives": {
+        "زَوْج / زَوْجَان / زَوْجَيْن / أَزْوَٰج (N - 76 geçiş)": "Bir dengi bulunan iki eşten her biri (tekil), tamamlayıcı ikili çift (ikil) ve aile eşleri, doğadaki tür çiftleri, toplumsal kesimler, karakter yandaşları ile eylem sınıfları (çoğul).",
+        "زَوَّجَ / يُزَوِّجُ / زُوِّجَتْ (Form II fiil - 5 geçiş)": "İki tarafı evlilik bağıyla eş kılmak (33:37), erkek ve dişi çocukları birlikte bağışlamak (42:50), arı eşlerle yakınlaştırıp eşleştirmek (44:54, 52:20) ve benlikleri kendi eylem dengiyle eşleştirmek (81:7)."
       }
     }
   }

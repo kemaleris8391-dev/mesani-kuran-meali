@@ -9,7 +9,7 @@
 - **Mevcut Başlangıç Tabanı:** 105 Kilitli Kök (30,618 geçiş, **%61.28**)
 - **İkinci 100 Hedefi (Yeni Kökler):** 100 Kök (7,448 geçiş, **+%14.91**)
 - **Etap Sonu Kümülatif Kapsam:** 205 Kök (38,066 geçiş, **%76.18**)
-- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 32 / 100 Kök (Toplam Mühürlü: 137 Kök)
+- **İkinci 100 İçinde Şu Ana Kadar Mühürlenen:** 33 / 100 Kök (Toplam Mühürlü: 138 Kök)
 - **Bu Aralıkta Önceden Mühürlü Olduğu İçin Atlanan 4 Çekirdek Kök:** 101. `ن-ف-ق` (111), 115. `ص-ل-و` (99), 123. `س-ج-د` (92), 146. `ش-ك-ر` (75)
 
 ---
@@ -50,7 +50,7 @@
 | 30 | 133 | `س-و-ي` | `S-W-Y` | **83** | 80 | 2:6 | Sevî / Tesviye (Pürüzsüz Düzlem, Eksiksiz Uyum ve İki Yönlü Denge/Denklik) | ✅ **MÜHÜRLÜ** |
 | 31 | 134 | `ك-ي-ف` | `K-Y-F` | **83** | 83 | 2:28 | Keyf / Hâl-Tarz Sorgusu (Oluş Biçimi, İşleyiş Mekanizması ve Mantıksal Yüzleştirme) | ✅ **MÜHÜRLÜ** |
 | 32 | 135 | `ح-ر-م` | `H-R-M` | **83** | 71 | 2:85 | Haram / Tahrîm / Mahrum (Erişim Kilidi, Yasaklama, Dokunulmazlık ve Yoksunluk) | ✅ **MÜHÜRLÜ** |
-| 33 | 136 | `ز-و-ج` | `Z-W-C` | **81** | 72 | 2:25 | Analiz Bekliyor (zawoj, zuw~ijato) | ⏳ *Bekliyor* |
+| 33 | 136 | `ز-و-ج` | `Z-W-C` | **81** | 72 | 2:25 | Zevc / Ezvâc / Tezvîc (Tamamlayıcı Eş, Çift Kutuplu Bütünlük ve Sınıf Eşleşmesi) | ✅ **MÜHÜRLÜ** |
 | 34 | 137 | `ع-ق-ب` | `A-K-B` | **80** | 74 | 2:143 | Analiz Bekliyor (Ea`qibap, EiqaAb, Eaqib) | ⏳ *Bekliyor* |
 | 35 | 138 | `ع-ر-ض` | `A-R-D` | **79** | 72 | 2:31 | Analiz Bekliyor (>aEoraDa, m~uEoriDuwn, EaraDa) | ⏳ *Bekliyor* |
 | 36 | 139 | `و-ج-ه` | `W-C-H` | **78** | 71 | 2:112 | Analiz Bekliyor (wajoh, wajiyh, waj~aho) | ⏳ *Bekliyor* |

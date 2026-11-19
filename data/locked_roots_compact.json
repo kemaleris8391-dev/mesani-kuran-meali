@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 137,
+    "total_locked": 138,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1427,6 +1427,16 @@
         "ح-ل-ل (Düğümü çözmek, bağı gevşetip serbest erişime açmak: 2:275, 3:50, 3:93, 4:160, 5:1-2, 5:87, 5:96, 7:157, 9:37, 10:59, 16:116, 22:30, 66:1)",
         "خ-ط-ف & ع-د-و (Güvensiz biçimde kapılıp yağmalanma ve sınırı çiğneyip saldırma: 2:194, 5:2, 29:67)",
         "ر-ز-ق (Yaşam payının ve bereketin kesintisiz akıtılması: 6:140, 7:32, 10:59, 51:19, 56:67, 68:27)"
+      ]
+    },
+    "ز-و-ج": {
+      "latin": "Z-W-C (zwj)",
+      "core": "Bir varlığın, türün veya bireyin tek başına kalmayıp kendisini tamamlayan, dengeleyen yahut kendisiyle aynı nitelik ve yörüngeyi paylaşan karşıt veya benzer eşleniğiyle birleşip çift/sınıf bütünlüğü kurması.",
+      "physical": "Bir nesnenin, canlının veya bireyin tek kalmayıp kendisini tamamlayan ve dengeleyen bir eşleniğe bitişip bağlanması (İbn Fâris: mukârenetü şey'in li-şey'; devenin hevdecine serilip onunla bütünleşen örtüye dahi 'zevc' denmesi ve iki unsurun aynı boyunduruğa koşulmuş eşleri gibi birbirini tamamlaması).",
+      "opposites": [
+        "و-ح-د & أ-ح-د (Tekil Öz ve Eşsiz Mutlak Teklik: 4:1, 7:189, 39:6, 42:11, 51:49)",
+        "ف-ر-ق & ط-ل-ق (Eşlerin Arasını Ayırma ve Bağı Çözüp Boşama: 2:102, 2:230, 66:5)",
+        "ع-ق-م (Çift Kutuplu Üretkenlikten Yoksun Kısırlık: 42:50)"
       ]
     }
   }
