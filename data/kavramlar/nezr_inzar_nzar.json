@@ -1,0 +1,2697 @@
+{
+  "root": "ن-ذ-ر",
+  "root_latin": "N-Z-R (n*r)",
+  "concept_name": "Nezr / İnzâr (Tehlikeyi Önceden Bildirerek Uyarma ve Bağlayıcı Adak Sorumluluğu)",
+  "rank": 83,
+  "total_occurrences": 130,
+  "unique_ayahs_count": 115,
+  "unified_core_mechanism": "Kökün 130 geçişlik tüm yapısı İbn Fâris'in saptadığı tek psikolojik-iletişimsel kökten beslenir: 'Tehlikeyi önceden görüp teyakkuza geçmek / ikaz ederek koruyucu sınır çizmek'. Üç ana kolda çalışır: (1) Vahyin erken uyarı mekanizması: IV. bab `أَنذَرَ` (`44 V`), `نَذِير` (`58 N`: elçi uyarıcı ve `54`/`67`deki masdarlaşan `نُذُرِ`/`نَذِيرِ`), `مُنذِر` (`15 N`), `مُنذَرِين` (`5 N`) ve `نُذْر` (`1 N` `77:6`). (2) `ب-ش-ر` (müjde) ve `ع-ذ-ر` (mazeret) kavramlarıyla birlikte insanın sorumluluk terazisini kuran evrensel ikaz ilkesi (`2:6`, `35:37`, `53:56`). (3) Kişinin kendi iradesiyle üstlenip bağladığı sorumluluk sözü (`نَذَرَ` `3 V`: `2:270`, `3:35`, `19:26`; `نَذْر` `2 N`: `2:270`, `76:7`; `نُذُور` `1 N`: `22:29`) ve ona sadakat yükümlülüğü.",
+  "physical_core": "Ham fiziki çekirdek: İbn Fâris'e göre tek asıl `ٱلتَّخْوِيفُ أَوِ ٱلتَّخَوُّفُ` — yaklaşan bir tehlikeyi, düşman hareketini veya sonucu önceden görüp tedbir almak (`نَذِرَ بِٱلْعَدُوِّ` düşmanı önceden fark edip teyakkuza geçti) ve başkasını tehlikeye karşı yüksek teyakkuzla uyarmak (`أَنذَرَ`). Kendi kendini gönüllü bir sorumlulukla bağlamak (`نَذَرَ / نَذْر` 'adak') ise sonuçtan çekinerek kesin bir sınır çizme ve kendine karşı bağlayıcı ikaz koyma anlamıyla bu çekirdeğe bağlanır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris tek çekirdek verir: `ٱلتَّخْوِيفُ أَوِ ٱلتَّخَوُّفُ` (tehlikeyi önceden bildirerek sakındırma, tedbir alma bilinci uyandırma).",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلنَّذْرُ` kişinin kendi üzerine gönüllü olarak bağlayıcı kıldığı yükümlülük; `ٱلْإِنْذَارُ` tehlikeyi haber verip uyandırma (`أَنذَرْتُهُمْ فَنَذِرُوا۟`: uyardım da tedbir aldılar); `ٱلنُّذُرُ` ise hem uyarı mastarı (`54:16`) hem `نَذِير` çoğuludur.",
+    "lisan_al_arab": "Lisânü'l-Arab: `نَذِرَ بِٱلشَّيْءِ` bir tehlikeyi önceden bilip ona karşı hazırlık yapmaktır; `إِنْذَار` sırf bilgi aktarımı (`إِخْبَار`) değil, tehlikeli akıbetten korumaya dönük açık teyakkuz çağrısıdır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `ٱلْإِنْذَارُ: ٱلْإِبْلَاغُ وَلَا يَكُونُ إِلَّا فِى ٱلتَّخْوِيفِ` (tehlike ihtar eden tebliğdir). `نَذِير` sıfat olup bazan `نُذُرِ` (`54:16`) ve `نَذِيرِ` (`67:17`) biçiminde mastar ('benim uyarım') anlamına gelir.",
+    "arbitration_decision": "Tahkim Kararı: Kökün iki ana kullanımı (`أَنذَرَ / نَذِير / مُنذِر` 'tehlikeye karşı önceden uyarmak' `124` geçiş ve `نَذَرَ / نَذْر / نُذُور` 'bağlayıcı adakla kendini adamak' `6` geçiş) ortak 'yüksek teyakkuz ve bağlayıcı sınır çekme' merkezinden gelir. `İnzâr` kör korkutma/tehdit değil, uçurum kenarındaki insanı düşmeden önce uyandıran merhametli erken uyarı sistemidir."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*n-ḏ-r ('adakla bağlamak/ayırmak; ciddi uyarı ve bildirimde bulunmak')",
+    "hebrew": "İbranice `נָדַר` (*nādar*: 'adak adamak, söz vermek') ve isim `נֶדֶר` (*néder* 'adak') biçimi Arapça I. bab `نَذَرَ / نَذْر` ('bağlayıcı adak') ile doğrudan kökdendir (İbranicede ayrıca ayrılma/adak anlamlı `נָזַר` *nāzar* / Nazirite kökü sesçe yakın olup ayrım korunur).",
+    "aramaic_syriac": "Klasik Süryanice/Aramice `ܢܕܪ` (*nḏar*: 'adak adamak, adamak') ve `ܢܶܕܪܳܐ` (*neḏrā* 'adak') Kuzeybatı Semitikteki adak anlamını sürdürür.",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece) ve Safâca yazıtlarda `n-ḏ-r` adak adamak, adak sunumu yapmak ve bağlayıcı kefaret taahhüdü bildirmek anlamlarıyla belgelenmiştir.",
+    "akkadian_geez": "Doğu Samicede (Akadca) doğrudan adak/uyarı karşılığı standart değilse de korku/sıkı bağlayıcılık/kefaret semantiği çerçevesinde `nadāru` vb. köklerle karşılaştırmalı literatürde tartışılır.",
+    "phonological_note": "Proto-Semitik orta diş-arası sürtünmeli ünsüz `*ḏ`: Arapça ve Epigrafik Güney Arapçada `ذ` (`ḏ`) korunmuş, İbranice ve Aramice/Süryanicede düzenli ses kaymasıyla `ד` / `ܕ` (`d`: *nādar* / *nḏar*) sesine dönüşmüştür."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-ش-ر (`بَشِيرًا وَنَذِيرًا` / `مُبَشِّرِينَ وَمُنذِرِينَ` — Müjde ile Uyarının Kurumsal Mesânî Çifti: 2:119, 4:165, 5:19, 6:48, 7:188, 18:56, 35:24, 41:4)",
+      "ع-ذ-ر (`عُذْرًا أَوْ نُذْرًا` — Mazereti Kaldırma vs Uyarma — 77:6)"
+    ],
+    "key_ayahs": [
+      "5:19 & 6:48 & 18:56 & 35:24 & 41:4 (بَشِيرًا وَنَذِيرًا / مُبَشِّرِينَ وَمُنذِرِينَ — umut veren müjde ile tedbir aldıran uyarının ayrılmaz dengesi)",
+      "77:6 (عُذْرًا أَوْ نُذْرًا — mazeret ile ikaz çift kutupluluğu)",
+      "2:270 & 76:7 (أَوْ نَذَرْتُم مِّن نَّذْرٍ / يُوفُونَ بِٱلنَّذْرِ — bağlayıcı adağa sadakat vs vefasızlık)",
+      "54:16,18,21,30,37,39 (فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ — tarihî ikazlara direnmenin sonucu)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ن-ذ-ر tehlikeye karşı önceden uyarmak ve kendini sorumlulukla bağlamaksa zıddı nedir?' Cevap: Kur'an'da `نَذِير / مُنذِر` kavramının ayrılmaz ikizi olan `ب-ش-ر` (`بَشِير / مُبَشِّر`: sevindirici iyi sonuç habercisi) ile `ع-ذ-ر` (`77:6`)dur. Vahyin yalnız müjde verip uyarmaması kör iyimserlik, yalnız uyarıp müjde vermemesi umutsuzluktur; bu nedenle çift yönlü Mesânî testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "نَذِيرٌ (Tek Kuşak/Güncel Uyarıcı) vs ٱلنُّذُرِ (Tarih Boyu Önceki Uyarıcılar Zinciri) — 53:56",
+      "نَذَرْتُم (`نَذَرَ` Fiil: Gönüllü Adak Üstlenme) vs نَّذْرٍ (`نَذْر` İsim: Üstlenilen Adak) — 2:270",
+      "أُنذِرُكُم (`IV. Bab Malûm`: Vahiyle Aktif Uyarma) vs يُنذَرُونَ (`Meçhul`: Sağırların Uyarıyı Duyamaması) — 21:45",
+      "ن-ذ-ر (`أَنذَرَ` Tehlike Odaklı İkaz) vs ن-ب-أ / ب-ل-غ (Genel Haber/Duyuru)"
+    ],
+    "mechanical_difference": "1) `53:56`da `هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ` denilerek kökün tekil (`نَذِير`) ve çoğul (`ٱلنُّذُر`) biçimleri tek ayette tarihsel süreklilik kurar. 2) `36:6` (`لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ`), `42:7` (`لِّتُنذِرَ ... وَتُنذِرَ`) ve `2:6` / `36:10` ayetlerinde aynı ayet içinde aktif ve pasif veya geçmiş-gelecek uyarı kipleri çarpıcı biçimde çatılır. 3) `54:16-39` ve `67:17`de `نُذُرِ` ve `نَذِيرِ` yazılışta kısa bırakılıp mastarlaşarak ('Benim uyarım') bizzat yaptırımın uyarıcı boyutunu taşır."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "54:16 & 67:17",
+      "role": "Rasm ve Mastarlaşmış İkaz Çapası (فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ / كَيْفَ نَذِيرِ)",
+      "literal_meaning": "'Benim yaptırımım ve önceden yaptığım uyarılar (`وَنُذُرِ`) nasılmış?' ve 'benim uyarım (`نَذِيرِ`) nasıl olurmuş yakında bileceksiniz!'"
+    },
+    {
+      "ref": "53:56",
+      "role": "Tekil-Çoğul Tarihî Süreklilik Çapası (هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ)",
+      "literal_meaning": "'Bu, önceki uyarıcılardan (`مِنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ`) bir uyarıcıdır (`نَذِيرٌ`).'"
+    },
+    {
+      "ref": "21:45",
+      "role": "Vahiy Merkezli İkaz Çapası (أُنذِرُكُم بِٱلْوَحْىِ ... إِذَا مَا يُنذَرُونَ)",
+      "literal_meaning": "'De ki: Ben sizi yalnızca vahiyle uyarıyorum (`أُنذِرُكُم`); fakat sağır olanlar uyarıldıkları zaman (`يُنذَرُونَ`) çağrıyı duymazlar.'"
+    },
+    {
+      "ref": "35:37",
+      "role": "Akıl-Ömür-Uyarıcı Sorumluluğu Çapası (أَوَلَمْ نُعَمِّرْكُم ... وَجَآءَكُمُ ٱلنَّذِيرُ)",
+      "literal_meaning": "'Düşünenin öğüt alacağı kadar size uzun ömür vermedik mi ve size açık uyarıcı (`ٱلنَّذِيرُ`) gelmedi mi?'"
+    },
+    {
+      "ref": "26:214 & 74:2",
+      "role": "Yakından Başlayan Uyarı Görevi (قُمْ فَأَنذِرْ / وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ)",
+      "literal_meaning": "'Kalk ve artık uyar (`فَأَنذِرْ`)!' ve 'en yakın çevrenden başlayarak uyar (`وَأَنذِرْ`)!'"
+    },
+    {
+      "ref": "2:270 & 76:7",
+      "role": "Adak Sadakati Çapası (أَوْ نَذَرْتُم مِّن نَّذْرٍ / يُوفُونَ بِٱلنَّذْرِ)",
+      "literal_meaning": "'Her ne harcarsanız veya ne adak adarsanız (`نَذَرْتُم مِّن نَّذْرٍ`) Allah onu bilir' ve 'adaklarını/verdiği sözleri eksiksiz yerine getirirler (`بِٱلنَّذْرِ`).'"
+    },
+    {
+      "ref": "3:35 & 19:26",
+      "role": "Özgür Adanma ve Suskunluk Adağı (نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا / نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا)",
+      "literal_meaning": "'Rabbim! Karnımdakini tamamen özgür bir kul olarak Sana adadım (`نَذَرْتُ`)' ve 'Rahmân için sözlü perhiz (`صَوْم`) adadım (`نَذَرْتُ`).'"
+    },
+    {
+      "ref": "77:6",
+      "role": "Mazeret vs İkaz Mesânî Çapası (عُذْرًا أَوْ نُذْرًا)",
+      "literal_meaning": "'Mazereti ortadan kaldırmak veya uyarmak için (`عُذْرًا أَوْ نُذْرًا`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) I. bab `نَذَرَ` (`4 V`) Kur'an'da `3` kez 'adak adamak' (`2:270`, `3:35`, `19:26`), `21:45`te ise corpus analizinde `يُنذَرُونَ` (aslında IV. bab meçhul muzâri) formunda 'uyarılırlar' anlamında yer alır. 2) IV. bab `أَنذَرَ` (`44 V`) geçişli olup çoğunlukla çift mef'ûl (`أَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ`) veya `بِـ` (`بِٱلْوَحْىِ`, `نَارًا`) ile uyarının konusunu bağlar; aynı ayette aktif+pasif veya iki kip `2:6`, `36:6`, `36:10` ve `42:7`de yan yanadır. 3) İsm-i fâil `مُنذِر` (`15`) daima uyaran özneyi, ism-i mef'ûl `مُنذَرِين` (`5`: `10:73`, `26:173`, `27:58`, `37:73,177`) ise uyarılmış olmasına rağmen direnen toplulukları gösterir. 4) `نَذِير` (`58`) yalnız `8` kez kırık çoğul `نُذُر` (`MP`), `7` kez de son `-î` yâsı Rasm'da düşmüş olarak 'uyarım' (`وَنُذُرِ` `54:16,18,21,30,37,39` ve `نَذِيرِ` `67:17`) biçiminde gelir. 5) `ب-ش-ر` (`بَشِير / مُبَشِّر`) ile en az `8` ayette birebir simetrik ikili oluşturur.",
+  "derivatives": {
+    "نَذِير / نُذُر (`58 N`: `50` tekil + `8` çoğul; `7` yerde `-î` düşmüş `نُذُرِ / نَذِيرِ`)": "Tehlike habercisi uyarıcı, önceki uyarıcılar ve vahyin tarihî ikazı (`5:19`, `35:37,42`, `53:56`, `54:16-39`, `67:17`)",
+    "أَنذَرَ (`44 V`, IV. bab: `40` malûm + `4` meçhul) & مُنذِر (`15 N`) & مُنذَرِين (`5 N`)": "Vahiyle açık uyarı yapmak (`21:45`), yakın çevreden uyarmaya başlamak (`26:214`, `74:2`) ve uyarılmış toplumların sorumluluğu (`37:177`)",
+    "نَذَرَ (`4 V`: `3` adama + `1` meçhul `21:45`) & نَذْر (`2 N`) & نُذُور (`1 N`) & نُذْر (`1 N` `77:6`)": "İradî adak sözleşmesi kurmak ve vefa göstermek (`2:270`, `3:35`, `19:26`, `22:29`, `76:7`) ile uyarma masdarı (`77:6`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 6,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:6",
+      "word_position": 6,
+      "target_word_uthmani": "ءَأَنذَرْتَهُمْ",
+      "target_word_rasm": "ءأنذرتهم",
+      "target_word_literal_irab": "Tehlikeye karşı önceden uyarır / uyardın (`ءَأَنذَرْتَهُمْ / يُنذِرُ / يُنذِرُونَ`, IV. bab fiil)",
+      "context_snippet_arabic": "كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki, gerçeğin üzerini örtenleri, başlarına gelecekle uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki, gerçeğin üzerini örtenleri, başlarına gelecekle uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "contextual_meaning": "Önyargıyla kalbini kilitleyenler için ikaz döngüsünün eşik duvarı (`ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ`): İçten kapatana dış uyarı tesir etmez."
+    },
+    {
+      "surah": 2,
+      "ayah": 6,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:6",
+      "word_position": 9,
+      "target_word_uthmani": "تُنذِرْهُمْ",
+      "target_word_rasm": "تنذرهم",
+      "target_word_literal_irab": "Uyarmasan da (`تُنذِرْهُمْ`, IV. bab meczûm muzâri)",
+      "context_snippet_arabic": "ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki, gerçeğin üzerini örtenleri, başlarına gelecekle uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki, gerçeğin üzerini örtenleri, başlarına gelecekle uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "contextual_meaning": "Önyargıyla kalbini kilitleyenler için ikaz döngüsünün eşik duvarı (`ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ`): İçten kapatana dış uyarı tesir etmez."
+    },
+    {
+      "surah": 2,
+      "ayah": 119,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:119",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَلَا تُسْـَٔلُ عَنْ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz, seni hak ile, müjdeci ve uyarıcı olarak göndermişizdir. Sen, yakıcı yıkım yurdu ehlinden sorumlu tutulmayacaksın.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz, seni hak ile, müjdeci ve uyarıcı olarak göndermişizdir. Sen, yakıcı yıkım yurdu ehlinden sorumlu tutulmayacaksın.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 213,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:213",
+      "word_position": 9,
+      "target_word_uthmani": "وَمُنذِرِينَ",
+      "target_word_rasm": "ومنذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar bir tek ümmetti. Allah elçileri müjdeci ve uyarıcı olarak gönderdi; insanların ayrılığa düşecekleri hususlarda aralarında hüküm vermek için onlarla birlikte hak Kitaplar indirdi. ...",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar bir tek ümmetti. Allah elçileri müjdeci ve uyarıcı olarak gönderdi; insanların ayrılığa düşecekleri hususlarda aralarında hüküm vermek için onlarla birlikte hak Kitaplar indirdi. Ancak Kitap verilenler, kendilerine belgeler geldikten sonra, aralarındaki ihtiras yüzünden onda ayrılığa düştüler. Allah, güvene erenleri, ayrılığa düştükleri gerçeğe kendi izni ile eriştirdi. Allah dilediğini doğru yola eriştirir.",
+      "contextual_meaning": "Müjdeleyici (`مُبَشِّرِينَ`) ile uyarıcı (`وَمُنذِرِينَ`) arasındaki çift yönlü elçilik dengesi: umutla birlikte tehlike bilinci."
+    },
+    {
+      "surah": 2,
+      "ayah": 270,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:270",
+      "word_position": 6,
+      "target_word_uthmani": "نَذَرْتُم",
+      "target_word_rasm": "نذرتم",
+      "target_word_literal_irab": "Bağlayıcı bir adak olarak üstlendiniz (`نَذَرْتُم`, I. bab mâzî `2MP`)",
+      "context_snippet_arabic": "مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "dolaşıma sokup paylaştığınız harcı ve adadığınız adağı şüphesiz Allah bilir. Zulmedenlerin hiç yardımcıları yoktur.",
+      "morphology": {
+        "lemma": "na*aro",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:na*aro|ROOT:n*r|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "dolaşıma sokup paylaştığınız harcı ve adadığınız adağı şüphesiz Allah bilir. Zulmedenlerin hiç yardımcıları yoktur.",
+      "contextual_meaning": "Toplumsal katkı (`نَفَقَة`) ve gönüllü adakların (`نَذَرْتُم مِّن نَّذْرٍ` `2:270`) tek bir kaydının bile kaybolmayacağı güvencesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 270,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:270",
+      "word_position": 8,
+      "target_word_uthmani": "نَّذْرٍ",
+      "target_word_rasm": "نذر",
+      "target_word_literal_irab": "Kişinin gönüllü olarak üstlendiği bağlayıcı adak ve sorumluluk (`نَّذْرٍ / بِٱلنَّذْرِ`, isim mecrûr)",
+      "context_snippet_arabic": "أَوْ نَذَرْتُم مِّن نَّذْرٍ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "dolaşıma sokup paylaştığınız harcı ve adadığınız adağı şüphesiz Allah bilir. Zulmedenlerin hiç yardımcıları yoktur.",
+      "morphology": {
+        "lemma": "n~a*or",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:n~a*or|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَنفَقْتُم مِّن نَّفَقَةٍ أَوْ نَذَرْتُم مِّن نَّذْرٍ فَإِنَّ ٱللَّهَ يَعْلَمُهُۥ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "dolaşıma sokup paylaştığınız harcı ve adadığınız adağı şüphesiz Allah bilir. Zulmedenlerin hiç yardımcıları yoktur.",
+      "contextual_meaning": "Adak (`نَذْر`) edilen her hayır veya bağlayıcı sözün şeffaflığı (`2:270`) ve sözüne sadık kalmanın (`يُوفُونَ بِٱلنَّذْرِ` `76:7`) övgüsü."
+    },
+    {
+      "surah": 3,
+      "ayah": 35,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:35",
+      "word_position": 7,
+      "target_word_uthmani": "نَذَرْتُ",
+      "target_word_rasm": "نذرت",
+      "target_word_literal_irab": "Gönüllü bir adakla kendimi veya emaneti bağlayıp adadım (`نَذَرْتُ`, I. bab mâzî `1S`)",
+      "context_snippet_arabic": "عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "İmran'ın karısı: \"Ya Rabbi! Karnımda olanı, sadece sana hizmet etmek üzere adadım, benden kabul buyur, doğrusu işiten ve bilen ancak Sensin\" demişti.",
+      "morphology": {
+        "lemma": "na*aro",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:na*aro|ROOT:n*r|1S"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İmran'ın karısı: \"Ya Rabbi! Karnımda olanı, sadece sana hizmet etmek üzere adadım, benden kabul buyur, doğrusu işiten ve bilen ancak Sensin\" demişti.",
+      "contextual_meaning": "İmrân'ın eşinin doğacak çocuğunu çıkar gözetmeyen özgür bir adak (`نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا` `3:35`) olarak hakikate adaması."
+    },
+    {
+      "surah": 4,
+      "ayah": 165,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:165",
+      "word_position": 3,
+      "target_word_uthmani": "وَمُنذِرِينَ",
+      "target_word_rasm": "ومنذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "elçilerden sonra, insanların Allah'a karşı bir hüccetleri olmaması için, gönderilen müjdeci ve uyarıcı elçilerden bir kısmını daha önce sana anlatmış, bir kısmını da anlatmamıştık. Allah, Musa'ya hitabetmişti. ...",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "elçilerden sonra, insanların Allah'a karşı bir hüccetleri olmaması için, gönderilen müjdeci ve uyarıcı elçilerden bir kısmını daha önce sana anlatmış, bir kısmını da anlatmamıştık. Allah, Musa'ya hitabetmişti. Allah güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Müjdeleyici (`مُبَشِّرِينَ`) ile uyarıcı (`وَمُنذِرِينَ`) arasındaki çift yönlü elçilik dengesi: umutla birlikte tehlike bilinci."
+    },
+    {
+      "surah": 5,
+      "ayah": 19,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:19",
+      "word_position": 19,
+      "target_word_uthmani": "نَذِيرٍ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Bir uyarıcı (`نَذِيرٍ`, nekre mecrûr)",
+      "context_snippet_arabic": "مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey Kitap ehli! elçilerin arası kesildiğinde, \"Bize müjdeci ve uyarıcı gelmedi\" dersiniz diye, size açıkça anlatacak elçimiz geldi. Şüphesiz O, size müjdeci ve uyarıcı olarak gelmiştir. ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Kitap ehli! elçilerin arası kesildiğinde, \"Bize müjdeci ve uyarıcı gelmedi\" dersiniz diye, size açıkça anlatacak elçimiz geldi. Şüphesiz O, size müjdeci ve uyarıcı olarak gelmiştir. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 19,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:19",
+      "word_position": 23,
+      "target_word_uthmani": "وَنَذِيرٌ",
+      "target_word_rasm": "ونذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ وَٱللَّهُ عَلَىٰ كُلِّ",
+      "context_snippet_turkish_tabula_rasa": "Ey Kitap ehli! elçilerin arası kesildiğinde, \"Bize müjdeci ve uyarıcı gelmedi\" dersiniz diye, size açıkça anlatacak elçimiz geldi. Şüphesiz O, size müjdeci ve uyarıcı olarak gelmiştir. ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Kitap ehli! elçilerin arası kesildiğinde, \"Bize müjdeci ve uyarıcı gelmedi\" dersiniz diye, size açıkça anlatacak elçimiz geldi. Şüphesiz O, size müjdeci ve uyarıcı olarak gelmiştir. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 19,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:19",
+      "word_position": 15,
+      "target_word_uthmani": "لِأُنذِرَكُم",
+      "target_word_rasm": "لأنذركم",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah benimle sizin aranızda şahiddir. Bu Kuran bana, sizi ve ulaştığı kimseleri uyarmam için vahyolundu; Allah'la beraber başka sahte sığınaklar bulunduğuna siz mi şahidlik ediyorsunuz?\" de. ...",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةً قُلِ ٱللَّهُ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ قُل لَّآ أَشْهَدُ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şahit olarak hangi şey daha büyüktür\" de. \"Allah benimle sizin aranızda şahiddir. Bu Kuran bana, sizi ve ulaştığı kimseleri uyarmam için vahyolundu; Allah'la beraber başka sahte sığınaklar bulunduğuna siz mi şahidlik ediyorsunuz?\" de. \"Ben şehadet etmem\" de. \"O ancak tek sığınak merciidir, doğrusu ben ortak koşmanızdan uzağım\" de.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 48,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:48",
+      "word_position": 6,
+      "target_word_uthmani": "وَمُنذِرِينَ",
+      "target_word_rasm": "ومنذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ ءَامَنَ وَأَصْلَحَ",
+      "context_snippet_turkish_tabula_rasa": "elçileri ancak müjdeci ve uyarıcı olarak gönderiyoruz. Kim güven duy ve kendi benliğini ıslah ederse onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçileri ancak müjdeci ve uyarıcı olarak gönderiyoruz. Kim güven duy ve kendi benliğini ıslah ederse onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Müjdeleyici (`مُبَشِّرِينَ`) ile uyarıcı (`وَمُنذِرِينَ`) arasındaki çift yönlü elçilik dengesi: umutla birlikte tehlike bilinci."
+    },
+    {
+      "surah": 6,
+      "ayah": 51,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:51",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنذِرْ",
+      "target_word_rasm": "وأنذر",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rablerine toplanacaklarından korkanları Kuran ile uyar. O'ndan başka bir dost ve aracıları yoktur. Umulur ki Allah'tan sakınalar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerine toplanacaklarından korkanları Kuran ile uyar. O'ndan başka bir dost ve aracıları yoktur. Umulur ki Allah'tan sakınalar.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 92,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:92",
+      "word_position": 9,
+      "target_word_uthmani": "وَلِتُنذِرَ",
+      "target_word_rasm": "ولتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ",
+      "context_snippet_turkish_tabula_rasa": "Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete güvene erenler buna güven duyup emin olurlar, irtibat ve yöneliş bağlarına da devam ederler.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete güvene erenler buna güven duyup emin olurlar, irtibat ve yöneliş bağlarına da devam ederler.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 130,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:130",
+      "word_position": 11,
+      "target_word_uthmani": "وَيُنذِرُونَكُمْ",
+      "target_word_rasm": "وينذرونكم",
+      "target_word_literal_irab": "Tehlikeye karşı önceden uyarır / uyardın (`ءَأَنذَرْتَهُمْ / يُنذِرُ / يُنذِرُونَ`, IV. bab fiil)",
+      "context_snippet_arabic": "يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey görünmeyen bilinçli varlık ve insan topluluğu! Size ayetlerimi anlatan, bugünle karşılaşmanızdan sizi uyaran elçiler gelmedi mi?\" \"Kendi hakkımızda şahidiz\" derler. Dünya hayatı onları aldattı da gerçeğin üzerini örten olduklarına, kendi aleyhlerinde şahidlik ettiler.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey görünmeyen bilinçli varlık ve insan topluluğu! Size ayetlerimi anlatan, bugünle karşılaşmanızdan sizi uyaran elçiler gelmedi mi?\" \"Kendi hakkımızda şahidiz\" derler. Dünya hayatı onları aldattı da gerçeğin üzerini örten olduklarına, kendi aleyhlerinde şahidlik ettiler.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 2,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:2",
+      "word_position": 10,
+      "target_word_uthmani": "لِتُنذِرَ",
+      "target_word_rasm": "لتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sana bir Kitap indirildi. Onunla insanları uyarman ve güvene erenlere öğüt vermen için kalbine bir darlık gelmesin.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "كِتَٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana bir Kitap indirildi. Onunla insanları uyarman ve güvene erenlere öğüt vermen için kalbine bir darlık gelmesin.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 63,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:63",
+      "word_position": 10,
+      "target_word_uthmani": "لِيُنذِرَكُمْ",
+      "target_word_rasm": "لينذركم",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Sakınmanızı ve böylece merhamete uğramanızı sağlamak üzere sizi uyarmak için aranızdan biri vasıtasıyla Rabbinizden size haber gelmesine mi şaşıyorsunuz?\" dedi.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Bende bir sapıklık yoktur, ancak ben Alemlerin Rabbinin elçisiyim, Rabbimin sözlerini size bildiriyor, öğüt veriyorum. Sizin bilmediğinizi Allah katından ben biliyorum. Sakınmanızı ve böylece merhamete uğramanızı sağlamak üzere sizi uyarmak için aranızdan biri vasıtasıyla Rabbinizden size haber gelmesine mi şaşıyorsunuz?\" dedi.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 69,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:69",
+      "word_position": 10,
+      "target_word_uthmani": "لِيُنذِرَكُمْ",
+      "target_word_rasm": "لينذركم",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... sizi uyarmak üzere, aranızdan bir adam vasıtasiyle Rabbinizden size bir haber gelmesine mi şaşıyorsunuz? Allah'ın sizi Nuh'un milleti yerine getirdiğini ve vücutça da onlardan üstün kıldığını hatırlayın, başarıya erişebilmeniz için Allah'ın nimetlerini anın\" dedi.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size Rabbimin sözlerini bildiriyorum. Ben sizin için güvenilir bir öğütçüyüm; sizi uyarmak üzere, aranızdan bir adam vasıtasiyle Rabbinizden size bir haber gelmesine mi şaşıyorsunuz? Allah'ın sizi Nuh'un milleti yerine getirdiğini ve vücutça da onlardan üstün kıldığını hatırlayın, başarıya erişebilmeniz için Allah'ın nimetlerini anın\" dedi.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 184,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:184",
+      "word_position": 10,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "Düşünmüyorlar mı ki, arkadaşları olan elçide deliliğin eseri yoktur. O ancak açıkça uyaran bir kimsedir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Düşünmüyorlar mı ki, arkadaşları olan elçide deliliğin eseri yoktur. O ancak açıkça uyaran bir kimsedir.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 188,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:188",
+      "word_position": 25,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Görülmeyeni bileydim, daha çok iyilik yapardım ve bana kötülük de gelmezdi. Ben sadece, güvene eren bir milleti uyaran ve müjdeleyen bir elçim. \"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ın dilemesi dışında ben kendime bir fayda ve zarar verecek durumda değilim. Görülmeyeni bileydim, daha çok iyilik yapardım ve bana kötülük de gelmezdi. Ben sadece, güvene eren bir milleti uyaran ve müjdeleyen bir elçim.\"",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 122,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:122",
+      "word_position": 16,
+      "target_word_uthmani": "وَلِيُنذِرُوا۟",
+      "target_word_rasm": "ولينذروا",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "... Her topluluktan bir taifenin yaşam sistemini iyi öğrenmek ve milletlerini geri döndüklerinde uyarmak üzere geri kalmaları gerekli olmaz mı? Ki böylece belki yanlış hareketlerden çekinirler.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler toptan savaşa çıkmamalıdır. Her topluluktan bir taifenin yaşam sistemini iyi öğrenmek ve milletlerini geri döndüklerinde uyarmak üzere geri kalmaları gerekli olmaz mı? Ki böylece belki yanlış hareketlerden çekinirler.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 2,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:2",
+      "word_position": 10,
+      "target_word_uthmani": "أَنذِرِ",
+      "target_word_rasm": "أنذر",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "İçlerinden birine, \"İnsanları uyar ve güvene erenlere, Rableri katında yüksek makamlar olduğunu müjdele\" diye vahyetmemiz, insanların tuhafına mı gitti ki, gerçeğin üzerini örtenler: \"Bu apaçık bir büyücüdür\" dediler?",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ قَالَ ٱلْكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçlerinden birine, \"İnsanları uyar ve güvene erenlere, Rableri katında yüksek makamlar olduğunu müjdele\" diye vahyetmemiz, insanların tuhafına mı gitti ki, gerçeğin üzerini örtenler: \"Bu apaçık bir büyücüdür\" dediler?",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 73,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:73",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْمُنذَرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden açıkça uyarılıp tehlikeden haberdar edilmiş olanlar (`ٱلْمُنذَرِينَ`, IV. bab ism-i mef'ûl mecrûr)",
+      "context_snippet_arabic": "كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Onları ötekilerin yerine geçirdik, ayetlerimizi yalanlayanları suda boğduk. Uyarılanlardan söz dinlemeyenlerin sonlarının nasıl olduğuna bir bak.",
+      "morphology": {
+        "lemma": "mun*ariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:mun*ariyn|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَنَجَّيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَٰهُمْ خَلَٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu yalancı saydılar; ama Biz onu ve gemide beraberinde bulunanları kurtardık. Onları ötekilerin yerine geçirdik, ayetlerimizi yalanlayanları suda boğduk. Uyarılanlardan söz dinlemeyenlerin sonlarının nasıl olduğuna bir bak.",
+      "contextual_meaning": "Uyarıya kulak asmayan önceki toplulukların ibretlik akıbeti (`عَٰقِبَةُ ٱلْمُنذَرِينَ` `10:73`, `26:173`, `27:58`, `37:73,177`): İkazdan sonra sorumluluk kesinleşir."
+    },
+    {
+      "surah": 10,
+      "ayah": 101,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:101",
+      "word_position": 10,
+      "target_word_uthmani": "وَٱلنُّذُرُ",
+      "target_word_rasm": "وٱلنذر",
+      "target_word_literal_irab": "Gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرُ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍ لَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Göklerde ve yerde neler var, bir bakın\" de. güven duy bir millete ayetler ve uyarmalar fayda vermez.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍ لَّا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Göklerde ve yerde neler var, bir bakın\" de. güven duy bir millete ayetler ve uyarmalar fayda vermez.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 2,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:2",
+      "word_position": 8,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنَّنِى لَكُم مِّنْهُ نَذِيرٌ وَبَشِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "... Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنَّنِى لَكُم مِّنْهُ نَذِيرٌ وَبَشِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 12,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:12",
+      "word_position": 22,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "مَلَكٌ إِنَّمَآ أَنتَ نَذِيرٌ وَٱللَّهُ عَلَىٰ كُلِّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ona bir hazine indirilmeli veya yanında bir kozmik görevli gelmeli değil miydi?\" demelerinden senin kalbin daralır ve belki de sana vahyolunanın bir kısmını terkedecek olursun. Sen ancak bir uyarıcısın, Allah her şeye vekildir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَعَلَّكَ تَارِكٌۢ بَعْضَ مَا يُوحَىٰٓ إِلَيْكَ وَضَآئِقٌۢ بِهِۦ صَدْرُكَ أَن يَقُولُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ كَنزٌ أَوْ جَآءَ مَعَهُۥ مَلَكٌ إِنَّمَآ أَنتَ نَذِيرٌ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Putperestlerin: \"Ona bir hazine indirilmeli veya yanında bir kozmik görevli gelmeli değil miydi?\" demelerinden senin kalbin daralır ve belki de sana vahyolunanın bir kısmını terkedecek olursun. Sen ancak bir uyarıcısın, Allah her şeye vekildir.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 25,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:25",
+      "word_position": 8,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki biz Nuh'u kendi milletine gönderdik; \"Ben sizin için apaçık bir uyarıcıyım; Allah'tan başkasına kulluk etmeyin; ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki biz Nuh'u kendi milletine gönderdik; \"Ben sizin için apaçık bir uyarıcıyım; Allah'tan başkasına kulluk etmeyin; doğrusu ben hakkınızda can yakıcı bir günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 7,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:7",
+      "word_position": 12,
+      "target_word_uthmani": "مُنذِرٌ",
+      "target_word_rasm": "منذر",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`مُنذِرٌ`, IV. bab nekre ism-i fâil merfû)",
+      "context_snippet_arabic": "رَّبِّهِۦٓ إِنَّمَآ أَنتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler: \"Rabbinden ona bir apaçık gösterge indirilmeli değil miydi?\" derler. Sen ancak bir uyarıcısın. Her milletin bir yol göstereni vardır.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦٓ إِنَّمَآ أَنتَ مُنذِرٌ وَلِكُلِّ قَوْمٍ هَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler: \"Rabbinden ona bir apaçık gösterge indirilmeli değil miydi?\" derler. Sen ancak bir uyarıcısın. Her milletin bir yol göstereni vardır.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 14,
+      "ayah": 44,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:44",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنذِرِ",
+      "target_word_rasm": "وأنذر",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ",
+      "context_snippet_turkish_tabula_rasa": "İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: ...",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: \"Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, elçilere uyalım\" derler. Siz daha önce, sonunuzun gelmeyeceğine bağlayıcı ahit etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. Onlara, yaptıklarımız da sizlere açıklanmıştı. Size misaller de vermiştik.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 52,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:52",
+      "word_position": 4,
+      "target_word_uthmani": "وَلِيُنذَرُوا۟",
+      "target_word_rasm": "ولينذروا",
+      "target_word_literal_irab": "Önceden kendilerine uyarı yapılmış (`أُنذِرَ / أُنذِرُوا۟ / يُنذَرُوا۟`, IV. bab meçhul)",
+      "context_snippet_arabic": "هَٰذَا بَلَٰغٌ لِّلنَّاسِ وَلِيُنذَرُوا۟ بِهِۦ وَلِيَعْلَمُوٓا۟ أَنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "Bu Kuran, onunla uyarılsınlar ve tek bir sığınak mercii (ilâh) bulunduğunu bilsinler ve akıl sahipleri öğüt alsınlar diye insanlara tebliğ edilmiştir.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:>an*ara|ROOT:n*r|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "هَٰذَا بَلَٰغٌ لِّلنَّاسِ وَلِيُنذَرُوا۟ بِهِۦ وَلِيَعْلَمُوٓا۟ أَنَّمَا هُوَ إِلَٰهٌ وَٰحِدٌ وَلِيَذَّكَّرَ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu Kuran, onunla uyarılsınlar ve tek bir sığınak mercii (ilâh) bulunduğunu bilsinler ve akıl sahipleri öğüt alsınlar diye insanlara tebliğ edilmiştir.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 89,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:89",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلنَّذِيرُ",
+      "target_word_rasm": "ٱلنذير",
+      "target_word_literal_irab": "O beklenen gerçek uyarıcı (`ٱلنَّذِيرُ`, marife isim merfû)",
+      "context_snippet_arabic": "وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Doğrusu ben apaçık bir uyarıcıyım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقُلْ إِنِّىٓ أَنَا ٱلنَّذِيرُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Doğrusu ben apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 2,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:2",
+      "word_position": 12,
+      "target_word_uthmani": "أَنذِرُوٓا۟",
+      "target_word_rasm": "أنذروا",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَٰهَ",
+      "context_snippet_turkish_tabula_rasa": "Allah kullarından dilediğine buyruğunu bildirmek için kozmik görevlilerini vahiyle indirerek şöyle der: \"İnsanları uyarın ki, Benden başka sığınak mercii (ilâh) yoktur. Benden sakının. ...",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MP"
+      },
+      "ayah_text_arabic_full": "يُنَزِّلُ ٱلْمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kullarından dilediğine buyruğunu bildirmek için kozmik görevlilerini vahiyle indirerek şöyle der: \"İnsanları uyarın ki, Benden başka sığınak mercii (ilâh) yoktur. Benden sakının.\"",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 105,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:105",
+      "word_position": 9,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı ancak hak olarak indirdik ve o da indiği gibi hak olarak kaldı. Seni de yalnız müjdeci ve uyarıcı olarak gönderdik.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَبِٱلْحَقِّ أَنزَلْنَٰهُ وَبِٱلْحَقِّ نَزَلَ وَمَآ أَرْسَلْنَٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı ancak hak olarak indirdik ve o da indiği gibi hak olarak kaldı. Seni de yalnız müjdeci ve uyarıcı olarak gönderdik.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 2,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:2",
+      "word_position": 2,
+      "target_word_uthmani": "لِّيُنذِرَ",
+      "target_word_rasm": "لينذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah çocuk edindi\" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan güvene erenlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: \"Allah çocuk edindi\" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 4,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:4",
+      "word_position": 1,
+      "target_word_uthmani": "وَيُنذِرَ",
+      "target_word_rasm": "وينذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah çocuk edindi\" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَيُنذِرَ ٱلَّذِينَ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan güvene erenlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: \"Allah çocuk edindi\" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 56,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:56",
+      "word_position": 6,
+      "target_word_uthmani": "وَمُنذِرِينَ",
+      "target_word_rasm": "ومنذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Biz elçileri ancak müjdeci ve uyarıcı olarak göndeririz. Oysa gerçeğin üzerini örtenler hakkı batılla ortadan kaldırmak için çekişirler. ...",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz elçileri ancak müjdeci ve uyarıcı olarak göndeririz. Oysa gerçeğin üzerini örtenler hakkı batılla ortadan kaldırmak için çekişirler. Ayetlerimizi ve kendilerine yapılan uyarmaları alaya alırlar.",
+      "contextual_meaning": "Müjdeleyici (`مُبَشِّرِينَ`) ile uyarıcı (`وَمُنذِرِينَ`) arasındaki çift yönlü elçilik dengesi: umutla birlikte tehlike bilinci."
+    },
+    {
+      "surah": 18,
+      "ayah": 56,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:56",
+      "word_position": 17,
+      "target_word_uthmani": "أُنذِرُوا۟",
+      "target_word_rasm": "أنذروا",
+      "target_word_literal_irab": "Önceden kendilerine uyarı yapılmış (`أُنذِرَ / أُنذِرُوا۟ / يُنذَرُوا۟`, IV. bab meçhul)",
+      "context_snippet_arabic": "وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+      "context_snippet_turkish_tabula_rasa": "Biz elçileri ancak müjdeci ve uyarıcı olarak göndeririz. Oysa gerçeğin üzerini örtenler hakkı batılla ortadan kaldırmak için çekişirler. ...",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>an*ara|ROOT:n*r|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ وَيُجَٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz elçileri ancak müjdeci ve uyarıcı olarak göndeririz. Oysa gerçeğin üzerini örtenler hakkı batılla ortadan kaldırmak için çekişirler. Ayetlerimizi ve kendilerine yapılan uyarmaları alaya alırlar.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 26,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:26",
+      "word_position": 12,
+      "target_word_uthmani": "نَذَرْتُ",
+      "target_word_rasm": "نذرت",
+      "target_word_literal_irab": "Gönüllü bir adakla kendimi veya emaneti bağlayıp adadım (`نَذَرْتُ`, I. bab mâzî `1S`)",
+      "context_snippet_arabic": "أَحَدًا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ",
+      "context_snippet_turkish_tabula_rasa": "Ye iç, gözün aydın olsun. İnsanlardan birini görecek olursan 'Ben Rahman için öz denetim ve sakınma adadım, bugün hiçbir insanla konuşmayacağım' de.\"",
+      "morphology": {
+        "lemma": "na*aro",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:na*aro|ROOT:n*r|1S"
+      },
+      "ayah_text_arabic_full": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ye iç, gözün aydın olsun. İnsanlardan birini görecek olursan 'Ben Rahman için öz denetim ve sakınma adadım, bugün hiçbir insanla konuşmayacağım' de.\"",
+      "contextual_meaning": "Meryem'in geçici suskunluk ve sözlü perhiz (`صَوْم`) adağı (`نَذَرْتُ` `19:26`): Tören değil özel iradî geri çekilme sözleşmesi."
+    },
+    {
+      "surah": 19,
+      "ayah": 39,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:39",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنذِرْهُمْ",
+      "target_word_rasm": "وأنذرهم",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ",
+      "context_snippet_turkish_tabula_rasa": "Hala gaflet içinde bulunanları ve hala güven duy işin bitmiş olacağı o hasret günü ile uyar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْهُمْ يَوْمَ ٱلْحَسْرَةِ إِذْ قُضِىَ ٱلْأَمْرُ وَهُمْ فِى غَفْلَةٍ وَهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hala gaflet içinde bulunanları ve hala güven duy işin bitmiş olacağı o hasret günü ile uyar.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 97,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:97",
+      "word_position": 7,
+      "target_word_uthmani": "وَتُنذِرَ",
+      "target_word_rasm": "وتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "لِتُبَشِّرَ بِهِ ٱلْمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوْمًا لُّدًّا",
+      "context_snippet_turkish_tabula_rasa": "Biz Kuran'ı Allah'a karşı gelmekten sakınanları müjdelemen ve inatçı milleti uyarman için senin dilinde indirerek kolaylaştırdık.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَإِنَّمَا يَسَّرْنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلْمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوْمًا لُّدًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz Kuran'ı Allah'a karşı gelmekten sakınanları müjdelemen ve inatçı milleti uyarman için senin dilinde indirerek kolaylaştırdık.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 45,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:45",
+      "word_position": 3,
+      "target_word_uthmani": "أُنذِرُكُم",
+      "target_word_rasm": "أنذركم",
+      "target_word_literal_irab": "Ben sizi açıkça uyarıyorum / uyardım (`أُنذِرُكُم / أَنذَرْتُكُم`, IV. bab `1S`)",
+      "context_snippet_arabic": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ وَلَا يَسْمَعُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben ancak sizi vahy ile uyarıyorum\" Uyarıldıkları zaman, sağırlar çağrıyı duymazlar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben ancak sizi vahy ile uyarıyorum\" Uyarıldıkları zaman, sağırlar çağrıyı duymazlar.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 45,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:45",
+      "word_position": 11,
+      "target_word_uthmani": "يُنذَرُونَ",
+      "target_word_rasm": "ينذرون",
+      "target_word_literal_irab": "Kendilerine uyarı ulaştırılıp ikaz edilirler (`يُنذَرُونَ`, meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben ancak sizi vahy ile uyarıyorum\" Uyarıldıkları zaman, sağırlar çağrıyı duymazlar.",
+      "morphology": {
+        "lemma": "na*aro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:na*aro|ROOT:n*r|3MP"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben ancak sizi vahy ile uyarıyorum\" Uyarıldıkları zaman, sağırlar çağrıyı duymazlar.",
+      "contextual_meaning": "Vahiyle uyarma eylemi (`أُنذِرُكُم`) karşısında iç kulağını kapatan sağırların (`يُنذَرُونَ` `21:45`) uyarıyı duyamaması."
+    },
+    {
+      "surah": 22,
+      "ayah": 29,
+      "surah_name": "Hac",
+      "ayah_ref": "22:29",
+      "word_position": 5,
+      "target_word_uthmani": "نُذُورَهُمْ",
+      "target_word_rasm": "نذورهم",
+      "target_word_literal_irab": "Kendi üzerlerine aldıkları bağlayıcı sorumluluk adakları (`نُذُورَهُمْ`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ",
+      "context_snippet_turkish_tabula_rasa": "Sonra kirlerini giderip temizlensinler. Adaklarını yerine getirsinler. Kabe'yi tavaf etsinler.",
+      "morphology": {
+        "lemma": "nu*uwr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:nu*uwr|ROOT:n*r|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra kirlerini giderip temizlensinler. Adaklarını yerine getirsinler. Kabe'yi tavaf etsinler.",
+      "contextual_meaning": "Kişinin gönüllü üstlendiği adak sorumluluklarını (`وَلْيُوفُوا۟ نُذُورَهُمْ` `22:29`) eksiksiz yerine getirme hukuku."
+    },
+    {
+      "surah": 22,
+      "ayah": 49,
+      "surah_name": "Hac",
+      "ayah_ref": "22:49",
+      "word_position": 7,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey insanlar! Ben sizin için ancak apaçık bir uyarıcıyım\" de.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey insanlar! Ben sizin için ancak apaçık bir uyarıcıyım\" de.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 1,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:1",
+      "word_position": 9,
+      "target_word_uthmani": "نَذِيرًا",
+      "target_word_rasm": "نذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "عَبْدِهِۦ لِيَكُونَ لِلْعَٰلَمِينَ نَذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَارَكَ ٱلَّذِى نَزَّلَ ٱلْفُرْقَانَ عَلَىٰ عَبْدِهِۦ لِيَكُونَ لِلْعَٰلَمِينَ نَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 25,
+      "ayah": 7,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:7",
+      "word_position": 16,
+      "target_word_uthmani": "نَذِيرًا",
+      "target_word_rasm": "نذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu ne biçim elçi ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir kozmik görevli indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!\" Bu zalimler, güvene erenlere: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediler.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle dediler: \"Bu ne biçim elçi ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir kozmik görevli indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!\" Bu zalimler, güvene erenlere: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediler.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 51,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:51",
+      "word_position": 7,
+      "target_word_uthmani": "نَّذِيرًا",
+      "target_word_rasm": "نذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "فِى كُلِّ قَرْيَةٍ نَّذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Dileseydik, her kente bir uyarıcı gönderirdik.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍ نَّذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Dileseydik, her kente bir uyarıcı gönderirdik.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 56,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:56",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Biz seni sadece müjdeci ve uyarıcı olarak gönderdik.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَٰكَ إِلَّا مُبَشِّرًا وَنَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz seni sadece müjdeci ve uyarıcı olarak gönderdik.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 115,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:115",
+      "word_position": 4,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "... hesabları Rabbime aittir, düşünsenize! Ben güvene erenleri kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh: \"Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben güvene erenleri kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 173,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:173",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمُنذَرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden açıkça uyarılıp tehlikeden haberdar edilmiş olanlar (`ٱلْمُنذَرِينَ`, IV. bab ism-i mef'ûl mecrûr)",
+      "context_snippet_arabic": "مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Üzerlerine de yağmur yağdırdık. Uyarılan fakat yola gelmeyenlerin yağmuru ne kötü idi!",
+      "morphology": {
+        "lemma": "mun*ariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:mun*ariyn|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Üzerlerine de yağmur yağdırdık. Uyarılan fakat yola gelmeyenlerin yağmuru ne kötü idi!",
+      "contextual_meaning": "Uyarıya kulak asmayan önceki toplulukların ibretlik akıbeti (`عَٰقِبَةُ ٱلْمُنذَرِينَ` `10:73`, `26:173`, `27:58`, `37:73,177`): İkazdan sonra sorumluluk kesinleşir."
+    },
+    {
+      "surah": 26,
+      "ayah": 194,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:194",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُنذِرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden uyaranların safından (`ٱلْمُنذِرِينَ`, IV. bab ism-i fâil mecrûr)",
+      "context_snippet_arabic": "قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 26,
+      "ayah": 208,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:208",
+      "word_position": 7,
+      "target_word_uthmani": "مُنذِرُونَ",
+      "target_word_rasm": "منذرون",
+      "target_word_literal_irab": "Önceden tehlikeyi duyurup uyaranlar (`مُنذِرُونَ`, IV. bab ism-i fâil merfû)",
+      "context_snippet_arabic": "قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir kent halkını kendilerine öğüt veren uyarıcılar gelmeden yok etmedik. Biz zalim değiliz.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir kent halkını kendilerine öğüt veren uyarıcılar gelmeden yok etmedik. Biz zalim değiliz.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 26,
+      "ayah": 214,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:214",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنذِرْ",
+      "target_word_rasm": "وأنذر",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Önce en yakın hısımlarını uyar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Önce en yakın hısımlarını uyar.",
+      "contextual_meaning": "Yakın çevreden (`وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ` `26:214`) başlayarak ayağa kalkıp toplumu uyarma çağrısı (`قُمْ فَأَنذِرْ` `74:2`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 58,
+      "surah_name": "Neml",
+      "ayah_ref": "27:58",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمُنذَرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden açıkça uyarılıp tehlikeden haberdar edilmiş olanlar (`ٱلْمُنذَرِينَ`, IV. bab ism-i mef'ûl mecrûr)",
+      "context_snippet_arabic": "مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Geride kalanların üzerlerine bir yağmur yağdırdık. Uyarılan fakat yola gelmeyenlerin yağmuru ne kötü idi!",
+      "morphology": {
+        "lemma": "mun*ariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:mun*ariyn|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geride kalanların üzerlerine bir yağmur yağdırdık. Uyarılan fakat yola gelmeyenlerin yağmuru ne kötü idi!",
+      "contextual_meaning": "Uyarıya kulak asmayan önceki toplulukların ibretlik akıbeti (`عَٰقِبَةُ ٱلْمُنذَرِينَ` `10:73`, `26:173`, `27:58`, `37:73,177`): İkazdan sonra sorumluluk kesinleşir."
+    },
+    {
+      "surah": 27,
+      "ayah": 92,
+      "surah_name": "Neml",
+      "ayah_ref": "27:92",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْمُنذِرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden uyaranların safından (`ٱلْمُنذِرِينَ`, IV. bab ism-i fâil mecrûr)",
+      "context_snippet_arabic": "إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: \"Ben sadece, uyaranlardan biriyim. \"",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum.\" Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. De ki: \"Ben sadece, uyaranlardan biriyim.\"",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 28,
+      "ayah": 46,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:46",
+      "word_position": 11,
+      "target_word_uthmani": "لِتُنذِرَ",
+      "target_word_rasm": "لتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم",
+      "context_snippet_turkish_tabula_rasa": "... Senden önce kendilerine uyarıcı gelmeyen bir toplumu uyarman için, Rabbinden bir rahmet olarak gönderildin; belki düşünürler.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen, Musa'ya hitap ettiğimiz zaman Tur'un yanında da değildin. Senden önce kendilerine uyarıcı gelmeyen bir toplumu uyarman için, Rabbinden bir rahmet olarak gönderildin; belki düşünürler.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 46,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:46",
+      "word_position": 16,
+      "target_word_uthmani": "نَّذِيرٍ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Bir uyarıcı (`نَذِيرٍ`, nekre mecrûr)",
+      "context_snippet_arabic": "مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Senden önce kendilerine uyarıcı gelmeyen bir toplumu uyarman için, Rabbinden bir rahmet olarak gönderildin; belki düşünürler.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen, Musa'ya hitap ettiğimiz zaman Tur'un yanında da değildin. Senden önce kendilerine uyarıcı gelmeyen bir toplumu uyarman için, Rabbinden bir rahmet olarak gönderildin; belki düşünürler.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 50,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:50",
+      "word_position": 15,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "... \"apaçık göstergeler ancak Rabbimin katındadır. Doğrusu ben, sadece apaçık bir uyarıcıyım. \"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَٰتٌ مِّن رَّبِّهِۦ قُلْ إِنَّمَا ٱلْءَايَٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ona Rabbinden apaçık göstergeler indirilmesi gerekmez miydi?\" derler. De ki: \"apaçık göstergeler ancak Rabbimin katındadır. Doğrusu ben, sadece apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 3,
+      "surah_name": "Secde",
+      "ayah_ref": "32:3",
+      "word_position": 9,
+      "target_word_uthmani": "لِتُنذِرَ",
+      "target_word_rasm": "لتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم",
+      "context_snippet_turkish_tabula_rasa": "... O, senden önce elçi gönderilmemiş olan bir milleti uyarman için sana Rabbinden gelen bir gerçektir. Belki artık doğru yolu bulurlar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Onu elçinin kendisi uydurdu\" diyorlar, öyle mi? Hayır; O, senden önce elçi gönderilmemiş olan bir milleti uyarman için sana Rabbinden gelen bir gerçektir. Belki artık doğru yolu bulurlar.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 3,
+      "surah_name": "Secde",
+      "ayah_ref": "32:3",
+      "word_position": 14,
+      "target_word_uthmani": "نَّذِيرٍ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Bir uyarıcı (`نَذِيرٍ`, nekre mecrûr)",
+      "context_snippet_arabic": "مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... O, senden önce elçi gönderilmemiş olan bir milleti uyarman için sana Rabbinden gelen bir gerçektir. Belki artık doğru yolu bulurlar.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ بَلْ هُوَ ٱلْحَقُّ مِن رَّبِّكَ لِتُنذِرَ قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Onu elçinin kendisi uydurdu\" diyorlar, öyle mi? Hayır; O, senden önce elçi gönderilmemiş olan bir milleti uyarman için sana Rabbinden gelen bir gerçektir. Belki artık doğru yolu bulurlar.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 45,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:45",
+      "word_position": 7,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Biz seni şahit, müjdeci, uyarıcı; Allah'ın izniyle O'na çağıran, nurlandıran bir ışık olarak göndermişizdir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz seni şahit, müjdeci, uyarıcı; Allah'ın izniyle O'na çağıran, nurlandıran bir ışık olarak göndermişizdir.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 28,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:28",
+      "word_position": 7,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "Biz seni bütün insanlara ancak müjdeci ve uyarıcı olarak göndermişizdir; fakat insanların çoğu bilmez.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَٰكَ إِلَّا كَآفَّةً لِّلنَّاسِ بَشِيرًا وَنَذِيرًا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz seni bütün insanlara ancak müjdeci ve uyarıcı olarak göndermişizdir; fakat insanların çoğu bilmez.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 34,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:34",
+      "word_position": 6,
+      "target_word_uthmani": "نَّذِيرٍ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Bir uyarıcı (`نَذِيرٍ`, nekre mecrûr)",
+      "context_snippet_arabic": "فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu uyarıcı göndermiş olduğumuz her kentin varlıklı kimseleri, \"Biz sizinle gönderilen şeyleri gerçeğin üzerini ört\" dediler.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu uyarıcı göndermiş olduğumuz her kentin varlıklı kimseleri, \"Biz sizinle gönderilen şeyleri gerçeğin üzerini ört\" dediler.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 44,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:44",
+      "word_position": 11,
+      "target_word_uthmani": "نَّذِيرٍ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Bir uyarıcı (`نَذِيرٍ`, nekre mecrûr)",
+      "context_snippet_arabic": "إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ",
+      "context_snippet_turkish_tabula_rasa": "Oysa Biz, onlara okuyacakları bir kitap vermemiş ve senden önce de onlara bir uyarıcı göndermemiştik.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ ءَاتَيْنَٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa Biz, onlara okuyacakları bir kitap vermemiş ve senden önce de onlara bir uyarıcı göndermemiştik.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 46,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:46",
+      "word_position": 19,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah için ikişer ikişer ve tek tek kalkınız, sonra düşününüz, göreceksiniz ki arkadaşınızda bir delilik yoktur. O yalnız çetin bir azabın öncesinde sizi uyarmaktadır. ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ مَا بِصَاحِبِكُم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Size tek bir öğüdüm vardır: Allah için ikişer ikişer ve tek tek kalkınız, sonra düşününüz, göreceksiniz ki arkadaşınızda bir delilik yoktur. O yalnız çetin bir azabın öncesinde sizi uyarmaktadır.\"",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 18,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:18",
+      "word_position": 20,
+      "target_word_uthmani": "تُنذِرُ",
+      "target_word_rasm": "تنذر",
+      "target_word_literal_irab": "Tehlikeye karşı önceden uyarır / uyardın (`ءَأَنذَرْتَهُمْ / يُنذِرُ / يُنذِرُونَ`, IV. bab fiil)",
+      "context_snippet_arabic": "ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم",
+      "context_snippet_turkish_tabula_rasa": "... Sen ancak, görmediği halde Rablerinden korkanları, irtibat bağını kılanları uyarırsın. Kim arınırsa, ancak kendisi için arınmış olur; ...",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "ağır sapmaya düşen kimse diğerinin sapma ve kusurunu çekmez. sapma ve ağır kusur yükü ağır olan kimse, onun taşınmasını istese, yakını olsa bile, yükünden birşey taşınmaz. Sen ancak, görmediği halde Rablerinden korkanları, irtibat bağını kılanları uyarırsın. Kim arınırsa, ancak kendisi için arınmış olur; dönüş ancak Allah'adır.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 23,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:23",
+      "word_position": 4,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Sen sadece bir uyarıcısın.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen sadece bir uyarıcısın.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 24,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:24",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِّنْ أُمَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Biz seni, müjdeci ve uyarıcı olarak, gerçekle gönderdik. Geçmiş her ümmet içinde de mutlaka bir uyarıcı bulunagelmiştir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Biz seni, müjdeci ve uyarıcı olarak, gerçekle gönderdik. Geçmiş her ümmet içinde de mutlaka bir uyarıcı bulunagelmiştir.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 24,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:24",
+      "word_position": 12,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِلَّا خَلَا فِيهَا نَذِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Biz seni, müjdeci ve uyarıcı olarak, gerçekle gönderdik. Geçmiş her ümmet içinde de mutlaka bir uyarıcı bulunagelmiştir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Biz seni, müjdeci ve uyarıcı olarak, gerçekle gönderdik. Geçmiş her ümmet içinde de mutlaka bir uyarıcı bulunagelmiştir.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 37,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:37",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلنَّذِيرُ",
+      "target_word_rasm": "ٱلنذير",
+      "target_word_literal_irab": "O beklenen gerçek uyarıcı (`ٱلنَّذِيرُ`, marife isim merfû)",
+      "context_snippet_arabic": "مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Orada; \"Rabbimiz! Bizi çıkar; ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada; \"Rabbimiz! Bizi çıkar; yaptığımızdan başka, yararlı iş işleyelim\" diye bağrışırlar. O zaman onlara şöyle deriz: \"Öğüt alacak kişinin öğüt alabileceği kadar bir süre sizi yaşatmadık mi? Size uyarıcı da gelmişti. Artık azabı tadınız, zalimlerin yardımcısı olmaz.\"",
+      "contextual_meaning": "Ömür ve akıl verildiği hâlde sorumluluktan kaçanlara 'size beklenen uyarıcı gelmedi mi?' (`وَجَآءَكُمُ ٱلنَّذِيرُ` `35:37`) sorusu."
+    },
+    {
+      "surah": 35,
+      "ayah": 42,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:42",
+      "word_position": 7,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 42,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:42",
+      "word_position": 15,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "ٱلْأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 6,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:6",
+      "word_position": 1,
+      "target_word_uthmani": "لِتُنذِرَ",
+      "target_word_rasm": "لتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ",
+      "context_snippet_turkish_tabula_rasa": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.",
+      "contextual_meaning": "Önceden ikaz edilmemiş bir topluluktan başlayıp bütün merkezlere ve büyük toplanma gününe yayılan çok katmanlı uyarı (`36:6`, `42:7`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 6,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:6",
+      "word_position": 4,
+      "target_word_uthmani": "أُنذِرَ",
+      "target_word_rasm": "أنذر",
+      "target_word_literal_irab": "Önceden kendilerine uyarı yapılmış (`أُنذِرَ / أُنذِرُوا۟ / يُنذَرُوا۟`, IV. bab meçhul)",
+      "context_snippet_arabic": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>an*ara|ROOT:n*r|3MS"
+      },
+      "ayah_text_arabic_full": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.",
+      "contextual_meaning": "Önceden ikaz edilmemiş bir topluluktan başlayıp bütün merkezlere ve büyük toplanma gününe yayılan çok katmanlı uyarı (`36:6`, `42:7`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 10,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:10",
+      "word_position": 3,
+      "target_word_uthmani": "ءَأَنذَرْتَهُمْ",
+      "target_word_rasm": "ءأنذرتهم",
+      "target_word_literal_irab": "Tehlikeye karşı önceden uyarır / uyardın (`ءَأَنذَرْتَهُمْ / يُنذِرُ / يُنذِرُونَ`, IV. bab fiil)",
+      "context_snippet_arabic": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onları uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "contextual_meaning": "Önyargıyla kalbini kilitleyenler için ikaz döngüsünün eşik duvarı (`ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ`): İçten kapatana dış uyarı tesir etmez."
+    },
+    {
+      "surah": 36,
+      "ayah": 10,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:10",
+      "word_position": 6,
+      "target_word_uthmani": "تُنذِرْهُمْ",
+      "target_word_rasm": "تنذرهم",
+      "target_word_literal_irab": "Uyarmasan da (`تُنذِرْهُمْ`, IV. bab meczûm muzâri)",
+      "context_snippet_arabic": "ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onları uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "contextual_meaning": "Önyargıyla kalbini kilitleyenler için ikaz döngüsünün eşik duvarı (`ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ`): İçten kapatana dış uyarı tesir etmez."
+    },
+    {
+      "surah": 36,
+      "ayah": 11,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:11",
+      "word_position": 2,
+      "target_word_uthmani": "تُنذِرُ",
+      "target_word_rasm": "تنذر",
+      "target_word_literal_irab": "Tehlikeye karşı önceden uyarır / uyardın (`ءَأَنذَرْتَهُمْ / يُنذِرُ / يُنذِرُونَ`, IV. bab fiil)",
+      "context_snippet_arabic": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ",
+      "context_snippet_turkish_tabula_rasa": "Sen ancak, Kuran'a uyan ve görmediği halde Rahman'dan korkan kimseyi uyarabilirsin. Artık o kimseyi, bağışlanma ve cömertçe verilecek bir ecirle müjdele.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen ancak, Kuran'a uyan ve görmediği halde Rahman'dan korkan kimseyi uyarabilirsin. Artık o kimseyi, bağışlanma ve cömertçe verilecek bir ecirle müjdele.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 70,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:70",
+      "word_position": 1,
+      "target_word_uthmani": "لِّيُنذِرَ",
+      "target_word_rasm": "لينذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "لِّيُنذِرَ مَن كَانَ حَيًّا",
+      "context_snippet_turkish_tabula_rasa": "Diri olan kimseyi uyarsın ve verilen söz de gerçeğin üzerini örtenlerin aleyhine çıksın.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيُنذِرَ مَن كَانَ حَيًّا وَيَحِقَّ ٱلْقَوْلُ عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Diri olan kimseyi uyarsın ve verilen söz de gerçeğin üzerini örtenlerin aleyhine çıksın.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 72,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:72",
+      "word_position": 4,
+      "target_word_uthmani": "مُّنذِرِينَ",
+      "target_word_rasm": "منذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, içlerine uyarıcılar göndermiştik.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, içlerine uyarıcılar göndermiştik.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 37,
+      "ayah": 73,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:73",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُنذَرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden açıkça uyarılıp tehlikeden haberdar edilmiş olanlar (`ٱلْمُنذَرِينَ`, IV. bab ism-i mef'ûl mecrûr)",
+      "context_snippet_arabic": "كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Uyarıldığı halde yola gelmeyenlerin sonunun nasıl olduğuna bir bak!",
+      "morphology": {
+        "lemma": "mun*ariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:mun*ariyn|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Uyarıldığı halde yola gelmeyenlerin sonunun nasıl olduğuna bir bak!",
+      "contextual_meaning": "Uyarıya kulak asmayan önceki toplulukların ibretlik akıbeti (`عَٰقِبَةُ ٱلْمُنذَرِينَ` `10:73`, `26:173`, `27:58`, `37:73,177`): İkazdan sonra sorumluluk kesinleşir."
+    },
+    {
+      "surah": 37,
+      "ayah": 177,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:177",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمُنذَرِينَ",
+      "target_word_rasm": "ٱلمنذرين",
+      "target_word_literal_irab": "Önceden açıkça uyarılıp tehlikeden haberdar edilmiş olanlar (`ٱلْمُنذَرِينَ`, IV. bab ism-i mef'ûl mecrûr)",
+      "context_snippet_arabic": "بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "O azap, yurtlarına indiğinde, uyarılan fakat yola gelmeyenlerin sabahı ne kötü olur!",
+      "morphology": {
+        "lemma": "mun*ariyn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:mun*ariyn|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O azap, yurtlarına indiğinde, uyarılan fakat yola gelmeyenlerin sabahı ne kötü olur!",
+      "contextual_meaning": "Uyarıya kulak asmayan önceki toplulukların ibretlik akıbeti (`عَٰقِبَةُ ٱلْمُنذَرِينَ` `10:73`, `26:173`, `27:58`, `37:73,177`): İkazdan sonra sorumluluk kesinleşir."
+    },
+    {
+      "surah": 38,
+      "ayah": 4,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:4",
+      "word_position": 4,
+      "target_word_uthmani": "مُّنذِرٌ",
+      "target_word_rasm": "منذر",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`مُنذِرٌ`, IV. bab nekre ism-i fâil merfû)",
+      "context_snippet_arabic": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ ٱلْكَٰفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Aralarından bir uyarıcının gelmesine şaşmışlardı. gerçeğin üzerini örtenler: ...",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ وَقَالَ ٱلْكَٰفِرُونَ هَٰذَا سَٰحِرٌ كَذَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarından bir uyarıcının gelmesine şaşmışlardı. gerçeğin üzerini örtenler: \"Bu, pek yalancı bir sihirbazdır; sahte sığınakları tek bir sığınak mercii (ilâh) mı yaptı? Doğrusu bu tuhaf bir şeydir\" demişlerdi.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 38,
+      "ayah": 65,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:65",
+      "word_position": 4,
+      "target_word_uthmani": "مُنذِرٌ",
+      "target_word_rasm": "منذر",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`مُنذِرٌ`, IV. bab nekre ism-i fâil merfû)",
+      "context_snippet_arabic": "قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌ وَمَا مِنْ إِلَٰهٍ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben sadece bir uyarıcıyım. Gücü her şeye yeten tek Allah'tan başka sığınak mercii (ilâh) yoktur.\"",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben sadece bir uyarıcıyım. Gücü her şeye yeten tek Allah'tan başka sığınak mercii (ilâh) yoktur.\"",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 38,
+      "ayah": 70,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:70",
+      "word_position": 7,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Bana sadece vahyolunuyor; doğrusu ben ancak apaçık bir uyarıcıyım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bana sadece vahyolunuyor; doğrusu ben ancak apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 71,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:71",
+      "word_position": 23,
+      "target_word_uthmani": "وَيُنذِرُونَكُمْ",
+      "target_word_rasm": "وينذرونكم",
+      "target_word_literal_irab": "Tehlikeye karşı önceden uyarır / uyardın (`ءَأَنذَرْتَهُمْ / يُنذِرُ / يُنذِرُونَ`, IV. bab fiil)",
+      "context_snippet_arabic": "عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, bölük bölük yakıcı yıkım yurduna sürülür. Oraya vardıklarında kapıları açılır; bekçileri onlara: \"Size içinizden Rabbinizin ayetlerin...",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MP"
+      },
+      "ayah_text_arabic_full": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ بَلَىٰ وَلَٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, bölük bölük yakıcı yıkım yurduna sürülür. Oraya vardıklarında kapıları açılır; bekçileri onlara: \"Size içinizden Rabbinizin ayetlerini okuyan ve bugüne kavuşacağınızı ihtar eden elçiler gelmedi mi\" derler. \"Evet geldi\" derler. Lakin azap sözü gerçeğin üzerini örtenlerin aleyhine gerçekleşir.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 15,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:15",
+      "word_position": 14,
+      "target_word_uthmani": "لِيُنذِرَ",
+      "target_word_rasm": "لينذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+      "context_snippet_turkish_tabula_rasa": "Arş sahibi, varlıkların en yücesi olan Allah, kavuşma gününü ihtar etmek için kullarından dilediğine emriyle vahyi indirir.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Arş sahibi, varlıkların en yücesi olan Allah, kavuşma gününü ihtar etmek için kullarından dilediğine emriyle vahyi indirir.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 18,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:18",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنذِرْهُمْ",
+      "target_word_rasm": "وأنذرهم",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَنذِرْهُمْ يَوْمَ ٱلْءَازِفَةِ إِذِ",
+      "context_snippet_turkish_tabula_rasa": "Onları, yüreklerin ağıza geleceği, tasadan yutkunacakları, yaklaşan kıyamet günü ile uyar. Zalimlerin ne dostu ne de sözü dinlenecek şefaatçisi olur.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْهُمْ يَوْمَ ٱلْءَازِفَةِ إِذِ ٱلْقُلُوبُ لَدَى ٱلْحَنَاجِرِ كَٰظِمِينَ مَا لِلظَّٰلِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, yüreklerin ağıza geleceği, tasadan yutkunacakları, yaklaşan kıyamet günü ile uyar. Zalimlerin ne dostu ne de sözü dinlenecek şefaatçisi olur.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 4,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:4",
+      "word_position": 2,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "بَشِيرًا وَنَذِيرًا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. Ama insanların çoğu yüz çevirmiştir, onlar işitmezler de: ...",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "بَشِيرًا وَنَذِيرًا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. Ama insanların çoğu yüz çevirmiştir, onlar işitmezler de: \"Bizi çağırdığın şeye karşı kalblerimiz kapalıdır, kulaklarımızda ağırlık, bizimle senin aranda anlaşmamıza engel vardır; istediğini yap, biz de yapacağız\" derler.",
+      "contextual_meaning": "Sevindiren müjde (`بَشِير`) ile tehlikeyi bildiren uyarı (`نَذِير`) arasındaki Mesânî elçilik dengesi."
+    },
+    {
+      "surah": 41,
+      "ayah": 13,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:13",
+      "word_position": 4,
+      "target_word_uthmani": "أَنذَرْتُكُمْ",
+      "target_word_rasm": "أنذرتكم",
+      "target_word_literal_irab": "Ben sizi açıkça uyarıyorum / uyardım (`أُنذِرُكُم / أَنذَرْتُكُم`, IV. bab `1S`)",
+      "context_snippet_arabic": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةً مِّثْلَ صَٰعِقَةِ",
+      "context_snippet_turkish_tabula_rasa": "Eğer yüz çevirirlerse onlara de ki: \"İşte sizi, Ad ve Semud'un başına gelen yıldırıma benzer bir azap ile uyardım.\"",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|1S"
+      },
+      "ayah_text_arabic_full": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةً مِّثْلَ صَٰعِقَةِ عَادٍ وَثَمُودَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yüz çevirirlerse onlara de ki: \"İşte sizi, Ad ve Semud'un başına gelen yıldırıma benzer bir azap ile uyardım.\"",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 7,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:7",
+      "word_position": 6,
+      "target_word_uthmani": "لِّتُنذِرَ",
+      "target_word_rasm": "لتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ",
+      "context_snippet_turkish_tabula_rasa": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "contextual_meaning": "Önceden ikaz edilmemiş bir topluluktan başlayıp bütün merkezlere ve büyük toplanma gününe yayılan çok katmanlı uyarı (`36:6`, `42:7`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 7,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:7",
+      "word_position": 11,
+      "target_word_uthmani": "وَتُنذِرَ",
+      "target_word_rasm": "وتنذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا",
+      "context_snippet_turkish_tabula_rasa": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "contextual_meaning": "Önceden ikaz edilmemiş bir topluluktan başlayıp bütün merkezlere ve büyük toplanma gününe yayılan çok katmanlı uyarı (`36:6`, `42:7`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 23,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:23",
+      "word_position": 9,
+      "target_word_uthmani": "نَّذِيرٍ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Bir uyarıcı (`نَذِيرٍ`, nekre mecrûr)",
+      "context_snippet_arabic": "فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ",
+      "context_snippet_turkish_tabula_rasa": "Senden önce, herhangi bir şehre gönderdiğimiz uyarıcıya, şımarık varlıklıları sadece: \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce, herhangi bir şehre gönderdiğimiz uyarıcıya, şımarık varlıklıları sadece: \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 3,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:3",
+      "word_position": 8,
+      "target_word_uthmani": "مُنذِرِينَ",
+      "target_word_rasm": "منذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 46,
+      "ayah": 3,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:3",
+      "word_position": 14,
+      "target_word_uthmani": "أُنذِرُوا۟",
+      "target_word_rasm": "أنذروا",
+      "target_word_literal_irab": "Önceden kendilerine uyarı yapılmış (`أُنذِرَ / أُنذِرُوا۟ / يُنذَرُوا۟`, IV. bab meçhul)",
+      "context_snippet_arabic": "وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenler, uyarıldıkları şeylerden yüz çevirmektedirler.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(IV)|LEM:>an*ara|ROOT:n*r|3MP"
+      },
+      "ayah_text_arabic_full": "مَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍ مُّسَمًّى وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, gökleri, yeri ve ikisinin arasında bulunanları, ancak gerçek üzere ve belirli bir süre için yarattık; gerçeğin üzerini örtenler, uyarıldıkları şeylerden yüz çevirmektedirler.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 9,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:9",
+      "word_position": 23,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben elçilerin ilki değilim; benim ve sizin başınıza gelecekleri bilmem; ben ancak bana vahyolunana uymaktayım; ben sadece apaçık bir uyarıcıyım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben elçilerin ilki değilim; benim ve sizin başınıza gelecekleri bilmem; ben ancak bana vahyolunana uymaktayım; ben sadece apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 12,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:12",
+      "word_position": 12,
+      "target_word_uthmani": "لِّيُنذِرَ",
+      "target_word_rasm": "لينذر",
+      "target_word_literal_irab": "Önceden uyarmak ve ikaz etmek için (`لِتُنذِرَ / لِيُنذِرَ`, IV. bab mansûb muzâri)",
+      "context_snippet_arabic": "مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... Bu Kuran da, zulmedenleri uyarmak ve iyi davrananlara müjde olmak üzere Arap diliyle indirilmiş, kendinden öncekileri doğrulayan bir Kitap'dır.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>an*ara|ROOT:n*r|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً وَهَٰذَا كِتَٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'dan önce, Musa'nın kitabı (Tevrat), bir rahmet ve rehberdi. Bu Kuran da, zulmedenleri uyarmak ve iyi davrananlara müjde olmak üzere Arap diliyle indirilmiş, kendinden öncekileri doğrulayan bir Kitap'dır.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 21,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:21",
+      "word_position": 5,
+      "target_word_uthmani": "أَنذَرَ",
+      "target_word_rasm": "أنذر",
+      "target_word_literal_irab": "Önceden haber verip uyardı (`أَنذَرَ`, IV. bab mâzî `3MS`)",
+      "context_snippet_arabic": "أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ",
+      "context_snippet_turkish_tabula_rasa": "... ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 21,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:21",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلنُّذُرُ",
+      "target_word_rasm": "ٱلنذر",
+      "target_word_literal_irab": "Gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرُ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "... ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 29,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:29",
+      "word_position": 18,
+      "target_word_uthmani": "مُّنذِرِينَ",
+      "target_word_rasm": "منذرين",
+      "target_word_literal_irab": "Tehlikeyi önceden haber verip uyaran elçiler olarak (`مُنذِرِينَ`, IV. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Kuran'ın okunması bitince, her biri birer uyarıcı olarak milletlerine döndüler.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı dinleyecek görünmeyen bilinçli varlıklardan bir takımını sana yöneltmiştik. Onlar Kuran'ı dinlemeğe hazır olunca birbirlerine: \"Susun\" dediler. Kuran'ın okunması bitince, her biri birer uyarıcı olarak milletlerine döndüler.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 48,
+      "ayah": 8,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:8",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَذِيرًا",
+      "target_word_rasm": "ونذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu seni şahit, müjdeci ve uyarıcı olarak gönderdik. Ey insanlar, siz de Allah'a ve elçisine güven duy, ona yardım edesiniz, O'na saygı gösteresiniz ve O'nu sabah akşam tesbih edesiniz.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu seni şahit, müjdeci ve uyarıcı olarak gönderdik. Ey insanlar, siz de Allah'a ve elçisine güven duy, ona yardım edesiniz, O'na saygı gösteresiniz ve O'nu sabah akşam tesbih edesiniz.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 50,
+      "ayah": 2,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:2",
+      "word_position": 5,
+      "target_word_uthmani": "مُّنذِرٌ",
+      "target_word_rasm": "منذر",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`مُنذِرٌ`, IV. bab nekre ism-i fâil merfû)",
+      "context_snippet_arabic": "عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, Aralarından bir uyarıcının gelmesine şaştılar da: \"Bu şaşılacak bir şey; ...",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, Aralarından bir uyarıcının gelmesine şaştılar da: \"Bu şaşılacak bir şey; öldüğümüz ve toprak olduğumuz zaman dirilecek miyiz? Bu, ihtimali olmayan bir dönüştür\" dediler.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 51,
+      "ayah": 50,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:50",
+      "word_position": 7,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Öyleyse Allah'a koşusun; doğrusu ben sizi O'nun azabı ile açıkça uyaranım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَفِرُّوٓا۟ إِلَى ٱللَّهِ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Öyleyse Allah'a koşusun; doğrusu ben sizi O'nun azabı ile açıkça uyaranım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 51,
+      "ayah": 51,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:51",
+      "word_position": 10,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'ın yanında başkasını sığınak mercii (ilâh) kılmayın; doğrusu ben sizi O'nun azabı ile açıkça uyaranım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَجْعَلُوا۟ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'ın yanında başkasını sığınak mercii (ilâh) kılmayın; doğrusu ben sizi O'nun azabı ile açıkça uyaranım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 53,
+      "ayah": 56,
+      "surah_name": "Necm",
+      "ayah_ref": "53:56",
+      "word_position": 2,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "İşte ilk uyaranlar gibi bu da bir uyarandır.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte ilk uyaranlar gibi bu da bir uyarandır.",
+      "contextual_meaning": "Önceki uyarıcı silsilesinin devamı (`هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ` `53:56`): Aynı kökün tekili ve çoğulu aynı ayette süreklilik kurar."
+    },
+    {
+      "surah": 53,
+      "ayah": 56,
+      "surah_name": "Necm",
+      "ayah_ref": "53:56",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلنُّذُرِ",
+      "target_word_rasm": "ٱلنذر",
+      "target_word_literal_irab": "Önceden gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرِ / بِٱلنُّذُرِ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "İşte ilk uyaranlar gibi bu da bir uyarandır.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte ilk uyaranlar gibi bu da bir uyarandır.",
+      "contextual_meaning": "Önceki uyarıcı silsilesinin devamı (`هَٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ` `53:56`): Aynı kökün tekili ve çoğulu aynı ayette süreklilik kurar."
+    },
+    {
+      "surah": 54,
+      "ayah": 5,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:5",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلنُّذُرُ",
+      "target_word_rasm": "ٱلنذر",
+      "target_word_literal_irab": "Gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرُ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "بَٰلِغَةٌ فَمَا تُغْنِ ٱلنُّذُرُ",
+      "context_snippet_turkish_tabula_rasa": "Bu haberlerin her birinde üstün hikmet vardır; ama uyarmalar fayda vermiyor.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|NOM"
+      },
+      "ayah_text_arabic_full": "حِكْمَةٌۢ بَٰلِغَةٌ فَمَا تُغْنِ ٱلنُّذُرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu haberlerin her birinde üstün hikmet vardır; ama uyarmalar fayda vermiyor.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 16,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:16",
+      "word_position": 4,
+      "target_word_uthmani": "وَنُذُرِ",
+      "target_word_rasm": "ونذر",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Benim azabım ve uyarmam nasılmış?",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|GEN"
+      },
+      "ayah_text_arabic_full": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Benim azabım ve uyarmam nasılmış?",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 54,
+      "ayah": 18,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:18",
+      "word_position": 6,
+      "target_word_uthmani": "وَنُذُرِ",
+      "target_word_rasm": "ونذر",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Ad milleti elçisini yalanlamıştı; Benim azabım ve uyarmam nasılmış?",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milleti elçisini yalanlamıştı; Benim azabım ve uyarmam nasılmış?",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 54,
+      "ayah": 21,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:21",
+      "word_position": 4,
+      "target_word_uthmani": "وَنُذُرِ",
+      "target_word_rasm": "ونذر",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Benim azabım ve uyarmam nasılmış?",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|GEN"
+      },
+      "ayah_text_arabic_full": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Benim azabım ve uyarmam nasılmış?",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 54,
+      "ayah": 23,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:23",
+      "word_position": 3,
+      "target_word_uthmani": "بِٱلنُّذُرِ",
+      "target_word_rasm": "بٱلنذر",
+      "target_word_literal_irab": "Önceden gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرِ / بِٱلنُّذُرِ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Semud milleti uyaran elçileri yalanladı.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milleti uyaran elçileri yalanladı.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 30,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:30",
+      "word_position": 4,
+      "target_word_uthmani": "وَنُذُرِ",
+      "target_word_rasm": "ونذر",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Benim azabım ve uyarmam nasılmış?",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|GEN"
+      },
+      "ayah_text_arabic_full": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Benim azabım ve uyarmam nasılmış?",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 54,
+      "ayah": 33,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:33",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلنُّذُرِ",
+      "target_word_rasm": "بٱلنذر",
+      "target_word_literal_irab": "Önceden gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرِ / بِٱلنُّذُرِ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Lut milleti uyaran elçileri yalanladı.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Lut milleti uyaran elçileri yalanladı.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 36,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:36",
+      "word_position": 2,
+      "target_word_uthmani": "أَنذَرَهُم",
+      "target_word_rasm": "أنذرهم",
+      "target_word_literal_irab": "Önceden haber verip uyardı (`أَنذَرَ`, IV. bab mâzî `3MS`)",
+      "context_snippet_arabic": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Lut, and olsun ki, onları Bizim yakalamamızla uyarmıştı, ama onlar uyarmaları şüphe ile karşılayarak dinlemediler.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Lut, and olsun ki, onları Bizim yakalamamızla uyarmıştı, ama onlar uyarmaları şüphe ile karşılayarak dinlemediler.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 36,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:36",
+      "word_position": 5,
+      "target_word_uthmani": "بِٱلنُّذُرِ",
+      "target_word_rasm": "بٱلنذر",
+      "target_word_literal_irab": "Önceden gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرِ / بِٱلنُّذُرِ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "context_snippet_turkish_tabula_rasa": "Lut, and olsun ki, onları Bizim yakalamamızla uyarmıştı, ama onlar uyarmaları şüphe ile karşılayarak dinlemediler.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Lut, and olsun ki, onları Bizim yakalamamızla uyarmıştı, ama onlar uyarmaları şüphe ile karşılayarak dinlemediler.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 37,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:37",
+      "word_position": 9,
+      "target_word_uthmani": "وَنُذُرِ",
+      "target_word_rasm": "ونذر",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, onlar Lut'un konukları olan kozmik görevlileri elde etmeye kalkıştılar, bunun üzerine gözlerini kör ettik. \"Azabımı ve uyarmalarımı dinlememenin sonucunu tadın\" dedik.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, onlar Lut'un konukları olan kozmik görevlileri elde etmeye kalkıştılar, bunun üzerine gözlerini kör ettik. \"Azabımı ve uyarmalarımı dinlememenin sonucunu tadın\" dedik.",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 54,
+      "ayah": 39,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:39",
+      "word_position": 3,
+      "target_word_uthmani": "وَنُذُرِ",
+      "target_word_rasm": "ونذر",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "context_snippet_turkish_tabula_rasa": "\"Azabımı ve uyarmalarımı dinlememenin sonucunu tadın\" dedik.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|GEN"
+      },
+      "ayah_text_arabic_full": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Azabımı ve uyarmalarımı dinlememenin sonucunu tadın\" dedik.",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 54,
+      "ayah": 41,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:41",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلنُّذُرُ",
+      "target_word_rasm": "ٱلنذر",
+      "target_word_literal_irab": "Gönderilen uyarıcılar ve uyarılar (`ٱلنُّذُرُ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Firavun erkanına uyaranlar geldi.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Firavun erkanına uyaranlar geldi.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 8,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:8",
+      "word_position": 13,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Nerede ise öfkesinden paralanacak! İçine her bir topluluğun atılmasında, bekçileri onlara: \"Size bir uyarıcı gelmemiş miydi?\" diye sorarlar.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede ise öfkesinden paralanacak! İçine her bir topluluğun atılmasında, bekçileri onlara: \"Size bir uyarıcı gelmemiş miydi?\" diye sorarlar.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 9,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:9",
+      "word_position": 5,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar: \"Evet; doğrusu bize bir uyarıcı geldi, fakat biz yalanladık ve Allah hiçbir şey indirmemiştir, siz büyük bir sapıklık içindesiniz demiştik\" derler.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ كَبِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Evet; doğrusu bize bir uyarıcı geldi, fakat biz yalanladık ve Allah hiçbir şey indirmemiştir, siz büyük bir sapıklık içindesiniz demiştik\" derler.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 17,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:17",
+      "word_position": 12,
+      "target_word_uthmani": "نَذِيرِ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Benim önceden yaptığım uyarı (`وَنُذُرِ / نَذِيرِ`, mütekellim yâsı düşmüş uyarı masdarı)",
+      "context_snippet_arabic": "حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+      "context_snippet_turkish_tabula_rasa": "Gökte olanın başınıza taş yağdırmasından güvende misiniz? Benim uyarmamın nasıl olduğunu yakında bileceksiniz.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökte olanın başınıza taş yağdırmasından güvende misiniz? Benim uyarmamın nasıl olduğunu yakında bileceksiniz.",
+      "contextual_meaning": "Kamer ve Mülk sûrelerinde nakaratlaşan yalın masdar uyarısı (`فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ` / `كَيْفَ نَذِيرِ`): İmlâda son `-î` düşse de mânâ 'Benim uyarım nasılmış?'dır."
+    },
+    {
+      "surah": 67,
+      "ayah": 26,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:26",
+      "word_position": 8,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Onu bilmek ancak Allah'a mahsustur. Ben sadece apaçık bir uyarıcıyım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Onu bilmek ancak Allah'a mahsustur. Ben sadece apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 71,
+      "ayah": 1,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:1",
+      "word_position": 7,
+      "target_word_uthmani": "أَنذِرْ",
+      "target_word_rasm": "أنذر",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ",
+      "context_snippet_turkish_tabula_rasa": "\"Milletine can yakıcı bir azap gelmezden önce onları uyar\" diye Nuh'u milletine gönderdik.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Milletine can yakıcı bir azap gelmezden önce onları uyar\" diye Nuh'u milletine gönderdik.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 71,
+      "ayah": 2,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:2",
+      "word_position": 5,
+      "target_word_uthmani": "نَذِيرٌ",
+      "target_word_rasm": "نذير",
+      "target_word_literal_irab": "Açıkça uyaran, tehlikeyi haber veren bir uyarıcı (`نَذِيرٌ / وَنَذِيرٌ`, nekre merfû)",
+      "context_snippet_arabic": "يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "O da şöyle söyledi: \"Ey Milletim! Şüphesiz ben, size gönderilmiş apaçık bir uyarıcıyım.\"",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O da şöyle söyledi: \"Ey Milletim! Şüphesiz ben, size gönderilmiş apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 2,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:2",
+      "word_position": 2,
+      "target_word_uthmani": "فَأَنذِرْ",
+      "target_word_rasm": "فأنذر",
+      "target_word_literal_irab": "Yaklaşan sonuca karşı uyar ve uyandır (`أَنذِرْ / فَأَنذِرْ / أَنذِرُوا۟`, IV. bab emir)",
+      "context_snippet_arabic": "قُمْ فَأَنذِرْ",
+      "context_snippet_turkish_tabula_rasa": "Kalk da uyar.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>an*ara|ROOT:n*r|2MS"
+      },
+      "ayah_text_arabic_full": "قُمْ فَأَنذِرْ",
+      "ayah_text_turkish_tabula_rasa_full": "Kalk da uyar.",
+      "contextual_meaning": "Yakın çevreden (`وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ` `26:214`) başlayarak ayağa kalkıp toplumu uyarma çağrısı (`قُمْ فَأَنذِرْ` `74:2`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 36,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:36",
+      "word_position": 1,
+      "target_word_uthmani": "نَذِيرًا",
+      "target_word_rasm": "نذيرا",
+      "target_word_literal_irab": "Bir uyarıcı ve tehlike habercisi olarak (`نَذِيرًا / وَنَذِيرًا`, nekre mansûb)",
+      "context_snippet_arabic": "نَذِيرًا لِّلْبَشَرِ",
+      "context_snippet_turkish_tabula_rasa": "... Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan yakıcı yıkım yurdu büyük olaylardan biridir.",
+      "morphology": {
+        "lemma": "na*iyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:na*iyr|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "نَذِيرًا لِّلْبَشَرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan yakıcı yıkım yurdu büyük olaylardan biridir.",
+      "contextual_meaning": "Mazeretlerin kesildiği, her topluluğa gönderilmiş evrensel tehlike uyarıcısı ve açık ikaz (`نَذِير` `10:101`, `15:89`, `35:23,42`, `54:5,23`, `67:8-9,26`)."
+    },
+    {
+      "surah": 76,
+      "ayah": 7,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:7",
+      "word_position": 2,
+      "target_word_uthmani": "بِٱلنَّذْرِ",
+      "target_word_rasm": "بٱلنذر",
+      "target_word_literal_irab": "Kişinin gönüllü olarak üstlendiği bağlayıcı adak ve sorumluluk (`نَّذْرٍ / بِٱلنَّذْرِ`, isim mecrûr)",
+      "context_snippet_arabic": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar verdikleri sözleri yerine getirirler, fenalığı yaygın olan bir günden korkarlar.",
+      "morphology": {
+        "lemma": "n~a*or",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:n~a*or|ROOT:n*r|M|GEN"
+      },
+      "ayah_text_arabic_full": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar verdikleri sözleri yerine getirirler, fenalığı yaygın olan bir günden korkarlar.",
+      "contextual_meaning": "Adak (`نَذْر`) edilen her hayır veya bağlayıcı sözün şeffaflığı (`2:270`) ve sözüne sadık kalmanın (`يُوفُونَ بِٱلنَّذْرِ` `76:7`) övgüsü."
+    },
+    {
+      "surah": 77,
+      "ayah": 6,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:6",
+      "word_position": 3,
+      "target_word_uthmani": "نُذْرًا",
+      "target_word_rasm": "نذرا",
+      "target_word_literal_irab": "Her türlü bahaneyi kesen kesin uyarı ve hatırlatma olarak (`نُذْرًا`, masdar-isim mansûb)",
+      "context_snippet_arabic": "عُذْرًا أَوْ نُذْرًا",
+      "context_snippet_turkish_tabula_rasa": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren kozmik görevlilere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.",
+      "morphology": {
+        "lemma": "nu*or",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:nu*or|ROOT:n*r|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "عُذْرًا أَوْ نُذْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren kozmik görevlilere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.",
+      "contextual_meaning": "İlâhî ikazın iki işlevi (`عُذْرًا أَوْ نُذْرًا` `77:6`): Hem mazeret bırakmamak (`عُذْر`) hem de yaklaşan sonuca karşı uyarmak (`نُذْر`)."
+    },
+    {
+      "surah": 78,
+      "ayah": 40,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:40",
+      "word_position": 2,
+      "target_word_uthmani": "أَنذَرْنَٰكُمْ",
+      "target_word_rasm": "أنذرنكم",
+      "target_word_literal_irab": "Biz sizi kesinlikle uyardık (`أَنذَرْنَٰكُم`, IV. bab `1P`)",
+      "context_snippet_arabic": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ",
+      "context_snippet_turkish_tabula_rasa": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve gerçeğin üzerini örten da: \"Keşke toprak olaydım\" der.",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve gerçeğin üzerini örten da: \"Keşke toprak olaydım\" der.",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    },
+    {
+      "surah": 79,
+      "ayah": 45,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:45",
+      "word_position": 3,
+      "target_word_uthmani": "مُنذِرُ",
+      "target_word_rasm": "منذر",
+      "target_word_literal_irab": "Yaklaşan hesap tehlikesinin uyarıcısı (`مُنذِرُ`, IV. bab marife/muzâf ism-i fâil merfû)",
+      "context_snippet_arabic": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Sen sadece kıyametten korkanı uyaransın.",
+      "morphology": {
+        "lemma": "mun*ir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(IV)|LEM:mun*ir|ROOT:n*r|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Sen sadece kıyametten korkanı uyaransın.",
+      "contextual_meaning": "Vahyin korkutma değil uyandırma elçiliği (`مُنذِر` `13:7`, `26:194`, `38:4,65`, `46:29`, `50:2`, `79:45`): İnsanlara mazeret bırakmayan erken ikaz."
+    },
+    {
+      "surah": 92,
+      "ayah": 14,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:14",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنذَرْتُكُمْ",
+      "target_word_rasm": "فأنذرتكم",
+      "target_word_literal_irab": "Ben sizi açıkça uyarıyorum / uyardım (`أُنذِرُكُم / أَنذَرْتُكُم`, IV. bab `1S`)",
+      "context_snippet_arabic": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sizi alevler saçan ateşle uyardım;",
+      "morphology": {
+        "lemma": ">an*ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>an*ara|ROOT:n*r|1S"
+      },
+      "ayah_text_arabic_full": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi alevler saçan ateşle uyardım;",
+      "contextual_meaning": "Vahiy bilinciyle yaklaşan tehlike ve sorumluluğa karşı uyarma (`أَنذَرَ` `6:19,51`, `14:44`, `19:39`, `40:18`, `46:21`, `54:36`, `71:1`, `78:40`, `92:14`)."
+    }
+  ]
+}

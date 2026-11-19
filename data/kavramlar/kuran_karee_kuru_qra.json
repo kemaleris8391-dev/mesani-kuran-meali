@@ -1,0 +1,1884 @@
+{
+  "root": "ق-ر-أ",
+  "root_latin": "K-R-E (qrA)",
+  "concept_name": "Kur’an / Karae / Kurû’ (Dağınık Olanı Toplayıp Bütünleme, Okuma ve Döngüsel Birikim)",
+  "rank": 127,
+  "total_occurrences": 88,
+  "unique_ayahs_count": 79,
+  "unified_core_mechanism": "Kökün `88` geçişlik tamamı iki yüzlü tek merkezden güç alır: (1) Parçaları anlamlı, düzenli ve döngüsel bir bütünlükte bir araya getirmek (`جَمْع`, `قُرُوٓءٍ` `2:228`, `جَمْعَهُۥ وَقُرْءَانَهُۥ` `75:17`); (2) Bu bütünlüğü bilinçle kavramak ve başkalarına duyulur biçimde seslendirmek (`قَرَأَ`, `ٱقْرَأْ` `96:1`, `تَرْتِيل` `73:4`, `فَٱسْتَمِعُوا۟` `7:204`). Kur'an hem insanın biyolojik yaşam döngüsünü (`قُرُوٓءٍ`), hem bireyin hesap gününde kendi amel sicilini okumasını (`17:14`, `69:19`), hem de çelişkisiz (`4:82`), kolaylaştırılmış (`54:17`), bölüm bölüm okunan (`17:106`) ilâhî vahyi aynı `toplayıcı-bütünleyici okuma` mekaniğiyle birbirine kenetler.",
+  "physical_core": "Dağınık öğeleri, harfleri, hükümleri veya zaman akışlarını tek bir kapta ya da düzende bir araya getirip toplamak ve bu bütünlüğü sesli/bilinçli biçimde açığa çıkarıp okumak (`ٱلْجَمْعُ وَٱلضَّمُّ وَتَرْتِيلُ ٱلْمَجْمُوعِ`). İbn Fâris'in tespit ettiği üzere kökün üç zahiren uzak görünen türevi tek çekirdekte kilitlenir: (1) `قُرْء` / `قُرُوٓءٍ` (`2:228`) rahimde kan veya temizlik devresinin döngüsel olarak toplanıp boşalmasını, (2) `قَرَأَ` (`16 V`) dağınık harf ve satırları zihinde ve dilde birleştirip okumayı (`96:1,3`, `17:14`), (3) `قُرْءَان` (`70`) ise önceki hikmeti, ayetleri ve ilkeleri tek bir uyumlu bütünlük içinde derleyen ve yüksek sesle seslendirilen vahiy külliyatını (`جَمْعَهُۥ وَقُرْءَانَهُۥ` `75:17`) ifade eder.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `kaf-ra-hemze (قرأ)` kökünü aynı bölgedeki `ق-ر-ي` ('havuzda su birikmesi, köyde insanların toplanması') ile paralel görerek tek sahih çekirdeğe bağlar: 'biriktirmek, toplamak ve bir araya getirmek (`el-cem ve'l-ictimâ`)'. Hem `الْقُرْءَان` adının ('içinde kıssa, ilke ve hikmetleri toplaması' sebebiyle), hem de `قُرُوٓء` (`2:228`) kavramının ('rahimde devrin toplanıp geçiş yapması') tam buradan türediğini kanıtlar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) ince bir sınır çizer: `قِرَاءَة` her türlü toplama değil 'harfleri ve kelimeleri tertîl düzeniyle birbirine ekleyip okumaktır'; bu yüzden kalabalığı toplamaya `قَرَأْتُ ٱلْقَوْمَ` denmez. `قَرْء / قُرُوٓء` (`2:228`) kelimesinin de 'arılık evresinden hayız kanamasına geçişi birleştiren döngü' adını taşıması yüzünden Arapçada hem temizliğe hem kanamaya kullanılabildiğini açıklar.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `مَا قَرَأَتْ سَلًى قَطُّ` ('rahmi hiçbir zaman döl/yavru toplayıp tutmadı') deyimiyle kökteki somut 'toplayıp içinde tutma' anlamını belgeler; `75:17` ayetindeki `إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ` paralelinin ise `جَمْع` ile `قُرْءَان` arasında doğrudan eşanlam köprüsü kurduğunu kaydeder.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `88` geçişin tamamı 'dağınık parçaları bir bütün içinde toplayıp döngüsel ya da sesli düzene sokmak' çekirdeğinde kenetlenir. `2:228`deki `قُرُوٓء` bu mekaniğin biyolojik döngü yüzü, `17:14` ve `69:19` kişinin kendi hayat kitabını derleyip okuması, `75:17-18` vahyî metnin derlenip seslendirilmesi, `87:6` ve `96:1-3` ise okuma-okutma sürecinin doğrudan ilâhî garanti altına alınmasıdır."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `קָרָא` (*qārāʾ*, BDB: 'yüksek sesle çağırmak, ilan etmek, bir araya çağırmak, sesli okumak' — örn. Tesniye 17:19) ses ve harf bakımından doğrudan paraleldir.",
+    "aramaic_syriac": "Aramca ve Süryanicede `קְרָא / ܩܪܳܐ` (*qərā*, CAL: 'çağırmak, okumak') ve özellikle Süryanice `ܩܶܪܝܳܢܳܐ` (*qeryānā*, 'sesli okunan kutsal ders, tilâvet bölümleri') Arapçadaki `قُرْءَان` yapısıyla kalıp ve fonksiyon bakımından yakın paralel oluşturur.",
+    "akkadian_and_ethiopic": "Doğu Semitik Akadcada `qerû(m)` / `qarû` (CAD Q, ss. 231-233: 'davet etmek, bir araya çağırmak') kelimenin ilkel 'insanları sesle bir noktaya toplama' çekirdeğini korur. Güney Semitik Eski Etiyopça Geez'de ise okuma/söyleme için başka kökler (`nababa / anbaba`) öne çıktığından (*Leslau CDG*), `q-r-ʾ` özellikle Doğu-Kuzeybatı-Merkezî Semitikte canlıdır.",
+    "phonological_note": "Proto-Sami `*ḳ-r-ʔ` kökü Akadcada *qerû* ('davet edip toplamak'), İbranice *qārāʾ* ve Aramca-Süryanice *qərā* ('yüksek sesle ilan etmek, toplamak, okumak') biçiminde ünsüzlerini korur (`*ḳ > Arapça ق`, `*r > ر`, `*ʔ > أ`). Dikkat çekici bir nokta olarak Arapça hem Batı Semitik 'sesli ilan ve okuma' çizgisini (`قَرَأَ / قُرْءَان`), hem de klasik 'bir araya toplama' somut anlamını (`جَمْعَهُۥ وَقُرْءَانَهُۥ` `75:17`, `قُرُوٓءٍ` `2:228`) bir arada muhafaza etmiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ر-ق (`وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ` `17:106` & `قُرْءَان / عِضِينَ` `15:91` — Parçaları Ahenkle Toplayıp Bütünleştiren `قُرْءَان` vs Duruma Göre Aşamalı Ayırma `فَرَقْنَٰهُ` veya Keyfî Parçalama `عِضِينَ`)",
+      "ن-ص-ت / س-م-ع vs ل-غ-و (`وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟` `7:204` vs `لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ` `41:26` — Kur'an Okunurken Dikkatle Susup Dinleme vs Gürültü Çıkarıp Sabote Etme)",
+      "ن-س-ي (`سَنُقْرِئُكَ فَلَا تَنسَىٰٓ` `87:6`; `ٱتَّخَذُوا۟ هَٰذَا ٱلْقُرْءَانَ مَهْجُورًا` `25:30` — Kalbe Yerleştirilip Okunan ve Unutulmayan Vahiy vs Terk Edilip Unutulan Söz)",
+      "ش-ع-ر (`وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ ... إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ` `36:69` — Apaçık Öğüt ve Toplayıcı Okuyuş vs Kurgu ve Şiir)"
+    ],
+    "key_ayahs": [
+      "2:185",
+      "2:228",
+      "4:82",
+      "6:19",
+      "7:204",
+      "10:15",
+      "10:37",
+      "12:2",
+      "13:31",
+      "15:87",
+      "15:91",
+      "16:98",
+      "17:9",
+      "17:14",
+      "17:45",
+      "17:71",
+      "17:78",
+      "17:82",
+      "17:88",
+      "17:106",
+      "20:114",
+      "25:30",
+      "25:32",
+      "27:92",
+      "36:69",
+      "39:28",
+      "41:26",
+      "41:44",
+      "43:3",
+      "46:29",
+      "47:24",
+      "54:17",
+      "55:2",
+      "56:77",
+      "59:21",
+      "69:19",
+      "72:1",
+      "73:4",
+      "73:20",
+      "75:17",
+      "75:18",
+      "84:21",
+      "85:21",
+      "87:6",
+      "96:1",
+      "96:3"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ق-ر-أ` dağınık olanı tutarlı düzende toplayıp okumak ise zıddı nedir?' Cevap: (1) Okuma ve dinleme sahasında tam karşıtı `لَا تَسْمَعُوا۟ ... وَٱلْغَوْا۟ فِيهِ` (`41:26` 'dinlemeyip boş gürültüyle boğun' — `7:204` `فَٱسْتَمِعُوا۟ وَأَنصِتُوا۟` karşısında), `عِضِينَ` (`15:91` 'işine geldiği gibi bölüp parçalamak'), `مَهْجُورًا` (`25:30` 'terk edilmiş bırakmak') ve `أَعْجَمِيّ` / `عِوَج` (`39:28`, `41:44`) eksenleridir. (2) Vahiy yöntemi içinde ise `قُرْءَان` ('hepsini tek bütüne toplama') ile `فَرَقْنَٰهُ` (`17:106` 'zamana yayarak bölüm bölüm açma') ve `نَزَّلْنَا تَنزِيلًا` (`25:32`) arasında üretken bir Mesânî dengesi çalışır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`جَمْعَهُۥ` (`Vahyin zihinde ve metinde toplanıp korunması`) vs `وَقُرْءَانَهُۥ` (`O bütünün dili ve okunuşuyla seslendirilmesi` — `75:17-18` `POS:N` mastar!)",
+      "`سَبْعًا مِّنَ ٱلْمَثَانِى` (`Tekrarlanan ikili eksen / Fâtiha yedisi`) vs `وَٱلْقُرْءَانَ ٱلْعَظِيمَ` (`Büyük toplayıcı bütünlük` — `15:87`)",
+      "`قُرْءَانًا` (`Genel ve zamana yayılmış okuma/bütüncül seslendirme` `17:106`) vs `فَرَقْنَٰهُ` (`Kavrayış için ayrıştırıp bölme` — `17:106`, `25:32`)",
+      "`كَتَٰب / ٱلْكِتَٰب` (`Yazılı olarak kaydedilip mühürlenen hüküm`) vs `قُرْءَان / قَرَأَ` (`O yazının veya vahyin sesli okunarak topluca aktarılması` — `10:94`, `15:1`, `17:14,71,93`, `27:1`)",
+      "`قُرُوٓءٍ` (`2:228` biyolojik döngü birikimi) vs `قُرْءَان` (`75:17` kelâm birikimi ve okuması)"
+    ],
+    "mechanical_difference": "1) `75:17-18` ayetleri kökün anlam köprüsünü bizzat verir: `إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ * فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ` — Burada `قُرْءَانَهُۥ` (kurumsal özel ad olarak değil, `POS:N` mastar halinde!) `جَمْع` (toplama) ile eşleştirilir ve elçinin aceleyle ezber kaygısına düşmek (`20:114` `لَا تَعْجَلْ بِٱلْقُرْءَانِ`) yerine ilâhî derleme ve okutma sürecini (`87:6` `سَنُقْرِئُكَ فَلَا تَنسَىٰٓ`) izlemesi istenir. 2) `17:106` tek ayette kökün diyalektiğini kurar: `وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ` — Toplayıcı bütüne (`قُرْءَان`) karşı `فَرَقْنَٰهُ` ('bölümlere ayırdık') konur ki insanlar onu zamana yayarak okusun. 3) `17:14` (`ٱقْرَأْ كِتَٰبَكَ`), `17:71` (`يَقْرَءُونَ كِتَٰبَهُمْ`) ve `69:19` (`ٱقْرَءُوا۟ كِتَٰبِيَهْ`) her bireyin kendi hayat dosyasının da `قَرَأَ` ile okunduğunu gösterir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "96:1,3 & 75:17-18 & 87:6 & 20:114",
+      "role": "İlk Okuma Emri, Derleme ve Hafıza Garantisi Çapası (`ٱقْرَأْ` / `جَمْعَهُۥ وَقُرْءَانَهُۥ` / `سَنُقْرِئُكَ`)",
+      "literal_meaning": "'Yaratan Rabbinin adıyla toplayıp oku (`96:1,3`)', 'onu bir araya toplamak (`جَمْعَهُۥ`) ve okunuşunu sağlamak (`قُرْءَانَهُۥ`) Bize aittir (`75:17-18`)', 'sana Biz okutturacağız da unutmayacaksın (`87:6`)' ve 'vahyinin tamamlanmasından önce okumada acele etme (`20:114`).'"
+    },
+    {
+      "ref": "2:228 & 17:14 & 69:19 & 17:71",
+      "role": "Döngüsel Rahim Birikimi (`قُرُوٓءٍ`) ve Kişisel Kitabı Okuma Çapası (`ٱقْرَأْ كِتَٰبَكَ`)",
+      "literal_meaning": "'Boşanan kadınlar kendi özlerinde üç döngüsel birikim/arılık dönemi (`قُرُوٓءٍ`) gözetirler (`2:228`)', 'kendi eylem kitabını oku; bugün özün sana hesap sorucu olarak yeter (`17:14`)' ve 'kitabı sağından verilen alın kitabımı okuyun der (`69:19`, `17:71`).'"
+    },
+    {
+      "ref": "4:82 & 47:24 & 54:17,22,32,40 & 59:21",
+      "role": "Tutarlılık, Tefekkür ve Kolaylaştırılmış Öğüt Çapası (`أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ` / `يَسَّرْنَا`)",
+      "literal_meaning": "'Kur'an'ı derinlemesine düşünüp incelemiyorlar mı? Allah katından başkasından olsaydı onda çok çelişki bulurlardı (`4:82`, `47:24`)', 'biz Kur'an'ı öğüt ve anımsama için kolaylaştırdık (`54:17,22,32,40`)' ve 'onu bir dağa indirseydik sarsılıp çatladığını görürdün (`59:21`).'"
+    },
+    {
+      "ref": "12:2 & 17:106 & 25:32 & 39:28 & 41:44 & 43:3",
+      "role": "Arapça Açık Derleme, Aşamalı İndirme ve Dil Testi Çapası (`قُرْءَٰنًا عَرَبِيًّا` / `فَرَقْنَٰهُ`)",
+      "literal_meaning": "'Akıl erdiresiniz diye eğriliği olmayan Arapça bir Kur'an olarak indirdik/kıldık (`12:2`, `39:28`, `43:3` — Rasm `قرءنا`)', 'üzerinde durarak okuman için bölüm bölüm ayırdık (`17:106`, `25:32`)' ve 'yabancı dilde yapsaydık neden açıklanmadı derlerdi (`41:44`).'"
+    },
+    {
+      "ref": "17:82,88 & 7:204 & 16:98 & 25:30 & 46:29 & 72:1",
+      "role": "Şifa, Meydan Okuma, Dinleme Edebî ve Terk Edilme Şikâyeti Çapası",
+      "literal_meaning": "'Kur'an okunduğunda susup dikkatle dinleyin (`7:204`, `46:29`, `72:1`)', 'insan ve görünmez varlıklar toplansa benzerini getiremez (`17:88`)', 'o güvenenlere şifa ve rahmettir (`17:82`, `41:44`)' ve 'Rabbim, kavmim bu Kur'an'ı terk edilmiş bıraktı (`25:30`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Son harfi hemzeli (*mehmûzu'l-lâm*) `ق-ر-أ` kökünde bitişen zamir veya hareke değişimine göre hemzenin yazım kürsüsü dört ayrı şekle bürünür: sakinse veya öncesinde fetha varsa elif üzerine (`ٱقْرَأْ`, `قَرَأْتَ`, `لِتَقْرَأَهُۥ`, `قَرَأْنَٰهُ`), öncesinde ötre veya kendisi ötreyse vâv üzerine (`نَّقْرَؤُهُۥ` `17:93`, `يَقْرَءُونَ`? Not: `يَقْرَءُونَ`, `ٱقْرَءُوا۟` satır üzerinde hemze + vâv), kesralı ise yâ üzerine (`قُرِئَ` `7:204`, `84:21`, `سَنُقْرِئُكَ` `87:6`) yazılır! 2) Dikkat çekici Rasm-ı Osmânî ince farkı: Kur'an'daki `10` belirsiz mansûb `قُرْءَانًا / قُرْءَٰنًا` geçişinden **`12:2` ve `43:3` (`قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ`)** ayetlerindeki iki geçiş **ortadaki elifi hazfederek `قرءنا`** yazarken, diğer `8` geçiş (`13:31`, `17:106`, `20:113`, `39:28`, `41:3,44`, `42:7`, `72:1`) elifi açık biçimde `قرءانا / وقرءانا` yazar! 3) Kıraatte Yedi İmam'dan **İbn Kesîr el-Mekkî** hemzenin harekesini öncesindeki sakin `ر`'ya nakledip hemzeyi düşürerek her yerde `قُرَان / ٱلْقُرَان` (*nakil*) okur (Şâtıbiyye: `وَنَقْلُ قُرَانٍ وَالْقُرَانِ دَاوَؤُنَا`). 4) `2:228`deki `ثَلَٰثَةَ قُرُوٓءٍ` kırık çoğulu (`فُعُول` vezni, tekili `قَرْء / قُرْء`) `قُرْءَان` dışındaki tek isim türevidir; fıkıhta *tuhr* (arılık dönemi) vs *hayız* (kanama) yorumu bizzat kökteki 'döngüsel toplanıp boşalma' ikili anlamından doğar. `73:20`de `3` kez (`فَٱقْرَءُوا۟` x2 + `ٱلْقُرْءَانِ`), `7` ayette de `2`'şer kez tekrarlar.",
+  "derivatives": {
+    "ٱلْقُرْءَان / قُرْءَان / قُرْءَٰنًا (`70`: `68 PN` özel külliyat + `2 N` mastar `75:17,18`)": "İlkeleri, kıssaları ve hikmeti tek bütünde toplayıp okutulan vahiy (`2:185`, `4:82`, `12:2`, `17:9,82,106`, `54:17`, `73:4`, `75:17-18`)",
+    "قَرَأَ - يَقْرَأُ (`16 V` Form I) & أَقْرَأَ (`1 V` Form IV `87:6` `سَنُقْرِئُكَ`)": "Dağınık harf ve satırları toplayıp sesli/bilinçli okumak (`96:1,3`, `7:204`, `16:98`, `17:14,45`, `69:19`, `73:20`) ve ilâhî olarak okutturup belletmek (`87:6`, `75:18`)",
+    "قُرُوٓءٍ (`1 N` kırık çoğul `2:228` `ثَلَٰثَةَ قُرُوٓءٍ`)": "Boşanma sonrası bekleme süresini belirleyen üç döngüsel birikim/arılık evresi (`قَرْء`'in çoğulu)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 185,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:185",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ramazan ayı, ki onda Kuran, insanlara yol gösterici ve doğruyu yanlıştan ayırıcı belgeler olarak indirildi. Sizden bu ayı idrak eden, onda öz denetim ve sakınma tutsun; ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ramazan ayı, ki onda Kuran, insanlara yol gösterici ve doğruyu yanlıştan ayırıcı belgeler olarak indirildi. Sizden bu ayı idrak eden, onda öz denetim ve sakınma tutsun; hasta veya yolculukta olan, tutamadığı günlerin sayısınca diğer günlerde tutsun. Allah size kolaylık ister, zorluk istemez. Bu kolaylıkları, sayıyı tamamlamanız ve size yol gösterdiğine karşılık O'nu ululamanız için meşru kılmıştır; ola ki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 228,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:228",
+      "word_position": 5,
+      "target_word_uthmani": "قُرُوٓءٍ",
+      "target_word_rasm": "قروء",
+      "target_word_literal_irab": "Üç döngüsel evre (`قُرُوٓءٍ`, kırık çoğul cins isim belirsiz muzâfun ileyh mecrûr — rahimde toplanıp boşalan devre)",
+      "context_snippet_arabic": "يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءٍ وَلَا يَحِلُّ لَهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Boşanan kadınlar, kendi kendilerine üç aybaşı hali beklerler, eğer Allah'a ve ahiret gününe güven duy, rahimlerinde Allah'ın yarattığını gizlemeleri kendilerine...",
+      "morphology": {
+        "lemma": "quruw^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:quruw^'|ROOT:qrA|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلْمُطَلَّقَٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَٰثَةَ قُرُوٓءٍ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَٰحًا وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Boşanan kadınlar, kendi kendilerine üç aybaşı hali beklerler, eğer Allah'a ve ahiret gününe güven duy, rahimlerinde Allah'ın yarattığını gizlemeleri kendilerine helal değildir. Kocaları bu arada barışmak isterlerse, karılarını geri almakta daha çok hak sahibidirler. Kadınların hakları, örfe uygun bir şekilde vazifelerine denktir. Erkeklerin onlardan bir üstün derecesi vardır. Allah güçlüdür. Hakim'dir.",
+      "contextual_meaning": "Döngüsel birikim (`قُرُوٓءٍ` `2:228`) ve bireysel eylem kitabını okuma (`10:94`, `17:14,71,93`, `69:19`): Boşanma sonrası üç döngüsel evre beklemek (`2:228`) ve hesap gününde kişinin kendi sicil kitabını eline alıp okuması (`17:14`, `17:71`, `69:19`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 82,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:82",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ وَلَوْ كَانَ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı durup düşünmüyorlar mı? Eğer o Allah'tan başkasından gelseydi, onda çok aykırılıklar bulurlardı.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı durup düşünmüyorlar mı? Eğer o Allah'tan başkasından gelseydi, onda çok aykırılıklar bulurlardı.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 5,
+      "ayah": 101,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:101",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا",
+      "context_snippet_turkish_tabula_rasa": "... Kuran indirilirken onları sorarsanız size açıklanır (ama üzülürsünüz). Allah sorduğunuz şeyleri affetmiştir. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Size açıklanınca hoşunuza gitmeyecek şeyleri sormayın. Kuran indirilirken onları sorarsanız size açıklanır (ama üzülürsünüz). Allah sorduğunuz şeyleri affetmiştir. Allah Bağışlayan'dır, Halim'dir.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 19,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:19",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah benimle sizin aranızda şahiddir. Bu Kuran bana, sizi ve ulaştığı kimseleri uyarmam için vahyolundu; Allah'la beraber başka sahte sığınaklar bulunduğuna siz mi şahidlik ediyorsunuz?\" de. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَٰدَةً قُلِ ٱللَّهُ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ وَأُوحِىَ إِلَىَّ هَٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ قُل لَّآ أَشْهَدُ قُلْ إِنَّمَا هُوَ إِلَٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şahit olarak hangi şey daha büyüktür\" de. \"Allah benimle sizin aranızda şahiddir. Bu Kuran bana, sizi ve ulaştığı kimseleri uyarmam için vahyolundu; Allah'la beraber başka sahte sığınaklar bulunduğuna siz mi şahidlik ediyorsunuz?\" de. \"Ben şehadet etmem\" de. \"O ancak tek sığınak merciidir, doğrusu ben ortak koşmanızdan uzağım\" de.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 204,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:204",
+      "word_position": 2,
+      "target_word_uthmani": "قُرِئَ",
+      "target_word_rasm": "قرئ",
+      "target_word_literal_irab": "Okunduğu zaman (`قُرِئَ`, I. bab meçhul mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Kuran okunduğu zaman ona kulak verin, dinleyin ki merhamet olunasınız.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qara>a|ROOT:qrA|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran okunduğu zaman ona kulak verin, dinleyin ki merhamet olunasınız.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 204,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:204",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Kuran okunduğu zaman ona kulak verin, dinleyin ki merhamet olunasınız.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran okunduğu zaman ona kulak verin, dinleyin ki merhamet olunasınız.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 111,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:111",
+      "word_position": 23,
+      "target_word_uthmani": "وَٱلْقُرْءَانِ",
+      "target_word_rasm": "وٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz, Allah yolunda savaşıp, öldüren ve öldürülen güvene erenlerin canlarını ve mallarını Tevrat, İncil ve Kuran'da söz verilmiş bir hak olarak esenlik bahçesine karşılık satın almıştır. Verdiği sözü Allah'tan daha çok tutan kim vardır? Öyleyse, yaptığınız alışverişe sevinin; ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz, Allah yolunda savaşıp, öldüren ve öldürülen güvene erenlerin canlarını ve mallarını Tevrat, İncil ve Kuran'da söz verilmiş bir hak olarak esenlik bahçesine karşılık satın almıştır. Verdiği sözü Allah'tan daha çok tutan kim vardır? Öyleyse, yaptığınız alışverişe sevinin; bu büyük başarıdır.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 10,
+      "ayah": 15,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:15",
+      "word_position": 12,
+      "target_word_uthmani": "بِقُرْءَانٍ",
+      "target_word_rasm": "بقرءان",
+      "target_word_literal_irab": "Bir Kur'an / Kur'an'dan (`بِقُرْءَانٍ / قُرْءَانٍ / وَقُرْءَانٍ`, belirsiz mecrûr)",
+      "context_snippet_arabic": "يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara açık açık okununca, bizimle karşılaşmayı ummayanlar, \"Bundan başka bir Kuran getir veya bunu değiştir\" dediler. De ki: ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açık açık okununca, bizimle karşılaşmayı ummayanlar, \"Bundan başka bir Kuran getir veya bunu değiştir\" dediler. De ki: \"Onu kendiliğimden değiştiremem, ben ancak, bana vahyolunana uyarım. Ben Rabbime karşı gelirsem, büyük günün azabına uğramaktan korkarım.\"",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 37,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:37",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "وَمَا كَانَ هَٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن",
+      "context_snippet_turkish_tabula_rasa": "Bu Kuran, Allah'tandır, başkası tarafından uydurulmuş değildir. Ancak kendinden öncekini doğrular ve O Kitap'ı açıklar. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ هَٰذَا ٱلْقُرْءَانُ أَن يُفْتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ ٱلْكِتَٰبِ لَا رَيْبَ فِيهِ مِن رَّبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu Kuran, Allah'tandır, başkası tarafından uydurulmuş değildir. Ancak kendinden öncekini doğrular ve O Kitap'ı açıklar. Alemlerin Rabbinden geldiğinden şüphe yoktur.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 10,
+      "ayah": 61,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:61",
+      "word_position": 9,
+      "target_word_uthmani": "قُرْءَانٍ",
+      "target_word_rasm": "قرءان",
+      "target_word_literal_irab": "Bir Kur'an / Kur'an'dan (`بِقُرْءَانٍ / قُرْءَانٍ / وَقُرْءَانٍ`, belirsiz mecrûr)",
+      "context_snippet_arabic": "تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ وَلَا تَعْمَلُونَ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Ne iş yaparsan yap ve sizler ona dair Kuran'dan ne okursanız okuyun; ne yaparsanız yapın; ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا تَكُونُ فِى شَأْنٍ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَٰبٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne iş yaparsan yap ve sizler ona dair Kuran'dan ne okursanız okuyun; ne yaparsanız yapın; yaptıklarınıza daldığınız anda, mutlaka Biz sizi görürüz. Yerde ve gökte hiçbir zerre Rabbinden gizli değildir. Bundan daha küçüğü veya daha büyüğü şüphesiz apaçık bir Kitap'dadır.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 10,
+      "ayah": 94,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:94",
+      "word_position": 10,
+      "target_word_uthmani": "يَقْرَءُونَ",
+      "target_word_rasm": "يقرءون",
+      "target_word_literal_irab": "Okurlar (`يَقْرَءُونَ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَٰبَ مِن قَبْلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Sana indirdiğimizden şüphede isen, senden önce indirdiğimiz Kitap'ları okuyanlara sor. And olsun ki, sana Rabbinden gerçek gelmiştir, sakın şüphelenenlerden olma.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qara>a|ROOT:qrA|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِن كُنتَ فِى شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَٰبَ مِن قَبْلِكَ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana indirdiğimizden şüphede isen, senden önce indirdiğimiz Kitap'ları okuyanlara sor. And olsun ki, sana Rabbinden gerçek gelmiştir, sakın şüphelenenlerden olma.",
+      "contextual_meaning": "Döngüsel birikim (`قُرُوٓءٍ` `2:228`) ve bireysel eylem kitabını okuma (`10:94`, `17:14,71,93`, `69:19`): Boşanma sonrası üç döngüsel evre beklemek (`2:228`) ve hesap gününde kişinin kendi sicil kitabını eline alıp okuması (`17:14`, `17:71`, `69:19`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 2,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:2",
+      "word_position": 3,
+      "target_word_uthmani": "قُرْءَٰنًا",
+      "target_word_rasm": "قرءنا",
+      "target_word_literal_irab": "Arapça bir okuyuş / Kur'an olarak (`قُرْءَٰنًا`, belirsiz mansûb; Rasm-ı Osmânî'de `قرءنا` elif hazifli)",
+      "context_snippet_arabic": "إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Biz onu, anlayasınız diye, Arapça bir Kuran olarak indirdik.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onu, anlayasınız diye, Arapça bir Kuran olarak indirdik.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 3,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:3",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Biz bu Kuran'ı vahyederek, sana en güzel kıssaları anlatıyoruz.. Oysa daha önce sen bunlardan habersizdin.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bu Kuran'ı vahyederek, sana en güzel kıssaları anlatıyoruz.. Oysa daha önce sen bunlardan habersizdin.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 31,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:31",
+      "word_position": 3,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Kuran ile dağlar yürütülmüş veya yeryüzü parçalanmış yahut ölüler konuşturulmuş olsaydı, gerçeğin üzerini örtenler yine de güven duy. Oysa bütün işler Allah'a aittir. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Kuran ile dağlar yürütülmüş veya yeryüzü parçalanmış yahut ölüler konuşturulmuş olsaydı, gerçeğin üzerini örtenler yine de güven duy. Oysa bütün işler Allah'a aittir. güvene erenlerin, \"Allah dilese bütün insanları doğru yola eriştirebilir\" gerçeğini akılları kesmedi mi? Allah'ın sözü yerine gelinceye kadar, yaptıkları işler sebebiyle gerçeğin üzerini örtenlere bir belanın dokunması veya evlerinin yakınına inmesi devam eder durur. Allah, verdiği sözden şüphesiz caymaz.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 1,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:1",
+      "word_position": 5,
+      "target_word_uthmani": "وَقُرْءَانٍ",
+      "target_word_rasm": "وقرءان",
+      "target_word_literal_irab": "Bir Kur'an / Kur'an'dan (`بِقُرْءَانٍ / قُرْءَانٍ / وَقُرْءَانٍ`, belirsiz mecrûr)",
+      "context_snippet_arabic": "تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ وَقُرْءَانٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Elif, Lam, Ra. Bunlar Kitap'ın ve apaçık olan Kuran'ın ayetleridir.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ وَقُرْءَانٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Elif, Lam, Ra. Bunlar Kitap'ın ve apaçık olan Kuran'ın ayetleridir.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 15,
+      "ayah": 87,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:87",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱلْقُرْءَانَ",
+      "target_word_rasm": "وٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, sana daima tekrarlanan yedi ayetli Fatiha'yı ve Kuran-ı Azim'i verdik.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, sana daima tekrarlanan yedi ayetli Fatiha'yı ve Kuran-ı Azim'i verdik.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 15,
+      "ayah": 91,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:91",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına güvene erip bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına güvene erip bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 98,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:98",
+      "word_position": 2,
+      "target_word_uthmani": "قَرَأْتَ",
+      "target_word_rasm": "قرأت",
+      "target_word_literal_irab": "Okuyacağın / okuduğun zaman (`قَرَأْتَ`, I. bab mâzî, 2. tekil eril)",
+      "context_snippet_arabic": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Kuran okuyacağın zaman, kovulmuş saptırıcı yıkıcı güçten Allah'a sığın.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qara>a|ROOT:qrA|2MS"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran okuyacağın zaman, kovulmuş saptırıcı yıkıcı güçten Allah'a sığın.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 98,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:98",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Kuran okuyacağın zaman, kovulmuş saptırıcı yıkıcı güçten Allah'a sığın.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran okuyacağın zaman, kovulmuş saptırıcı yıkıcı güçten Allah'a sığın.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 9,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:9",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "إِنَّ هَٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bu Kuran en doğru yola götürür ve yararlı iş yapan güvene erenlere büyük ecir olduğunu, ahirete güven duy can yakıcı bir azap hazırladığımızı müjdeler.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bu Kuran en doğru yola götürür ve yararlı iş yapan güvene erenlere büyük ecir olduğunu, ahirete güven duy can yakıcı bir azap hazırladığımızı müjdeler.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 17,
+      "ayah": 14,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:14",
+      "word_position": 1,
+      "target_word_uthmani": "ٱقْرَأْ",
+      "target_word_rasm": "ٱقرأ",
+      "target_word_literal_irab": "Oku / bir araya getirip kavra (`ٱقْرَأْ`, I. bab mehmûzu'l-lâm emir, 2. tekil eril)",
+      "context_snippet_arabic": "ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ",
+      "context_snippet_turkish_tabula_rasa": "\"Kitabını oku, bugün, hesap görücü olarak sen kendine yetersin.\"",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qara>a|ROOT:qrA|2MS"
+      },
+      "ayah_text_arabic_full": "ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kitabını oku, bugün, hesap görücü olarak sen kendine yetersin.\"",
+      "contextual_meaning": "Döngüsel birikim (`قُرُوٓءٍ` `2:228`) ve bireysel eylem kitabını okuma (`10:94`, `17:14,71,93`, `69:19`): Boşanma sonrası üç döngüsel evre beklemek (`2:228`) ve hesap gününde kişinin kendi sicil kitabını eline alıp okuması (`17:14`, `17:71`, `69:19`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 41,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:41",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Biz, and olsun ki öğüt almaları için bu Kuran'da bunları türlü türlü açıkladık. Fakat bu açıklamalar ancak onların nefretini artırmıştır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, and olsun ki öğüt almaları için bu Kuran'da bunları türlü türlü açıkladık. Fakat bu açıklamalar ancak onların nefretini artırmıştır.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 17,
+      "ayah": 45,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:45",
+      "word_position": 2,
+      "target_word_uthmani": "قَرَأْتَ",
+      "target_word_rasm": "قرأت",
+      "target_word_literal_irab": "Okuyacağın / okuduğun zaman (`قَرَأْتَ`, I. bab mâzî, 2. tekil eril)",
+      "context_snippet_arabic": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ",
+      "context_snippet_turkish_tabula_rasa": "Kuran okuduğun zaman senin ile ahirete güven duy kimseler arasına görünmeyen bir perde çekeriz.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qara>a|ROOT:qrA|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ حِجَابًا مَّسْتُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran okuduğun zaman senin ile ahirete güven duy kimseler arasına görünmeyen bir perde çekeriz.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 45,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:45",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Kuran okuduğun zaman senin ile ahirete güven duy kimseler arasına görünmeyen bir perde çekeriz.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قَرَأْتَ ٱلْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ حِجَابًا مَّسْتُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran okuduğun zaman senin ile ahirete güven duy kimseler arasına görünmeyen bir perde çekeriz.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 46,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:46",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı anlarlar diye kalblerine örtüler ve kulaklarına da ağırlık koyduk. Kuran'da Rabbini bir tek olarak andığın zaman, onlar ürkerek ardlarına dönerler.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَٰرِهِمْ نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı anlarlar diye kalblerine örtüler ve kulaklarına da ağırlık koyduk. Kuran'da Rabbini bir tek olarak andığın zaman, onlar ürkerek ardlarına dönerler.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 60,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:60",
+      "word_position": 19,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... sana gösterdiğimiz rüya ile ve Kuran'da lanetlenmiş ağaçla, sadece insanları denedik. Biz onları korkutuyoruz, fakat bu onlara büyük taşkınlık vermekten başka birşeye yaramıyor.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana: \"Rabbin şüphesiz insanları kuşatmıştır\" demiştik; sana gösterdiğimiz rüya ile ve Kuran'da lanetlenmiş ağaçla, sadece insanları denedik. Biz onları korkutuyoruz, fakat bu onlara büyük taşkınlık vermekten başka birşeye yaramıyor.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 71,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:71",
+      "word_position": 11,
+      "target_word_uthmani": "يَقْرَءُونَ",
+      "target_word_rasm": "يقرءون",
+      "target_word_literal_irab": "Okurlar (`يَقْرَءُونَ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُو۟لَٰٓئِكَ يَقْرَءُونَ كِتَٰبَهُمْ وَلَا يُظْلَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bir gün bütün insanları önderleriyle beraber çağırırız. O gün kitabı sağından verilenler, işte onlar kitablarını okurlar. Onlara kıl kadar haksizlik edilmez.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qara>a|ROOT:qrA|3MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ نَدْعُوا۟ كُلَّ أُنَاسٍۭ بِإِمَٰمِهِمْ فَمَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُو۟لَٰٓئِكَ يَقْرَءُونَ كِتَٰبَهُمْ وَلَا يُظْلَمُونَ فَتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir gün bütün insanları önderleriyle beraber çağırırız. O gün kitabı sağından verilenler, işte onlar kitablarını okurlar. Onlara kıl kadar haksizlik edilmez.",
+      "contextual_meaning": "Döngüsel birikim (`قُرُوٓءٍ` `2:228`) ve bireysel eylem kitabını okuma (`10:94`, `17:14,71,93`, `69:19`): Boşanma sonrası üç döngüsel evre beklemek (`2:228`) ve hesap gününde kişinin kendi sicil kitabını eline alıp okuması (`17:14`, `17:71`, `69:19`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 78,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:78",
+      "word_position": 8,
+      "target_word_uthmani": "وَقُرْءَانَ",
+      "target_word_rasm": "وقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ",
+      "context_snippet_turkish_tabula_rasa": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sab...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sabah irtibat bağına kozmik görevliler şahit olur.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 78,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:78",
+      "word_position": 11,
+      "target_word_uthmani": "قُرْءَانَ",
+      "target_word_rasm": "قرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+      "context_snippet_turkish_tabula_rasa": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sab...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sabah irtibat bağına kozmik görevliler şahit olur.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 82,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:82",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ مَا هُوَ شِفَآءٌ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'dan güvene erenlere rahmet ve şifa olan şeyler indiriyoruz. O, zalimlerin ise sadece kaybını artırır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَنُنَزِّلُ مِنَ ٱلْقُرْءَانِ مَا هُوَ شِفَآءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ وَلَا يَزِيدُ ٱلظَّٰلِمِينَ إِلَّا خَسَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'dan güvene erenlere rahmet ve şifa olan şeyler indiriyoruz. O, zalimlerin ise sadece kaybını artırır.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 17,
+      "ayah": 88,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:88",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... \"İnsanlar ve görünmeyen bilinçli varlıklar, birbirine yardımcı olarak bu Kuran'ın bir benzerini ortaya koymak için bir araya gelseler, and olsun ki, yine de benzerini ortaya koyamazlar. \"",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İnsanlar ve görünmeyen bilinçli varlıklar, birbirine yardımcı olarak bu Kuran'ın bir benzerini ortaya koymak için bir araya gelseler, and olsun ki, yine de benzerini ortaya koyamazlar.\"",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 89,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:89",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, biz Kuran'da insanlara türlü türlü misal gösterip açıkladık. Öyleyken insanların çoğu nankör olmakta direndiler.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, biz Kuran'da insanlara türlü türlü misal gösterip açıkladık. Öyleyken insanların çoğu nankör olmakta direndiler.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 17,
+      "ayah": 93,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:93",
+      "word_position": 18,
+      "target_word_uthmani": "نَّقْرَؤُهُۥ",
+      "target_word_rasm": "نقرؤه",
+      "target_word_literal_irab": "Okuyacağımız (`نَّقْرَؤُهُۥ`, I. bab muzârî merfû, 1. çoğul + zamir)",
+      "context_snippet_arabic": "تُنَزِّلَ عَلَيْنَا كِتَٰبًا نَّقْرَؤُهُۥ قُلْ سُبْحَانَ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "\"Veya altın bir evin olmalı, yahut göğe yükselmelisin ama oradan okuyacağımız bir kitap indirmezsen yine o yükselmene güven duy. \" De ki: ...",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qara>a|ROOT:qrA|1P"
+      },
+      "ayah_text_arabic_full": "أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَٰبًا نَّقْرَؤُهُۥ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Veya altın bir evin olmalı, yahut göğe yükselmelisin ama oradan okuyacağımız bir kitap indirmezsen yine o yükselmene güven duy.\" De ki: \"Fesubhanallah! Ben elçi olan bir insandan başka bir şey miyim? \"",
+      "contextual_meaning": "Döngüsel birikim (`قُرُوٓءٍ` `2:228`) ve bireysel eylem kitabını okuma (`10:94`, `17:14,71,93`, `69:19`): Boşanma sonrası üç döngüsel evre beklemek (`2:228`) ve hesap gününde kişinin kendi sicil kitabını eline alıp okuması (`17:14`, `17:71`, `69:19`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 106,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:106",
+      "word_position": 1,
+      "target_word_uthmani": "وَقُرْءَانًا",
+      "target_word_rasm": "وقرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı, insanlara ağır ağır okuman için, bölüm bölüm indirdik ve onu gerektikçe indirdik.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَٰهُ تَنزِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı, insanlara ağır ağır okuman için, bölüm bölüm indirdik ve onu gerektikçe indirdik.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 106,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:106",
+      "word_position": 3,
+      "target_word_uthmani": "لِتَقْرَأَهُۥ",
+      "target_word_rasm": "لتقرأه",
+      "target_word_literal_irab": "Okuman için (`لِتَقْرَأَهُۥ`, I. bab muzârî mansûb, 2. tekil eril)",
+      "context_snippet_arabic": "وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı, insanlara ağır ağır okuman için, bölüm bölüm indirdik ve onu gerektikçe indirdik.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qara>a|ROOT:qrA|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَٰهُ تَنزِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı, insanlara ağır ağır okuman için, bölüm bölüm indirdik ve onu gerektikçe indirdik.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 54,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:54",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِلنَّاسِ مِن كُلِّ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Biz bu Kuran'da insanlara türlü türlü misali gösterip açıkladık. İnsanın en çok yaptığı iş tartışmadır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَرَّفْنَا فِى هَٰذَا ٱلْقُرْءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٍ وَكَانَ ٱلْإِنسَٰنُ أَكْثَرَ شَىْءٍ جَدَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Biz bu Kuran'da insanlara türlü türlü misali gösterip açıkladık. İnsanın en çok yaptığı iş tartışmadır.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 20,
+      "ayah": 2,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:2",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı sana, sıkıntıya düşeşin diye değil, ancak Allah'tan korkanlara bir öğüt ve yeri ve yüce gökleri yaratanın katından bir Kitap olarak indirdik.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَآ أَنزَلْنَا عَلَيْكَ ٱلْقُرْءَانَ لِتَشْقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı sana, sıkıntıya düşeşin diye değil, ancak Allah'tan korkanlara bir öğüt ve yeri ve yüce gökleri yaratanın katından bir Kitap olarak indirdik.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 113,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:113",
+      "word_position": 3,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "İşte Kuran'ı, Arapça okunmak üzere indirdik, onda tehditleri türlü türlü açıkladık ki belki sakınırlar yahut onlara ibret verir.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte Kuran'ı, Arapça okunmak üzere indirdik, onda tehditleri türlü türlü açıkladık ki belki sakınırlar yahut onlara ibret verir.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 114,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:114",
+      "word_position": 7,
+      "target_word_uthmani": "بِٱلْقُرْءَانِ",
+      "target_word_rasm": "بٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "ٱلْحَقُّ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن",
+      "context_snippet_turkish_tabula_rasa": "Gerçek hükümdar olan Allah Yüce'dir. Kuran sana vahyedilirken, vahy bitmezden önce, unutmamak için, tekrarda acele edip durma, \"Rabbim! ilmimi artır\" de.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek hükümdar olan Allah Yüce'dir. Kuran sana vahyedilirken, vahy bitmezden önce, unutmamak için, tekrarda acele edip durma, \"Rabbim! ilmimi artır\" de.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 30,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:30",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "قَوْمِى ٱتَّخَذُوا۟ هَٰذَا ٱلْقُرْءَانَ مَهْجُورًا",
+      "context_snippet_turkish_tabula_rasa": "elçi: \"Ey Rabbim! Doğrusu milletim bu Kuran'ı terketmişti\" der.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوْمِى ٱتَّخَذُوا۟ هَٰذَا ٱلْقُرْءَانَ مَهْجُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "elçi: \"Ey Rabbim! Doğrusu milletim bu Kuran'ı terketmişti\" der.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 32,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:32",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً كَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler: \"Kuran ona bir defada indirilmeliydi\" derler. Oysa Biz onu böylece senin kalbine yerleştirmek için azar azar indirir ve onu ağır ağır okuruz.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ٱلْقُرْءَانُ جُمْلَةً وَٰحِدَةً كَذَٰلِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَ وَرَتَّلْنَٰهُ تَرْتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler: \"Kuran ona bir defada indirilmeliydi\" derler. Oysa Biz onu böylece senin kalbine yerleştirmek için azar azar indirir ve onu ağır ağır okuruz.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 199,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:199",
+      "word_position": 1,
+      "target_word_uthmani": "فَقَرَأَهُۥ",
+      "target_word_rasm": "فقرأه",
+      "target_word_literal_irab": "Okusaydı (`فَقَرَأَهُۥ`, I. bab mâzî, 3. tekil eril + zamir)",
+      "context_snippet_arabic": "فَقَرَأَهُۥ عَلَيْهِم مَّا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Biz Kuran'ı Arapça bilmeyen kimselerden birine indirseydik de o bunları okusaydı yine de ona güven duy.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qara>a|ROOT:qrA|3MS"
+      },
+      "ayah_text_arabic_full": "فَقَرَأَهُۥ عَلَيْهِم مَّا كَانُوا۟ بِهِۦ مُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz Kuran'ı Arapça bilmeyen kimselerden birine indirseydik de o bunları okusaydı yine de ona güven duy.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 1,
+      "surah_name": "Neml",
+      "ayah_ref": "27:1",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "طسٓ تِلْكَ ءَايَٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Ta, Sin, Bunlar Kuran'ın, Kitab-ı Mübin'in ayetleridir.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ طسٓ تِلْكَ ءَايَٰتُ ٱلْقُرْءَانِ وَكِتَابٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ta, Sin, Bunlar Kuran'ın, Kitab-ı Mübin'in ayetleridir.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 27,
+      "ayah": 6,
+      "surah_name": "Neml",
+      "ayah_ref": "27:6",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz, Kuran'ı, Hakim ve Alim olan Allah katından almaktasın.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّكَ لَتُلَقَّى ٱلْقُرْءَانَ مِن لَّدُنْ حَكِيمٍ عَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz, Kuran'ı, Hakim ve Alim olan Allah katından almaktasın.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 27,
+      "ayah": 76,
+      "surah_name": "Neml",
+      "ayah_ref": "27:76",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "إِنَّ هَٰذَا ٱلْقُرْءَانَ يَقُصُّ عَلَىٰ بَنِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bu Kuran, İsrailoğullarına, ayrılığa düştükleri şeyin çoğunu anlatmaktadır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا ٱلْقُرْءَانَ يَقُصُّ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَكْثَرَ ٱلَّذِى هُمْ فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bu Kuran, İsrailoğullarına, ayrılığa düştükleri şeyin çoğunu anlatmaktadır.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 27,
+      "ayah": 92,
+      "surah_name": "Neml",
+      "ayah_ref": "27:92",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum. \" Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum.\" Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. De ki: \"Ben sadece, uyaranlardan biriyim.\"",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 28,
+      "ayah": 85,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:85",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'a uymayı sana farz kılan Allah, seni döneceğin yere döndürecektir. De ki: ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'a uymayı sana farz kılan Allah, seni döneceğin yere döndürecektir. De ki: \"Rabbim kimin doğrulukla geldiğini, kimin apaçık sapıklıkta bulunduğunu en iyi bilendir.\"",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 30,
+      "ayah": 58,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:58",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki bu Kuran'da insanlar için her türlü misali vermişizdir. Bununla beraber, eğer sen onlara bir apaçık gösterge getirmiş olsan, gerçeğin üzerini örtenler: ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ وَلَئِن جِئْتَهُم بِـَٔايَةٍ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ أَنتُمْ إِلَّا مُبْطِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki bu Kuran'da insanlar için her türlü misali vermişizdir. Bununla beraber, eğer sen onlara bir apaçık gösterge getirmiş olsan, gerçeğin üzerini örtenler: \"Siz ancak batıl şeyler ortaya atanlarsınız\" derler.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 34,
+      "ayah": 31,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:31",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "لَن نُّؤْمِنَ بِهَٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler: \"Bu Kuran'a ve ondan öncekilere güven duy\" dediler. Sen bu zalimleri, Rablerinin huzurunda dikilmiş oldukları zaman, suçu birbirine atıp dururken bir görsen! Güçsüz sayılanlar, büyüklük taslayanlara: ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler: \"Bu Kuran'a ve ondan öncekilere güven duy\" dediler. Sen bu zalimleri, Rablerinin huzurunda dikilmiş oldukları zaman, suçu birbirine atıp dururken bir görsen! Güçsüz sayılanlar, büyüklük taslayanlara: \"Siz olmasaydınız biz güvene ermiş olacaktık\" derler.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 2,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:2",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلْقُرْءَانِ",
+      "target_word_rasm": "وٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş elçilerdensin.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلْقُرْءَانِ ٱلْحَكِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş elçilerdensin.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 69,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:69",
+      "word_position": 11,
+      "target_word_uthmani": "وَقُرْءَانٌ",
+      "target_word_rasm": "وقرءان",
+      "target_word_literal_irab": "Apaçık / şerefli bir Kur'an (`وَقُرْءَانٌ / لَقُرْءَانٌ / قُرْءَانٌ`, belirsiz merfû haber)",
+      "context_snippet_arabic": "هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+      "context_snippet_turkish_tabula_rasa": "Biz ona şiir öğretmedik, zaten ona gerekmezdi. Bu bir öğüt ve apaçık Kuran'dır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz ona şiir öğretmedik, zaten ona gerekmezdi. Bu bir öğüt ve apaçık Kuran'dır.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 1,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:1",
+      "word_position": 2,
+      "target_word_uthmani": "وَٱلْقُرْءَانِ",
+      "target_word_rasm": "وٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "صٓ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+      "context_snippet_turkish_tabula_rasa": "Sad. Öğüt veren Kuran'a and olsun ki, gerçeğin üzerini örtenler gurur ve ayrılık içindedirler.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ صٓ وَٱلْقُرْءَانِ ذِى ٱلذِّكْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sad. Öğüt veren Kuran'a and olsun ki, gerçeğin üzerini örtenler gurur ve ayrılık içindedirler.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 27,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:27",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ",
+      "context_snippet_turkish_tabula_rasa": "Biz bu Kuran'da insanlara her türlü misali, belki öğüt alırlar diye, and olsun ki verdik.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِى هَٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ لَّعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bu Kuran'da insanlara her türlü misali, belki öğüt alırlar diye, and olsun ki verdik.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 39,
+      "ayah": 28,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:28",
+      "word_position": 1,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى",
+      "context_snippet_turkish_tabula_rasa": "O, eğriliği olmayan, Arapça bir Kuran'dır. Belki sakınırlar.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى عِوَجٍ لَّعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, eğriliği olmayan, Arapça bir Kuran'dır. Belki sakınırlar.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 3,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:3",
+      "word_position": 4,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "كِتَٰبٌ فُصِّلَتْ ءَايَٰتُهُۥ قُرْءَانًا عَرَبِيًّا لِّقَوْمٍ يَعْلَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كِتَٰبٌ فُصِّلَتْ ءَايَٰتُهُۥ قُرْءَانًا عَرَبِيًّا لِّقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. Ama insanların çoğu yüz çevirmiştir, onlar işitmezler de: \"Bizi çağırdığın şeye karşı kalblerimiz kapalıdır, kulaklarımızda ağırlık, bizimle senin aranda anlaşmamıza engel vardır; istediğini yap, biz de yapacağız\" derler.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 26,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:26",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler: \"Bu Kuran'ı dinlemeyin, okunurken gürültü yapın, belki bastırırsınız\" dediler.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَا تَسْمَعُوا۟ لِهَٰذَا ٱلْقُرْءَانِ وَٱلْغَوْا۟ فِيهِ لَعَلَّكُمْ تَغْلِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler: \"Bu Kuran'ı dinlemeyin, okunurken gürültü yapın, belki bastırırsınız\" dediler.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 44,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:44",
+      "word_position": 3,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا",
+      "context_snippet_turkish_tabula_rasa": "Biz bu Kuran'ı yabancı bir dil ile ortaya koysaydık: \"Ayetleri uzun açıklanmalı değil miydi? Araba yabancı bir dille söylenir mi?\" derlerdi. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ جَعَلْنَٰهُ قُرْءَانًا أَعْجَمِيًّا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ ءَايَٰتُهُۥٓ ءَا۬عْجَمِىٌّ وَعَرَبِىٌّ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟ هُدًى وَشِفَآءٌ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى أُو۟لَٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ بَعِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bu Kuran'ı yabancı bir dil ile ortaya koysaydık: \"Ayetleri uzun açıklanmalı değil miydi? Araba yabancı bir dille söylenir mi?\" derlerdi. De ki: \"Bu, güvene erenlere doğruluk rehberi ve gönüllerine şifadır.\" güven duy kulaklarında ağırlık vardır ve onlara kapalıdır; sanki bunlara uzak bir mesafeden sesleniliyor da anlamıyorlar.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 7,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:7",
+      "word_position": 4,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ",
+      "context_snippet_turkish_tabula_rasa": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 3,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:3",
+      "word_position": 3,
+      "target_word_uthmani": "قُرْءَٰنًا",
+      "target_word_rasm": "قرءنا",
+      "target_word_literal_irab": "Arapça bir okuyuş / Kur'an olarak (`قُرْءَٰنًا`, belirsiz mansûb; Rasm-ı Osmânî'de `قرءنا` elif hazifli)",
+      "context_snippet_arabic": "إِنَّا جَعَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Apaçık Kitap'a and olsun ki, akledesiniz diye Kuran'ı Arapça okunan bir Kitap kılmışızdır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا جَعَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Apaçık Kitap'a and olsun ki, akledesiniz diye Kuran'ı Arapça okunan bir Kitap kılmışızdır.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 31,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:31",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "\"Bu Kuran, iki şehrin birinden bir büyük adama indirilmeli değil miydi?\" dediler.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu Kuran, iki şehrin birinden bir büyük adama indirilmeli değil miydi?\" dediler.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 29,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:29",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı dinleyecek görünmeyen bilinçli varlıklardan bir takımını sana yöneltmiştik. Onlar Kuran'ı dinlemeğe hazır olunca birbirlerine: ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı dinleyecek görünmeyen bilinçli varlıklardan bir takımını sana yöneltmiştik. Onlar Kuran'ı dinlemeğe hazır olunca birbirlerine: \"Susun\" dediler. Kuran'ın okunması bitince, her biri birer uyarıcı olarak milletlerine döndüler.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 24,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:24",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar Kuran'ı düşünmezler mi? Yoksa kalbleri kilitli midir?",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Kuran'ı düşünmezler mi? Yoksa kalbleri kilitli midir?",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 50,
+      "ayah": 1,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:1",
+      "word_position": 2,
+      "target_word_uthmani": "وَٱلْقُرْءَانِ",
+      "target_word_rasm": "وٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "قٓ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+      "context_snippet_turkish_tabula_rasa": "Kaf. Şanlı Kuran'a and olsun.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قٓ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kaf. Şanlı Kuran'a and olsun.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 50,
+      "ayah": 45,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:45",
+      "word_position": 10,
+      "target_word_uthmani": "بِٱلْقُرْءَانِ",
+      "target_word_rasm": "بٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "عَلَيْهِم بِجَبَّارٍ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+      "context_snippet_turkish_tabula_rasa": "Onların dediklerini Biz biliriz. Sen onların üzerinde bir zorba değilsin; söz verdiğim günden korkanlara Kuran'la öğüt ver.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların dediklerini Biz biliriz. Sen onların üzerinde bir zorba değilsin; söz verdiğim günden korkanlara Kuran'la öğüt ver.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 17,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:17",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Kuran'ı, öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Kuran'ı, öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 54,
+      "ayah": 22,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:22",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Kuran'ı öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Kuran'ı öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 54,
+      "ayah": 32,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:32",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Kuran'ı öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Kuran'ı öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 54,
+      "ayah": 40,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:40",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Kuran'ı öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Kuran'ı öğüt olsun diye kolaylaştırdık; öğüt alan yok mudur?",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 55,
+      "ayah": 2,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:2",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "عَلَّمَ ٱلْقُرْءَانَ",
+      "context_snippet_turkish_tabula_rasa": "Rahman olan Allah Kuran'ı öğretti;",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "عَلَّمَ ٱلْقُرْءَانَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rahman olan Allah Kuran'ı öğretti;",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 56,
+      "ayah": 77,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:77",
+      "word_position": 2,
+      "target_word_uthmani": "لَقُرْءَانٌ",
+      "target_word_rasm": "لقرءان",
+      "target_word_literal_irab": "Apaçık / şerefli bir Kur'an (`وَقُرْءَانٌ / لَقُرْءَانٌ / قُرْءَانٌ`, belirsiz merfû haber)",
+      "context_snippet_arabic": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 21,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:21",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Biz Kuran'ı bir dağa indirmiş olsaydık, sen, onun, Allah korkusuyla başeğerek parça parça olduğunu görürdün. Bu misalleri, insanlar düşünsünler diye veriyoruz.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Biz Kuran'ı bir dağa indirmiş olsaydık, sen, onun, Allah korkusuyla başeğerek parça parça olduğunu görürdün. Bu misalleri, insanlar düşünsünler diye veriyoruz.",
+      "contextual_meaning": "Çelişkisiz tutarlılık, tefekkür (`تَدَبُّر`), şifa ve öğüt (`4:82`, `9:111`, `10:37,61`, `15:87`, `17:9,41,82,89`, `18:54`, `27:76`, `30:58`, `39:27`, `47:24`, `54:17-40`, `55:2`, `59:21`): Her örneği bünyesinde toplayan çelişkisiz metin üzerinde derin düşünme, kalplere şifa ve öğüt için kolaylaştırılmış dil."
+    },
+    {
+      "surah": 69,
+      "ayah": 19,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:19",
+      "word_position": 8,
+      "target_word_uthmani": "ٱقْرَءُوا۟",
+      "target_word_rasm": "ٱقرءوا",
+      "target_word_literal_irab": "Okuyun (`ٱقْرَءُوا۟ / فَٱقْرَءُوا۟`, I. bab emir, 2. çoğul eril, elif-i fârikalı)",
+      "context_snippet_arabic": "بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ",
+      "context_snippet_turkish_tabula_rasa": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qara>a|ROOT:qrA|2MP"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der.",
+      "contextual_meaning": "Döngüsel birikim (`قُرُوٓءٍ` `2:228`) ve bireysel eylem kitabını okuma (`10:94`, `17:14,71,93`, `69:19`): Boşanma sonrası üç döngüsel evre beklemek (`2:228`) ve hesap gününde kişinin kendi sicil kitabını eline alıp okuması (`17:14`, `17:71`, `69:19`)."
+    },
+    {
+      "surah": 72,
+      "ayah": 1,
+      "surah_name": "Cin",
+      "ayah_ref": "72:1",
+      "word_position": 12,
+      "target_word_uthmani": "قُرْءَانًا",
+      "target_word_rasm": "قرءانا",
+      "target_word_literal_irab": "Okunup kavranan bir Kur'an olarak (`قُرْءَانًا / وَقُرْءَانًا`, belirsiz mansûb, açık elifli `قرءانا`)",
+      "context_snippet_arabic": "فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+      "context_snippet_turkish_tabula_rasa": "... \"görünmeyen bilinçli varlıklardan bir topluluğun Kuran'ı dinlediği bana vahyolundu; onlar şöyle demişlerdir; ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"görünmeyen bilinçli varlıklardan bir topluluğun Kuran'ı dinlediği bana vahyolundu; onlar şöyle demişlerdir;\" \"Doğrusu biz, doğru yola götüren, hayrete düşüren bir Kuran dinledik de ona güvene erdik; biz, Rabbimize hiçbir şeyi ortak koşmayacağız.\"",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 4,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:4",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 26,
+      "target_word_uthmani": "فَٱقْرَءُوا۟",
+      "target_word_rasm": "فٱقرءوا",
+      "target_word_literal_irab": "Okuyun (`ٱقْرَءُوا۟ / فَٱقْرَءُوا۟`, I. bab emir, 2. çoğul eril, elif-i fârikalı)",
+      "context_snippet_arabic": "تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "... sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. ...",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qara>a|ROOT:qrA|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلْقُرْءَانِ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an'da / Kur'an'a (`ٱلْقُرْءَانِ / وَٱلْقُرْءَانِ / بِٱلْقُرْءَانِ`, harf-i cerr/izâfet/kasem mecrûru)",
+      "context_snippet_arabic": "مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ",
+      "context_snippet_turkish_tabula_rasa": "... sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. ...",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 49,
+      "target_word_uthmani": "فَٱقْرَءُوا۟",
+      "target_word_rasm": "فٱقرءوا",
+      "target_word_literal_irab": "Okuyun (`ٱقْرَءُوا۟ / فَٱقْرَءُوا۟`, I. bab emir, 2. çoğul eril, elif-i fârikalı)",
+      "context_snippet_arabic": "فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ",
+      "context_snippet_turkish_tabula_rasa": "... sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. ...",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qara>a|ROOT:qrA|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 17,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:17",
+      "word_position": 4,
+      "target_word_uthmani": "وَقُرْءَانَهُۥ",
+      "target_word_rasm": "وقرءانه",
+      "target_word_literal_irab": "Onun birleştirilip okunuşunu (`وَقُرْءَانَهُۥ / قُرْءَانَهُۥ`, mastar/cins isim mansûb + zamir)",
+      "context_snippet_arabic": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu o vahyolunanı kalbine yerleştirmek ve onu sana okutturmak Bize düşer.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu o vahyolunanı kalbine yerleştirmek ve onu sana okutturmak Bize düşer.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 18,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:18",
+      "word_position": 2,
+      "target_word_uthmani": "قَرَأْنَٰهُ",
+      "target_word_rasm": "قرأنه",
+      "target_word_literal_irab": "Biz onu derleyip okuduğumuzda (`قَرَأْنَٰهُ`, I. bab mâzî, 1. çoğul + zamir)",
+      "context_snippet_arabic": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Biz onu Cebrail'e okuttuğumuz zaman, onun okumasını dinle.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qara>a|ROOT:qrA|1P"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onu Cebrail'e okuttuğumuz zaman, onun okumasını dinle.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 18,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:18",
+      "word_position": 4,
+      "target_word_uthmani": "قُرْءَانَهُۥ",
+      "target_word_rasm": "قرءانه",
+      "target_word_literal_irab": "Onun birleştirilip okunuşunu (`وَقُرْءَانَهُۥ / قُرْءَانَهُۥ`, mastar/cins isim mansûb + zamir)",
+      "context_snippet_arabic": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Biz onu Cebrail'e okuttuğumuz zaman, onun okumasını dinle.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onu Cebrail'e okuttuğumuz zaman, onun okumasını dinle.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 76,
+      "ayah": 23,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:23",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْءَانَ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Derlenip okunan Kur'an'ı (`ٱلْقُرْءَانَ / وَٱلْقُرْءَانَ / قُرْءَانَ`, mansûb mef'ûl/muzâf)",
+      "context_snippet_arabic": "نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı sana indiren şüphesiz Biziz.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı sana indiren şüphesiz Biziz.",
+      "contextual_meaning": "Kur'an'ın indiriliş amacı, dili ve aşamalı inşası (`2:185`, `5:101`, `6:19`, `12:2-3`, `17:78`, `20:2,113`, `25:32`, `26:199`, `39:28`, `41:3,44`, `42:7`, `43:3`, `76:23`): Eğriliği olmayan Arapça okunuş (`12:2`, `39:28`, `43:3`), kalbe sağlam yerleşsin diye aşamalı iniş (`25:32`) ve yabancı dil iddiasının reddi (`41:44`)."
+    },
+    {
+      "surah": 84,
+      "ayah": 21,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:21",
+      "word_position": 2,
+      "target_word_uthmani": "قُرِئَ",
+      "target_word_rasm": "قرئ",
+      "target_word_literal_irab": "Okunduğu zaman (`قُرِئَ`, I. bab meçhul mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا",
+      "context_snippet_turkish_tabula_rasa": "Onlara Kuran okunduğu zaman neden boyun eğme ve teslimiyet etmiyorlar?",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qara>a|ROOT:qrA|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara Kuran okunduğu zaman neden boyun eğme ve teslimiyet etmiyorlar?",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 84,
+      "ayah": 21,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:21",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْقُرْءَانُ",
+      "target_word_rasm": "ٱلقرءان",
+      "target_word_literal_irab": "Kur'an (`ٱلْقُرْءَانُ`, merfû mübtedâ/nâib-i fâil)",
+      "context_snippet_arabic": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara Kuran okunduğu zaman neden boyun eğme ve teslimiyet etmiyorlar?",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara Kuran okunduğu zaman neden boyun eğme ve teslimiyet etmiyorlar?",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 85,
+      "ayah": 21,
+      "surah_name": "Bürûc",
+      "ayah_ref": "85:21",
+      "word_position": 3,
+      "target_word_uthmani": "قُرْءَانٌ",
+      "target_word_rasm": "قرءان",
+      "target_word_literal_irab": "Apaçık / şerefli bir Kur'an (`وَقُرْءَانٌ / لَقُرْءَانٌ / قُرْءَانٌ`, belirsiz merfû haber)",
+      "context_snippet_arabic": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı bir Kuran'dır.",
+      "morphology": {
+        "lemma": "quro'aAn",
+        "pos": "PN",
+        "features": "STEM|POS:PN|LEM:quro'aAn|ROOT:qrA|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı bir Kuran'dır.",
+      "contextual_meaning": "Vahyin benzersizliği, antlar, dinleme edebi ve direnç (`7:204`, `10:15`, `13:31`, `15:91`, `17:46,60,88`, `25:30`, `34:31`, `36:2,69`, `38:1`, `41:26`, `43:31`, `46:29`, `50:1,45`, `56:77`, `72:1`, `84:21`, `85:21`): Okunduğunda gürültü çıkarıp sabote edenler (`41:26`) ve terk edenlere (`25:30`) karşı görünmeyen varlıkların susup dinlemesi (`46:29`, `72:1`) ve kimsenin benzerini üretememesi (`17:88`)."
+    },
+    {
+      "surah": 87,
+      "ayah": 6,
+      "surah_name": "A'lâ",
+      "ayah_ref": "87:6",
+      "word_position": 1,
+      "target_word_uthmani": "سَنُقْرِئُكَ",
+      "target_word_rasm": "سنقرئك",
+      "target_word_literal_irab": "Sana Biz okutturacağız (`سَنُقْرِئُكَ`, IV. bab ettirgen muzârî merfû, 1. çoğul + zamir)",
+      "context_snippet_arabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Sana Kuran'ı Biz okutacağız ve asla unutmayacaksın;",
+      "morphology": {
+        "lemma": "nuqori}u",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:nuqori}u|ROOT:qrA|1P"
+      },
+      "ayah_text_arabic_full": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana Kuran'ı Biz okutacağız ve asla unutmayacaksın;",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 96,
+      "ayah": 1,
+      "surah_name": "Alak",
+      "ayah_ref": "96:1",
+      "word_position": 1,
+      "target_word_uthmani": "ٱقْرَأْ",
+      "target_word_rasm": "ٱقرأ",
+      "target_word_literal_irab": "Oku / bir araya getirip kavra (`ٱقْرَأْ`, I. bab mehmûzu'l-lâm emir, 2. tekil eril)",
+      "context_snippet_arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى",
+      "context_snippet_turkish_tabula_rasa": "Yaratan Rabbinin adıyla oku!",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qara>a|ROOT:qrA|2MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaratan Rabbinin adıyla oku!",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    },
+    {
+      "surah": 96,
+      "ayah": 3,
+      "surah_name": "Alak",
+      "ayah_ref": "96:3",
+      "word_position": 1,
+      "target_word_uthmani": "ٱقْرَأْ",
+      "target_word_rasm": "ٱقرأ",
+      "target_word_literal_irab": "Oku / bir araya getirip kavra (`ٱقْرَأْ`, I. bab mehmûzu'l-lâm emir, 2. tekil eril)",
+      "context_snippet_arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "context_snippet_turkish_tabula_rasa": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir.",
+      "morphology": {
+        "lemma": "qara>a",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:qara>a|ROOT:qrA|2MS"
+      },
+      "ayah_text_arabic_full": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir.",
+      "contextual_meaning": "İlk okuma emri, toplama (`جَمْع`) ve hafıza güvencesi (`16:98`, `17:45,106`, `20:114`, `73:4,20`, `75:17-18`, `87:6`, `96:1,3`): Kur'an'ı ağır ağır ve anlayarak okumak (`73:4`, `17:106`), okuyup anlamaya başlarken sığınmak (`16:98`), acele etmemek (`20:114`) ve vahyî derleme-okuma sürecinin ilâhî garanti altında oluşu (`75:17-18`, `87:6`)."
+    }
+  ]
+}

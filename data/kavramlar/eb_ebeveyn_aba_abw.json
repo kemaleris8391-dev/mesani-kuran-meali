@@ -1,0 +1,2440 @@
+{
+  "root": "أ-ب-و",
+  "root_latin": "E-B-W (Abw)",
+  "concept_name": "Eb / Ebevân / Âbâ (Baba, Anne-Baba Birliği, Atalar ve Taklit-Soy Hukuku)",
+  "rank": 99,
+  "total_occurrences": 117,
+  "unique_ayahs_count": 104,
+  "unified_core_mechanism": "Kökün 117 geçişlik ağını tek kuşaksal ve kök-kaynak ekseni birbirine kenetler: 'Soyun, sorumluluğun, aile hukukunun ve geleneğin başlangıç noktası olan Baba / Atalar (`أَب / أَبَوَان / ءَابَآء`)'. Dört tutarlı kolda açılır: (1) Evlat-baba sevgisi, Yûsuf-Yakub, İbrâhim-babası, İbrâhim-oğlu ve Mûsâ-Şuayb diyalogları (`يَٰٓأَبَتِ`, `12:4-100`). (2) Anne-babanın eşit miras ve saygı birlikteliği (`أَبَوَان`: `4:11`, `12:99`, `18:80`). (3) Evlat edinme, soy bilinci, evlilik mahremiyeti ve künye/makam ayrımı (`4:22`, `24:31`, `33:5,40`, `111:1`). (4) Atalar mirasını akıl ve hakikat süzgecinden geçirme (`2:133` bilinçli bağ vs `2:170`, `5:104`, `43:22` kör taklit eleştirisi ve `9:23`, `58:22` hakikat önceliği).",
+  "physical_core": "Ham fiziki çekirdek: 'Yavruyu besleyip büyüten, kanadı altına alıp yetiştiren, tohumu atan ve kendisinden sonraki kuşağın kendisiyle anıldığı ilk erkek/soy kökü (`أَب`, çoğulu `ءَابَآء`)'. Klasik Arapça sözlük geleneği baba kökünü hem yavruyu besleyip yetiştirme (`غَذْوٌ وَتَرْبِيَةٌ`, kök akrabalığı olarak İbn Fâris'in *'yabû'l-yetîm'* = yetimi baba gibi besleyip büyütmek dediği eylem) hem de ailenin ve kabilenin kendisine nispet edildiği ana gövde olarak kurar; buradan `أَبَوَان` tağlîbiyle 'anne-baba ikilisi' ve `ءَابَآء` çoğuluyla 'atalar kuşağı' doğar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris ve klasik kök geleneği babalık kavramını besleyip büyütme ve gözetme sorumluluğuna (`يَأْبُو ٱلْيَتِيمَ` — çocuğu baba gibi besleyip büyütmek) bağlar; kök yalnızca biyolojik spermi değil koruyup terbiye eden hamiyi de (amca veya dede gibi) içine alır (`2:133`te İsmâîl'e `ءَابَآئِكَ` denmesi).",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلْأَبُ` aslen son harfi `vâv` olan nâkıs `أَبَوٌ` yapısındadır (`أَبَوَانِ` ikil çekiminde düşen `vâv` hemen açığa çıkar); beş isimden (`الأسماء الخمسة`) olduğu için izâfette vav/elif/yâ ile hareke yerine uzun ünlü alır (`أَبُوكَ / أَبَاكَ / أَبِيكَ`).",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): Tekil `أَب` kelimesi 1. tekil iyelik zamiriyle çağrıldığında `يَٰٓأَبَتِ` kalıbında `ي` düşürülüp yerine `تاء التعويض` (telafi tâ'sı `تِ`) getirilir (`12:4`, `19:42`, `28:26`, `37:102`). `أَبَوَان` (`أَبَوَاهُ / أَبَوَيْهِ`) ise baba isminin üstün tutularak anne ile babayı birlikte kapsadığı klasik Arapça tağlîb kuralıdır (`4:11`, `12:99-100`, `18:80`).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): Kur'an'da `أَب / ءَابَآء` dört kolda görülür: (1) Biyolojik baba ve ebeveyn (`4:11`, `12:99`), (2) Dedeler ve amcalar dâhil geniş soy ataları (`2:133`), (3) Hukukî nesep ve evlatlık sınırı (`33:5` `ٱدْعُوهُمْ لِءَابَآئِهِمْ`, `33:40`), (4) Düşünmeden taklit edilen gelenek otoritesi (`2:170`, `5:104`, `43:22`).",
+    "arbitration_decision": "Tahkim Kararı: Kök üç temel katmanda mühürlenir: (1) Biyolojik babalık, anne-baba ortaklığı (`أَبَوَان`) ve şefkatli evlat-baba hitabı (`يَٰٓأَبَتِ`), (2) Miras, evlilik yasağı ve gerçek soy hukuku (`4:11,22`, `24:31`, `33:5,40`), (3) Bilinçli inanç atalarına saygı (`2:133`) karşısında akletmeyen körü körüne atalar taklidinin reddi (`2:170`, `5:104`, `43:22`, `9:23`, `58:22`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*ʾabw- / *ʾab- ('baba, erkek ata, kurucu/hami'; Proto-Afroasyatik `*ʾab-` çocukluk dönemi dudaksıl seslenme köküyle bağlantılı) — Bütün Semitik dillerde sarsılmaz biçimde korunan birincil akrabalık ismi.",
+    "hebrew": "İbranice `אָב` (*ʾāḇ*: 'baba, ata, kabile kurucusu, koruyucu usta'; çoğulu `אָבוֹת` *ʾāḇōṯ*) Arapça `أَب` ile birebir özdeştir; ayrıca Aramiceden geçen `אַבָּא` (*ʾabbā*) İbrani kullanımında yaygınlaşmıştır.",
+    "aramaic_syriac": "Aramca `אַבָּא` (*ʾabbā*) ve Klasik Süryanice `ܐܰܒ݂ܳܐ` (*ʾaḇā*: 'baba, manevî öncü/büyük') sondaki belirleme eki `-ā` ile samimi aile hitabına dönüşmüştür (yöneticilik/evladın saygısı açısından `يَٰٓأَبَتِ` dil iklimine paraleldir).",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece `𐩱𐩨` `ʾb`: 'baba, ata, klan reisi') ve Antik Kuzey Arapça yazıtlarında eksiksiz belgelenir.",
+    "akkadian_geez": "Doğu Samicede Akadca `abu` (*abum*: 'baba, ata') nominatif sonuyla, Güney Samicede Klasik Ge'ez `አብ` (*ʾab*: 'baba', çoğulu *ʾabaw*) ve Ugaritçe *ʾab* köküyle tam aile sürekliliği gösterir.",
+    "phonological_note": "Proto-Semitik `*ʾab(w)-` kökü yalnızca ünsüz iskeletini (`ʾ-b`) değil, üçüncü zayıf kök harfi `*w` izini bile korumuştur: Klasik Ge'ez çoğulu *ʾabaw* ve Arapça ikili `أَبَوَانِ` (`أَبَوَيْهِ` `4:11`, `12:99`) ile üçüncü harfi ortaya çıkan nispet `أَبَوِىّ` kelimeleri kökün aslında üç harfli `*ʾ-b-w` olduğunu kanıtlar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-ن-ي / و-ل-د (`ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ` / `يَٰٓأَبَتِ ↔ يَٰبُنَىَّ` — Önceki Kuşak Baba/Atalar ↔ Sonraki Kuşak Oğul/Evlatlar — `4:11`, `12:4`, `37:102`, `58:22`)",
+      "أ-م-م (`فَلِأُمِّهِ` / `أُمَّهَٰت` ↔ `أَب` — Doğuran Anne ↔ Büyüten/Nesep Kökü Baba, İkil `أَبَوَان`da Birleşir — `4:11`, `4:23`)",
+      "ع-ق-ل / ه-د-ي ↔ اتِّبَاعُ ٱلْءَابَآءِ (`2:170`, `5:104` — Ataları Körü Körüne İzleme vs Akıl Yürütüp Doğruyu Bulma)",
+      "أَوْلِيَآء بِٱلْعَهْدِ وَٱلْإِيمَٰنِ ↔ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ (`9:23`, `58:22` — İlke Bağlılığı vs Sırf Biyolojik Baba Taraftarlığı)"
+    ],
+    "key_ayahs": [
+      "2:170 & 5:104 & 43:22 (قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ — taklit ve akıl zıtlığı)",
+      "37:102 & 12:4 (قَالَ يَٰبُنَىَّ ... قَالَ يَٰٓأَبَتِ — baba-evlat sevgi diyalogu)",
+      "4:11 (وَلِأَبَوَيْهِ ... أَبَوَاهُ ... ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ — aile mirası kuşağı çifti)",
+      "33:5 & 33:40 (ٱدْعُوهُمْ لِءَابَآئِهِمْ / مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ — gerçek soy hukuku)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'أ-ب-و geriden gelip soy, miras ve gelenek kökü olan baba/atalarsa karşıtı nedir?' Cevap: Kuşak dikeyinde kendinden doğup ileri uzanan `ب-ن-ي` (`أَبْنَآء`, `يَٰبُنَىَّ` `4:11`, `37:102`, `58:22`), aile çiftinde anne (`أُمّ` `4:11`), düşünce düzleminde ise akletmeden kör taklit (`ءَابَآءَنَآ`) karşısındaki akıl ve vahiy aydınlığıdır (`2:170`, `5:104`)."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "وَلِأَبَوَيْهِ (`Çocuğu Varsa Anne-Babasına Altıda Bir`) vs وَوَرِثَهُۥٓ أَبَوَاهُ (`Çocuğu Yoksa Tek Mirasçı Anne-Baba İkili`) vs ءَابَآؤُكُمْ (`Genel Atalarınız ve Oğullarınız`) — Tek Ayette `3` Farklı Statü (`4:11`)",
+      "لِأَبِيهِ (`Resmî Anlatım: Babasına Dedi`) vs يَٰٓأَبَتِ (`Şefkatli Hitap: Ey Babacığım!`) — `12:4` ve `19:42`",
+      "إِلَىٰٓ أَبِيكُمْ (`Fiziksel Dönüş Yeri Olan Babanız`) vs أَنَّ أَبَاكُمْ (`Sözleşme Alan Otorite`) vs أَبِىٓ (`Bireysel Sorumluluk: Babam İzin Verene Dek`) — `12:80`",
+      "ٱدْعُوهُمْ لِءَابَآئِهِمْ (`Bilinen Gerçek Babalarına Nispet Edin`) vs فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ (`Babalarını Bilmiyorsanız Yaşam Kardeşliğidir`) — `33:5`",
+      "ءَابَآءَنَآ (`Taklit Edilen Saygın Atalar`) vs ءَابَآؤُهُمْ (`Akıl ve Hidayet Yoksunu Gerçek Halleri`) — `2:170` ve `5:104`"
+    ],
+    "mechanical_difference": "1) Kök `12` ayrı ayette birden fazla geçer; en yoğun yoğunlaşma `4:11`dedir (`3` kez): aynı ayette önce anne-baba tağlîbi `وَلِأَبَوَيْهِ` (mecrûr) ve `أَبَوَاهُ` (merfû), ardından da tüm kuşakları içeren `ءَابَآؤُكُمْ` ('babalarınız ve oğullarınızdan hangisinin size fayda bakımından daha yakın olduğunu bilemezsiniz') gelerek dar çekirdek aileden geniş nesep zincirine açılır. 2) `12:4` ve `19:42`de dış anlatıcı `لِأَبِيهِ` ('babasına') derken çocuğun bizzat ağzından dökülen söz `يَٰٓأَبَتِ` ('babacığım!') şeklinde samimileşir. 3) `33:5`te iki `ءَابَآء` kullanımı soy hukukundaki bilme-bilmeme sınırını belirler."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "4:11 & 33:5",
+      "role": "Üçlü Miras ve Gerçek Soy Hukuku Çapası (وَلِأَبَوَيْهِ / ٱدْعُوهُمْ لِءَابَآئِهِمْ)",
+      "literal_meaning": "'Anne-babasından her biri için (`وَلِأَبَوَيْهِ`) altıda bir pay vardır... anne-babası (`أَبَوَاهُ`) mirasçı olursa...' ve 'Evlatlıkları gerçek babalarına nispet ederek çağırın (`ٱدْعُوهُمْ لِءَابَآئِهِمْ`), Allah katında en adil olan budur.'"
+    },
+    {
+      "ref": "2:170 & 5:104 & 43:22",
+      "role": "Kör Atalar Taklidinin Reddi Çapası (مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ)",
+      "literal_meaning": "'Hayır, biz atalarımızı (`ءَابَآءَنَآ`) üzerinde bulduğumuz yola uyarız dediler; peki ataları (`ءَابَآؤُهُمْ`) hiçbir şey akletmiyor ve doğruyu bulamamış idiyseler de mi?'"
+    },
+    {
+      "ref": "2:133",
+      "role": "Soydan Genişleyen Manevî Atalar Çapası (ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ)",
+      "literal_meaning": "'Senin İlâhına ve ataların İbrâhim, İsmâîl ve İshâk'ın (`ءَابَآئِكَ`: burada amca İsmâîl de babalar arasında anılmıştır!) tek İlâhına yöneliriz dediler.'"
+    },
+    {
+      "ref": "12:4 & 19:42 & 37:102",
+      "role": "Şefkatli Münâdâ (`يَٰٓأَبَتِ`) Çapası",
+      "literal_meaning": "'Yûsuf babasına: Babacığım (`يَٰٓأَبَتِ`), on bir yıldız, güneş ve ayı gördüm dedi', İbrâhim 'Babacığım, işitmeyen nesnelere niçin yöneliyorsun?' ve İsmâîl 'Babacığım, sana emredileni yap!' dedi."
+    },
+    {
+      "ref": "12:99-100 & 18:80",
+      "role": "Anne-Baba Tağlîbi (`أَبَوَان`) Çapası (ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ / فَكَانَ أَبَوَاهُ)",
+      "literal_meaning": "'Anne ve babasını (`أَبَوَيْهِ`) yanına alıp tahta oturttu' ve 'o çocuğun anne-babası (`أَبَوَاهُ`) gerçeğe gönülden güvenen kimselerdi.'"
+    },
+    {
+      "ref": "33:40",
+      "role": "Biyolojik Babalık vs Elçilik Ayrımı Çapası (مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ)",
+      "literal_meaning": "'Muhammed, adamlarınızdan hiçbirinin biyolojik babası (`أَبَآ أَحَدٍ`) değildir; ancak O Allah'ın elçisi ve son elçilik halkasının mührüdür.'"
+    },
+    {
+      "ref": "9:23 & 58:22",
+      "role": "Hakikat Bağının Biyolojik Aileden Önceliği Çapası (وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ)",
+      "literal_meaning": "'Eğer gerçeği örtmeyi tercih ederlerse babalarınızı (`ءَابَآءَكُمْ`) ve kardeşlerinizi bile haksız dost edinmeyin!'"
+    },
+    {
+      "ref": "4:22 & 12:78 & 111:1",
+      "role": "Evlilik Yasağı, Yaşlı Baba (`أَبًا`) ve Ebû Leheb Künyesi Çapası",
+      "literal_meaning": "'Babalarınızın nikâhladığı kadınlarla evlenmeyin (`4:22`)', 'çok yaşlı bir babası (`أَبًا شَيْخًا كَبِيرًا`) var (`12:78`)' ve 'Ebû Leheb'in (`أَبِى لَهَبٍ`) iki eli kurusun (`111:1`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök bütün Kur'an'da hiç fiil olarak geçmez; bütün `117` geçiş tek kökten üç sayı grubuna ayrılır: Tekil `أَب` (`46 N`), İkil `أَبَوَان` (`7 N`), Kırık çoğul `ءَابَآء` (`64 N`). 2) `أَب` Arapçadaki ünlü `الأسماء الخمسة` (Beş İsim) grubundandır; `أَبًا` (`12:78` — tüm Mushafta tek izâfetsiz/tenvinli tekil!) hariç her zaman muzâf olduğu için harfle i'rablanır (`أَبُوهُمْ` vâvla merfû, `أَبَانَا / أَبَآ` elifle mansûb, `أَبِيكُمْ / أَبِى` yâ ile mecrûr). 3) Birinci tekil iyelik zamiriyle münâdâ kurduğunda `يَٰٓأَبَتِ` biçiminde son harf düşen `ي` yerine `تِ` (`تاء التعويض`) alır (`12:4,100`, `19:42-45`, `28:26`, `37:102` — her iki tarafın şefkatli yakınlık dili). 4) İkil `أَبَوَان` (`7 N`: `4:11` x2, `12:99`, `12:100`, `18:80` + diğer `2` yer) Arapça tağlîb kuralıyla yalnızca iki baba değil 'anne ve baba' çiftini karşılar; üstelik kökün üçüncü harfi olan `و` ikil çekimde açığa çıkar (`أَبَوَاهُ / أَبَوَيْهِ`). 5) `12` ayette birden fazla geçer (`4:11` x3, diğer `11`inde x2) ve `49` ayrı Rasm yazımına sahiptir (`80:31`deki `أَبّ` 'otlak/bitki' sözcüğü `أ-ب-ب` kökünden olup bu köke dahil değildir).",
+  "derivatives": {
+    "أَب (`46 N`, `Esma-i Hamse` + `يَٰٓأَبَتِ` + `أَبًا` `12:78`)": "Şefkatli baba-evlat diyaloğu (`12:4`, `19:42`, `37:102`), Yûsuf'un babası Yakub (`12:8,68,80`), biyolojik babalık sınırı (`33:40`) ve Ebû Leheb künyesi (`111:1`)",
+    "أَبَوَان (`7 N`, Tağlîb İkili: Anne ve Baba)": "Miras hukukunda anne-baba payları (`4:11`), Mısır tahtında buluşan anne-baba (`12:99-100`) ve çocuğun anne-babası (`18:80`)",
+    "ءَابَآء (`64 N`, Kırık Çoğul: Atalar ve Babalar)": "Bilinçli tevhit mirası (`2:133`), körü körüne atalar taklidi (`2:170`, `5:104`, `43:22`), nesep ve mahremiyet (`4:22`, `24:31`, `33:5`) ile hakikat önceliği (`9:23`, `58:22`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 133,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:133",
+      "word_position": 19,
+      "target_word_uthmani": "ءَابَآئِكَ",
+      "target_word_rasm": "ءابائك",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Senin sığınak merciine ve ataların İbrahim, İsmail, İshak'ın sığınak mercii olan tek sığınak merciine kulluk edeceğiz, bizler O'na teslim olmuşuzdur\" demişlerdi.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa Yakub can verirken sizler yanında mı idiniz? O, oğullarına: \"Benden sonra kime kulluk edeceksiniz?\" diye sormuştu; Onlar da: \"Senin sığınak merciine ve ataların İbrahim, İsmail, İshak'ın sığınak mercii olan tek sığınak merciine kulluk edeceğiz, bizler O'na teslim olmuşuzdur\" demişlerdi.",
+      "contextual_meaning": "Atalar mirası ikiliği (`2:133` bilinçli tevhit atalarına bağlılık vs `2:170`, `5:104`, `43:22` akletmeyen ataları körü körüne taklit eleştirisi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 170,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:170",
+      "word_position": 14,
+      "target_word_uthmani": "ءَابَآءَنَآ",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın indirdiğine uyun\" denilince, \"Hayır, atalarımızı yapar bulduğumuz şeye uyarız\" derler; ya ataları bir şey akledemeyen ve doğru olmayan kimseler idiyseler?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Allah'ın indirdiğine uyun\" denilince, \"Hayır, atalarımızı yapar bulduğumuz şeye uyarız\" derler; ya ataları bir şey akledemeyen ve doğru olmayan kimseler idiyseler?",
+      "contextual_meaning": "Atalar mirası ikiliği (`2:133` bilinçli tevhit atalarına bağlılık vs `2:170`, `5:104`, `43:22` akletmeyen ataları körü körüne taklit eleştirisi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 170,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:170",
+      "word_position": 17,
+      "target_word_uthmani": "ءَابَآؤُهُمْ",
+      "target_word_rasm": "ءاباؤهم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın indirdiğine uyun\" denilince, \"Hayır, atalarımızı yapar bulduğumuz şeye uyarız\" derler; ya ataları bir şey akledemeyen ve doğru olmayan kimseler idiyseler?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Allah'ın indirdiğine uyun\" denilince, \"Hayır, atalarımızı yapar bulduğumuz şeye uyarız\" derler; ya ataları bir şey akledemeyen ve doğru olmayan kimseler idiyseler?",
+      "contextual_meaning": "Atalar mirası ikiliği (`2:133` bilinçli tevhit atalarına bağlılık vs `2:170`, `5:104`, `43:22` akletmeyen ataları körü körüne taklit eleştirisi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 200,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:200",
+      "word_position": 7,
+      "target_word_uthmani": "ءَابَآءَكُمْ",
+      "target_word_rasm": "ءاباءكم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًا",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanması kulluk ve yönelişinizi bitirdiğinizde, babalarınızı andığınız gibi, hatta ondan daha kuvvetli bir anışla Allah'ı anın. \"Rabbimiz! Bize sadece dünyada ver\" diyen insanlar vardır, öylesine, ahirette bir pay yoktur.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَضَيْتُم مَّنَٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًا فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanması kulluk ve yönelişinizi bitirdiğinizde, babalarınızı andığınız gibi, hatta ondan daha kuvvetli bir anışla Allah'ı anın. \"Rabbimiz! Bize sadece dünyada ver\" diyen insanlar vardır, öylesine, ahirette bir pay yoktur.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 23,
+      "target_word_uthmani": "وَلِأَبَوَيْهِ",
+      "target_word_rasm": "ولأبويه",
+      "target_word_literal_irab": "Anne ve babasının her ikisinin (`وَلِأَبَوَيْهِ / أَبَوَيْهِ`, tağlîb ikil mecrûr)",
+      "context_snippet_arabic": "وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا",
+      "context_snippet_turkish_tabula_rasa": "... Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; ...",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|GEN"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Aile miras hukuku (`وَلِأَبَوَيْهِ / أَبَوَاهُ / ءَابَآؤُكُمْ` `4:11`): Anne-babanın eşit miras payı ve kuşaklar arası mülkiyet dengesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 40,
+      "target_word_uthmani": "أَبَوَاهُ",
+      "target_word_rasm": "أبواه",
+      "target_word_literal_irab": "Anne ve babası her ikisi (`أَبَوَاهُ`, tağlîb ikil merfû)",
+      "context_snippet_arabic": "لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن",
+      "context_snippet_turkish_tabula_rasa": "... Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; ...",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|NOM"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Aile miras hukuku (`وَلِأَبَوَيْهِ / أَبَوَاهُ / ءَابَآؤُكُمْ` `4:11`): Anne-babanın eşit miras payı ve kuşaklar arası mülkiyet dengesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 56,
+      "target_word_uthmani": "ءَابَآؤُكُمْ",
+      "target_word_rasm": "ءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Aile miras hukuku (`وَلِأَبَوَيْهِ / أَبَوَاهُ / ءَابَآؤُكُمْ` `4:11`): Anne-babanın eşit miras payı ve kuşaklar arası mülkiyet dengesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 22,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:22",
+      "word_position": 5,
+      "target_word_uthmani": "ءَابَآؤُكُم",
+      "target_word_rasm": "ءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Babalarınızın evlendikleri kadınlarla evlenmeyin, geçmişte olanlar artık geçmiştir çünkü bu bir fuhuş ve igrenç bir şeydi, ne kötü yoldu!",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ كَانَ فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarınızın evlendikleri kadınlarla evlenmeyin, geçmişte olanlar artık geçmiştir çünkü bu bir fuhuş ve igrenç bir şeydi, ne kötü yoldu!",
+      "contextual_meaning": "Soy, evlat edinme ve mahremiyet hukuku (`4:22` baba eşleriyle evlenme yasağı, `24:31` aile mahremiyeti, `33:5` çocukları gerçek babalarına nispet etme ilkesi, `33:40` elçilik bağı vs biyolojik babalık ayrımı)."
+    },
+    {
+      "surah": 5,
+      "ayah": 104,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:104",
+      "word_position": 16,
+      "target_word_uthmani": "ءَابَآءَنَآ",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "contextual_meaning": "Atalar mirası ikiliği (`2:133` bilinçli tevhit atalarına bağlılık vs `2:170`, `5:104`, `43:22` akletmeyen ataları körü körüne taklit eleştirisi)."
+    },
+    {
+      "surah": 5,
+      "ayah": 104,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:104",
+      "word_position": 19,
+      "target_word_uthmani": "ءَابَآؤُهُمْ",
+      "target_word_rasm": "ءاباؤهم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا",
+      "context_snippet_turkish_tabula_rasa": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "contextual_meaning": "Atalar mirası ikiliği (`2:133` bilinçli tevhit atalarına bağlılık vs `2:170`, `5:104`, `43:22` akletmeyen ataları körü körüne taklit eleştirisi)."
+    },
+    {
+      "surah": 6,
+      "ayah": 74,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:74",
+      "word_position": 4,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا",
+      "context_snippet_turkish_tabula_rasa": "İbrahim, babası Azer'e, \"Putları sığınak mercii (ilâh) olarak mı benimsiyorsun? Doğrusu ben seni ve milletini açık bir sapıklık içinde görüyorum\" demişti.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim, babası Azer'e, \"Putları sığınak mercii (ilâh) olarak mı benimsiyorsun? Doğrusu ben seni ve milletini açık bir sapıklık içinde görüyorum\" demişti.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 6,
+      "ayah": 87,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:87",
+      "word_position": 2,
+      "target_word_uthmani": "ءَابَآئِهِمْ",
+      "target_word_rasm": "ءابائهم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّٰتِهِمْ وَإِخْوَٰنِهِمْ وَٱجْتَبَيْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Babalarından, soylarından, kardeşlerinden bir kısmını seçtik ve doğru yola eriştirdik.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّٰتِهِمْ وَإِخْوَٰنِهِمْ وَٱجْتَبَيْنَٰهُمْ وَهَدَيْنَٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarından, soylarından, kardeşlerinden bir kısmını seçtik ve doğru yola eriştirdik.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 6,
+      "ayah": 91,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:91",
+      "word_position": 37,
+      "target_word_uthmani": "ءَابَآؤُكُمْ",
+      "target_word_rasm": "ءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ قُلِ ٱللَّهُ ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Musa'nın insanlara nur ve yol gösterici olarak getirdiği Kitap'ı kim indirdi? Ki siz onu kağıtlara yazıp bir kısmını gösterip çoğunu gizlersiniz, atalarınızın ve sizin bilmediğiniz size onunla öğretilmiştir. \" \"Allah\" de, sonra da onları daldıkları sapıklıkta bırak, oynasınlar.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ قُلِ ٱللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah hiçbir insana bir şey indirmemiştir\" demekle Allah'ı gereği gibi değerlendiremediler. De ki: \"Musa'nın insanlara nur ve yol gösterici olarak getirdiği Kitap'ı kim indirdi? Ki siz onu kağıtlara yazıp bir kısmını gösterip çoğunu gizlersiniz, atalarınızın ve sizin bilmediğiniz size onunla öğretilmiştir.\" \"Allah\" de, sonra da onları daldıkları sapıklıkta bırak, oynasınlar.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 6,
+      "ayah": 148,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:148",
+      "word_position": 10,
+      "target_word_uthmani": "ءَابَآؤُنَا",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن",
+      "context_snippet_turkish_tabula_rasa": "Puta tapanlar, \"Allah dileseydi babalarımız ve biz puta tapmaz ve hiçbir şeyi haram kılmazdık\" diyecekler; onlardan öncekiler de, Bizim şiddetli azabımızı tadana kadar böyle demişlerdi. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Puta tapanlar, \"Allah dileseydi babalarımız ve biz puta tapmaz ve hiçbir şeyi haram kılmazdık\" diyecekler; onlardan öncekiler de, Bizim şiddetli azabımızı tadana kadar böyle demişlerdi. Onlara \"Bize karşı çıkarabileceğiniz bir bilginiz var mı? Siz ancak zanna uyuyorsunuz ve sadece tahminde bulunuyorsunuz\" de.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 27,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:27",
+      "word_position": 8,
+      "target_word_uthmani": "أَبَوَيْكُم",
+      "target_word_rasm": "أبويكم",
+      "target_word_literal_irab": "Anne ve babasını (`أَبَوَيْهِ`, tağlîb ikil mansûb)",
+      "context_snippet_arabic": "ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ",
+      "context_snippet_turkish_tabula_rasa": "Ey İnsanoğulları! saptırıcı yıkıcı güç, ayıp yerlerini kendilerine göstermek için elbiselerini soyarak ananızı babanızı esenlik bahçesinden çıkardığı gibi sizi de şaşırtmasın. Sizin onları görmediğiniz yerlerden o ve taraftarları sizi görürler. ...",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ إِنَّا جَعَلْنَا ٱلشَّيَٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanoğulları! saptırıcı yıkıcı güç, ayıp yerlerini kendilerine göstermek için elbiselerini soyarak ananızı babanızı esenlik bahçesinden çıkardığı gibi sizi de şaşırtmasın. Sizin onları görmediğiniz yerlerden o ve taraftarları sizi görürler. Biz saptırıcı yıkıcı güçleri, güven duy dost kılarız.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 28,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:28",
+      "word_position": 7,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar bir fenalık yaptıkları zaman, \"Babalarımızı bu yolda bulduk, Allah da bize bunu emretti\" derler. De ki: ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا فَعَلُوا۟ فَٰحِشَةً قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar bir fenalık yaptıkları zaman, \"Babalarımızı bu yolda bulduk, Allah da bize bunu emretti\" derler. De ki: \"Allah fenalığı emretmez. Bilmediğiniz şeyi Allah'a karşı mı söylüyorsunuz?\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 70,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:70",
+      "word_position": 10,
+      "target_word_uthmani": "ءَابَآؤُنَا",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "مَا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتِنَا بِمَا تَعِدُنَآ",
+      "context_snippet_turkish_tabula_rasa": "\"Bize yalnız Allah'a kulluk etmemizi, babalarımızın taptıklarını bırakmamızı söylemek için mi geldin? Doğru sözlülerden isen haydi bizi tehdit ettiğin azaba uğrat\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bize yalnız Allah'a kulluk etmemizi, babalarımızın taptıklarını bırakmamızı söylemek için mi geldin? Doğru sözlülerden isen haydi bizi tehdit ettiğin azaba uğrat\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 71,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:71",
+      "word_position": 14,
+      "target_word_uthmani": "وَءَابَآؤُكُم",
+      "target_word_rasm": "وءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın hiçbir delil indirmediği, isimlerini de siz ve babalarınızın koyduğu putlar hakkında mı benimle tartışıyorsunuz? Bekleyin, doğrusu ben de sizinle beraber bekleyenlerdenim\" dedi.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hiç şüphesiz artık Rabbinizin azab ve öfkesini hakettiniz. Allah'ın hiçbir delil indirmediği, isimlerini de siz ve babalarınızın koyduğu putlar hakkında mı benimle tartışıyorsunuz? Bekleyin, doğrusu ben de sizinle beraber bekleyenlerdenim\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 95,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:95",
+      "word_position": 11,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "وَّقَالُوا۟ قَدْ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذْنَٰهُم",
+      "context_snippet_turkish_tabula_rasa": "Sonra kötülüğün yerine iyiliği koyduk, öyle ki, çoğalıp, \"babalarımız da darlığa uğramış, bolluğa kavuşmuşlardı\" dediler. Bu yüzden onları haberleri olmadan, ansızın yakalayıverdik.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ بَدَّلْنَا مَكَانَ ٱلسَّيِّئَةِ ٱلْحَسَنَةَ حَتَّىٰ عَفَوا۟ وَّقَالُوا۟ قَدْ مَسَّ ءَابَآءَنَا ٱلضَّرَّآءُ وَٱلسَّرَّآءُ فَأَخَذْنَٰهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra kötülüğün yerine iyiliği koyduk, öyle ki, çoğalıp, \"babalarımız da darlığa uğramış, bolluğa kavuşmuşlardı\" dediler. Bu yüzden onları haberleri olmadan, ansızın yakalayıverdik.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 173,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:173",
+      "word_position": 5,
+      "target_word_uthmani": "ءَابَآؤُنَا",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا",
+      "context_snippet_turkish_tabula_rasa": "Rabbin, insanoğlunun sulbünden soyunu alıp devam ettirmiş, onlara: \"Ben sizin Rabbiniz değil miyim\" demiş ve buna kendilerini şahit tutmuştu. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin, insanoğlunun sulbünden soyunu alıp devam ettirmiş, onlara: \"Ben sizin Rabbiniz değil miyim\" demiş ve buna kendilerini şahit tutmuştu. Onlar da: \"Evet şahidiz\" demişlerdi. Bu, kıyamet günü, \"Bizim bundan haberimiz yoktu\" dersiniz veya \"Daha önce babalarımız Allah'a ortak koşmuşlardı, biz de onlardan sonra gelen bir soyuz, bizi, boşa çalışanların yaptıklarından ötürü yok eder misin?\" dersiniz diyedir.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 9,
+      "ayah": 23,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:23",
+      "word_position": 6,
+      "target_word_uthmani": "ءَابَآءَكُمْ",
+      "target_word_rasm": "ءاباءكم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Babalarınızı, kardeşlerinizi küfrü güven bağı tercih ediyorlarsa dost edinmeyin. Sizden onları kim dost edinirse doğrusu kendine yazık etmiş olurlar.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Babalarınızı, kardeşlerinizi küfrü güven bağı tercih ediyorlarsa dost edinmeyin. Sizden onları kim dost edinirse doğrusu kendine yazık etmiş olurlar.",
+      "contextual_meaning": "İlke-akrabalık önceliği (`9:23`, `58:22`): Biyolojik babalar bile hakikatle savaşıyorsa haksız desteklemenin reddi."
+    },
+    {
+      "surah": 9,
+      "ayah": 24,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:24",
+      "word_position": 4,
+      "target_word_uthmani": "ءَابَآؤُكُمْ",
+      "target_word_rasm": "ءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 9,
+      "ayah": 114,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:114",
+      "word_position": 5,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim'in, babası için mağfiret dilemesi, sadece ona verdiği bir sözden ötürü idi.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim'in, babası için mağfiret dilemesi, sadece ona verdiği bir sözden ötürü idi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 10,
+      "ayah": 78,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:78",
+      "word_position": 7,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ",
+      "context_snippet_turkish_tabula_rasa": "\"Siz ikiniz, bizi babalarımızı üzerinde bulduğumuz yoldan çevirmek ve yeryüzünün büyükleri olasınız diye mi geldiniz? Biz size güven duy\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Siz ikiniz, bizi babalarımızı üzerinde bulduğumuz yoldan çevirmek ve yeryüzünün büyükleri olasınız diye mi geldiniz? Biz size güven duy\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 11,
+      "ayah": 62,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:62",
+      "word_position": 14,
+      "target_word_uthmani": "ءَابَآؤُنَا",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّ",
+      "context_snippet_turkish_tabula_rasa": "... şimdi babalarımızın taptıklarına bizi tapmaktan men mi ediyorsun? Doğrusu bizi çağırdığın şeyden şüphe ve endişedeyiz\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰصَٰلِحُ قَدْ كُنتَ فِينَا مَرْجُوًّا قَبْلَ هَٰذَآ أَتَنْهَىٰنَآ أَن نَّعْبُدَ مَا يَعْبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِى شَكٍّ مِّمَّا تَدْعُونَآ إِلَيْهِ مُرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Salih! Sen bundan önce, aramızda kendisinden iyilik beklenir bir kimseydin; şimdi babalarımızın taptıklarına bizi tapmaktan men mi ediyorsun? Doğrusu bizi çağırdığın şeyden şüphe ve endişedeyiz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 11,
+      "ayah": 87,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:87",
+      "word_position": 9,
+      "target_word_uthmani": "ءَابَآؤُنَآ",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 11,
+      "ayah": 109,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:109",
+      "word_position": 13,
+      "target_word_uthmani": "ءَابَآؤُهُم",
+      "target_word_rasm": "ءاباؤهم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ وَإِنَّا",
+      "context_snippet_turkish_tabula_rasa": "Bu putperestlerin taptıklarının batıl olduğunda şüphen olmasın; daha önce babalarının tapmış oldukları gibi onlar da taparlar. Onlara paylarını şüphesiz eksiksiz olarak ödeyeceğiz.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَا تَكُ فِى مِرْيَةٍ مِّمَّا يَعْبُدُ هَٰٓؤُلَآءِ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ ءَابَآؤُهُم مِّن قَبْلُ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu putperestlerin taptıklarının batıl olduğunda şüphen olmasın; daha önce babalarının tapmış oldukları gibi onlar da taparlar. Onlara paylarını şüphesiz eksiksiz olarak ödeyeceğiz.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 4,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:4",
+      "word_position": 4,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf babasına: \"Babacığım! \"Rüyamda onbir yıldız, güneş ve ayın bana boyun eğme ve teslimiyet ettiklerini gördüm\" demişti.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf babasına: \"Babacığım! \"Rüyamda onbir yıldız, güneş ve ayın bana boyun eğme ve teslimiyet ettiklerini gördüm\" demişti.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 4,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:4",
+      "word_position": 5,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf babasına: \"Babacığım! \"Rüyamda onbir yıldız, güneş ve ayın bana boyun eğme ve teslimiyet ettiklerini gördüm\" demişti.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf babasına: \"Babacığım! \"Rüyamda onbir yıldız, güneş ve ayın bana boyun eğme ve teslimiyet ettiklerini gördüm\" demişti.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 6,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:6",
+      "word_position": 17,
+      "target_word_uthmani": "أَبَوَيْكَ",
+      "target_word_rasm": "أبويك",
+      "target_word_literal_irab": "Anne ve babasının her ikisinin (`وَلِأَبَوَيْهِ / أَبَوَيْهِ`, tağlîb ikil mecrûr)",
+      "context_snippet_arabic": "كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ",
+      "context_snippet_turkish_tabula_rasa": "... daha önce, ataların İbrahim ve İshak'a nimetlerini tamamladığı gibi, sana ve Yakub soyuna da tamamlayacaktır. Doğrusu Rabbin bilir, hakimdir. ...",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbin seni böylece rüyandaki gibi seçecek, sana rüyaları yorumlamayı öğretecek; daha önce, ataların İbrahim ve İshak'a nimetlerini tamamladığı gibi, sana ve Yakub soyuna da tamamlayacaktır. Doğrusu Rabbin bilir, hakimdir.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 8,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:8",
+      "word_position": 7,
+      "target_word_uthmani": "أَبِينَا",
+      "target_word_rasm": "أبينا",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 8,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:8",
+      "word_position": 12,
+      "target_word_uthmani": "أَبَانَا",
+      "target_word_rasm": "أبانا",
+      "target_word_literal_irab": "Babamızı / babanızı / babasını (`أَبَانَا / أَبَاكُمْ / أَبَآ`, Esma-i Hamse mansûb)",
+      "context_snippet_arabic": "وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 9,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:9",
+      "word_position": 9,
+      "target_word_uthmani": "أَبِيكُمْ",
+      "target_word_rasm": "أبيكم",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "\"Yusuf'u öldürün veya onu ıssız bir yere bırakıverin ki babanız size kalsın; ondan sonra da iyi kimseler olursunuz\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yusuf'u öldürün veya onu ıssız bir yere bırakıverin ki babanız size kalsın; ondan sonra da iyi kimseler olursunuz\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 11,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:11",
+      "word_position": 2,
+      "target_word_uthmani": "يَٰٓأَبَانَا",
+      "target_word_rasm": "يأبانا",
+      "target_word_literal_irab": "Babamızı / babanızı / babasını (`أَبَانَا / أَبَاكُمْ / أَبَآ`, Esma-i Hamse mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine \"Ey babamız! Yusuf'un iyiliğini istediğimiz halde, onu niçin bize emniyet etmiyorsun? Yarın onu bizimle beraber gönder de gezsin oynasın, biz onu herhalde koruruz\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine \"Ey babamız! Yusuf'un iyiliğini istediğimiz halde, onu niçin bize emniyet etmiyorsun? Yarın onu bizimle beraber gönder de gezsin oynasın, biz onu herhalde koruruz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 16,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:16",
+      "word_position": 2,
+      "target_word_uthmani": "أَبَاهُمْ",
+      "target_word_rasm": "أباهم",
+      "target_word_literal_irab": "Babamızı / babanızı / babasını (`أَبَانَا / أَبَاكُمْ / أَبَآ`, Esma-i Hamse mansûb)",
+      "context_snippet_arabic": "وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Akşam üstü ağlayarak babalarına geldiklerinde: \"Ey babamız! güven duy olsun biz yarış yapıyorduk; ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Akşam üstü ağlayarak babalarına geldiklerinde: \"Ey babamız! güven duy olsun biz yarış yapıyorduk; Yusuf'u eşyamızın yanına bırakmıştık; bir kurt onu yedi. Her ne kadar doğru söylüyorsak da sen bize güven duy\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 17,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:17",
+      "word_position": 2,
+      "target_word_uthmani": "يَٰٓأَبَانَآ",
+      "target_word_rasm": "يأبانا",
+      "target_word_literal_irab": "Babamızı / babanızı / babasını (`أَبَانَا / أَبَاكُمْ / أَبَآ`, Esma-i Hamse mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ",
+      "context_snippet_turkish_tabula_rasa": "Akşam üstü ağlayarak babalarına geldiklerinde: \"Ey babamız! güven duy olsun biz yarış yapıyorduk; ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Akşam üstü ağlayarak babalarına geldiklerinde: \"Ey babamız! güven duy olsun biz yarış yapıyorduk; Yusuf'u eşyamızın yanına bırakmıştık; bir kurt onu yedi. Her ne kadar doğru söylüyorsak da sen bize güven duy\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 38,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:38",
+      "word_position": 3,
+      "target_word_uthmani": "ءَابَآءِىٓ",
+      "target_word_rasm": "ءاباءى",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ",
+      "context_snippet_turkish_tabula_rasa": "Atalarım İbrahim, İshak ve Yakub'un yaşam sistemine uydum. Allah'a herhangi bir ortak koşmak bize yaraşmaz; ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Atalarım İbrahim, İshak ve Yakub'un yaşam sistemine uydum. Allah'a herhangi bir ortak koşmak bize yaraşmaz; bu, Allah'ın bize ve insanlara olan lütfudur; fakat insanların çoğu nimetin değerini bilip açığa vurmaz\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 40,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:40",
+      "word_position": 9,
+      "target_word_uthmani": "وَءَابَآؤُكُم",
+      "target_word_rasm": "وءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'ı bırakıp taptığınız, sizin ve babalarınızın adlandırdığı putlardan başka bir şey değildir. Allah onların doğru olduğuna dair bir delil indirmemiştir. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'ı bırakıp taptığınız, sizin ve babalarınızın adlandırdığı putlardan başka bir şey değildir. Allah onların doğru olduğuna dair bir delil indirmemiştir. Hüküm vermek ancak Allah'a aittir; kendisinden başkasına değil, O'na tapmanızı emretmiştir. Bu, dosdoğru yaşam sistemidir, fakat insanların çoğu bilmezler\".",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 59,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:59",
+      "word_position": 9,
+      "target_word_uthmani": "أَبِيكُمْ",
+      "target_word_rasm": "أبيكم",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّىٓ",
+      "context_snippet_turkish_tabula_rasa": "Onların yüklerini hazırlatınca şöyle dedi: \"Baba bir kardeşinizi bana getirin. Sizlere ölçüyü bol tuttuğumu ve benim misafir konuklayanların en iyisi olduğumu görmüyor musunuz?\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yüklerini hazırlatınca şöyle dedi: \"Baba bir kardeşinizi bana getirin. Sizlere ölçüyü bol tuttuğumu ve benim misafir konuklayanların en iyisi olduğumu görmüyor musunuz?\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 61,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:61",
+      "word_position": 4,
+      "target_word_uthmani": "أَبَاهُ",
+      "target_word_rasm": "أباه",
+      "target_word_literal_irab": "Babamızı / babanızı / babasını (`أَبَانَا / أَبَاكُمْ / أَبَآ`, Esma-i Hamse mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri: \"Babasını ikna etmeye çalışacağız ve her halde bunu yaparız\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri: \"Babasını ikna etmeye çalışacağız ve her halde bunu yaparız\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 63,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:63",
+      "word_position": 4,
+      "target_word_uthmani": "أَبِيهِمْ",
+      "target_word_rasm": "أبيهم",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ",
+      "context_snippet_turkish_tabula_rasa": "Babalarına döndüklerinde, \"Ey babamız! Bize yiyecek yasak edildi, kardeşimizi bizimle beraber gönder de yiyecek alalım. Onu elbette koruruz\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarına döndüklerinde, \"Ey babamız! Bize yiyecek yasak edildi, kardeşimizi bizimle beraber gönder de yiyecek alalım. Onu elbette koruruz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 63,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:63",
+      "word_position": 6,
+      "target_word_uthmani": "يَٰٓأَبَانَا",
+      "target_word_rasm": "يأبانا",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ",
+      "context_snippet_turkish_tabula_rasa": "Babalarına döndüklerinde, \"Ey babamız! Bize yiyecek yasak edildi, kardeşimizi bizimle beraber gönder de yiyecek alalım. Onu elbette koruruz\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarına döndüklerinde, \"Ey babamız! Bize yiyecek yasak edildi, kardeşimizi bizimle beraber gönder de yiyecek alalım. Onu elbette koruruz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 65,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:65",
+      "word_position": 9,
+      "target_word_uthmani": "يَٰٓأَبَانَا",
+      "target_word_rasm": "يأبانا",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "رُدَّتْ إِلَيْهِمْ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; işte mallarımız da bize iade edilmiş; ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; işte mallarımız da bize iade edilmiş; ailemize onunla yine yiyecek getirir, kardeşimizi de korur ve bir deve yükü de artırmış oluruz; esasen bu az bir şeydir\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 68,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:68",
+      "word_position": 6,
+      "target_word_uthmani": "أَبُوهُم",
+      "target_word_rasm": "أبوهم",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى",
+      "context_snippet_turkish_tabula_rasa": "Babalarının emrettiği gibi girdiler. Esasen bu, Allah katında onlara bir fayda sağlamazdı, ancak Yakub içindeki arzuyu ortaya koymuş oldu. ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarının emrettiği gibi girdiler. Esasen bu, Allah katında onlara bir fayda sağlamazdı, ancak Yakub içindeki arzuyu ortaya koymuş oldu. O, şüphesiz kendisine öğrettiğimizi bilir fakat insanların çoğu bilmezler.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 78,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:78",
+      "word_position": 6,
+      "target_word_uthmani": "أَبًا",
+      "target_word_rasm": "أبا",
+      "target_word_literal_irab": "Çok yaşlı bir babayı (`أَبًا`, nekre tenvinli isim mansûb)",
+      "context_snippet_arabic": "ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri: \"Ey Vezir! Onun yaşlanmış, kocamış bir babası vardır. Bizden birini onun yerine al. ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri: \"Ey Vezir! Onun yaşlanmış, kocamış bir babası vardır. Bizden birini onun yerine al. Doğrusu biz senin iyi davrananlardan olduğunu görüyoruz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 80,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:80",
+      "word_position": 11,
+      "target_word_uthmani": "أَبَاكُمْ",
+      "target_word_rasm": "أباكم",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم",
+      "context_snippet_turkish_tabula_rasa": "... \"Babanızın Allah'a karşı sizden bir söz aldığını, daha önce Yusuf meselesinde de ileri gittiğinizi bilmiyor musunuz? Artık babam bana izin verene veya Allah hakkımda hüküm verene kadar ki O, hükmedenlerin en iyisidir bu yerden ayrılmayacağım. Siz dönün, babanıza gidin ve deyin ki: ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ümidsizliğe düşünce, konuşmak üzere bir kenara çekildiler. Büyükleri şöyle dedi: \"Babanızın Allah'a karşı sizden bir söz aldığını, daha önce Yusuf meselesinde de ileri gittiğinizi bilmiyor musunuz? Artık babam bana izin verene veya Allah hakkımda hüküm verene kadar ki O, hükmedenlerin en iyisidir bu yerden ayrılmayacağım. Siz dönün, babanıza gidin ve deyin ki: Ey Babamız! Senin oğlun hırsızlık yaptı, bu bildiğimizden başka bir şey görmedik; görülmeyeni de bilmeyiz; bulunduğumuz kasabanın halkına ve beraberinde olduğumuz kervana da sorabilirsin; biz şüphesiz doğru söylüyoruz.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 80,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:80",
+      "word_position": 30,
+      "target_word_uthmani": "أَبِىٓ",
+      "target_word_rasm": "أبى",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Babanızın Allah'a karşı sizden bir söz aldığını, daha önce Yusuf meselesinde de ileri gittiğinizi bilmiyor musunuz? Artık babam bana izin verene veya Allah hakkımda hüküm verene kadar ki O, hükmedenlerin en iyisidir bu yerden ayrılmayacağım. Siz dönün, babanıza gidin ve deyin ki: ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ümidsizliğe düşünce, konuşmak üzere bir kenara çekildiler. Büyükleri şöyle dedi: \"Babanızın Allah'a karşı sizden bir söz aldığını, daha önce Yusuf meselesinde de ileri gittiğinizi bilmiyor musunuz? Artık babam bana izin verene veya Allah hakkımda hüküm verene kadar ki O, hükmedenlerin en iyisidir bu yerden ayrılmayacağım. Siz dönün, babanıza gidin ve deyin ki: Ey Babamız! Senin oğlun hırsızlık yaptı, bu bildiğimizden başka bir şey görmedik; görülmeyeni de bilmeyiz; bulunduğumuz kasabanın halkına ve beraberinde olduğumuz kervana da sorabilirsin; biz şüphesiz doğru söylüyoruz.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 81,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:81",
+      "word_position": 3,
+      "target_word_uthmani": "أَبِيكُمْ",
+      "target_word_rasm": "أبيكم",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Yakup: \"Sizi kendi benliğiniz bir iş yapmaya sürükledi, artık bana güzelce sebat ve direnç gerekir; belki Allah hepsini birden bana getirecektir, çünkü O bilend...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yakup: \"Sizi kendi benliğiniz bir iş yapmaya sürükledi, artık bana güzelce sebat ve direnç gerekir; belki Allah hepsini birden bana getirecektir, çünkü O bilendir, hakimdir\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 81,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:81",
+      "word_position": 5,
+      "target_word_uthmani": "يَٰٓأَبَانَآ",
+      "target_word_rasm": "يأبانا",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ",
+      "context_snippet_turkish_tabula_rasa": "Yakup: \"Sizi kendi benliğiniz bir iş yapmaya sürükledi, artık bana güzelce sebat ve direnç gerekir; belki Allah hepsini birden bana getirecektir, çünkü O bilend...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yakup: \"Sizi kendi benliğiniz bir iş yapmaya sürükledi, artık bana güzelce sebat ve direnç gerekir; belki Allah hepsini birden bana getirecektir, çünkü O bilendir, hakimdir\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 93,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:93",
+      "word_position": 7,
+      "target_word_uthmani": "أَبِى",
+      "target_word_rasm": "أبى",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى",
+      "context_snippet_turkish_tabula_rasa": "... O, merhametlilerin merhametlisidir. Bu gömleğimi götürün, babamın yüzüne sürün, görmeğe başlar; bütün çoluk çocuğunuzla bana gelin\" dedi.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf: \"Bugün azarlanacak değilsiniz, Allah sizi bağışlar. O, merhametlilerin merhametlisidir. Bu gömleğimi götürün, babamın yüzüne sürün, görmeğe başlar; bütün çoluk çocuğunuzla bana gelin\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 94,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:94",
+      "word_position": 5,
+      "target_word_uthmani": "أَبُوهُمْ",
+      "target_word_rasm": "أبوهم",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ",
+      "context_snippet_turkish_tabula_rasa": "Kervan, memleketlerine dönmek üzere ayrıldığında, babaları: \"Doğrusu ben Yusuf'un kokusunu duyuyorum; ne olur bana bunak demeyin\" dedi.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kervan, memleketlerine dönmek üzere ayrıldığında, babaları: \"Doğrusu ben Yusuf'un kokusunu duyuyorum; ne olur bana bunak demeyin\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 97,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:97",
+      "word_position": 2,
+      "target_word_uthmani": "يَٰٓأَبَانَا",
+      "target_word_rasm": "يأبانا",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ",
+      "context_snippet_turkish_tabula_rasa": "Oğulları: \"Ey Babamız! Suçlarımızın bağışlanmasını dile, bizler hiç şüphesiz suçluyuz\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oğulları: \"Ey Babamız! Suçlarımızın bağışlanmasını dile, bizler hiç şüphesiz suçluyuz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 12,
+      "ayah": 99,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:99",
+      "word_position": 7,
+      "target_word_uthmani": "أَبَوَيْهِ",
+      "target_word_rasm": "أبويه",
+      "target_word_literal_irab": "Anne ve babası her ikisi (`أَبَوَاهُ`, tağlîb ikil merfû)",
+      "context_snippet_arabic": "يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf'un yanına geldiklerinde, o, anasını babasını bağrına bastı, \"Allah'ın dileğince, güven içinde Mısır'da yerleşin\" dedi.",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf'un yanına geldiklerinde, o, anasını babasını bağrına bastı, \"Allah'ın dileğince, güven içinde Mısır'da yerleşin\" dedi.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 100,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:100",
+      "word_position": 2,
+      "target_word_uthmani": "أَبَوَيْهِ",
+      "target_word_rasm": "أبويه",
+      "target_word_literal_irab": "Anne ve babası her ikisi (`أَبَوَاهُ`, tağlîb ikil merfû)",
+      "context_snippet_arabic": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: ...",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|NOM"
+      },
+      "ayah_text_arabic_full": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: \"Babacığım! İşte bu, vaktiyle gördüğüm rüyanın çıkışıdır; Rabbim onu gerçekleştirdi. saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra, beni hapisten çıkaran, sizi çölden getiren Rabbim bana pek çok iyilikte bulundu. Doğrusu Rabbim dilediğine lütufkardır, O şüphesiz bilendir, Hakim'dir\" dedi.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 12,
+      "ayah": 100,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:100",
+      "word_position": 9,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ",
+      "context_snippet_turkish_tabula_rasa": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: \"Babacığım! İşte bu, vaktiyle gördüğüm rüyanın çıkışıdır; Rabbim onu gerçekleştirdi. saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra, beni hapisten çıkaran, sizi çölden getiren Rabbim bana pek çok iyilikte bulundu. Doğrusu Rabbim dilediğine lütufkardır, O şüphesiz bilendir, Hakim'dir\" dedi.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 13,
+      "ayah": 23,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:23",
+      "word_position": 7,
+      "target_word_uthmani": "ءَابَآئِهِمْ",
+      "target_word_rasm": "ءابائهم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ وَٱلْمَلَٰٓئِكَةُ",
+      "context_snippet_turkish_tabula_rasa": "... işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ وَٱلْمَلَٰٓئِكَةُ يَدْخُلُونَ عَلَيْهِم مِّن كُلِّ بَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 14,
+      "ayah": 10,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:10",
+      "word_position": 30,
+      "target_word_uthmani": "ءَابَآؤُنَا",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Siz de sadece bizim gibi birer insansınız; bizi babalarımızın taptıklarından alıkoymak istiyorsunuz. Öyleyse bize apaçık bir delil getirmelisiniz\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَٰنٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların elçileri: \"Gökleri ve yeri yaratan, sapma ve kusurlarınızı bağışlamaya çağıran ve bir süreye kadar sizi erteleyen Allah'tan mı şüphe ediyorsunuz?\" dediler. Onlar da: \"Siz de sadece bizim gibi birer insansınız; bizi babalarımızın taptıklarından alıkoymak istiyorsunuz. Öyleyse bize apaçık bir delil getirmelisiniz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 16,
+      "ayah": 35,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:35",
+      "word_position": 15,
+      "target_word_uthmani": "ءَابَآؤُنَا",
+      "target_word_rasm": "ءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "شَىْءٍ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah dileseydi O'ndan başka hiçbir şeye ne biz ve ne de babalarımız tapardı. O'nun buyruğu olmaksızın hiçbir şeyi haram kılmazdık\" dediler. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a eş koşanlar: \"Allah dileseydi O'ndan başka hiçbir şeye ne biz ve ne de babalarımız tapardı. O'nun buyruğu olmaksızın hiçbir şeyi haram kılmazdık\" dediler. Kendilerinden öncekiler de böyle yapmıştı. elçilere apaçık tebliğden başka ne vazife düşer?",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 18,
+      "ayah": 5,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:5",
+      "word_position": 7,
+      "target_word_uthmani": "لِءَابَآئِهِمْ",
+      "target_word_rasm": "لءابائهم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "مِنْ عِلْمٍ وَلَا لِءَابَآئِهِمْ كَبُرَتْ كَلِمَةً تَخْرُجُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın çocuk edindiğine dair ne kendilerinin ve ne de babalarının bir bilgisi vardır. Ağızlarından çıkan söz ne büyük iftiradır. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "مَّا لَهُم بِهِۦ مِنْ عِلْمٍ وَلَا لِءَابَآئِهِمْ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ أَفْوَٰهِهِمْ إِن يَقُولُونَ إِلَّا كَذِبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın çocuk edindiğine dair ne kendilerinin ve ne de babalarının bir bilgisi vardır. Ağızlarından çıkan söz ne büyük iftiradır. Onlar yalnız ve yalnız yalan söylerler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 18,
+      "ayah": 80,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:80",
+      "word_position": 4,
+      "target_word_uthmani": "أَبَوَاهُ",
+      "target_word_rasm": "أبواه",
+      "target_word_literal_irab": "Anne ve babası her ikisi (`أَبَوَاهُ`, tağlîb ikil merfû)",
+      "context_snippet_arabic": "وَأَمَّا ٱلْغُلَٰمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَآ أَن",
+      "context_snippet_turkish_tabula_rasa": "\"Oğlana gelince; onun ana babası güvene ermiş kimselerdi. Çocuğun onları azdırmasından ve gerçeğin üzerini örtmeye sürüklemesinden korkmuştuk.",
+      "morphology": {
+        "lemma": ">abawaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abawaAn|ROOT:Abw|MD|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلْغُلَٰمُ فَكَانَ أَبَوَاهُ مُؤْمِنَيْنِ فَخَشِينَآ أَن يُرْهِقَهُمَا طُغْيَٰنًا وَكُفْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Oğlana gelince; onun ana babası güvene ermiş kimselerdi. Çocuğun onları azdırmasından ve gerçeğin üzerini örtmeye sürüklemesinden korkmuştuk.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 18,
+      "ayah": 82,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:82",
+      "word_position": 13,
+      "target_word_uthmani": "أَبُوهُمَا",
+      "target_word_rasm": "أبوهما",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ",
+      "context_snippet_turkish_tabula_rasa": "... Duvarın altında onların bir hazinesi vardı; babaları da iyi bir kimseydi. Rabbin onların erginlik çağına ulaşmasını ve Rabbinden bir rahmet olarak hazinelerini çıkarmalarını istedi. ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Duvar ise, şehirde iki yetim erkek çocuğa aitti. Duvarın altında onların bir hazinesi vardı; babaları da iyi bir kimseydi. Rabbin onların erginlik çağına ulaşmasını ve Rabbinden bir rahmet olarak hazinelerini çıkarmalarını istedi. Ben bunları kendiliğimden yapmadım. İşte dayanamadığın işlerin içyüzleri budur.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 19,
+      "ayah": 28,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:28",
+      "word_position": 5,
+      "target_word_uthmani": "أَبُوكِ",
+      "target_word_rasm": "أبوك",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "... Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuğu alıp kavmine getirdi, onlar: \"Meryem! Utanılacak bir şey yaptın. Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 19,
+      "ayah": 42,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:42",
+      "word_position": 3,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ",
+      "context_snippet_turkish_tabula_rasa": "Babasına şöyle demişti: \"Babacığım! İşitmeyen, görmeyen ve sana bir faydası olmayan şeylere niçin tapıyorsun?\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًٔا",
+      "ayah_text_turkish_tabula_rasa_full": "Babasına şöyle demişti: \"Babacığım! İşitmeyen, görmeyen ve sana bir faydası olmayan şeylere niçin tapıyorsun?\"",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 19,
+      "ayah": 42,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:42",
+      "word_position": 4,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا",
+      "context_snippet_turkish_tabula_rasa": "Babasına şöyle demişti: \"Babacığım! İşitmeyen, görmeyen ve sana bir faydası olmayan şeylere niçin tapıyorsun?\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ شَيْـًٔا",
+      "ayah_text_turkish_tabula_rasa_full": "Babasına şöyle demişti: \"Babacığım! İşitmeyen, görmeyen ve sana bir faydası olmayan şeylere niçin tapıyorsun?\"",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 19,
+      "ayah": 43,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:43",
+      "word_position": 1,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "يَٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى",
+      "context_snippet_turkish_tabula_rasa": "\"Babacığım! Doğrusu sana gelmeyen bir ilim bana geldi. Bana uy, seni doğru yola eriştireyim.\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًا سَوِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babacığım! Doğrusu sana gelmeyen bir ilim bana geldi. Bana uy, seni doğru yola eriştireyim.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 19,
+      "ayah": 44,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:44",
+      "word_position": 1,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ",
+      "context_snippet_turkish_tabula_rasa": "\"Babacığım! saptırıcı yıkıcı güce tapma, çünkü saptırıcı yıkıcı güç Rahman'a baş kaldırmıştır\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَبَتِ لَا تَعْبُدِ ٱلشَّيْطَٰنَ إِنَّ ٱلشَّيْطَٰنَ كَانَ لِلرَّحْمَٰنِ عَصِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babacığım! saptırıcı yıkıcı güce tapma, çünkü saptırıcı yıkıcı güç Rahman'a baş kaldırmıştır\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 19,
+      "ayah": 45,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:45",
+      "word_position": 1,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن",
+      "context_snippet_turkish_tabula_rasa": "\"Babacığım! Doğrusu sana Rahman katından bir azabın gelmesinden korkuyorum ki böylece saptırıcı yıkıcı gücün dostu olarak kalırsın.\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babacığım! Doğrusu sana Rahman katından bir azabın gelmesinden korkuyorum ki böylece saptırıcı yıkıcı gücün dostu olarak kalırsın.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 21,
+      "ayah": 44,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:44",
+      "word_position": 4,
+      "target_word_uthmani": "وَءَابَآءَهُمْ",
+      "target_word_rasm": "وءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ",
+      "context_snippet_turkish_tabula_rasa": "Biz bunlara ve babalarına geçimlikler verdik de ömürleri uzadı; şimdi memleketlerini her yandan eksilttiğimizi görmüyorlar mı? Üstün gelen onlar mıdır?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ أَفَهُمُ ٱلْغَٰلِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bunlara ve babalarına geçimlikler verdik de ömürleri uzadı; şimdi memleketlerini her yandan eksilttiğimizi görmüyorlar mı? Üstün gelen onlar mıdır?",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 21,
+      "ayah": 52,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:52",
+      "word_position": 3,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim, babasına ve milletine: \"Bu tapınıp durduğunuz heykeller nedir?\" demişti.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim, babasına ve milletine: \"Bu tapınıp durduğunuz heykeller nedir?\" demişti.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 21,
+      "ayah": 53,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:53",
+      "word_position": 3,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Babalarımızı onlara tapar bulduk\" demişlerdi.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babalarımızı onlara tapar bulduk\" demişlerdi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 21,
+      "ayah": 54,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:54",
+      "word_position": 5,
+      "target_word_uthmani": "وَءَابَآؤُكُمْ",
+      "target_word_rasm": "وءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim: \"And olsun ki sizler de babalarınız da apaçık bir sapıklık içindesiniz\" deyince:",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"And olsun ki sizler de babalarınız da apaçık bir sapıklık içindesiniz\" deyince:",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 22,
+      "ayah": 78,
+      "surah_name": "Hac",
+      "ayah_ref": "22:78",
+      "word_position": 16,
+      "target_word_uthmani": "أَبِيكُمْ",
+      "target_word_rasm": "أبيكم",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ",
+      "context_snippet_turkish_tabula_rasa": "... O, sizi seçmiş, babanız İbrahim'in yolu olan yaşam sisteminde sizin için bir zorluk kılmamıştır. Daha önce ve Kuran'da, elçinin size şahit olması, sizin de insanlara şahit olmanız için size müslüman adını veren O'dur. ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah uğrunda gereği gibi cihat edin. O, sizi seçmiş, babanız İbrahim'in yolu olan yaşam sisteminde sizin için bir zorluk kılmamıştır. Daha önce ve Kuran'da, elçinin size şahit olması, sizin de insanlara şahit olmanız için size müslüman adını veren O'dur. Artık, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, Allah'a sarılın. O sizin sahibinizdir. Ne güzel sahip ve ne güzel yardımcıdır!",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 23,
+      "ayah": 24,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:24",
+      "word_position": 25,
+      "target_word_uthmani": "ءَابَآئِنَا",
+      "target_word_rasm": "ءابائنا",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah dilemiş olsaydı kozmik görevliler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةً مَّا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletinin gerçeğin üzerini örten ileri gelenleri: \"Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor. Allah dilemiş olsaydı kozmik görevliler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 23,
+      "ayah": 68,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:68",
+      "word_position": 9,
+      "target_word_uthmani": "ءَابَآءَهُمُ",
+      "target_word_rasm": "ءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Söyleneni hiç düşünmezler mi? Yoksa onlara, ilk atalarına gelmeyen bir şey mi geldi?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Söyleneni hiç düşünmezler mi? Yoksa onlara, ilk atalarına gelmeyen bir şey mi geldi?",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 23,
+      "ayah": 83,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:83",
+      "word_position": 4,
+      "target_word_uthmani": "وَءَابَآؤُنَا",
+      "target_word_rasm": "وءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَٰذَا مِن قَبْلُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir\" demişlerdi.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَٰذَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öncekiler: \"Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir\" demişlerdi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 25,
+      "target_word_uthmani": "ءَابَآئِهِنَّ",
+      "target_word_rasm": "ءابائهن",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Soy, evlat edinme ve mahremiyet hukuku (`4:22` baba eşleriyle evlenme yasağı, `24:31` aile mahremiyeti, `33:5` çocukları gerçek babalarına nispet etme ilkesi, `33:40` elçilik bağı vs biyolojik babalık ayrımı)."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 27,
+      "target_word_uthmani": "ءَابَآءِ",
+      "target_word_rasm": "ءاباء",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Soy, evlat edinme ve mahremiyet hukuku (`4:22` baba eşleriyle evlenme yasağı, `24:31` aile mahremiyeti, `33:5` çocukları gerçek babalarına nispet etme ilkesi, `33:40` elçilik bağı vs biyolojik babalık ayrımı)."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 22,
+      "target_word_uthmani": "ءَابَآئِكُمْ",
+      "target_word_rasm": "ءابائكم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör için bir sorumluluk yoktur. Topal için bir sorumluluk yoktur. Hastaya da bir sorumluluk yoktur. Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. Evlere girdiğiniz zaman, kendinize ehlinize Allah katından bereket, esenlik ve güzellik dileyerek selam verin. Allah size ayetleri, düşünesiniz diye böylece açıklar.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 25,
+      "ayah": 18,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:18",
+      "word_position": 15,
+      "target_word_uthmani": "وَءَابَآءَهُمْ",
+      "target_word_rasm": "وءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ",
+      "context_snippet_turkish_tabula_rasa": "... fakat Sen onlara ve babalarına nimetler verdin de sonunda Seni anmayı unuttular ve helaki hak eden bir millet oldular\" derler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Haşa; Seni bırakıp başka dostlar edinmek bize yaraşmaz; fakat Sen onlara ve babalarına nimetler verdin de sonunda Seni anmayı unuttular ve helaki hak eden bir millet oldular\" derler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 26,
+      "ayah": 26,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:26",
+      "word_position": 4,
+      "target_word_uthmani": "ءَابَآئِكُمُ",
+      "target_word_rasm": "ءابائكم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"O sizin de Rabbiniz, önce geçmiş atalarınızın da Rabbidir\" dedi.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"O sizin de Rabbiniz, önce geçmiş atalarınızın da Rabbidir\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 26,
+      "ayah": 70,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:70",
+      "word_position": 3,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim, babasına ve milletine: \"Nelere tapıyorsunuz?\" demişti.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim, babasına ve milletine: \"Nelere tapıyorsunuz?\" demişti.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 26,
+      "ayah": 74,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:74",
+      "word_position": 4,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Hayır ama, babalarımızı da bu şekilde boyun eğme ve kulluk ederken bulduk\" demişlerdi.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hayır ama, babalarımızı da bu şekilde boyun eğme ve kulluk ederken bulduk\" demişlerdi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 26,
+      "ayah": 76,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:76",
+      "word_position": 2,
+      "target_word_uthmani": "وَءَابَآؤُكُمُ",
+      "target_word_rasm": "وءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 26,
+      "ayah": 86,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:86",
+      "word_position": 2,
+      "target_word_uthmani": "لِأَبِىٓ",
+      "target_word_rasm": "لأبى",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ كَانَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "... Beni nimet esenlik bahçesine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet esenlik bahçesine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 27,
+      "ayah": 67,
+      "surah_name": "Neml",
+      "ayah_ref": "27:67",
+      "word_position": 7,
+      "target_word_uthmani": "وَءَابَآؤُنَآ",
+      "target_word_rasm": "وءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz ve babalarımız toprak olduğumuzda mı, doğrusu bizler mi tekrar çıkarılacağız? Bununla biz de, daha önce babalarımız da, and olsun ki, tehdit edilmiştik. Bu, öncekilerin masallarından başka bir şey değildir\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ أَءِذَا كُنَّا تُرَٰبًا وَءَابَآؤُنَآ أَئِنَّا لَمُخْرَجُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler: \"Biz ve babalarımız toprak olduğumuzda mı, doğrusu bizler mi tekrar çıkarılacağız? Bununla biz de, daha önce babalarımız da, and olsun ki, tehdit edilmiştik. Bu, öncekilerin masallarından başka bir şey değildir\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 27,
+      "ayah": 68,
+      "surah_name": "Neml",
+      "ayah_ref": "27:68",
+      "word_position": 5,
+      "target_word_uthmani": "وَءَابَآؤُنَا",
+      "target_word_rasm": "وءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "وُعِدْنَا هَٰذَا نَحْنُ وَءَابَآؤُنَا مِن قَبْلُ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz ve babalarımız toprak olduğumuzda mı, doğrusu bizler mi tekrar çıkarılacağız? Bununla biz de, daha önce babalarımız da, and olsun ki, tehdit edilmiştik. Bu, öncekilerin masallarından başka bir şey değildir\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَقَدْ وُعِدْنَا هَٰذَا نَحْنُ وَءَابَآؤُنَا مِن قَبْلُ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler: \"Biz ve babalarımız toprak olduğumuzda mı, doğrusu bizler mi tekrar çıkarılacağız? Bununla biz de, daha önce babalarımız da, and olsun ki, tehdit edilmiştik. Bu, öncekilerin masallarından başka bir şey değildir\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 23,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:23",
+      "word_position": 25,
+      "target_word_uthmani": "وَأَبُونَا",
+      "target_word_rasm": "وأبونا",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "... \"Çobanlar ayrılana kadar biz sulamayız. Babamız çok yaşlıdır, onun için bu işi biz yapıyoruz\" dediler.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen suyuna geldiğinde, davarlarını sulayan bir insan topluluğu buldu. Onlardan başka, hayvanlarını sudan alıkoyan iki kadın gördü. Onlara: \"Derdiniz nedir?\" dedi. \"Çobanlar ayrılana kadar biz sulamayız. Babamız çok yaşlıdır, onun için bu işi biz yapıyoruz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 25,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:25",
+      "word_position": 8,
+      "target_word_uthmani": "أَبِى",
+      "target_word_rasm": "أبى",
+      "target_word_literal_irab": "Babası / babaları / babamız (`أَبُوهُمْ / أَبُونَا / أَبِى`, Esma-i Hamse merfû)",
+      "context_snippet_arabic": "ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ",
+      "context_snippet_turkish_tabula_rasa": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 26,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:26",
+      "word_position": 3,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ إِنَّ خَيْرَ",
+      "context_snippet_turkish_tabula_rasa": "İki kadından biri: \"Babacığım! Onu ücretli olarak tut; ücretle tuttuklarının en iyisi bu güçlü ve güvenilir adamdır\" dedi.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "İki kadından biri: \"Babacığım! Onu ücretli olarak tut; ücretle tuttuklarının en iyisi bu güçlü ve güvenilir adamdır\" dedi.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 28,
+      "ayah": 36,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:36",
+      "word_position": 16,
+      "target_word_uthmani": "ءَابَآئِنَا",
+      "target_word_rasm": "ءابائنا",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Musa onlara, apaçık olarak, apaçık göstergelerimizle gelince: \"Bu sadece uydurma bir sihirdir. Önceki atalarımızdan böylesini işitmemiştik\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa onlara, apaçık olarak, apaçık göstergelerimizle gelince: \"Bu sadece uydurma bir sihirdir. Önceki atalarımızdan böylesini işitmemiştik\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 31,
+      "ayah": 21,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:21",
+      "word_position": 14,
+      "target_word_uthmani": "ءَابَآءَنَآ",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, \"Allah'ın indirdiğine uyun\" denince: \"Babalarımızı üzerinde bulduğumuz yola uyarız\" derler. Ya saptırıcı yıkıcı güç, babalarını alevli ateşin azabına çağırmışsa?",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, \"Allah'ın indirdiğine uyun\" denince: \"Babalarımızı üzerinde bulduğumuz yola uyarız\" derler. Ya saptırıcı yıkıcı güç, babalarını alevli ateşin azabına çağırmışsa?",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 33,
+      "ayah": 5,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:5",
+      "word_position": 2,
+      "target_word_uthmani": "لِءَابَآئِهِمْ",
+      "target_word_rasm": "لءابائهم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ",
+      "context_snippet_turkish_tabula_rasa": "Evlatlıkları babalarına nisbet edin, bu Allah katında en doğru olandır. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları yaşam ve hesap sistemi kardeşi ve dostlarınız olarak kabul edin. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evlatlıkları babalarına nisbet edin, bu Allah katında en doğru olandır. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları yaşam ve hesap sistemi kardeşi ve dostlarınız olarak kabul edin. İçinizden kasdederek yaptıklarınız bir yana, yanılmalarınızda size bir sorumluluk yoktur. Allah, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Soy, evlat edinme ve mahremiyet hukuku (`4:22` baba eşleriyle evlenme yasağı, `24:31` aile mahremiyeti, `33:5` çocukları gerçek babalarına nispet etme ilkesi, `33:40` elçilik bağı vs biyolojik babalık ayrımı)."
+    },
+    {
+      "surah": 33,
+      "ayah": 5,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:5",
+      "word_position": 10,
+      "target_word_uthmani": "ءَابَآءَهُمْ",
+      "target_word_rasm": "ءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ",
+      "context_snippet_turkish_tabula_rasa": "Evlatlıkları babalarına nisbet edin, bu Allah katında en doğru olandır. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları yaşam ve hesap sistemi kardeşi ve dostlarınız olarak kabul edin. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evlatlıkları babalarına nisbet edin, bu Allah katında en doğru olandır. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları yaşam ve hesap sistemi kardeşi ve dostlarınız olarak kabul edin. İçinizden kasdederek yaptıklarınız bir yana, yanılmalarınızda size bir sorumluluk yoktur. Allah, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Soy, evlat edinme ve mahremiyet hukuku (`4:22` baba eşleriyle evlenme yasağı, `24:31` aile mahremiyeti, `33:5` çocukları gerçek babalarına nispet etme ilkesi, `33:40` elçilik bağı vs biyolojik babalık ayrımı)."
+    },
+    {
+      "surah": 33,
+      "ayah": 40,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:40",
+      "word_position": 4,
+      "target_word_uthmani": "أَبَآ",
+      "target_word_rasm": "أبا",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Muhammed içinizden herhangi bir adamın babası değil, Allah'ın elçisi ve elçilerin sonuncusudur. Allah her şeyi bilendir.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed içinizden herhangi bir adamın babası değil, Allah'ın elçisi ve elçilerin sonuncusudur. Allah her şeyi bilendir.",
+      "contextual_meaning": "Soy, evlat edinme ve mahremiyet hukuku (`4:22` baba eşleriyle evlenme yasağı, `24:31` aile mahremiyeti, `33:5` çocukları gerçek babalarına nispet etme ilkesi, `33:40` elçilik bağı vs biyolojik babalık ayrımı)."
+    },
+    {
+      "surah": 33,
+      "ayah": 55,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:55",
+      "word_position": 5,
+      "target_word_uthmani": "ءَابَآئِهِنَّ",
+      "target_word_rasm": "ءابائهن",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ",
+      "context_snippet_turkish_tabula_rasa": "... babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَٰنُهُنَّ وَٱتَّقِينَ ٱللَّهَ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların; babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 34,
+      "ayah": 43,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:43",
+      "word_position": 17,
+      "target_word_uthmani": "ءَابَآؤُكُمْ",
+      "target_word_rasm": "ءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَٰذَآ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu adam sizi babalarınızın taptıklarından alıkoymaktan başka bir şey istemiyor\" derlerdi. \"Bu Kuran düpedüz bir uydurmadan başka bir şey değildir\" derlerdi. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا رَجُلٌ يُرِيدُ أَن يَصُدَّكُمْ عَمَّا كَانَ يَعْبُدُ ءَابَآؤُكُمْ وَقَالُوا۟ مَا هَٰذَآ إِلَّآ إِفْكٌ مُّفْتَرًى وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara apaçık olarak okunduğu zaman: \"Bu adam sizi babalarınızın taptıklarından alıkoymaktan başka bir şey istemiyor\" derlerdi. \"Bu Kuran düpedüz bir uydurmadan başka bir şey değildir\" derlerdi. Hak, gerçeğin üzerini örtenlere geldiğinde, onun için: \"Bu apaçık bir büyüdür\" demişlerdi.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 36,
+      "ayah": 6,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:6",
+      "word_position": 5,
+      "target_word_uthmani": "ءَابَآؤُهُمْ",
+      "target_word_rasm": "ءاباؤهم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لِتُنذِرَ قَوْمًا مَّآ أُنذِرَ ءَابَآؤُهُمْ فَهُمْ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 37,
+      "ayah": 17,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:17",
+      "word_position": 1,
+      "target_word_uthmani": "أَوَءَابَآؤُنَا",
+      "target_word_rasm": "أوءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Bu apaçık bir sihirdir; öldüğümüz, toprak ve kemik olduğumuz zaman, önceki babalarımız yahut biz mi dirileceğiz?\" derler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu apaçık bir sihirdir; öldüğümüz, toprak ve kemik olduğumuz zaman, önceki babalarımız yahut biz mi dirileceğiz?\" derler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 37,
+      "ayah": 69,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:69",
+      "word_position": 3,
+      "target_word_uthmani": "ءَابَآءَهُمْ",
+      "target_word_rasm": "ءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar babalarını şüphesiz sapık kimseler olarak bulmuşlardı.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar babalarını şüphesiz sapık kimseler olarak bulmuşlardı.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 37,
+      "ayah": 85,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:85",
+      "word_position": 3,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim babasına ve milletine şöyle demişti: \"Nelere kulluk ediyorsunuz?\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim babasına ve milletine şöyle demişti: \"Nelere kulluk ediyorsunuz?\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 37,
+      "ayah": 102,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:102",
+      "word_position": 17,
+      "target_word_uthmani": "يَٰٓأَبَتِ",
+      "target_word_rasm": "يأبت",
+      "target_word_literal_irab": "Ey babacığım! (`يَٰٓأَبَتِ`, `تاء التعويض` bitişik samimi münâdâ)",
+      "context_snippet_arabic": "مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuk kendisinin yanısıra yürümeye başlayınca: \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "contextual_meaning": "Baba-evlat şefkat diyaloğu (`يَٰٓأَبَتِ` `12:4,100`, `19:42`, `28:26`, `37:102` ve Yûsuf kıssasındaki `أَبَوَيْهِ` anne-baba kavuşması)."
+    },
+    {
+      "surah": 37,
+      "ayah": 126,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:126",
+      "word_position": 4,
+      "target_word_uthmani": "ءَابَآئِكُمُ",
+      "target_word_rasm": "ءابائكم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Biçim verenlerin en iyisi olan, sizin de Rabbiniz, önceki babalarınızın da Rabbi bulunan Allah'ı bırakıp da Baal putuna mı taparsınız?\" demişti.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletine: \"Allah'a karşı gelmekten sakınmaz mısınız? Biçim verenlerin en iyisi olan, sizin de Rabbiniz, önceki babalarınızın da Rabbi bulunan Allah'ı bırakıp da Baal putuna mı taparsınız?\" demişti.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 40,
+      "ayah": 8,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:8",
+      "word_position": 10,
+      "target_word_uthmani": "ءَابَآئِهِمْ",
+      "target_word_rasm": "ءابائهم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ إِنَّكَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! güvene erenleri ve babalarından, eşlerinden, soylarından iyi olanları, kendilerine söz verdiğin Adn esenlik bahçelerine koy; şüphesiz güçlü olan, Hakim olan ancak Sensin\"",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! güvene erenleri ve babalarından, eşlerinden, soylarından iyi olanları, kendilerine söz verdiğin Adn esenlik bahçelerine koy; şüphesiz güçlü olan, Hakim olan ancak Sensin\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 43,
+      "ayah": 22,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:22",
+      "word_position": 5,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا",
+      "context_snippet_turkish_tabula_rasa": "Hayır; \"Doğrusu Biz babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerinden gitmekteyiz\" derler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; \"Doğrusu Biz babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerinden gitmekteyiz\" derler.",
+      "contextual_meaning": "Atalar mirası ikiliği (`2:133` bilinçli tevhit atalarına bağlılık vs `2:170`, `5:104`, `43:22` akletmeyen ataları körü körüne taklit eleştirisi)."
+    },
+    {
+      "surah": 43,
+      "ayah": 23,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:23",
+      "word_position": 15,
+      "target_word_uthmani": "ءَابَآءَنَا",
+      "target_word_rasm": "ءاباءنا",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا",
+      "context_snippet_turkish_tabula_rasa": "... \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce, herhangi bir şehre gönderdiğimiz uyarıcıya, şımarık varlıklıları sadece: \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 43,
+      "ayah": 24,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:24",
+      "word_position": 8,
+      "target_word_uthmani": "ءَابَآءَكُمْ",
+      "target_word_rasm": "ءاباءكم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ قَالُوٓا۟ إِنَّا بِمَآ",
+      "context_snippet_turkish_tabula_rasa": "... \"Eğer size, babalarınızı üzerinde bulduğunuz yaşam sisteminden daha doğrusunu getirmiş isem de mi bana uymazsınız?\" dedi. Onlar: ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönderilen uyarıcı: \"Eğer size, babalarınızı üzerinde bulduğunuz yaşam sisteminden daha doğrusunu getirmiş isem de mi bana uymazsınız?\" dedi. Onlar: \"Doğrusu sizinle gönderilen şeyi gerçeğin üzerini ört\" dediler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 43,
+      "ayah": 26,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:26",
+      "word_position": 4,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim, babasına ve milletine demişti ki: \"Beni yaratan hariç, sizin taptığınız şeylerden uzağım. Beni doğru yola eriştirecek olan şüphesiz O'dur.\"",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim, babasına ve milletine demişti ki: \"Beni yaratan hariç, sizin taptığınız şeylerden uzağım. Beni doğru yola eriştirecek olan şüphesiz O'dur.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 43,
+      "ayah": 29,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:29",
+      "word_position": 4,
+      "target_word_uthmani": "وَءَابَآءَهُمْ",
+      "target_word_rasm": "وءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ",
+      "context_snippet_turkish_tabula_rasa": "Hayır; Ben bunları ve babalarını gerçek ve onu açıklayan bir elçi gelene kadar geçindirdim.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "بَلْ مَتَّعْتُ هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ جَآءَهُمُ ٱلْحَقُّ وَرَسُولٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; Ben bunları ve babalarını gerçek ve onu açıklayan bir elçi gelene kadar geçindirdim.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 44,
+      "ayah": 8,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:8",
+      "word_position": 9,
+      "target_word_uthmani": "ءَابَآئِكُمُ",
+      "target_word_rasm": "ءابائكم",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "O'ndan başka sığınak mercii (ilâh) yoktur; diriltir ve öldürür. Sizin de Rabbiniz önceki atalarınızın da Rabbidir.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O'ndan başka sığınak mercii (ilâh) yoktur; diriltir ve öldürür. Sizin de Rabbiniz önceki atalarınızın da Rabbidir.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 44,
+      "ayah": 36,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:36",
+      "word_position": 2,
+      "target_word_uthmani": "بِـَٔابَآئِنَآ",
+      "target_word_rasm": "بـابائنا",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu gerçeğin üzerini örtenler, \"Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru sözlü iseniz bize babalarımızı getirsenize\" derler.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu gerçeğin üzerini örtenler, \"Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru sözlü iseniz bize babalarımızı getirsenize\" derler.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 45,
+      "ayah": 25,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:25",
+      "word_position": 13,
+      "target_word_uthmani": "بِـَٔابَآئِنَآ",
+      "target_word_rasm": "بـابائنا",
+      "target_word_literal_irab": "Babalarının ve atalarının (`ءَابَآئِكُمْ / ءَابَآئِهِمْ / لِءَابَآئِهِمْ`, kırık çoğul mecrûr)",
+      "context_snippet_arabic": "أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimiz onlara açıkça okunduğu zaman, delilleri yalnızca: \"Doğru sözlü iseniz babalarımızı getirin bakalım\" demek olur.",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍ مَّا كَانَ حُجَّتَهُمْ إِلَّآ أَن قَالُوا۟ ٱئْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açıkça okunduğu zaman, delilleri yalnızca: \"Doğru sözlü iseniz babalarımızı getirin bakalım\" demek olur.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 53,
+      "ayah": 23,
+      "surah_name": "Necm",
+      "ayah_ref": "53:23",
+      "word_position": 7,
+      "target_word_uthmani": "وَءَابَآؤُكُم",
+      "target_word_rasm": "وءاباؤكم",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar sizin ve babalarınızın taktığı adlardan başka bir şey değildir. Allah onları destekleyen bir delil indirmemiştir. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنْ هِىَ إِلَّآ أَسْمَآءٌ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهْوَى ٱلْأَنفُسُ وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar sizin ve babalarınızın taktığı adlardan başka bir şey değildir. Allah onları destekleyen bir delil indirmemiştir. Onlar sadece sanıya ve canlarının istediğine uymaktadırlar. Oysa onlara Rablerinden and olsun ki doğruluk rehberi gelmiştir.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 56,
+      "ayah": 48,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:48",
+      "word_position": 1,
+      "target_word_uthmani": "أَوَءَابَآؤُنَا",
+      "target_word_rasm": "أوءاباؤنا",
+      "target_word_literal_irab": "Ataları / babaları (`ءَابَآؤُكُمْ / ءَابَآؤُنَا / ءَابَآؤُهُمْ`, kırık çoğul merfû)",
+      "context_snippet_arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Önce gelip geçmiş babalarımız da mı?\"",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Önce gelip geçmiş babalarımız da mı?\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 58,
+      "ayah": 22,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:22",
+      "word_position": 15,
+      "target_word_uthmani": "ءَابَآءَهُمْ",
+      "target_word_rasm": "ءاباءهم",
+      "target_word_literal_irab": "Babalarını / geçmiş atalarını (`ءَابَآءَكُمْ / ءَابَآءَنَا`, kırık çoğul mansûb)",
+      "context_snippet_arabic": "وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve ahiret gününe güvene eren bir milletin, babaları veya oğulları veya kardeşleri ya da akrabaları olsa bile Allah'a ve elçisine karşı gelenlere, sevgi beslediklerini görmezsin. İşte Allah, güven bağı bunların kalblerine yazmış, katından bir nur ile onları desteklemiştir. ...",
+      "morphology": {
+        "lemma": "A^baA'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:A^baA'|ROOT:Abw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve ahiret gününe güvene eren bir milletin, babaları veya oğulları veya kardeşleri ya da akrabaları olsa bile Allah'a ve elçisine karşı gelenlere, sevgi beslediklerini görmezsin. İşte Allah, güven bağı bunların kalblerine yazmış, katından bir nur ile onları desteklemiştir. Onları, içlerinden ırmaklar akan, içinde temelli kalacakları esenlik bahçelerine koyar. Allah onlardan hoşnut olmuştur, onlar da Allah'tan hoşnut olmuştur. İşte bunlar, Allah'tan yana olanlardır. İyi bilin ki, saadete erecek olanlar, Allah'tan yana olanlardır.",
+      "contextual_meaning": "İlke-akrabalık önceliği (`9:23`, `58:22`): Biyolojik babalar bile hakikatle savaşıyorsa haksız desteklemenin reddi."
+    },
+    {
+      "surah": 60,
+      "ayah": 4,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:4",
+      "word_position": 36,
+      "target_word_uthmani": "لِأَبِيهِ",
+      "target_word_rasm": "لأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ",
+      "context_snippet_turkish_tabula_rasa": "... bizimle sizin aranızda yalnız Allah'a güven duy kadar ebedi düşmanlık ve öfke başgöstermiştir. \" -Yalnız, İbrahim'in, babasına: \"And olsun ki, senin için mağfiret dileyeceğim, fakat sana Allah'tan gelecek herhangi bir şeyi savmaya gücüm yetmez\" sözü bu örneğin dışındadır- \"Rabbimiz! Sana güvendik, Sana yöneldik; ...",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim ve onunla beraber olanlarda, sizin için uyulacak güzel bir örnek vardır. Onlar milletlerine şöyle demişlerdi: \"Biz sizden ve Allah'tan başka taptıklarınızdan uzağız; sizin yaşam sisteminizi gerçeğin üzerini ört; bizimle sizin aranızda yalnız Allah'a güven duy kadar ebedi düşmanlık ve öfke başgöstermiştir.\" -Yalnız, İbrahim'in, babasına: \"And olsun ki, senin için mağfiret dileyeceğim, fakat sana Allah'tan gelecek herhangi bir şeyi savmaya gücüm yetmez\" sözü bu örneğin dışındadır- \"Rabbimiz! Sana güvendik, Sana yöneldik; dönüş Sanadır.\"",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 80,
+      "ayah": 35,
+      "surah_name": "Abese",
+      "ayah_ref": "80:35",
+      "word_position": 2,
+      "target_word_uthmani": "وَأَبِيهِ",
+      "target_word_rasm": "وأبيه",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "وَأُمِّهِۦ وَأَبِيهِ",
+      "context_snippet_turkish_tabula_rasa": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَأُمِّهِۦ وَأَبِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    },
+    {
+      "surah": 111,
+      "ayah": 1,
+      "surah_name": "Mesed",
+      "ayah_ref": "111:1",
+      "word_position": 3,
+      "target_word_uthmani": "أَبِى",
+      "target_word_rasm": "أبى",
+      "target_word_literal_irab": "Babasının / babamın / babanızın (`لِأَبِيهِ / أَبِيكُمْ / أَبِى`, Esma-i Hamse mecrûr)",
+      "context_snippet_arabic": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "context_snippet_turkish_tabula_rasa": "Ebu Leheb'in elleri kurusun; kurudu da!",
+      "morphology": {
+        "lemma": ">abN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>abN|ROOT:Abw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "ayah_text_turkish_tabula_rasa_full": "Ebu Leheb'in elleri kurusun; kurudu da!",
+      "contextual_meaning": "Bireysel baba sorumluluğu, kuşaklar arası manevî veya tarihsel bağ ile akıl dışı atalar taklidinin sorgulanması."
+    }
+  ]
+}

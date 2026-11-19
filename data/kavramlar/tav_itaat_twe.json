@@ -1,0 +1,2678 @@
+{
+  "root": "ط-و-ع",
+  "root_latin": "T-W-A (TwE)",
+  "concept_name": "Tav' / Tâat / İstitâat (Zorlanmadan Gönüllü Uyum, İçten Adanma ve İmkan-Güç Yetişi)",
+  "rank": 87,
+  "total_occurrences": 129,
+  "unique_ayahs_count": 118,
+  "unified_core_mechanism": "Kökün 129 geçişlik dokusu İbn Fâris'in saptadığı tek fiziksel-iradî çizgide yürür: 'Sertlik ve zorbalık olmadan uyum sağlamak / geçit verip elverişli olmak'. Dört kolda işler: (1) Zoraki olmayan iradî uyum (`أَطَاعَ` `72 V`, `يُطَاع` `2 V`, `مُطَاع` `81:21`, `طَآئِعِين` `41:11`, `طَوْعًا` `4`). (2) İmkân ve güç yetirmek (`ٱسْتَطَاعَ` `42 V`: fizikî, mâlî veya ruhî eşiği aşabilmek). (3) Gönüllü ekstra iyilik ve alay karşısında övgü (`تَطَوَّعَ` `2:158,184`, `ٱلْمُطَّوِّعِينَ` `9:79`). (4) Olumsuz psikolojik veya sözde uyum: benliğin suça meyletmesi (`فَطَوَّعَتْ` `5:30`), yanlış otoritelere kör boyun eğiş (`33:66-67`) ve sözde yalancı itaat (`طَاعَةٌ` `4:81`, `24:53`, `47:21`).",
+  "physical_core": "Ham fiziki çekirdek: İbn Fâris'e göre tek asıl `ٱلْإِصْحَابُ وَٱلِٱنْقِيَادُ` — bir şeyin veya atın dizginine sertlik ve kaba kuvvet göstermeden (`فَرَسٌ طَوْعُ ٱلْعِنَانِ`) yumuşakça uyum sağlayıp eşlik etmesi, geçit verip elverişli hâle gelmesi. Kişinin zorlanmadan gönlünden koparak yapması (`طَوْعًا / تَطَوَّعَ` — 'gönüllülük') ve bir eylemin imkân verip kolayca gerçekleşebilir olması (`ٱسْتَطَاعَ` — 'eylemin sana boyun eğip imkân vermesi = güç yetirmek') doğrudan bu tek merkezden çıkar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris bütün türevleri tek eksene bağlar: `ٱلْإِصْحَابُ وَٱلِٱنْقِيَادُ` (yumuşak eşlik ve zorlamasız uyum). `ٱسْتِطَاعَة` (güç/kapasite yetmesi) kök olarak `طَوْع`dan ('işin sana uyum göstermesini istemek ve başarabilmek') türemiştir.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلطَّوْعُ` zorlamanın (`ٱلْكَرْه`) zıddıdır; `ٱلطَّاعَة` ise yönlendirilen söze kendi iradesiyle olumlu karşılık vermektir.",
+    "lisan_al_arab": "Lisânü'l-Arab: `ٱلِٱسْتِطَاعَة` gücü ve imkânı yetmektir (`18:97`de telaffuz hafifliği ve mânâ nüansı için `ت` düşerek `فَمَا ٱسْطَٰعُوٓا۟` şekline girer); `ٱلتَّطَوُّع` ise zorunlu sınırların ötesinde gönüllü olarak iyilik üstlenmektir (`2:158,184`).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): Kök yumuşaklık, kolaylık ve gönül rızasıdır (`طَوْعًا` vs `كَرْهًا` `41:11`). İnsan benliğinin suçu kolaylaştırması (`فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ` `5:30`) bile benliğin kişiyi kötülüğe 'uyumlu ve yumuşak' hâle getirmesidir.",
+    "arbitration_decision": "Tahkim Kararı: Kökün Türkçe aktarımında 'itaat' kelimesini kölece/körce boyun eğme sanmak büyük sapmadır; asıl çekirdek 'gönüllü, isteyerek uyum sağlama ve eylemin yapılabilir/elverişli imkâna kavuşmasıdır'. `41:11` ('isteyerek/gönüllü uyumla geldik'), `64:16` ('gücünüzün yettiğince `مَا ٱسْتَطَعْتُمْ` korunun ve gönülden uyun `وَأَطِيعُوا۟`') ve `18:97` (`ٱسْطَٰعُوٓا۟` vs `ٱسْتَطَٰعُوا۟`) bu tek mimarinin kanıtlarıdır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*ṭ-w-ʿ ('uyum sağlamak, eğilmek, gönüllü yönelmek, başarabilmek')",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `*ṭ-w-ʿ` yaygın itaat fiili değildir; İbranicede itaat kavramı çoğunlukla `*š-m-ʿ` (`שָׁמַע` 'işitip uymak') ve gönüllü rıza ise `*r-ṣ-h` (`רָצָה`) kökleriyle ifade edilir.",
+    "aramaic_syriac": "Aramice/Süryanicede yerel `ṭ-y-ʿ` / `ṭ-w-ʿ` formları yer yer eğilme/uyum bağlamlarında görülse de temel 'dinleyip itaat etmek' fiili `š-m-ʿ` (`ܫܡܥ`) olarak sürdürülür.",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece) yazıtlarda `𐩷𐩥𐩲` (`ṭwʿ`) kökü yöneticilere ve antlaşma düzenine bağlılık, gönüllü/hukukî boyun eğiş ve uyum bildirmek için doğrudan belgelenmiştir.",
+    "akkadian_geez": "Doğu Samicede (Akadca) doğrudan `*ṭ-w-ʿ` kökü yaygın değildir; Akkadca itaat için `šemû` ve `kanāšu` kullanır.",
+    "phonological_note": "`ط-و-ع` (`*ṭ-w-ʿ`) orta illeti vâv olan ecvef köktür; özellikle Orta ve Güney Semitik alanında (Arapça ve Sebece) 'gönüllü uyum (`طَوْع`), buyruğa uyum (`أَطَاعَ`) ve elverişli güç (`ٱسْتَطَاعَ`)' üçlüsünü eksiksiz kurmuştur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ك-ر-ه (`طَوْعًا وَكَرْهًا / طَوْعًا أَوْ كَرْهًا` — Gönüllü İsteyerek vs Zorla İsteksizce — 3:83, 9:53, 13:15, 41:11)",
+      "ع-ص-ى (`سَمِعْنَا وَعَصَيْنَا` vs `سَمِعْنَا وَأَطَعْنَا` — İşitip Başkaldırma vs İşitip Gönülden Uyma — 2:285, 4:46, 5:7, 24:51, 33:36)",
+      "ع-ج-ز (`ٱسْتَطَاعَ` İmkanı Yetmek vs Aciz Kalmak `لَا يَسْتَطِيعُونَ` — 7:192, 18:97, 21:40)"
+    ],
+    "key_ayahs": [
+      "41:11 & 3:83 & 13:15 & 9:53 (ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ — gönüllü uyum ile zoraki isteksizlik zıtlığı)",
+      "2:285 & 24:51 & 33:36 (سَمِعْنَا وَأَطَعْنَا ↔ عَصَى — işitip uyma ile başkaldırı `عِصْيَان` zıtlığı)",
+      "64:16 (فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ — imkân sınırı ve sorumluluk uyumu)",
+      "18:97 (فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًا — hafif ve ağır çekim farkı)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ط-و-ع zorlamasız gönüllü uyum ve başarabilir imkânsa zıddı nedir?' Cevap: İki ayrı düzlemde `ك-ر-ه` (`طَوْعًا ↔ كَرْهًا` zorla, tiksinerek/istemeyerek `3:83`, `41:11`) ve `ع-ص-ى` (`أَطَاعَ ↔ عَصَى` uyuma karşı diklenip başkaldırma `33:36`, `2:285`)dır. Çift eksende aynı kökle tersine okunabildiğinden Mesânî testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ٱسْطَٰعُوٓا۟ (Kısa/Hafif `ت`siz Çekim: Sette Tırmanmaya Güç Yetirememe) vs ٱسْتَطَٰعُوا۟ (Tam/Ağır `ت`li Çekim: Setti Delmeye Hiç Güç Yetirememe) — 18:97",
+      "ٱسْتَطَعْتُمْ (`X. Bab`: Gücünüz/İmkânınız Yettiğince) vs وَأَطِيعُوا۟ (`IV. Bab`: Gönülden Uyun) — 64:16",
+      "طَوْعًا (Zorlamasız İsteyerek Hal) vs طَآئِعِينَ (Uyum İçindeki İstekli Özneler) — 41:11",
+      "أَطِيعُوا۟ (`Rıza/Bilinçli Uyum`) vs وَمَن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ (`4:80` Elçi-Yaratıcı Uyum Birliği)"
+    ],
+    "mechanical_difference": "1) `18:97`de aynı kökün aynı X. bab çekimi tek ayet içinde iki farklı fonetik ağırlıkla gelir: aşma/tırmanma için kısa `ٱسْطَٰعُوٓا۟`, sert madeni delme gibi çok daha ağır bir fiil için tam harfli `ٱسْتَطَٰعُوا۟` seçilir (`18:78` `تَسْتَطِع` -> `18:82` `تَسْطِع` düşüşüyle uyumludur). 2) `64:16`da X. bab `ٱسْتَطَعْتُمْ` sorumluluğun insan gücüne bağlı olduğunu, IV. bab `وَأَطِيعُوا۟` ise o sınır dahilindeki iradî adımı koyar. 3) `4:81`, `24:53`, `47:21`de yalnız isim `طَاعَةٌ` ikiyüzlü sözde uyum beyanı olarak deşifre edilir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "41:11",
+      "role": "Gönüllülük vs Zorunluluk Mesânî Çapası (ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ)",
+      "literal_meaning": "'Gök ve yere: İsteyerek (`طَوْعًا`) yahut zorlanarak (`كَرْهًا`) gelin dedi; ikisi de: Gönüllü bir uyumla geldik (`طَآئِعِينَ`) dediler.'"
+    },
+    {
+      "ref": "18:97",
+      "role": "Ziyâde-i Mebânî Fonetik Çapası (فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًا)",
+      "literal_meaning": "'Ne o seddi tırmanıp aşmaya güç yetirebildiler (`ٱسْطَٰعُوٓا۟`), ne de onda bir delik açmaya güç yetirebildiler (`ٱسْتَطَٰعُوا۟`).'"
+    },
+    {
+      "ref": "64:16",
+      "role": "Güç-Uyum İlişkisi Çapası (فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟)",
+      "literal_meaning": "'Gücünüz yettiği ölçüde (`مَا ٱسْتَطَعْتُمْ`) sorumluluk bilinciyle korunun, kulak verin ve gönülden uyum sağlayın (`وَأَطِيعُوا۟`).'"
+    },
+    {
+      "ref": "5:30",
+      "role": "Benliğin Yanlış Uyum Üretmesi Çapası (فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ)",
+      "literal_meaning": "'Benliği kardeşini öldürmeyi kendisine kolaylaştırıp hoş gösterdi (`فَطَوَّعَتْ`) ve onu öldürdü.'"
+    },
+    {
+      "ref": "2:158 & 2:184 & 9:79",
+      "role": "Gönüllü İyilik Fazlası Çapası (تَطَوَّعَ خَيْرًا / ٱلْمُطَّوِّعِينَ)",
+      "literal_meaning": "'Kim gönlünden koparak fazladan bir hayır/iyilik işlerse (`تَطَوَّعَ خَيْرًا`) bu kendisi için daha hayırlıdır.'"
+    },
+    {
+      "ref": "4:80",
+      "role": "Elçiye Uyumun Anlamı Çapası (مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ)",
+      "literal_meaning": "'Kim elçiye gönüllü uyum gösterirse (`يُطِعِ`), hakikatte Allah'ın yasasına uymuş (`أَطَاعَ`) olur.'"
+    },
+    {
+      "ref": "26:108-179 & 3:50 & 71:3",
+      "role": "Ortak Elçilik Çağrısı ve Rasm Çapası (وَأَطِيعُونِ)",
+      "literal_meaning": "'Sorumluluk bilinciyle korunun ve bana uyun (`وَأَطِيعُونِ` — mütekellim `-î`si yazıda düşmüş çağrı).'"
+    },
+    {
+      "ref": "4:81 & 24:53 & 47:21",
+      "role": "Sözde Tâat Eleştirisi Çapası (وَيَقُولُونَ طَاعَةٌ)",
+      "literal_meaning": "'Yüzüne karşı: Baş üstüne, itaatimiz tamdır (`طَاعَةٌ`) derler; yanından ayrılınca bir kısmı gece başka planlar kurar.'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) I./IV. bab dışı en kritik ayrım bablar arasındadır: II. bab `طَوَّعَتْ` (`5:30`: içte suçu kolaylaştırmak), IV. bab `أَطَاعَ` (`72 V`: istekli uymak; `24:54`te tek ayette 3 kez, `4:59,80`, `5:92`, `33:66`, `47:33`, `64:12`de 2 kez), V. bab `تَطَوَّعَ` (`2:158,184` + idğamlı ism-i fâili `ٱلْمُطَّوِّعِينَ` `9:79`: gönüllü bağış/hayır), X. bab `ٱسْتَطَاعَ` (`42 V`: yapma kapasitesi). 2) X. babda Kur'an'a özgü ünlü fonetik hafifletme vardır: `18:82` (`تَسْطِع`) ve `18:97` (`ٱسْطَٰعُوٓا۟`) fiillerinde iki kalın sessiz arasından `ت` düşer; `18:97`de aynı ayet içinde hem düşmüş hem tam hâli yan yanadır. 3) Rasm-ı Osmânî'de `وَأَطِيعُونِ` (`11` yer: `3:50`, `26:108-179`, `43:63`, `71:3`) sözcüğünde sondaki yâ harfi yazıda düşer (`وأطيعون`). 4) `طَاعَةٌ` (`3 N`: `4:81`, `24:53`, `47:21`) her üç geçişte de yalnızca merfû haber olarak sözde uyumu bildirir.",
+  "derivatives": {
+    "أَطَاعَ (`72 V`, IV. bab) & يُطَاعُ (`2 V`, meçhul) & مُطَاع (`1 ADJ` `81:21`) & طَاعَة (`3 N`)": "Elçilere, hakka veya yanlış önderlere gönüllü ya da sözde uyma (`4:59,80,81`, `24:54`, `26:108`, `33:66`, `64:16`)",
+    "ٱسْتَطَاعَ (`42 V`, X. bab: tam + `ت`si düşmüş `تَسْطِع / ٱسْطَٰعُوٓا۟`)": "Fiziksel, mâlî ve iradî imkân bulup başarabilmek (`3:97`, `18:78,82,97`, `64:16`)",
+    "طَوْعًا (`4 N`, `كَرْهًا` zıddı) & طَآئِعِينَ (`1 N` `41:11`) & تَطَوَّعَ (`2 V`, V. bab) & مُطَّوِّعِين (`1 N` `9:79`) & طَوَّعَتْ (`1 V`, II. bab `5:30`)": "Gönüllülük, kozmik uyum, zorunlu dışı ekstra hayır ve benliğin suça meyli (`2:158,184`, `5:30`, `9:79`, `41:11`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 158,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:158",
+      "word_position": 19,
+      "target_word_uthmani": "تَطَوَّعَ",
+      "target_word_rasm": "تطوع",
+      "target_word_literal_irab": "Zorunluluk ötesinde gönlünden koparak iyilik işledi (`تَطَوَّعَ`, V. bab mâzî `3MS`)",
+      "context_snippet_arabic": "يَطَّوَّفَ بِهِمَا وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Safa ile Merve Allah'ın nişanelerindendir. Kim Kabe'yi büyük yöneliş toplanmasına katılır veya umre yaparsa, bu ikisini de tavaf etmesinde bir beis yok...",
+      "morphology": {
+        "lemma": "taTaw~aEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(V)|LEM:taTaw~aEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Safa ile Merve Allah'ın nişanelerindendir. Kim Kabe'yi büyük yöneliş toplanmasına katılır veya umre yaparsa, bu ikisini de tavaf etmesinde bir beis yoktur. Kim gönülden iyilik yaparsa, karşılığını görür. Doğrusu Allah nimeti açığa vurmanın karşılığını verendir ve bilendir.",
+      "contextual_meaning": "Zorunluluk sınırının ötesinde kendi hür iradesiyle fazladan iyilik üretme (`فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ` `2:158`, `2:184`): Gönüllü erdem faziletidir."
+    },
+    {
+      "surah": 2,
+      "ayah": 184,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:184",
+      "word_position": 21,
+      "target_word_uthmani": "تَطَوَّعَ",
+      "target_word_rasm": "تطوع",
+      "target_word_literal_irab": "Zorunluluk ötesinde gönlünden koparak iyilik işledi (`تَطَوَّعَ`, V. bab mâzî `3MS`)",
+      "context_snippet_arabic": "طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! öz denetim ve sakınma, sizden öncekilere farz kılındığı gibi, Allah'a karşı gelmekten sakınasınız diye, size sayılı günlerde farz kılındı. İç...",
+      "morphology": {
+        "lemma": "taTaw~aEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(V)|LEM:taTaw~aEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "أَيَّامًا مَّعْدُودَٰتٍ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدْيَةٌ طَعَامُ مِسْكِينٍ فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ وَأَن تَصُومُوا۟ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! öz denetim ve sakınma, sizden öncekilere farz kılındığı gibi, Allah'a karşı gelmekten sakınasınız diye, size sayılı günlerde farz kılındı. İçinizden hasta olan veya yolculukta bulunan, tutamadığı günlerin sayısınca diğer günlerde tutar. öz denetim ve sakınmaya dayanamıyanlar, bir düşkünü doyuracak kadar fidye verir. Kim gönülden iyilik yaparsa o iyilik kendisinedir. öz denetim ve sakınma tutmanız eğer bilirseniz sizin için hayırlıdır.",
+      "contextual_meaning": "Zorunluluk sınırının ötesinde kendi hür iradesiyle fazladan iyilik üretme (`فَمَن تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَّهُۥ` `2:158`, `2:184`): Gönüllü erdem faziletidir."
+    },
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 37,
+      "target_word_uthmani": "ٱسْتَطَٰعُوا۟",
+      "target_word_rasm": "ٱستطعوا",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. İşte yakıcı yıkım yurdu ehli onlardır, onlar orada temellidirler.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 2,
+      "ayah": 273,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:273",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "... Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. dolaşıma sokup paylaştığınız iyi bir şeyi Allah şüphesiz bilir.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadakalarınızı, kendilerini Allah yoluna adayıp yeryüzünde dolaşamayanlara, hayalarından dolayı, kendilerini tanımayanların zengin saydıkları yoksullara verin. Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. dolaşıma sokup paylaştığınız iyi bir şeyi Allah şüphesiz bilir.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 2,
+      "ayah": 282,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:282",
+      "word_position": 45,
+      "target_word_uthmani": "يَسْتَطِيعُ",
+      "target_word_rasm": "يستطيع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Birbirinize belirli bir süre için borçlandığınız zaman onu yazınız. İçinizden bir katip doğru olarak yazsın; katip onu Allah'ın kendisine öğr...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَيُعَلِّمُكُمُ ٱللَّهُ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Birbirinize belirli bir süre için borçlandığınız zaman onu yazınız. İçinizden bir katip doğru olarak yazsın; katip onu Allah'ın kendisine öğrettiği gibi yazmaktan çekinmesin, yazsın. Borçlu olan da yazdırsın, Rabbi olan Allah'tan sakınsın, ondan bir şey eksiltmesin. Eğer borçlu, aptal veya aciz, ya da yazdıramıyacak durumda ise, velisi, doğru olarak yazdırsın. Erkeklerinizden iki şahid tutun; eğer iki erkek bulunmazsa, şahidlerden razı olacağınız bir erkek, biri unuttuğunda diğeri ona hatırlatacak iki kadın olabilir. Şahidler çağırıldıklarında çekinmesinler. Borç büyük veya küçük olsun, onu süresiyle beraber yazmaya üşenmeyin; bu, Allah katında en doğru, şahidlik için en sağlam ve şüphelenmenizden en uzak olandır. Ancak aranızdaki alışveriş peşin olursa, onu yazmamanızda size bir sorumluluk yoktur. Alışveriş yaptığınızda şahid tutun. Katibe de şahide de zarar verilmesin; eğer zarar verirseniz, o zaman doğru yoldan çıkmış olursunuz. Allah'tan sakının, Allah size öğretiyor; Allah her şeyi bilir.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 2,
+      "ayah": 285,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:285",
+      "word_position": 23,
+      "target_word_uthmani": "وَأَطَعْنَا",
+      "target_word_rasm": "وأطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "رُّسُلِهِۦ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "... \"elçileri arasından hiçbirini ayırdetmeyiz, işittik, itaat ettik, Rabbimiz! Affını dileriz, dönüş Sanadır\" dediler.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "elçi ve güvene erenler, ona Rabb'inden indirilene güven duy. Hepsi Allah'a, kozmik görevlilerine, kitaplarına, elçilerine güven duy. \"elçileri arasından hiçbirini ayırdetmeyiz, işittik, itaat ettik, Rabbimiz! Affını dileriz, dönüş Sanadır\" dediler.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 32,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:32",
+      "word_position": 2,
+      "target_word_uthmani": "أَطِيعُوا۟",
+      "target_word_rasm": "أطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ فَإِن",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'a ve elçiye itaat edin\". Yüz çevirirlerse bilsinler ki, Allah gerçeğin üzerini örtenleri sevmez.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'a ve elçiye itaat edin\". Yüz çevirirlerse bilsinler ki, Allah gerçeğin üzerini örtenleri sevmez.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 50,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:50",
+      "word_position": 19,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "\"Benden önce gelen Tevrat'ı tasdik etmekle beraber size yasak edilenlerin bir kısmını helal kılmak üzere, Rabbinizden size bir ayet getirdim. Allah'tan sakının ve bana itaat edin; çünkü Allah benim de Rabbim, sizin de Rabbinizdir. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Benden önce gelen Tevrat'ı tasdik etmekle beraber size yasak edilenlerin bir kısmını helal kılmak üzere, Rabbinizden size bir ayet getirdim. Allah'tan sakının ve bana itaat edin; çünkü Allah benim de Rabbim, sizin de Rabbinizdir. O'na kulluk edin, bu doğru yoldur\".",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 3,
+      "ayah": 83,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:83",
+      "word_position": 11,
+      "target_word_uthmani": "طَوْعًا",
+      "target_word_rasm": "طوعا",
+      "target_word_literal_irab": "Zorlamasız olarak, isteyerek ve gönüllüce (`طَوْعًا`, masdar-hal mansûb — `كَرْهًا` zıddı)",
+      "context_snippet_arabic": "فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yaşam sisteminden başka bir yaşam ve hesap sistemi mi arzu ediyorlar? Oysa göklerde ve yerde kim varsa, ister istemez O'na teslim olmuştur, O'na döneceklerdir.",
+      "morphology": {
+        "lemma": "TawoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TawoE|ROOT:TwE|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yaşam sisteminden başka bir yaşam ve hesap sistemi mi arzu ediyorlar? Oysa göklerde ve yerde kim varsa, ister istemez O'na teslim olmuştur, O'na döneceklerdir.",
+      "contextual_meaning": "Evrensel özgür irade vs zorunluluk ekseni (`طَوْعًا وَكَرْهًا` `3:83`, `9:53`, `13:15`, `41:11`): Gönüllü uyum (`طَوْعًا`) zoraki mecburiyetin (`كَرْهًا`) tam zıddıdır."
+    },
+    {
+      "surah": 3,
+      "ayah": 97,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:97",
+      "word_position": 16,
+      "target_word_uthmani": "ٱسْتَطَاعَ",
+      "target_word_rasm": "ٱستطاع",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن",
+      "context_snippet_turkish_tabula_rasa": "Orada apaçık deliller vardır, İbrahim'in makamı vardır; kim oraya girerse, güvenlik içinde olur; oraya yol bulabilen insana Allah için Kabe'yi büyük yöneliş top...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada apaçık deliller vardır, İbrahim'in makamı vardır; kim oraya girerse, güvenlik içinde olur; oraya yol bulabilen insana Allah için Kabe'yi büyük yöneliş toplanmasına katılması gereklidir. Kim gerçeğin üzerini örterse, bilsin ki; doğrusu Allah alemlerden müstağnidir.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 3,
+      "ayah": 100,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:100",
+      "word_position": 5,
+      "target_word_uthmani": "تُطِيعُوا۟",
+      "target_word_rasm": "تطيعوا",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Kitap verilenlerin bir takımına uyarsanız, güven duy sonra sizi gerçeğin üzerini örten olmağa çevirirler.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ يَرُدُّوكُم بَعْدَ إِيمَٰنِكُمْ كَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Kitap verilenlerin bir takımına uyarsanız, güven duy sonra sizi gerçeğin üzerini örten olmağa çevirirler.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 132,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:132",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Size merhamet edilmesi için, Allah'a ve elçi'e itaat edin.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size merhamet edilmesi için, Allah'a ve elçi'e itaat edin.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 149,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:149",
+      "word_position": 5,
+      "target_word_uthmani": "تُطِيعُوا۟",
+      "target_word_rasm": "تطيعوا",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! gerçeğin üzerini örtenlere itaat ederseniz, sizi geriye döndürürler de kayba uğrarsınız.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَٰبِكُمْ فَتَنقَلِبُوا۟ خَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! gerçeğin üzerini örtenlere itaat ederseniz, sizi geriye döndürürler de kayba uğrarsınız.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 168,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:168",
+      "word_position": 6,
+      "target_word_uthmani": "أَطَاعُونَا",
+      "target_word_rasm": "أطاعونا",
+      "target_word_literal_irab": "Gönüllü uyum gösterip uydu (`أَطَاعَ / أَطَعْتُمُوهُمْ`, IV. bab mâzî)",
+      "context_snippet_arabic": "لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar oturup, kardeşleri için: \"Bize itaat etselerdi öldürülmezlerdi\" dediler. De ki: \"Eğer doğru sözlü iseniz, ölümü kendinizden savın\".",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar oturup, kardeşleri için: \"Bize itaat etselerdi öldürülmezlerdi\" dediler. De ki: \"Eğer doğru sözlü iseniz, ölümü kendinizden savın\".",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 13,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:13",
+      "word_position": 5,
+      "target_word_uthmani": "يُطِعِ",
+      "target_word_rasm": "يطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "حُدُودُ ٱللَّهِ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'a ve elçisine kim itaat ederse onu içlerinden ırmaklar akan esenlik bahçelerine koyacaktır, orada temellidirler, büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "تِلْكَ حُدُودُ ٱللَّهِ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Allah'ın yasalarıdır. Allah'a ve elçisine kim itaat ederse onu içlerinden ırmaklar akan esenlik bahçelerine koyacaktır, orada temellidirler, büyük kurtuluş budur.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 25,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:25",
+      "word_position": 3,
+      "target_word_uthmani": "يَسْتَطِعْ",
+      "target_word_rasm": "يستطع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن",
+      "context_snippet_turkish_tabula_rasa": "Sizden, hür güvene eren kadınlarla evlenmeye güç yetiremiyen kimse, ellerinizdeki güvene eren cariyelerinizden alsın. Allah sizin güven bağı çok iyi bilir. Birb...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم بَعْضُكُم مِّنۢ بَعْضٍ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden, hür güvene eren kadınlarla evlenmeye güç yetiremiyen kimse, ellerinizdeki güvene eren cariyelerinizden alsın. Allah sizin güven bağı çok iyi bilir. Birbirinizdensiniz, aynı soydansınız. Onlarla, zinadan kaçınmaları, iffetli olmaları ve gizli dost tutmamış olmaları halinde, velilerinin izniyle evlenin ve örfe uygun bir şekilde mehirlerini verin. Evlendiklerinde zina edecek olurlarsa, onlara, hür kadınlara edilen azabın yarısı edilir. Cariye ile evlenmedeki bu izin içinizden, sapma ve kusura girme korkusu olanlaradır. sebat edip direnmeniz sizin için daha hayırlıdır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 4,
+      "ayah": 34,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:34",
+      "word_position": 31,
+      "target_word_uthmani": "أَطَعْنَكُمْ",
+      "target_word_rasm": "أطعنكم",
+      "target_word_literal_irab": "Gönüllü uyum gösterip uydu (`أَطَاعَ / أَطَعْتُمُوهُمْ`, IV. bab mâzî)",
+      "context_snippet_arabic": "ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|3FP"
+      },
+      "ayah_text_arabic_full": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 46,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:46",
+      "word_position": 24,
+      "target_word_uthmani": "وَأَطَعْنَا",
+      "target_word_rasm": "وأطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "... \"İşittik ve karşı geldik, kulak vermeyerek dinle\" ve dillerini eğip bükerek ve yaşam sistemini yererek: \"Bizi de dinle\" diyenler vardır. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilerden, sözleri yerlerinden değiştirip: \"İşittik ve karşı geldik, kulak vermeyerek dinle\" ve dillerini eğip bükerek ve yaşam sistemini yererek: \"Bizi de dinle\" diyenler vardır. Şayet: \"İşittik ve itaat ettik, dinle ve bizi gözet\" demiş olsalardı, onlar için daha iyi daha doğru olurdu. İşte Allah gerçeğin üzerini örtmeleri yüzünden onlara lanet etmiştir. Onların ancak pek azı güven duy.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 59,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:59",
+      "word_position": 4,
+      "target_word_uthmani": "أَطِيعُوا۟",
+      "target_word_rasm": "أطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'a itaat edin, elçiye ve sizden buyruk sahibi olanlara itaat edin. Eğer bir şeyde çekişirseniz, Allah'a ve ahiret gününe güven duy onun halini Allah'a ve elçiye bırakın. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a itaat edin, elçiye ve sizden buyruk sahibi olanlara itaat edin. Eğer bir şeyde çekişirseniz, Allah'a ve ahiret gününe güven duy onun halini Allah'a ve elçiye bırakın. Bu, hayırlı ve netice itibariyle en güzeldir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 59,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:59",
+      "word_position": 6,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'a itaat edin, elçiye ve sizden buyruk sahibi olanlara itaat edin. Eğer bir şeyde çekişirseniz, Allah'a ve ahiret gününe güven duy onun halini Allah'a ve elçiye bırakın. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a itaat edin, elçiye ve sizden buyruk sahibi olanlara itaat edin. Eğer bir şeyde çekişirseniz, Allah'a ve ahiret gününe güven duy onun halini Allah'a ve elçiye bırakın. Bu, hayırlı ve netice itibariyle en güzeldir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 64,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:64",
+      "word_position": 6,
+      "target_word_uthmani": "لِيُطَاعَ",
+      "target_word_rasm": "ليطاع",
+      "target_word_literal_irab": "Sözü ve yetkisi gönülden dinlenip uyulur (`لِيُطَاعَ / يُطَاعُ`, IV. bab meçhul muzâri `3MS`)",
+      "context_snippet_arabic": "مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ وَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "Biz her elçiyi ancak, Allah'ın izniyle, itaat olunması için gönderdik. Onlar, kendilerine yazık ettiklerinde, sana gelip Allah'tan mağfiret dileseler ve elçi de onlara mağfiret dileseydi, Allah'ın tevbeleri daima kabul ve merhamet eden olduğunu görürlerdi.",
+      "morphology": {
+        "lemma": "yuTaAEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:yuTaAEu|ROOT:TwE|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz her elçiyi ancak, Allah'ın izniyle, itaat olunması için gönderdik. Onlar, kendilerine yazık ettiklerinde, sana gelip Allah'tan mağfiret dileseler ve elçi de onlara mağfiret dileseydi, Allah'ın tevbeleri daima kabul ve merhamet eden olduğunu görürlerdi.",
+      "contextual_meaning": "Elçinin misyonu (`وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ` `4:64`) ve hesap gününde sözü geçen bir kayırıcının bulunmayışı (`40:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 69,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:69",
+      "word_position": 2,
+      "target_word_uthmani": "يُطِعِ",
+      "target_word_rasm": "يطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Kim Allah'a ve elçiye itaat ederse, işte onlar Allah'ın nimetine eriştirdiği elçilerle, dosdoğru olanlar, şehidler ve iyilerle beraberdirler. Onlar ne iyi arkadaştırlar!",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّٰلِحِينَ وَحَسُنَ أُو۟لَٰٓئِكَ رَفِيقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim Allah'a ve elçiye itaat ederse, işte onlar Allah'ın nimetine eriştirdiği elçilerle, dosdoğru olanlar, şehidler ve iyilerle beraberdirler. Onlar ne iyi arkadaştırlar!",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 80,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:80",
+      "word_position": 2,
+      "target_word_uthmani": "يُطِعِ",
+      "target_word_rasm": "يطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ",
+      "context_snippet_turkish_tabula_rasa": "elçi'e itaat eden, Allah'a itaat etmiş olur. Kim yüz çevirirse bilsin ki, Biz seni onlara bekçi göndermedik.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا",
+      "ayah_text_turkish_tabula_rasa_full": "elçi'e itaat eden, Allah'a itaat etmiş olur. Kim yüz çevirirse bilsin ki, Biz seni onlara bekçi göndermedik.",
+      "contextual_meaning": "Elçiye gönüllü uyum ile Yaratıcı yasasına uyum arasındaki doğrudan bağ (`مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ` `4:80`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 80,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:80",
+      "word_position": 5,
+      "target_word_uthmani": "أَطَاعَ",
+      "target_word_rasm": "أطاع",
+      "target_word_literal_irab": "Gönüllü uyum gösterip uydu (`أَطَاعَ / أَطَعْتُمُوهُمْ`, IV. bab mâzî)",
+      "context_snippet_arabic": "يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ وَمَن تَوَلَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "elçi'e itaat eden, Allah'a itaat etmiş olur. Kim yüz çevirirse bilsin ki, Biz seni onlara bekçi göndermedik.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ وَمَن تَوَلَّىٰ فَمَآ أَرْسَلْنَٰكَ عَلَيْهِمْ حَفِيظًا",
+      "ayah_text_turkish_tabula_rasa_full": "elçi'e itaat eden, Allah'a itaat etmiş olur. Kim yüz çevirirse bilsin ki, Biz seni onlara bekçi göndermedik.",
+      "contextual_meaning": "Elçiye gönüllü uyum ile Yaratıcı yasasına uyum arasındaki doğrudan bağ (`مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَاعَ ٱللَّهَ` `4:80`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 81,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:81",
+      "word_position": 2,
+      "target_word_uthmani": "طَاعَةٌ",
+      "target_word_rasm": "طاعة",
+      "target_word_literal_irab": "Sözde değil eylemde belli olan bilinçli uyum (`طَاعَةٌ`, masdar-isim merfû)",
+      "context_snippet_arabic": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Peki\" derler, fakat senin yanından çıktıklarında, içlerinden bir takımı, geceleyin senin dediklerinden başka bir şey kurarlar. Allah gece tasarladıklarını yazı...",
+      "morphology": {
+        "lemma": "TaAEap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaAEap|ROOT:TwE|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Peki\" derler, fakat senin yanından çıktıklarında, içlerinden bir takımı, geceleyin senin dediklerinden başka bir şey kurarlar. Allah gece tasarladıklarını yazıyor, onlara aldırış etme. Allah'a güven, vekil olarak Allah yeter.",
+      "contextual_meaning": "Sadece dil ucuyla söylenen yalancı uyum iddiası (`طَاعَةٌ` `4:81`, `24:53`, `47:21`): Somut sorumluluk saati gelince gizli niyetlerin ortaya çıkışı."
+    },
+    {
+      "surah": 4,
+      "ayah": 98,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:98",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Çaresiz kalan, yol bulamayan zavallı erkek, kadın ve çocuklar müstesnadırlar.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلْمُسْتَضْعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلْوِلْدَٰنِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Çaresiz kalan, yol bulamayan zavallı erkek, kadın ve çocuklar müstesnadırlar.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 4,
+      "ayah": 129,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:129",
+      "word_position": 2,
+      "target_word_uthmani": "تَسْتَطِيعُوٓا۟",
+      "target_word_rasm": "تستطيعوا",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Adil hareket etmeye ne kadar uğraşsanız, kadınlar arasında eşitlik yapamayacaksınız, bari bir tarafa kalben tamamen meyletmeyin ki diğerini askıdaymış gibi bıra...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Adil hareket etmeye ne kadar uğraşsanız, kadınlar arasında eşitlik yapamayacaksınız, bari bir tarafa kalben tamamen meyletmeyin ki diğerini askıdaymış gibi bırakmış olmayasınız. İşleri düzeltir ve haksızlıktan sakınırsanız bilin ki Allah şüphesiz bağışlar ve merhamet eder.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 5,
+      "ayah": 7,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:7",
+      "word_position": 12,
+      "target_word_uthmani": "وَأَطَعْنَا",
+      "target_word_rasm": "وأطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın size olan nimetini ve \"İşittik, itaat ettik\" dediğinizde sizi andına bağladığı sözünü anın. Allah'tan sakının, Allah içinizde olanı elbette bilir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın size olan nimetini ve \"İşittik, itaat ettik\" dediğinizde sizi andına bağladığı sözünü anın. Allah'tan sakının, Allah içinizde olanı elbette bilir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 30,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:30",
+      "word_position": 1,
+      "target_word_uthmani": "فَطَوَّعَتْ",
+      "target_word_rasm": "فطوعت",
+      "target_word_literal_irab": "Kötülüğü ona kolay ve cazip gösterip uydurdu (`فَطَوَّعَتْ`, II. bab mâzî `3FS`)",
+      "context_snippet_arabic": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine, kardeşini öldürmekte kendi benliğine uydu ve onu öldürerek, zarara uğrayanlardan oldu.",
+      "morphology": {
+        "lemma": "Taw~aEato",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Taw~aEato|ROOT:TwE|3FS"
+      },
+      "ayah_text_arabic_full": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine, kardeşini öldürmekte kendi benliğine uydu ve onu öldürerek, zarara uğrayanlardan oldu.",
+      "contextual_meaning": "İlk cinayet psikolojisi (`فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ` `5:30`): Kişinin kendi bencil benliğinin suçu kolay ve makul gösterip iç onayını teslim alması."
+    },
+    {
+      "surah": 5,
+      "ayah": 92,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:92",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a itaat edin, elçiye itaat edin, karşı gelmekten çekinin; eğer yüz çevirirseniz bilin ki, elçimize düşen sadece açıkça tebliğ etmektir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَٱحْذَرُوا۟ فَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a itaat edin, elçiye itaat edin, karşı gelmekten çekinin; eğer yüz çevirirseniz bilin ki, elçimize düşen sadece açıkça tebliğ etmektir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 92,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:92",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَٱحْذَرُوا۟ فَإِن",
+      "context_snippet_turkish_tabula_rasa": "Allah'a itaat edin, elçiye itaat edin, karşı gelmekten çekinin; eğer yüz çevirirseniz bilin ki, elçimize düşen sadece açıkça tebliğ etmektir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَٱحْذَرُوا۟ فَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a itaat edin, elçiye itaat edin, karşı gelmekten çekinin; eğer yüz çevirirseniz bilin ki, elçimize düşen sadece açıkça tebliğ etmektir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 112,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:112",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَطِيعُ",
+      "target_word_rasm": "يستطيع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ",
+      "context_snippet_turkish_tabula_rasa": "Havariler, \"Ey Meryem oğlu İsa! Rabbin bize gökten bir sofra indirebilir mi?\" demişlerdi de, \"güven duy Allah'tan sakının\" demişti.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ ٱلْحَوَارِيُّونَ يَٰعِيسَى ٱبْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَن يُنَزِّلَ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Havariler, \"Ey Meryem oğlu İsa! Rabbin bize gökten bir sofra indirebilir mi?\" demişlerdi de, \"güven duy Allah'tan sakının\" demişti.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 6,
+      "ayah": 35,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:35",
+      "word_position": 7,
+      "target_word_uthmani": "ٱسْتَطَعْتَ",
+      "target_word_rasm": "ٱستطعت",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا",
+      "context_snippet_turkish_tabula_rasa": "Onların yüz çevirmesi sana ağır gelince, eğer gücün yeri delmeye veya göğe merdiven dayamağa yetmiş olsaydı, onlara bir apaçık gösterge göstermek isterdin. Allah dileseydi onları doğru yolda toplardı. ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yüz çevirmesi sana ağır gelince, eğer gücün yeri delmeye veya göğe merdiven dayamağa yetmiş olsaydı, onlara bir apaçık gösterge göstermek isterdin. Allah dileseydi onları doğru yolda toplardı. Sakın bilmeyenlerden olma.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 6,
+      "ayah": 116,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:116",
+      "word_position": 2,
+      "target_word_uthmani": "تُطِعْ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "وَإِن تُطِعْ أَكْثَرَ مَن فِى",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzündekilerin çoğunluğuna itaat edersen seni Allah yolundan saptırırlar. Onlar ancak zanna uyarlar, sadece tahminde bulunurlar.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِن تُطِعْ أَكْثَرَ مَن فِى ٱلْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ ٱللَّهِ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzündekilerin çoğunluğuna itaat edersen seni Allah yolundan saptırırlar. Onlar ancak zanna uyarlar, sadece tahminde bulunurlar.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 121,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:121",
+      "word_position": 18,
+      "target_word_uthmani": "أَطَعْتُمُوهُمْ",
+      "target_word_rasm": "أطعتموهم",
+      "target_word_literal_irab": "Gönüllü uyum gösterip uydu (`أَطَاعَ / أَطَعْتُمُوهُمْ`, IV. bab mâzî)",
+      "context_snippet_arabic": "أَوْلِيَآئِهِمْ لِيُجَٰدِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu saptırıcı yıkıcı güçler sizinle tartışmaları için dostlarına fısıldarlar, eğer onlara itaat ederseniz şüphesiz siz otoriteyi bölüşüp ortak koşan olursunuz.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَٰدِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Üzerine Allah'ın adının anılmadığı kesilmiş hayvanları yemeyin, bunu yapmak Allah'ın yolundan çıkmaktır. Doğrusu saptırıcı yıkıcı güçler sizinle tartışmaları için dostlarına fısıldarlar, eğer onlara itaat ederseniz şüphesiz siz otoriteyi bölüşüp ortak koşan olursunuz.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 192,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:192",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًا وَلَآ",
+      "context_snippet_turkish_tabula_rasa": "Oysa putlar ne onlara yardım edebilir ve ne de kendilerine bir yardımları olur.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَا يَسْتَطِيعُونَ لَهُمْ نَصْرًا وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa putlar ne onlara yardım edebilir ve ne de kendilerine bir yardımları olur.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 7,
+      "ayah": 197,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:197",
+      "word_position": 6,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"O'nu bırakıp da taptıklarınız, kendilerine yardım edemezler ki size yardım etsinler.\"",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"O'nu bırakıp da taptıklarınız, kendilerine yardım edemezler ki size yardım etsinler.\"",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 8,
+      "ayah": 1,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:1",
+      "word_position": 13,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن",
+      "context_snippet_turkish_tabula_rasa": "... güven duy Allah'tan sakının, aranızdaki münasebetleri düzeltin, Allah'a ve elçisine itaat edin.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, ganimetlere dair soru sorarlar, de ki: Ganimetler Allah'ın ve elçi. güven duy Allah'tan sakının, aranızdaki münasebetleri düzeltin, Allah'a ve elçisine itaat edin.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 20,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:20",
+      "word_position": 4,
+      "target_word_uthmani": "أَطِيعُوا۟",
+      "target_word_rasm": "أطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'a ve elçisine itaat edin, Kuran'ı dinleyip dururken yüz çevirmeyin, dinlemedikleri halde \"dinledik\" diyenler gibi olmayın.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوْا۟ عَنْهُ وَأَنتُمْ تَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a ve elçisine itaat edin, Kuran'ı dinleyip dururken yüz çevirmeyin, dinlemedikleri halde \"dinledik\" diyenler gibi olmayın.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 46,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:46",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçisine itaat edin; çekişmeyin, yoksa korkar başarısızlığa düşersiniz ve kuvvetiniz gider. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ وَٱصْبِرُوٓا۟ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine itaat edin; çekişmeyin, yoksa korkar başarısızlığa düşersiniz ve kuvvetiniz gider. sebat edip direnin, doğrusu Allah sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 60,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:60",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْتَطَعْتُم",
+      "target_word_rasm": "ٱستطعتم",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Onlara karşı gücünüzün yettiği kadar Allah'ın düşmanı ve sizin düşmanlarınızı ve bunların dışında Allah'ın bilip sizin bilmediklerinizi yıldı...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Onlara karşı gücünüzün yettiği kadar Allah'ın düşmanı ve sizin düşmanlarınızı ve bunların dışında Allah'ın bilip sizin bilmediklerinizi yıldırmak üzere kuvvet ve savaş atları hazırlayın. Allah yolunda dolaşıma sokup paylaştığınız her şey size haksızlık yapılmadan, tamamen ödenecektir.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 9,
+      "ayah": 42,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:42",
+      "word_position": 15,
+      "target_word_uthmani": "ٱسْتَطَعْنَا",
+      "target_word_rasm": "ٱستطعنا",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kolay bir kazanç, normal bir yolculuk olsaydı sana uyarlardı, fakat çıkılacak yol onlara uzak geldi, kendilerini helak ederek, \"Gücümüz yetseydi sizinle beraber...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kolay bir kazanç, normal bir yolculuk olsaydı sana uyarlardı, fakat çıkılacak yol onlara uzak geldi, kendilerini helak ederek, \"Gücümüz yetseydi sizinle beraber çıkardık\" diye Allah'a bağlayıcı ahit edeceklerdir. Allah, onların yalancı olduğunu elbette biliyor.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 9,
+      "ayah": 53,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:53",
+      "word_position": 3,
+      "target_word_uthmani": "طَوْعًا",
+      "target_word_rasm": "طوعا",
+      "target_word_literal_irab": "Zorlamasız olarak, isteyerek ve gönüllüce (`طَوْعًا`, masdar-hal mansûb — `كَرْهًا` zıddı)",
+      "context_snippet_arabic": "قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"İstekli yahut isteksiz olarak verin, nasıl olsa kabul edilmeyecektir. Siz şüphesiz fasık bir topluluksunuz.\"",
+      "morphology": {
+        "lemma": "TawoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TawoE|ROOT:TwE|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ إِنَّكُمْ كُنتُمْ قَوْمًا فَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İstekli yahut isteksiz olarak verin, nasıl olsa kabul edilmeyecektir. Siz şüphesiz fasık bir topluluksunuz.\"",
+      "contextual_meaning": "Evrensel özgür irade vs zorunluluk ekseni (`طَوْعًا وَكَرْهًا` `3:83`, `9:53`, `13:15`, `41:11`): Gönüllü uyum (`طَوْعًا`) zoraki mecburiyetin (`كَرْهًا`) tam zıddıdır."
+    },
+    {
+      "surah": 9,
+      "ayah": 71,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:71",
+      "word_position": 15,
+      "target_word_uthmani": "وَيُطِيعُونَ",
+      "target_word_rasm": "ويطيعون",
+      "target_word_literal_irab": "Sizi dinleyip uyuyorlar / uyacağız (`يُطِيعُونَ / سَنُطِيعُكُمْ`, IV. bab muzâri)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "... irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payı verirler, Allah'a ve elçisine itaat ederler. İşte Allah bunlara rahmet edecektir. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren erkekler ve güvene eren kadınlar birbirlerinin velileridir; iyiyi emreder kötülükten alıkorlar; irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payı verirler, Allah'a ve elçisine itaat ederler. İşte Allah bunlara rahmet edecektir. Allah şüphesiz güçlüdür, hakimdir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 79,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:79",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْمُطَّوِّعِينَ",
+      "target_word_rasm": "ٱلمطوعين",
+      "target_word_literal_irab": "Gönlünden koparak bağışta bulunan gönüllüler (`ٱلْمُطَّوِّعِينَ`, V. bab idğamlı ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Sadaka vermekte gönülden davranan güvene erenlere dil uzatan ve ancak ellerinden geldiği kadar verebilenlerle alay eden kimselere bu davranışlarının cezasını Al...",
+      "morphology": {
+        "lemma": "muT~aw~iEiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(V)|LEM:muT~aw~iEiyn|ROOT:TwE|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadaka vermekte gönülden davranan güvene erenlere dil uzatan ve ancak ellerinden geldiği kadar verebilenlerle alay eden kimselere bu davranışlarının cezasını Allah verir; onlara can yakıcı azab vardır.",
+      "contextual_meaning": "Toplumsal dayanışmaya gönlünden koparak bağışta bulunanları (`ٱلْمُطَّوِّعِينَ` `9:79`) küçümseyenlerin alaycı tutumunun teşhiri."
+    },
+    {
+      "surah": 10,
+      "ayah": 38,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:38",
+      "word_position": 10,
+      "target_word_uthmani": "ٱسْتَطَعْتُم",
+      "target_word_rasm": "ٱستطعتم",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Senin için, \"Onu uydurdu mu?\" diyorlar. De ki: \"Onun surelerine benzer bir sure meydana getirin, iddianızda samimi iseniz, Allah'tan başka çağırabileceklerinizi...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senin için, \"Onu uydurdu mu?\" diyorlar. De ki: \"Onun surelerine benzer bir sure meydana getirin, iddianızda samimi iseniz, Allah'tan başka çağırabileceklerinizi de çağırın.\"",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 11,
+      "ayah": 13,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:13",
+      "word_position": 12,
+      "target_word_uthmani": "ٱسْتَطَعْتُم",
+      "target_word_rasm": "ٱستطعتم",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "مُفْتَرَيَٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Senin için: \"Onu uydurdu\" diyorlar, öyle mi? De ki: \"Öyleyse onun surelerine benzer uydurma on sure meydana getirin, iddianızda samimi iseniz, Allah'tan başka ç...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ فَأْتُوا۟ بِعَشْرِ سُوَرٍ مِّثْلِهِۦ مُفْتَرَيَٰتٍ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senin için: \"Onu uydurdu\" diyorlar, öyle mi? De ki: \"Öyleyse onun surelerine benzer uydurma on sure meydana getirin, iddianızda samimi iseniz, Allah'tan başka çağırabileceklerinizi de çağırın.\"",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 11,
+      "ayah": 20,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:20",
+      "word_position": 20,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "ٱلْعَذَابُ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Bunlar yeryüzünde Allah'ı aciz bırakamazlar. Allah'dan başka kendilerini kurtaracak dostları da yoktur. Azab onlara kat kat verilir; işitemezler ve göremezlerdi...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ لَمْ يَكُونُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ يُضَٰعَفُ لَهُمُ ٱلْعَذَابُ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟ يُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar yeryüzünde Allah'ı aciz bırakamazlar. Allah'dan başka kendilerini kurtaracak dostları da yoktur. Azab onlara kat kat verilir; işitemezler ve göremezlerdi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 11,
+      "ayah": 88,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:88",
+      "word_position": 27,
+      "target_word_uthmani": "ٱسْتَطَعْتُ",
+      "target_word_rasm": "ٱستطعت",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ وَمَا تَوْفِيقِىٓ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. Başarım ancak Allah'tandır, O'na güvendim; O'na yöneliyorum\" dedi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 13,
+      "ayah": 15,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:15",
+      "word_position": 7,
+      "target_word_uthmani": "طَوْعًا",
+      "target_word_rasm": "طوعا",
+      "target_word_literal_irab": "Zorlamasız olarak, isteyerek ve gönüllüce (`طَوْعًا`, masdar-hal mansûb — `كَرْهًا` zıddı)",
+      "context_snippet_arabic": "فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَٰلُهُم بِٱلْغُدُوِّ",
+      "context_snippet_turkish_tabula_rasa": "Yerde ve göklerdeki kimseler de, gölgeleri de, sabah akşam, ister istemez Allah'a boyun eğme ve teslimiyet ederler.",
+      "morphology": {
+        "lemma": "TawoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TawoE|ROOT:TwE|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerde ve göklerdeki kimseler de, gölgeleri de, sabah akşam, ister istemez Allah'a boyun eğme ve teslimiyet ederler.",
+      "contextual_meaning": "Evrensel özgür irade vs zorunluluk ekseni (`طَوْعًا وَكَرْهًا` `3:83`, `9:53`, `13:15`, `41:11`): Gönüllü uyum (`طَوْعًا`) zoraki mecburiyetin (`كَرْهًا`) tam zıddıdır."
+    },
+    {
+      "surah": 16,
+      "ayah": 73,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:73",
+      "word_position": 15,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "وَٱلْأَرْضِ شَيْـًٔا وَلَا يَسْتَطِيعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı bırakıp, göklerden ve yerden kendilerine verecek rızıkları olmayan ve vermeye güç yetiremeyen şeylere mi tapıyorlar?",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ شَيْـًٔا وَلَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı bırakıp, göklerden ve yerden kendilerine verecek rızıkları olmayan ve vermeye güç yetiremeyen şeylere mi tapıyorlar?",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 17,
+      "ayah": 48,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:48",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bir yol da bulamamaktadırlar.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bir yol da bulamamaktadırlar.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 17,
+      "ayah": 64,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:64",
+      "word_position": 3,
+      "target_word_uthmani": "ٱسْتَطَعْتَ",
+      "target_word_rasm": "ٱستطعت",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ",
+      "context_snippet_turkish_tabula_rasa": "\"Sesinle, gücünün yettiğini yerinden oynat, onlara karşı yaya ve atlılarınla haykırarak yürü, mallarına ve çocuklarına ortak ol, onlara vaadlerde bulun ama sapt...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sesinle, gücünün yettiğini yerinden oynat, onlara karşı yaya ve atlılarınla haykırarak yürü, mallarına ve çocuklarına ortak ol, onlara vaadlerde bulun ama saptırıcı yıkıcı güç sadece onları aldatmak için vaadeder.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 18,
+      "ayah": 28,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:28",
+      "word_position": 20,
+      "target_word_uthmani": "تُطِعْ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... Dünya hayatının güzelliklerini isteyerek gözlerini o kimselerden ayırma. Bizi anmasını kendisine unutturduğumuz ve işinde aşırı giderek hevesine uyan kimseye uyma.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah akşam Rablerinin rızasını dileyerek O'na yalvaranlarla beraber sen de sebat edip diren. Dünya hayatının güzelliklerini isteyerek gözlerini o kimselerden ayırma. Bizi anmasını kendisine unutturduğumuz ve işinde aşırı giderek hevesine uyan kimseye uyma.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 41,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:41",
+      "word_position": 6,
+      "target_word_uthmani": "تَسْتَطِيعَ",
+      "target_word_rasm": "تستطيع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "مَآؤُهَا غَوْرًا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًا",
+      "context_snippet_turkish_tabula_rasa": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın\" dedi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 18,
+      "ayah": 67,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:67",
+      "word_position": 4,
+      "target_word_uthmani": "تَسْتَطِيعَ",
+      "target_word_rasm": "تستطيع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "O: \"Sen doğrusu benim yaptıklarıma dayanamazsın, bilgice kavrayamadığın bir şeye nasıl dayanabilirsin?\" dedi.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O: \"Sen doğrusu benim yaptıklarıma dayanamazsın, bilgice kavrayamadığın bir şeye nasıl dayanabilirsin?\" dedi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 18,
+      "ayah": 72,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:72",
+      "word_position": 6,
+      "target_word_uthmani": "تَسْتَطِيعَ",
+      "target_word_rasm": "تستطيع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "Musa'ya: \"Ben sana yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya: \"Ben sana yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 18,
+      "ayah": 75,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:75",
+      "word_position": 7,
+      "target_word_uthmani": "تَسْتَطِيعَ",
+      "target_word_rasm": "تستطيع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "O: \"Ben sana, yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O: \"Ben sana, yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 18,
+      "ayah": 78,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:78",
+      "word_position": 10,
+      "target_word_uthmani": "تَسْتَطِع",
+      "target_word_rasm": "تستطع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "O şöyle söyledi: \"İşte bu, seninle benim ayrılmamızı gerektiriyor; dayanamadığın işlerin yorumunu sana anlatacağım\"",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O şöyle söyledi: \"İşte bu, seninle benim ayrılmamızı gerektiriyor; dayanamadığın işlerin yorumunu sana anlatacağım\"",
+      "contextual_meaning": "Kehf kıssasında Mûsâ'nın dayanma sınırı: hikmetler açılmadan önce ağır `تَسْتَطِع` (`18:78`), olaylar çözüldükten sonra hafiflemiş `تَسْطِع` (`18:82`) formu."
+    },
+    {
+      "surah": 18,
+      "ayah": 82,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:82",
+      "word_position": 33,
+      "target_word_uthmani": "تَسْطِع",
+      "target_word_rasm": "تسطع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "... Rabbin onların erginlik çağına ulaşmasını ve Rabbinden bir rahmet olarak hazinelerini çıkarmalarını istedi. Ben bunları kendiliğimden yapmadım. ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Duvar ise, şehirde iki yetim erkek çocuğa aitti. Duvarın altında onların bir hazinesi vardı; babaları da iyi bir kimseydi. Rabbin onların erginlik çağına ulaşmasını ve Rabbinden bir rahmet olarak hazinelerini çıkarmalarını istedi. Ben bunları kendiliğimden yapmadım. İşte dayanamadığın işlerin içyüzleri budur.\"",
+      "contextual_meaning": "Kehf kıssasında Mûsâ'nın dayanma sınırı: hikmetler açılmadan önce ağır `تَسْتَطِع` (`18:78`), olaylar çözüldükten sonra hafiflemiş `تَسْطِع` (`18:82`) formu."
+    },
+    {
+      "surah": 18,
+      "ayah": 97,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:97",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْطَٰعُوٓا۟",
+      "target_word_rasm": "ٱسطعوا",
+      "target_word_literal_irab": "Aşmaya veya delmeye imkân bulup güç yetiremediler (`ٱسْطَٰعُوٓا۟ / ٱسْتَطَٰعُوا۟`, X. bab mâzî `3MP`)",
+      "context_snippet_arabic": "فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Artık Yecüc ve Mecüc onu ne aşabildiler ve ne de delip geçebildiler.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Artık Yecüc ve Mecüc onu ne aşabildiler ve ne de delip geçebildiler.",
+      "contextual_meaning": "Aynı ayette fonetik ve anlam ikizliği (`فَمَا ٱسْطَٰعُوٓا۟ ... وَمَا ٱسْتَطَٰعُوا۟` `18:97`): Tırmanma aczi için kısa `ٱسْطَٰعُوٓا۟`, zırhlı setti delme imkânsızlığı için ağır tam `ٱسْتَطَٰعُوا۟` kullanımı!"
+    },
+    {
+      "surah": 18,
+      "ayah": 97,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:97",
+      "word_position": 6,
+      "target_word_uthmani": "ٱسْتَطَٰعُوا۟",
+      "target_word_rasm": "ٱستطعوا",
+      "target_word_literal_irab": "Aşmaya veya delmeye imkân bulup güç yetiremediler (`ٱسْطَٰعُوٓا۟ / ٱسْتَطَٰعُوا۟`, X. bab mâzî `3MP`)",
+      "context_snippet_arabic": "أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًا",
+      "context_snippet_turkish_tabula_rasa": "Artık Yecüc ve Mecüc onu ne aşabildiler ve ne de delip geçebildiler.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "فَمَا ٱسْطَٰعُوٓا۟ أَن يَظْهَرُوهُ وَمَا ٱسْتَطَٰعُوا۟ لَهُۥ نَقْبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Artık Yecüc ve Mecüc onu ne aşabildiler ve ne de delip geçebildiler.",
+      "contextual_meaning": "Aynı ayette fonetik ve anlam ikizliği (`فَمَا ٱسْطَٰعُوٓا۟ ... وَمَا ٱسْتَطَٰعُوا۟` `18:97`): Tırmanma aczi için kısa `ٱسْطَٰعُوٓا۟`, zırhlı setti delme imkânsızlığı için ağır tam `ٱسْتَطَٰعُوا۟` kullanımı!"
+    },
+    {
+      "surah": 18,
+      "ayah": 101,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:101",
+      "word_position": 10,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا",
+      "context_snippet_turkish_tabula_rasa": "Gözleri bizim öğüdümüze karşı kapalı olan ve öfkelerinden onu dinlemeye tahammül edemeyen gerçeğin üzerini örtenlere o gün yakıcı yıkım yurdunu öyle bir gösteri...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ فِى غِطَآءٍ عَن ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gözleri bizim öğüdümüze karşı kapalı olan ve öfkelerinden onu dinlemeye tahammül edemeyen gerçeğin üzerini örtenlere o gün yakıcı yıkım yurdunu öyle bir gösteririz ki!",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 20,
+      "ayah": 90,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:90",
+      "word_position": 15,
+      "target_word_uthmani": "وَأَطِيعُوٓا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Harun da onlara önceden: \"Ey milletim! Siz bu buzağı ile sınanıyorsunuz. Sizin gerçek Rabbiniz Rahman'dır. Bana uyun, emrime itaat edin\" demişti.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ وَإِنَّ رَبَّكُمُ ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Harun da onlara önceden: \"Ey milletim! Siz bu buzağı ile sınanıyorsunuz. Sizin gerçek Rabbiniz Rahman'dır. Bana uyun, emrime itaat edin\" demişti.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 40,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:40",
+      "word_position": 6,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Belki aniden gelecek de onları şaşırtacaktır. Artık onu geri çeviremezler; kendileri de ertelenmez.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Belki aniden gelecek de onları şaşırtacaktır. Artık onu geri çeviremezler; kendileri de ertelenmez.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 21,
+      "ayah": 43,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:43",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "مِّن دُونِنَا لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Yoksa kendilerini bize karşı savunacak sahte sığınakları mı var? O sahte sığınaklar kendilerine bile yardım edemezler. Katımızdan da dostluk görmezler.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "أَمْ لَهُمْ ءَالِهَةٌ تَمْنَعُهُم مِّن دُونِنَا لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa kendilerini bize karşı savunacak sahte sığınakları mı var? O sahte sığınaklar kendilerine bile yardım edemezler. Katımızdan da dostluk görmezler.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 23,
+      "ayah": 34,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:34",
+      "word_position": 2,
+      "target_word_uthmani": "أَطَعْتُم",
+      "target_word_rasm": "أطعتم",
+      "target_word_literal_irab": "Gönüllü uyum gösterip uydu (`أَطَاعَ / أَطَعْتُمُوهُمْ`, IV. bab mâzî)",
+      "context_snippet_arabic": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"Kendiniz gibi bir insana itaat ederseniz hüsrana uğrayacağınızda hiç şüphe yoktur.\"",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kendiniz gibi bir insana itaat ederseniz hüsrana uğrayacağınızda hiç şüphe yoktur.\"",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 47,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:47",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَطَعْنَا",
+      "target_word_rasm": "وأطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ",
+      "context_snippet_turkish_tabula_rasa": "iki çıkışlı kaypaklar: \"Allah'a ve elçi'e güvene erdik, itaat ettik\" derler; sonra da bir takımı yüz çevirirler. İşte bunlar güvene ermiş değillerdir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعْنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُم مِّنۢ بَعْدِ ذَٰلِكَ وَمَآ أُو۟لَٰٓئِكَ بِٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "iki çıkışlı kaypaklar: \"Allah'a ve elçi'e güvene erdik, itaat ettik\" derler; sonra da bir takımı yüz çevirirler. İşte bunlar güvene ermiş değillerdir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 51,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:51",
+      "word_position": 15,
+      "target_word_uthmani": "وَأَطَعْنَا",
+      "target_word_rasm": "وأطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "أَن يَقُولُوا۟ سَمِعْنَا وَأَطَعْنَا وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"İşittik, itaat ettik\" demek, ancak güvene erenlerin sözüdür, işte saadete erenler onlardır.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا كَانَ قَوْلَ ٱلْمُؤْمِنِينَ إِذَا دُعُوٓا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحْكُمَ بَيْنَهُمْ أَن يَقُولُوا۟ سَمِعْنَا وَأَطَعْنَا وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarında hüküm verilmek üzere Allah'a ve elçiye çağırıldıkları vakit: \"İşittik, itaat ettik\" demek, ancak güvene erenlerin sözüdür, işte saadete erenler onlardır.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 52,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:52",
+      "word_position": 2,
+      "target_word_uthmani": "يُطِعِ",
+      "target_word_rasm": "يطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخْشَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçiye itaat eden, Allah'tan korkan ve O'ndan sakınan kimseler, işte onlar kurtulanlardır.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخْشَ ٱللَّهَ وَيَتَّقْهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçiye itaat eden, Allah'tan korkan ve O'ndan sakınan kimseler, işte onlar kurtulanlardır.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 53,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:53",
+      "word_position": 11,
+      "target_word_uthmani": "طَاعَةٌ",
+      "target_word_rasm": "طاعة",
+      "target_word_literal_irab": "Sözde değil eylemde belli olan bilinçli uyum (`طَاعَةٌ`, masdar-isim merfû)",
+      "context_snippet_arabic": "قُل لَّا تُقْسِمُوا۟ طَاعَةٌ مَّعْرُوفَةٌ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... \"bağlayıcı ahit etmeyin; itaatiniz malumdur. Allah yaptıklarınızdan şüphesiz haberdardır. ...",
+      "morphology": {
+        "lemma": "TaAEap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaAEap|ROOT:TwE|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ قُل لَّا تُقْسِمُوا۟ طَاعَةٌ مَّعْرُوفَةٌ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer kendilerine emredersen, o iki yüzlüler, savaşa çıkacaklarına bütün güçleriyle bağlayıcı ahit ederler. De ki: \"bağlayıcı ahit etmeyin; itaatiniz malumdur. Allah yaptıklarınızdan şüphesiz haberdardır.\"",
+      "contextual_meaning": "Sadece dil ucuyla söylenen yalancı uyum iddiası (`طَاعَةٌ` `4:81`, `24:53`, `47:21`): Somut sorumluluk saati gelince gizli niyetlerin ortaya çıkışı."
+    },
+    {
+      "surah": 24,
+      "ayah": 54,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:54",
+      "word_position": 2,
+      "target_word_uthmani": "أَطِيعُوا۟",
+      "target_word_rasm": "أطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'a itaat edin; elçiye itaat edin. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'a itaat edin; elçiye itaat edin.\" Eğer yüz çevirirseniz, bilin ki o elçi, kendisine yükletilenden ve siz de kendinize yükletilenden sorumlusunuz. Eğer O'na itaat ederseniz doğru yolu bulursunuz, elçiye düşen sadece, apaçık tebliğdir.",
+      "contextual_meaning": "Elçiye düşen tek sorumluluğun açık duyuru olması ve hidayetin kör baskıda değil gönüllü uyumda (`وَإِن تُطِيعُوهُ تَهْتَدُوا۟` `24:54`) yatması."
+    },
+    {
+      "surah": 24,
+      "ayah": 54,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:54",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّوْا۟",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'a itaat edin; elçiye itaat edin. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'a itaat edin; elçiye itaat edin.\" Eğer yüz çevirirseniz, bilin ki o elçi, kendisine yükletilenden ve siz de kendinize yükletilenden sorumlusunuz. Eğer O'na itaat ederseniz doğru yolu bulursunuz, elçiye düşen sadece, apaçık tebliğdir.",
+      "contextual_meaning": "Elçiye düşen tek sorumluluğun açık duyuru olması ve hidayetin kör baskıda değil gönüllü uyumda (`وَإِن تُطِيعُوهُ تَهْتَدُوا۟` `24:54`) yatması."
+    },
+    {
+      "surah": 24,
+      "ayah": 54,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:54",
+      "word_position": 16,
+      "target_word_uthmani": "تُطِيعُوهُ",
+      "target_word_rasm": "تطيعوه",
+      "target_word_literal_irab": "Bilinçli biçimde uyasınız diye (`تُطِيعُوا۟ / تُطِيعُوهُ`, IV. bab mansûb)",
+      "context_snippet_arabic": "مَّا حُمِّلْتُمْ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ وَمَا عَلَى",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'a itaat edin; elçiye itaat edin. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْهِ مَا حُمِّلَ وَعَلَيْكُم مَّا حُمِّلْتُمْ وَإِن تُطِيعُوهُ تَهْتَدُوا۟ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'a itaat edin; elçiye itaat edin.\" Eğer yüz çevirirseniz, bilin ki o elçi, kendisine yükletilenden ve siz de kendinize yükletilenden sorumlusunuz. Eğer O'na itaat ederseniz doğru yolu bulursunuz, elçiye düşen sadece, apaçık tebliğdir.",
+      "contextual_meaning": "Elçiye düşen tek sorumluluğun açık duyuru olması ve hidayetin kör baskıda değil gönüllü uyumda (`وَإِن تُطِيعُوهُ تَهْتَدُوا۟` `24:54`) yatması."
+    },
+    {
+      "surah": 24,
+      "ayah": 56,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:56",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, elçiye itaat edin ki size merhamet edilsin.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, elçiye itaat edin ki size merhamet edilsin.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 9,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:9",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "ٱلْأَمْثَٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Sana nasıl misaller getirdiklerine bir bak! Onlar sapmışlardır, yol bulamazlar.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana nasıl misaller getirdiklerine bir bak! Onlar sapmışlardır, yol bulamazlar.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 25,
+      "ayah": 19,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:19",
+      "word_position": 6,
+      "target_word_uthmani": "تَسْتَطِيعُونَ",
+      "target_word_rasm": "تستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًا وَلَا نَصْرًا",
+      "context_snippet_turkish_tabula_rasa": "\"Söylediklerinizde sizi yalancı çıkardılar, artık kendinizden azabı çeviremez, yardım da göremezsiniz. Zulmedenlerinize büyük bir azap tattıracağız\" denir.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَقَدْ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسْتَطِيعُونَ صَرْفًا وَلَا نَصْرًا وَمَن يَظْلِم مِّنكُمْ نُذِقْهُ عَذَابًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Söylediklerinizde sizi yalancı çıkardılar, artık kendinizden azabı çeviremez, yardım da göremezsiniz. Zulmedenlerinize büyük bir azap tattıracağız\" denir.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 25,
+      "ayah": 52,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:52",
+      "word_position": 2,
+      "target_word_uthmani": "تُطِعِ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "فَلَا تُطِعِ ٱلْكَٰفِرِينَ وَجَٰهِدْهُم بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Sen, gerçeğin üzerini örtenlere uyma, onlara karşı olanca gücünle mücadele et.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَا تُطِعِ ٱلْكَٰفِرِينَ وَجَٰهِدْهُم بِهِۦ جِهَادًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sen, gerçeğin üzerini örtenlere uyma, onlara karşı olanca gücünle mücadele et.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 108,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:108",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 110,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:110",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 126,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:126",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 131,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:131",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 144,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:144",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 150,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:150",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 151,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:151",
+      "word_position": 2,
+      "target_word_uthmani": "تُطِيعُوٓا۟",
+      "target_word_rasm": "تطيعوا",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 163,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:163",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 179,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:179",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi.",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 26,
+      "ayah": 211,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:211",
+      "word_position": 5,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu onlara düşmez, zaten güçleri de yetmez.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu onlara düşmez, zaten güçleri de yetmez.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 29,
+      "ayah": 8,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:8",
+      "word_position": 15,
+      "target_word_uthmani": "تُطِعْهُمَآ",
+      "target_word_rasm": "تطعهما",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم",
+      "context_snippet_turkish_tabula_rasa": "... Eğer ana baba, seni bir şeyi körü körüne Bana ortak koşman için zorlarlarsa, o zaman onlara itaat etme. Dönüşünüz Banadır. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حُسْنًا وَإِن جَٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, insana, ana ve babasına karşı iyi davranmasını tavsiye etmişizdir. Eğer ana baba, seni bir şeyi körü körüne Bana ortak koşman için zorlarlarsa, o zaman onlara itaat etme. Dönüşünüz Banadır. Yaptıklarınızı size bildiririm.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 15,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:15",
+      "word_position": 13,
+      "target_word_uthmani": "تُطِعْهُمَا",
+      "target_word_rasm": "تطعهما",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِى ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Ey insanoğlu! Ana baba, seni, körü körüne Bana ortak koşman için zorlarlarsa, onlara itaat etme; dünya işlerinde onlarla güzel geçin; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًا وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanoğlu! Ana baba, seni, körü körüne Bana ortak koşman için zorlarlarsa, onlara itaat etme; dünya işlerinde onlarla güzel geçin; Bana yönelen kimsenin yoluna uy; sonunda dönüşünüz Bana'dır. O zaman, yaptıklarınızı size bildiririm.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 1,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:1",
+      "word_position": 6,
+      "target_word_uthmani": "تُطِعِ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi! Allah'tan sakın, gerçeğin üzerini örtenlere ve iki yüzlülere uyma, Allah şüphesiz bilendir, hakim'dir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi! Allah'tan sakın, gerçeğin üzerini örtenlere ve iki yüzlülere uyma, Allah şüphesiz bilendir, hakim'dir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 33,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:33",
+      "word_position": 13,
+      "target_word_uthmani": "وَأَطِعْنَ",
+      "target_word_rasm": "وأطعن",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "... arınma ve gelişme payını verin; Allah'a ve elçisine itaat edin. Ey elçinin ev halkı! (ehl-i beyt) Şüphesiz Allah sizden kusuru giderip sizi tertemiz yapmak ister.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2FP"
+      },
+      "ayah_text_arabic_full": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evlerinizde oturun; eski Cahiliyye'de olduğu gibi açılıp saçılmayın; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a ve elçisine itaat edin. Ey elçinin ev halkı! (ehl-i beyt) Şüphesiz Allah sizden kusuru giderip sizi tertemiz yapmak ister.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 48,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:48",
+      "word_position": 2,
+      "target_word_uthmani": "تُطِعِ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ وَدَعْ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlere, ikiyüzlülere itaat etme; eziyetlerine aldırma; Allah'a güven, güvenilecek olarak Allah yeter.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlere, ikiyüzlülere itaat etme; eziyetlerine aldırma; Allah'a güven, güvenilecek olarak Allah yeter.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 66,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:66",
+      "word_position": 8,
+      "target_word_uthmani": "أَطَعْنَا",
+      "target_word_rasm": "أطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "ٱلنَّارِ يَقُولُونَ يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+      "context_snippet_turkish_tabula_rasa": "Yüzleri ateşte çevrildiği gün: \"Keşke Allah'a itaat etseydik, keşke elçi'e itaat etseydik!\" derler.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzleri ateşte çevrildiği gün: \"Keşke Allah'a itaat etseydik, keşke elçi'e itaat etseydik!\" derler.",
+      "contextual_meaning": "Sürü psikolojisiyle kibirli önderlere körü körüne uymanın yıkıcı pişmanlığı (`يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 66,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:66",
+      "word_position": 10,
+      "target_word_uthmani": "وَأَطَعْنَا",
+      "target_word_rasm": "وأطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+      "context_snippet_turkish_tabula_rasa": "Yüzleri ateşte çevrildiği gün: \"Keşke Allah'a itaat etseydik, keşke elçi'e itaat etseydik!\" derler.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzleri ateşte çevrildiği gün: \"Keşke Allah'a itaat etseydik, keşke elçi'e itaat etseydik!\" derler.",
+      "contextual_meaning": "Sürü psikolojisiyle kibirli önderlere körü körüne uymanın yıkıcı pişmanlığı (`يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 67,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:67",
+      "word_position": 4,
+      "target_word_uthmani": "أَطَعْنَا",
+      "target_word_rasm": "أطعنا",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! Biz yöneticilerimize ve büyüklerimize itaat etmiştik, fakat onlar bizi yoldan saptırdılar. \", \"Rabbimiz! Onlara iki kat azap ver, onları büyük bir lanete uğrat\" derler.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! Biz yöneticilerimize ve büyüklerimize itaat etmiştik, fakat onlar bizi yoldan saptırdılar.\", \"Rabbimiz! Onlara iki kat azap ver, onları büyük bir lanete uğrat\" derler.",
+      "contextual_meaning": "Sürü psikolojisiyle kibirli önderlere körü körüne uymanın yıkıcı pişmanlığı (`يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 71,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:71",
+      "word_position": 8,
+      "target_word_uthmani": "يُطِعِ",
+      "target_word_rasm": "يطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "لَكُمْ ذُنُوبَكُمْ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah'a ve elçi'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يُصْلِحْ لَكُمْ أَعْمَٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'tan sakının, dürüst söz söyleyin de Allah işlerinizi kendinize yararlı kılsın ve sapma ve kusurlarınızı size bağışlasın. Kim Allah'a ve elçi'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 50,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:50",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "O zaman, artık ne vasiyet edebilirler ne de ailelerine dönebilirler.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَا يَسْتَطِيعُونَ تَوْصِيَةً وَلَآ إِلَىٰٓ أَهْلِهِمْ يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zaman, artık ne vasiyet edebilirler ne de ailelerine dönebilirler.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 36,
+      "ayah": 67,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:67",
+      "word_position": 7,
+      "target_word_uthmani": "ٱسْتَطَٰعُوا۟",
+      "target_word_rasm": "ٱستطعوا",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dilesek, onları oldukları yerde dondururduk da, ne ileri gidebilirler ve ne de geri dönebilirlerdi.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ نَشَآءُ لَمَسَخْنَٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dilesek, onları oldukları yerde dondururduk da, ne ileri gidebilirler ve ne de geri dönebilirlerdi.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 36,
+      "ayah": 75,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:75",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Oysa onlar yardım edemezler, ancak kendileri o sahte sığınaklara koruyuculuk için nöbet beklerler.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُندٌ مُّحْضَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa onlar yardım edemezler, ancak kendileri o sahte sığınaklara koruyuculuk için nöbet beklerler.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 40,
+      "ayah": 18,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:18",
+      "word_position": 15,
+      "target_word_uthmani": "يُطَاعُ",
+      "target_word_rasm": "يطاع",
+      "target_word_literal_irab": "Sözü ve yetkisi gönülden dinlenip uyulur (`لِيُطَاعَ / يُطَاعُ`, IV. bab meçhul muzâri `3MS`)",
+      "context_snippet_arabic": "حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ",
+      "context_snippet_turkish_tabula_rasa": "Onları, yüreklerin ağıza geleceği, tasadan yutkunacakları, yaklaşan kıyamet günü ile uyar. Zalimlerin ne dostu ne de sözü dinlenecek şefaatçisi olur.",
+      "morphology": {
+        "lemma": "yuTaAEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:yuTaAEu|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْهُمْ يَوْمَ ٱلْءَازِفَةِ إِذِ ٱلْقُلُوبُ لَدَى ٱلْحَنَاجِرِ كَٰظِمِينَ مَا لِلظَّٰلِمِينَ مِنْ حَمِيمٍ وَلَا شَفِيعٍ يُطَاعُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, yüreklerin ağıza geleceği, tasadan yutkunacakları, yaklaşan kıyamet günü ile uyar. Zalimlerin ne dostu ne de sözü dinlenecek şefaatçisi olur.",
+      "contextual_meaning": "Elçinin misyonu (`وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ` `4:64`) ve hesap gününde sözü geçen bir kayırıcının bulunmayışı (`40:18`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 11,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:11",
+      "word_position": 11,
+      "target_word_uthmani": "طَوْعًا",
+      "target_word_rasm": "طوعا",
+      "target_word_literal_irab": "Zorlamasız olarak, isteyerek ve gönüllüce (`طَوْعًا`, masdar-hal mansûb — `كَرْهًا` zıddı)",
+      "context_snippet_arabic": "لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ",
+      "context_snippet_turkish_tabula_rasa": "Sonra, duman halinde bulunan göğe yöneldi, ona ve yeryüzüne: \"İsteyerek veya istemeyerek buyruğuma gelin\" dedi. İkisi de: \"İsteyerek geldik\" dediler.",
+      "morphology": {
+        "lemma": "TawoE",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TawoE|ROOT:TwE|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, duman halinde bulunan göğe yöneldi, ona ve yeryüzüne: \"İsteyerek veya istemeyerek buyruğuma gelin\" dedi. İkisi de: \"İsteyerek geldik\" dediler.",
+      "contextual_meaning": "Evrensel özgür irade vs zorunluluk ekseni (`طَوْعًا وَكَرْهًا` `3:83`, `9:53`, `13:15`, `41:11`): Gönüllü uyum (`طَوْعًا`) zoraki mecburiyetin (`كَرْهًا`) tam zıddıdır."
+    },
+    {
+      "surah": 41,
+      "ayah": 11,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:11",
+      "word_position": 16,
+      "target_word_uthmani": "طَآئِعِينَ",
+      "target_word_rasm": "طائعين",
+      "target_word_literal_irab": "Zorlanmaksızın gönüllüce uyum içinde olanlar (`طَآئِعِينَ`, I. bab ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra, duman halinde bulunan göğe yöneldi, ona ve yeryüzüne: \"İsteyerek veya istemeyerek buyruğuma gelin\" dedi. İkisi de: \"İsteyerek geldik\" dediler.",
+      "morphology": {
+        "lemma": "TaA^}iEiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:TaA^}iEiyn|ROOT:TwE|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, duman halinde bulunan göğe yöneldi, ona ve yeryüzüne: \"İsteyerek veya istemeyerek buyruğuma gelin\" dedi. İkisi de: \"İsteyerek geldik\" dediler.",
+      "contextual_meaning": "Göklerin ve yerin kozmik çağrıya cevabı (`أَتَيْنَا طَآئِعِينَ` `41:11`): Evrensel yasaların zorla değil tam bir iç uyumla işleyişi."
+    },
+    {
+      "surah": 43,
+      "ayah": 54,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:54",
+      "word_position": 3,
+      "target_word_uthmani": "فَأَطَاعُوهُ",
+      "target_word_rasm": "فأطاعوه",
+      "target_word_literal_irab": "Gönüllü uyum gösterip uydu (`أَطَاعَ / أَطَعْتُمُوهُمْ`, IV. bab mâzî)",
+      "context_snippet_arabic": "فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا۟ قَوْمًا",
+      "context_snippet_turkish_tabula_rasa": "Firavun, milletini küçümsedi ama, onlar kendisine yine de itaat ettiler. Doğrusu onlar yoldan çıkmış bir milletti.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun, milletini küçümsedi ama, onlar kendisine yine de itaat ettiler. Doğrusu onlar yoldan çıkmış bir milletti.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 63,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:63",
+      "word_position": 17,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "فِيهِ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Size hikmetle ve ayrılığa düştüğünüz şeylerin bir kısmını açıklamak üzere geldim. Allah'a karşı gelmekten sakının, bana itaat edin. \"",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ عِيسَىٰ بِٱلْبَيِّنَٰتِ قَالَ قَدْ جِئْتُكُم بِٱلْحِكْمَةِ وَلِأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِى تَخْتَلِفُونَ فِيهِ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "İsa, belgeleri getirdiği zaman demişti ki: \"Size hikmetle ve ayrılığa düştüğünüz şeylerin bir kısmını açıklamak üzere geldim. Allah'a karşı gelmekten sakının, bana itaat edin.\"",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 47,
+      "ayah": 21,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:21",
+      "word_position": 1,
+      "target_word_uthmani": "طَاعَةٌ",
+      "target_word_rasm": "طاعة",
+      "target_word_literal_irab": "Sözde değil eylemde belli olan bilinçli uyum (`طَاعَةٌ`, masdar-isim merfû)",
+      "context_snippet_arabic": "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ فَإِذَا",
+      "context_snippet_turkish_tabula_rasa": "... Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri bağlayıcı ahitte doğruluk gösterselerdi, onların iyiliğine olurdu.",
+      "morphology": {
+        "lemma": "TaAEap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:TaAEap|ROOT:TwE|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا لَّهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri bağlayıcı ahitte doğruluk gösterselerdi, onların iyiliğine olurdu.",
+      "contextual_meaning": "Sadece dil ucuyla söylenen yalancı uyum iddiası (`طَاعَةٌ` `4:81`, `24:53`, `47:21`): Somut sorumluluk saati gelince gizli niyetlerin ortaya çıkışı."
+    },
+    {
+      "surah": 47,
+      "ayah": 26,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:26",
+      "word_position": 9,
+      "target_word_uthmani": "سَنُطِيعُكُمْ",
+      "target_word_rasm": "سنطيعكم",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah'ın indirdiğini beğenmeyen kimselerin: \"Biz bazı işlerde size itaat edeceğiz\" demelerindendir. Allah onların gizlediklerini bilir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لِلَّذِينَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمْ فِى بَعْضِ ٱلْأَمْرِ وَٱللَّهُ يَعْلَمُ إِسْرَارَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah'ın indirdiğini beğenmeyen kimselerin: \"Biz bazı işlerde size itaat edeceğiz\" demelerindendir. Allah onların gizlediklerini bilir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 33,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:33",
+      "word_position": 4,
+      "target_word_uthmani": "أَطِيعُوا۟",
+      "target_word_rasm": "أطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'a itaat edin, elçiye itaat edin; işlerinizi boşa çıkarmayın.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَٰلَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a itaat edin, elçiye itaat edin; işlerinizi boşa çıkarmayın.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 33,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:33",
+      "word_position": 6,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'a itaat edin, elçiye itaat edin; işlerinizi boşa çıkarmayın.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَلَا تُبْطِلُوٓا۟ أَعْمَٰلَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a itaat edin, elçiye itaat edin; işlerinizi boşa çıkarmayın.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 16,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:16",
+      "word_position": 15,
+      "target_word_uthmani": "تُطِيعُوا۟",
+      "target_word_rasm": "تطيعوا",
+      "target_word_literal_irab": "Bilinçli biçimde uyasınız diye (`تُطِيعُوا۟ / تُطِيعُوهُ`, IV. bab mansûb)",
+      "context_snippet_arabic": "أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا",
+      "context_snippet_turkish_tabula_rasa": "... eğer itaat ederseniz Allah size güzel ecir verir, ama daha önce döndüğünüz gibi yine dönecek olursanız sizi can yakan bir azaba uğratır. \"",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bedevilerden geri kalmış olanlara de ki: \"güçlü kuvvetli bir millete karşı, onlar müslüman olana kadar savaşmaya çağrılacaksanız; eğer itaat ederseniz Allah size güzel ecir verir, ama daha önce döndüğünüz gibi yine dönecek olursanız sizi can yakan bir azaba uğratır.\"",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 17,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:17",
+      "word_position": 14,
+      "target_word_uthmani": "يُطِعِ",
+      "target_word_rasm": "يطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah'a ve elçisine itaat ederse, Allah onu, içlerinden ırmaklar akan esenlik bahçelerine koyar. Kim yüz çevirirse, onu can yakıcı azaba uğratır.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ama, gözleri görmeyen kimse savaşa gelmezse ona bir sorumluluk yoktur; topala ve hastaya da sorumluluk yoktur. Kim Allah'a ve elçisine itaat ederse, Allah onu, içlerinden ırmaklar akan esenlik bahçelerine koyar. Kim yüz çevirirse, onu can yakıcı azaba uğratır.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 7,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:7",
+      "word_position": 7,
+      "target_word_uthmani": "يُطِيعُكُمْ",
+      "target_word_rasm": "يطيعكم",
+      "target_word_literal_irab": "Sizi dinleyip uyuyorlar / uyacağız (`يُطِيعُونَ / سَنُطِيعُكُمْ`, IV. bab muzâri)",
+      "context_snippet_arabic": "رَسُولَ ٱللَّهِ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Bilin ki, içinizde Allah'ın elçiyi bulunmaktadır. Eğer o, bir çok işlerde size uymuş olsaydı şüphesiz kötü duruma düşerdiniz; ama Allah size güven bağı sevdirmi...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bilin ki, içinizde Allah'ın elçiyi bulunmaktadır. Eğer o, bir çok işlerde size uymuş olsaydı şüphesiz kötü duruma düşerdiniz; ama Allah size güven bağı sevdirmiş, onu gönüllerinize güzel göstermiş; gerçeğin üzerini örtme tavrını, yoldan çıkmayı ve baş kaldırmayı size iğrenç göstermiştir. İşte böyle olanlar, Allah katından bir lütuf ve nimet sayesinde doğru yolda bulunanlardır. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 14,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:14",
+      "word_position": 16,
+      "target_word_uthmani": "تُطِيعُوا۟",
+      "target_word_rasm": "تطيعوا",
+      "target_word_literal_irab": "Bilinçli biçimde uyasınız diye (`تُطِيعُوا۟ / تُطِيعُوهُ`, IV. bab mansûb)",
+      "context_snippet_arabic": "فِى قُلُوبِكُمْ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا",
+      "context_snippet_turkish_tabula_rasa": "... eğer Allah'a ve elçisine itaat ederseniz, işlediklerinizden bir şey eksilmez; doğrusu Allah, bağışlar, merhamet eder. ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bedeviler: \"güvene erdik\" dediler, de ki: \"güven duy ama İslam olduk deyin; güven duy henüz gönüllerinize yerleşmedi; eğer Allah'a ve elçisine itaat ederseniz, işlediklerinizden bir şey eksilmez; doğrusu Allah, bağışlar, merhamet eder.\"",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 51,
+      "ayah": 45,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:45",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتَطَٰعُوا۟",
+      "target_word_rasm": "ٱستطعوا",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Ayağa kalkacak güçleri kalmadı, yardım da görmediler.",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "فَمَا ٱسْتَطَٰعُوا۟ مِن قِيَامٍ وَمَا كَانُوا۟ مُنتَصِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayağa kalkacak güçleri kalmadı, yardım da görmediler.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 55,
+      "ayah": 33,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:33",
+      "word_position": 5,
+      "target_word_uthmani": "ٱسْتَطَعْتُمْ",
+      "target_word_rasm": "ٱستطعتم",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Ey görünmeyen bilinçli varlık ve insan toplulukları! Göklerin ve yerin çevresini aşıp geçmeye gücünüz yetiyorsa geçin! Ama Allah'ın verdiği bir güç olmaksızın g...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey görünmeyen bilinçli varlık ve insan toplulukları! Göklerin ve yerin çevresini aşıp geçmeye gücünüz yetiyorsa geçin! Ama Allah'ın verdiği bir güç olmaksızın geçemezsiniz ki!",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 58,
+      "ayah": 4,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:4",
+      "word_position": 13,
+      "target_word_uthmani": "يَسْتَطِعْ",
+      "target_word_rasm": "يستطع",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "يَتَمَآسَّا فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا",
+      "context_snippet_turkish_tabula_rasa": "Azad edecek köle bulamayanın, ailesiyle temastan önce iki ay birbiri peşinden öz denetim ve sakınma tutması gerekir. Buna gücü yetmeyen, altmış düşkünü doyurur. Bu kolaylık, Allah'a ve elçisine güvene ermiş olmanızdan ötürüdür; ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتِلْكَ حُدُودُ ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Azad edecek köle bulamayanın, ailesiyle temastan önce iki ay birbiri peşinden öz denetim ve sakınma tutması gerekir. Buna gücü yetmeyen, altmış düşkünü doyurur. Bu kolaylık, Allah'a ve elçisine güvene ermiş olmanızdan ötürüdür; bunlar, Allah'ın koyduğu sınırlardır; gerçeğin üzerini örtenler için can yakıcı azap vardır.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 58,
+      "ayah": 13,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:13",
+      "word_position": 18,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَٰتٍ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 11,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:11",
+      "word_position": 18,
+      "target_word_uthmani": "نُطِيعُ",
+      "target_word_rasm": "نطيع",
+      "target_word_literal_irab": "Uyup itaat ettik / uyarız (`أَطَعْنَا / نُطِيعُ`, IV. bab `1P`)",
+      "context_snippet_arabic": "لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا",
+      "context_snippet_turkish_tabula_rasa": "iki çıkışlı kaypakların, kitap ehlinin gerçeğin üzerini örtenlerinden olan kardeşlerine: \"Eğer siz yurdunuzdan çıkarılırsanız and olsun ki, biz de sizinle berab...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|1P"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "iki çıkışlı kaypakların, kitap ehlinin gerçeğin üzerini örtenlerinden olan kardeşlerine: \"Eğer siz yurdunuzdan çıkarılırsanız and olsun ki, biz de sizinle beraber çıkarız; sizin aleyhinizde kimseye asla uymayız; eğer savaşa tutuşursanız mutlaka size yardım ederiz\" dediklerini görmedin mi? Allah onların yalancı olduklarına şahidlik eder.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 64,
+      "ayah": 12,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:12",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a itaat edin; eğer bundan yüz çevirirseniz bilin ki elçimize düşen apaçık tebliğdir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a itaat edin; eğer bundan yüz çevirirseniz bilin ki elçimize düşen apaçık tebliğdir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 64,
+      "ayah": 12,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:12",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّيْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a itaat edin; eğer bundan yüz çevirirseniz bilin ki elçimize düşen apaçık tebliğdir.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ فَإِن تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a itaat edin; eğer bundan yüz çevirirseniz bilin ki elçimize düşen apaçık tebliğdir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 64,
+      "ayah": 16,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:16",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْتَطَعْتُمْ",
+      "target_word_rasm": "ٱستطعتم",
+      "target_word_literal_irab": "İmkân ve kapasite bularak güç yetirebildi / yetirebildiniz (`ٱسْتَطَعْتُم / ٱسْتَطَاعَ`, X. bab mâzî)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı gelmekten gücünüzün yettiği kadar sakının, buyruklarını dinleyin, itaat edin; kendinizin iyiliğine olarak mallarınızdan dolaşıma sokup paylaşın; ...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı gelmekten gücünüzün yettiği kadar sakının, buyruklarını dinleyin, itaat edin; kendinizin iyiliğine olarak mallarınızdan dolaşıma sokup paylaşın; kendi benliğinin tamahkarlığından korunan kimseler, işte onlar saadete erenlerdir.",
+      "contextual_meaning": "İnsanın sorumluluk sınırı (`فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟` `64:16`): Güç ve imkân ölçüsü (`ٱسْتِطَاعَة`), gönüllü uyumun ön şartıdır."
+    },
+    {
+      "surah": 64,
+      "ayah": 16,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:16",
+      "word_position": 6,
+      "target_word_uthmani": "وَأَطِيعُوا۟",
+      "target_word_rasm": "وأطيعوا",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı gelmekten gücünüzün yettiği kadar sakının, buyruklarını dinleyin, itaat edin; kendinizin iyiliğine olarak mallarınızdan dolaşıma sokup paylaşın; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسْتَطَعْتُمْ وَٱسْمَعُوا۟ وَأَطِيعُوا۟ وَأَنفِقُوا۟ خَيْرًا لِّأَنفُسِكُمْ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı gelmekten gücünüzün yettiği kadar sakının, buyruklarını dinleyin, itaat edin; kendinizin iyiliğine olarak mallarınızdan dolaşıma sokup paylaşın; kendi benliğinin tamahkarlığından korunan kimseler, işte onlar saadete erenlerdir.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 8,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:8",
+      "word_position": 2,
+      "target_word_uthmani": "تُطِعِ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bundan böyle, yalanlayanlara itaat etme;",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَا تُطِعِ ٱلْمُكَذِّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan böyle, yalanlayanlara itaat etme;",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 10,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:10",
+      "word_position": 2,
+      "target_word_uthmani": "تُطِعْ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok bağlayıcı ahit eden alçak zorbaya, bütün bunlar dışında bir de soysuzluk...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok bağlayıcı ahit eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 42,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:42",
+      "word_position": 9,
+      "target_word_uthmani": "يَسْتَطِيعُونَ",
+      "target_word_rasm": "يستطيعون",
+      "target_word_literal_irab": "İmkânı el verir, yapmaya güç yetirebilir (`يَسْتَطِيعُونَ / تَسْتَطِع / تَسْطِع`, X. bab muzâri)",
+      "context_snippet_arabic": "إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "context_snippet_turkish_tabula_rasa": "O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; boyun eğmeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasa...",
+      "morphology": {
+        "lemma": "{sotaTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaTaAEa|ROOT:TwE|3MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; boyun eğmeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman boyun eğmeye çağırılmışlardı.",
+      "contextual_meaning": "Güç, imkân, mali yeterlilik veya içsel direnç kapasitesi (`ٱسْتَطَاعَ`: `3:97`, `8:60`, `9:42`, `11:88` `إِنِ ٱسْتَطَعْتُ` gayreti)."
+    },
+    {
+      "surah": 71,
+      "ayah": 3,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:3",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَطِيعُونِ",
+      "target_word_rasm": "وأطيعون",
+      "target_word_literal_irab": "Bilinçle ve gönüllüce uyun (`أَطِيعُوا۟ / وَأَطِيعُونِ / وَأَطِعْنَ`, IV. bab emir)",
+      "context_snippet_arabic": "ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "context_snippet_turkish_tabula_rasa": "... O'ndan sakının ve bana itaat edin ki Allah sapma ve kusurlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın belirttiği süre gelince geri bırakılamaz; ...",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:>aTaAEa|ROOT:TwE|2MP"
+      },
+      "ayah_text_arabic_full": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah sapma ve kusurlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın belirttiği süre gelince geri bırakılamaz; keşke bilseniz!\"",
+      "contextual_meaning": "Elçilerin tarih boyu değişmeyen ortak çağrısı (`وَأَطِيعُونِ`): Kişisel hükümranlığa değil adalet ve koruyucu bilince gönüllü uyum (`-î` yâsı yazıda düşmüş form)."
+    },
+    {
+      "surah": 76,
+      "ayah": 24,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:24",
+      "word_position": 5,
+      "target_word_uthmani": "تُطِعْ",
+      "target_word_rasm": "تطع",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin hükmüne kadar sebat edip diren; onların sapma ve ağır kusur işleyen ve gerçeğin üzerini örten olanlarına uyma.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin hükmüne kadar sebat edip diren; onların sapma ve ağır kusur işleyen ve gerçeğin üzerini örten olanlarına uyma.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    },
+    {
+      "surah": 81,
+      "ayah": 21,
+      "surah_name": "Tekvîr",
+      "ayah_ref": "81:21",
+      "word_position": 1,
+      "target_word_uthmani": "مُّطَاعٍ",
+      "target_word_rasm": "مطاع",
+      "target_word_literal_irab": "Orada sözüne gönülden uyulan, itibarlı (`مُّطَاعٍ`, IV. bab ism-i mef'ûl mecrûr)",
+      "context_snippet_arabic": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür.",
+      "morphology": {
+        "lemma": "m~uTaAE",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(IV)|LEM:m~uTaAE|ROOT:TwE|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür.",
+      "contextual_meaning": "Vahyi ulaştıran güçlü ve güvenilir elçinin yüce konumu (`مُّطَاعٍ ثَمَّ أَمِينٍ` `81:21`): Zorbalıkla değil saygı ve güvenle kendisine uyulan otorite."
+    },
+    {
+      "surah": 96,
+      "ayah": 19,
+      "surah_name": "Alak",
+      "ayah_ref": "96:19",
+      "word_position": 3,
+      "target_word_uthmani": "تُطِعْهُ",
+      "target_word_rasm": "تطعه",
+      "target_word_literal_irab": "Eğer gönülden uyarsa / uymayın (`يُطِعِ / تُطِعْ / تُطِعْهُمَا`, IV. bab meczûm)",
+      "context_snippet_arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "context_snippet_turkish_tabula_rasa": "Sakın ona uyma; sen boyun eğip teslim ol, Rabbine yaklaş.",
+      "morphology": {
+        "lemma": ">aTaAEa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aTaAEa|ROOT:TwE|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "ayah_text_turkish_tabula_rasa_full": "Sakın ona uyma; sen boyun eğip teslim ol, Rabbine yaklaş.",
+      "contextual_meaning": "Bilinçli, gönüllü ve sorumlu uyum veya körce yanlış odağa boyun eğiş uyarısı (`4:59`, `5:92`, `6:121`, `31:15`, `47:33`, `49:14`, `64:12`)."
+    }
+  ]
+}

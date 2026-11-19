@@ -1,0 +1,1730 @@
+{
+  "root": "س-و-ي",
+  "root_latin": "S-W-Y (swy)",
+  "concept_name": "Sevî / Tesviye (Pürüzsüz Düzlem, Eksiksiz Uyum ve İki Yönlü Denge/Denklik)",
+  "rank": 133,
+  "total_occurrences": 83,
+  "unique_ayahs_count": 80,
+  "unified_core_mechanism": "Eğim, çıkıntı, eksiklik, aşırılık veya savrulma olmaksızın öğeleri kendi içinde dengeli/eksiksiz bir bütünlüğe oturtmak ya da birden fazla tarafı/noktayı aynı düzlem, hiza ve ölçüde eşitlemek.",
+  "physical_core": "Girinti, çıkıntı, eğrilik, aşırılık veya eksiklik bırakmadan bir yüzeyi ya da yapıyı pürüzsüz düzleme ve içsel orantıya kavuşturmak; iki ucun veya tarafın arasını aynı seviye, orta hiza ve dengeye oturtmak.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Tek asıl tespit eder: İki şey arasında doğruluk/düzlük ve denge/orantı (istikâmet ve i'tidâl); engebesiz ova (es-siyy), tam orta (es-sevâ), eşit değer (sîyân) ve ortak buluşma meydanı (mekânun süven) bu tek asıldan çıkar.",
+    "lisan_al_arab": "Eşeğin aynı hizadaki dişleri, göğüsle aynı düzlemdeki karın ve taban kavisi olmayan düz ayak örnekleriyle fizikî hiza çekirdeğini sergiler; ayrıca İbnü'l-A'râbî'nin 'rakip ve mağlup etme olmaksızın Arapçada istîlâ denmez' eleştirisiyle 'istevâ'yı 'istevlâ'ya çeviren zorlamaları reddeder. Halîl b. Ahmed (el-Ayn) ise pürüzsüz çöl alanı (es-siyy), kusursuz sağlıklı yaratılış (es-seviyy) ve gözlerin gördüğü düz ortak alanı öne çıkarır.",
+    "ragib_mufredat": "Eşitliği arşın, terazi ve ölçekle kurulan nicelik denkliği olarak tanımlar; 'istevâ' fiilini hem iki tarafın eşitlenmesi (9:19) hem de tek varlığın kendi özünde ifrat ve tefritten korunmuş tam dengeye ermesi (53:6, 48:29) olarak ikiye ayırır; 'es-seviyy'i de aşırılık ve eksiklikten korunmuş ölçü olarak niteler (ancak 'istevâ alâ' için verdiği 'istîlâ' anlamı hakem süzgecine takılır).",
+    "arbitration_decision": "Sami tarım arkeolojisi (İbranice šāwāh: toprak yüzeyini düzlemek), Kur'an'daki Mesânî zıtları (ع-و-ج eğrilik, أ-م-ت engebe, ش-ط-ط taşkınlık), %100 ayet testi (91:7 vs 91:14, 18:96) ve harf-i cer vektörleri (عَلَى / إِلَى / بِـ) süzgecinden geçirildiğinde; Râgıb'ın kelâmî 'istîlâ' yorumu ve antropomorfik 'cülûs' yüklemeleri elenir. En tutarlı fiziksel çekirdek olarak Halîl ve İbn Fâris'in 'pürüzsüz düzlem, hizalama ve dengeye oturtma' temeli ile Râgıb'ın 'aşırılık-eksiklikten arınmış ölçü' tanımı mühürlenir."
+  },
+  "semitic_cognates": {
+    "hebrew": "שָׁוָה (šāwāh, BDB / Strong's H7737): (Qal) eşit, benzer, denk veya yeterli olmak (Yeşaya 40:25; Özdeyişler 3:15; Ester 3:8); (Piel) tarla yüzeyini tırmıkla düzlemek/pürüzsüzleştirmek (Yeşaya 28:25), ruhu yatıştırıp dengelemek (Mezmurlar 131:2) ve ayakları sağlam yerleştirip oturtmak (2. Samuel 22:34; Mezmurlar 18:34); (Hiphil) eşitlemek. İsim שָׁוֵה (šāweh): düz ova.",
+    "biblical_aramaic": "שְׁוָה (šəwāh, BDB / Strong's H7739 — İbraniceden ayrı Aramaik madde): (Pael/Peîl) denk/benzer kılınmak (Daniel 5:21); (Hithpaal) başka bir şeye dönüştürülüp haline getirilmek (Daniel 3:29).",
+    "syriac_aramaic": "šwy (CAL / Sokoloff, LSyr. 760): (Peal) eşit olmak, denk düşmek, layık olmak; (Pael) düzlemek, serip hazırlamak, kıymet biçmek; (Aphel ʾašwī) düzleştirmek, aynı seviyeye getirmek, uyumlu kılmak.",
+    "akkadian": "Yerli fiil tespit edilmedi; Eski/Orta Babilce sawû ('çöl, ıssız düz arazi', CAD S 202) kelimesi Batı Sami *šwy / šāweh kökünden ödünçleme olarak değerlendirilir.",
+    "geez_and_esa": "Zammit (2002) korpusunda Klasik Ethiopic (Ge'ez) ve Eski Güney Arapça (Sebece/ESA) için doğrudan eşkökenli tespit edilmedi.",
+    "note": "Proto-Sami *š (*s₁) ses yasası eksiksiz işler: Arapça س = İbranice שׁ = Aramice/Süryanice שׁ. Fiziksel temel olan 'toprağı düzlemek, yerleştirmek ve dengeye/aynı hizaya getirmek' Batı/Merkez Sami katmanında doğrudan doğrulanır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-و-ج & أ-م-ت (Eğrilik/Çöküntü ve Tümsek/Engebe: 20:106-107, 67:22)",
+      "ش-ط-ط (Ölçüyü Aşıp Savrulma/Haksızlık: 38:22)",
+      "ك-ب-ب (Yüzüstü Kapaklanıp Devrilme: 67:22)",
+      "ف-ض-ل & د-ر-ج (Artı Pay ve Kademe Üstünlüğü vs Eşitlik Reddi: 4:95, 9:19-20, 57:10)",
+      "ض-ل-ل (Ana Rotadan Sapma: 2:108, 5:12, 5:60, 5:77, 28:22, 60:1)",
+      "ش-ك-س (Birbiriyle Çekişen Çoklu Parçalanma vs Tek Esenlikli Denge: 39:29)"
+    ],
+    "key_ayahs": [
+      "20:106-107 (عِوَجًا وَلَآ أَمْتًا ↔ düz alan)",
+      "38:22 (وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَاطِ)",
+      "67:22 (مُكِبًّا عَلَىٰ وَجْهِهِۦٓ ↔ سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ)",
+      "4:95 & 9:19-20 & 57:10 (لَا يَسْتَوِى / لَا يَسْتَوُۥنَ ↔ فَضَّلَ / أَعْظَمُ دَرَجَةً)",
+      "2:108 & 28:22 (ضَلَّ ↔ سَوَآءَ ٱلسَّبِيلِ)"
+    ],
+    "reverse_stress_test": "ع-و-ج (9 kez: eğrilik, sapma, yamukluk) ve ش-ط-ط (3 kez: sınırı aşıp taşma) ve ك-ب-ب (yüzüstü düşme) köklerinin tam tersi alındığında ortaya 'girintisiz, eğriliksiz, taşkınlıksız, dik ve dengeli orta hiza' çıkar; ayrıca ف-ض-ل ('taban ölçüyü aşan artı pay ve ayrışma') kökünün tam tersi ise 19 ayetteki لَا يَسْتَوِى kalıbının işaret ettiği 'derece ve pay eşitliği'dir. Zıt kutupların Kur'an'daki tüm kullanımları bu tek çekirdeği %100 doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "خَلَقَ (H-L-K) vs سَوَّىٰ (S-W-Y) vs عَدَلَ (A-D-L) vs رَكَّبَ (R-K-B) [82:7-8, 87:2, 75:38]",
+      "رَفَعَ سَمْكَهَا vs فَسَوَّىٰهَا [79:28] & قَدَّرَ vs سَوَآءً [41:10]",
+      "بَلَغَ أَشُدَّهُۥ (Ş-D-D) vs وَٱسْتَوَىٰ (S-W-Y) [28:14]",
+      "سَوِيًّا (S-W-Y) vs صِرَاطٍ مُّسْتَقِيمٍ (K-W-M) [67:22]"
+    ],
+    "mechanical_difference": "خَلَقَ hammaddeden ölçülü taslağı var etmeyi, سَوَّىٰ iç parçaları aksaklık-eksiklik bırakmadan pürüzsüz uyuma oturtmayı, عَدَلَ sağ-sol simetriyi ve dış dikey doğrultuyu kurmayı anlatır. 28:14'te أَشُدّ fiziksel kas-iskelet gücünün zirvesiyken ٱسْتَوَىٰ ardından gelen zihinsel-ahlaki olgunluk ve dengeye oturmadır. 67:22'de مُسْتَقِيم yolun sapmayan geometrik doğrultusu, سَوِيًّا ise yürüyenin veya zeminin tökezletmeyen içsel denge ve pürüzsüzlüğüdür."
+  },
+  "anchor_ayahs": [
+    "18:96 (سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ — iki dağ yamacı arasını demirle doldurup aynı seviyeye düzlemek)",
+    "4:42 & 91:14 (لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ / فَسَوَّىٰهَا — yüksekliği indirip toprakla aynı düz hizaya getirmek)",
+    "11:44 & 23:28 & 43:13 (وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ / عَلَى ٱلْفُلْكِ / عَلَىٰ ظُهُورِهِۦ — gemi ve binek üzerinde sarsıntısız tam dengeyle oturmak)",
+    "48:29 (فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ — ekinin güçlenip kendi sapı üzerinde eğilmeden dimdik doğrulması)",
+    "75:4 & 19:10 (أَن نُّسَوِّىَ بَنَانَهُۥ / ثَلَاثَ لَيَالٍ سَوِيًّا — parmak uçlarını oranlamak ve organ sakatlığı olmadan tam sağlık dengesinde kalmak)",
+    "20:58 & 37:55 (مَكَانًا سُوًى / فِى سَوَآءِ ٱلْجَحِيمِ — eşit uzaklıktaki açık orta meydan ve tam merkez noktası)"
+  ],
+  "grammar_and_branch_rules": "1) Form II (سَوَّىٰ + doğrudan nesne): Canlı/kozmik yapı ise aksaksız oranlama ve donatma (2:29, 82:7, 91:7); yer/şehir ise zeminle dümdüz etme (91:14, 4:42); + بِـ alırsa (26:98) iki tarafı denk tutma. 2) Form III (سَاوَىٰ بَيْنَ): İki kenar arasını aynı hizaya getirme (18:96). 3) Form VIII (ٱسْتَوَىٰ): Harf-i cersiz çoğul/ikil özneyle aynı terazide eşitlenme veya reddi (19 ayet), tekil özneyle olgunluk kıvamına oturma (28:14, 53:6); + عَلَى ile altındaki zemin, binek, sap veya kozmik yönetim merkezi (ٱلْعَرْش) üzerine sarsıntısız tam denge ve kontrolle kurulma (12 kez); + إِلَى ile hiç sapmadan düz bir hatla hedefe yönelip düzenleme (2:29, 41:11). 4) İsim/sıfat (سَوَآء / سُوًى / سَوِىّ): Mekânda tam orta ve açık meydan, rotada eğrisiz ana yol, hukukta eşit hak/bilgi düzlemi, seçeneklerde farksız sonuç ve biyolojide sakatlıksız/dengeli yapı.",
+  "derivatives": {
+    "سَوَّىٰ / يُسَوِّى / تُسَوَّىٰ (Form II - 14 geçiş)": "Parçaları eksiksiz orantı ve uyuma kavuşturmak (2:29, 15:29, 75:4, 82:7, 91:7); çıkıntıyı indirip zeminle dümdüz etmek (4:42, 91:14); bir şeyi başkasıyla denk tutmak (26:98).",
+    "سَاوَىٰ (Form III - 1 geçiş)": "İki yanın arasındaki boşluğu doldurup aynı seviyeye getirmek (18:96).",
+    "ٱسْتَوَىٰ / يَسْتَوِى (Form VIII - 35 geçiş)": "İki özne arasında denk/eşit olmak (19 kez nefy/soru ile eşitsizliği kanıtlar); olgunluk ve denge kıvamına ulaşmak (28:14, 53:6); عَلَى ile dengeli oturmak ve yönetim merkezine sarsılmaz hâkimiyetle kurulmak (12 kez); إِلَى ile sapmadan düz hatla hedefe yönelmek (2:29, 41:11).",
+    "سَوَآء (27 geçiş)": "Eşit düzey/denklik, iki seçeneğin sonuçça farksız olması (2:6, 52:16), adil/düz ana yol (سَوَآءُ ٱلسَّبِيلِ), taraflar arası şeffaf eşitlik zemini (3:64, 8:58, 22:25, 41:10) ve tam orta merkez (37:55, 44:47).",
+    "سَوِىّ (5 geçiş)": "Organ sakatlığı ve arızası bulunmayan sağlam/orantılı yapı (19:10, 19:17); eğrisiz ve dengeli yürüyüş/yol (19:43, 20:135, 67:22).",
+    "سُوًى / سِوًى (1 geçiş)": "Her iki tarafa eşit uzaklıkta bulunan açık, düz ve adil orta buluşma yeri (20:58)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 6,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:6",
+      "word_position": 4,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphe yok ki, gerçeğin üzerini örtenleri, başlarına gelecekle uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphe yok ki, gerçeğin üzerini örtenleri, başlarına gelecekle uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 29,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:29",
+      "word_position": 10,
+      "target_word_uthmani": "ٱسْتَوَىٰٓ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Dosdoğru yöneldi (`ٱسْتَوَىٰٓ إِلَى`, VIII. bab mâzî 3. tekil eril — göğe düz hatla yönelme)",
+      "context_snippet_arabic": "ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Yerde olanların hepsini; sizin için yaratan O'dur. Sonra, göğe doğru yönelerek yedi gök olarak onları düzenlemiştir. O her şeyi bilir.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَٰوَٰتٍ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerde olanların hepsini; sizin için yaratan O'dur. Sonra, göğe doğru yönelerek yedi gök olarak onları düzenlemiştir. O her şeyi bilir.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 2,
+      "ayah": 29,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:29",
+      "word_position": 13,
+      "target_word_uthmani": "فَسَوَّىٰهُنَّ",
+      "target_word_rasm": "فسوىهن",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَٰوَٰتٍ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "Yerde olanların hepsini; sizin için yaratan O'dur. Sonra, göğe doğru yönelerek yedi gök olarak onları düzenlemiştir. O her şeyi bilir.",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَٰوَٰتٍ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerde olanların hepsini; sizin için yaratan O'dur. Sonra, göğe doğru yönelerek yedi gök olarak onları düzenlemiştir. O her şeyi bilir.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 2,
+      "ayah": 108,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:108",
+      "word_position": 17,
+      "target_word_uthmani": "سَوَآءَ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "بِٱلْإِيمَٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, daha önce Musa'nın sorguya çekildiği gibi, siz de elçinizi sorguya mı çekmek istiyorsunuz? güven bağı gerçeğin üzerini örterek değiştiren, şüphesiz doğru...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ وَمَن يَتَبَدَّلِ ٱلْكُفْرَ بِٱلْإِيمَٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, daha önce Musa'nın sorguya çekildiği gibi, siz de elçinizi sorguya mı çekmek istiyorsunuz? güven bağı gerçeğin üzerini örterek değiştiren, şüphesiz doğru yoldan sapmış olur.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 64,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:64",
+      "word_position": 7,
+      "target_word_uthmani": "سَوَآءٍۭ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Ortak ve adil bir ilkeye (`كَلِمَةٍ سَوَآءٍ`, mecrûr mevsûfa tâbi sıfat isim)",
+      "context_snippet_arabic": "تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ey Kitap ehli! Ancak Allah'a kulluk etmek, O'na bir şeyi eş koşmamak, Allah'ı bırakıp birbirimizi rab olarak benimsememek üzere, bizimle sizin aranızda ...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:sawaA^'|ROOT:swy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ey Kitap ehli! Ancak Allah'a kulluk etmek, O'na bir şeyi eş koşmamak, Allah'ı bırakıp birbirimizi rab olarak benimsememek üzere, bizimle sizin aranızda müşterek bir söze gelin\". Eğer yüz çevirirlerse: \"Bizim müslüman olduğumuza şahid olun\" deyin.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 113,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:113",
+      "word_position": 2,
+      "target_word_uthmani": "سَوَآءً",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinin hepsi bir değildir: Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin hepsi bir değildir: Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 42,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:42",
+      "word_position": 8,
+      "target_word_uthmani": "تُسَوَّىٰ",
+      "target_word_rasm": "تسوى",
+      "target_word_literal_irab": "Yerle bir düzlense (`تُسَوَّىٰ`, II. bab meçhûl muzârî 3. tekil dişil — toprakla aynı hizaya inme)",
+      "context_snippet_arabic": "وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "O gün, gerçeğin üzerini örtüp elçiye baş kaldırmış olanlar, yerle bir olmayı ne kadar isterler ve Allah'tan bir söz gizleyemezler.",
+      "morphology": {
+        "lemma": "tusaw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:tusaw~aY`|ROOT:swy|3FS"
+      },
+      "ayah_text_arabic_full": "يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, gerçeğin üzerini örtüp elçiye baş kaldırmış olanlar, yerle bir olmayı ne kadar isterler ve Allah'tan bir söz gizleyemezler.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 89,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:89",
+      "word_position": 7,
+      "target_word_uthmani": "سَوَآءً",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً فَلَا تَتَّخِذُوا۟ مِنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar kendileri gerçeğin üzerini ört gibi, keşki siz de gerçeğin üzerini ört de eşit olsanız isterler. Allah yolunda hicret etmedikçe onlardan dost edinmeyin. ...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendileri gerçeğin üzerini ört gibi, keşki siz de gerçeğin üzerini ört de eşit olsanız isterler. Allah yolunda hicret etmedikçe onlardan dost edinmeyin. Eğer yüz çevirirlerse onları tutun, bulduğunuz yerde öldürün. Onlardan dost ve yardımcı edinmeyin.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 12,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:12",
+      "word_position": 44,
+      "target_word_uthmani": "سَوَآءَ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben şüphesiz sizinleyim, yöneliş ve sorumluluk bağı kılarsanız, arınma ve gelişme payı verirseniz, elçilerime güven duy ve onlara yardım ederseniz, Allah uğrunda güzel bir takdimede bulunursanız, and olsun ki kötülüklerinizi örterim. And olsun ki, sizi içlerinden ırmaklar akan esenlik bahçelerine koyarım. ...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Allah, İsrailoğullarından söz almıştı. Onlardan oniki reis seçtik. Allah: \"Ben şüphesiz sizinleyim, yöneliş ve sorumluluk bağı kılarsanız, arınma ve gelişme payı verirseniz, elçilerime güven duy ve onlara yardım ederseniz, Allah uğrunda güzel bir takdimede bulunursanız, and olsun ki kötülüklerinizi örterim. And olsun ki, sizi içlerinden ırmaklar akan esenlik bahçelerine koyarım. Bundan sonra sizden kim gerçeğin üzerini örterse şüphesiz doğru yoldan sapmış olur\" dedi.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 60,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:60",
+      "word_position": 26,
+      "target_word_uthmani": "سَوَآءِ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah katında bundan daha kötü bir karşılığın bulunduğunu size haber vereyim mi?\" de, Allah kime lanet ve gazab ederse, kimlerden maymunlar, domuzlar ve saptır...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَ أُو۟لَٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah katında bundan daha kötü bir karşılığın bulunduğunu size haber vereyim mi?\" de, Allah kime lanet ve gazab ederse, kimlerden maymunlar, domuzlar ve saptırıcı yıkıcı güce kullar kılarsa, işte onlar yeri en kötü ve doğru yoldan en çok sapmış olanlardır.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 77,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:77",
+      "word_position": 22,
+      "target_word_uthmani": "سَوَآءِ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "كَثِيرًا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Kitap ehli! Haksız olarak yaşam sisteminizde taşkınlık etmeyin. Daha önce sapıtan, çoğunu saptıran ve doğru yoldan ayrılan bir milletin heveslerine uymayın\"...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Kitap ehli! Haksız olarak yaşam sisteminizde taşkınlık etmeyin. Daha önce sapıtan, çoğunu saptıran ve doğru yoldan ayrılan bir milletin heveslerine uymayın\" de.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 100,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:100",
+      "word_position": 3,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Helal ile haram, haram şeylerin çokluğundan hoşlansan bile, eşit değildir\". Ey akıl sahibleri, Allah'tan sakının ki kurtuluşa eresiniz.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "قُل لَّا يَسْتَوِى ٱلْخَبِيثُ وَٱلطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ ٱلْخَبِيثِ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Helal ile haram, haram şeylerin çokluğundan hoşlansan bile, eşit değildir\". Ey akıl sahibleri, Allah'tan sakının ki kurtuluşa eresiniz.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 50,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:50",
+      "word_position": 24,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "إِلَىَّ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَفَلَا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Size Allah'ın hazineleri elimdedir, demiyorum; gaybı da bilmiyorum; size, ben kozmik görevliyim demiyorum, ben ancak bana vahyolunana uyuyorum.\" De ki: ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَفَلَا تَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Size Allah'ın hazineleri elimdedir, demiyorum; gaybı da bilmiyorum; size, ben kozmik görevliyim demiyorum, ben ancak bana vahyolunana uyuyorum.\" De ki: \"Görenle görmeyen bir midir? Düşünmüyor musunuz?\"",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 54,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:54",
+      "word_position": 12,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz, gökleri ve yeri altı günde yaratan ve sonra arşa hükmeden, gündüzü durmadan kovalayan gece ile bürüyen; güneşi, ayı, yıldızları, hepsini buyruğuna baş eğdirerek var eden Allah'tır. ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz, gökleri ve yeri altı günde yaratan ve sonra arşa hükmeden, gündüzü durmadan kovalayan gece ile bürüyen; güneşi, ayı, yıldızları, hepsini buyruğuna baş eğdirerek var eden Allah'tır. Bilin ki yaratma da emir de O'nun hakkıdır. Alemlerin Rabbiolan Allah Yüce'dir.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 7,
+      "ayah": 193,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:193",
+      "word_position": 7,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "Onları doğru yola çağırırsanız, size uymazlar; çağırmanız da, susmanız da onlar için birdir.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ أَمْ أَنتُمْ صَٰمِتُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları doğru yola çağırırsanız, size uymazlar; çağırmanız da, susmanız da onlar için birdir.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 58,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:58",
+      "word_position": 9,
+      "target_word_uthmani": "سَوَآءٍ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ إِنَّ ٱللَّهَ لَا",
+      "context_snippet_turkish_tabula_rasa": "Eğer bir topluluğun anlaşmaya hıyanet etmesinden korkarsan, sen de onlara karşı anlaşmayı bozarak aynı şekilde davran. Doğrusu Allah hainleri sevmez.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْخَآئِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer bir topluluğun anlaşmaya hıyanet etmesinden korkarsan, sen de onlara karşı anlaşmayı bozarak aynı şekilde davran. Doğrusu Allah hainleri sevmez.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 19,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:19",
+      "word_position": 17,
+      "target_word_uthmani": "يَسْتَوُۥنَ",
+      "target_word_rasm": "يستون",
+      "target_word_literal_irab": "Eşit / denk olurlar (`يَسْتَوُۥنَ`, VIII. bab merfû mudâri 3. çoğul eril — Osmânî hatta tek vavlı)",
+      "context_snippet_arabic": "سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanmasına gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret gününe güven duy, Allah yolunda cihat edenle bir mi tuttunuz? Allah katında bir olmazlar; Allah zulmeden milleti doğru yola eriştirmez.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MP"
+      },
+      "ayah_text_arabic_full": "أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَجَٰهَدَ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanmasına gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret gününe güven duy, Allah yolunda cihat edenle bir mi tuttunuz? Allah katında bir olmazlar; Allah zulmeden milleti doğru yola eriştirmez.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 3,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:3",
+      "word_position": 12,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُدَبِّرُ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu sizin Rabbiniz gökleri ve yeri altı günde yaratıp sonra arşa hükmeden, işi düzenleyen Allah'tır, izni olmadan kimse şefaat edemez. İşte Rabbiniz olan Allah budur. ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَٱعْبُدُوهُ أَفَلَا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu sizin Rabbiniz gökleri ve yeri altı günde yaratıp sonra arşa hükmeden, işi düzenleyen Allah'tır, izni olmadan kimse şefaat edemez. İşte Rabbiniz olan Allah budur. O'na kulluk edin. Nasihat dinlemez misiniz?",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 11,
+      "ayah": 24,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:24",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَوِيَانِ",
+      "target_word_rasm": "يستويان",
+      "target_word_literal_irab": "Bir / denk olurlar mı (`يَسْتَوِيَانِ`, VIII. bab merfû mudâri tesniye eril — sâbit nûn)",
+      "context_snippet_arabic": "وَٱلْبَصِيرِ وَٱلسَّمِيعِ هَلْ يَسْتَوِيَانِ مَثَلًا أَفَلَا تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu iki zümrenin durumu, kör ve sağır kimse ile gören ve işiten kimsenin durumuna benzer. Durumları hiç eşit olabilir mi? İbret almıyor musunuz?",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MD"
+      },
+      "ayah_text_arabic_full": "مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ هَلْ يَسْتَوِيَانِ مَثَلًا أَفَلَا تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu iki zümrenin durumu, kör ve sağır kimse ile gören ve işiten kimsenin durumuna benzer. Durumları hiç eşit olabilir mi? İbret almıyor musunuz?",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 44,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:44",
+      "word_position": 11,
+      "target_word_uthmani": "وَٱسْتَوَتْ",
+      "target_word_rasm": "وٱستوت",
+      "target_word_literal_irab": "Dengeli oturdu (`وَٱسْتَوَتْ`, VIII. bab mâzî 3. tekil dişil — Cûdî üzerine)",
+      "context_snippet_arabic": "ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ",
+      "context_snippet_turkish_tabula_rasa": "Yere, \"Suyunu çek!\", göğe, \"Ey gök sen de tut!\" denildi. Su çekildi, iş de bitti; gemi Cudi'ye oturdu. \"Haksızlık yapan millet Allah'ın rahmetinden uzak olsun\" ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3FS"
+      },
+      "ayah_text_arabic_full": "وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yere, \"Suyunu çek!\", göğe, \"Ey gök sen de tut!\" denildi. Su çekildi, iş de bitti; gemi Cudi'ye oturdu. \"Haksızlık yapan millet Allah'ın rahmetinden uzak olsun\" denildi.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 2,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:2",
+      "word_position": 9,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ وَسَخَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, gördüğünüz gibi, direksiz yükselten, sonra arşa hükmeden, her biri belli bir süreye kadar hareket edecek olan Güneş ve Ay'ı buyruğu altına alan, işleri...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, gördüğünüz gibi, direksiz yükselten, sonra arşa hükmeden, her biri belli bir süreye kadar hareket edecek olan Güneş ve Ay'ı buyruğu altına alan, işleri yürüten, ayetleri uzun uzun açıklayan Allah'tır; ola ki Rabbinize kavuşacağınıza kesin olarak güven duy.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 13,
+      "ayah": 10,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:10",
+      "word_position": 1,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "سَوَآءٌ مِّنكُم مَّنْ أَسَرَّ",
+      "context_snippet_turkish_tabula_rasa": "Görüleni de görülmeyeni de bilen, yücelerin yücesi büyük Allah'a göre, aranızdan sözü gizleyen ile, açığa vuran ve geceye bürünerek gizlenip gündüzün ortaya çıkan arasında fark yoktur.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "سَوَآءٌ مِّنكُم مَّنْ أَسَرَّ ٱلْقَوْلَ وَمَن جَهَرَ بِهِۦ وَمَنْ هُوَ مُسْتَخْفٍۭ بِٱلَّيْلِ وَسَارِبٌۢ بِٱلنَّهَارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Görüleni de görülmeyeni de bilen, yücelerin yücesi büyük Allah'a göre, aranızdan sözü gizleyen ile, açığa vuran ve geceye bürünerek gizlenip gündüzün ortaya çıkan arasında fark yoktur.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 16,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:16",
+      "word_position": 21,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "ضَرًّا قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "... Yoksa Allah'a, Allah gibi yaratması olan ortaklar buldular da, yaratmaları birbirine mi benzettiler? De ki: \"Her şeyi yaratan Allah'tır. ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًا وَلَا ضَرًّا قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Göklerin ve yerin Rabbi kimdir?\", \"Allah'tır\" de. \"Onu bırakıp, kendilerine bir fayda ve zararı olmayan dostlar mı edindiniz?\" de. \"Kör ile gören bir olur mu? Veya karanlıkla aydınlık bir midir?\" de. Yoksa Allah'a, Allah gibi yaratması olan ortaklar buldular da, yaratmaları birbirine mi benzettiler? De ki: \"Her şeyi yaratan Allah'tır. O, her şeye üstün gelen tek sığınak mercii (ilâh)'dır.\"",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 16,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:16",
+      "word_position": 26,
+      "target_word_uthmani": "تَسْتَوِى",
+      "target_word_rasm": "تستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`تَسْتَوِى`, VIII. bab merfû mudâri 3. tekil dişil)",
+      "context_snippet_arabic": "وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "... Yoksa Allah'a, Allah gibi yaratması olan ortaklar buldular da, yaratmaları birbirine mi benzettiler? De ki: \"Her şeyi yaratan Allah'tır. ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3FS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًا وَلَا ضَرًّا قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَٰتُ وَٱلنُّورُ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَىْءٍ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Göklerin ve yerin Rabbi kimdir?\", \"Allah'tır\" de. \"Onu bırakıp, kendilerine bir fayda ve zararı olmayan dostlar mı edindiniz?\" de. \"Kör ile gören bir olur mu? Veya karanlıkla aydınlık bir midir?\" de. Yoksa Allah'a, Allah gibi yaratması olan ortaklar buldular da, yaratmaları birbirine mi benzettiler? De ki: \"Her şeyi yaratan Allah'tır. O, her şeye üstün gelen tek sığınak mercii (ilâh)'dır.\"",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 21,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:21",
+      "word_position": 26,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "İnsanların hepsi Allah'ın huzuruna çıkarlar; güçsüzler, büyüklük taslayanlara: \"Doğrusu biz size uymuştuk, Allah'ın azabından bizi koruyabilecek misiniz?\" derle...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların hepsi Allah'ın huzuruna çıkarlar; güçsüzler, büyüklük taslayanlara: \"Doğrusu biz size uymuştuk, Allah'ın azabından bizi koruyabilecek misiniz?\" derler. Cevap olarak: \"Allah bizi doğru yola eriştirseydi biz de sizi eriştirirdik. Artık sızlansak da sebat edip dirensek de birdir, çünkü kaçacak yerimiz yoktur\" derler.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 29,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:29",
+      "word_position": 2,
+      "target_word_uthmani": "سَوَّيْتُهُۥ",
+      "target_word_rasm": "سويته",
+      "target_word_literal_irab": "Onu tam kıvamına getirip orantıladığımda (`سَوَّيْتُهُۥ`, II. bab mâzî 1. tekil — insani yapının donatımı)",
+      "context_snippet_arabic": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن",
+      "context_snippet_turkish_tabula_rasa": "'Rabbin kozmik görevlilere: \"Ben, balçıktan, işlenebilen kara topraktan bir insan yaratacağım. Onu yapıp hayat verici özümden üflediğimde ona boyun eğip teslim ...",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|1S"
+      },
+      "ayah_text_arabic_full": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "'Rabbin kozmik görevlilere: \"Ben, balçıktan, işlenebilen kara topraktan bir insan yaratacağım. Onu yapıp hayat verici özümden üflediğimde ona boyun eğip teslim olun\" demişti.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 71,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:71",
+      "word_position": 19,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. Oysa rızıkta hepsi eşittir. Allah'ın nimetini bile bile gerçeğin üzerini örtme mı ediyorlar?",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. Oysa rızıkta hepsi eşittir. Allah'ın nimetini bile bile gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 75,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:75",
+      "word_position": 21,
+      "target_word_uthmani": "يَسْتَوُۥنَ",
+      "target_word_rasm": "يستون",
+      "target_word_literal_irab": "Eşit / denk olurlar (`يَسْتَوُۥنَ`, VIII. bab merfû mudâri 3. çoğul eril — Osmânî hatta tek vavlı)",
+      "context_snippet_arabic": "سِرًّا وَجَهْرًا هَلْ يَسْتَوُۥنَ ٱلْحَمْدُ لِلَّهِ بَلْ",
+      "context_snippet_turkish_tabula_rasa": "... Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MP"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا هَلْ يَسْتَوُۥنَ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 76,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:76",
+      "word_position": 21,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ",
+      "context_snippet_turkish_tabula_rasa": "Allah iki adamı misal veriyor: Biri hiçbir şeye gücü yetmeyen bir dilsiz ki efendisine yüktür, nereye gönderse bir hayır çıkmaz; bu, doğru yolda olan, adaletle ...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah iki adamı misal veriyor: Biri hiçbir şeye gücü yetmeyen bir dilsiz ki efendisine yüktür, nereye gönderse bir hayır çıkmaz; bu, doğru yolda olan, adaletle emreden kimse ile bir olabilir mi?",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 37,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:37",
+      "word_position": 15,
+      "target_word_uthmani": "سَوَّىٰكَ",
+      "target_word_rasm": "سوىك",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "مِن نُّطْفَةٍ ثُمَّ سَوَّىٰكَ رَجُلًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: ...",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ سَوَّىٰكَ رَجُلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın\" dedi.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 96,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:96",
+      "word_position": 6,
+      "target_word_uthmani": "سَاوَىٰ",
+      "target_word_rasm": "ساوى",
+      "target_word_literal_irab": "İki tarafı aynı seviyeye getirdiğinde (`سَاوَىٰ بَيْنَ`, III. bab mâzî 3. tekil eril — iki dağ arasını demirle eşitleme)",
+      "context_snippet_arabic": "ٱلْحَدِيدِ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimin bana verdikleri sizinkinden daha iyidir. Bana gücünüzle yardım edin de sizinle onların arasına sağlam bir sed yapayım. Bana demir kütleleri getirin\" d...",
+      "morphology": {
+        "lemma": "saAwaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:saAwaY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ءَاتُونِى زُبَرَ ٱلْحَدِيدِ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimin bana verdikleri sizinkinden daha iyidir. Bana gücünüzle yardım edin de sizinle onların arasına sağlam bir sed yapayım. Bana demir kütleleri getirin\" dedi. Bunlar iki dağın arasını doldurunca: \"Körükleyin\" dedi. Demirler akkor haline gelince; \"Bana erimiş bakır getirin de üzerine dökeyim\" dedi.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 10,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:10",
+      "word_position": 13,
+      "target_word_uthmani": "سَوِيًّا",
+      "target_word_rasm": "سويا",
+      "target_word_literal_irab": "Sağlığı ve organları yerinde olarak (`سَوِيًّا`, mansûb hâl ismi — konuşma engeli ve sakatlığı olmaksızın)",
+      "context_snippet_arabic": "ٱلنَّاسَ ثَلَٰثَ لَيَالٍ سَوِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Zekeriya \"Rabbim! Öyleyse bana bir alamet ver\" dedi. Allah: \"Senin alametin, sağlam ve sıhhatli olduğun halde üç gün üç gece insanlarla konuşamamandır\" buyurdu.",
+      "morphology": {
+        "lemma": "sawiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawiy~|ROOT:swy|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍ سَوِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Zekeriya \"Rabbim! Öyleyse bana bir alamet ver\" dedi. Allah: \"Senin alametin, sağlam ve sıhhatli olduğun halde üç gün üç gece insanlarla konuşamamandır\" buyurdu.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 17,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:17",
+      "word_position": 11,
+      "target_word_uthmani": "سَوِيًّا",
+      "target_word_rasm": "سويا",
+      "target_word_literal_irab": "Kusursuz orantılı bir insan (`بَشَرًا سَوِيًّا`, mansûb mevsûfa tâbi sıfat)",
+      "context_snippet_arabic": "فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Sonra, insanlardan gizlenmek için bir perde germişti. Cebrail'i göndermiştik de ona tam bir insan olarak görünmüştü.",
+      "morphology": {
+        "lemma": "sawiy~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:sawiy~|ROOT:swy|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, insanlardan gizlenmek için bir perde germişti. Cebrail'i göndermiştik de ona tam bir insan olarak görünmüştü.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 43,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:43",
+      "word_position": 13,
+      "target_word_uthmani": "سَوِيًّا",
+      "target_word_rasm": "سويا",
+      "target_word_literal_irab": "Dengeli ve pürüzsüz doğru yol (`صِرَٰطًا سَوِيًّا`, mansûb/mecrûr sıfat — tökezletmeyen orta güzergâh)",
+      "context_snippet_arabic": "فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًا سَوِيًّا",
+      "context_snippet_turkish_tabula_rasa": "\"Babacığım! Doğrusu sana gelmeyen bir ilim bana geldi. Bana uy, seni doğru yola eriştireyim.\"",
+      "morphology": {
+        "lemma": "sawiy~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:sawiy~|ROOT:swy|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَبَتِ إِنِّى قَدْ جَآءَنِى مِنَ ٱلْعِلْمِ مَا لَمْ يَأْتِكَ فَٱتَّبِعْنِىٓ أَهْدِكَ صِرَٰطًا سَوِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babacığım! Doğrusu sana gelmeyen bir ilim bana geldi. Bana uy, seni doğru yola eriştireyim.\"",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 5,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:5",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Rahman arşa hükmetmektedir.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلرَّحْمَٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Rahman arşa hükmetmektedir.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 20,
+      "ayah": 58,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:58",
+      "word_position": 14,
+      "target_word_uthmani": "سُوًى",
+      "target_word_rasm": "سوى",
+      "target_word_literal_irab": "İki tarafa da eşit mesafede açık bir orta meydan (`مَكَانًا سُوًى`, maksûr elifle mansûb sıfat)",
+      "context_snippet_arabic": "وَلَآ أَنتَ مَكَانًا سُوًى",
+      "context_snippet_turkish_tabula_rasa": "... Bizimle senin aranda bir vakit tayinet ki sen de biz de düz bir yerde bulunalım da caymayalım\" dedi.",
+      "morphology": {
+        "lemma": "suwFY",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:suwFY|ROOT:swy|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Firavun'a bütün delillerimizi gösterdik de yalan sayıp kabulden çekindi ve: \"Ey Musa! Sihirbazlığınla bizi yurdumuzdan çıkarmaya mı geldin? Şimdi biz de seninkinin benzeri bir sihri sana göstereceğiz. Bizimle senin aranda bir vakit tayinet ki sen de biz de düz bir yerde bulunalım da caymayalım\" dedi.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 135,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:135",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلسَّوِىِّ",
+      "target_word_rasm": "ٱلسوى",
+      "target_word_literal_irab": "Dengeli ve pürüzsüz doğru yol (`صِرَٰطًا سَوِيًّا`, mansûb/mecrûr sıfat — tökezletmeyen orta güzergâh)",
+      "context_snippet_arabic": "مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Herkes gözlemektedir, siz de gözleyin. Şüphesiz düz yolun sahiplerinin kimler olduğunu ve kimlerin doğru yolda bulunduğunu bileceksiniz.\"",
+      "morphology": {
+        "lemma": "sawiy~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:sawiy~|ROOT:swy|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوا۟ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Herkes gözlemektedir, siz de gözleyin. Şüphesiz düz yolun sahiplerinin kimler olduğunu ve kimlerin doğru yolda bulunduğunu bileceksiniz.\"",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 109,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:109",
+      "word_position": 6,
+      "target_word_uthmani": "سَوَآءٍ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍ وَإِنْ أَدْرِىٓ أَقَرِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "Eğer yüz çevirirlerse, de ki: \"Size düpedüz açıkladım; tehdit olunduğunuz şeyin yakın mı uzak mı olduğunu bilmem.\"",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌ مَّا تُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yüz çevirirlerse, de ki: \"Size düpedüz açıkladım; tehdit olunduğunuz şeyin yakın mı uzak mı olduğunu bilmem.\"",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 25,
+      "surah_name": "Hac",
+      "ayah_ref": "22:25",
+      "word_position": 13,
+      "target_word_uthmani": "سَوَآءً",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu gerçeğin üzerini örtenleri, Allah'ın yolundan, yerli ve yolcu bütün insanlar için eşit kılınan dokunulmaz teslimiyet odağı'dan alıkoyanları ve orada zulm ile yanlış yola saptırmak isteyeni, can yakıcı bir azaba uğratırız.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu gerçeğin üzerini örtenleri, Allah'ın yolundan, yerli ve yolcu bütün insanlar için eşit kılınan dokunulmaz teslimiyet odağı'dan alıkoyanları ve orada zulm ile yanlış yola saptırmak isteyeni, can yakıcı bir azaba uğratırız.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 28,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:28",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتَوَيْتَ",
+      "target_word_rasm": "ٱستويت",
+      "target_word_literal_irab": "Dengeli kurulup yerleştiğinde (`ٱسْتَوَيْتَ`, VIII. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Nuh! Sen ve beraberindekiler gemiye yerleşince: \"Bizi zalim milletten kurtaran Allah'a hamdolsun\" de.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|2MS"
+      },
+      "ayah_text_arabic_full": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Nuh! Sen ve beraberindekiler gemiye yerleşince: \"Bizi zalim milletten kurtaran Allah'a hamdolsun\" de.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 59,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:59",
+      "word_position": 11,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ٱلرَّحْمَٰنُ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, yeri ve ikisinin arasındakileri altı günde yaratan sonra da arşa hükmeden Rahman'dır. Bunu bir bilene sor.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, yeri ve ikisinin arasındakileri altı günde yaratan sonra da arşa hükmeden Rahman'dır. Bunu bir bilene sor.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 26,
+      "ayah": 98,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:98",
+      "word_position": 2,
+      "target_word_uthmani": "نُسَوِّيكُم",
+      "target_word_rasm": "نسويكم",
+      "target_word_literal_irab": "Sizi denk tutuyorduk (`نُسَوِّيكُم بِـ`, II. bab muzârî 1. çoğul — ortak koşulanları denk sayma)",
+      "context_snippet_arabic": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; ...",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:saw~aY`|ROOT:swy|1P"
+      },
+      "ayah_text_arabic_full": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da güvene erenlerden olsak\" derler.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 136,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:136",
+      "word_position": 2,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "\"İster öğüt ver, ister öğüt verenlerden olma, bizce birdir.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ ٱلْوَٰعِظِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"İster öğüt ver, ister öğüt verenlerden olma, bizce birdir.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 14,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:14",
+      "word_position": 4,
+      "target_word_uthmani": "وَٱسْتَوَىٰٓ",
+      "target_word_rasm": "وٱستوى",
+      "target_word_literal_irab": "Olgunluk ve denge kıvamına erdi (`وَٱسْتَوَىٰ`, VIII. bab mâzî 3. tekil eril — zihinsel/ahlaki denge)",
+      "context_snippet_arabic": "وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا",
+      "context_snippet_turkish_tabula_rasa": "Musa erginlik çağına gelip olgunlaşınca, ona hikmet ve ilim verdik. İyi davrananları böyle mükafatlandırırız.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa erginlik çağına gelip olgunlaşınca, ona hikmet ve ilim verdik. İyi davrananları böyle mükafatlandırırız.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 22,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:22",
+      "word_position": 10,
+      "target_word_uthmani": "سَوَآءَ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Medyen'e doğru yöneldiğinde: \"Rabbimin bana doğru yolu göstereceğini umarım\" dedi.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen'e doğru yöneldiğinde: \"Rabbimin bana doğru yolu göstereceğini umarım\" dedi.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 28,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:28",
+      "word_position": 19,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 4,
+      "surah_name": "Secde",
+      "ayah_ref": "32:4",
+      "word_position": 12,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, yeri ve ikisinin arasında bulunanları altı günde yaratan, sonra arşa hükmeden Allah'tır. O'ndan başka bir dostunuz ve şefaatçiniz yoktur. Düşünmüyor mu...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ أَفَلَا تَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, yeri ve ikisinin arasında bulunanları altı günde yaratan, sonra arşa hükmeden Allah'tır. O'ndan başka bir dostunuz ve şefaatçiniz yoktur. Düşünmüyor musunuz?",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 32,
+      "ayah": 9,
+      "surah_name": "Secde",
+      "ayah_ref": "32:9",
+      "word_position": 2,
+      "target_word_uthmani": "سَوَّىٰهُ",
+      "target_word_rasm": "سوىه",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن",
+      "context_snippet_turkish_tabula_rasa": "Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan, sonra onun soyunu, bayağı bir suyun özünden yapan, sonra onu şekillendirip hayat verici ö...",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan, sonra onun soyunu, bayağı bir suyun özünden yapan, sonra onu şekillendirip hayat verici özünden ona üfleyen Allah'tır. Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 18,
+      "surah_name": "Secde",
+      "ayah_ref": "32:18",
+      "word_position": 8,
+      "target_word_uthmani": "يَسْتَوُۥنَ",
+      "target_word_rasm": "يستون",
+      "target_word_literal_irab": "Eşit / denk olurlar (`يَسْتَوُۥنَ`, VIII. bab merfû mudâri 3. çoğul eril — Osmânî hatta tek vavlı)",
+      "context_snippet_arabic": "كَانَ فَاسِقًا لَّا يَسْتَوُۥنَ",
+      "context_snippet_turkish_tabula_rasa": "güvene eren kimse yoldan çıkmış kimseye benzer mi? Bunlar bir olamazlar.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا لَّا يَسْتَوُۥنَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kimse yoldan çıkmış kimseye benzer mi? Bunlar bir olamazlar.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 12,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:12",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ",
+      "context_snippet_turkish_tabula_rasa": "İki deniz bir değildir. Birinin suyu tatlı ve kolay içimlidir; diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; A...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki deniz bir değildir. Birinin suyu tatlı ve kolay içimlidir; diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 19,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:19",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Kör ile gören, karanlıklar ile ışık ve gölgelikle sıcaklık bir değildir.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör ile gören, karanlıklar ile ışık ve gölgelikle sıcaklık bir değildir.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 22,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:22",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ",
+      "context_snippet_turkish_tabula_rasa": "Dirilerle ölüler de bir değildir. Doğrusu Allah, dilediği kimseye işittirir. Sen, kabirlerde olanlara işittiremezsin.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Dirilerle ölüler de bir değildir. Doğrusu Allah, dilediği kimseye işittirir. Sen, kabirlerde olanlara işittiremezsin.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 10,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:10",
+      "word_position": 1,
+      "target_word_uthmani": "وَسَوَآءٌ",
+      "target_word_rasm": "وسواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "Onları uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları uyarsan da uyarmasan da birdir, güven duyup teslim olmazlar.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 55,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:55",
+      "word_position": 4,
+      "target_word_uthmani": "سَوَآءِ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Bir bakar onu yakıcı yıkım yurdunun ortasında görür.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir bakar onu yakıcı yıkım yurdunun ortasında görür.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 22,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:22",
+      "word_position": 22,
+      "target_word_uthmani": "سَوَآءِ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "context_snippet_turkish_tabula_rasa": "Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: \"Korkma, birbirinin hakkına ...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: \"Korkma, birbirinin hakkına tecavüz etmiş iki davacıyız; aramızda adaletle hükmet, ondan ayrılma, bizi doğru yola çıkar.\"",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 72,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:72",
+      "word_position": 2,
+      "target_word_uthmani": "سَوَّيْتُهُۥ",
+      "target_word_rasm": "سويته",
+      "target_word_literal_irab": "Onu tam kıvamına getirip orantıladığımda (`سَوَّيْتُهُۥ`, II. bab mâzî 1. tekil — insani yapının donatımı)",
+      "context_snippet_arabic": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن",
+      "context_snippet_turkish_tabula_rasa": "Rabbin kozmik görevlilere şöyle demişti: \"Ben çamurdan bir insan yaratacağım. Onu yapıp hayat verici özümden ona üflediğim zaman ona boyun eğip teslim olun.\"",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|1S"
+      },
+      "ayah_text_arabic_full": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin kozmik görevlilere şöyle demişti: \"Ben çamurdan bir insan yaratacağım. Onu yapıp hayat verici özümden ona üflediğim zaman ona boyun eğip teslim olun.\"",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 9,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:9",
+      "word_position": 15,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "رَبِّهِۦ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin boyun eğme ve teslimiyet ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse gerçeğin üzerini örten kimse gibi o...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin boyun eğme ve teslimiyet ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse gerçeğin üzerini örten kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar.\"",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 29,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:29",
+      "word_position": 12,
+      "target_word_uthmani": "يَسْتَوِيَانِ",
+      "target_word_rasm": "يستويان",
+      "target_word_literal_irab": "Bir / denk olurlar mı (`يَسْتَوِيَانِ`, VIII. bab merfû mudâri tesniye eril — sâbit nûn)",
+      "context_snippet_arabic": "سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ٱلْحَمْدُ لِلَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah, geçimsiz efendileri olan bir adamla, yalnız bir kişiye bağlı olan bir adamı misal olarak verir. Bu ikisi eşit midir? Övülmek Allah içindir, fakat çoğu bilmezler.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MD"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, geçimsiz efendileri olan bir adamla, yalnız bir kişiye bağlı olan bir adamı misal olarak verir. Bu ikisi eşit midir? Övülmek Allah içindir, fakat çoğu bilmezler.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 58,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:58",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Körle gören, güvene erip yararlı iş işleyenlerle kötülük yapan bir değildir. Ne kadar az düşünüyorsunuz?",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَلَا ٱلْمُسِىٓءُ قَلِيلًا مَّا تَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Körle gören, güvene erip yararlı iş işleyenlerle kötülük yapan bir değildir. Ne kadar az düşünüyorsunuz?",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 10,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:10",
+      "word_position": 14,
+      "target_word_uthmani": "سَوَآءً",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzüne üstünden ağır baskılar (dağlar) yerleştirdi, onu bereketli kıldı; arayıp soranlar için gıdalarını tam (toplam) dört gün içinde yetiştirmesi kanununu k...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzüne üstünden ağır baskılar (dağlar) yerleştirdi, onu bereketli kıldı; arayıp soranlar için gıdalarını tam (toplam) dört gün içinde yetiştirmesi kanununu koydu (takdir etti).",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 11,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:11",
+      "word_position": 2,
+      "target_word_uthmani": "ٱسْتَوَىٰٓ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Dosdoğru yöneldi (`ٱسْتَوَىٰٓ إِلَى`, VIII. bab mâzî 3. tekil eril — göğe düz hatla yönelme)",
+      "context_snippet_arabic": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra, duman halinde bulunan göğe yöneldi, ona ve yeryüzüne: \"İsteyerek veya istemeyerek buyruğuma gelin\" dedi. İkisi de: \"İsteyerek geldik\" dediler.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, duman halinde bulunan göğe yöneldi, ona ve yeryüzüne: \"İsteyerek veya istemeyerek buyruğuma gelin\" dedi. İkisi de: \"İsteyerek geldik\" dediler.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 41,
+      "ayah": 34,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:34",
+      "word_position": 2,
+      "target_word_uthmani": "تَسْتَوِى",
+      "target_word_rasm": "تستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`تَسْتَوِى`, VIII. bab merfû mudâri 3. tekil dişil)",
+      "context_snippet_arabic": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ",
+      "context_snippet_turkish_tabula_rasa": "İyilik ve fenalık bir değildir. Ey güvene eren kişi: Sen, fenalığı en güzel şekilde sav; o zaman, seninle arasında düşmanlık bulunan kişinin yakın bir dost gibi...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3FS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İyilik ve fenalık bir değildir. Ey güvene eren kişi: Sen, fenalığı en güzel şekilde sav; o zaman, seninle arasında düşmanlık bulunan kişinin yakın bir dost gibi olduğunu görürsün.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 13,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:13",
+      "word_position": 1,
+      "target_word_uthmani": "لِتَسْتَوُۥا۟",
+      "target_word_rasm": "لتستوا",
+      "target_word_literal_irab": "Dengeli kurulmanız için (`لِتَسْتَوُوا۟`, VIII. bab mansûb mudâri 2. çoğul eril — `لِ` ile hazf-i nûn)",
+      "context_snippet_arabic": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak: \"Bunları buyruğumuza veren ne yücedir; zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz\" demeniz içindir.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 13,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:13",
+      "word_position": 9,
+      "target_word_uthmani": "ٱسْتَوَيْتُمْ",
+      "target_word_rasm": "ٱستويتم",
+      "target_word_literal_irab": "Dengeli kurulduğunuzda (`ٱسْتَوَيْتُمْ`, VIII. bab mâzî 2. çoğul eril)",
+      "context_snippet_arabic": "نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ",
+      "context_snippet_turkish_tabula_rasa": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|2MP"
+      },
+      "ayah_text_arabic_full": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak: \"Bunları buyruğumuza veren ne yücedir; zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz\" demeniz içindir.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 47,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:47",
+      "word_position": 4,
+      "target_word_uthmani": "سَوَآءِ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "\"Suçluyu yakalayın, yakıcı yıkım yurdunun ortasına sürükleyin, sonra başına azap olarak kaynar su dökün\" denir, sonra ona: \"Tad bakalım, hani şerefli olan, değerli olan yalnız sendin. ...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|GEN"
+      },
+      "ayah_text_arabic_full": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Suçluyu yakalayın, yakıcı yıkım yurdunun ortasına sürükleyin, sonra başına azap olarak kaynar su dökün\" denir, sonra ona: \"Tad bakalım, hani şerefli olan, değerli olan yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir\" denir.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 45,
+      "ayah": 21,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:21",
+      "word_position": 12,
+      "target_word_uthmani": "سَوَآءً",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Eşit düzeyde / ortak olarak (`سَوَآءً / عَلَىٰ سَوَآءٍ`, mansûb hâl veya mecrûr zarf)",
+      "context_snippet_arabic": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, kötülük işleyen kimseler, ölümlerinde ve diriliklerinde kendilerini, güvene erip yararlı iş işleyen kimseler ile bir mi tutacağımızı sandılar? Ne kötü hü...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, kötülük işleyen kimseler, ölümlerinde ve diriliklerinde kendilerini, güvene erip yararlı iş işleyen kimseler ile bir mi tutacağımızı sandılar? Ne kötü hüküm veriyorlar!",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 37,
+      "target_word_uthmani": "فَٱسْتَوَىٰ",
+      "target_word_rasm": "فٱستوى",
+      "target_word_literal_irab": "Sapı üzerinde dimdik dengelendi (`فَٱسْتَوَىٰ`, VIII. bab mâzî 3. tekil eril — botanik dikleşme)",
+      "context_snippet_arabic": "شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ",
+      "context_snippet_turkish_tabula_rasa": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, b...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 52,
+      "ayah": 16,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:16",
+      "word_position": 6,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ إِنَّمَا تُجْزَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını ...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 53,
+      "ayah": 6,
+      "surah_name": "Necm",
+      "ayah_ref": "53:6",
+      "word_position": 3,
+      "target_word_uthmani": "فَٱسْتَوَىٰ",
+      "target_word_rasm": "فٱستوى",
+      "target_word_literal_irab": "Kendi zatında dengeli doğrulup belirdi (`فَٱسْتَوَىٰ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 4,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:4",
+      "word_position": 10,
+      "target_word_uthmani": "ٱسْتَوَىٰ",
+      "target_word_rasm": "ٱستوى",
+      "target_word_literal_irab": "Egemenlik makamına sarsılmaz dengeyle kuruldu (`ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ`, VIII. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri altı günde yaratan, sonra arşa hükmeden, yere gireni ve ondan çıkanı, gökten ineni ve oraya yükseleni bilen O'dur. Nerede olursanız olun, O, siz...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri altı günde yaratan, sonra arşa hükmeden, yere gireni ve ondan çıkanı, gökten ineni ve oraya yükseleni bilen O'dur. Nerede olursanız olun, O, sizinle beraberdir. Allah yaptıklarınızı görür.",
+      "contextual_meaning": "Göklerin düzenlenmesi ve evrensel egemenlik makamına kurulma (`2:29`, `7:54`, `10:3`, `13:2`, `20:5`, `25:59`, `32:4`, `41:11`, `57:4`): Henüz duman halindeki göğe sapmadan düz hatla yönelme (`2:29`, `41:11`), yedi göğü pürüzsüz uyumla düzenleme ve evrensel yönetim makamına (`ٱلْعَرْش`) sarsıntısız, tam bir denge, kontrol ve istikrarla kurulma."
+    },
+    {
+      "surah": 57,
+      "ayah": 10,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:10",
+      "word_position": 13,
+      "target_word_uthmani": "يَسْتَوِى",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin mirasçısı Allah olduğu halde, Allah yolunda siz niçin sarf etmiyorsunuz? İçinizden Mekke'nin fethinden önce dolaşıma sokup paylaştıran ve sava...",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin mirasçısı Allah olduğu halde, Allah yolunda siz niçin sarf etmiyorsunuz? İçinizden Mekke'nin fethinden önce dolaşıma sokup paylaştıran ve savaşan kimseler, daha sonra dolaşıma sokup paylaşarak savaşan kimselerle bir değildirler, öncekiler daha üstün derecededirler. Allah, hepsine esenlik bahçesini vadetmiştir. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 20,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:20",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَوِىٓ",
+      "target_word_rasm": "يستوى",
+      "target_word_literal_irab": "Bir / denk olur mu (`يَسْتَوِى`, VIII. bab merfû mudâri 3. tekil eril — takdirî zamme)",
+      "context_snippet_arabic": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "morphology": {
+        "lemma": "{sotawaY`^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{sotawaY`^|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "contextual_meaning": "Nitelik, emek ve bilinç eşitsizliğinin ilânı (`4:95`, `5:100`, `6:50`, `9:19`, `11:24`, `13:16`, `16:75-76`, `32:18`, `35:12,19,22`, `39:9,29`, `40:58`, `41:34`, `57:10`, `59:20`): Kör ile görenin, aydınlık ile karanlığın, temiz ile pisin, bilen ile bilmeyenin, emek veren ile oturanın asla aynı basamakta ve terazi kefesinde denk olmayacağı (`لَا يَسْتَوِى / هَلْ يَسْتَوِى`)."
+    },
+    {
+      "surah": 60,
+      "ayah": 1,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:1",
+      "word_position": 47,
+      "target_word_uthmani": "سَوَآءَ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Düz orta yoluna / tam ortasına (`سَوَآءَ ٱلسَّبِيلِ / فِى سَوَآءِ`, izâfetle mansûb mef'ûl veya harf-i cerle mecrûr isim)",
+      "context_snippet_arabic": "مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Benim de düşmanım, sizin de düşmanınız olanları dost edinmeyin. Onlar, size gelen gerçeği gerçeğin üzerini örtmüş, onlara sevgi gösteriyorsun...",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Benim de düşmanım, sizin de düşmanınız olanları dost edinmeyin. Onlar, size gelen gerçeği gerçeğin üzerini örtmüş, onlara sevgi gösteriyorsunuz; oysa onlar, Rabbiniz olan Allah'a güven duy ötürü sizi ve elçiyi yurdunuzdan çıkarıyorlar. Eğer sizler Benim yolumda savaşmak ve rızamı kazanmak için çıkmışsanız onlara nasıl sevgi gösterirsiniz? Ben, sizin gizlediğinizi de, açığa vurduğunuzu da bilirim. İçinizden onlara sevgi gösteren kimse, şüphesiz doğru yoldan sapmıştır.",
+      "contextual_meaning": "Ortak adil hiza, şeffaf eşitlik zemini ve dosdoğru orta yol (`2:108`, `3:64,113`, `4:89`, `5:12,60,77`, `8:58`, `20:58`, `21:109`, `22:25`, `28:22`, `37:55`, `38:22`, `41:10`, `44:47`, `45:21`, `60:1`): Ortak ve adil ilkeye çağrı (`3:64`), antlaşma feshinde tarafları eşit bilgi zeminine koyma (`8:58`), arayan her canlıya yeryüzü imkanlarının eşit sunulması (`41:10`), Mûsâ ile sihirbazların eşit mesafedeki açık meydanda buluşması (`20:58`), ateşin tam orta merkezi (`37:55`, `44:47`) ve ana rotadan sapma (`سَوَآءَ ٱلسَّبِيلِ`)."
+    },
+    {
+      "surah": 63,
+      "ayah": 6,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:6",
+      "word_position": 1,
+      "target_word_uthmani": "سَوَآءٌ",
+      "target_word_rasm": "سواء",
+      "target_word_literal_irab": "Birdir / eşittir (`سَوَآءٌ`, tenvinli merfû masdar isim — mukaddem veya muahhar haber)",
+      "context_snippet_arabic": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar için, bağışlanma dilesen de dilemesen de birdir; Allah onları bağışlamayacaktır. Doğrusu Allah, yoldan çıkmış milleti doğru yola eriştirmez.",
+      "morphology": {
+        "lemma": "sawaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawaA^'|ROOT:swy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar için, bağışlanma dilesen de dilemesen de birdir; Allah onları bağışlamayacaktır. Doğrusu Allah, yoldan çıkmış milleti doğru yola eriştirmez.",
+      "contextual_meaning": "İki karşıt seçeneğin farksızlığı ve sahte denklik kurma yanılgısı (`2:6`, `7:193`, `13:10`, `14:21`, `16:71`, `26:98,136`, `30:28`, `36:10`, `52:16`, `63:6`): Gerçeğin üzerini kasten örten şartlanmış bilinçte uyarı ile uyarısızlığın aynı kapıya çıkması (`2:6`, `36:10`, `63:6`), direnç gösterme ile feryat etmenin azap karşısında eşit sonuç vermesi (`14:21`, `52:16`), rızıkta kulların kendi ortaklarıyla eşitlenmeyi kabullenmeyişi (`16:71`, `30:28`) ve sahte mercileri evrenin Rabbine denk tutma itirafı (`26:98`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 22,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:22",
+      "word_position": 9,
+      "target_word_uthmani": "سَوِيًّا",
+      "target_word_rasm": "سويا",
+      "target_word_literal_irab": "Dik ve dengeli yürüyen (`يَمْشِى سَوِيًّا`, fiilin durumunu bildiren mansûb hâl)",
+      "context_snippet_arabic": "أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Yüzükoyun sürünen mi, yoksa doğru yolda düpedüz yürüyen mi daha doğru yoldadır?",
+      "morphology": {
+        "lemma": "sawiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:sawiy~|ROOT:swy|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzükoyun sürünen mi, yoksa doğru yolda düpedüz yürüyen mi daha doğru yoldadır?",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 4,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:4",
+      "word_position": 5,
+      "target_word_uthmani": "نُّسَوِّىَ",
+      "target_word_rasm": "نسوى",
+      "target_word_literal_irab": "Yeniden orantılamaya (`أَن نُّسَوِّىَ`, `أَنْ` ile mansûb II. bab muzârî 1. çoğul — parmak uçlarının düzenlenmesi)",
+      "context_snippet_arabic": "قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Evet, Biz onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz.",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:saw~aY`|ROOT:swy|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Evet, Biz onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 38,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:38",
+      "word_position": 5,
+      "target_word_uthmani": "فَسَوَّىٰ",
+      "target_word_rasm": "فسوى",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sonra kan pıhtısı olmuş, sonra Allah onu yaratıp şekil vermişti.",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra kan pıhtısı olmuş, sonra Allah onu yaratıp şekil vermişti.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 79,
+      "ayah": 28,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:28",
+      "word_position": 3,
+      "target_word_uthmani": "فَسَوَّىٰهَا",
+      "target_word_rasm": "فسوىها",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Sizi yaratmak mı daha zordur, yoksa göğü yaratmak mı? Ki onu Allah bina edip yükseltmiş ve ona şekil vermiştir.",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi yaratmak mı daha zordur, yoksa göğü yaratmak mı? Ki onu Allah bina edip yükseltmiş ve ona şekil vermiştir.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 82,
+      "ayah": 7,
+      "surah_name": "İnfitâr",
+      "ayah_ref": "82:7",
+      "word_position": 3,
+      "target_word_uthmani": "فَسَوَّىٰكَ",
+      "target_word_rasm": "فسوىك",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "context_snippet_turkish_tabula_rasa": "Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 87,
+      "ayah": 2,
+      "surah_name": "A'lâ",
+      "ayah_ref": "87:2",
+      "word_position": 3,
+      "target_word_uthmani": "فَسَوَّىٰ",
+      "target_word_rasm": "فسوى",
+      "target_word_literal_irab": "Eksiksiz orantı ve uyuma kavuşturdu (`سَوَّىٰ / فَسَوَّىٰ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "O, yaratıp şekil vermiştir.",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "O, yaratıp şekil vermiştir.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 91,
+      "ayah": 7,
+      "surah_name": "Şems",
+      "ayah_ref": "91:7",
+      "word_position": 3,
+      "target_word_uthmani": "سَوَّىٰهَا",
+      "target_word_rasm": "سوىها",
+      "target_word_literal_irab": "Onu dengeli bir bütün kılıp donatana (`وَمَا سَوَّىٰهَا`, II. bab mâzî 3. tekil eril — benliğin yetenek uyumu)",
+      "context_snippet_arabic": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Kişiye ve onu şekillendirene,",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Kişiye ve onu şekillendirene,",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    },
+    {
+      "surah": 91,
+      "ayah": 14,
+      "surah_name": "Şems",
+      "ayah_ref": "91:14",
+      "word_position": 7,
+      "target_word_uthmani": "فَسَوَّىٰهَا",
+      "target_word_rasm": "فسوىها",
+      "target_word_literal_irab": "Onları yerle bir düzledi (`فَسَوَّىٰهَا`, II. bab mâzî 3. tekil eril — Semûd şehrinin yıkımı)",
+      "context_snippet_arabic": "عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Onu yalanladılar ve deveyi boğazladılar. Bunun üzerine Rableri, suçlarından dolayı onların üzerine katmerli azap indirdi; yerle bir etti onları.",
+      "morphology": {
+        "lemma": "saw~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:saw~aY`|ROOT:swy|3MS"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Onu yalanladılar ve deveyi boğazladılar. Bunun üzerine Rableri, suçlarından dolayı onların üzerine katmerli azap indirdi; yerle bir etti onları.",
+      "contextual_meaning": "Fiziksel, biyolojik ve mekânsal düzleme, denge ve donanım (`4:42`, `11:44`, `15:29`, `18:37,96`, `19:10,17,43`, `20:135`, `23:28`, `28:14`, `32:9`, `38:72`, `43:13`, `48:29`, `53:6`, `67:22`, `75:4,38`, `79:28`, `82:7`, `87:2`, `91:7,14`): Dağlar arasına demir doldurup aynı seviyeye getirme (`18:96`), geminin Cûdî ve bineklerin sırtında dengeli duruşu (`11:44`, `23:28`, `43:13`), ekinin sapında dimdik doğrulması (`48:29`), Mûsâ'nın olgunluk çağına ermesi (`28:14`), parmak uçlarının ve benliğin kusursuz oranlanması (`75:4`, `91:7`), sağlıklı organ dengesi (`19:10`), yüzüstü kapaklanmadan dik yürüme (`67:22`) ve Semûd yurdunun yerle bir düzlenmesi (`91:14`, `4:42`)."
+    }
+  ]
+}

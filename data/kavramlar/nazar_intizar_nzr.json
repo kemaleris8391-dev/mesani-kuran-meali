@@ -1,0 +1,2678 @@
+{
+  "root": "ن-ظ-ر",
+  "root_latin": "N-Z-R (nZr)",
+  "concept_name": "Nazar / İntizâr (Dikkatle Bakıp İnceleme, Gözetleme ve Süre/Mühlet Tanıma)",
+  "rank": 85,
+  "total_occurrences": 129,
+  "unique_ayahs_count": 115,
+  "unified_core_mechanism": "Kökün 129 geçişlik ağını tek gözlem yasası yönetir: 'Bakışı ve dikkati belirli bir hedefe veya vakte kilitlemek'. Dört ana kolda çalışır: (1) Deneysel, tarihî ve ahlâkî gözlem (`نَظَرَ إِلَى / فِى / كَيْفَ`): doğayı (`50:6`, `88:17`), insan biyolojisini (`86:5`), tarih enkazlarını (`30:9,42`) ve kişinin kendi yapıp ettiklerini (`59:18`) incelemek (`77` geçiş + `5` `نَٰظِرِين` + `2` `نَاظِرَة` + `1` `نَظْرَة` + `1` `نَظَر`). (2) Vaktin gelmesini beklemek (`نَظَرَ` `10` kez `هَلْ/مَا يَنظُرُونَ`, `ٱنْتَظَرَ` `8 V`, `مُنْتَظِرُون` `6 N`). (3) Ek zaman ve vade tanımak (`أَنْظَرَ` `12 V`, `مُنظَرُون` `6 N`, `نَظِرَة` `2:280`). (4) Canlı tanıklık ve bakış psikolojisi (`وَأَنتُمْ تَنظُرُونَ`, `مِن طَرْفٍ خَفِىٍّ` `42:45`, `47:20`).",
+  "physical_core": "Ham fiziki çekirdek: İbn Fâris'e göre tek asıl `تَأَمُّلُ ٱلشَّيْءِ وَمُعَايَنَتُهُ` — gözü bir nesne veya olay üzerine odaklayıp dikkatlice süzmek, incelemek ve gözetlemek. Kişi vaktin gelmesini gözlediği için 'beklemek' (`نَظَرَ / ٱنتَظَرَ` — 'gelecek vakte doğru göz dikmek'), borçluya veya muhataba vaktin açılması için göz yummak/vade vermek de ('mühlet tanımak' `أَنْظَرَ / نَظِرَة`) bu gözlem ekseninden doğar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris tek çekirdek saptar: `تَأَمُّلُ ٱلشَّيْءِ وَمُعَايَنَتُهُ` (bir şeyi bizzat görerek ve aklen süzerek incelemek). Beklemek anlamının dahi 'beklenen zamana doğru göz dikmek' ölçüsüne dayandığını özellikle vurgular.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلنَّظَرُ` eşyanın mahiyetini kavrayabilmek için bakışı ve zihni çevirmektir (`تَقْلِيبُ ٱلْبَصَرِ وَٱلْبَصِيرَةِ`); gözle bakışa da kalp incelemesine de şamildir.",
+    "lisan_al_arab": "Lisânü'l-Arab: `نَظَرَ إِلَيْهِ` gözle veya şefkatle yönelmektir (`3:77` `وَلَا يَنظُرُ إِلَيْهِمْ`: merhamet ve değerle yönelmez); `فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ` (`2:280`) borçluya kolaylık anına dek mühlet vermektir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `ٱلنَّظَرُ` algı ve bilgi çıkarmak için bakışı gezdirmektir; `ٱلِٱنْتِظَارُ` beklenen bir olayı gözlemek (`6:158`), `ٱلْإِنْظَارُ` (`أَنْظَرَ`) ise başkasına zaman ve erteleme tanımaktır (`7:14`, `2:162`).",
+    "arbitration_decision": "Tahkim Kararı: Kök üç ayrı bab üzerinden tek optik-zaman ekseninde işler: (1) I. bab `نَظَرَ` (`87`) hem fiziksel/bilimsel gözlem ve zihnî inceleme (`ٱنظُرْ كَيْفَ`, `نَظَرَ إِلَى/فِى`) hem de `10` ayette (`هَلْ يَنظُرُونَ إِلَّا...`) beklemek; (2) IV. bab `أَنْظَرَ` (`12` V + `6` `مُنظَرُون`) + `نَظِرَة` (`2:280`) karşı tarafa zaman-mühlet tanımak; (3) VIII. bab `ٱنْتَظَرَ` (`8` V + `6` `مُنتَظِرُون`) sonucu gözünü dikip beklemek. Kur'an gözlemi kuru seyir değil akıl ve tarih bilincinin ana kapısı yapar (`7:185`, `50:6`, `86:5`, `88:17`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*n-ṯ̣-r / *n-ẓ-r ('gözlemek, dikkatle bakmak, nöbet tutup korumak')",
+    "hebrew": "İbranice `נָצַר` (*nāṣar*: 'gözetlemek, korumak, kollamak, nöbet tutmak' — aynı zamanda *Nāṣerat* / Nâsıra adıyla ilişkilendirilen gözcü kulesi/korunan yer semantiği).",
+    "aramaic_syriac": "Klasik Süryanice/Aramice `ܢܛܪ` (*nṭar*: 'gözlemek, gözetim altında tutup korumak, saklamak').",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece) yazıtlarda `nẓr` bakmak, gözlemlemek, ilgiyle gözetip dikkate almak anlamlarıyla Arapça ile paralel yaşar.",
+    "akkadian_geez": "Doğu Samicede Akadca `naṣāru` ('korumak, muhafaza etmek, antlaşmayı ve sınırı gözetip kollamak') aynı Proto-Semitik kökün doğrudan Doğu koludur.",
+    "phonological_note": "Semitik ses yasalarının en ders niteliğindeki örneğidir: Proto-Semitik vurgulu diş-arası ünsüzü `*ṯ̣` (`*n-ṯ̣-r`) Arapça ve Sebecede `ẓ` (`ن-ظ-ر`), Akadca ve İbranicede `ṣ` (*naṣāru*, *nāṣar*), Aramice/Süryanicede ise `ṭ` (*nṭar*) sesine düzenli kaymıştır; 'gözünü ayırmamak -> korumak' anlam köprüsü bütün ailede ortaktır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-م-ى / ب-ص-ر (`وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ` — Optik Bakış vs Kalp Körlüğü — 10:43)",
+      "غ-ف-ل / ع-ر-ض (Gaflet ve Yüz Çevirme vs Bilinçli İnceleme `أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ ٱلسَّمَٰوَٰتِ` — 7:185, 59:18)",
+      "ن-ض-ر (`وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ * إِلَىٰ رَبِّهَا نَاظِرَةٌ` — Ses/Anlam Uyumu — 75:22-23 vs عَبَسَ/بَاسِرَةٌ)"
+    ],
+    "key_ayahs": [
+      "10:43 (وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ ... تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ — sadece gözle bakış ile basiret görmesi ayrımı)",
+      "7:185 & 88:17 & 86:5 (أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ / أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ / فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ)",
+      "2:280 (وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ — zorluk `عُسْرَة` karşısında mühlet ve kolaylık `مَيْسَرَة`)",
+      "59:18 & 78:40 (وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ / يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ن-ظ-ر dikkatlice bakıp incelemek, gözetlemek ve zaman-mühlet tanımaksa zıddı nedir?' Cevap: İncelemeksizin körce yüz çevirmek (`ع-م-ى` / `ع-ر-ض` — `10:43`, `7:185`) ve hiç beklemeden/ertelemeden anında yakalamaktır (`لَا يُنظَرُونَ` `2:162`, `16:85`, `32:29`). `10:43` ('gözüyle baktığı hâlde basireti göremeyen') ve `2:280` ('darlığa mühlet') bu çift kutbu açığa çıkardığından Mesânî testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ن-ظ-ر (`يَنظُرُ` Bakışı/Gözü Çevirmek) vs ب-ص-ر (`لَا يُبْصِرُونَ` Gerçeği Görmek/Kavramak) — 10:43 & 7:198",
+      "ن-ظ-ر (`فَٱنظُرْ` Zihnî Muhakeme ve İnceleme) vs ر-أ-ي (`مَاذَا تَرَىٰ` Nihai Görüş/Karar) — 37:102",
+      "يَنظُرُونَ (`I. Bab` Seyir/Bekleyiş) vs ٱنتَظِرُوٓا۟ / مُنتَظِرُونَ (`VIII. Bab` Gözünü Dikip Bekleme) — 6:158",
+      "رَٰعِنَا (İki Anlamlı Alay) vs ٱنظُرْنَا (Bizi Gözet / Durumumuza Bak) — 2:104 & 4:46"
+    ],
+    "mechanical_difference": "1) `نَظَرَ` gözü ve dikkati bir şeye yöneltmek (aramak/bakmak), `أَبْصَرَ / رَأَى` ise yönelinenden net sonuç ve idrak çıkarmaktır (`7:198` `وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ`: 'sana baktıklarını görürsün ama gerçeği idrak edip göremezler!'). 2) `2:259`da arka arkaya gelen üç `ٱنظُرْ` komutu sırasıyla gıdaya (çürümemişlik), merkebin kemiklerine (ölüm) ve diriliş inşasına somut deneysel bakışı emreder. 3) `6:158`de aynı ayette hem I. bab `يَنظُرُونَ` hem VIII. bab `ٱنتَظِرُوٓا۟` hem ism-i fâil `مُنتَظِرُونَ` gelerek bekleyişin boyutlarını tamamlar."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "7:198 & 10:43",
+      "role": "نَظَرَ vs أَبْصَرَ / رَأَى Furûk Çapası (وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ)",
+      "literal_meaning": "'Onların gözlerini dikip sana baktıklarını (`يَنظُرُونَ إِلَيْكَ`) görürsün; oysa hakikati seçip idrak edemezler (`لَا يُبْصِرُونَ`).'"
+    },
+    {
+      "ref": "7:185 & 88:17 & 86:5",
+      "role": "Evren ve İnsan İncelemesi Çapası (أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ / أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ / فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ)",
+      "literal_meaning": "'Göklerin ve yerin yönetim düzenine hiç bakıp incelemediler mi?', 'Devenin nasıl yaratıldığına hiç bakmazlar mı?' ve 'İnsan neden yaratıldığına dikkatle baksın!'"
+    },
+    {
+      "ref": "2:259",
+      "role": "Üçlü Deneysel Gözlem Çapası (فَٱنظُرْ إِلَىٰ طَعَامِكَ ... وَٱنظُرْ إِلَىٰ حِمَارِكَ ... وَٱنظُرْ إِلَى ٱلْعِظَامِ)",
+      "literal_meaning": "'Yüz yıl sonra bozulmamış yiyeceğine bak (`فَٱنظُرْ`), dağılmış eşeğine bak (`وَٱنظُرْ`) ve kemikleri nasıl birleştirip et giydirdiğimize bak (`وَٱنظُرْ`).'"
+    },
+    {
+      "ref": "2:280",
+      "role": "Sosyal Mühlet Hukuku Çapası (فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ)",
+      "literal_meaning": "'Borçlu darlık içinde ise, eli genişleyip ödeme kolaylığına erinceye dek ona mühlet tanınması (`فَنَظِرَةٌ`) gerekir.'"
+    },
+    {
+      "ref": "59:18 & 78:40",
+      "role": "Özdenetim ve Gelecek Bilinci Çapası (وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ)",
+      "literal_meaning": "'Her benlik yarın için önceden ne hazırlayıp gönderdiğine dikkatle baksın (`وَلْتَنظُرْ`).'"
+    },
+    {
+      "ref": "7:14 & 2:162",
+      "role": "IV. Bab Mühlet Talebi ve Sınırı (أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ / وَلَا هُمْ يُنظَرُونَ)",
+      "literal_meaning": "'Diriltilecekleri güne kadar bana süre ver (`أَنظِرْنِىٓ`)' ve 'onlara hiçbir ek mühlet ve erteleme verilmez (`وَلَا هُمْ يُنظَرُونَ`).'"
+    },
+    {
+      "ref": "75:22-23",
+      "role": "ن-ض-ر ile ن-ظ-ر Ses-Anlam Uyumu Çapası (وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ إِلَىٰ رَبِّهَا نَاظِرَةٌ)",
+      "literal_meaning": "'O gün yüzler taze ve pırıl pırıldır (`نَّاضِرَةٌ`); Rabbine sevgi ve umutla yönelip bakmaktadır (`نَاظِرَةٌ`).'"
+    },
+    {
+      "ref": "2:104 & 4:46",
+      "role": "İletişim Nezaketi Çapası (لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا)",
+      "literal_meaning": "'Çift anlamlı söz söylemeyin; Bize bak ve hâlimizi gözet (`ٱنظُرْنَا`) deyin!'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) I. bab `نَظَرَ` (`87 V`) geçirdiği edata göre yön değiştirir: `إِلَىٰ` nesneye/doğaya bakışı (`15` yer) ve merhametle iltifatı (`3:77`), `فِى` derinlikli sistem incelemesini (`7:185`, `37:88`), `كَيْفَ` cümlesi neden-sonuç analizini (`39` kez), `هَلْ / مَا ... إِلَّا` kalıbı ise 'beklemek' anlamını (`10` kez) taşır; aynı ayette üç kez `2:259`, iki kez `5:75` ve `7:143`te geçer. 2) IV. bab `أَنْظَرَ` (`12 V`: `6` meçhul `يُنظَرُونَ` + `3` emir `أَنظِرْنِى` + `3` nehiy `لَا تُنظِرُونِ`, artı ismi mef'ûlü `مُنظَرُون` `6 N`) münhasıran 'zaman/mühlet tanımak' babıdır; `تُنظِرُونِ` (`7:195`, `10:71`, `11:55`) fiilinde mütekellim yâsı yazıda düşmüş yalnız kesre kalmıştır. 3) VIII. bab `ٱنْتَظَرَ` (`8 V` + `6 N` `مُنتَظِرُون`) daima beklemeyi bildirir; `6:158`de I. bab + VIII. bab fiil + VIII. bab ism-i fâil birlikte yer alır. 4) Üç tekil isim vezni incelik taşır: `نَظْرَة` (`37:88` *merre* tek bakış), `نَظَر` (`47:20` bakış tarzı), `نَظِرَة` (`2:280` borçluya verilen mühlet). 5) Rasm-ı Osmânî'de `44` ayrı imlâ şekli görülür (`ٱلنَّٰظِرِينَ / لِلنَّٰظِرِينَ / نَٰظِرِينَ` dikey elifle elifsiz, buna karşın dişil `نَاظِرَةٌ / فَنَاظِرَةٌۢ` `27:35`, `75:23` tam elifli yazılır!).",
+  "derivatives": {
+    "نَظَرَ (`87 V`, I. bab) & نَٰظِرِين (`5 N`) & نَاظِرَة (`2 N`) & نَظْرَة (`1 N` `37:88`) & نَظَر (`1 N` `47:20`)": "Dikkatle bakıp incelemek (`2:259`, `7:185`, `59:18`, `88:17`), canlı tanık olmak (`2:50`), gözlemle beklemek (`36:49`) ve göz atış (`37:88`)",
+    "أَنْظَرَ (`12 V`, IV. bab: `6` meçhul + `6` malûm) & مُنظَرُون (`6 N`) & نَظِرَة (`1 N` `2:280`)": "Karşı tarafa veya borçluya süre/mühlet tanımak ya da mühletsiz kalmak (`2:162,280`, `7:14,195`, `26:203`, `44:29`)",
+    "ٱنْتَظَرَ (`8 V`, VIII. bab) & مُنْتَظِرُون (`6 N`, VIII. bab ism-i fâil)": "Sonucu gözünü dikip beklemek ve beklenti yarışına girmek (`6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`, `33:23`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 50,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:50",
+      "word_position": 10,
+      "target_word_uthmani": "تَنظُرُونَ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Denizi yarıp sizi kurtarmış ve gözlerinizin önünde Firavun ailesini batırmıştık.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Denizi yarıp sizi kurtarmış ve gözlerinizin önünde Firavun ailesini batırmıştık.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 55,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:55",
+      "word_position": 14,
+      "target_word_uthmani": "تَنظُرُونَ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ya Musa! Allah'ı apaçık görmedikçe sana güven duy\" demiştiniz de gözleriniz göre göre sizi yıldırım çarpmıştı.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ya Musa! Allah'ı apaçık görmedikçe sana güven duy\" demiştiniz de gözleriniz göre göre sizi yıldırım çarpmıştı.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 69,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:69",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلنَّٰظِرِينَ",
+      "target_word_rasm": "ٱلنظرين",
+      "target_word_literal_irab": "Gözleriyle seyredip bakanlar (`ٱلنَّٰظِرِينَ / لِلنَّٰظِرِينَ`, I. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbine bizim adımıza yalvar da ne renk olduğunu bize bildirsin\" dediler. \"O, onun, bakanların içini açan parlak sarı renkli bir sığır olduğunu söylüyor\" dedi.",
+      "morphology": {
+        "lemma": "na`Ziriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:na`Ziriyn|ROOT:nZr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbine bizim adımıza yalvar da ne renk olduğunu bize bildirsin\" dediler. \"O, onun, bakanların içini açan parlak sarı renkli bir sığır olduğunu söylüyor\" dedi.",
+      "contextual_meaning": "Seyredenlerin gözünde hayranlık uyandıran görsel kanıtlar (`تَسُرُّ ٱلنَّٰظِرِينَ` `2:69`, `7:108`, `15:16`, `26:33`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 104,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:104",
+      "word_position": 8,
+      "target_word_uthmani": "ٱنظُرْنَا",
+      "target_word_rasm": "ٱنظرنا",
+      "target_word_literal_irab": "Bizi gözet, hâlimize ve ihtiyacımıza bak (`ٱنظُرْنَا / وَٱنظُرْنَا`, I. bab emir `2MS`)",
+      "context_snippet_arabic": "تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ وَلِلْكَٰفِرِينَ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "... kötü anlama gelebilecek söz) demeyin, \"Bizi gözet\" (unzurna) deyin ve dinleyin, gerçeğin üzerini örtenlere elem verici azab vardır.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçi'e, \"Bizi de dinle\" (raina; kötü anlama gelebilecek söz) demeyin, \"Bizi gözet\" (unzurna) deyin ve dinleyin, gerçeğin üzerini örtenlere elem verici azab vardır.",
+      "contextual_meaning": "Alaycı çift anlamlı `رَٰعِنَا` sözü yerine açık saygılı `ٱنظُرْنَا` ('bizi gözet / durumumuza bak') demenin emredilişi (`2:104`, `4:46`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 162,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:162",
+      "word_position": 9,
+      "target_word_uthmani": "يُنظَرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Kendilerine süre ve ek mühlet tanınır (`يُنظَرُونَ`, IV. bab meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Lanette temellidirler, onlardan azab hafifletilmez ve onların azabı geciktirilmez.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yunZaru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Lanette temellidirler, onlardan azab hafifletilmez ve onların azabı geciktirilmez.",
+      "contextual_meaning": "Yapılan hataların sonucu geldiğinde hiç kimseye ek erteleme ve mühlet tanınmayacağı yasası (`لَا يُنظَرُونَ` `2:162`, `3:88`, `6:8`, `16:85`, `21:40`, `32:29`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 210,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:210",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, bulut gölgeleri içinde, Allah'ın azabının ve kozmik görevlilerin tepelerine inip işin bitmesini mi bekliyorlar? Bütün işler Allah'a dönecektir.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, bulut gölgeleri içinde, Allah'ın azabının ve kozmik görevlilerin tepelerine inip işin bitmesini mi bekliyorlar? Bütün işler Allah'a dönecektir.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 37,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ",
+      "context_snippet_turkish_tabula_rasa": "... Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? \"Allah burayı ölümünden sonra acaba nasıl diriltecek?\" dedi. Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; bu ona apaçık belli olunca, \"Artık Allah'ın her şeye Kadir olduğuna güvene ermiş bulunuyorum\" dedi.",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 43,
+      "target_word_uthmani": "وَٱنظُرْ",
+      "target_word_rasm": "وٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ",
+      "context_snippet_turkish_tabula_rasa": "... Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? \"Allah burayı ölümünden sonra acaba nasıl diriltecek?\" dedi. Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; bu ona apaçık belli olunca, \"Artık Allah'ın her şeye Kadir olduğuna güvene ermiş bulunuyorum\" dedi.",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 49,
+      "target_word_uthmani": "وَٱنظُرْ",
+      "target_word_rasm": "وٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ",
+      "context_snippet_turkish_tabula_rasa": "... Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? \"Allah burayı ölümünden sonra acaba nasıl diriltecek?\" dedi. Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; bu ona apaçık belli olunca, \"Artık Allah'ın her şeye Kadir olduğuna güvene ermiş bulunuyorum\" dedi.",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 280,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:280",
+      "word_position": 5,
+      "target_word_uthmani": "فَنَظِرَةٌ",
+      "target_word_rasm": "فنظرة",
+      "target_word_literal_irab": "Eli genişleyinceye dek borçluya süre ve mühlet tanıma (`فَنَظِرَةٌ`, `فَعِلَة` isim merfû)",
+      "context_snippet_arabic": "كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ وَأَن",
+      "context_snippet_turkish_tabula_rasa": "Borçlu darda ise, eli genişleyinceye kadar ona mühlet verin. Bilmiş olsanız borcu bağışlamanız sizin için daha hayırlıdır.",
+      "morphology": {
+        "lemma": "naZirap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:naZirap|ROOT:nZr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Borçlu darda ise, eli genişleyinceye kadar ona mühlet verin. Bilmiş olsanız borcu bağışlamanız sizin için daha hayırlıdır.",
+      "contextual_meaning": "Borç ve dayanışma hukuku (`فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ` `2:280`): Darlıkta olan borçluya ödeme kolaylığına kadar yasal mühlet tanıma."
+    },
+    {
+      "surah": 3,
+      "ayah": 77,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:77",
+      "word_position": 19,
+      "target_word_uthmani": "يَنظُرُ",
+      "target_word_rasm": "ينظر",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah onlara kıyamet günü hitab etmeyecek, onlara bakmayacak, onları temize çıkarmayacaktır. Elem verici azab onlar içindir.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَا خَلَٰقَ لَهُمْ فِى ٱلْءَاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ahdini ve bağlayıcı ahitlerini az bir değere değişenlerin, işte onların, ahirette bir payları yoktur. Allah onlara kıyamet günü hitab etmeyecek, onlara bakmayacak, onları temize çıkarmayacaktır. Elem verici azab onlar içindir.",
+      "contextual_meaning": "Sözleşmesini ucuz çıkara satanlara hesap günü şefkat ve ilgiyle bakılmaması (`وَلَا يَنظُرُ إِلَيْهِمْ` `3:77`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 88,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:88",
+      "word_position": 9,
+      "target_word_uthmani": "يُنظَرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Kendilerine süre ve ek mühlet tanınır (`يُنظَرُونَ`, IV. bab meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Orada temellidirler; onlardan azab hafifletilmez; onların azabı geciktirilmez.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yunZaru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada temellidirler; onlardan azab hafifletilmez; onların azabı geciktirilmez.",
+      "contextual_meaning": "Yapılan hataların sonucu geldiğinde hiç kimseye ek erteleme ve mühlet tanınmayacağı yasası (`لَا يُنظَرُونَ` `2:162`, `3:88`, `6:8`, `16:85`, `21:40`, `32:29`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 137,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:137",
+      "word_position": 9,
+      "target_word_uthmani": "فَٱنظُرُوا۟",
+      "target_word_rasm": "فٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Sizden önce neler gelip geçmiştir. Yeryüzünde gezin de, yalancıların sonunun ne olduğuna bir bakın.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önce neler gelip geçmiştir. Yeryüzünde gezin de, yalancıların sonunun ne olduğuna bir bakın.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 143,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:143",
+      "word_position": 12,
+      "target_word_uthmani": "تَنظُرُونَ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, ölümle karşılaşmadan önce onu temenni ediyordunuz; işte onu gözlerinizle bakarak gördünüz.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كُنتُمْ تَمَنَّوْنَ ٱلْمَوْتَ مِن قَبْلِ أَن تَلْقَوْهُ فَقَدْ رَأَيْتُمُوهُ وَأَنتُمْ تَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, ölümle karşılaşmadan önce onu temenni ediyordunuz; işte onu gözlerinizle bakarak gördünüz.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 46,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:46",
+      "word_position": 26,
+      "target_word_uthmani": "وَٱنظُرْنَا",
+      "target_word_rasm": "وٱنظرنا",
+      "target_word_literal_irab": "Bizi gözet, hâlimize ve ihtiyacımıza bak (`ٱنظُرْنَا / وَٱنظُرْنَا`, I. bab emir `2MS`)",
+      "context_snippet_arabic": "سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"İşittik ve itaat ettik, dinle ve bizi gözet\" demiş olsalardı, onlar için daha iyi daha doğru olurdu. İşte Allah gerçeğin üzerini örtmeleri yüzünden onlara lanet etmiştir. ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilerden, sözleri yerlerinden değiştirip: \"İşittik ve karşı geldik, kulak vermeyerek dinle\" ve dillerini eğip bükerek ve yaşam sistemini yererek: \"Bizi de dinle\" diyenler vardır. Şayet: \"İşittik ve itaat ettik, dinle ve bizi gözet\" demiş olsalardı, onlar için daha iyi daha doğru olurdu. İşte Allah gerçeğin üzerini örtmeleri yüzünden onlara lanet etmiştir. Onların ancak pek azı güven duy.",
+      "contextual_meaning": "Alaycı çift anlamlı `رَٰعِنَا` sözü yerine açık saygılı `ٱنظُرْنَا` ('bizi gözet / durumumuza bak') demenin emredilişi (`2:104`, `4:46`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 50,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:50",
+      "word_position": 1,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Allah'a nasıl yalan yere iftira ettiklerine bir bak. Bu, apaçık bir sapma ve ağır kusur olarak yeter.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a nasıl yalan yere iftira ettiklerine bir bak. Bu, apaçık bir sapma ve ağır kusur olarak yeter.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 75,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:75",
+      "word_position": 17,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu Mesih sadece elçidir, -ondan önce de elçiler geçmiştir- onun annesi dosdoğrudur, her ikisi de yemek yerlerdi. Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 75,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:75",
+      "word_position": 23,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu Mesih sadece elçidir, -ondan önce de elçiler geçmiştir- onun annesi dosdoğrudur, her ikisi de yemek yerlerdi. Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 8,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:8",
+      "word_position": 13,
+      "target_word_uthmani": "يُنظَرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Kendilerine süre ve ek mühlet tanınır (`يُنظَرُونَ`, IV. bab meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ona bir kozmik görevli indirilmeli değil miydi?\" dediler. Bir kozmik görevli indirmiş olsaydık iş bitmiş olurdu da onlara göz bile açtırılmazdı.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yunZaru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ona bir kozmik görevli indirilmeli değil miydi?\" dediler. Bir kozmik görevli indirmiş olsaydık iş bitmiş olurdu da onlara göz bile açtırılmazdı.",
+      "contextual_meaning": "Yapılan hataların sonucu geldiğinde hiç kimseye ek erteleme ve mühlet tanınmayacağı yasası (`لَا يُنظَرُونَ` `2:162`, `3:88`, `6:8`, `16:85`, `21:40`, `32:29`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 11,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:11",
+      "word_position": 6,
+      "target_word_uthmani": "ٱنظُرُوا۟",
+      "target_word_rasm": "ٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Yeryüzünde gezip dolaşın, sonra da, yalanlayanların sonunun nasıl olduğuna bir bakın.\"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ ثُمَّ ٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Yeryüzünde gezip dolaşın, sonra da, yalanlayanların sonunun nasıl olduğuna bir bakın.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 24,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:24",
+      "word_position": 1,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine karşı nasıl yalan söylediklerine bak; uydurdukları şeyler de onlardan uzaklaştı.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine karşı nasıl yalan söylediklerine bak; uydurdukları şeyler de onlardan uzaklaştı.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 46,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:46",
+      "word_position": 17,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱللَّهِ يَأْتِيكُم بِهِ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Gördünüz mü? Allah, işitmenizi, gözlerinizi alsa, kalblerinizi kapasa, Allah'tan başka hangi sığınak mercii (ilâh) onu sizlere getirebilir?\" Ayetleri nasıl türlü türlü açıkladığımıza bir baksana, sonra da onlar yüz çevirirler.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ ثُمَّ هُمْ يَصْدِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gördünüz mü? Allah, işitmenizi, gözlerinizi alsa, kalblerinizi kapasa, Allah'tan başka hangi sığınak mercii (ilâh) onu sizlere getirebilir?\" Ayetleri nasıl türlü türlü açıkladığımıza bir baksana, sonra da onlar yüz çevirirler.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 65,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:65",
+      "word_position": 22,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "بَعْضَكُم بَأْسَ بَعْضٍ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Üstünüzden ve altınızdan size azab göndermeğe, sizi fırka fırka yapıp kiminize kiminizin hıncını tattırmağa Kadir olan O'dur. \" Anlasınlar diye ayetleri nasıl yerli yerince açıkladığımıza bak.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Üstünüzden ve altınızdan size azab göndermeğe, sizi fırka fırka yapıp kiminize kiminizin hıncını tattırmağa Kadir olan O'dur.\" Anlasınlar diye ayetleri nasıl yerli yerince açıkladığımıza bak.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 99,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:99",
+      "word_position": 33,
+      "target_word_uthmani": "ٱنظُرُوٓا۟",
+      "target_word_rasm": "ٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "مُشْتَبِهًا وَغَيْرَ مُتَشَٰبِهٍ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ",
+      "context_snippet_turkish_tabula_rasa": "... Her bitkiyi onunla bitirdik, ondan bitirdiğimiz yeşilden, birbirine benzeyen ve benzemeyen yığın yığın taneler, hurmaların tomurcuklarından sarkan salkımlar, üzüm bağları, zeytin ve nar çıkardık. Ürün verdiklerinde ürünlerine, olgunlaşmalarına bir bakın. Bunlarda, güvene erenler için, şüphesiz, deliller vardır.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَٰبِهٍ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ إِنَّ فِى ذَٰلِكُمْ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, gökten su indirendir. Her bitkiyi onunla bitirdik, ondan bitirdiğimiz yeşilden, birbirine benzeyen ve benzemeyen yığın yığın taneler, hurmaların tomurcuklarından sarkan salkımlar, üzüm bağları, zeytin ve nar çıkardık. Ürün verdiklerinde ürünlerine, olgunlaşmalarına bir bakın. Bunlarda, güvene erenler için, şüphesiz, deliller vardır.",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 158,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:158",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara: \"Bekleyin, doğrusu biz de bekliyoruz\" de.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًا قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendilerine kozmik görevlilerin gelmesini mi, yoksa Rabbinin gelmesini mi, yahut Rablerinden bir takım apaçık göstergelerin gelmesini mi bekliyorlar? Rabbinin bir takım apaçık göstergeleri geldiği gün, bir kimse daha önce güven duy veya güven bağı bir iyilik kazanmamışsa, güven bağı ona fayda vermez. Onlara: \"Bekleyin, doğrusu biz de bekliyoruz\" de.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 158,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:158",
+      "word_position": 35,
+      "target_word_uthmani": "ٱنتَظِرُوٓا۟",
+      "target_word_rasm": "ٱنتظروا",
+      "target_word_literal_irab": "Gözünüzü dikip sonucu bekleyin / gözetle (`ٱنتَظِرُوٓا۟ / فَٱنتَظِرُوٓا۟ / وَٱنتَظِرْ`, VIII. bab emir)",
+      "context_snippet_arabic": "إِيمَٰنِهَا خَيْرًا قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara: \"Bekleyin, doğrusu biz de bekliyoruz\" de.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:yantaZiru|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًا قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendilerine kozmik görevlilerin gelmesini mi, yoksa Rabbinin gelmesini mi, yahut Rablerinden bir takım apaçık göstergelerin gelmesini mi bekliyorlar? Rabbinin bir takım apaçık göstergeleri geldiği gün, bir kimse daha önce güven duy veya güven bağı bir iyilik kazanmamışsa, güven bağı ona fayda vermez. Onlara: \"Bekleyin, doğrusu biz de bekliyoruz\" de.",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 158,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:158",
+      "word_position": 37,
+      "target_word_uthmani": "مُنتَظِرُونَ",
+      "target_word_rasm": "منتظرون",
+      "target_word_literal_irab": "Sonucu dikkatle gözleyip bekleyenler (`مُنتَظِرُونَ / ٱلْمُنتَظِرِينَ`, VIII. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara: \"Bekleyin, doğrusu biz de bekliyoruz\" de.",
+      "morphology": {
+        "lemma": "muntaZiruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:muntaZiruwn|ROOT:nZr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَٰتِ رَبِّكَ يَوْمَ يَأْتِى بَعْضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَٰنِهَا خَيْرًا قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendilerine kozmik görevlilerin gelmesini mi, yoksa Rabbinin gelmesini mi, yahut Rablerinden bir takım apaçık göstergelerin gelmesini mi bekliyorlar? Rabbinin bir takım apaçık göstergeleri geldiği gün, bir kimse daha önce güven duy veya güven bağı bir iyilik kazanmamışsa, güven bağı ona fayda vermez. Onlara: \"Bekleyin, doğrusu biz de bekliyoruz\" de.",
+      "contextual_meaning": "Bekleme yarışının çift kutuplu vurgusu (`مُنتَظِرُونَ` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`): Hak ve gerçeği örtme çizgilerinin sonu beklemesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 14,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:14",
+      "word_position": 2,
+      "target_word_uthmani": "أَنظِرْنِىٓ",
+      "target_word_rasm": "أنظرنى",
+      "target_word_literal_irab": "Bana süre ve mühlet tanı (`أَنظِرْنِىٓ / فَأَنظِرْنِىٓ`, IV. bab emir `2MS`)",
+      "context_snippet_arabic": "قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ona, \"İnsanların tekrar dirilecekleri güne kadar beni ertele\" dedi.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:yunZaru|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, \"İnsanların tekrar dirilecekleri güne kadar beni ertele\" dedi.",
+      "contextual_meaning": "Kibirli isyancı odağın 'diriliş gününe dek bana süre ver (`أَنظِرْنِىٓ`)' talebi: IV. babın 'mühlet/erteleme verme' anlamı."
+    },
+    {
+      "surah": 7,
+      "ayah": 15,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:15",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمُنظَرِينَ",
+      "target_word_rasm": "ٱلمنظرين",
+      "target_word_literal_irab": "Kendilerine erteleme ve süre tanınanlar (`مُّنظَرِينَ / ٱلْمُنظَرِينَ`, IV. bab ism-i mef'ûl)",
+      "context_snippet_arabic": "قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah; \"Sen erteye bırakılanlardansın\" dedi.",
+      "morphology": {
+        "lemma": "munZaruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:munZaruwn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah; \"Sen erteye bırakılanlardansın\" dedi.",
+      "contextual_meaning": "Mühlet sınırının dolması (`مُنظَرِينَ` `7:15`, `15:8,37`, `26:203`, `38:80`, `44:29`): İnsana tanınan vade bittiğinde ek erteleme kalmayışı."
+    },
+    {
+      "surah": 7,
+      "ayah": 53,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:53",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُۥ يَوْمَ",
+      "context_snippet_turkish_tabula_rasa": "Kitap'ın haber verdiği sonuçtan başka bir şey mi bekliyorlar? Sonuç gelip çattığı gün, önceleri onu unutmuş olanlar, \"Rabbimizin elçileri şüphesiz bize gerçeği ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّا تَأْوِيلَهُۥ يَوْمَ يَأْتِى تَأْوِيلُهُۥ يَقُولُ ٱلَّذِينَ نَسُوهُ مِن قَبْلُ قَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ فَهَل لَّنَا مِن شُفَعَآءَ فَيَشْفَعُوا۟ لَنَآ أَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ قَدْ خَسِرُوٓا۟ أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap'ın haber verdiği sonuçtan başka bir şey mi bekliyorlar? Sonuç gelip çattığı gün, önceleri onu unutmuş olanlar, \"Rabbimizin elçileri şüphesiz bize gerçeği getirmişti, şimdi bize şefaat etsin, yahut geriye çevrilsek de işlediklerimizin başka türlüsünü işlesek\" derler. Doğrusu kendilerini mahvetmişlerdir, uydurdukları şeyler onları koyup kaçmışlardır.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 71,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:71",
+      "word_position": 21,
+      "target_word_uthmani": "فَٱنتَظِرُوٓا۟",
+      "target_word_rasm": "فٱنتظروا",
+      "target_word_literal_irab": "Gözünüzü dikip sonucu bekleyin / gözetle (`ٱنتَظِرُوٓا۟ / فَٱنتَظِرُوٓا۟ / وَٱنتَظِرْ`, VIII. bab emir)",
+      "context_snippet_arabic": "بِهَا مِن سُلْطَٰنٍ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın hiçbir delil indirmediği, isimlerini de siz ve babalarınızın koyduğu putlar hakkında mı benimle tartışıyorsunuz? Bekleyin, doğrusu ben de sizinle beraber bekleyenlerdenim\" dedi.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:yantaZiru|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hiç şüphesiz artık Rabbinizin azab ve öfkesini hakettiniz. Allah'ın hiçbir delil indirmediği, isimlerini de siz ve babalarınızın koyduğu putlar hakkında mı benimle tartışıyorsunuz? Bekleyin, doğrusu ben de sizinle beraber bekleyenlerdenim\" dedi.",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 71,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:71",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلْمُنتَظِرِينَ",
+      "target_word_rasm": "ٱلمنتظرين",
+      "target_word_literal_irab": "Sonucu dikkatle gözleyip bekleyenler (`مُنتَظِرُونَ / ٱلْمُنتَظِرِينَ`, VIII. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın hiçbir delil indirmediği, isimlerini de siz ve babalarınızın koyduğu putlar hakkında mı benimle tartışıyorsunuz? Bekleyin, doğrusu ben de sizinle beraber bekleyenlerdenim\" dedi.",
+      "morphology": {
+        "lemma": "muntaZiruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:muntaZiruwn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ وَقَعَ عَلَيْكُم مِّن رَّبِّكُمْ رِجْسٌ وَغَضَبٌ أَتُجَٰدِلُونَنِى فِىٓ أَسْمَآءٍ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّا نَزَّلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hiç şüphesiz artık Rabbinizin azab ve öfkesini hakettiniz. Allah'ın hiçbir delil indirmediği, isimlerini de siz ve babalarınızın koyduğu putlar hakkında mı benimle tartışıyorsunuz? Bekleyin, doğrusu ben de sizinle beraber bekleyenlerdenim\" dedi.",
+      "contextual_meaning": "Bekleme yarışının çift kutuplu vurgusu (`مُنتَظِرُونَ` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`): Hak ve gerçeği örtme çizgilerinin sonu beklemesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 84,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:84",
+      "word_position": 4,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Geriye kalanların üzerine öyle bir yağmur yağdırdık ki! Suçluların sonunun nasıl olduğuna bir bak!",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geriye kalanların üzerine öyle bir yağmur yağdırdık ki! Suçluların sonunun nasıl olduğuna bir bak!",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 86,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:86",
+      "word_position": 20,
+      "target_word_uthmani": "وَٱنظُرُوا۟",
+      "target_word_rasm": "وٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "... Azken, Allah'ın sizi çoğalttığını hatırlayın; bozguncuların sonunun nasıl olduğuna bir bakın. \"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a güvene erenleri yolundan alıkoyup ve o yolun eğriliğini dileyerek tehdit edip her yolda pusu kurup oturmayın. Azken, Allah'ın sizi çoğalttığını hatırlayın; bozguncuların sonunun nasıl olduğuna bir bakın.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 103,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:103",
+      "word_position": 12,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "... Ayetlerimize karşı haksızlık ettiler. Bozguncuların sonunun nasıl olduğuna bir bak.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَظَلَمُوا۟ بِهَا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra elçilerin ardından Musa'yı ayetlerimizle Firavun ve erkanına gönderdik. Ayetlerimize karşı haksızlık ettiler. Bozguncuların sonunun nasıl olduğuna bir bak.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 108,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:108",
+      "word_position": 6,
+      "target_word_uthmani": "لِلنَّٰظِرِينَ",
+      "target_word_rasm": "للنظرين",
+      "target_word_literal_irab": "Gözleriyle seyredip bakanlar (`ٱلنَّٰظِرِينَ / لِلنَّٰظِرِينَ`, I. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Musa, asasını yere atar atmaz apaçık bir yılan (ejderha) oluverdi; elini çıkardı, bakanlar bembeyaz olduğunu gördüler.",
+      "morphology": {
+        "lemma": "na`Ziriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:na`Ziriyn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, asasını yere atar atmaz apaçık bir yılan (ejderha) oluverdi; elini çıkardı, bakanlar bembeyaz olduğunu gördüler.",
+      "contextual_meaning": "Seyredenlerin gözünde hayranlık uyandıran görsel kanıtlar (`تَسُرُّ ٱلنَّٰظِرِينَ` `2:69`, `7:108`, `15:16`, `26:33`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 129,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:129",
+      "word_position": 20,
+      "target_word_uthmani": "فَيَنظُرَ",
+      "target_word_rasm": "فينظر",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbinizin düşmanlarınızı yok etmesi ve yeryüzünde sizi onların yerine geçirmesi umulur. O zaman nasıl davranacağınıza bakar\" dedi.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أُوذِينَا مِن قَبْلِ أَن تَأْتِيَنَا وَمِنۢ بَعْدِ مَا جِئْتَنَا قَالَ عَسَىٰ رَبُّكُمْ أَن يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِى ٱلْأَرْضِ فَيَنظُرَ كَيْفَ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milleti: \"Sen bize gelmeden önce de, geldikten sonra da eziyet çektik\" dediler. Musa da: \"Rabbinizin düşmanlarınızı yok etmesi ve yeryüzünde sizi onların yerine geçirmesi umulur. O zaman nasıl davranacağınıza bakar\" dedi.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 143,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:143",
+      "word_position": 10,
+      "target_word_uthmani": "أَنظُرْ",
+      "target_word_rasm": "أنظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ قَالَ لَن",
+      "context_snippet_turkish_tabula_rasa": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|1S|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: \"Sen Beni göremezsin ama dağa bak, eğer o yerinde kalırsa sen de Beni göreceksin\" buyurdu. Rabbi dağa tecelli edince onu yerlebir etti ve Musa da baygın düştü; ayılınca: \"Yarabbi, münezzehsin, Sana tevbe ettim, ben güvene erenlerin ilkiyim\" dedi.",
+      "contextual_meaning": "Duyusal sınır dersi (`أَنظُرْ إِلَيْكَ` vs `ٱنظُرْ إِلَى ٱلْجَبَلِ` `7:143`): Mûsâ'nın bakma isteğine karşı fiziki dağa bakarak güç sınırını kavraması."
+    },
+    {
+      "surah": 7,
+      "ayah": 143,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:143",
+      "word_position": 16,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ",
+      "context_snippet_turkish_tabula_rasa": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: \"Sen Beni göremezsin ama dağa bak, eğer o yerinde kalırsa sen de Beni göreceksin\" buyurdu. Rabbi dağa tecelli edince onu yerlebir etti ve Musa da baygın düştü; ayılınca: \"Yarabbi, münezzehsin, Sana tevbe ettim, ben güvene erenlerin ilkiyim\" dedi.",
+      "contextual_meaning": "Duyusal sınır dersi (`أَنظُرْ إِلَيْكَ` vs `ٱنظُرْ إِلَى ٱلْجَبَلِ` `7:143`): Mûsâ'nın bakma isteğine karşı fiziki dağa bakarak güç sınırını kavraması."
+    },
+    {
+      "surah": 7,
+      "ayah": 185,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:185",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُوا۟",
+      "target_word_rasm": "ينظروا",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığını, Allah'ın yarattığı her şeyi ve ecellerinin yaklaşmış olması ihtimalini düşünmüyorlar mı? Bundan sonra hangi söze güven duy?",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا خَلَقَ ٱللَّهُ مِن شَىْءٍ وَأَنْ عَسَىٰٓ أَن يَكُونَ قَدِ ٱقْتَرَبَ أَجَلُهُمْ فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığını, Allah'ın yarattığı her şeyi ve ecellerinin yaklaşmış olması ihtimalini düşünmüyorlar mı? Bundan sonra hangi söze güven duy?",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 195,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:195",
+      "word_position": 26,
+      "target_word_uthmani": "تُنظِرُونِ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Bana hiç göz açtırmayıp süre tanımayın (`تُنظِرُونِ`, IV. bab meczûm muzâri `2MP` — son `-î` düşmüş)",
+      "context_snippet_arabic": "ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ",
+      "context_snippet_turkish_tabula_rasa": "Onların yürüyecek ayakları mı var, yoksa tutacak elleri mi var, ya da görecek gözleri mi var, veya işitecek kulakları mı var? De ki: \"Ortaklarınızı çağırın elinizden gelirse bana tuzak kurun, göz açtırmayın. ...",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yunZaru|ROOT:nZr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yürüyecek ayakları mı var, yoksa tutacak elleri mi var, ya da görecek gözleri mi var, veya işitecek kulakları mı var? De ki: \"Ortaklarınızı çağırın elinizden gelirse bana tuzak kurun, göz açtırmayın.\"",
+      "contextual_meaning": "Sahte odaklara karşı meydan okuma (`فَلَا تُنظِرُونِ`): 'Topluca tuzak kurun ve bana göz açtıracak bir an bile mühlet vermeyin!'"
+    },
+    {
+      "surah": 7,
+      "ayah": 198,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:198",
+      "word_position": 8,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا",
+      "context_snippet_turkish_tabula_rasa": "Onları doğru yola çağırırsanız duymazlar. Sana baktıklarını görürsün, oysa görmezler.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları doğru yola çağırırsanız duymazlar. Sana baktıklarını görürsün, oysa görmezler.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 6,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:6",
+      "word_position": 11,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sanki göz göre göre ölüme sürükleniyorlarmış gibi, gerçek ortaya çıktıktan sonra bile seninle tartışıyorlardı.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "يُجَٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَمَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sanki göz göre göre ölüme sürükleniyorlarmış gibi, gerçek ortaya çıktıktan sonra bile seninle tartışıyorlardı.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 127,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:127",
+      "word_position": 5,
+      "target_word_uthmani": "نَّظَرَ",
+      "target_word_rasm": "نظر",
+      "target_word_literal_irab": "Dönüp dikkatle baktı / süzdü (`نَظَرَ / فَنَظَرَ`, I. bab mâzî `3MS`)",
+      "context_snippet_arabic": "مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Bir sure inince, \"Sizi bir kimse görüyor mu?\" diye birbirlerine bakarlar, sonra dönüp giderler. Anlamaz bir güruh olmalarına karşılık Allah onların kalblerini güven bağı döndürmüştür.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir sure inince, \"Sizi bir kimse görüyor mu?\" diye birbirlerine bakarlar, sonra dönüp giderler. Anlamaz bir güruh olmalarına karşılık Allah onların kalblerini güven bağı döndürmüştür.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 14,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:14",
+      "word_position": 8,
+      "target_word_uthmani": "لِنَنظُرَ",
+      "target_word_rasm": "لننظر",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra onların ardından, nasıl davranacağınıza bakmak için sizi yeryüzünde onların yerine geçirdik.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ثُمَّ جَعَلْنَٰكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra onların ardından, nasıl davranacağınıza bakmak için sizi yeryüzünde onların yerine geçirdik.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 20,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:20",
+      "word_position": 12,
+      "target_word_uthmani": "فَٱنتَظِرُوٓا۟",
+      "target_word_rasm": "فٱنتظروا",
+      "target_word_literal_irab": "Gözünüzü dikip sonucu bekleyin / gözetle (`ٱنتَظِرُوٓا۟ / فَٱنتَظِرُوٓا۟ / وَٱنتَظِرْ`, VIII. bab emir)",
+      "context_snippet_arabic": "إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Gaybı bilmek Allah'a mahsustur; bekleyin, doğrusu ben de sizinle birlikte beklemekteyim. \"",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:yantaZiru|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbinden ona (Muhammed'e) bir apaçık gösterge indirilse ne olur!\" derler. Onlara de ki: \"Gaybı bilmek Allah'a mahsustur; bekleyin, doğrusu ben de sizinle birlikte beklemekteyim.\"",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 20,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:20",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْمُنتَظِرِينَ",
+      "target_word_rasm": "ٱلمنتظرين",
+      "target_word_literal_irab": "Sonucu dikkatle gözleyip bekleyenler (`مُنتَظِرُونَ / ٱلْمُنتَظِرِينَ`, VIII. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Gaybı bilmek Allah'a mahsustur; bekleyin, doğrusu ben de sizinle birlikte beklemekteyim. \"",
+      "morphology": {
+        "lemma": "muntaZiruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:muntaZiruwn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ فَقُلْ إِنَّمَا ٱلْغَيْبُ لِلَّهِ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbinden ona (Muhammed'e) bir apaçık gösterge indirilse ne olur!\" derler. Onlara de ki: \"Gaybı bilmek Allah'a mahsustur; bekleyin, doğrusu ben de sizinle birlikte beklemekteyim.\"",
+      "contextual_meaning": "Bekleme yarışının çift kutuplu vurgusu (`مُنتَظِرُونَ` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`): Hak ve gerçeği örtme çizgilerinin sonu beklemesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 39,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:39",
+      "word_position": 15,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱلَّذِينَ مِن قَبْلِهِمْ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan öncekiler de böylece yalanlamışlardı. Zalimlerin sonunun nasıl olduğuna bir bak.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "بَلْ كَذَّبُوا۟ بِمَا لَمْ يُحِيطُوا۟ بِعِلْمِهِۦ وَلَمَّا يَأْتِهِمْ تَأْوِيلُهُۥ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, ilmini kavrayamadıkları ve henüz yorumu da kendilerine bildirilmemiş olan şeyi yalanladılar. Onlardan öncekiler de böylece yalanlamışlardı. Zalimlerin sonunun nasıl olduğuna bir bak.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 43,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:43",
+      "word_position": 3,
+      "target_word_uthmani": "يَنظُرُ",
+      "target_word_rasm": "ينظر",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ أَفَأَنتَ تَهْدِى",
+      "context_snippet_turkish_tabula_rasa": "Aralarında sana bakan vardır. Sen körleri, görmezlerken doğru yola iletebilir misin?",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarında sana bakan vardır. Sen körleri, görmezlerken doğru yola iletebilir misin?",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 71,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:71",
+      "word_position": 33,
+      "target_word_uthmani": "تُنظِرُونِ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Bana hiç göz açtırmayıp süre tanımayın (`تُنظِرُونِ`, IV. bab meczûm muzâri `2MP` — son `-î` düşmüş)",
+      "context_snippet_arabic": "ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+      "context_snippet_turkish_tabula_rasa": "Onlara Nuh'un başından geçenleri anlat: Milletine, \"Ey milletim! Eğer durumum, Allah'ın ayetlerini hatırlatmam size ağır geliyorsa ki ben Allah'a güvenmişimdir ...",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yunZaru|ROOT:nZr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara Nuh'un başından geçenleri anlat: Milletine, \"Ey milletim! Eğer durumum, Allah'ın ayetlerini hatırlatmam size ağır geliyorsa ki ben Allah'a güvenmişimdir siz ve koştuğunuz ortaklar elbirliği edin; yapacağınız iş sonra size bir tasa vermesin. Sonra onu bana uygulayın ve beni ertelemeyin\" demişti.",
+      "contextual_meaning": "Sahte odaklara karşı meydan okuma (`فَلَا تُنظِرُونِ`): 'Topluca tuzak kurun ve bana göz açtıracak bir an bile mühlet vermeyin!'"
+    },
+    {
+      "surah": 10,
+      "ayah": 73,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:73",
+      "word_position": 13,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "... Onları ötekilerin yerine geçirdik, ayetlerimizi yalanlayanları suda boğduk. Uyarılanlardan söz dinlemeyenlerin sonlarının nasıl olduğuna bir bak.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَنَجَّيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَٰهُمْ خَلَٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu yalancı saydılar; ama Biz onu ve gemide beraberinde bulunanları kurtardık. Onları ötekilerin yerine geçirdik, ayetlerimizi yalanlayanları suda boğduk. Uyarılanlardan söz dinlemeyenlerin sonlarının nasıl olduğuna bir bak.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 101,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:101",
+      "word_position": 2,
+      "target_word_uthmani": "ٱنظُرُوا۟",
+      "target_word_rasm": "ٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "\"Göklerde ve yerde neler var, bir bakın\" de. güven duy bir millete ayetler ve uyarmalar fayda vermez.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱنظُرُوا۟ مَاذَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا تُغْنِى ٱلْءَايَٰتُ وَٱلنُّذُرُ عَن قَوْمٍ لَّا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Göklerde ve yerde neler var, bir bakın\" de. güven duy bir millete ayetler ve uyarmalar fayda vermez.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 102,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:102",
+      "word_position": 2,
+      "target_word_uthmani": "يَنتَظِرُونَ",
+      "target_word_rasm": "ينتظرون",
+      "target_word_literal_irab": "Sonucun gelmesini gözleyip bekliyor / bekliyorlar (`يَنتَظِرُ / يَنتَظِرُونَ`, VIII. bab muzâri)",
+      "context_snippet_arabic": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerinden önce geçenlerin başlarına gelen olaylardan başka bir şey mi bekliyorlar? \"Bekleyin, ben de sizinle beraber beklemekteyim\" de.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yantaZiru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerinden önce geçenlerin başlarına gelen olaylardan başka bir şey mi bekliyorlar? \"Bekleyin, ben de sizinle beraber beklemekteyim\" de.",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 102,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:102",
+      "word_position": 11,
+      "target_word_uthmani": "فَٱنتَظِرُوٓا۟",
+      "target_word_rasm": "فٱنتظروا",
+      "target_word_literal_irab": "Gözünüzü dikip sonucu bekleyin / gözetle (`ٱنتَظِرُوٓا۟ / فَٱنتَظِرُوٓا۟ / وَٱنتَظِرْ`, VIII. bab emir)",
+      "context_snippet_arabic": "مِن قَبْلِهِمْ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerinden önce geçenlerin başlarına gelen olaylardan başka bir şey mi bekliyorlar? \"Bekleyin, ben de sizinle beraber beklemekteyim\" de.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:yantaZiru|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerinden önce geçenlerin başlarına gelen olaylardan başka bir şey mi bekliyorlar? \"Bekleyin, ben de sizinle beraber beklemekteyim\" de.",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 102,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:102",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْمُنتَظِرِينَ",
+      "target_word_rasm": "ٱلمنتظرين",
+      "target_word_literal_irab": "Sonucu dikkatle gözleyip bekleyenler (`مُنتَظِرُونَ / ٱلْمُنتَظِرِينَ`, VIII. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerinden önce geçenlerin başlarına gelen olaylardan başka bir şey mi bekliyorlar? \"Bekleyin, ben de sizinle beraber beklemekteyim\" de.",
+      "morphology": {
+        "lemma": "muntaZiruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:muntaZiruwn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَهَلْ يَنتَظِرُونَ إِلَّا مِثْلَ أَيَّامِ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِهِمْ قُلْ فَٱنتَظِرُوٓا۟ إِنِّى مَعَكُم مِّنَ ٱلْمُنتَظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerinden önce geçenlerin başlarına gelen olaylardan başka bir şey mi bekliyorlar? \"Bekleyin, ben de sizinle beraber beklemekteyim\" de.",
+      "contextual_meaning": "Bekleme yarışının çift kutuplu vurgusu (`مُنتَظِرُونَ` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`): Hak ve gerçeği örtme çizgilerinin sonu beklemesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 55,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:55",
+      "word_position": 7,
+      "target_word_uthmani": "تُنظِرُونِ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Bana hiç göz açtırmayıp süre tanımayın (`تُنظِرُونِ`, IV. bab meczûm muzâri `2MP` — son `-î` düşmüş)",
+      "context_snippet_arabic": "جَمِيعًا ثُمَّ لَا تُنظِرُونِ",
+      "context_snippet_turkish_tabula_rasa": "Bir kısım sahte sığınaklarımız seni çarpmıştır, demekten başka birşey demeyiz\" dediler. Hud: \"Doğrusu ben Allah'ı şahit tutuyorum; siz de şahit olun ki ben O'nu...",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yunZaru|ROOT:nZr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "مِن دُونِهِۦ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir kısım sahte sığınaklarımız seni çarpmıştır, demekten başka birşey demeyiz\" dediler. Hud: \"Doğrusu ben Allah'ı şahit tutuyorum; siz de şahit olun ki ben O'nu bırakıp koştuğunuz ortaklardan uzağım. Hepiniz bana tuzak kurun sonra da ertelemeyin. Ben, ancak benim de sizin de Rabbiniz olan Allah'a güvenirim. Hiçbir canlı yoktur ki Allah ona el koymamış bulunsun. Rabbim elbette doğru yoldadır. Eğer yüz çevirirseniz, şüphesiz ben size benimle gönderileni bildirdim. Rabbim sizden başka bir milleti yerinize getirebilir, O'na bir şey de yapamazsınız. Doğrusu Rabbim herşeyi koruyandır\" dedi.",
+      "contextual_meaning": "Sahte odaklara karşı meydan okuma (`فَلَا تُنظِرُونِ`): 'Topluca tuzak kurun ve bana göz açtıracak bir an bile mühlet vermeyin!'"
+    },
+    {
+      "surah": 11,
+      "ayah": 122,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:122",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱنتَظِرُوٓا۟",
+      "target_word_rasm": "وٱنتظروا",
+      "target_word_literal_irab": "Gözünüzü dikip sonucu bekleyin / gözetle (`ٱنتَظِرُوٓا۟ / فَٱنتَظِرُوٓا۟ / وَٱنتَظِرْ`, VIII. bab emir)",
+      "context_snippet_arabic": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "güven duy: \"Durumunuzun gerektirdiğini yapın, doğrusu biz de yapıyoruz; bekleyin, biz de bekliyoruz\" de.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:yantaZiru|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güven duy: \"Durumunuzun gerektirdiğini yapın, doğrusu biz de yapıyoruz; bekleyin, biz de bekliyoruz\" de.",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 122,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:122",
+      "word_position": 3,
+      "target_word_uthmani": "مُنتَظِرُونَ",
+      "target_word_rasm": "منتظرون",
+      "target_word_literal_irab": "Sonucu dikkatle gözleyip bekleyenler (`مُنتَظِرُونَ / ٱلْمُنتَظِرِينَ`, VIII. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "güven duy: \"Durumunuzun gerektirdiğini yapın, doğrusu biz de yapıyoruz; bekleyin, biz de bekliyoruz\" de.",
+      "morphology": {
+        "lemma": "muntaZiruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:muntaZiruwn|ROOT:nZr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güven duy: \"Durumunuzun gerektirdiğini yapın, doğrusu biz de yapıyoruz; bekleyin, biz de bekliyoruz\" de.",
+      "contextual_meaning": "Bekleme yarışının çift kutuplu vurgusu (`مُنتَظِرُونَ` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`): Hak ve gerçeği örtme çizgilerinin sonu beklemesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 109,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:109",
+      "word_position": 16,
+      "target_word_uthmani": "فَيَنظُرُوا۟",
+      "target_word_rasm": "فينظروا",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Senden önce kasabalar halkından şüphesiz, kendilerine vahyettiğimiz bir takım insanlar gönderdik. Yeryüzünde dolaşmıyorlar mı ki, kendilerinden önce geçenlerin ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce kasabalar halkından şüphesiz, kendilerine vahyettiğimiz bir takım insanlar gönderdik. Yeryüzünde dolaşmıyorlar mı ki, kendilerinden önce geçenlerin sonlarının ne olduğunu görsünler? Ahiret yurdu Allah'a karşı gelmekten sakınanlar için hayırlıdır. Akletmez misiniz?",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 8,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:8",
+      "word_position": 9,
+      "target_word_uthmani": "مُّنظَرِينَ",
+      "target_word_rasm": "منظرين",
+      "target_word_literal_irab": "Kendilerine erteleme ve süre tanınanlar (`مُّنظَرِينَ / ٱلْمُنظَرِينَ`, IV. bab ism-i mef'ûl)",
+      "context_snippet_arabic": "وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Biz kozmik görevlileri ancak gerekince indiririz. O takdirde de ceza görecekler asla geri bırakılmazlar.",
+      "morphology": {
+        "lemma": "munZaruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:munZaruwn|ROOT:nZr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "مَا نُنَزِّلُ ٱلْمَلَٰٓئِكَةَ إِلَّا بِٱلْحَقِّ وَمَا كَانُوٓا۟ إِذًا مُّنظَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz kozmik görevlileri ancak gerekince indiririz. O takdirde de ceza görecekler asla geri bırakılmazlar.",
+      "contextual_meaning": "Mühlet sınırının dolması (`مُنظَرِينَ` `7:15`, `15:8,37`, `26:203`, `38:80`, `44:29`): İnsana tanınan vade bittiğinde ek erteleme kalmayışı."
+    },
+    {
+      "surah": 15,
+      "ayah": 16,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:16",
+      "word_position": 7,
+      "target_word_uthmani": "لِلنَّٰظِرِينَ",
+      "target_word_rasm": "للنظرين",
+      "target_word_literal_irab": "Gözleriyle seyredip bakanlar (`ٱلنَّٰظِرِينَ / لِلنَّٰظِرِينَ`, I. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, gökte burçlar meydana getirdik, onları bakanlar için donattık.",
+      "morphology": {
+        "lemma": "na`Ziriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:na`Ziriyn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, gökte burçlar meydana getirdik, onları bakanlar için donattık.",
+      "contextual_meaning": "Seyredenlerin gözünde hayranlık uyandıran görsel kanıtlar (`تَسُرُّ ٱلنَّٰظِرِينَ` `2:69`, `7:108`, `15:16`, `26:33`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 36,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:36",
+      "word_position": 3,
+      "target_word_uthmani": "فَأَنظِرْنِىٓ",
+      "target_word_rasm": "فأنظرنى",
+      "target_word_literal_irab": "Bana süre ve mühlet tanı (`أَنظِرْنِىٓ / فَأَنظِرْنِىٓ`, IV. bab emir `2MS`)",
+      "context_snippet_arabic": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbim! Beni hiç olmazsa, tekrar dirilecekleri güne kadar ertele\" dedi.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:yunZaru|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbim! Beni hiç olmazsa, tekrar dirilecekleri güne kadar ertele\" dedi.",
+      "contextual_meaning": "Kibirli isyancı odağın 'diriliş gününe dek bana süre ver (`أَنظِرْنِىٓ`)' talebi: IV. babın 'mühlet/erteleme verme' anlamı."
+    },
+    {
+      "surah": 15,
+      "ayah": 37,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:37",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمُنظَرِينَ",
+      "target_word_rasm": "ٱلمنظرين",
+      "target_word_literal_irab": "Kendilerine erteleme ve süre tanınanlar (`مُّنظَرِينَ / ٱلْمُنظَرِينَ`, IV. bab ism-i mef'ûl)",
+      "context_snippet_arabic": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Sen, bilinen gün gelene kadar bırakılanlardansın\" dedi.",
+      "morphology": {
+        "lemma": "munZaruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:munZaruwn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Sen, bilinen gün gelene kadar bırakılanlardansın\" dedi.",
+      "contextual_meaning": "Mühlet sınırının dolması (`مُنظَرِينَ` `7:15`, `15:8,37`, `26:203`, `38:80`, `44:29`): İnsana tanınan vade bittiğinde ek erteleme kalmayışı."
+    },
+    {
+      "surah": 16,
+      "ayah": 33,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:33",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "Onlar kendilerine yalnız kozmik görevlilerin veya senin Rabbinin buyruğunun gelmesini mi bekliyorlar? Onlardan öncekiler de böyle yapmışlardı. Allah onlara zulm...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ أَمْرُ رَبِّكَ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendilerine yalnız kozmik görevlilerin veya senin Rabbinin buyruğunun gelmesini mi bekliyorlar? Onlardan öncekiler de böyle yapmışlardı. Allah onlara zulmetmemişti, ama onlar kendilerine yazık ediyorlardı.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 16,
+      "ayah": 36,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:36",
+      "word_position": 24,
+      "target_word_uthmani": "فَٱنظُرُوا۟",
+      "target_word_rasm": "فٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, her ümmete: \"Allah'a kulluk edin, azdırıcılardan kaçının\" diyen elçi göndermişizdir. Allah içlerinden kimini doğru yola eriştirdi, kimi de sapıklı...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّٰغُوتَ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَٰلَةُ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, her ümmete: \"Allah'a kulluk edin, azdırıcılardan kaçının\" diyen elçi göndermişizdir. Allah içlerinden kimini doğru yola eriştirdi, kimi de sapıklığı haketti. Yeryüzünde gezin; elçileri yalanlayanların sonlarının nasıl olduğunugörün.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 85,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:85",
+      "word_position": 11,
+      "target_word_uthmani": "يُنظَرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Kendilerine süre ve ek mühlet tanınır (`يُنظَرُونَ`, IV. bab meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "عَنْهُمْ وَلَا هُمْ يُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Zulmedenler, azap görürlerken azabları hafifletilmez de geciktirilmez de.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yunZaru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zulmedenler, azap görürlerken azabları hafifletilmez de geciktirilmez de.",
+      "contextual_meaning": "Yapılan hataların sonucu geldiğinde hiç kimseye ek erteleme ve mühlet tanınmayacağı yasası (`لَا يُنظَرُونَ` `2:162`, `3:88`, `6:8`, `16:85`, `21:40`, `32:29`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 21,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:21",
+      "word_position": 1,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onları birbirlerinden nasıl üstün kıldığımıza bir bak! Doğrusu ahirette daha büyük dereceler ve daha büyük üstünlükler vardır.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ وَلَلْءَاخِرَةُ أَكْبَرُ دَرَجَٰتٍ وَأَكْبَرُ تَفْضِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları birbirlerinden nasıl üstün kıldığımıza bir bak! Doğrusu ahirette daha büyük dereceler ve daha büyük üstünlükler vardır.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 48,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:48",
+      "word_position": 1,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ",
+      "context_snippet_turkish_tabula_rasa": "Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bir yol da bulamamaktadırlar.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَالَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bir yol da bulamamaktadırlar.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 27,
+      "target_word_uthmani": "فَلْيَنظُرْ",
+      "target_word_rasm": "فلينظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerine sorsunlar diye onları uyandırdık. İçlerinden biri: \"Ne kadar kaldınız?\" dedi. \"Bir gün veya daha az bir müddet kaldık\" dediler. \"Ne kadar kaldığını...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerine sorsunlar diye onları uyandırdık. İçlerinden biri: \"Ne kadar kaldınız?\" dedi. \"Bir gün veya daha az bir müddet kaldık\" dediler. \"Ne kadar kaldığınızı Rabbiniz daha iyi bilir. Paranızla birinizi şehre gönderin, sakın sizi kimseye duyurmasın\" dediler.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 97,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:97",
+      "word_position": 16,
+      "target_word_uthmani": "وَٱنظُرْ",
+      "target_word_rasm": "وٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "مَوْعِدًا لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى",
+      "context_snippet_turkish_tabula_rasa": "... Durup üzerinde titrediğin sığınak merciine bak, onu yakacağız, sonra denize dökeceğiz\" dedi.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Defol! Doğrusu artık hayatta, \"Bana dokunmayın!\" demenden başka yapacağın yoktur. Senin için asla kaçamayacağın bir ceza daha vardır. Durup üzerinde titrediğin sığınak merciine bak, onu yakacağız, sonra denize dökeceğiz\" dedi.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 40,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:40",
+      "word_position": 10,
+      "target_word_uthmani": "يُنظَرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Kendilerine süre ve ek mühlet tanınır (`يُنظَرُونَ`, IV. bab meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Belki aniden gelecek de onları şaşırtacaktır. Artık onu geri çeviremezler; kendileri de ertelenmez.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yunZaru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Belki aniden gelecek de onları şaşırtacaktır. Artık onu geri çeviremezler; kendileri de ertelenmez.",
+      "contextual_meaning": "Yapılan hataların sonucu geldiğinde hiç kimseye ek erteleme ve mühlet tanınmayacağı yasası (`لَا يُنظَرُونَ` `2:162`, `3:88`, `6:8`, `16:85`, `21:40`, `32:29`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 15,
+      "surah_name": "Hac",
+      "ayah_ref": "22:15",
+      "word_position": 17,
+      "target_word_uthmani": "فَلْيَنظُرْ",
+      "target_word_rasm": "فلينظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... bir düşünsün bakalım, bu hilesi kendisini öfkelendiren şeye engel olabilir mi?",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın elçi'e dünyada ve ahirette yardım etmeyeceğini sanan kimse, yukarı bağladığı bir ipe kendini asıp, boğsun; bir düşünsün bakalım, bu hilesi kendisini öfkelendiren şeye engel olabilir mi?",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 9,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:9",
+      "word_position": 1,
+      "target_word_uthmani": "ٱنظُرْ",
+      "target_word_rasm": "ٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ",
+      "context_snippet_turkish_tabula_rasa": "Sana nasıl misaller getirdiklerine bir bak! Onlar sapmışlardır, yol bulamazlar.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ ضَرَبُوا۟ لَكَ ٱلْأَمْثَٰلَ فَضَلُّوا۟ فَلَا يَسْتَطِيعُونَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana nasıl misaller getirdiklerine bir bak! Onlar sapmışlardır, yol bulamazlar.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 33,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:33",
+      "word_position": 6,
+      "target_word_uthmani": "لِلنَّٰظِرِينَ",
+      "target_word_rasm": "للنظرين",
+      "target_word_literal_irab": "Gözleriyle seyredip bakanlar (`ٱلنَّٰظِرِينَ / لِلنَّٰظِرِينَ`, I. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Elini çıkardı, bakanlara bembeyaz göründü.",
+      "morphology": {
+        "lemma": "na`Ziriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:na`Ziriyn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elini çıkardı, bakanlara bembeyaz göründü.",
+      "contextual_meaning": "Seyredenlerin gözünde hayranlık uyandıran görsel kanıtlar (`تَسُرُّ ٱلنَّٰظِرِينَ` `2:69`, `7:108`, `15:16`, `26:33`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 203,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:203",
+      "word_position": 4,
+      "target_word_uthmani": "مُنظَرُونَ",
+      "target_word_rasm": "منظرون",
+      "target_word_literal_irab": "Süre ve mühlet verilip ertelenenler (`مُنظَرُونَ`, IV. bab ism-i mef'ûl merfû)",
+      "context_snippet_arabic": "فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "O zaman \"Erteye bırakılmaz mıyız?\" derler.",
+      "morphology": {
+        "lemma": "munZaruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:munZaruwn|ROOT:nZr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zaman \"Erteye bırakılmaz mıyız?\" derler.",
+      "contextual_meaning": "Mühlet sınırının dolması (`مُنظَرِينَ` `7:15`, `15:8,37`, `26:203`, `38:80`, `44:29`): İnsana tanınan vade bittiğinde ek erteleme kalmayışı."
+    },
+    {
+      "surah": 27,
+      "ayah": 14,
+      "surah_name": "Neml",
+      "ayah_ref": "27:14",
+      "word_position": 7,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Gönülleri kesin olarak kabul ettiği halde, haksızlık ve büyüklenmelerinden ötürü onları bile bile gerçeğin üzerini örttüler. Bozguncuların sonunun nasıl olduğuna bir bak!",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönülleri kesin olarak kabul ettiği halde, haksızlık ve büyüklenmelerinden ötürü onları bile bile gerçeğin üzerini örttüler. Bozguncuların sonunun nasıl olduğuna bir bak!",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 27,
+      "surah_name": "Neml",
+      "ayah_ref": "27:27",
+      "word_position": 2,
+      "target_word_uthmani": "سَنَنظُرُ",
+      "target_word_rasm": "سننظر",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman şöyle söyledi: \"Doğru mu söylüyorsun, yoksa yalancılardan mısın, bakacağız.\"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ سَنَنظُرُ أَصَدَقْتَ أَمْ كُنتَ مِنَ ٱلْكَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman şöyle söyledi: \"Doğru mu söylüyorsun, yoksa yalancılardan mısın, bakacağız.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 28,
+      "surah_name": "Neml",
+      "ayah_ref": "27:28",
+      "word_position": 9,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ثُمَّ تَوَلَّ عَنْهُمْ فَٱنظُرْ مَاذَا يَرْجِعُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Şu yazımı götür, onlara at, sonra bir yana çekil, varacakları sonuca bak.\"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱذْهَب بِّكِتَٰبِى هَٰذَا فَأَلْقِهْ إِلَيْهِمْ ثُمَّ تَوَلَّ عَنْهُمْ فَٱنظُرْ مَاذَا يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şu yazımı götür, onlara at, sonra bir yana çekil, varacakları sonuca bak.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 33,
+      "surah_name": "Neml",
+      "ayah_ref": "27:33",
+      "word_position": 10,
+      "target_word_uthmani": "فَٱنظُرِى",
+      "target_word_rasm": "فٱنظرى",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Biz güçlü kimseler ve zorlu savaş adamlarıyız, emir senindir, sen emretmene bak.\"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2FS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا تَأْمُرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Biz güçlü kimseler ve zorlu savaş adamlarıyız, emir senindir, sen emretmene bak.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 35,
+      "surah_name": "Neml",
+      "ayah_ref": "27:35",
+      "word_position": 5,
+      "target_word_uthmani": "فَنَاظِرَةٌۢ",
+      "target_word_rasm": "فناظرة",
+      "target_word_literal_irab": "Elçilerin neyle döneceğini gözleyip bekleyen (`فَنَاظِرَةٌۢ`, dişil ism-i fâil merfû)",
+      "context_snippet_arabic": "مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Ben onlara bir hediye göndereyim de, elçilerin ne ile döneceklerine bakayım\" dedi.",
+      "morphology": {
+        "lemma": "naAZirap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:naAZirap|ROOT:nZr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Melike: \"Doğrusu hükümdarlar bir şehre girdikleri zaman orasını bozarlar, onurlu kimselerini aşağılık yaparlar. İşte böyle davranırlar. Ben onlara bir hediye göndereyim de, elçilerin ne ile döneceklerine bakayım\" dedi.",
+      "contextual_meaning": "Diplomatik nabız yoklaması (`فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ` `27:35`): Hediyeye verilecek cevabı gözleyip bekleme stratejisi."
+    },
+    {
+      "surah": 27,
+      "ayah": 41,
+      "surah_name": "Neml",
+      "ayah_ref": "27:41",
+      "word_position": 5,
+      "target_word_uthmani": "نَنظُرْ",
+      "target_word_rasm": "ننظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman \"Onun tahtını tanınmaz hale getirin, bakalım tanıyabilecek mi yoksa tanıyamayacak mı?\" (yola gelecek mi, yoksa yola gelmeyenlerden mi olacak?) dedi.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|1P|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman \"Onun tahtını tanınmaz hale getirin, bakalım tanıyabilecek mi yoksa tanıyamayacak mı?\" (yola gelecek mi, yoksa yola gelmeyenlerden mi olacak?) dedi.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 51,
+      "surah_name": "Neml",
+      "ayah_ref": "27:51",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Hilelerinin sonunun nasıl olduğuna bir bak! Biz onları ve milletlerini, hepsini, yerle bir ettik.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَٰهُمْ وَقَوْمَهُمْ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hilelerinin sonunun nasıl olduğuna bir bak! Biz onları ve milletlerini, hepsini, yerle bir ettik.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 69,
+      "surah_name": "Neml",
+      "ayah_ref": "27:69",
+      "word_position": 5,
+      "target_word_uthmani": "فَٱنظُرُوا۟",
+      "target_word_rasm": "فٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Yeryüzünde gezin, suçluların sonunun nasıl olduğuna bir bakın.\"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Yeryüzünde gezin, suçluların sonunun nasıl olduğuna bir bakın.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 40,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:40",
+      "word_position": 6,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Biz de, onu ve askerlerini yakalayıp suya attık. Zalimlerin sonunun nasıl olduğuna bir bak.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de, onu ve askerlerini yakalayıp suya attık. Zalimlerin sonunun nasıl olduğuna bir bak.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 20,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:20",
+      "word_position": 5,
+      "target_word_uthmani": "فَٱنظُرُوا۟",
+      "target_word_rasm": "فٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Yeryüzünde dolaşın; Allah'ın yaratmaya nasıl başladığını bir görün. İşte Allah aynı şekilde ahiret yaratmasını da yapacaktır. Doğrusu Allah her şeye Kad...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Yeryüzünde dolaşın; Allah'ın yaratmaya nasıl başladığını bir görün. İşte Allah aynı şekilde ahiret yaratmasını da yapacaktır. Doğrusu Allah her şeye Kadir'dir. Dilediğine azabeder, dilediğine merhamet eder. O'na çevrileceksiniz.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 9,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:9",
+      "word_position": 5,
+      "target_word_uthmani": "فَيَنظُرُوا۟",
+      "target_word_rasm": "فينظروا",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde dolaşıp, kendilerinden önce geçmiş kimselerin sonlarının nasıl olduğuna bakmazlar mı? Ki onlar kendilerinden daha kuvvetli idiler, yeryüzünü kazıp alt üst ederek onlardan çok imar etmiş kimseydiler ve onlara belgelerle elçiler gelmişti. Böylece Allah onlara zulmetmiyor, onlar kendilerine zulmediyorlardı.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde dolaşıp, kendilerinden önce geçmiş kimselerin sonlarının nasıl olduğuna bakmazlar mı? Ki onlar kendilerinden daha kuvvetli idiler, yeryüzünü kazıp alt üst ederek onlardan çok imar etmiş kimseydiler ve onlara belgelerle elçiler gelmişti. Böylece Allah onlara zulmetmiyor, onlar kendilerine zulmediyorlardı.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 42,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:42",
+      "word_position": 5,
+      "target_word_uthmani": "فَٱنظُرُوا۟",
+      "target_word_rasm": "فٱنظروا",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Yeryüzünde dolaşın da daha öncekilerden çoğu ortak koşan (otoriteyi bölüşüp ortak koşan) olanların sonunun nasıl olduğuna bir bakın.\"",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلُ كَانَ أَكْثَرُهُم مُّشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Yeryüzünde dolaşın da daha öncekilerden çoğu ortak koşan (otoriteyi bölüşüp ortak koşan) olanların sonunun nasıl olduğuna bir bakın.\"",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 50,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:50",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rahmetinin belirtilerine bir bak, yeryüzünü ölümünden sonra nasıl diriltiyor? Şüphesiz ölüleri O diriltir. O her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rahmetinin belirtilerine bir bak, yeryüzünü ölümünden sonra nasıl diriltiyor? Şüphesiz ölüleri O diriltir. O her şeye Kadir'dir.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 29,
+      "surah_name": "Secde",
+      "ayah_ref": "32:29",
+      "word_position": 11,
+      "target_word_uthmani": "يُنظَرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Kendilerine süre ve ek mühlet tanınır (`يُنظَرُونَ`, IV. bab meçhul muzâri `3MP`)",
+      "context_snippet_arabic": "إِيمَٰنُهُمْ وَلَا هُمْ يُنظَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Hükmün verileceği gün gerçeğin üzerini örtenlere ne güven duy fayda verir ve ne de ertelenirler.\"",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(IV)|LEM:yunZaru|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَٰنُهُمْ وَلَا هُمْ يُنظَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Hükmün verileceği gün gerçeğin üzerini örtenlere ne güven duy fayda verir ve ne de ertelenirler.\"",
+      "contextual_meaning": "Yapılan hataların sonucu geldiğinde hiç kimseye ek erteleme ve mühlet tanınmayacağı yasası (`لَا يُنظَرُونَ` `2:162`, `3:88`, `6:8`, `16:85`, `21:40`, `32:29`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 30,
+      "surah_name": "Secde",
+      "ayah_ref": "32:30",
+      "word_position": 3,
+      "target_word_uthmani": "وَٱنتَظِرْ",
+      "target_word_rasm": "وٱنتظر",
+      "target_word_literal_irab": "Gözünüzü dikip sonucu bekleyin / gözetle (`ٱنتَظِرُوٓا۟ / فَٱنتَظِرُوٓا۟ / وَٱنتَظِرْ`, VIII. bab emir)",
+      "context_snippet_arabic": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onları bırak, bekle; zaten onlar da senin akıbetini beklemektedirler.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:yantaZiru|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları bırak, bekle; zaten onlar da senin akıbetini beklemektedirler.",
+      "contextual_meaning": "Uyarıya rağmen son ana kadar sonuç bekleyenlere verilen karşılık (`فَٱنتَظِرُوٓا۟` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`)."
+    },
+    {
+      "surah": 32,
+      "ayah": 30,
+      "surah_name": "Secde",
+      "ayah_ref": "32:30",
+      "word_position": 5,
+      "target_word_uthmani": "مُّنتَظِرُونَ",
+      "target_word_rasm": "منتظرون",
+      "target_word_literal_irab": "Sonucu dikkatle gözleyip bekleyenler (`مُنتَظِرُونَ / ٱلْمُنتَظِرِينَ`, VIII. bab ism-i fâil çoğul)",
+      "context_snippet_arabic": "عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onları bırak, bekle; zaten onlar da senin akıbetini beklemektedirler.",
+      "morphology": {
+        "lemma": "muntaZiruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:muntaZiruwn|ROOT:nZr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَأَعْرِضْ عَنْهُمْ وَٱنتَظِرْ إِنَّهُم مُّنتَظِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları bırak, bekle; zaten onlar da senin akıbetini beklemektedirler.",
+      "contextual_meaning": "Bekleme yarışının çift kutuplu vurgusu (`مُنتَظِرُونَ` `6:158`, `7:71`, `10:20,102`, `11:122`, `32:30`): Hak ve gerçeği örtme çizgilerinin sonu beklemesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 19,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:19",
+      "word_position": 7,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "أَشِحَّةً عَلَيْكُمْ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. Bunlar güven duy, Allah, bu sebeple işlerini boşa çıkarmıştır; bu, Allah için kolaydır.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 23,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:23",
+      "word_position": 15,
+      "target_word_uthmani": "يَنتَظِرُ",
+      "target_word_rasm": "ينتظر",
+      "target_word_literal_irab": "Sonucun gelmesini gözleyip bekliyor / bekliyorlar (`يَنتَظِرُ / يَنتَظِرُونَ`, VIII. bab muzâri)",
+      "context_snippet_arabic": "نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ وَمَا بَدَّلُوا۟ تَبْدِيلًا",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, Allah'a verdiği ahdi yerine getiren adamlar vardır. Kimi, bu uğurda canını vermiş, kimi de beklemektedir. Ahdlerini hiç değiştirmemişlerdir.",
+      "morphology": {
+        "lemma": "yantaZiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yantaZiru|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ وَمَا بَدَّلُوا۟ تَبْدِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, Allah'a verdiği ahdi yerine getiren adamlar vardır. Kimi, bu uğurda canını vermiş, kimi de beklemektedir. Ahdlerini hiç değiştirmemişlerdir.",
+      "contextual_meaning": "Verdiği söze sadakatle nöbet sırasını bekleyenler (`وَمِنْهُم مَّن يَنتَظِرُ` `33:23`): Kararlı sebat bekleyişi."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 15,
+      "target_word_uthmani": "نَٰظِرِينَ",
+      "target_word_rasm": "نظرين",
+      "target_word_literal_irab": "Yemeğin pişmesini bekleyip gözleyenler olmaksızın (`نَٰظِرِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için...",
+      "morphology": {
+        "lemma": "na`Ziriyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:na`Ziriyn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için de girip oturmayın. Bu haliniz elçi'i üzüyor, o da size bir şey söylemeye çekiniyordu. Allah gerçeği söylemekten çekinmez. elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. Bundan sonra ne Allah'ın elçi'ini üzmeniz ve ne de O'nuneşlerini nikahlamanız asla caiz değildir. Doğrusu bu, Allah katında büyük şeydir.",
+      "contextual_meaning": "Sosyal görgü hukuku (`غَيْرَ نَٰظِرِينَ إِنَىٰهُ` `33:53`): Ziyafet öncesinde vaktini beklemeden eve doluşmama nezaketi."
+    },
+    {
+      "surah": 35,
+      "ayah": 43,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:43",
+      "word_position": 13,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi;...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 44,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:44",
+      "word_position": 5,
+      "target_word_uthmani": "فَيَنظُرُوا۟",
+      "target_word_rasm": "فينظروا",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde gezip, kendilerinden öncekilerin sonlarının nasıl olduğunu görmezler mi? Onlar, kendilerinden daha kuvvetliydiler. Göklerde ve yerde Allah'ı aciz bır...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ إِنَّهُۥ كَانَ عَلِيمًا قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde gezip, kendilerinden öncekilerin sonlarının nasıl olduğunu görmezler mi? Onlar, kendilerinden daha kuvvetliydiler. Göklerde ve yerde Allah'ı aciz bırakabilecek yoktur. Şüphesiz O bilendir, Kadir olandır.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 49,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:49",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً",
+      "context_snippet_turkish_tabula_rasa": "Çekişip dururlarken kendilerini yakalayacak bir tek çığlığı beklerler.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "مَا يَنظُرُونَ إِلَّا صَيْحَةً وَٰحِدَةً تَأْخُذُهُمْ وَهُمْ يَخِصِّمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çekişip dururlarken kendilerini yakalayacak bir tek çığlığı beklerler.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 19,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:19",
+      "word_position": 7,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Tek bir çığlık. Hemen bakıp kalırlar.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tek bir çığlık. Hemen bakıp kalırlar.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 73,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:73",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Uyarıldığı halde yola gelmeyenlerin sonunun nasıl olduğuna bir bak!",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Uyarıldığı halde yola gelmeyenlerin sonunun nasıl olduğuna bir bak!",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 88,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:88",
+      "word_position": 1,
+      "target_word_uthmani": "فَنَظَرَ",
+      "target_word_rasm": "فنظر",
+      "target_word_literal_irab": "Dönüp dikkatle baktı / süzdü (`نَظَرَ / فَنَظَرَ`, I. bab mâzî `3MS`)",
+      "context_snippet_arabic": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim yıldızlara bir göz attı ve \"Ben rahatsızım\" dedi.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim yıldızlara bir göz attı ve \"Ben rahatsızım\" dedi.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 88,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:88",
+      "word_position": 2,
+      "target_word_uthmani": "نَظْرَةً",
+      "target_word_rasm": "نظرة",
+      "target_word_literal_irab": "Tek bir defa göz atış / bir bakış (`نَظْرَةً`, `فَعْلَة` merre ismi mansûb)",
+      "context_snippet_arabic": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim yıldızlara bir göz attı ve \"Ben rahatsızım\" dedi.",
+      "morphology": {
+        "lemma": "naZorap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:naZorap|ROOT:nZr|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim yıldızlara bir göz attı ve \"Ben rahatsızım\" dedi.",
+      "contextual_meaning": "İbrahim'in gökyüzündeki yıldızlara tek bir bakış (`نَظْرَةً فِى ٱلنُّجُومِ` `37:88`): Tekil eylem ismi (`فَعْلَة`) olarak gözlem."
+    },
+    {
+      "surah": 37,
+      "ayah": 102,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:102",
+      "word_position": 13,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Çocuk kendisinin yanısıra yürümeye başlayınca: \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuk kendisinin yanısıra yürümeye başlayınca: \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 15,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:15",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُ",
+      "target_word_rasm": "ينظر",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيْحَةً",
+      "context_snippet_turkish_tabula_rasa": "Bunlar da ancak, bir an gecikmesi olmayan tek bir çığlık beklemektedirler.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيْحَةً وَٰحِدَةً مَّا لَهَا مِن فَوَاقٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar da ancak, bir an gecikmesi olmayan tek bir çığlık beklemektedirler.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 38,
+      "ayah": 79,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:79",
+      "word_position": 3,
+      "target_word_uthmani": "فَأَنظِرْنِىٓ",
+      "target_word_rasm": "فأنظرنى",
+      "target_word_literal_irab": "Bana süre ve mühlet tanı (`أَنظِرْنِىٓ / فَأَنظِرْنِىٓ`, IV. bab emir `2MS`)",
+      "context_snippet_arabic": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbim! Dirilecekleri güne kadar beni (canımı almayı) ertele\" dedi.",
+      "morphology": {
+        "lemma": "yunZaru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(IV)|LEM:yunZaru|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbim! Dirilecekleri güne kadar beni (canımı almayı) ertele\" dedi.",
+      "contextual_meaning": "Kibirli isyancı odağın 'diriliş gününe dek bana süre ver (`أَنظِرْنِىٓ`)' talebi: IV. babın 'mühlet/erteleme verme' anlamı."
+    },
+    {
+      "surah": 38,
+      "ayah": 80,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:80",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمُنظَرِينَ",
+      "target_word_rasm": "ٱلمنظرين",
+      "target_word_literal_irab": "Kendilerine erteleme ve süre tanınanlar (`مُّنظَرِينَ / ٱلْمُنظَرِينَ`, IV. bab ism-i mef'ûl)",
+      "context_snippet_arabic": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Sen bilinen güne kadar erteye bırakılanlardansın\" dedi.",
+      "morphology": {
+        "lemma": "munZaruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:munZaruwn|ROOT:nZr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Sen bilinen güne kadar erteye bırakılanlardansın\" dedi.",
+      "contextual_meaning": "Mühlet sınırının dolması (`مُنظَرِينَ` `7:15`, `15:8,37`, `26:203`, `38:80`, `44:29`): İnsana tanınan vade bittiğinde ek erteleme kalmayışı."
+    },
+    {
+      "surah": 39,
+      "ayah": 68,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:68",
+      "word_position": 22,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَإِذَا هُمْ قِيَامٌ يَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sura üflenince, Allah'ın dilediği bir yana, göklerde olanlar, yerde olanlar hepsi düşüp ölür. Sonra Sura bir daha üflenince hemen ayağa kalkıp bakışır dururlar.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "وَنُفِخَ فِى ٱلصُّورِ فَصَعِقَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ثُمَّ نُفِخَ فِيهِ أُخْرَىٰ فَإِذَا هُمْ قِيَامٌ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sura üflenince, Allah'ın dilediği bir yana, göklerde olanlar, yerde olanlar hepsi düşüp ölür. Sonra Sura bir daha üflenince hemen ayağa kalkıp bakışır dururlar.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 21,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:21",
+      "word_position": 5,
+      "target_word_uthmani": "فَيَنظُرُوا۟",
+      "target_word_rasm": "فينظروا",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde dolaşıp, kendilerinden önce ve kendilerinden daha kuvvetli olan ve yeryüzünde daha çok eser bırakan kimselerin sonuçlarının nasıl olduğunu görmezler ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ كَانُوا۟ مِن قَبْلِهِمْ كَانُوا۟ هُمْ أَشَدَّ مِنْهُمْ قُوَّةً وَءَاثَارًا فِى ٱلْأَرْضِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ وَمَا كَانَ لَهُم مِّنَ ٱللَّهِ مِن وَاقٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde dolaşıp, kendilerinden önce ve kendilerinden daha kuvvetli olan ve yeryüzünde daha çok eser bırakan kimselerin sonuçlarının nasıl olduğunu görmezler mi? Allah onları suçlarıyla yakalamıştır. Allah'a karşı onları koruyan yoktur.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 82,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:82",
+      "word_position": 5,
+      "target_word_uthmani": "فَيَنظُرُوا۟",
+      "target_word_rasm": "فينظروا",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde dolaşıp, kendilerinden daha çok, daha kuvvetli, yeryüzünde bıraktıkları eserler daha sağlam olan öncekilerin sonuçlarının nasıl olduğunu görmezler mi...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ كَانُوٓا۟ أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً وَءَاثَارًا فِى ٱلْأَرْضِ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde dolaşıp, kendilerinden daha çok, daha kuvvetli, yeryüzünde bıraktıkları eserler daha sağlam olan öncekilerin sonuçlarının nasıl olduğunu görmezler mi? Kazandıkları onlara bir fayda vermemiştir.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 45,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:45",
+      "word_position": 7,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ",
+      "context_snippet_turkish_tabula_rasa": "Aşağılıktan başları öne eğilmiş, göz ucuyla gizli gizli etrafa bakarken, ateşe sunulduklarını görürsün. güvene erenler: ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "وَتَرَىٰهُمْ يُعْرَضُونَ عَلَيْهَا خَٰشِعِينَ مِنَ ٱلذُّلِّ يَنظُرُونَ مِن طَرْفٍ خَفِىٍّ وَقَالَ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱلْخَٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَٰمَةِ أَلَآ إِنَّ ٱلظَّٰلِمِينَ فِى عَذَابٍ مُّقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Aşağılıktan başları öne eğilmiş, göz ucuyla gizli gizli etrafa bakarken, ateşe sunulduklarını görürsün. güvene erenler: \"Hüsranda olanlar, kıyamet günü kendilerini de, ailelerini de hüsranda bırakanlardır\" derler. İyi bilin ki, zalimler sürekli bir azap içindedirler.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 25,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:25",
+      "word_position": 3,
+      "target_word_uthmani": "فَٱنظُرْ",
+      "target_word_rasm": "فٱنظر",
+      "target_word_literal_irab": "Dikkatle bak, incele ve ibretle değerlendir (`ٱنظُرْ / فَٱنظُرُوا۟ / فَٱنظُرِى`, I. bab emir)",
+      "context_snippet_arabic": "فَٱنتَقَمْنَا مِنْهُمْ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine Biz de onlardan öç aldık. Yalancıların sonunun nasıl olduğuna bir bak!",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱنتَقَمْنَا مِنْهُمْ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine Biz de onlardan öç aldık. Yalancıların sonunun nasıl olduğuna bir bak!",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 66,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:66",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "هَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن",
+      "context_snippet_turkish_tabula_rasa": "Onlar farkında değillerken kıyamet gününün kendilerine ansızın gelmesini mi bekliyorlar?",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar farkında değillerken kıyamet gününün kendilerine ansızın gelmesini mi bekliyorlar?",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 44,
+      "ayah": 29,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:29",
+      "word_position": 8,
+      "target_word_uthmani": "مُنظَرِينَ",
+      "target_word_rasm": "منظرين",
+      "target_word_literal_irab": "Kendilerine erteleme ve süre tanınanlar (`مُّنظَرِينَ / ٱلْمُنظَرِينَ`, IV. bab ism-i mef'ûl)",
+      "context_snippet_arabic": "وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Gök ve yer, onlar için gözyaşı dökmedi, onlar erteye bırakılmamışlardı.",
+      "morphology": {
+        "lemma": "munZaruwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(IV)|LEM:munZaruwn|ROOT:nZr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gök ve yer, onlar için gözyaşı dökmedi, onlar erteye bırakılmamışlardı.",
+      "contextual_meaning": "Mühlet sınırının dolması (`مُنظَرِينَ` `7:15`, `15:8,37`, `26:203`, `38:80`, `44:29`): İnsana tanınan vade bittiğinde ek erteleme kalmayışı."
+    },
+    {
+      "surah": 47,
+      "ayah": 10,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:10",
+      "word_position": 5,
+      "target_word_uthmani": "فَيَنظُرُوا۟",
+      "target_word_rasm": "فينظروا",
+      "target_word_literal_irab": "Bakıp ibret alsınlar / incelesinler diye (`فَيَنظُرُوا۟ / لِيَنظُرَ / لِنَنظُرَ`, I. bab mansûb muzâri)",
+      "context_snippet_arabic": "يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde dolaşıp kendilerinden öncekilerin sonlarının nasıl olduğuna bakmazlar mı? Allah onları yere geçirmiştir; gerçeğin üzerini örtenlere da onların başına gelenin benzerleri vardır.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ دَمَّرَ ٱللَّهُ عَلَيْهِمْ وَلِلْكَٰفِرِينَ أَمْثَٰلُهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde dolaşıp kendilerinden öncekilerin sonlarının nasıl olduğuna bakmazlar mı? Allah onları yere geçirmiştir; gerçeğin üzerini örtenlere da onların başına gelenin benzerleri vardır.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 18,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:18",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن",
+      "context_snippet_turkish_tabula_rasa": "Onlar kıyamet gününün kendilerine ansızın gelmesini mi bekliyorlar. Şüphesiz onun alametleri belirmiştir. Kendilerine gelip çatınca ibret almaları neye yarar?",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "فَهَلْ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً فَقَدْ جَآءَ أَشْرَاطُهَا فَأَنَّىٰ لَهُمْ إِذَا جَآءَتْهُمْ ذِكْرَىٰهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kıyamet gününün kendilerine ansızın gelmesini mi bekliyorlar. Şüphesiz onun alametleri belirmiştir. Kendilerine gelip çatınca ibret almaları neye yarar?",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 47,
+      "ayah": 20,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:20",
+      "word_position": 19,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri bağlayıcı ahitte doğruluk gösterselerdi, onların iyiliğine olurdu.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 20,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:20",
+      "word_position": 21,
+      "target_word_uthmani": "نَظَرَ",
+      "target_word_rasm": "نظر",
+      "target_word_literal_irab": "Korku ve dehşet dolu bakış (`نَظَرَ`, `فَعَل` masdar-isim mansûb)",
+      "context_snippet_arabic": "مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. ...",
+      "morphology": {
+        "lemma": "naZar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:naZar|ROOT:nZr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler: \"Keşke bir süre indirilse de cihada çıksak\" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri bağlayıcı ahitte doğruluk gösterselerdi, onların iyiliğine olurdu.",
+      "contextual_meaning": "Ölüm baygınlığı geçirmiş birinin donuk bakışı (`نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ` `47:20`): İçten kaçınanların göz hareketine yansıyan korku psikolojisi."
+    },
+    {
+      "surah": 50,
+      "ayah": 6,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:6",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُوٓا۟",
+      "target_word_rasm": "ينظروا",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, üstlerindeki göğü nasıl yapmışız, süslemişizdir bir bakmazlar mı? Onda hiçbir çatlak da yoktur.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, üstlerindeki göğü nasıl yapmışız, süslemişizdir bir bakmazlar mı? Onda hiçbir çatlak da yoktur.",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 51,
+      "ayah": 44,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:44",
+      "word_position": 8,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar Rablerinin buyruğundan çıkmışlardı; bunun üzerine kendilerini gözleri göre göre yıldırım çarptı.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ وَهُمْ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Rablerinin buyruğundan çıkmışlardı; bunun üzerine kendilerini gözleri göre göre yıldırım çarptı.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 56,
+      "ayah": 84,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:84",
+      "word_position": 3,
+      "target_word_uthmani": "تَنظُرُونَ",
+      "target_word_rasm": "تنظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 13,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:13",
+      "word_position": 7,
+      "target_word_uthmani": "ٱنظُرُونَا",
+      "target_word_rasm": "ٱنظرونا",
+      "target_word_literal_irab": "Gözlerini dikip gelmesini bekliyor / bekler (`يَنظُرُ / يَنظُرُونَ / ٱنظُرُونَا`, I. bab 'beklemek' kullanımı)",
+      "context_snippet_arabic": "وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "İkiyüzlü erkek ve kadınlar güvene erenlere: \"Bizi de gözetin; ışığınızdan faydalanalım\" dedikleri gün, onlara: ...",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:n~aZara|ROOT:nZr|2MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "İkiyüzlü erkek ve kadınlar güvene erenlere: \"Bizi de gözetin; ışığınızdan faydalanalım\" dedikleri gün, onlara: \"Ardınıza dönün de ışık arayın\" denir; güven duy ikiyüzlüler arasına, kapısının içinde rahmet ve dışında azap olan bir sur çekilir.",
+      "contextual_meaning": "I. bab `نَظَرَ`nın 'gözünü dikip beklemek' anlamında kullanımı (`هَلْ / مَا يَنظُرُونَ` `2:210`, `36:49`, `38:15`): Belirti geldiğinde bekleme vaktinin bitmesi."
+    },
+    {
+      "surah": 59,
+      "ayah": 18,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:18",
+      "word_position": 6,
+      "target_word_uthmani": "وَلْتَنظُرْ",
+      "target_word_rasm": "ولتنظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'tan sakının; herkes yarına ne hazırladığına baksın; Allah'tan sakının, çünkü Allah işlediklerinizden haberdardır.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'tan sakının; herkes yarına ne hazırladığına baksın; Allah'tan sakının, çünkü Allah işlediklerinizden haberdardır.",
+      "contextual_meaning": "Öz-hesap ve sorumluluk bakışı: 'Her benlik yarın için ne hazırladığına baksın (`وَلْتَنظُرْ نَفْسٌ` `59:18`)' ve elinin öne sürdüğüne bakış (`78:40`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 21,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:21",
+      "word_position": 2,
+      "target_word_uthmani": "نَظَرَ",
+      "target_word_rasm": "نظر",
+      "target_word_literal_irab": "Dönüp dikkatle baktı / süzdü (`نَظَرَ / فَنَظَرَ`, I. bab mâzî `3MS`)",
+      "context_snippet_arabic": "ثُمَّ نَظَرَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra baktı;",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ نَظَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra baktı;",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 23,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:23",
+      "word_position": 3,
+      "target_word_uthmani": "نَاظِرَةٌ",
+      "target_word_rasm": "ناظرة",
+      "target_word_literal_irab": "Rabbine sevgi ve umutla yönelip bakan (`نَاظِرَةٌ`, dişil ism-i fâil merfû)",
+      "context_snippet_arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "context_snippet_turkish_tabula_rasa": "O gün bir takım yüzler Rablerine bakıp parlayacaktır.",
+      "morphology": {
+        "lemma": "naAZirap",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:naAZirap|ROOT:nZr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün bir takım yüzler Rablerine bakıp parlayacaktır.",
+      "contextual_meaning": "Parlayan yüzlerin (`نَّاضِرَةٌ`) Rabbine bakışı (`إِلَىٰ رَبِّهَا نَاظِرَةٌ` `75:23`): `ن-ض-ر` ile `ن-ظ-ر` arasında ses-anlam eşleşmesi."
+    },
+    {
+      "surah": 78,
+      "ayah": 40,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:40",
+      "word_position": 6,
+      "target_word_uthmani": "يَنظُرُ",
+      "target_word_rasm": "ينظر",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ",
+      "context_snippet_turkish_tabula_rasa": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve gerçeğin üzerini örten da: \"Keşke toprak olaydım\" der.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve gerçeğin üzerini örten da: \"Keşke toprak olaydım\" der.",
+      "contextual_meaning": "Öz-hesap ve sorumluluk bakışı: 'Her benlik yarın için ne hazırladığına baksın (`وَلْتَنظُرْ نَفْسٌ` `59:18`)' ve elinin öne sürdüğüne bakış (`78:40`)."
+    },
+    {
+      "surah": 80,
+      "ayah": 24,
+      "surah_name": "Abese",
+      "ayah_ref": "80:24",
+      "word_position": 1,
+      "target_word_uthmani": "فَلْيَنظُرِ",
+      "target_word_rasm": "فلينظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "İnsan, yiyeceğine bir baksın;",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan, yiyeceğine bir baksın;",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 83,
+      "ayah": 23,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:23",
+      "word_position": 3,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 83,
+      "ayah": 35,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:35",
+      "word_position": 3,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Tahtlar üzerinde, gerçeğin üzerini örtenlerin yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tahtlar üzerinde, gerçeğin üzerini örtenlerin yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler.",
+      "contextual_meaning": "Tarihî enkazları gezerek sonuçları gözlemleme (`فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ` `6:11`, `12:109`, `30:9,42`) ve görgü tanıklığı (`2:50,55`, `3:143`, `51:44`, `83:23,35`)."
+    },
+    {
+      "surah": 86,
+      "ayah": 5,
+      "surah_name": "Târık",
+      "ayah_ref": "86:5",
+      "word_position": 1,
+      "target_word_uthmani": "فَلْيَنظُرِ",
+      "target_word_rasm": "فلينظر",
+      "target_word_literal_irab": "Bakıp görsün / bakayım / incelesin (`فَلْيَنظُرْ / وَلْتَنظُرْ / أَنظُرْ / نَنظُرْ`, I. bab meczûm muzâri)",
+      "context_snippet_arabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse insan neden yaratıldığına bir baksın.",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse insan neden yaratıldığına bir baksın.",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    },
+    {
+      "surah": 88,
+      "ayah": 17,
+      "surah_name": "Gāşiye",
+      "ayah_ref": "88:17",
+      "word_position": 2,
+      "target_word_uthmani": "يَنظُرُونَ",
+      "target_word_rasm": "ينظرون",
+      "target_word_literal_irab": "Gözleriyle bakar / canlı tanık olur (`يَنظُرُونَ / تَنظُرُونَ / سَنَنظُرُ`, I. bab muzâri)",
+      "context_snippet_arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ",
+      "context_snippet_turkish_tabula_rasa": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?",
+      "morphology": {
+        "lemma": "n~aZara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:n~aZara|ROOT:nZr|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?",
+      "contextual_meaning": "Bilimsel ve biyolojik gözlem çağrısı: yemek-kemik dirilişi (`2:259`), bitki meyvesi (`6:99`), gıdası (`80:24`), yaratılış maddesi (`86:5`) ve devenin/göğün yapısı (`88:17`, `50:6`)."
+    }
+  ]
+}

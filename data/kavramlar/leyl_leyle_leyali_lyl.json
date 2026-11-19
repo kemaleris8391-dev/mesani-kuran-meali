@@ -1,0 +1,1962 @@
+{
+  "root": "ل-ي-ل",
+  "root_latin": "L-Y-L (lyl)",
+  "concept_name": "Leyl / Leyle / Leyâlî (Karanlık Örtü, Sükûnet Kuşağı ve Sayılı Vahiy Gecesi)",
+  "rank": 124,
+  "total_occurrences": 92,
+  "unique_ayahs_count": 81,
+  "unified_core_mechanism": "Kökün `92` geçişlik tamamı üç eşmerkezli halkada bütünleşir: (1) Kozmik zaman çarkı: güneş-ay hareketine bağlı olarak gündüzle birbirini sürekli takip eden (`ٱخْتِلَٰف` `5` ayet), birinin içine sokulup çıkarılan (`يُولِجُ` `5` ayet), küre üzerine sarılan (`يُكَوِّرُ` `39:5`) ve sınırını aşmayan (`36:40`) iki ana yarım küreden biri. (2) İnsanın biyolojik-psikolojik korunağı: dış uyaranların sustuğu, gözlerin ve bedenlerin dinlenip yeniden güç topladığı örtü (`لِبَاس` `25:47`, `78:10`) ve durulma yuvası (`سَكَن` `6:96`, `10:67`, `28:72-73`). (3) Zihnî duruluk ve vahiy sahnesi: gürültü perdesinin kalkmasıyla kelamın ağırlığının doğrudan bilince işlediği (`نَاشِئَةَ ٱلَّيْلِ` `73:6`), tarihi değiştiren gece yürüyüşlerinin (`11:81`, `15:65`, `17:1`, `44:23`) ve Kadir Gecesi'nin (`44:3`, `97:1-3`) gerçekleştiği özel zaman penceresi.",
+  "physical_core": "Güneşin batışından tan yerinin ağarmasına dek yeryüzünü bütünüyle sarıp örten, sesi ve hareketi dinginleştiren karanlık zaman kuşağı (`غِشَاوَةُ ٱلظَّلَامِ وَسَتْرُ ٱلْأُفُقِ بَعْدَ ٱلْغُرُوبِ إِلَى ٱلْفَجْرِ`). Bir örtü gibi dünyayı bürümesi (`لِبَاسًا` `25:47`, `78:10`; `يَغْشَى` `91:4`, `92:1`; `أَغْطَشَ` `79:29`), varlığı kendi içinde toplayıp sükûnete kavuşturması (`سَكَنًا` `6:96`; `وَمَا وَسَقَ` `84:17`; `سَجَى` `93:2`) ve gündüzün üzerinden soyulup çekilmesi (`نَسْلَخُ مِنْهُ ٱلنَّهَارَ` `36:37`; `أَدْبَرَ` `74:33`; `يَسْرِ` `89:4`) bu tek somut 'saran ve dinginleştiren karanlık örtü kuşağı' çekirdeğinden gelir.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `lam-ya-lam (ليل)` kökünü tek kelime/tek eksen sayar: 'gündüzün karşıtı olan gece'. Tekil birim anlamında `لَيْلَة`, düzenli çoğulda `لَيْلَات` ve kuralsız çoğulda `لَيَالٍ` biçimlerinin tamamının bu tek zaman dilimi aslından türediğini tespit eder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) `لَيْل`'in 'güneş battıktan sonraki zaman aralığı' olup cins isim olarak gecenin tamamını kapsadığını; `لَيْلَة`'nin ise sonundaki vahdet `ـة` ekiyle 'tek ve sayılı bir geceyi' (`44:3`, `97:1-3`, `2:51`, `7:142`) işaretlediğini, `91:4` ve `92:1` gibi ayetlerde ise 'örtme/karartma' fiilleriyle kurulduğunu açıklar.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `لَيْل`'in tekili `لَيْلَة` olmakla birlikte kırık çoğulu olan `لَيَالٍ` sözcüğünün son harfindeki `ي`'nin belirsiz mecrûr konumda düşerek `لَيَالٍ` (`19:10`, `69:7`, `89:2`) yazıldığını, mansûb konumda ise fetha ile ortaya çıktığını (`لَيَالِىَ` `34:18`) belgeler.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `92` geçişin tamamı 'gündüzün ışık ve yayılma kutbuna karşı denge kuran örtücü, toplayıcı ve dinginleştirici karanlık zaman kuşağı' merkezinde birleşir. Kur'an geceyi asla uğursuz bir korku figürü saymaz; aksine `28:71-73`, `6:96`, `25:47` ve `78:10` ile geceyi hayatın yarım küresini koruyan rahmet ve sükûnet örtüsü, `17:1`, `44:3`, `73:6` ve `97:1-3` ile de en derin bilinç uyanışının ve vahiy inişinin berrak zemini olarak konumlandırır."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `לַיִל` (*láyil*) ve sondan `-ā` zarf ekiyle yerleşmiş `לַיְלָה` (*láylāh*, BDB: 'gece, karanlık zaman') kökteştir.",
+    "aramaic_syriac": "Aramca ve Süryanicede `לֵילְיָא / ܠܶܠܝܳܐ` (*lēlyā* / *līlyā*, CAL: 'gece') belirtili `-ā` son ekiyle Arapça `لَيْل` kökünün doğrudan eşköklüsüdür.",
+    "ugaritic_and_akkadian": "Ugaritçede *ll* (*lēl-* 'gece', ikili sesli daralmasıyla); Akadcada `līlu / līliātu / līlâtu` (CAD L: 'akşam vakti, gece çöküşü') aynı ortak Sami kökünü taşır. Eski Etiyopça Geez `lelit` (`ለይሊት`, Leslau CDG: 'gece') dişil `-it` ekiyle Arapçadaki `لَيْلَة` yapısına paraleldir.",
+    "phonological_note": "Proto-Sami `*layl- / *laylay-` kökü ünsüz yapısını tüm Semitik kollarda (`ל-י-ל / ل-ي-ل / l-y-l`) korur. Arapça klasik `*ay` diftongunu (`لَيْل`) saklarken Kenan-Aramca ve Akadca kolları diftongu `*ē/*ī` yönüne büzmüştür; Arapçadaki tekil birim `ـة` (`لَيْلَة`) eki ise İbranicedeki tarihsel `-āh` ve Geez'deki `-it` ekleriyle işlevsel akrabalık gösterir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ن-ه-ر (`وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ` `2:164`, `3:190`, `10:6`, `45:5`; `يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ` `3:27`, `22:61`, `31:29`, `35:13`, `57:6`; `لَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ` `36:40` — Karanlık Örtücü ve Dinlendirici Kuşak `لَيْل` vs Aydınlık, Açığa Çıkaran ve Çalışma Akışı `نَهَار`)",
+      "ض-ح-و / ص-ب-ح (`أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ` `11:81`; `وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا` `79:29`; `وَقُرْءَانَ ٱلْفَجْرِ` `17:78`; `حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ` `2:187` — Gecenin Karanlık Düğümü vs Sabahın ve Kuşluğun Aydınlık Yarığı)",
+      "ي-و-م (`سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا` `34:18`; `سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ` `69:7` — Sayılı Gece Dizileri vs Sayılı Gündüz/Gün Birimleri)"
+    ],
+    "key_ayahs": [
+      "2:51",
+      "2:164",
+      "2:187",
+      "3:27",
+      "6:96",
+      "7:54",
+      "7:142",
+      "10:67",
+      "11:81",
+      "13:10",
+      "17:1",
+      "17:12",
+      "17:78",
+      "17:79",
+      "19:10",
+      "21:20",
+      "21:33",
+      "25:47",
+      "25:62",
+      "28:71",
+      "28:72",
+      "34:18",
+      "36:37",
+      "36:40",
+      "39:5",
+      "41:37",
+      "44:3",
+      "69:7",
+      "71:5",
+      "73:2",
+      "73:6",
+      "73:20",
+      "74:33",
+      "76:26",
+      "78:10",
+      "79:29",
+      "81:17",
+      "84:17",
+      "89:2",
+      "89:4",
+      "91:4",
+      "92:1",
+      "93:2",
+      "97:1",
+      "97:3"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ل-ي-ل` gündüzün ışığını örterek sükûnet, barınma ve içsel odaklanma alanı açan zaman kuşağı ise zıddı nedir?' Cevap: (1) Kur'an'da `50`'yi aşkın ayette çiftlenip zıt kutbu oluşturan `نَهَار` ('gündüz aydınlığı, çalışma ve rızık arama açıklığı' `10:67`, `25:47`, `28:73`, `17:12`) ile `ضُحًى / صُبْح / فَجْر` ('kuşluk ışığı ve tan yeri ağarması' `2:187`, `11:81`, `79:29`) kavramlarıdır. (2) Mesânî denge yasası `28:71-72`de en net haline ulaşır: Yalnızca bitimsiz gece (`سَرْمَدًا`) yaşamı felç edeceği gibi, hiç gece olmayan bitimsiz gündüz de (`28:72`) canlıların dinlenme döngüsünü yıkacaktır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`لَيْل` (`Bütün gece kuşağı veya cins zaman` `84` geçiş) vs `لَيْلَة` (`Tek, sınırları çizilmiş belirli/sayılı gece` `8` geçiş: `2:51`, `2:187`, `7:142`, `44:3`, `97:1-3`) vs `لَيَالٍ / لَيَالِىَ` (`Sayılan çoklu geceler` `19:10`, `34:18`, `69:7`, `89:2`)",
+      "`لَيْلَةَ ٱلصِّيَامِ` (`Öz denetimin serbest olduğu gece başlangıcı`) vs `إِلَى ٱلَّيْلِ` (`Güneş batımıyla gece sınırına varış`) — `2:187`",
+      "`مَحَوْنَآ ءَايَةَ ٱلَّيْلِ` (`Gecenin işaretinin silinip örtülmesi`) vs `ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً` (`Gündüz işaretinin aydınlık ve görülür kılınması`) — `17:12`",
+      "`مُسْتَخْفٍۭ بِٱلَّيْلِ` (`Gece örtüsüne sığınıp gizlenen`) vs `سَارِبٌۢ بِٱلنَّهَارِ` (`Gündüzün açıklığında serbestçe yürüyen`) — `13:10`",
+      "`ٱلَّيْلَ لِبَاسًا` (`Koruyup örten elbise olarak gece`) vs `ٱلنَّوْمَ سُبَاتًا` (`Hareketi durduran uyku`) & `ٱلنَّهَارَ نُشُورًا` (`Yeniden dağılıp uyanma alanı olarak gündüz`) — `25:47`, `78:10`"
+    ],
+    "mechanical_difference": "1) `7:142`de (`ثَلَٰثِينَ لَيْلَةً ... أَرْبَعِينَ لَيْلَةً`) ve `2:51`de kırk günlük sözleşme süresi gün yerine tekil birim `لَيْلَةً` ile sayılır; çünkü yeni ay hilalinin doğuşuna dayalı kamerî zaman sayımı gecelerin başlamasıyla ölçülür. 2) `2:187` tek ayette iki ayrı biçimi kullanır: ilk kısımda (`لَيْلَةَ ٱلصِّيَامِ`) zaman zarfı (`T`) olarak belirli dönem gecesini, sonunda (`إِلَى ٱلَّيْلِ`) ise gün batımının hemen başlangıcı olan genel gece kuşağını (`N`) verir. 3) `39:5` diğer beş `يُولِجُ` (`3:27`, `22:61`, `31:29`, `35:13`, `57:6`) ayetinden ayrılarak `يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ` ('geceyi gündüzün üzerine sarık gibi dolar') ifadesiyle küresel sarılma mekaniğini çizer."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "25:47 & 28:71-73 & 78:10 & 6:96 & 10:67",
+      "role": "Rahmet, Örtü ve Denge Çapası (`لِبَاسًا` / `سَكَنًا` / `سَرْمَدًا`)",
+      "literal_meaning": "'Geceyi sizin için sarıp koruyan bir örtü (`لِبَاسًا` `25:47`, `78:10`) ve içinde dinleneceğiniz bir dinginlik zamanı (`سَكَنًا` `6:96`, `10:67`, `28:73`) kıldı; eğer Allah gündüzü sonsuza dek uzatsaydı dinleneceğiniz geceyi kim getirebilirdi (`28:72`)?'"
+    },
+    {
+      "ref": "3:27 & 17:12 & 36:37,40 & 39:5 & 79:29",
+      "role": "Kozmik Geçiş, Sarma ve Sıyırma Çapası (`يُولِجُ` / `يُكَوِّرُ` / `نَسْلَخُ` / `يَطْلُبُهُۥ حَثِيثًا`)",
+      "literal_meaning": "'Geceyi gündüzün içine geçirir (`3:27`, `22:61`, `31:29`, `35:13`, `57:6`), birini ötekinin üzerine dolar (`39:5`), geceden gündüzü sıyırıp çıkarır (`36:37`) ve gece ne gündüzü geçebilir ne de onun dışına taşabilir (`36:40`, `7:54`, `79:29`).'"
+    },
+    {
+      "ref": "44:3 & 97:1-3 & 17:1 & 2:51 & 7:142",
+      "role": "Vahiy ve Belirleyici Gece Çapası (`لَيْلَةٍ مُّبَٰرَكَةٍ` / `لَيْلَةِ ٱلْقَدْرِ` / `أَسْرَىٰ ... لَيْلًا`)",
+      "literal_meaning": "'Biz onu bereketli bir gecede (`44:3`) ve ölçü/değer gecesinde (`لَيْلَةِ ٱلْقَدْرِ`, bin aydan hayırlı `97:1-3`) indirdik', 'kulunu bir gece (`لَيْلًا`) yürüttü (`17:1`)' ve 'Mûsâ'ya kırk gece sözleştik (`2:51`, `7:142`).'"
+    },
+    {
+      "ref": "17:79 & 73:2,6,20 & 76:26 & 3:113 & 39:9 & 51:17",
+      "role": "Gece Kıyamı, Odaklanma ve Bireysel Direnç Çapası (`نَاشِئَةَ ٱلَّيْلِ` / `ءَانَآءَ ٱلَّيْلِ`)",
+      "literal_meaning": "'Kuşkusuz gece doğuşu (`نَاشِئَةَ ٱلَّيْلِ`) kalp ve söz uyumu bakımından çok daha sağlam ve etkilidir (`73:6`)', 'gece ve gündüzü ölçen yalnızca Allah'tır (`73:20`)', 'gecenin bir bölümünde uyanıp bağ kur (`17:79`, `50:40`, `52:49`, `76:26`)' ve 'gece saatlerinde ayakta okuyup duranlar (`3:113`, `39:9`, `51:17`).'"
+    },
+    {
+      "ref": "74:33 & 81:17 & 84:17 & 89:2,4 & 91:4 & 92:1 & 93:2",
+      "role": "Mekkî Sûrelerin Gece Evreleri Şahitlik Çapası (`إِذَا عَسْعَسَ` / `وَمَا وَسَقَ` / `إِذَا يَسْرِ` / `إِذَا يَغْشَى` / `إِذَا سَجَىٰ`)",
+      "literal_meaning": "Kur'an gecenin her fiziksel aşamasını ayrı fiille resmeder: kararan/sırt dönen (`عَسْعَسَ` `81:17`, `أَدْبَرَ` `74:33`), içine toplayıp kucaklayan (`وَمَا وَسَقَ` `84:17`), güneşi ve ufku tamamen bürüyen (`يَغْشَى` `91:4`, `92:1`), durgunlaşıp sakinleşen (`سَجَىٰ` `93:2`), yürüyüp geçen (`يَسْرِ` `89:4`) ve onlu gece dizisi (`وَلَيَالٍ عَشْرٍ` `89:2`)."
+    }
+  ],
+  "grammar_and_branch_rules": "1) Arapça yazımda benzersiz Rasm-ı Osmânî kuralı: Harf-i tarifle belirli gelen tüm `77` adet `ٱلَّيْل` geçişi (yalın ve `وَ / بِـ` ekli `ٱليل`, `وٱليل`, `بٱليل`, `وبٱليل`) Mushaf'ta iki ardışık lâm'ı (`ل + ل`) hafifletmek amacıyla **tek lâm ile `اليل / ٱليل`** şeklinde yazılır; sonraki noktalama/hareke sisteminde (*dabt*) şedde işareti o tek lâm'ın üzerine konur. 2) `لَيْل` sözcüğü sîga olarak eril (`M`) kabul edilir; çoğulu `لَيَالٍ / لَيَالِىَ` ise kırık çoğul (`P`) olup mecrûr belirsiz halinde mankûs isim kuralıyla son `ى` düşer (`ثَلَٰثِ لَيَالٍ` `19:10`, `سَبْعَ لَيَالٍ` `69:7`, `وَلَيَالٍ عَشْرٍ` `89:2`), ancak zarf/mansûb belirsizliğinde (`لَيَالِىَ وَأَيَّامًا` `34:18`) son `ى` fetha alarak görünür! (Not: `89:2`deki `وَلَيَالٍ` sözcüğü morfolojik korpusta `MP|INDEF|GEN`, `19:10` ve `69:7` ise `P|INDEF|GEN` etiketlidir.) 3) Korpusta `POS:T` (zaman zarfı / Time noun) etiketi yalnız `3` geçişte verilir (`2:187` `لَيْلَةَ ٱلصِّيَامِ`, `71:5` `لَيْلًا وَنَهَارًا`, `76:26` `لَيْلًا طَوِيلًا`), diğer `89` geçiş `POS:N` etiketi taşır. 4) `2:51`, `7:142` x2, `2:187`, `44:3` ve `97:1-3`teki `8` geçiş ise `layolap` (`لَيْلَة` — dişil tekil birim) lemmasındandır.",
+  "derivatives": {
+    "ٱلَّيْل / لَيْل / لَيْلًا / لَيْلَهَا (`80 N/T` tekil `layol`)": "Gündüzün tam karşıtı olan örtücü ve dinginleştirici karanlık dönem; `60`+ ayette `نَهَار` ile birlikte evrensel denge, yolculuk (`17:1`, `11:81`, `15:65`, `44:23`), dinlenme (`6:96`, `25:47`, `78:10`) ve gece uyanıklığı (`17:79`, `73:2-20`)",
+    "لَيْلَة / لَيْلَةً / لَيْلَةِ (`8 N/T` `layolap`: `2:51`, `2:187`, `7:142` x2, `44:3`, `97:1-3`)": "Tekil ve sayılı birim gece; Mûsâ'nın 30+10=40 gecelik ahdi (`2:51`, `7:142`), öz denetim gecesi (`2:187`), bereketli gece (`44:3`) ve Kadir Gecesi (`97:1-3`)",
+    "لَيَالٍ / لَيَالِىَ (`4 N` kırık çoğul `layol`: `19:10`, `34:18`, `69:7`, `89:2`)": "Zekeriyyâ'nın 3 gecelik işareti (`19:10`), Sebe' yolculuğundaki güvenli geceler (`34:18`), Âd kavmine esen 7 gecelik rüzgâr (`69:7`) ve Fecr sûresindeki on gece (`89:2`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 51,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:51",
+      "word_position": 5,
+      "target_word_uthmani": "لَيْلَةً",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Sayılı birim gece (`لَيْلَةً`, belirsiz temyiz/zarf mansûb, tekil dişil)",
+      "context_snippet_arabic": "وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ",
+      "context_snippet_turkish_tabula_rasa": "Musa'ya kırk gece vade vermiştik. Sonra onun arkasından, kendinize yazık ederek, buzağıyı sığınak mercii (ilâh) edinmiştiniz.",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya kırk gece vade vermiştik. Sonra onun arkasından, kendinize yazık ederek, buzağıyı sığınak mercii (ilâh) edinmiştiniz.",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 164,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:164",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin yaratılmasında, gece ile gündüzün birbiri ardınca gelmesinde, insanlara yararlı şeylerle denizde süzülen gemilerde, Allah'ın gökten indirip yeri ölümünden sonra dirilttiği suda, her türlü canlıyı orada yaymasında, rüzgarları ve yerle gök arasında emre amade duran bulutları döndürmesinde, düşünen kimseler için deliller vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin yaratılmasında, gece ile gündüzün birbiri ardınca gelmesinde, insanlara yararlı şeylerle denizde süzülen gemilerde, Allah'ın gökten indirip yeri ölümünden sonra dirilttiği suda, her türlü canlıyı orada yaymasında, rüzgarları ve yerle gök arasında emre amade duran bulutları döndürmesinde, düşünen kimseler için deliller vardır.",
+      "contextual_meaning": "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 3,
+      "target_word_uthmani": "لَيْلَةَ",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Öz denetim gecesi boyunca (`لَيْلَةَ`, belirli muzâf zaman zarfı mansûb, tekil dişil)",
+      "context_snippet_arabic": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; ...",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "T",
+        "features": "STEM|POS:T|LEM:layolap|ROOT:lyl|F|ACC"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 47,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 274,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:274",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلَّيْلِ",
+      "target_word_rasm": "بٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً",
+      "context_snippet_turkish_tabula_rasa": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 27,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:27",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 27,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:27",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 113,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:113",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin hepsi bir değildir: Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 190,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:190",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍ لِّأُو۟لِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelmesinde akıl sahiblerine şüphesiz deliller vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَءَايَٰتٍ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelmesinde akıl sahiblerine şüphesiz deliller vardır.",
+      "contextual_meaning": "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+    },
+    {
+      "surah": 6,
+      "ayah": 13,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:13",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ وَهُوَ ٱلسَّمِيعُ",
+      "context_snippet_turkish_tabula_rasa": "Gecede ve gündüzde bulunan O'nundur. O işitendir, Bilen'dir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَهُۥ مَا سَكَنَ فِى ٱلَّيْلِ وَٱلنَّهَارِ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gecede ve gündüzde bulunan O'nundur. O işitendir, Bilen'dir.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 60,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:60",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلَّيْلِ",
+      "target_word_rasm": "بٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin sizi ölü gibi uyutan, gündüzün yaptıklarınızı bilen, mukadder olan hayat süreniz doluncaya kadar gündüzleri sizi tekrar kaldıran O'dur. Sonra dönüşünüz O'nadır, işlediklerinizi size bildirecektir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌ مُّسَمًّى ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin sizi ölü gibi uyutan, gündüzün yaptıklarınızı bilen, mukadder olan hayat süreniz doluncaya kadar gündüzleri sizi tekrar kaldıran O'dur. Sonra dönüşünüz O'nadır, işlediklerinizi size bildirecektir.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 76,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:76",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلَّيْلُ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece (`ٱلَّيْلُ`, merfû mübtedâ/fâil; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Gece basınca bir yıldız gördü, \"işte bu benim Rabbim!\" dedi; yıldız batınca, \"batanları sevmem\" dedi.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece basınca bir yıldız gördü, \"işte bu benim Rabbim!\" dedi; yıldız batınca, \"batanları sevmem\" dedi.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 96,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:96",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Tanyerini ağartan, geceyi dinlenme zamanı, güneş ve ayı vakit ölçüsü kılandır. Bu, Güçlü olan'ın, Bilen'in nizamıdır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Tanyerini ağartan, geceyi dinlenme zamanı, güneş ve ayı vakit ölçüsü kılandır. Bu, Güçlü olan'ın, Bilen'in nizamıdır.",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 54,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:54",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz, gökleri ve yeri altı günde yaratan ve sonra arşa hükmeden, gündüzü durmadan kovalayan gece ile bürüyen; güneşi, ayı, yıldızları, hepsini buyruğuna baş eğdirerek var eden Allah'tır. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz, gökleri ve yeri altı günde yaratan ve sonra arşa hükmeden, gündüzü durmadan kovalayan gece ile bürüyen; güneşi, ayı, yıldızları, hepsini buyruğuna baş eğdirerek var eden Allah'tır. Bilin ki yaratma da emir de O'nun hakkıdır. Alemlerin Rabbiolan Allah Yüce'dir.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 142,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:142",
+      "word_position": 4,
+      "target_word_uthmani": "لَيْلَةً",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Sayılı birim gece (`لَيْلَةً`, belirsiz temyiz/zarf mansûb, tekil dişil)",
+      "context_snippet_arabic": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ",
+      "context_snippet_turkish_tabula_rasa": "Musa'ya otuz gece vade verip sonra buna on gece daha kattık; böylece Rabbinin tayin ettiği müddet kırk geceye tamamlandı. ...",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya otuz gece vade verip sonra buna on gece daha kattık; böylece Rabbinin tayin ettiği müddet kırk geceye tamamlandı. Musa, kardeşi Harun'a, \"Milletim içinde benim yerime geç, onları ıslah et, bozguncuların yoluna gitme\" dedi.",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 142,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:142",
+      "word_position": 11,
+      "target_word_uthmani": "لَيْلَةً",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Sayılı birim gece (`لَيْلَةً`, belirsiz temyiz/zarf mansûb, tekil dişil)",
+      "context_snippet_arabic": "مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ",
+      "context_snippet_turkish_tabula_rasa": "Musa'ya otuz gece vade verip sonra buna on gece daha kattık; böylece Rabbinin tayin ettiği müddet kırk geceye tamamlandı. ...",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya otuz gece vade verip sonra buna on gece daha kattık; böylece Rabbinin tayin ettiği müddet kırk geceye tamamlandı. Musa, kardeşi Harun'a, \"Milletim içinde benim yerime geç, onları ıslah et, bozguncuların yoluna gitme\" dedi.",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 6,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:6",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ",
+      "context_snippet_turkish_tabula_rasa": "Gece ile gündüzün birbiri ardınca gelmesinde, Allah'ın göklerde ve yerde yarattıklarında, O'na karşı gelmekten sakınan kimseler için ayetler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ile gündüzün birbiri ardınca gelmesinde, Allah'ın göklerde ve yerde yarattıklarında, O'na karşı gelmekten sakınan kimseler için ayetler vardır.",
+      "contextual_meaning": "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+    },
+    {
+      "surah": 10,
+      "ayah": 24,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:24",
+      "word_position": 30,
+      "target_word_uthmani": "لَيْلًا",
+      "target_word_rasm": "ليلا",
+      "target_word_literal_irab": "Bir gece vakti (`لَيْلًا`, belirsiz zaman zarfı mansûb, tekil eril)",
+      "context_snippet_arabic": "عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا",
+      "context_snippet_turkish_tabula_rasa": "... Yeryüzünün süslenip bezendiği ve yerin sahiplerinin bütün bunlara malik olduklarını sandıkları sırada, gece veya gündüz buyruğumuz o yere gelmiş ve orayı hiçbir şey bitirmemişe çevirmişiz; bir gün önce birşey yokmuş gibi olmuştur. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve yerin sahiplerinin bütün bunlara malik olduklarını sandıkları sırada, gece veya gündüz buyruğumuz o yere gelmiş ve orayı hiçbir şey bitirmemişe çevirmişiz; bir gün önce birşey yokmuş gibi olmuştur. Düşünen millet için ayetleri böylece uzun açıklıyoruz.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 27,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:27",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا أُو۟لَٰٓئِكَ أَصْحَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'a karşı onları savunacak yoktur; yüzleri, geceden kara bir parçayla örtülmüş gibidir. Bunlar yakıcı yıkım yurdu ehlidirler, orada temelli kalırlar.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük işleyenlere kötülükleri kadar ceza verilir; onların yüzlerini zillet bürür; Allah'a karşı onları savunacak yoktur; yüzleri, geceden kara bir parçayla örtülmüş gibidir. Bunlar yakıcı yıkım yurdu ehlidirler, orada temelli kalırlar.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 67,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:67",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Size geceyi dinlenesiniz diye karanlık ve gündüzü çalışasınız diye aydınlık olarak yaratan Allah'tır. Kulak veren millet için bunlarda ayetler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size geceyi dinlenesiniz diye karanlık ve gündüzü çalışasınız diye aydınlık olarak yaratan Allah'tır. Kulak veren millet için bunlarda ayetler vardır.",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 11,
+      "ayah": 81,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:81",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Lut! Biz Rabbinin elçileriyiz, onlar sana ilişemiyecekler; geceleyin bir ara, ailenle beraber yola çık; karının dışında kimse geri kalmasın. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Lut! Biz Rabbinin elçileriyiz, onlar sana ilişemiyecekler; geceleyin bir ara, ailenle beraber yola çık; karının dışında kimse geri kalmasın. Doğrusu onların başına gelen onun başına da gelecektir. Vadeleri gün doğana kadardır. Gün doğması yakın değil mi?\" dediler.",
+      "contextual_meaning": "Geceleyin kurtuluş ve tarihî yürüyüş (`11:81`, `15:65`, `17:1`, `44:23`): Lût ailesinin (`بِقِطْعٍ مِّنَ ٱلَّيْلِ`) ve Mûsâ önderliğindeki kulların (`لَيْلًا`) gece yola çıkarılması ile elçinin Mescid-i Harâm'dan Mescid-i Aksâ'ya gece yürütülmesi (`17:1`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 114,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:114",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ",
+      "context_snippet_turkish_tabula_rasa": "Gündüzün iki ucunda ve gecenin gündüze yakın zamanlarında irtibat ve sorumluluk bağını ayakta tut. Doğrusu iyilikler kötülükleri giderir. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gündüzün iki ucunda ve gecenin gündüze yakın zamanlarında irtibat ve sorumluluk bağını ayakta tut. Doğrusu iyilikler kötülükleri giderir. Bu, öğüt kabul edenlere bir öğüttür.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 3,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:3",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى",
+      "context_snippet_turkish_tabula_rasa": "Yeri düzleyen, orada dağlar, nehirler var eden, her türlü üründen çift çift yetiştiren, gündüzü geceyle bürüyen de O'dur. Doğrusu bunlarda, düşünen kimseler için ibretler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeri düzleyen, orada dağlar, nehirler var eden, her türlü üründen çift çift yetiştiren, gündüzü geceyle bürüyen de O'dur. Doğrusu bunlarda, düşünen kimseler için ibretler vardır.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 10,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:10",
+      "word_position": 12,
+      "target_word_uthmani": "بِٱلَّيْلِ",
+      "target_word_rasm": "بٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَمَنْ هُوَ مُسْتَخْفٍۭ بِٱلَّيْلِ وَسَارِبٌۢ بِٱلنَّهَارِ",
+      "context_snippet_turkish_tabula_rasa": "Görüleni de görülmeyeni de bilen, yücelerin yücesi büyük Allah'a göre, aranızdan sözü gizleyen ile, açığa vuran ve geceye bürünerek gizlenip gündüzün ortaya çıkan arasında fark yoktur.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "سَوَآءٌ مِّنكُم مَّنْ أَسَرَّ ٱلْقَوْلَ وَمَن جَهَرَ بِهِۦ وَمَنْ هُوَ مُسْتَخْفٍۭ بِٱلَّيْلِ وَسَارِبٌۢ بِٱلنَّهَارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Görüleni de görülmeyeni de bilen, yücelerin yücesi büyük Allah'a göre, aranızdan sözü gizleyen ile, açığa vuran ve geceye bürünerek gizlenip gündüzün ortaya çıkan arasında fark yoktur.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 33,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:33",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "دَآئِبَيْنِ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri yaratan, yukardan indirdiği su ile rızık olarak ürünler yetiştiren, emri gereğince denizde yüzmek üzere gemileri, nehirleri, belli yörüngelerinde yürüyen ay ve güneşi, geceyle gündüzü sizin buyruğunuza veren Allah'tır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri yaratan, yukardan indirdiği su ile rızık olarak ürünler yetiştiren, emri gereğince denizde yüzmek üzere gemileri, nehirleri, belli yörüngelerinde yürüyen ay ve güneşi, geceyle gündüzü sizin buyruğunuza veren Allah'tır.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 65,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:65",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "... Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Biz sana sadece şüphe edip durdukları azabı getirdik. Sana gerçekle geldik. Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; emrolunduğunuz yere doğru yürüyün\" dediler.",
+      "contextual_meaning": "Geceleyin kurtuluş ve tarihî yürüyüş (`11:81`, `15:65`, `17:1`, `44:23`): Lût ailesinin (`بِقِطْعٍ مِّنَ ٱلَّيْلِ`) ve Mûsâ önderliğindeki kulların (`لَيْلًا`) gece yola çıkarılması ile elçinin Mescid-i Harâm'dan Mescid-i Aksâ'ya gece yürütülmesi (`17:1`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 12,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:12",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüzü, güneşi ayı sizin istifadenize vermiştir. Yıldızlar da O'nun buyruğuna boyun eğmiştir. Bunlarda, akleden kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüzü, güneşi ayı sizin istifadenize vermiştir. Yıldızlar da O'nun buyruğuna boyun eğmiştir. Bunlarda, akleden kimseler için dersler vardır.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 1,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:1",
+      "word_position": 5,
+      "target_word_uthmani": "لَيْلًا",
+      "target_word_rasm": "ليلا",
+      "target_word_literal_irab": "Bir gece vakti (`لَيْلًا`, belirsiz zaman zarfı mansûb, tekil eril)",
+      "context_snippet_arabic": "ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+      "context_snippet_turkish_tabula_rasa": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "contextual_meaning": "Geceleyin kurtuluş ve tarihî yürüyüş (`11:81`, `15:65`, `17:1`, `44:23`): Lût ailesinin (`بِقِطْعٍ مِّنَ ٱلَّيْلِ`) ve Mûsâ önderliğindeki kulların (`لَيْلًا`) gece yola çıkarılması ile elçinin Mescid-i Harâm'dan Mescid-i Aksâ'ya gece yürütülmesi (`17:1`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 12,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:12",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ",
+      "context_snippet_turkish_tabula_rasa": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 12,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:12",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ",
+      "context_snippet_turkish_tabula_rasa": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 78,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:78",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sabah irtibat bağına kozmik görevliler şahit olur.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sabah irtibat bağına kozmik görevliler şahit olur.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 79,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:79",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةً",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin uyanıp, yalnız sana mahsus olarak fazladan irtibat ve sorumluluk bağını ayakta tut. Belki de Rabbin seni övülecek makama yükseltir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةً لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin uyanıp, yalnız sana mahsus olarak fazladan irtibat ve sorumluluk bağını ayakta tut. Belki de Rabbin seni övülecek makama yükseltir.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 10,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:10",
+      "word_position": 12,
+      "target_word_uthmani": "لَيَالٍ",
+      "target_word_rasm": "ليال",
+      "target_word_literal_irab": "Geceler / gecelere (`لَيَالٍ / وَلَيَالٍ`, mankûs kırık çoğul belirsiz mecrûr, son `ي` tenvîn-i ivazla hazifli)",
+      "context_snippet_arabic": "تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍ سَوِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Zekeriya \"Rabbim! Öyleyse bana bir alamet ver\" dedi. Allah: \"Senin alametin, sağlam ve sıhhatli olduğun halde üç gün üç gece insanlarla konuşamamandır\" buyurdu.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|P|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍ سَوِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Zekeriya \"Rabbim! Öyleyse bana bir alamet ver\" dedi. Allah: \"Senin alametin, sağlam ve sıhhatli olduğun halde üç gün üç gece insanlarla konuşamamandır\" buyurdu.",
+      "contextual_meaning": "Sayılı gece dizileri ve kırık çoğul (`19:10`, `34:18`, `69:7`, `89:2`): Zekeriyyâ'nın üç gece konuşamama işareti (`19:10`), Sebe' ülkesinde güvenli gece yolculukları (`34:18`), Âd kavmine esen yedi gecelik kasırga (`69:7`) ve Fecr sûresindeki on gece (`89:2`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 130,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:130",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ",
+      "context_snippet_turkish_tabula_rasa": "... gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 20,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:20",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gece ve gündüz, bıkmadan tesbih ederler.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüz, bıkmadan tesbih ederler.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 33,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:33",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi ve gündüzü, güneşi ve ayı yaratan O'dur. Her biri bir yörüngede yürür.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi ve gündüzü, güneşi ve ayı yaratan O'dur. Her biri bir yörüngede yürür.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 42,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:42",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلَّيْلِ",
+      "target_word_rasm": "بٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Geceleyin ve gündüzün sizi Rahman'dan kim koruyabilir?\" Ama onlar Rablerinin Kitabından yüz çevirmektedirler.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Geceleyin ve gündüzün sizi Rahman'dan kim koruyabilir?\" Ama onlar Rablerinin Kitabından yüz çevirmektedirler.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 61,
+      "surah_name": "Hac",
+      "ayah_ref": "22:61",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ",
+      "context_snippet_turkish_tabula_rasa": "Böyledir; Allah geceyi gündüze katar, gündüzü de geceye katar ve Allah şüphesiz işitir ve görür.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَأَنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyledir; Allah geceyi gündüze katar, gündüzü de geceye katar ve Allah şüphesiz işitir ve görür.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 61,
+      "surah_name": "Hac",
+      "ayah_ref": "22:61",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَأَنَّ ٱللَّهَ سَمِيعٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Böyledir; Allah geceyi gündüze katar, gündüzü de geceye katar ve Allah şüphesiz işitir ve görür.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَأَنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyledir; Allah geceyi gündüze katar, gündüzü de geceye katar ve Allah şüphesiz işitir ve görür.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 80,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:80",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَيُمِيتُ وَلَهُ ٱخْتِلَٰفُ ٱلَّيْلِ وَٱلنَّهَارِ أَفَلَا تَعْقِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dirilten de, öldüren de O'dur. Gece ile gündüzün birbiri ardından gitmesi de O'nun emrine bağlıdır. Düşünmez misiniz?",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَٰفُ ٱلَّيْلِ وَٱلنَّهَارِ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dirilten de, öldüren de O'dur. Gece ile gündüzün birbiri ardından gitmesi de O'nun emrine bağlıdır. Düşünmez misiniz?",
+      "contextual_meaning": "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+    },
+    {
+      "surah": 24,
+      "ayah": 44,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:44",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ وَٱلنَّهَارَ إِنَّ فِى",
+      "context_snippet_turkish_tabula_rasa": "Allah geceyi gündüze, gündüzü geceye çevirir. Doğrusu, görebilenler için bunda ibretler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ وَٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah geceyi gündüze, gündüzü geceye çevirir. Doğrusu, görebilenler için bunda ibretler vardır.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 47,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:47",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا",
+      "context_snippet_turkish_tabula_rasa": "Size geceyi örtü, uykuyu rahatlık kılan, gündüzü çalışma zamanı yapan Allah'tır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًا وَٱلنَّوْمَ سُبَاتًا وَجَعَلَ ٱلنَّهَارَ نُشُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Size geceyi örtü, uykuyu rahatlık kılan, gündüzü çalışma zamanı yapan Allah'tır.",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 25,
+      "ayah": 62,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:62",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ",
+      "context_snippet_turkish_tabula_rasa": "İbret almak veya nimetin değerini bilip açığa vurmak dileyen kimseler için gece ile gündüzü birbiri ardınca getiren O'dur.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "İbret almak veya nimetin değerini bilip açığa vurmak dileyen kimseler için gece ile gündüzü birbiri ardınca getiren O'dur.",
+      "contextual_meaning": "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+    },
+    {
+      "surah": 27,
+      "ayah": 86,
+      "surah_name": "Neml",
+      "ayah_ref": "27:86",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Size geceyi dinlenesiniz diye karanlık ve gündüzü çalışasınız diye aydınlık olarak yarattığımızı görmediler mi? Doğrusu bunda, güvene eren millet için dersler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size geceyi dinlenesiniz diye karanlık ve gündüzü çalışasınız diye aydınlık olarak yarattığımızı görmediler mi? Doğrusu bunda, güvene eren millet için dersler vardır.",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 71,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:71",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Söyler misiniz? Eğer Allah geceyi üzerinize kıyamete kadar uzatsaydı, Allah'tan başka hangi sığınak mercii (ilâh) size bir ışık getirebilir? Dinlemez misiniz?\"",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ أَفَلَا تَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Söyler misiniz? Eğer Allah geceyi üzerinize kıyamete kadar uzatsaydı, Allah'tan başka hangi sığınak mercii (ilâh) size bir ışık getirebilir? Dinlemez misiniz?\"",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 72,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:72",
+      "word_position": 17,
+      "target_word_uthmani": "بِلَيْلٍ",
+      "target_word_rasm": "بليل",
+      "target_word_literal_irab": "Dinleneceğiniz bir geceyi (`بِلَيْلٍ`, harf-i cerr ile belirsiz mecrûr, tekil eril)",
+      "context_snippet_arabic": "غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍ تَسْكُنُونَ فِيهِ أَفَلَا",
+      "context_snippet_turkish_tabula_rasa": "... Eğer Allah gündüzü üzerinize kıyamete kadar uzatsaydı, Allah'tan başka hangi sığınak mercii (ilâh), içinde istirahat edeceğiniz geceyi size getirebilir? Görmez misiniz?\"",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍ تَسْكُنُونَ فِيهِ أَفَلَا تُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Söyleyin: Eğer Allah gündüzü üzerinize kıyamete kadar uzatsaydı, Allah'tan başka hangi sığınak mercii (ilâh), içinde istirahat edeceğiniz geceyi size getirebilir? Görmez misiniz?\"",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 73,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:73",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 30,
+      "ayah": 23,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:23",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلَّيْلِ",
+      "target_word_rasm": "بٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin uyumanız, gündüz de lütfundan rızık aramanız O'nun varlığının belgelerindendir. Bunlarda kulak veren millet için dersler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin uyumanız, gündüz de lütfundan rızık aramanız O'nun varlığının belgelerindendir. Bunlarda kulak veren millet için dersler vardır.",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 29,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:29",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın geceyi gündüze ve gündüzü geceye kattığını, her biri belirli bir süreye kadar hareket edecek olan güneşi ve ayı buyruk altında tuttuğunu; Allah'ın, yaptıklarınızdan haberdar olduğunu bilmez misin?",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın geceyi gündüze ve gündüzü geceye kattığını, her biri belirli bir süreye kadar hareket edecek olan güneşi ve ayı buyruk altında tuttuğunu; Allah'ın, yaptıklarınızdan haberdar olduğunu bilmez misin?",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 29,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:29",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın geceyi gündüze ve gündüzü geceye kattığını, her biri belirli bir süreye kadar hareket edecek olan güneşi ve ayı buyruk altında tuttuğunu; Allah'ın, yaptıklarınızdan haberdar olduğunu bilmez misin?",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın geceyi gündüze ve gündüzü geceye kattığını, her biri belirli bir süreye kadar hareket edecek olan güneşi ve ayı buyruk altında tuttuğunu; Allah'ın, yaptıklarınızdan haberdar olduğunu bilmez misin?",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 18,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:18",
+      "word_position": 15,
+      "target_word_uthmani": "لَيَالِىَ",
+      "target_word_rasm": "ليالى",
+      "target_word_literal_irab": "Geceler boyunca (`لَيَالِىَ`, kırık çoğul zaman zarfı mansûb, son `ى` fetha ile açık)",
+      "context_snippet_arabic": "ٱلسَّيْرَ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlarla, kutlu kıldığımız şehirler arasında, karşıdan karşıya görünen kasabalar var etmiş, oraları gezilecek belirli konak yerleri yapmıştık, \"Oralarda geceleri ve gündüzleri güven içinde gezin\" demiştik.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|P|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًى ظَٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlarla, kutlu kıldığımız şehirler arasında, karşıdan karşıya görünen kasabalar var etmiş, oraları gezilecek belirli konak yerleri yapmıştık, \"Oralarda geceleri ve gündüzleri güven içinde gezin\" demiştik.",
+      "contextual_meaning": "Sayılı gece dizileri ve kırık çoğul (`19:10`, `34:18`, `69:7`, `89:2`): Zekeriyyâ'nın üç gece konuşamama işareti (`19:10`), Sebe' ülkesinde güvenli gece yolculukları (`34:18`), Âd kavmine esen yedi gecelik kasırga (`69:7`) ve Fecr sûresindeki on gece (`89:2`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 33,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:33",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ",
+      "context_snippet_turkish_tabula_rasa": "... \"Hayır gece gündüz hile kuruyor ve bize Allah'ı gerçeğin üzerini ört, O'na ortaklar koşmamızı emrediyordunuz\" derler. Azabı gördüklerinde, ettiklerine içleri yanar. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Güçsüz sayılanlar da büyüklük taslayanlara: \"Hayır gece gündüz hile kuruyor ve bize Allah'ı gerçeğin üzerini ört, O'na ortaklar koşmamızı emrediyordunuz\" derler. Azabı gördüklerinde, ettiklerine içleri yanar. gerçeğin üzerini örtenlerin boyunlarına demir halkalar vururuz. Yaptıklarından başka bir şeyin mi cezasını çekerler?",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 13,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:13",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ",
+      "context_snippet_turkish_tabula_rasa": "Allah, geceyi gündüze katar, gündüzü geceye katar; belirli bir süre içinde hareket eden güneş ve ayı buyruk altına almıştır. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, geceyi gündüze katar, gündüzü geceye katar; belirli bir süre içinde hareket eden güneş ve ayı buyruk altına almıştır. İşte bu, Rabbiniz olan Allah'tır, hükümranlık O'nundur. O'nu bırakıp taptıklarınız, bir çekirdek kabuğuna bile sahip değillerdir.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 13,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:13",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, geceyi gündüze katar, gündüzü geceye katar; belirli bir süre içinde hareket eden güneş ve ayı buyruk altına almıştır. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, geceyi gündüze katar, gündüzü geceye katar; belirli bir süre içinde hareket eden güneş ve ayı buyruk altına almıştır. İşte bu, Rabbiniz olan Allah'tır, hükümranlık O'nundur. O'nu bırakıp taptıklarınız, bir çekirdek kabuğuna bile sahip değillerdir.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 37,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:37",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلَّيْلُ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece (`ٱلَّيْلُ`, merfû mübtedâ/fâil; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara bir delil de gecedir; gündüzü ondan sıyırırız da karanlıkta kalıverirler.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara bir delil de gecedir; gündüzü ondan sıyırırız da karanlıkta kalıverirler.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 40,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:40",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلَّيْلُ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece (`ٱلَّيْلُ`, merfû mübtedâ/fâil; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ",
+      "context_snippet_turkish_tabula_rasa": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 138,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:138",
+      "word_position": 1,
+      "target_word_uthmani": "وَبِٱلَّيْلِ",
+      "target_word_rasm": "وبٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَبِٱلَّيْلِ أَفَلَا تَعْقِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sabah akşam, onların yerleri üzerinden geçersiniz. Akletmez misiniz?",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَبِٱلَّيْلِ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah akşam, onların yerleri üzerinden geçersiniz. Akletmez misiniz?",
+      "contextual_meaning": "Gece-gündüz bütününde ilâhî kuşatma ve insan sorumluluğu (`6:13,60`, `10:24,27`, `13:10`, `21:42`, `30:23`, `34:33`, `37:138`): Gecede uyuyup sığınan ile gündüz ortaya çıkanın bilgisinin eşit olması (`13:10`), gece-gündüz kurulan tuzaklar (`34:33`), geçilen helak yurtları (`37:138`) ve yüzleri kaplayan karanlık gece parçası tasviri (`10:27`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 5,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:5",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَٱلْأَرْضَ بِٱلْحَقِّ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri gerçekten yaratan O'dur. Geceyi gündüze dolar, gündüzü geceye dolar. Her biri belirli bir süreye kadar yörüngelerinde yürüyen güneş ve ayı buyruk altında tutar. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri gerçekten yaratan O'dur. Geceyi gündüze dolar, gündüzü geceye dolar. Her biri belirli bir süreye kadar yörüngelerinde yürüyen güneş ve ayı buyruk altında tutar. Dikkat edin, güçlü olan, çok bağışlayan O'dur.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 5,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:5",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri gerçekten yaratan O'dur. Geceyi gündüze dolar, gündüzü geceye dolar. Her biri belirli bir süreye kadar yörüngelerinde yürüyen güneş ve ayı buyruk altında tutar. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى أَلَا هُوَ ٱلْعَزِيزُ ٱلْغَفَّٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri gerçekten yaratan O'dur. Geceyi gündüze dolar, gündüzü geceye dolar. Her biri belirli bir süreye kadar yörüngelerinde yürüyen güneş ve ayı buyruk altında tutar. Dikkat edin, güçlü olan, çok bağışlayan O'dur.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 9,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:9",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin boyun eğme ve teslimiyet ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse gerçeğin üzerini örten kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar. ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin boyun eğme ve teslimiyet ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse gerçeğin üzerini örten kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar.\"",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 61,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:61",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ",
+      "context_snippet_turkish_tabula_rasa": "Size, geceyi dinlenesiniz diye karanlık ve gündüzü aydınlık olarak yaratan Allah'tır. Doğrusu Allah insanlara karşı lütufkardır, ama insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size, geceyi dinlenesiniz diye karanlık ve gündüzü aydınlık olarak yaratan Allah'tır. Doğrusu Allah insanlara karşı lütufkardır, ama insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 41,
+      "ayah": 37,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:37",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلَّيْلُ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece (`ٱلَّيْلُ`, merfû mübtedâ/fâil; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ",
+      "context_snippet_turkish_tabula_rasa": "Gece ile gündüz, güneş ile ay Allah'ın varlığının belgelerindendir. Güneşe ve aya boyun eğme ve teslimiyet etmeyin; ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ile gündüz, güneş ile ay Allah'ın varlığının belgelerindendir. Güneşe ve aya boyun eğme ve teslimiyet etmeyin; eğer Allah'a kulluk etmek istiyorsanız, bunları yaratana boyun eğip teslim olun.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 38,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:38",
+      "word_position": 8,
+      "target_word_uthmani": "بِٱلَّيْلِ",
+      "target_word_rasm": "بٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا",
+      "context_snippet_turkish_tabula_rasa": "Eğer büyüklük taslarlarsa kendi aleyhlerinedir. Rabbinin katında bulunanlar hiç usanmadan, O'nu gece gündüz tesbih ederler.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer büyüklük taslarlarsa kendi aleyhlerinedir. Rabbinin katında bulunanlar hiç usanmadan, O'nu gece gündüz tesbih ederler.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 3,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:3",
+      "word_position": 4,
+      "target_word_uthmani": "لَيْلَةٍ",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Mübarek bir gecede (`لَيْلَةٍ`, harf-i cerr ile belirsiz mecrûr, tekil dişil)",
+      "context_snippet_arabic": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا",
+      "context_snippet_turkish_tabula_rasa": "Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız.",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةٍ مُّبَٰرَكَةٍ إِنَّا كُنَّا مُنذِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız.",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    },
+    {
+      "surah": 44,
+      "ayah": 23,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:23",
+      "word_position": 3,
+      "target_word_uthmani": "لَيْلًا",
+      "target_word_rasm": "ليلا",
+      "target_word_literal_irab": "Bir gece vakti (`لَيْلًا`, belirsiz zaman zarfı mansûb, tekil eril)",
+      "context_snippet_arabic": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah da şöyle buyurdu: \"Kullarımı geceleyin yola çıkar; şüphesiz takip olunacaksınız.\"",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah da şöyle buyurdu: \"Kullarımı geceleyin yola çıkar; şüphesiz takip olunacaksınız.\"",
+      "contextual_meaning": "Geceleyin kurtuluş ve tarihî yürüyüş (`11:81`, `15:65`, `17:1`, `44:23`): Lût ailesinin (`بِقِطْعٍ مِّنَ ٱلَّيْلِ`) ve Mûsâ önderliğindeki kulların (`لَيْلًا`) gece yola çıkarılması ile elçinin Mescid-i Harâm'dan Mescid-i Aksâ'ya gece yürütülmesi (`17:1`)."
+    },
+    {
+      "surah": 45,
+      "ayah": 5,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:5",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ",
+      "context_snippet_turkish_tabula_rasa": "Gece ile gündüzün birbiri ardından gelmesinde, gökten, Allah'ın rızık vermek için yağmur indirip, yeri onunla, ölümünden sonra diriltmesinde, rüzgarları yönetmesinde, akleden kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَٰحِ ءَايَٰتٌ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ile gündüzün birbiri ardından gelmesinde, gökten, Allah'ın rızık vermek için yağmur indirip, yeri onunla, ölümünden sonra diriltmesinde, rüzgarları yönetmesinde, akleden kimseler için dersler vardır.",
+      "contextual_meaning": "Gece ve gündüzün ardışık dönüşümü (`2:164`, `3:190`, `10:6`, `23:80`, `25:62`, `45:5`): Evrendeki düzenli devir (`ٱخْتِلَٰف` / `خِلْفَة`), akleden ve nimetin değerini bilmek isteyenler için başlı başına kozmik kanıttır."
+    },
+    {
+      "surah": 50,
+      "ayah": 40,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:40",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin ve boyun eğişlerin ardından O'nu tesbih et.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin ve boyun eğişlerin ardından O'nu tesbih et.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 51,
+      "ayah": 17,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:17",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, geceleri az uyuyanlardı.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, geceleri az uyuyanlardı.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 52,
+      "ayah": 49,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:49",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 6,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:6",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüze katar, gündüzü geceye katar; O kalblerde olanı bilendir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüze katar, gündüzü geceye katar; O kalblerde olanı bilendir.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 6,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:6",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَهُوَ عَلِيمٌۢ بِذَاتِ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüze katar, gündüzü geceye katar; O kalblerde olanı bilendir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَهُوَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüze katar, gündüzü geceye katar; O kalblerde olanı bilendir.",
+      "contextual_meaning": "Gecenin gündüze katılıp sarılması (`3:27`, `7:54`, `13:3`, `22:61`, `24:44`, `31:29`, `35:13`, `39:5`, `57:6`): Mevsimsel ve küresel geçişlerle gecenin gündüz içine geçirilmesi (`يُولِجُ`), bürünmesi (`يُغْشِى`) ve küre üzerine sarık gibi dolanması (`يُكَوِّرُ` `39:5`)."
+    },
+    {
+      "surah": 69,
+      "ayah": 7,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:7",
+      "word_position": 4,
+      "target_word_uthmani": "لَيَالٍ",
+      "target_word_rasm": "ليال",
+      "target_word_literal_irab": "Geceler / gecelere (`لَيَالٍ / وَلَيَالٍ`, mankûs kırık çoğul belirsiz mecrûr, son `ي` tenvîn-i ivazla hazifli)",
+      "context_snippet_arabic": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًا",
+      "context_snippet_turkish_tabula_rasa": "Allah onların kökünü kesmek üzere, üzerlerine o rüzgarı yedi gece sekiz gün, estirdi. Halkın, kökünden çıkarılmış hurma kütükleri gibi yere yıkıldıklarını görürsün.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|P|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومًا فَتَرَى ٱلْقَوْمَ فِيهَا صَرْعَىٰ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onların kökünü kesmek üzere, üzerlerine o rüzgarı yedi gece sekiz gün, estirdi. Halkın, kökünden çıkarılmış hurma kütükleri gibi yere yıkıldıklarını görürsün.",
+      "contextual_meaning": "Sayılı gece dizileri ve kırık çoğul (`19:10`, `34:18`, `69:7`, `89:2`): Zekeriyyâ'nın üç gece konuşamama işareti (`19:10`), Sebe' ülkesinde güvenli gece yolculukları (`34:18`), Âd kavmine esen yedi gecelik kasırga (`69:7`) ve Fecr sûresindeki on gece (`89:2`)."
+    },
+    {
+      "surah": 71,
+      "ayah": 5,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:5",
+      "word_position": 6,
+      "target_word_uthmani": "لَيْلًا",
+      "target_word_rasm": "ليلا",
+      "target_word_literal_irab": "Geceleyin / uzun bir gece boyu (`لَيْلًا`, belirsiz zaman zarfı mansûb, POS:T)",
+      "context_snippet_arabic": "إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+      "context_snippet_turkish_tabula_rasa": "Nuh dedi ki: \"Rabbim! Doğrusu ben, milletimi gece gündüz çağırdım.\"",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "T",
+        "features": "STEM|POS:T|LEM:layol|ROOT:lyl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh dedi ki: \"Rabbim! Doğrusu ben, milletimi gece gündüz çağırdım.\"",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 2,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:2",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 6,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:6",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا",
+      "context_snippet_turkish_tabula_rasa": "şüphesiz, gece kalkışı daha tesirli ve o zaman okumak daha elverişlidir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "şüphesiz, gece kalkışı daha tesirli ve o zaman okumak daha elverişlidir.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; ...",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 33,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:33",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+      "context_snippet_turkish_tabula_rasa": "... Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan yakıcı yıkım yurdu büyük olaylardan biridir.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan yakıcı yıkım yurdu büyük olaylardan biridir.",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 76,
+      "ayah": 26,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:26",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلِ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 76,
+      "ayah": 26,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:26",
+      "word_position": 6,
+      "target_word_uthmani": "لَيْلًا",
+      "target_word_rasm": "ليلا",
+      "target_word_literal_irab": "Geceleyin / uzun bir gece boyu (`لَيْلًا`, belirsiz zaman zarfı mansûb, POS:T)",
+      "context_snippet_arabic": "فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "T",
+        "features": "STEM|POS:T|LEM:layol|ROOT:lyl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "contextual_meaning": "Gece disiplini, öz denetim ve içsel uyanıklık (`2:187`, `2:274`, `3:113`, `11:114`, `17:78-79`, `20:130`, `39:9`, `50:40`, `51:17`, `52:49`, `73:2,6,20`, `76:26`): Gece kalkışının kalp-dil bütünlüğüne en sağlam zemin oluşturması (`73:6`), infak (`2:274`), geceye kadar süren öz denetim (`2:187`), Nûh'un gece gündüz çağrısı (`71:5`) ve yüksek görevlilerin kesintisiz tesbihi (`21:20`, `41:38`)."
+    },
+    {
+      "surah": 78,
+      "ayah": 10,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:10",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلَّيْلَ",
+      "target_word_rasm": "ٱليل",
+      "target_word_literal_irab": "Geceyi (`ٱلَّيْلَ`, mef'ûl-i bih/zarf mansûb; Rasm-ı Osmânî'de tek lâm ile `ٱليل` yazımlı)",
+      "context_snippet_arabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "context_snippet_turkish_tabula_rasa": "Geceyi bir örtü yaptık;",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi bir örtü yaptık;",
+      "contextual_meaning": "Rahmet, dinlenme ve sükûnet örtüsü (`6:96`, `10:67`, `25:47`, `27:86`, `28:71-73`, `40:61`, `78:10`): Gecenin koruyucu bir elbise (`لِبَاسًا`) ve dinginlik yuvası (`سَكَنًا`) kılınması; kesintisiz gece veya kesintisiz gündüz halinde dengenin nasıl çökeceğinin `28:71-72` sorusuyla kanıtlanması."
+    },
+    {
+      "surah": 79,
+      "ayah": 29,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:29",
+      "word_position": 2,
+      "target_word_uthmani": "لَيْلَهَا",
+      "target_word_rasm": "ليلها",
+      "target_word_literal_irab": "Gecesini (`لَيْلَهَا`, mef'ûl-i bih mansûb + zamir, tekil eril)",
+      "context_snippet_arabic": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Gecesini karanlık yapmış, gündüzünü aydınlatmıştır.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Gecesini karanlık yapmış, gündüzünü aydınlatmıştır.",
+      "contextual_meaning": "Yörüngesel sınır, gök cisimleri ve gece işaretinin silinmesi (`6:76`, `14:33`, `16:12`, `17:12`, `21:33`, `36:37,40`, `41:37`, `79:29`): Gecenin gündüzü geçememesi (`36:40`), güneş ve aya secde edilmeyip yalnız Yaratana yönelinmesi (`41:37`), İbrâhîm'in karanlıkta batan yıldızı sorgulaması (`6:76`)."
+    },
+    {
+      "surah": 81,
+      "ayah": 17,
+      "surah_name": "Tekvîr",
+      "ayah_ref": "81:17",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "context_snippet_turkish_tabula_rasa": "Kararmaya başlayan geceye and olsun;",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kararmaya başlayan geceye and olsun;",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 84,
+      "ayah": 17,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:17",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "context_snippet_turkish_tabula_rasa": "Geceye ve gecenin içinde olan şeylere and olsun;",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceye ve gecenin içinde olan şeylere and olsun;",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 89,
+      "ayah": 2,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:2",
+      "word_position": 1,
+      "target_word_uthmani": "وَلَيَالٍ",
+      "target_word_rasm": "وليال",
+      "target_word_literal_irab": "Geceler / gecelere (`لَيَالٍ / وَلَيَالٍ`, mankûs kırık çoğul belirsiz mecrûr, son `ي` tenvîn-i ivazla hazifli)",
+      "context_snippet_arabic": "وَلَيَالٍ عَشْرٍ",
+      "context_snippet_turkish_tabula_rasa": "Zilhicce ayının ilk on gecesine and olsun;",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَيَالٍ عَشْرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Zilhicce ayının ilk on gecesine and olsun;",
+      "contextual_meaning": "Sayılı gece dizileri ve kırık çoğul (`19:10`, `34:18`, `69:7`, `89:2`): Zekeriyyâ'nın üç gece konuşamama işareti (`19:10`), Sebe' ülkesinde güvenli gece yolculukları (`34:18`), Âd kavmine esen yedi gecelik kasırga (`69:7`) ve Fecr sûresindeki on gece (`89:2`)."
+    },
+    {
+      "surah": 89,
+      "ayah": 4,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:4",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "context_snippet_turkish_tabula_rasa": "Gelip geçen geceye and olsun ki, bunların her biri akıl sahibi için birer bağlayıcı ahde değmez mi?",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gelip geçen geceye and olsun ki, bunların her biri akıl sahibi için birer bağlayıcı ahde değmez mi?",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 91,
+      "ayah": 4,
+      "surah_name": "Şems",
+      "ayah_ref": "91:4",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Onu bürüyen geceye,",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Onu bürüyen geceye,",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 92,
+      "ayah": 1,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:1",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kararıp ortalığı bürüdüğü zaman geceye and olsun.",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kararıp ortalığı bürüdüğü zaman geceye and olsun.",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 93,
+      "ayah": 2,
+      "surah_name": "Duhâ",
+      "ayah_ref": "93:2",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلَّيْلِ",
+      "target_word_rasm": "وٱليل",
+      "target_word_literal_irab": "Gece / gecede / geceye (`ٱلَّيْلِ / بِٱلَّيْلِ / وَٱلَّيْلِ / وَبِٱلَّيْلِ`, izâfet/cerr/kasem mecrûru; tek lâm yazımlı)",
+      "context_snippet_arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sükun erdiği zaman geceye and olsun ki,",
+      "morphology": {
+        "lemma": "layol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layol|ROOT:lyl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sükun erdiği zaman geceye and olsun ki,",
+      "contextual_meaning": "Mekkî sûrelerde gecenin fiziksel evreleri üzerine kozmik antlar (`74:33`, `81:17`, `84:17`, `89:4`, `91:4`, `92:1`, `93:2`): Sırtını dönen (`أَدْبَرَ`), kararıp çekilen (`عَسْعَسَ`), varlığı toplayan (`وَمَا وَسَقَ`), yürüyüp giden (`يَسْرِ`), bürüyen (`يَغْشَى`) ve durulan (`سَجَىٰ`) gece evreleriyle yapılan tanıklıklar."
+    },
+    {
+      "surah": 97,
+      "ayah": 1,
+      "surah_name": "Kadir",
+      "ayah_ref": "97:1",
+      "word_position": 4,
+      "target_word_uthmani": "لَيْلَةِ",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Kadir gecesinde (`لَيْلَةِ`, harf-i cerr ile muzâf mecrûr, tekil dişil)",
+      "context_snippet_arabic": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|GEN"
+      },
+      "ayah_text_arabic_full": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    },
+    {
+      "surah": 97,
+      "ayah": 2,
+      "surah_name": "Kadir",
+      "ayah_ref": "97:2",
+      "word_position": 4,
+      "target_word_uthmani": "لَيْلَةُ",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Kadir gecesi (`لَيْلَةُ`, merfû tekil dişil)",
+      "context_snippet_arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "context_snippet_turkish_tabula_rasa": "Kadir gecesinin ne olduğunu sen bilir misin?",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadir gecesinin ne olduğunu sen bilir misin?",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    },
+    {
+      "surah": 97,
+      "ayah": 3,
+      "surah_name": "Kadir",
+      "ayah_ref": "97:3",
+      "word_position": 1,
+      "target_word_uthmani": "لَيْلَةُ",
+      "target_word_rasm": "ليلة",
+      "target_word_literal_irab": "Kadir gecesi (`لَيْلَةُ`, merfû tekil dişil)",
+      "context_snippet_arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ",
+      "context_snippet_turkish_tabula_rasa": "Kadir gecesi bin aydan hayırlıdır.",
+      "morphology": {
+        "lemma": "layolap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:layolap|ROOT:lyl|F|NOM"
+      },
+      "ayah_text_arabic_full": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadir gecesi bin aydan hayırlıdır.",
+      "contextual_meaning": "Belirleyici vahiy ve sözleşme geceleri (`2:51`, `7:142`, `44:3`, `97:1-3`): Mûsâ'ya otuz artı on eşittir kırk gece vade (`لَيْلَةً`) verilmesi ile Kur'an'ın bereketli ve ölçü değeri taşıyan (`لَيْلَةِ ٱلْقَدْرِ`) gecede indirilmesi."
+    }
+  ]
+}

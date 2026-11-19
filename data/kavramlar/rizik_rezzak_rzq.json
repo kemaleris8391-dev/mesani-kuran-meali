@@ -1,0 +1,2560 @@
+{
+  "root": "ر-ز-ق",
+  "root_latin": "R-Z-K (Rzq)",
+  "concept_name": "Rızık / Rezzâk (Zamanlı Tahsisat, Yaşam Payı ve Sürdürülebilir Geçim Kaynağı)",
+  "rank": 93,
+  "total_occurrences": 123,
+  "unique_ayahs_count": 109,
+  "unified_core_mechanism": "Kökün 123 geçişlik ağını tek yaşam-döngüsü ekseni bağlar: 'Varlığın hayatını ve görevini sürdürebilmesi için vaktiyle önüne konulan somut ve manevi pay (`رِزْق`)'. Dört kolda işler: (1) Kozmik ve ekolojik geçim garantisi (`11:6`, `15:20`, `29:60`, `51:58` `ٱلرَّزَّاقُ`, `67:21`). (2) Alınan payı temiz tüketip (`2:172`, `5:88`) başkasıyla bölüşme etiği (`2:3`, `4:5,8`, `2:233`, `16:71,75`, `34:39`). (3) Zenginlik genişliği ve darlık ölçüsü (`يَبْسُطُ وَيَقْدِرُ` `34:36`, `16:112`, `28:57`). (4) Kalıcı onur ve manevi beslenme (`2:25`, `3:37,169`, `11:88`, `20:131-132`, `65:11`).",
+  "physical_core": "Ham fiziki çekirdek: 'Belirli aralıklarla ve düzenli zamanlarda ayrılıp teslim edilen yaşam payı, tayın ve sürdürülebilirlik tahsisatı (`عَطَاءٌ لِوَقْتٍ`)'. Kur'an'da en somut örnekleriyle sütle emzirilen bebeğin ve annesinin günlük geçim ve giyim hakkı (`رِزْقُهُنَّ وَكِسْوَتُهُنَّ` `2:233`), cezaevindeki mahkûmlara günlük çıkarılan tayın yemek (`طَعَامٌ تُرْزَقَانِهِ` `12:37`), yuvadaki canlıya taşınamasa bile ulaştırılan gıda (`29:60`) ve yağmurun indirdiği meyve mahsulü (`2:22`, `28:57`) olarak tecelli eder; buradan bilgi, doğruluk ve manevi doyum anlamına (`رِزْقًا حَسَنًا`, `11:88`, `22:58`, `65:11`) genişler.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün ana çekirdeğini `عَطَاءٌ لِوَقْتٍ` (vakitli düzenli tahsisat/tayın) olarak kurar ve sonradan vakte bağlı olmayan her bağışı kapsadığını belirtir. Ayrıca Ezd Şenûe Arapçasında `رِزْق`in yer yer `شُكْر` ('nimete karşılık şükür payı') anlamında kullanıldığını kaydedip `56:82` ayetini (`وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ`) bu doğrultuda okur.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn) ve klasik kök geleneği: Fethalı `رَزْق` fiilin masdarı, kesreli `رِزْق` ise verilen somut pay ve yararlanılan ganimet/tayın ismidir; canlıya hayatı sürdürmesi için ulaştırılan her türlü faydadır.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): `ٱلرِّزْق` iki kısımdır: Bedenlerin ayakta kalmasını sağlayan dışsal gıdalar (yiyecek, yağmur, meyve, mal) ve kalbi/aklı besleyen içsel rızıklar (bilgi, hikmet, esenlik). Yağmur da geçimin doğrudan sebebi olduğu için mecazen 'rızık' diye adlandırılmıştır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `ٱلرِّزْق` sürekli veya belirli sürelerde bahşedilen dünyalık ya da kalıcı yarar payıdır. `رَازِق` (ism-i fâil) geçim vesilesini sağlayan herkes için mecazen/kısmen söylense de (`4:5,8`de insanlara emredilir), `ٱلرَّزَّاق` (mübalağa sıfatı `51:58`) rızkı yoktan var edip bütün canlılara ulaştıran tek Yaratıcıya özgüdür.",
+    "arbitration_decision": "Tahkim Kararı: Kök dört dengede sabitlenir: (1) Dünyalık geçim ve gıda tahsisatı (`2:233`, `11:6`, `12:37`, `29:60`), (2) İnsanların yetim/muhtaç ve bakmakla yükümlü olduklarına pay ayırma görevi (`2:3`, `4:5,8`) karşısında mutlak yaratıcılık sınırı (`15:20`), (3) Bollaştırma-daraltma yasası (`يَبْسُطُ ٱلرِّزْقَ وَيَقْدِرُ` `34:36,39`), (4) Kalıcı ve hesapsız onursal rızık (`2:25`, `3:37,169`, `20:131`, `24:38`, `65:11`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*r-z-q ('günlük tayın, düzenli yaşam payı, geçim tahsisatı' — Arap Yarımadası ve Geç Antik Yakın Doğu kültür havzası kökü; Sebece yazıtlarla Orta Farsça-Süryanice kültür etkileşimi tartışmalı)",
+    "hebrew": "Klasik Kutsal Kitap İbranicesinde `r-z-q` kökü yerli fiil olarak geçmez (bunun yerine *leḥem* 'ekmek', *ṭeref* veya *māzōn* 'gıda/azık' kullanılır); Arapça ve Süryanice üzerinden Orta/Geç dönem İbrani metinlerinde temas görülmüştür.",
+    "aramaic_syriac": "Klasik Süryanicede `ܪܙܩܐ` (*rzqā*: 'tayın, günlük ücret, azık, geçimlik pay') sözcüğü doğrudan paraleldir; geçim/askerî tayın ve günlük istihkak terminolojisinde Yakın Doğu Aramca ve Arapça çevrelerinin ortak söz varlığına girmiştir.",
+    "north_arabian_sabaic": "Epigrafik Güney Arapçada (Sebece, özellikle Cebel Zabûb gibi geç İslam öncesi/geçiş dönemi Güney Arabistan yazıtlarında) `rzq` (*rzq-n m-fḍl-k*: 'lütfundan bize rızık/pay ver') yakarış formüllerinde belgelenmiştir.",
+    "akkadian_geez": "Doğu Samicede Akadca 'tayın/vergi/gıda payı' anlamı için *ipru* / *kurummatu*, Klasik Ge'ez ise *sisāy* kullanır. Tarihsel dilbilimde *r-z-q* kökünün kökeni üzerine iki görüş vardır: (a) İran dillerindeki Orta Farsça *rōzīg* ('günlük tayın', *rōz* 'gün'den) sözcüğünün Aramca/Süryanice aracılığıyla Arapçaya girip üçlü fiil köküne uydurulduğu kültür kelimesi (*Wanderwort*) tezi; (b) Sebece ve Kuzey Arapça yazıtların gösterdiği üzere erken Arap Yarımadası söz varlığında yerelleşmiş kök olması.",
+    "phonological_note": "Önemli dil tarihi notu: `r-z-q` kökü köken tartışması ne olursa olsun Mushaf öncesi Arapçada öylesine eksiksiz biçimde üçlü Arapça kalıp sistemine yerleşmiştir ki (`رَزَقَ / يَرْزُقُ / رُزِقُوا / تُرْزَقَانِ / رِزْق / رَازِقِين / رَزَّاق`) yalnızca somut günlük tayın değil, İbn Fâris'in dikkat çektiği `عطاء لوقت` (zamanlı bağış) temel mantığını tam bir I. bab paradigmasıyla üretir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-س-ط ↔ ق-د-ر (`يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ` — Rızkı Genişletip Yayma vs Ölçülü Kısıtlama — `13:26`, `17:30`, `28:82`, `29:62`, `30:37`, `34:36,39`, `39:52`, `42:12`)",
+      "إِمْسَاك ↔ إِرْسَال / رَزْق (`يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ` — Rızık Akıtma vs Kısıp Tutma — `67:21`)",
+      "ن-ف-ق (`وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` — İçe Alınan Geçim Payı `رِزْق` vs Dışarı Akıtılan Paylaşım `إِنْفَاق` — `2:3`, `8:3`, `16:75`, `28:54`)",
+      "ج-و-ع (`رِزْقُهَا رَغَدًا ↔ لِبَاسَ ٱلْجُوعِ` — Bol ve Rahat Rızık vs Açlık Kıskacı — `16:112`)"
+    ],
+    "key_ayahs": [
+      "34:36 & 34:39 (يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ لَهُۥ — yayma ve ölçme ikilisi)",
+      "20:132 & 51:57-58 (لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ / مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ — kuldan rızık istemeyen Mutlak Rezzâk)",
+      "2:3 & 16:75 (وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ — alış (rızık) ve veriş (infak) dengesi)",
+      "67:21 & 16:112 (إِنْ أَمْسَكَ رِزْقَهُۥ / رِزْقُهَا رَغَدًا ↔ لِبَاسَ ٱلْجُوعِ)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ر-ز-ق canlıya yaşamını sürdürmesi için açılan düzenli pay ve tahsisatsa zıddı nedir?' Cevap: Tutup kısmak (`إِمْسَاك` `67:21`), ölçüyü daraltmak (`يَقْدِرُ` `34:36,39`) ve açlık kıtlığına düşmek (`لِبَاسَ ٱلْجُوعِ` `16:112`); toplumsal akıştaki ikiz tamamlayıcısı ise `رَزَقْنَٰهُمْ ↔ يُنفِقُونَ` (`2:3`, `16:75`) yani alınan payı başkasına aktarmaktır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "رُزِقُوا۟ (`Verilen Nimet Olayı`) vs رِزْقًا (`Olayın Kendisi Olan Pay`) vs رُزِقْنَا (`Önceden Tanınan Geçmiş Rızık`) — Tek Ayette `3` Kez (`2:25`)",
+      "لَيَرْزُقَنَّهُمُ (`Kesinlikle Verecektir Fiili`) vs رِزْقًا حَسَنًا (`Güzel Rızık İsim Tamlaması`) vs خَيْرُ ٱلرَّٰزِقِينَ (`En Hayırlı Rızık Veren İsm-i Fâil`) — Tek Ayette `3` Kez (`22:58`)",
+      "لَا نَسْـَٔلُكَ رِزْقًا (`Senden Geçim İstemiyoruz`) vs نَّحْنُ نَرْزُقُكَ (`Seni Biz Besliyoruz`) — `20:132`",
+      "وَرَزَقَنِى (`Bana Lütuf Eylemi`) vs رِزْقًا حَسَنًا (`Verilen Güzel Pay`) — `11:88`",
+      "يَرْزُقُكُمْ (`Size Rızık Veren`) vs إِنْ أَمْسَكَ رِزْقَهُۥ (`Eğer Rızkını Tutup Keserse`) — `67:21`"
+    ],
+    "mechanical_difference": "1) Kök `2:25` ve `22:58`de tek ayette `3`er kez, ayrıca `10` ayette ikişer kez geçer. `2:25`te hem meçhul mâzî (`رُزِقُوا۟` ... `رُزِقْنَا`) hem sade isim (`رِزْقًا`) kullanılarak dünyadaki fiziksel meyve deneyimiyle öteki boyuttaki kalıcı rızık arasındaki süreklilik ve benzerlik kurulur. 2) `22:58` tek ayette `3` farklı sarf formunu birleştirir: tekitli muzâri (`لَيَرْزُقَنَّهُمُ`), sade isim (`رِزْقًا`) ve çoğul ism-i fâil (`ٱلرَّٰزِقِينَ`). 3) `20:132` aynı cümlede insan-Yaratıcı yönünü tersine çevirir: eski inanışlarda kullar ilahlara rızık/sunu götürürken, vahiy 'Biz senden rızık istemiyoruz (`لَا نَسْـَٔلُكَ رِزْقًا`), seni Biz rızıklandırıyoruz (`نَّحْنُ نَرْزُقُكَ`)' diyerek bağımlılık ilişkisini kökten düzeltir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "51:57-58 & 20:132",
+      "role": "Mutlak Rezzâk Hapax Çapası (إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ / لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ)",
+      "literal_meaning": "'Ben onlardan herhangi bir geçim/rızık (`مِّن رِّزْقٍ`) istemiyorum, Beni doyurmalarını da istemiyorum. Kuşkusuz rızkı kesintisiz sağlayan (`ٱلرَّزَّاقُ`) yalnızca Allah'tır.'"
+    },
+    {
+      "ref": "11:6 & 29:60",
+      "role": "Canlılar Alemi Güvence Çapası (وَمَا مِن دَآبَّةٍ ... إِلَّا عَلَى ٱللَّهِ رِزْقُهَا)",
+      "literal_meaning": "'Yeryüzünde yürüyen hiçbir canlı yoktur ki rızkı (`رِزْقُهَا`) Allah'a ait olmasın' ve 'nice canlı var ki kendi azığını taşıyamaz; onu da sizi de Allah besler (`يَرْزُقُهَا`).'"
+    },
+    {
+      "ref": "2:233 & 4:5,8",
+      "role": "İnsanlar Arası Geçim Hukuku ve Paylaşım Emri Çapası (رِزْقُهُنَّ / وَٱرْزُقُوهُمْ)",
+      "literal_meaning": "'Çocuğu doğan babaya annelerin örfe uygun biçimde geçimini (`رِزْقُهُنَّ`) ve giyimini sağlama borcu vardır' ve 'yetimlere ve yoksullara o maldan pay ayırıp verin (`وَٱرْزُقُوهُمْ`).'"
+    },
+    {
+      "ref": "34:36,39 & 16:71",
+      "role": "Genişletme-Ölçme ve Sosyal Adalet Çapası (يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ)",
+      "literal_meaning": "'Rabbim dilediği kimseye rızkı genişçe açar (`يَبْسُطُ ٱلرِّزْقَ`) ve ölçüp kısar (`وَيَقْدِرُ`), iyilik için harcadığınız her şeyin yerine de yenisini koyar; O rızık verenlerin en hayırlısıdır (`خَيْرُ ٱلرَّٰزِقِينَ`).'"
+    },
+    {
+      "ref": "2:3 & 2:172 & 5:88",
+      "role": "Temiz Rızık ve Paylaşım Döngüsü Çapası (مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ)",
+      "literal_meaning": "'Size rızık olarak verdiklerimizin temiz ve yararlı olanlarından yiyin (`كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ`)' ve 'kendilerine verdiğimiz paydan paylaşanlar (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ`).'"
+    },
+    {
+      "ref": "12:37 & 3:37",
+      "role": "Günlük Tayın (`تُرْزَقَانِهِ`) ve Hesapsız Rızık (`بِغَيْرِ حِسَابٍ`) Çapası",
+      "literal_meaning": "'Size rızık olarak getirilen bir yemek (`طَعَامٌ تُرْزَقَانِهِ`) gelmeden önce...' ve 'Zekeriyyâ ne zaman yanına girse orada taze bir rızık (`رِزْقًا`) bulurdu; Allah dilediğini hesapsız (`بِغَيْرِ حِسَابٍ`) besler.'"
+    },
+    {
+      "ref": "56:82",
+      "role": "Şükür-Yalanlama Tersinmesi Çapası (وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ)",
+      "literal_meaning": "'Size ayrılan nimet payının karşılığını (`رِزْقَكُمْ` — İbn Fâris'in aktardığı şükür anlamıyla bağlantılı) gerçeği yalanlamak mı kılıyorsunuz?'"
+    },
+    {
+      "ref": "15:20 & 67:21",
+      "role": "İnsanın Üretim Sınırı Çapası (وَمَآ أَنتُمْ لَهُۥ بِرَٰزِقِينَ)",
+      "literal_meaning": "'Yeryüzünde hem sizin hem de sizin kendilerine rızık vermediğiniz (`وَمَآ أَنتُمْ لَهُۥ بِرَٰزِقِينَ`) sayısız varlık için geçimlikler yarattık' ve 'O rızkını kesse size kim rızık verebilir?'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök bütün Kur'an'da yalnızca I. bab fiil (`61 V` `رَزَقَ`) ve üç isim kalıbında (`رِزْق` `55 N`, `رَازِقِين` `6 N`, `ٱلرَّزَّاقُ` `1 N`) çekimlenir; II.–X. türev fiil babı hiç yoktur. 2) Dikkat çekici morfoloji olarak `رِزْق` ismi hiçbir zaman `رِزْقٌ` dışında çoğul `أَرْزَاق` şeklinde geçmez, her `55` kullanımın tamamı tekil `رِزْق` kalıbındadır (tür ve cins ismi gibi bütün geçim alanlarını tekilde toplar). 3) İsm-i fâil formu `رَازِق` de hiç tekil gelmez; daima cem-i müzekker sâlim mecrûr `ٱلرَّٰزِقِينَ` (`5:114`, `22:58`, `23:72`, `34:39`, `62:11`) veya `بِرَٰزِقِينَ` (`15:20`) şeklinde geçer. Buna karşılık Allah'a özgü yoğunluk sıfatı `ٱلرَّزَّاقُ` (`51:58`) tekil marife merfûdur. 4) `4:5` ve `4:8`de `IMPV|2MP` (`وَٱرْزُقُوهُمْ`, `فَٱرْزُقُوهُم`) doğrudan insanlara hitaben kullanılırken, `12:37`deki `تُرْزَقَانِهِ` kökteki tek ikil meçhul muzâri (`2MD`) formudur. 5) `109` ayet içinde `2` ayette `3`er kez (`2:25`, `22:58`), `10` ayette `2`şer kez geçer; `57` ayrı Rasm-ı Osmânî yazımı vardır.",
+  "derivatives": {
+    "رَزَقَ (`61 V`, I. bab malum/meçhul/emir)": "Her canlıyı besleme (`11:6`, `29:60`), helal nimet sunma (`2:172`, `5:88`), yetim ve yakına pay ayırma emri (`4:5,8`), cezaevi tayını (`12:37`) ve ölümsüzlük rızkı (`3:169`)",
+    "رِزْق (`55 N`, yalnızca tekil masdar-isim)": "Günlük geçim ve giyim hakkı (`2:233`), genişlik-kısıtlılık sınavı (`34:36,39`), güven yurdu meyveleri (`28:57`), kalıcı rızık (`20:131`) ve şükür sorumluluğu (`56:82`)",
+    "رَازِقِينَ (`6 N`, çoğul ism-i fâil) & ٱلرَّزَّاقُ (`1 N` hapax `51:58`)": "`خَيْرُ ٱلرَّٰزِقِينَ` üstünlüğü (`5` yer), insanların gerçek var edici olmayışı (`15:20`) ve Mutlak Besleyici `ٱلرَّزَّاقُ` (`51:58`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 3,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:3",
+      "word_position": 7,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, gaybe güven duyup emin olurlar, irtibat ve sorumluluk bağını ayakta tutarlar, kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, gaybe güven duyup emin olurlar, irtibat ve sorumluluk bağını ayakta tutarlar, kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 2,
+      "ayah": 22,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:22",
+      "word_position": 16,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Gökten su indirip onunla size rızık olmak üzere ürünler meydana getirdi; artık Allah'a, bile bile eş koşmayın.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, yeryüzünü size bir döşek ve göğü de bir bina kıldı. Gökten su indirip onunla size rızık olmak üzere ürünler meydana getirdi; artık Allah'a, bile bile eş koşmayın.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 2,
+      "ayah": 25,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:25",
+      "word_position": 14,
+      "target_word_uthmani": "رُزِقُوا۟",
+      "target_word_rasm": "رزقوا",
+      "target_word_literal_irab": "Rızık ve nimetlerle beslendiklerinde / beslendik (`رُزِقُوا۟ / رُزِقْنَا`, I. bab edilgen mâzî)",
+      "context_snippet_arabic": "تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:razaqa|ROOT:rzq|3MP"
+      },
+      "ayah_text_arabic_full": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ve yararlı işler yapanlara, kendilerine altlarından ırmaklar akan esenlik bahçeleri olduğunu müjdele. Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. Onlara orada tertemiz eşler vardır ve orada temelli kalırlar.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 2,
+      "ayah": 25,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:25",
+      "word_position": 18,
+      "target_word_uthmani": "رِّزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى",
+      "context_snippet_turkish_tabula_rasa": "... Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ve yararlı işler yapanlara, kendilerine altlarından ırmaklar akan esenlik bahçeleri olduğunu müjdele. Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. Onlara orada tertemiz eşler vardır ve orada temelli kalırlar.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 2,
+      "ayah": 25,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:25",
+      "word_position": 22,
+      "target_word_uthmani": "رُزِقْنَا",
+      "target_word_rasm": "رزقنا",
+      "target_word_literal_irab": "Rızık ve nimetlerle beslendiklerinde / beslendik (`رُزِقُوا۟ / رُزِقْنَا`, I. bab edilgen mâzî)",
+      "context_snippet_arabic": "قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ وَأُتُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ve yararlı işler yapanlara, kendilerine altlarından ırmaklar akan esenlik bahçeleri olduğunu müjdele. Onlara buranın bir ürünü rızık olarak verildiğinde, \"Bu daha önce de rızıklandığımızdır\" derler. Bunlar, söylediklerinin benzerleri olarak sunulmuştur. Onlara orada tertemiz eşler vardır ve orada temelli kalırlar.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 2,
+      "ayah": 57,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:57",
+      "word_position": 12,
+      "target_word_uthmani": "رَزَقْنَٰكُمْ",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن",
+      "context_snippet_turkish_tabula_rasa": "Bulutla sizi gölgelendirdik, kudret helvası ve bıldırcın indirdik, \"Verdiğimiz rızıkların iyi ve güzel olanlarından yiyin\" dedik. Onlar Bize değil, fakat kendilerine yazık ediyorlardı.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bulutla sizi gölgelendirdik, kudret helvası ve bıldırcın indirdik, \"Verdiğimiz rızıkların iyi ve güzel olanlarından yiyin\" dedik. Onlar Bize değil, fakat kendilerine yazık ediyorlardı.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 2,
+      "ayah": 60,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:60",
+      "word_position": 22,
+      "target_word_uthmani": "رِّزْقِ",
+      "target_word_rasm": "رزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟",
+      "context_snippet_turkish_tabula_rasa": "Musa, milleti için su aramıştı; \"Asanla taşa vur\" dedik; ondan on iki pınar fışkırdı, herkes içeceği yeri bildi. Allah'ın rızkından yiyin, için, yalnız yeryüzün...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milleti için su aramıştı; \"Asanla taşa vur\" dedik; ondan on iki pınar fışkırdı, herkes içeceği yeri bildi. Allah'ın rızkından yiyin, için, yalnız yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 2,
+      "ayah": 126,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:126",
+      "word_position": 9,
+      "target_word_uthmani": "وَٱرْزُقْ",
+      "target_word_rasm": "وٱرزق",
+      "target_word_literal_irab": "Bizi/onları rızıklandır, geçim payı ver (`وَٱرْزُقْ / وَٱرْزُقْنَا / وَٱرْزُقْهُم`, I. bab emir `2MS`)",
+      "context_snippet_arabic": "هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Burasını emin bir şehir kıl, halkından, Allah'a ve ahiret gününe güvene erenleri ürünlerle rızıklandır\" demişti. Allah da: ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:razaqa|ROOT:rzq|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"Rabbim! Burasını emin bir şehir kıl, halkından, Allah'a ve ahiret gününe güvene erenleri ürünlerle rızıklandır\" demişti. Allah da: \"gerçeğin üzerini ört de az bir müddet geçindirir, sonra da onu ateşin azabına uğramak zorunda bırakırım, ne kötü sonuç\" buyurmuştu.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 2,
+      "ayah": 172,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:172",
+      "word_position": 8,
+      "target_word_uthmani": "رَزَقْنَٰكُمْ",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sizi rızıklandırdığımızın temizlerinden yiyin; yalnız Allah'a kulluk ediyorsanız, O'na nimetin değerini bilip açığa vurun.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sizi rızıklandırdığımızın temizlerinden yiyin; yalnız Allah'a kulluk ediyorsanız, O'na nimetin değerini bilip açığa vurun.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 2,
+      "ayah": 212,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:212",
+      "word_position": 16,
+      "target_word_uthmani": "يَرْزُقُ",
+      "target_word_rasm": "يرزق",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَوْمَ ٱلْقِيَٰمَةِ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlere, dünya hayatı güzel görünür, onlar, güven duy alay ederler, oysa, Allah'a karşı gelmekten sakınanlar kıyamet günü onların üstünde olacaklardır. Allah dilediğini hesabsız şekilde rızıklandırır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlere, dünya hayatı güzel görünür, onlar, güven duy alay ederler, oysa, Allah'a karşı gelmekten sakınanlar kıyamet günü onların üstünde olacaklardır. Allah dilediğini hesabsız şekilde rızıklandırır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 2,
+      "ayah": 233,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:233",
+      "word_position": 14,
+      "target_word_uthmani": "رِزْقُهُنَّ",
+      "target_word_rasm": "رزقهن",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لَا",
+      "context_snippet_turkish_tabula_rasa": "Anneler çocuklarını, emzirmeyi tamamlatmak isteyen baba için, tam iki sene emzirirler. Anaların yiyecek ve giyeceğini uygun bir şekilde sağlamak çocuk kendisini...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌ لَّهُۥ بِوَلَدِهِۦ وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Anneler çocuklarını, emzirmeyi tamamlatmak isteyen baba için, tam iki sene emzirirler. Anaların yiyecek ve giyeceğini uygun bir şekilde sağlamak çocuk kendisinin olan babaya borçtur. Herkese ancak gücü nisbetinde teklifte bulunulur. Ana çocuğundan, çocuk kendisinin olan baba da çocuğundan dolayı zarara sokulmasın. Mirasçıya da aynı şeyi yapmak borçtur. Ana baba aralarında danışarak ve anlaşarak sütten kesmek isterlerse, ikisine de sorumluluk yoktur. Çocuklarınızı sütanneye emzirtmek isterseniz, vereceğinizi örfe uygun bir şekilde öderseniz, size sorumluluk yoktur. Allah'tan sakının, yaptıklarınızı gördüğünü bilin.",
+      "contextual_meaning": "İnsanî hukuk ve paylaşım sorumluluğu (`2:233` annelerin geçim hakkı `رِزْقُهُنَّ`, `4:5` reşit olmayanlara ve `4:8` miras anındaki muhtaçlara rızıktan pay ayırma `وَٱرْزُقُوهُمْ`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 254,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:254",
+      "word_position": 6,
+      "target_word_uthmani": "رَزَقْنَٰكُم",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ءَامَنُوٓا۟ أَنفِقُوا۟ مِمَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Alışverişin, dostluğun, şefaatin olmayacağı günün gelmesinden önce sizi rızıklandırdığımızdan hayra dolaşıma sokup paylaşın. gerçeğin üzerini örtenler ancak yazık edenlerdir.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِمَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَٰعَةٌ وَٱلْكَٰفِرُونَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Alışverişin, dostluğun, şefaatin olmayacağı günün gelmesinden önce sizi rızıklandırdığımızdan hayra dolaşıma sokup paylaşın. gerçeğin üzerini örtenler ancak yazık edenlerdir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 3,
+      "ayah": 27,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:27",
+      "word_position": 17,
+      "target_word_uthmani": "وَتَرْزُقُ",
+      "target_word_rasm": "وترزق",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|2MS"
+      },
+      "ayah_text_arabic_full": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 3,
+      "ayah": 37,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:37",
+      "word_position": 17,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "... Bu, Allah'ın katındandır\" cevabını vermişti. Doğrusu Allah dilediğini hesapsız rızıklandırır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi onu güzel bir kabulle karşıladı, güzel bir bitki gibi yetiştirdi; onu Zekeriya'nın himayesine bıraktı. Zekeriya mabedde onun yanına her girişinde, yanında bir yiyecek bulurdu. \"Ey Meryem! Bu sana nereden geldi?\" demiş, o da: Bu, Allah'ın katındandır\" cevabını vermişti. Doğrusu Allah dilediğini hesapsız rızıklandırır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 3,
+      "ayah": 37,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:37",
+      "word_position": 30,
+      "target_word_uthmani": "يَرْزُقُ",
+      "target_word_rasm": "يرزق",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "... Bu, Allah'ın katındandır\" cevabını vermişti. Doğrusu Allah dilediğini hesapsız rızıklandırır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi onu güzel bir kabulle karşıladı, güzel bir bitki gibi yetiştirdi; onu Zekeriya'nın himayesine bıraktı. Zekeriya mabedde onun yanına her girişinde, yanında bir yiyecek bulurdu. \"Ey Meryem! Bu sana nereden geldi?\" demiş, o da: Bu, Allah'ın katındandır\" cevabını vermişti. Doğrusu Allah dilediğini hesapsız rızıklandırır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 3,
+      "ayah": 169,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:169",
+      "word_position": 13,
+      "target_word_uthmani": "يُرْزَقُونَ",
+      "target_word_rasm": "يرزقون",
+      "target_word_literal_irab": "Sürekli rızıklandırılıp yaşatılırlar (`يُرْزَقُونَ`, I. bab edilgen muzâri `3MP`)",
+      "context_snippet_arabic": "أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:razaqa|ROOT:rzq|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 4,
+      "ayah": 5,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:5",
+      "word_position": 10,
+      "target_word_uthmani": "وَٱرْزُقُوهُمْ",
+      "target_word_rasm": "وٱرزقوهم",
+      "target_word_literal_irab": "Ondan kendilerine geçim payı ayırıp verin (`وَٱرْزُقُوهُمْ / فَٱرْزُقُوهُم`, I. bab emir `2MP`)",
+      "context_snippet_arabic": "ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın sizi koruyucu kılmış olduğu mallarınızı, beyinsizlere vermeyin, kendilerini bunların geliriyle rızıklandırıp giydirin ve onlara güzel söz söyleyin.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:razaqa|ROOT:rzq|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sizi koruyucu kılmış olduğu mallarınızı, beyinsizlere vermeyin, kendilerini bunların geliriyle rızıklandırıp giydirin ve onlara güzel söz söyleyin.",
+      "contextual_meaning": "İnsanî hukuk ve paylaşım sorumluluğu (`2:233` annelerin geçim hakkı `رِزْقُهُنَّ`, `4:5` reşit olmayanlara ve `4:8` miras anındaki muhtaçlara rızıktan pay ayırma `وَٱرْزُقُوهُمْ`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 8,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:8",
+      "word_position": 8,
+      "target_word_uthmani": "فَٱرْزُقُوهُم",
+      "target_word_rasm": "فٱرزقوهم",
+      "target_word_literal_irab": "Ondan kendilerine geçim payı ayırıp verin (`وَٱرْزُقُوهُمْ / فَٱرْزُقُوهُم`, I. bab emir `2MP`)",
+      "context_snippet_arabic": "ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Taksimde, yakınlar, yetimler ve düşkünler bulunursa, ondan onlara da verin, güzel sözler söyleyin.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:razaqa|ROOT:rzq|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Taksimde, yakınlar, yetimler ve düşkünler bulunursa, ondan onlara da verin, güzel sözler söyleyin.",
+      "contextual_meaning": "İnsanî hukuk ve paylaşım sorumluluğu (`2:233` annelerin geçim hakkı `رِزْقُهُنَّ`, `4:5` reşit olmayanlara ve `4:8` miras anındaki muhtaçlara rızıktan pay ayırma `وَٱرْزُقُوهُمْ`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 39,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:39",
+      "word_position": 10,
+      "target_word_uthmani": "رَزَقَهُمُ",
+      "target_word_rasm": "رزقهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلْءَاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ وَكَانَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar Allah'a, ahiret gününe güvene ermiş, Allah'ın verdiği rızıklardan sarfetmiş olsalardı ne zararı olurdu? Oysa Allah onları bilir.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَاذَا عَلَيْهِمْ لَوْ ءَامَنُوا۟ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَنفَقُوا۟ مِمَّا رَزَقَهُمُ ٱللَّهُ وَكَانَ ٱللَّهُ بِهِمْ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Allah'a, ahiret gününe güvene ermiş, Allah'ın verdiği rızıklardan sarfetmiş olsalardı ne zararı olurdu? Oysa Allah onları bilir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 5,
+      "ayah": 88,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:88",
+      "word_position": 3,
+      "target_word_uthmani": "رَزَقَكُمُ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın size verdiği rızıktan temiz ve helal olarak yiyin. güven duy Allah'tan sakının.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın size verdiği rızıktan temiz ve helal olarak yiyin. güven duy Allah'tan sakının.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 5,
+      "ayah": 114,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:114",
+      "word_position": 19,
+      "target_word_uthmani": "وَٱرْزُقْنَا",
+      "target_word_rasm": "وٱرزقنا",
+      "target_word_literal_irab": "Bizi/onları rızıklandır, geçim payı ver (`وَٱرْزُقْ / وَٱرْزُقْنَا / وَٱرْزُقْهُم`, I. bab emir `2MS`)",
+      "context_snippet_arabic": "وَءَاخِرِنَا وَءَايَةً مِّنكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Meryem oğlu İsa, \"Allahım! Rabbimiz! Bize ve bizden sonra geleceklere bayram ve Sen'den bir delil olarak gökten bir sofra indir, bizi rızıklandır, Sen rızık verenlerin en hayırlısısın\" dedi.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:razaqa|ROOT:rzq|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً مِّنكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu İsa, \"Allahım! Rabbimiz! Bize ve bizden sonra geleceklere bayram ve Sen'den bir delil olarak gökten bir sofra indir, bizi rızıklandır, Sen rızık verenlerin en hayırlısısın\" dedi.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 5,
+      "ayah": 114,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:114",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلرَّٰزِقِينَ",
+      "target_word_rasm": "ٱلرزقين",
+      "target_word_literal_irab": "Rızık ve yaşam payı verenlerin en hayırlısı (`ٱلرَّٰزِقِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Meryem oğlu İsa, \"Allahım! Rabbimiz! Bize ve bizden sonra geleceklere bayram ve Sen'den bir delil olarak gökten bir sofra indir, bizi rızıklandır, Sen rızık verenlerin en hayırlısısın\" dedi.",
+      "morphology": {
+        "lemma": "r~a`ziqiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~a`ziqiyn|ROOT:rzq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ عِيسَى ٱبْنُ مَرْيَمَ ٱللَّهُمَّ رَبَّنَآ أَنزِلْ عَلَيْنَا مَآئِدَةً مِّنَ ٱلسَّمَآءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَءَاخِرِنَا وَءَايَةً مِّنكَ وَٱرْزُقْنَا وَأَنتَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu İsa, \"Allahım! Rabbimiz! Bize ve bizden sonra geleceklere bayram ve Sen'den bir delil olarak gökten bir sofra indir, bizi rızıklandır, Sen rızık verenlerin en hayırlısısın\" dedi.",
+      "contextual_meaning": "Üstünlük vurgusu (`خَيْرُ ٱلرَّٰزِقِينَ` `5:114`, `22:58`, `23:72`, `34:39`, `62:11`): Geçim dağıtan tüm aracılar içinde en kusursuz ve tükenmez kaynak."
+    },
+    {
+      "surah": 6,
+      "ayah": 140,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:140",
+      "word_position": 11,
+      "target_word_uthmani": "رَزَقَهُمُ",
+      "target_word_rasm": "رزقهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Beyinsizlikleri yüzünden, körü körüne çocuklarını öldürenler ve Allah'ın kendilerine verdiği nimetleri Allah'a iftira ederek haram sayanlar mahvolmuşlardır; onlar sapıtmışlardır, zaten doğru yolda da değillerdi.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Beyinsizlikleri yüzünden, körü körüne çocuklarını öldürenler ve Allah'ın kendilerine verdiği nimetleri Allah'a iftira ederek haram sayanlar mahvolmuşlardır; onlar sapıtmışlardır, zaten doğru yolda da değillerdi.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 6,
+      "ayah": 142,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:142",
+      "word_position": 7,
+      "target_word_uthmani": "رَزَقَكُمُ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "وَفَرْشًا كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hayvanları da yük ve kesim için yaratan Allah'tır. Allah'ın size verdiği rızıktan yiyin, saptırıcı yıkıcı güce ayak uydurmayın, o size apaçık bir düşmandır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلْأَنْعَٰمِ حَمُولَةً وَفَرْشًا كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayvanları da yük ve kesim için yaratan Allah'tır. Allah'ın size verdiği rızıktan yiyin, saptırıcı yıkıcı güce ayak uydurmayın, o size apaçık bir düşmandır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 6,
+      "ayah": 151,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:151",
+      "word_position": 20,
+      "target_word_uthmani": "نَرْزُقُكُمْ",
+      "target_word_rasm": "نرزقكم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı ö...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. Allah bunları size düşünesiniz diye buyurmaktadır.\"",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 7,
+      "ayah": 32,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:32",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلرِّزْقِ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ مِنَ ٱلرِّزْقِ قُلْ هِىَ لِلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'ın kulları için yarattığı ziynet ve temiz rızıkları haram kılan kimdir?\" \"Bunlar, dünya hayatında güven duy, kıyamet gününde de yalnız onlar içindir\" de. Bilen kimseler için ayetlerimizi böylece uzun uzun açıklıyoruz.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَنْ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِىٓ أَخْرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ مِنَ ٱلرِّزْقِ قُلْ هِىَ لِلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا خَالِصَةً يَوْمَ ٱلْقِيَٰمَةِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'ın kulları için yarattığı ziynet ve temiz rızıkları haram kılan kimdir?\" \"Bunlar, dünya hayatında güven duy, kıyamet gününde de yalnız onlar içindir\" de. Bilen kimseler için ayetlerimizi böylece uzun uzun açıklıyoruz.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 7,
+      "ayah": 50,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:50",
+      "word_position": 13,
+      "target_word_uthmani": "رَزَقَكُمُ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam sistemlerini alay ve eğlenceye alan, dünya hayatına aldanan gerçeğin üzerini örtenlere ikisini de haram etmiştir\" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile gerçeğin üzerini ört gibi biz de onları unutuyoruz.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam sistemlerini alay ve eğlenceye alan, dünya hayatına aldanan gerçeğin üzerini örtenlere ikisini de haram etmiştir\" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile gerçeğin üzerini ört gibi biz de onları unutuyoruz.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 7,
+      "ayah": 160,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:160",
+      "word_position": 37,
+      "target_word_uthmani": "رَزَقْنَٰكُمْ",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن",
+      "context_snippet_turkish_tabula_rasa": "... Bulutla üzerlerine gölge yaptık, onlara kudret helvası ve bıldırcın indirdik, \"Size verdiğimiz rızıkların temiz olanlarından yiyin\" dedik. Onlar, karşı gelmekle, Bize değil kendilerine zulmediyorlardı.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz İsrailoğullarını oymaklar halinde on iki topluluğa ayırdık. Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı. Herkes içeceği yeri öğrendi. Bulutla üzerlerine gölge yaptık, onlara kudret helvası ve bıldırcın indirdik, \"Size verdiğimiz rızıkların temiz olanlarından yiyin\" dedik. Onlar, karşı gelmekle, Bize değil kendilerine zulmediyorlardı.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 8,
+      "ayah": 3,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:3",
+      "word_position": 5,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ancak, o kimselerdir ki Allah anıldığı zaman kalbleri titrer, ayetleri okunduğu zaman bu onların güven bağı artırır. Ve Rablerine güvenirler; irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 8,
+      "ayah": 4,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:4",
+      "word_position": 10,
+      "target_word_uthmani": "وَرِزْقٌ",
+      "target_word_rasm": "ورزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "İşte gerçekten güvene ermiş olanlar bunlardır. Onlara Rablerinin katında mertebeler, mağfiret ve cömertçe verilmiş rızıklar vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا لَّهُمْ دَرَجَٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte gerçekten güvene ermiş olanlar bunlardır. Onlara Rablerinin katında mertebeler, mağfiret ve cömertçe verilmiş rızıklar vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 8,
+      "ayah": 26,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:26",
+      "word_position": 15,
+      "target_word_uthmani": "وَرَزَقَكُم",
+      "target_word_rasm": "ورزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde az sayıda olduğunuz ve zayıf sayıldığınız için insanların sizi esir olarak alıp götürmesinden korktuğunuz zamanları, hatırlayın. Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 8,
+      "ayah": 74,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:74",
+      "word_position": 17,
+      "target_word_uthmani": "وَرِزْقٌ",
+      "target_word_rasm": "ورزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "حَقًّا لَّهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip hicret eden, Allah yolunda savaşanlar ve muhacirleri barındırıp onlara yardım edenler, işte onlar gerçekten güvene ermiş olanlardır. Onlara mağfiret ve cömertçe verilmiş rızıklar vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا لَّهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip hicret eden, Allah yolunda savaşanlar ve muhacirleri barındırıp onlara yardım edenler, işte onlar gerçekten güvene ermiş olanlardır. Onlara mağfiret ve cömertçe verilmiş rızıklar vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 31,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:31",
+      "word_position": 3,
+      "target_word_uthmani": "يَرْزُقُكُم",
+      "target_word_rasm": "يرزقكم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Gökten ve yerden size rızık veren kimdir? Kulak ve gözlerin sahibi kimdir? Diriyi ölüden çıkaran, ölüyü de diriden çıkaran kimdir? Her işi düzenleyen kimdir?\" Onlar: \"Allah'tır! \" diyecekler. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ فَسَيَقُولُونَ ٱللَّهُ فَقُلْ أَفَلَا تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gökten ve yerden size rızık veren kimdir? Kulak ve gözlerin sahibi kimdir? Diriyi ölüden çıkaran, ölüyü de diriden çıkaran kimdir? Her işi düzenleyen kimdir?\" Onlar: \"Allah'tır! \" diyecekler. \"O halde O'na karşı gelmekten sakınmaz mısınız?\" de.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 59,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:59",
+      "word_position": 8,
+      "target_word_uthmani": "رِّزْقٍ",
+      "target_word_rasm": "رزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'ın size indirdiği rızkın bir kısmını haram, bir kısmını helal kıldığınızı görmüyor musunuz?\" De ki: \"Size Allah mı izin verdi, yoksa Allah'a karşı...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَٰلًا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ın size indirdiği rızkın bir kısmını haram, bir kısmını helal kıldığınızı görmüyor musunuz?\" De ki: \"Size Allah mı izin verdi, yoksa Allah'a karşı yalan mı uyduruyorsunuz?\"",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 10,
+      "ayah": 93,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:93",
+      "word_position": 7,
+      "target_word_uthmani": "وَرَزَقْنَٰهُم",
+      "target_word_rasm": "ورزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ فَمَا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, İsrailoğullarını iyi bir yere yerleştirdik, onlara temiz rızıklar verdik, kendilerine bir bilgi gelene kadar ayrılığa düşmediler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ بَوَّأْنَا بَنِىٓ إِسْرَٰٓءِيلَ مُبَوَّأَ صِدْقٍ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ فَمَا ٱخْتَلَفُوا۟ حَتَّىٰ جَآءَهُمُ ٱلْعِلْمُ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, İsrailoğullarını iyi bir yere yerleştirdik, onlara temiz rızıklar verdik, kendilerine bir bilgi gelene kadar ayrılığa düşmediler.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 11,
+      "ayah": 6,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:6",
+      "word_position": 9,
+      "target_word_uthmani": "رِزْقُهَا",
+      "target_word_rasm": "رزقها",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde yaşayan bütün canlıların rızkı ancak Allah'a aittir. O, canlıları babaların sulbünde kararlaşmış ve anaların rahminde kararlaşmakta iken de bilir. He...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا كُلٌّ فِى كِتَٰبٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde yaşayan bütün canlıların rızkı ancak Allah'a aittir. O, canlıları babaların sulbünde kararlaşmış ve anaların rahminde kararlaşmakta iken de bilir. Her şey apaçık bir Kitaptadır.",
+      "contextual_meaning": "Ekolojik güvence yasası (`11:6` her canlının rızkının Allah katında belirlenmesi, `29:60` kendi rızkını sırtında taşıyamayan sayısız canlının beslenmesi)."
+    },
+    {
+      "surah": 11,
+      "ayah": 88,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:88",
+      "word_position": 10,
+      "target_word_uthmani": "وَرَزَقَنِى",
+      "target_word_rasm": "ورزقنى",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. Başarım ancak Allah'tandır, O'na güvendim; O'na yöneliyorum\" dedi.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 11,
+      "ayah": 88,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:88",
+      "word_position": 12,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا وَمَآ أُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَٰحَ مَا ٱسْتَطَعْتُ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Milletim! Rabbimden benim bir belgem olduğu ve bana güzel bir rızık da verdiği halde, O'na karşı gelebilir miyim? Söylesenize! Size yasak ettiğim şeylerde, aykırı hareket etmek istemem; gücümün yettiği kadar ıslah etmekten başka bir dileğim yoktur. Başarım ancak Allah'tandır, O'na güvendim; O'na yöneliyorum\" dedi.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 12,
+      "ayah": 37,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:37",
+      "word_position": 5,
+      "target_word_uthmani": "تُرْزَقَانِهِۦٓ",
+      "target_word_rasm": "ترزقانه",
+      "target_word_literal_irab": "İkinize tayın olarak verilen rızık (`تُرْزَقَانِهِ`, I. bab edilgen muzâri ikil `2MD`)",
+      "context_snippet_arabic": "لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf: \"Rabbimin bana öğrettiği bilgi ile, daha yiyeceğiniz yemek gelmeden size onu yorumlarım. Doğrusu ben, Allah'a güven duy ve ahireti gerçeğin üzerini örten...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:razaqa|ROOT:rzq|2MD"
+      },
+      "ayah_text_arabic_full": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf: \"Rabbimin bana öğrettiği bilgi ile, daha yiyeceğiniz yemek gelmeden size onu yorumlarım. Doğrusu ben, Allah'a güven duy ve ahireti gerçeğin üzerini örten, bir milletin yaşam sistemini bırakmışımdır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 13,
+      "ayah": 22,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:22",
+      "word_position": 10,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ",
+      "context_snippet_turkish_tabula_rasa": "... kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 13,
+      "ayah": 26,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:26",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+      "context_snippet_turkish_tabula_rasa": "... Dünya hayatıyla övünenler bilsinler ki dünyadaki hayat ahiret yanında sadece bir geçimlikten ibarettir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا مَتَٰعٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. Dünya hayatıyla övünenler bilsinler ki dünyadaki hayat ahiret yanında sadece bir geçimlikten ibarettir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 14,
+      "ayah": 31,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:31",
+      "word_position": 9,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً مِّن",
+      "context_snippet_turkish_tabula_rasa": "... alışveriş ve dostluğun olmayacağı günün gelmesinden önce, kendilerine verdiğimiz rızıktan açık ve gizli sarfetsinler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَٰلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kullarıma söyle, irtibat bağını kılsınlar; alışveriş ve dostluğun olmayacağı günün gelmesinden önce, kendilerine verdiğimiz rızıktan açık ve gizli sarfetsinler.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 14,
+      "ayah": 32,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:32",
+      "word_position": 14,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ وَسَخَّرَ لَكُمُ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri yaratan, yukardan indirdiği su ile rızık olarak ürünler yetiştiren, emri gereğince denizde yüzmek üzere gemileri, nehirleri, belli yörüngelerinde yürüyen ay ve güneşi, geceyle gündüzü sizin buyruğunuza veren Allah'tır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ وَسَخَّرَ لَكُمُ ٱلْفُلْكَ لِتَجْرِىَ فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَسَخَّرَ لَكُمُ ٱلْأَنْهَٰرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri yaratan, yukardan indirdiği su ile rızık olarak ürünler yetiştiren, emri gereğince denizde yüzmek üzere gemileri, nehirleri, belli yörüngelerinde yürüyen ay ve güneşi, geceyle gündüzü sizin buyruğunuza veren Allah'tır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 14,
+      "ayah": 37,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:37",
+      "word_position": 22,
+      "target_word_uthmani": "وَٱرْزُقْهُم",
+      "target_word_rasm": "وٱرزقهم",
+      "target_word_literal_irab": "Bizi/onları rızıklandır, geçim payı ver (`وَٱرْزُقْ / وَٱرْزُقْنَا / وَٱرْزُقْهُم`, I. bab emir `2MS`)",
+      "context_snippet_arabic": "ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır. \"",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:razaqa|ROOT:rzq|2MS"
+      },
+      "ayah_text_arabic_full": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! Ben çocuklarımdan kimini, yöneliş ve sorumluluk bağı kılabilmeleri için Senin kutsal evinin yanında, ziraata elverişsiz bir vadiye yerleştirdim. Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır.\"",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 15,
+      "ayah": 20,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:20",
+      "word_position": 8,
+      "target_word_uthmani": "بِرَٰزِقِينَ",
+      "target_word_rasm": "برزقين",
+      "target_word_literal_irab": "Siz onlara yaşam payı/rızık sağlayanlar değilsiniz (`بِرَٰزِقِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "وَمَن لَّسْتُمْ لَهُۥ بِرَٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Orada sizin ve rızık veremeyeceğiniz kimseler için geçimlikler meydana getirdik.",
+      "morphology": {
+        "lemma": "r~a`ziqiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~a`ziqiyn|ROOT:rzq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا لَكُمْ فِيهَا مَعَٰيِشَ وَمَن لَّسْتُمْ لَهُۥ بِرَٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada sizin ve rızık veremeyeceğiniz kimseler için geçimlikler meydana getirdik.",
+      "contextual_meaning": "Görev sınırı (`وَمَآ أَنتُمْ لَهُۥ بِرَٰزِقِينَ` `15:20`): İnsanların geçim kapılarına asıl rızkı var edenin kendileri değil Yaratıcı olduğu uyarısı."
+    },
+    {
+      "surah": 16,
+      "ayah": 56,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:56",
+      "word_position": 7,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَٰهُمْ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine verdiğimiz rızıktan, onların ne olduğunu bilmeyen putlara pay ayırırlar. Allah'a and olsun ki, uydurup durduğunuz şeylerden elbette sorguya çekileceksiniz.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَٰهُمْ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine verdiğimiz rızıktan, onların ne olduğunu bilmeyen putlara pay ayırırlar. Allah'a and olsun ki, uydurup durduğunuz şeylerden elbette sorguya çekileceksiniz.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 16,
+      "ayah": 67,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:67",
+      "word_position": 8,
+      "target_word_uthmani": "وَرِزْقًا",
+      "target_word_rasm": "ورزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا إِنَّ فِى",
+      "context_snippet_turkish_tabula_rasa": "Hurma ağaçlarının meyvelerinden ve üzümlerden şerbet, şıra (içecek) ve güzel rızık elde edersiniz. Düşünen millet için bunda ibret vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hurma ağaçlarının meyvelerinden ve üzümlerden şerbet, şıra (içecek) ve güzel rızık elde edersiniz. Düşünen millet için bunda ibret vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 16,
+      "ayah": 71,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:71",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلرِّزْقِ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. Oysa rızıkta hepsi eşittir. Allah'ın nimetini bile bile gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "Ekonomik paylaşım ve genişlik-kısıtlılık sınavı (`16:71,75` rızıkta yetki alanların paylaşma sorumluluğu, `34:36,39` `يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ` rızkı açma ve ölçülü tutma dengesi)."
+    },
+    {
+      "surah": 16,
+      "ayah": 71,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:71",
+      "word_position": 12,
+      "target_word_uthmani": "رِزْقِهِمْ",
+      "target_word_rasm": "رزقهم",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ",
+      "context_snippet_turkish_tabula_rasa": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. Oysa rızıkta hepsi eşittir. Allah'ın nimetini bile bile gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "Ekonomik paylaşım ve genişlik-kısıtlılık sınavı (`16:71,75` rızıkta yetki alanların paylaşma sorumluluğu, `34:36,39` `يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ` rızkı açma ve ölçülü tutma dengesi)."
+    },
+    {
+      "surah": 16,
+      "ayah": 72,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:72",
+      "word_position": 13,
+      "target_word_uthmani": "وَرَزَقَكُم",
+      "target_word_rasm": "ورزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ أَفَبِٱلْبَٰطِلِ",
+      "context_snippet_turkish_tabula_rasa": "... Eşlerinizden de oğullar ve torunlar var eder. Size temiz şeylerden rızık verir. Öyleyken batıla güven duy ve Allah'ın nimetini gerçeğin üzerini örtme mı ediyorlar?",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden eşler var eder. Eşlerinizden de oğullar ve torunlar var eder. Size temiz şeylerden rızık verir. Öyleyken batıla güven duy ve Allah'ın nimetini gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 16,
+      "ayah": 73,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:73",
+      "word_position": 9,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı bırakıp, göklerden ve yerden kendilerine verecek rızıkları olmayan ve vermeye güç yetiremeyen şeylere mi tapıyorlar?",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ شَيْـًٔا وَلَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı bırakıp, göklerden ve yerden kendilerine verecek rızıkları olmayan ve vermeye güç yetiremeyen şeylere mi tapıyorlar?",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 16,
+      "ayah": 75,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:75",
+      "word_position": 11,
+      "target_word_uthmani": "رَّزَقْنَٰهُ",
+      "target_word_rasm": "رزقنه",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا",
+      "context_snippet_turkish_tabula_rasa": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا هَلْ يَسْتَوُۥنَ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "contextual_meaning": "Ekonomik paylaşım ve genişlik-kısıtlılık sınavı (`16:71,75` rızıkta yetki alanların paylaşma sorumluluğu, `34:36,39` `يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ` rızkı açma ve ölçülü tutma dengesi)."
+    },
+    {
+      "surah": 16,
+      "ayah": 75,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:75",
+      "word_position": 13,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ",
+      "context_snippet_turkish_tabula_rasa": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا هَلْ يَسْتَوُۥنَ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "contextual_meaning": "Ekonomik paylaşım ve genişlik-kısıtlılık sınavı (`16:71,75` rızıkta yetki alanların paylaşma sorumluluğu, `34:36,39` `يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ` rızkı açma ve ölçülü tutma dengesi)."
+    },
+    {
+      "surah": 16,
+      "ayah": 112,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:112",
+      "word_position": 9,
+      "target_word_uthmani": "رِزْقُهَا",
+      "target_word_rasm": "رزقها",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ",
+      "context_snippet_turkish_tabula_rasa": "Allah size güven ve huzur içinde olan bir kasabayı misal verir: Her taraftan oraya bolca rızık geliyordu. Ama Allah'ın nimetlerine nankörlük ettiler; ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size güven ve huzur içinde olan bir kasabayı misal verir: Her taraftan oraya bolca rızık geliyordu. Ama Allah'ın nimetlerine nankörlük ettiler; bu yüzden Allah onlara yaptıklarına karşılık açlık ve korku belasını tattırdı.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 16,
+      "ayah": 114,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:114",
+      "word_position": 3,
+      "target_word_uthmani": "رَزَقَكُمُ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا",
+      "context_snippet_turkish_tabula_rasa": "Yalnız Allah'a kulluk ediyorsanız, Allah'ın size helal ve temiz olarak verdiği rızıklardan yiyin, O'nun nimetine nimetin değerini bilip açığa vurun.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalnız Allah'a kulluk ediyorsanız, Allah'ın size helal ve temiz olarak verdiği rızıklardan yiyin, O'nun nimetine nimetin değerini bilip açığa vurun.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 17,
+      "ayah": 30,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:30",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu senin Rabbin dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. O kullarını gören ve haberdar olandır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu senin Rabbin dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. O kullarını gören ve haberdar olandır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 17,
+      "ayah": 31,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:31",
+      "word_position": 7,
+      "target_word_uthmani": "نَرْزُقُهُمْ",
+      "target_word_rasm": "نرزقهم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Çocuklarınızı yoksulluk korkusuyla öldürmeyin. Biz onlara da size de rızık veririz. Onları öldürmek, şüphesiz büyük bir sapma ve kusurdur.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuklarınızı yoksulluk korkusuyla öldürmeyin. Biz onlara da size de rızık veririz. Onları öldürmek, şüphesiz büyük bir sapma ve kusurdur.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 17,
+      "ayah": 70,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:70",
+      "word_position": 9,
+      "target_word_uthmani": "وَرَزَقْنَٰهُم",
+      "target_word_rasm": "ورزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, biz insanoğullarını şerefli kıldık, onların karada ve denizde gezmesini sağladık, temiz şeylerle onları rızıklandırdık, yaratıklarımızın pek çoğundan üstün kıldık.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, biz insanoğullarını şerefli kıldık, onların karada ve denizde gezmesini sağladık, temiz şeylerle onları rızıklandırdık, yaratıklarımızın pek çoğundan üstün kıldık.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 32,
+      "target_word_uthmani": "بِرِزْقٍ",
+      "target_word_rasm": "برزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerine sorsunlar diye onları uyandırdık. İçlerinden biri: \"Ne kadar kaldınız?\" dedi. \"Bir gün veya daha az bir müddet kaldık\" dediler. \"Ne kadar kaldığını...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerine sorsunlar diye onları uyandırdık. İçlerinden biri: \"Ne kadar kaldınız?\" dedi. \"Bir gün veya daha az bir müddet kaldık\" dediler. \"Ne kadar kaldığınızı Rabbiniz daha iyi bilir. Paranızla birinizi şehre gönderin, sakın sizi kimseye duyurmasın\" dediler.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 19,
+      "ayah": 62,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:62",
+      "word_position": 8,
+      "target_word_uthmani": "رِزْقُهُمْ",
+      "target_word_rasm": "رزقهم",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "إِلَّا سَلَٰمًا وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Orada boş sözler değil sadece esenlik veren sözler işitirler. Orada rızıklarını sabah akşam hazır bulurlar.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا إِلَّا سَلَٰمًا وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Orada boş sözler değil sadece esenlik veren sözler işitirler. Orada rızıklarını sabah akşam hazır bulurlar.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 20,
+      "ayah": 81,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:81",
+      "word_position": 5,
+      "target_word_uthmani": "رَزَقْنَٰكُمْ",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "Size verdiğimiz rızıkların temizlerinden yiyin, bunda aşırı gitmeyin ki gazabımı haketmeyesiniz. Gazabımı hakeden kimse muhakkak mahvolur.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Size verdiğimiz rızıkların temizlerinden yiyin, bunda aşırı gitmeyin ki gazabımı haketmeyesiniz. Gazabımı hakeden kimse muhakkak mahvolur.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 20,
+      "ayah": 131,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:131",
+      "word_position": 15,
+      "target_word_uthmani": "وَرِزْقُ",
+      "target_word_rasm": "ورزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerini sınamak için, dünya hayatının süsü olarak bol bol geçimlik verdiğimiz kimselere sakın göz dikme, Rabbinin rızkı daha iyi ve daha devamlıdır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerini sınamak için, dünya hayatının süsü olarak bol bol geçimlik verdiğimiz kimselere sakın göz dikme, Rabbinin rızkı daha iyi ve daha devamlıdır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 20,
+      "ayah": 132,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:132",
+      "word_position": 8,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ",
+      "context_snippet_turkish_tabula_rasa": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 20,
+      "ayah": 132,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:132",
+      "word_position": 10,
+      "target_word_uthmani": "نَرْزُقُكَ",
+      "target_word_rasm": "نرزقك",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 22,
+      "ayah": 28,
+      "surah_name": "Hac",
+      "ayah_ref": "22:28",
+      "word_position": 12,
+      "target_word_uthmani": "رَزَقَهُم",
+      "target_word_rasm": "رزقهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "مَّعْلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın onlara rızık olarak verdiği hayvanları belli günlerde yakınlaşma sunusu ederken O'nun adını ansınlar. Siz de bunlardan yiyin, çaresiz kalmış yoksulu da doyurun.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taki kendi menfaatlerine şahid olsunlar; Allah'ın onlara rızık olarak verdiği hayvanları belli günlerde yakınlaşma sunusu ederken O'nun adını ansınlar. Siz de bunlardan yiyin, çaresiz kalmış yoksulu da doyurun.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 34,
+      "surah_name": "Hac",
+      "ayah_ref": "22:34",
+      "word_position": 10,
+      "target_word_uthmani": "رَزَقَهُم",
+      "target_word_rasm": "رزقهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا لِّيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ فَلَهُۥٓ أَسْلِمُوا۟ وَبَشِّرِ ٱلْمُخْبِتِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmet için, Allah'ın kendilerine rızk olarak verdiği yakınlaşma sunusu hayvanların üzerlerine O'nun adını anarak yakınlaşma sunusu kesmeyi meşru kıldık. Sizin sığınak merciiniz tek bir sığınak mercii (ilâh)'dır, O'na teslim olun. Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 35,
+      "surah_name": "Hac",
+      "ayah_ref": "22:35",
+      "word_position": 14,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmet için, Allah'ın kendilerine rızk olarak verdiği yakınlaşma sunusu hayvanların üzerlerine O'nun adını anarak yakınlaşma sunusu kesmeyi meşru kıldık. Sizin sığınak merciiniz tek bir sığınak mercii (ilâh)'dır, O'na teslim olun. Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 50,
+      "surah_name": "Hac",
+      "ayah_ref": "22:50",
+      "word_position": 7,
+      "target_word_uthmani": "وَرِزْقٌ",
+      "target_word_rasm": "ورزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Cömertçe verilmiş rızık ve mağfiret, güvene eren ve yararlı iş işleyenleredir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Cömertçe verilmiş rızık ve mağfiret, güvene eren ve yararlı iş işleyenleredir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 58,
+      "surah_name": "Hac",
+      "ayah_ref": "22:58",
+      "word_position": 10,
+      "target_word_uthmani": "لَيَرْزُقَنَّهُمُ",
+      "target_word_rasm": "ليرزقنهم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "قُتِلُوٓا۟ أَوْ مَاتُوا۟ لَيَرْزُقَنَّهُمُ ٱللَّهُ رِزْقًا حَسَنًا",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda hicret edenlere, sonra öldürülen veya ölenlere Allah, elbette onlara güzel bir rızık verecektir. Rızık verenlerin en hayırlısı yalnız Allah'tır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هَاجَرُوا۟ فِى سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓا۟ أَوْ مَاتُوا۟ لَيَرْزُقَنَّهُمُ ٱللَّهُ رِزْقًا حَسَنًا وَإِنَّ ٱللَّهَ لَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda hicret edenlere, sonra öldürülen veya ölenlere Allah, elbette onlara güzel bir rızık verecektir. Rızık verenlerin en hayırlısı yalnız Allah'tır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 58,
+      "surah_name": "Hac",
+      "ayah_ref": "22:58",
+      "word_position": 12,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "مَاتُوا۟ لَيَرْزُقَنَّهُمُ ٱللَّهُ رِزْقًا حَسَنًا وَإِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda hicret edenlere, sonra öldürülen veya ölenlere Allah, elbette onlara güzel bir rızık verecektir. Rızık verenlerin en hayırlısı yalnız Allah'tır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هَاجَرُوا۟ فِى سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓا۟ أَوْ مَاتُوا۟ لَيَرْزُقَنَّهُمُ ٱللَّهُ رِزْقًا حَسَنًا وَإِنَّ ٱللَّهَ لَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda hicret edenlere, sonra öldürülen veya ölenlere Allah, elbette onlara güzel bir rızık verecektir. Rızık verenlerin en hayırlısı yalnız Allah'tır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 58,
+      "surah_name": "Hac",
+      "ayah_ref": "22:58",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلرَّٰزِقِينَ",
+      "target_word_rasm": "ٱلرزقين",
+      "target_word_literal_irab": "Rızık ve yaşam payı verenlerin en hayırlısı (`ٱلرَّٰزِقِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "ٱللَّهَ لَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda hicret edenlere, sonra öldürülen veya ölenlere Allah, elbette onlara güzel bir rızık verecektir. Rızık verenlerin en hayırlısı yalnız Allah'tır.",
+      "morphology": {
+        "lemma": "r~a`ziqiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~a`ziqiyn|ROOT:rzq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هَاجَرُوا۟ فِى سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓا۟ أَوْ مَاتُوا۟ لَيَرْزُقَنَّهُمُ ٱللَّهُ رِزْقًا حَسَنًا وَإِنَّ ٱللَّهَ لَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda hicret edenlere, sonra öldürülen veya ölenlere Allah, elbette onlara güzel bir rızık verecektir. Rızık verenlerin en hayırlısı yalnız Allah'tır.",
+      "contextual_meaning": "Üstünlük vurgusu (`خَيْرُ ٱلرَّٰزِقِينَ` `5:114`, `22:58`, `23:72`, `34:39`, `62:11`): Geçim dağıtan tüm aracılar içinde en kusursuz ve tükenmez kaynak."
+    },
+    {
+      "surah": 23,
+      "ayah": 72,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:72",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلرَّٰزِقِينَ",
+      "target_word_rasm": "ٱلرزقين",
+      "target_word_literal_irab": "Rızık ve yaşam payı verenlerin en hayırlısı (`ٱلرَّٰزِقِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "خَيْرٌ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa sen onlardan bir ücret mi istiyorsun? Rabbinin ecri daha iyidir. O, rızık verenlerin en hayırlısıdır.",
+      "morphology": {
+        "lemma": "r~a`ziqiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~a`ziqiyn|ROOT:rzq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa sen onlardan bir ücret mi istiyorsun? Rabbinin ecri daha iyidir. O, rızık verenlerin en hayırlısıdır.",
+      "contextual_meaning": "Üstünlük vurgusu (`خَيْرُ ٱلرَّٰزِقِينَ` `5:114`, `22:58`, `23:72`, `34:39`, `62:11`): Geçim dağıtan tüm aracılar içinde en kusursuz ve tükenmez kaynak."
+    },
+    {
+      "surah": 24,
+      "ayah": 26,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:26",
+      "word_position": 15,
+      "target_word_uthmani": "وَرِزْقٌ",
+      "target_word_rasm": "ورزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "يَقُولُونَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlar, onların söylediklerinden uzaktırlar. İşte bunlara mağfiret ve cömertçe verilmiş rızık vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلْخَبِيثَٰتُ لِلْخَبِيثِينَ وَٱلْخَبِيثُونَ لِلْخَبِيثَٰتِ وَٱلطَّيِّبَٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَٰتِ أُو۟لَٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötü kadınlar kötü erkeklere, kötü erkekler kötü kadınlara yakışırlar. İyi kadınlar iyi erkeklere, iyi erkekler de iyi kadınlara yakışırlar. Bunlar, onların söylediklerinden uzaktırlar. İşte bunlara mağfiret ve cömertçe verilmiş rızık vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 24,
+      "ayah": 38,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:38",
+      "word_position": 10,
+      "target_word_uthmani": "يَرْزُقُ",
+      "target_word_rasm": "يرزق",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "مِّن فَضْلِهِۦ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا عَمِلُوا۟ وَيَزِيدَهُم مِّن فَضْلِهِۦ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 27,
+      "ayah": 64,
+      "surah_name": "Neml",
+      "ayah_ref": "27:64",
+      "word_position": 7,
+      "target_word_uthmani": "يَرْزُقُكُم",
+      "target_word_rasm": "يرزقكم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "... size gökten ve yerden rızık veren mi? Allah'ın yanında başka bir sığınak mercii (ilâh) mı? De ki: \"Eğer doğru sözlülerden iseniz, açık delilinizi getirin. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَءِلَٰهٌ مَّعَ ٱللَّهِ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, önce yaratan, sonra da yaratmayı tekrar edecek olan; size gökten ve yerden rızık veren mi? Allah'ın yanında başka bir sığınak mercii (ilâh) mı? De ki: \"Eğer doğru sözlülerden iseniz, açık delilinizi getirin.\"",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 28,
+      "ayah": 54,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:54",
+      "word_position": 11,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... onlar kötülüğü iyilikle savarlar, kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlara, sebat ve dirençlerinden dolayı, ecirleri iki defa verilir; onlar kötülüğü iyilikle savarlar, kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 28,
+      "ayah": 57,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:57",
+      "word_position": 19,
+      "target_word_uthmani": "رِّزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَٰكِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Onları katımızdan bir rızık olarak her şeyin ürününün toplandığı güvenli ve kutlu bir yere yerleştirmedik mi? Ama çoğu bilmezler.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Seninle beraber doğru yolda gidersek, yurdumuzdan ediliriz\" dediler. Onları katımızdan bir rızık olarak her şeyin ürününün toplandığı güvenli ve kutlu bir yere yerleştirmedik mi? Ama çoğu bilmezler.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 28,
+      "ayah": 82,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:82",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Daha dün onun yerinde olmayı dileyenler: \"Demek Allah kullarından dilediğinin rızkını genişletip bir ölçüye göre veriyor. Eğer Allah bize lütfetmiş olmasaydı, b...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Daha dün onun yerinde olmayı dileyenler: \"Demek Allah kullarından dilediğinin rızkını genişletip bir ölçüye göre veriyor. Eğer Allah bize lütfetmiş olmasaydı, bizi de yerin dibine geçirirdi. Demek ki gerçeğin üzerini örtenler başarıya eremezler\" demeye başladılar.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 29,
+      "ayah": 17,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:17",
+      "word_position": 18,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayın. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَٰنًا وَتَخْلُقُونَ إِفْكًا إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz Allah'ı bırakıp sadece bir takım putlara tapıyor, aslı olmayan sözler uyduruyorsunuz. Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayın. O'na kulluk edin. O'na nimetin değerini bilip açığa vurun. Siz O'na döneceksiniz.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 29,
+      "ayah": 17,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:17",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayın. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَٰنًا وَتَخْلُقُونَ إِفْكًا إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz Allah'ı bırakıp sadece bir takım putlara tapıyor, aslı olmayan sözler uyduruyorsunuz. Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayın. O'na kulluk edin. O'na nimetin değerini bilip açığa vurun. Siz O'na döneceksiniz.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 29,
+      "ayah": 60,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:60",
+      "word_position": 6,
+      "target_word_uthmani": "رِزْقَهَا",
+      "target_word_rasm": "رزقها",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Nice canlılar vardır ki, rızıklarını kendileri elde edemezler. Sizin de onların da rızkını Allah verir. O, işitir ve bilir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Nice canlılar vardır ki, rızıklarını kendileri elde edemezler. Sizin de onların da rızkını Allah verir. O, işitir ve bilir.",
+      "contextual_meaning": "Ekolojik güvence yasası (`11:6` her canlının rızkının Allah katında belirlenmesi, `29:60` kendi rızkını sırtında taşıyamayan sayısız canlının beslenmesi)."
+    },
+    {
+      "surah": 29,
+      "ayah": 60,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:60",
+      "word_position": 8,
+      "target_word_uthmani": "يَرْزُقُهَا",
+      "target_word_rasm": "يرزقها",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ ٱلسَّمِيعُ",
+      "context_snippet_turkish_tabula_rasa": "Nice canlılar vardır ki, rızıklarını kendileri elde edemezler. Sizin de onların da rızkını Allah verir. O, işitir ve bilir.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Nice canlılar vardır ki, rızıklarını kendileri elde edemezler. Sizin de onların da rızkını Allah verir. O, işitir ve bilir.",
+      "contextual_meaning": "Ekolojik güvence yasası (`11:6` her canlının rızkının Allah katında belirlenmesi, `29:60` kendi rızkını sırtında taşıyamayan sayısız canlının beslenmesi)."
+    },
+    {
+      "surah": 29,
+      "ayah": 62,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:62",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kullarından dilediğine rızkı bol ve ölçüye göre verir. Doğrusu Allah her şeyi bilendir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kullarından dilediğine rızkı bol ve ölçüye göre verir. Doğrusu Allah her şeyi bilendir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 30,
+      "ayah": 28,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:28",
+      "word_position": 16,
+      "target_word_uthmani": "رَزَقْنَٰكُمْ",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ",
+      "context_snippet_turkish_tabula_rasa": "... Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 30,
+      "ayah": 37,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:37",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, rızkı dilediğine yayıp bir ölçüye göre verdiğini görmezler mi? Doğrusu bunda, güvene erenler için dersler vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, rızkı dilediğine yayıp bir ölçüye göre verdiğini görmezler mi? Doğrusu bunda, güvene erenler için dersler vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 30,
+      "ayah": 40,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:40",
+      "word_position": 5,
+      "target_word_uthmani": "رَزَقَكُمْ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "Sizi yaratan, sonra rızıklandıran, sonra öldüren, daha sonra da dirilten Allah'tır. O'na koştuğunuz ortaklarınızdan böyle bir şey yapan var mıdır? Allah onların ortak koştukları şeylerden münezzehtir, yücedir.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi yaratan, sonra rızıklandıran, sonra öldüren, daha sonra da dirilten Allah'tır. O'na koştuğunuz ortaklarınızdan böyle bir şey yapan var mıdır? Allah onların ortak koştukları şeylerden münezzehtir, yücedir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 32,
+      "ayah": 16,
+      "surah_name": "Secde",
+      "ayah_ref": "32:16",
+      "word_position": 10,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 33,
+      "ayah": 31,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:31",
+      "word_position": 13,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Sizlerden Allah'a ve elçisine boyun eğip yararlı iş işleyenlere ecrini iki kat veririz; ona cömertçe rızık hazırlamışızdır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlerden Allah'a ve elçisine boyun eğip yararlı iş işleyenlere ecrini iki kat veririz; ona cömertçe rızık hazırlamışızdır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 34,
+      "ayah": 4,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:4",
+      "word_position": 9,
+      "target_word_uthmani": "وَرِزْقٌ",
+      "target_word_rasm": "ورزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, güvene erip yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, güvene erip yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 34,
+      "ayah": 15,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:15",
+      "word_position": 13,
+      "target_word_uthmani": "رِّزْقِ",
+      "target_word_rasm": "رزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "وَشِمَالٍ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbinizin verdiği rızıktan yiyin ve O'na nimetin değerini bilip açığa vurun. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sebelilerin yurtlarında Allah'ın kudretine bir işaret vardır: Sağlı sollu iki bahçe vardı. Onlara: \"Rabbinizin verdiği rızıktan yiyin ve O'na nimetin değerini bilip açığa vurun. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 34,
+      "ayah": 24,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:24",
+      "word_position": 3,
+      "target_word_uthmani": "يَرْزُقُكُم",
+      "target_word_rasm": "يرزقكم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Göklerden ve yerden sizi rızıklandıran kimdir?\" De ki: \"Allah'tır. Öyleyse doğru yolda veya apaçık bir sapıklıkta olan ya biziz ya sizsiniz.\"",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ وَإِنَّآ أَوْ إِيَّاكُمْ لَعَلَىٰ هُدًى أَوْ فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Göklerden ve yerden sizi rızıklandıran kimdir?\" De ki: \"Allah'tır. Öyleyse doğru yolda veya apaçık bir sapıklıkta olan ya biziz ya sizsiniz.\"",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 34,
+      "ayah": 36,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:36",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Şüphesiz Rabbim rızkı dilediğine genişletir ve bir ölçüye göre verir, fakat insanların çoğu bilmezler.\"",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Şüphesiz Rabbim rızkı dilediğine genişletir ve bir ölçüye göre verir, fakat insanların çoğu bilmezler.\"",
+      "contextual_meaning": "Ekonomik paylaşım ve genişlik-kısıtlılık sınavı (`16:71,75` rızıkta yetki alanların paylaşma sorumluluğu, `34:36,39` `يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ` rızkı açma ve ölçülü tutma dengesi)."
+    },
+    {
+      "surah": 34,
+      "ayah": 39,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:39",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "... dolaşıma sokup paylaştığınız herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır. \"",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ وَمَآ أَنفَقْتُم مِّن شَىْءٍ فَهُوَ يُخْلِفُهُۥ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Doğrusu Rabbim, kullarından dilediğinin rızkını hem genişletir ve hem de ona daraltıp bir ölçüye göre verir; dolaşıma sokup paylaştığınız herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır.\"",
+      "contextual_meaning": "Ekonomik paylaşım ve genişlik-kısıtlılık sınavı (`16:71,75` rızıkta yetki alanların paylaşma sorumluluğu, `34:36,39` `يَبْسُطُ ٱلرِّزْقَ ... وَيَقْدِرُ` rızkı açma ve ölçülü tutma dengesi)."
+    },
+    {
+      "surah": 34,
+      "ayah": 39,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:39",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلرَّٰزِقِينَ",
+      "target_word_rasm": "ٱلرزقين",
+      "target_word_literal_irab": "Rızık ve yaşam payı verenlerin en hayırlısı (`ٱلرَّٰزِقِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "يُخْلِفُهُۥ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "... dolaşıma sokup paylaştığınız herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır. \"",
+      "morphology": {
+        "lemma": "r~a`ziqiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~a`ziqiyn|ROOT:rzq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ وَمَآ أَنفَقْتُم مِّن شَىْءٍ فَهُوَ يُخْلِفُهُۥ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Doğrusu Rabbim, kullarından dilediğinin rızkını hem genişletir ve hem de ona daraltıp bir ölçüye göre verir; dolaşıma sokup paylaştığınız herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır.\"",
+      "contextual_meaning": "Üstünlük vurgusu (`خَيْرُ ٱلرَّٰزِقِينَ` `5:114`, `22:58`, `23:72`, `34:39`, `62:11`): Geçim dağıtan tüm aracılar içinde en kusursuz ve tükenmez kaynak."
+    },
+    {
+      "surah": 35,
+      "ayah": 3,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:3",
+      "word_position": 12,
+      "target_word_uthmani": "يَرْزُقُكُم",
+      "target_word_rasm": "يرزقكم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "خَٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Allah'ın size olan nimetini anın; sizi gökten ve yerden rızıklandıran Allah'tan başka bir yaratan var mıdır? O'ndan başka sığınak mercii (ilâh) yoktur. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ هَلْ مِنْ خَٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Allah'ın size olan nimetini anın; sizi gökten ve yerden rızıklandıran Allah'tan başka bir yaratan var mıdır? O'ndan başka sığınak mercii (ilâh) yoktur. Nasıl aldatılıp da döndürülürsünüz?",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 35,
+      "ayah": 29,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:29",
+      "word_position": 10,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın Kitap'ına uyanlar, irtibat bağını kılanlar, kendilerine verdiğimiz rızıktan gizli ve açık dolaşıma sokup paylaştıranlar, tükenmeyecek bir kazanç umabilirler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَٰرَةً لَّن تَبُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın Kitap'ına uyanlar, irtibat bağını kılanlar, kendilerine verdiğimiz rızıktan gizli ve açık dolaşıma sokup paylaştıranlar, tükenmeyecek bir kazanç umabilirler.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 36,
+      "ayah": 47,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:47",
+      "word_position": 6,
+      "target_word_uthmani": "رَزَقَكُمُ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın size verdiği rızıktan dolaşıma sokup paylaşın\" denince gerçeğin üzerini örtenler güvene erenlere: \"Allah dileseydi doyurabileceği bir kimseyi biz mi doyuralım? Doğrusu siz apaçık bir sapıklıktasınız\" derler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ أَنفِقُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوٓا۟ أَنُطْعِمُ مَن لَّوْ يَشَآءُ ٱللَّهُ أَطْعَمَهُۥٓ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Allah'ın size verdiği rızıktan dolaşıma sokup paylaşın\" denince gerçeğin üzerini örtenler güvene erenlere: \"Allah dileseydi doyurabileceği bir kimseyi biz mi doyuralım? Doğrusu siz apaçık bir sapıklıktasınız\" derler.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 37,
+      "ayah": 41,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:41",
+      "word_position": 3,
+      "target_word_uthmani": "رِزْقٌ",
+      "target_word_rasm": "رزق",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
+      "context_snippet_turkish_tabula_rasa": "İşte bildirilen rızık ve meyveler onlaradır. Nimet esenlik bahçelerinde, karşılıklı tahtlar üzerinde kendilerine ikram olunur.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌ مَّعْلُومٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bildirilen rızık ve meyveler onlaradır. Nimet esenlik bahçelerinde, karşılıklı tahtlar üzerinde kendilerine ikram olunur.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 38,
+      "ayah": 54,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:54",
+      "word_position": 3,
+      "target_word_uthmani": "لَرِزْقُنَا",
+      "target_word_rasm": "لرزقنا",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "إِنَّ هَٰذَا لَرِزْقُنَا مَا لَهُۥ مِن",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, verdiğimiz bu rızıklar tükenecek değildir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا لَرِزْقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, verdiğimiz bu rızıklar tükenecek değildir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 39,
+      "ayah": 52,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:52",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rızkı dilediğine yaydığını ve kısıp bir ölçüye göre verdiğini bilmezler mi? Doğrusu bunda, güvene eren kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rızkı dilediğine yaydığını ve kısıp bir ölçüye göre verdiğini bilmezler mi? Doğrusu bunda, güvene eren kimseler için dersler vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 40,
+      "ayah": 13,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:13",
+      "word_position": 9,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "لَكُم مِّنَ ٱلسَّمَآءِ رِزْقًا وَمَا يَتَذَكَّرُ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Size apaçık göstergelerini gösteren, size gökten rızık indiren O'dur. Allah'a yönelenden başkası ibret almaz.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُرِيكُمْ ءَايَٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزْقًا وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ",
+      "ayah_text_turkish_tabula_rasa_full": "Size apaçık göstergelerini gösteren, size gökten rızık indiren O'dur. Allah'a yönelenden başkası ibret almaz.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 40,
+      "ayah": 40,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:40",
+      "word_position": 20,
+      "target_word_uthmani": "يُرْزَقُونَ",
+      "target_word_rasm": "يرزقون",
+      "target_word_literal_irab": "Sürekli rızıklandırılıp yaşatılırlar (`يُرْزَقُونَ`, I. bab edilgen muzâri `3MP`)",
+      "context_snippet_arabic": "فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "... Kadın veya erkek, kim, güven duy yararlı iş işlerse, işte onlar esenlik bahçesine girerler; orada hesapsız şekilde rızıklanırlar. \"",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:razaqa|ROOT:rzq|3MP"
+      },
+      "ayah_text_arabic_full": "مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kim bir kötülük işlerse ancak onun kadar ceza görür. Kadın veya erkek, kim, güven duy yararlı iş işlerse, işte onlar esenlik bahçesine girerler; orada hesapsız şekilde rızıklanırlar.\"",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 40,
+      "ayah": 64,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:64",
+      "word_position": 12,
+      "target_word_uthmani": "وَرَزَقَكُم",
+      "target_word_rasm": "ورزقكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ذَٰلِكُمُ",
+      "context_snippet_turkish_tabula_rasa": "Sizin için yeri durak, göğü bina eden, size şekil verip de, şeklinizi güzel yapan, sizi temiz şeylerle rızıklandıran Allah'tır. İşte Rabbiniz olan Allah budur. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin için yeri durak, göğü bina eden, size şekil verip de, şeklinizi güzel yapan, sizi temiz şeylerle rızıklandıran Allah'tır. İşte Rabbiniz olan Allah budur. Alemlerin Rabbi Allah ne yücedir!",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 42,
+      "ayah": 12,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:12",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin kilitleri O'nundur. Dilediğine rızkı yayar ve isterse kısar, bir ölçüye göre verir. Doğrusu O herşeyi bilendir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin kilitleri O'nundur. Dilediğine rızkı yayar ve isterse kısar, bir ölçüye göre verir. Doğrusu O herşeyi bilendir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 42,
+      "ayah": 19,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:19",
+      "word_position": 4,
+      "target_word_uthmani": "يَرْزُقُ",
+      "target_word_rasm": "يرزق",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kullarına lütufta bulunandır. Dilediğini rızıklandırır. Kuvvetli olan da güçlü olan da O'dur.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ وَهُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kullarına lütufta bulunandır. Dilediğini rızıklandırır. Kuvvetli olan da güçlü olan da O'dur.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 42,
+      "ayah": 27,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:27",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلرِّزْقَ",
+      "target_word_rasm": "ٱلرزق",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah rızkı kullarının hepsine bol bol verseydi, yeryüzünde azgınlık ederlerdi. Ama O, dilediğini bir ölçüye göre indirir. Doğrusu O, kullarından haberdard...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah rızkı kullarının hepsine bol bol verseydi, yeryüzünde azgınlık ederlerdi. Ama O, dilediğini bir ölçüye göre indirir. Doğrusu O, kullarından haberdardır, onları görendir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 42,
+      "ayah": 38,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:38",
+      "word_position": 10,
+      "target_word_uthmani": "رَزَقْنَٰهُمْ",
+      "target_word_rasm": "رزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Size verilen herhangi bir şey, sadece dünya hayatının bir geçimliğidir. Allah katında olan; ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size verilen herhangi bir şey, sadece dünya hayatının bir geçimliğidir. Allah katında olan; güvene erip Rablerine güvenen, büyük sapma ve kusurlardan ve hayasızlıklardan çekinen, öfkelendiklerinde bile bağışlayanlar, Rablerinin çağrısına cevap verenler ve irtibat bağını kurup sürdürenler için daha iyi ve daha süreklidir. Onların işleri aralarında danışma iledir. Kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 45,
+      "ayah": 5,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:5",
+      "word_position": 10,
+      "target_word_uthmani": "رِّزْقٍ",
+      "target_word_rasm": "رزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا بِهِ ٱلْأَرْضَ",
+      "context_snippet_turkish_tabula_rasa": "Gece ile gündüzün birbiri ardından gelmesinde, gökten, Allah'ın rızık vermek için yağmur indirip, yeri onunla, ölümünden sonra diriltmesinde, rüzgarları yönetmesinde, akleden kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَٰحِ ءَايَٰتٌ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ile gündüzün birbiri ardından gelmesinde, gökten, Allah'ın rızık vermek için yağmur indirip, yeri onunla, ölümünden sonra diriltmesinde, rüzgarları yönetmesinde, akleden kimseler için dersler vardır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 45,
+      "ayah": 16,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:16",
+      "word_position": 8,
+      "target_word_uthmani": "وَرَزَقْنَٰهُم",
+      "target_word_rasm": "ورزقنهم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Biz, İsrailoğullarına Kitap, hüküm ve elçilik görevi verdik; onları temiz şeylerle rızıklandırdık; onları dünyalara üstün kıldık.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Biz, İsrailoğullarına Kitap, hüküm ve elçilik görevi verdik; onları temiz şeylerle rızıklandırdık; onları dünyalara üstün kıldık.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 50,
+      "ayah": 11,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:11",
+      "word_position": 1,
+      "target_word_uthmani": "رِّزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler, biçilecek taneli ekinler, küme küme tomurcukları olan boylu hurma ağaçları yetiştirdik. O su ile ölü yeri dirilttik. ...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ ٱلْخُرُوجُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler, biçilecek taneli ekinler, küme küme tomurcukları olan boylu hurma ağaçları yetiştirdik. O su ile ölü yeri dirilttik. İşte insanların diriltilmesi de böyledir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 51,
+      "ayah": 22,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:22",
+      "word_position": 3,
+      "target_word_uthmani": "رِزْقُكُمْ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rızkınız da, size söz verilen azap da yukarıdan gelir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rızkınız da, size söz verilen azap da yukarıdan gelir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 51,
+      "ayah": 57,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:57",
+      "word_position": 5,
+      "target_word_uthmani": "رِّزْقٍ",
+      "target_word_rasm": "رزق",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن",
+      "context_snippet_turkish_tabula_rasa": "Onlardan bir rızık istemem; Beni doyurmalarını da istemem.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan bir rızık istemem; Beni doyurmalarını da istemem.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 51,
+      "ayah": 58,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:58",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلرَّزَّاقُ",
+      "target_word_rasm": "ٱلرزاق",
+      "target_word_literal_irab": "Sürekli ve sınırsız biçimde tüm varlıklara rızık ve geçim payı sağlayan (`ٱلرَّزَّاقُ`, fa'âl mübalağa sıfatı merfû)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz rızıklandıran da, güç ve kuvvet sahibi olan da Allah'tır.",
+      "morphology": {
+        "lemma": "r~az~aAq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:r~az~aAq|ROOT:rzq|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz rızıklandıran da, güç ve kuvvet sahibi olan da Allah'tır.",
+      "contextual_meaning": "Tekil mübalağa unvanı (`إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ` `51:58` hapax): Yaratan'ın kuldan hiçbir tayın istemeden (`51:57`) her varlığı kesintisiz besleyen Mutlak Kaynak oluşu."
+    },
+    {
+      "surah": 56,
+      "ayah": 82,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:82",
+      "word_position": 2,
+      "target_word_uthmani": "رِزْقَكُمْ",
+      "target_word_rasm": "رزقكم",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rızkınıza şükredeceğiniz yere onu vereni mi yalanlıyorsunuz?",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rızkınıza şükredeceğiniz yere onu vereni mi yalanlıyorsunuz?",
+      "contextual_meaning": "Nimet-teşekkür tersinmesi (`وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ` `56:82`): Size verilen payın/yaşam bağışının karşılığını şükür yerine yalanlama hâline getirmeniz."
+    },
+    {
+      "surah": 62,
+      "ayah": 11,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:11",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلرَّٰزِقِينَ",
+      "target_word_rasm": "ٱلرزقين",
+      "target_word_literal_irab": "Rızık ve yaşam payı verenlerin en hayırlısı (`ٱلرَّٰزِقِينَ`, I. bab ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "ٱلتِّجَٰرَةِ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah katında olan, eğlenceden de kazançtan da hayırlıdır. Allah, rızık verenlerin en iyisidir. \"",
+      "morphology": {
+        "lemma": "r~a`ziqiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:r~a`ziqiyn|ROOT:rzq|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا قُلْ مَا عِندَ ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar bir kazanç veya bir eğlence gördüklerinde, seni ayakta bırakarak oraya yöneldiler. De ki: \"Allah katında olan, eğlenceden de kazançtan da hayırlıdır. Allah, rızık verenlerin en iyisidir.\"",
+      "contextual_meaning": "Üstünlük vurgusu (`خَيْرُ ٱلرَّٰزِقِينَ` `5:114`, `22:58`, `23:72`, `34:39`, `62:11`): Geçim dağıtan tüm aracılar içinde en kusursuz ve tükenmez kaynak."
+    },
+    {
+      "surah": 63,
+      "ayah": 10,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:10",
+      "word_position": 4,
+      "target_word_uthmani": "رَزَقْنَٰكُم",
+      "target_word_rasm": "رزقنكم",
+      "target_word_literal_irab": "Size/onlara/bana rızık ve geçim payı verdik (`رَزَقْنَٰكُمْ / رَزَقْنَٰهُمْ / رَزَقَهُمُ`, I. bab mâzî)",
+      "context_snippet_arabic": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Beni yakın bir süreye kadar ertelesen de, sadaka versem, iyilerden olsam\" diyeceği zaman gelmezden önce, size verdiğimiz rızıklardan dolaşıma sokup paylaşın.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:razaqa|ROOT:rzq|1P"
+      },
+      "ayah_text_arabic_full": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birine ölüm gelip de: \"Rabbim! Beni yakın bir süreye kadar ertelesen de, sadaka versem, iyilerden olsam\" diyeceği zaman gelmezden önce, size verdiğimiz rızıklardan dolaşıma sokup paylaşın.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 65,
+      "ayah": 3,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:3",
+      "word_position": 1,
+      "target_word_uthmani": "وَيَرْزُقْهُ",
+      "target_word_rasm": "ويرزقه",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا",
+      "context_snippet_turkish_tabula_rasa": "... Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. ...",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe güvene eren kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 65,
+      "ayah": 7,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:7",
+      "word_position": 9,
+      "target_word_uthmani": "رِزْقُهُۥ",
+      "target_word_rasm": "رزقه",
+      "target_word_literal_irab": "Yaşam payı, geçim tayını ve tahsisat (`رِزْقٌ / رِزْقُهَا / وَرِزْقُ`, isim merfû)",
+      "context_snippet_arabic": "وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Varlıklı olan kimse, nafakayı varlığına göre versin; rızkı ancak kendisine yetecek kadar verilmiş olan kimse, Allah'ın kendisine verdiğinden versin; Allah kimse...",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|NOM"
+      },
+      "ayah_text_arabic_full": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Varlıklı olan kimse, nafakayı varlığına göre versin; rızkı ancak kendisine yetecek kadar verilmiş olan kimse, Allah'ın kendisine verdiğinden versin; Allah kimseye, verdiği rızkı aşan bir yük yüklemez. Allah, güçlükten sonra kolaylık verir.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 65,
+      "ayah": 11,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:11",
+      "word_position": 34,
+      "target_word_uthmani": "رِزْقًا",
+      "target_word_rasm": "رزقا",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah'a güven duy ve yararlı iş işlerse, Allah onu, içinde temelli ve sonsuz kalınacak, içlerinden ırmaklarakan esenlik bahçelerine koyar. Allah ona gerçekten güzel rızık vermiştir.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "رَّسُولًا يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتٍ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَٰلِحًا يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı işler işleyenleri karanlıklardan aydınlığa çıkarmak üzere, size Allah'ın apaçık ayetlerini okuyan bir elçi göndermiştir. Kim Allah'a güven duy ve yararlı iş işlerse, Allah onu, içinde temelli ve sonsuz kalınacak, içlerinden ırmaklarakan esenlik bahçelerine koyar. Allah ona gerçekten güzel rızık vermiştir.",
+      "contextual_meaning": "Hesapsız ve kalıcı rızık (`بِغَيْرِ حِسَابٍ` `2:212`, `3:37`, `24:38`; `20:131` Rabbinin rızkı daha hayırlı ve kalıcıdır; `20:132` senden rızık istemiyoruz, seni Biz besliyoruz; `3:169` ölenlerin diriler olarak rızıklandırılması)."
+    },
+    {
+      "surah": 67,
+      "ayah": 15,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:15",
+      "word_position": 12,
+      "target_word_uthmani": "رِّزْقِهِۦ",
+      "target_word_rasm": "رزقه",
+      "target_word_literal_irab": "Geçim payının, rızkın veya tahsisatın (`ٱلرِّزْقِ / رِزْقٍ / رِزْقِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ ٱلنُّشُورُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünü, size boyun eğdiren O'dur; öyleyse yerin sırtlarında dolaşın, Allah'ın verdiği rızıktan yiyin; sonunda dönüş O'nadır.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|GEN"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ ٱلنُّشُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünü, size boyun eğdiren O'dur; öyleyse yerin sırtlarında dolaşın, Allah'ın verdiği rızıktan yiyin; sonunda dönüş O'nadır.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    },
+    {
+      "surah": 67,
+      "ayah": 21,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:21",
+      "word_position": 4,
+      "target_word_uthmani": "يَرْزُقُكُمْ",
+      "target_word_rasm": "يرزقكم",
+      "target_word_literal_irab": "Rızık ve geçim payı verir / veririz / rızıklandıracağız (`يَرْزُقُ / نَرْزُقُكَ / لَيَرْزُقَنَّهُمُ`, I. bab muzâri)",
+      "context_snippet_arabic": "أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Allah size verdiği rızkı kesiverirse, size rızık verecek başka kim vardır? Hayır; onlar, azgınlık ve nefrette direnmektedirler.",
+      "morphology": {
+        "lemma": "razaqa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:razaqa|ROOT:rzq|3MS"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size verdiği rızkı kesiverirse, size rızık verecek başka kim vardır? Hayır; onlar, azgınlık ve nefrette direnmektedirler.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 67,
+      "ayah": 21,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:21",
+      "word_position": 7,
+      "target_word_uthmani": "رِزْقَهُۥ",
+      "target_word_rasm": "رزقه",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ بَل لَّجُّوا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "Allah size verdiği rızkı kesiverirse, size rızık verecek başka kim vardır? Hayır; onlar, azgınlık ve nefrette direnmektedirler.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ هَٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size verdiği rızkı kesiverirse, size rızık verecek başka kim vardır? Hayır; onlar, azgınlık ve nefrette direnmektedirler.",
+      "contextual_meaning": "Rızkı yalnızca gerçek kaynaktan isteme (`29:17`, `67:21`), temiz ve helal olanından yiyip (`2:172`, `5:88`) başkalarıyla paylaşma (`مِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ` `2:3`) döngüsü."
+    },
+    {
+      "surah": 89,
+      "ayah": 16,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:16",
+      "word_position": 7,
+      "target_word_uthmani": "رِزْقَهُۥ",
+      "target_word_rasm": "رزقه",
+      "target_word_literal_irab": "Geçim payını, rızkı ve nasibi (`رِزْقًا / ٱلرِّزْقَ / رِزْقَكُمْ`, isim mansûb)",
+      "context_snippet_arabic": "ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "context_snippet_turkish_tabula_rasa": "Ama onu sınamak için rızkını daraltıp bir ölçüye göre verdiği zaman: \"Rabbim bana hor baktı\" der.",
+      "morphology": {
+        "lemma": "rizoq",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:rizoq|ROOT:rzq|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama onu sınamak için rızkını daraltıp bir ölçüye göre verdiği zaman: \"Rabbim bana hor baktı\" der.",
+      "contextual_meaning": "İnsanın yaşama, bilgiye ve meyveye kavuştuğu geçim payının Yaratıcı tarafından tahsis edilmesi ve bu payın iyilikle harcanması çağrısı."
+    }
+  ]
+}

@@ -1,0 +1,2460 @@
+{
+  "root": "ج-ز-ي",
+  "root_latin": "C-Z-Y (Jzy)",
+  "concept_name": "Cezâ / Mücâzât (Yerine Geçip Kefil Olma, Birebir Denklik ve Eylem Karşılığı)",
+  "rank": 98,
+  "total_occurrences": 118,
+  "unique_ayahs_count": 109,
+  "unified_core_mechanism": "Kökün 118 geçişlik tümünü tek adalet ve denklik ölçüsü taşır: 'Bir boşluğu, borcu veya eylemi eksiksiz denk ölçüyle kapatıp karşılığını vermek (`قِيَامُ ٱلشَّيْءِ مَقَامَ غَيْرِهِ`)'. Dört kolda işler: (1) Başkasının yerine kefil olamama ve bireysel hesap sorumluluğu (`2:48,123`, `31:33`). (2) İnsanın kendi emeği ve kazancının şaşmaz birebir veya on katlı ödül/yaptırım dengesi (`6:160`, `14:51`, `20:15`, `40:17,40`, `45:22`, `53:31,41`, `55:60`). (3) Yıkıcı suçlara, yalanlamaya ve zulme denk yaptırım (`17:63`, `21:29`, `34:17`, `41:28`, `59:17`). (4) Yeryüzü sözleşme ve tazmin hukuku (`5:38`, `9:29`, `12:74-75`).",
+  "physical_core": "Ham fiziki çekirdek: 'Kesip ayırmak, eksik gedik bırakmadan tam ölçüyle bir şeyin yerini doldurmak, borcu veya boşluğu tamamen kapatıp yeterli gelmek (`قِيَامُ ٱلشَّيْءِ مَقَامَ غَيْرِهِ وَٱلْكَفَاءَةُ وَٱلْقَضَاءُ`)'. Kur'an'da ilk somut yansıması `لَا تَجْزِى نَفْسٌ عَن نَفْسٍ` (`2:48,123`) ve `لَا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ` (`31:33`) hukuk ilkesidir: bir kişinin diğeri adına borç kapatıp kefil olamaması! İkinci yansıması `5:38` ve `12:75`teki somut tazmin/bedel ilkesi (`مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ`), üçüncü yansıması ise yapılan her eylemin eksiksiz denk veya katmerli karşılığıdır (`جَزَآءً مَّوْفُورًا`, `6:160`, `53:41`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris `ج-ز-ي` kökünün tek ana ölçüsünü `قِيَامُ ٱلشَّيْءِ مَقَامَ غَيْرِهِ وَمُكَافَأَتُهُ إِيَّاهُ` (bir şeyin başkasının yerini doldurup boşluğu/borcu kapatması ve denk karşılık vermesi) diye sabitler; 'kâfi gelmek' (`كفى`), 'borcu ödemek/kapatmak' (`قضى`) ve 'iyiliğe veya suça karşılık vermek' (`مكافأة`) tamamen tek kökten doğar.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `جَزَىٰ يَجْزِى` bir şeyi tamamen karşılayıp yeterli kılmak ve hakkını tam ödemektir (`2:48` `لَا تَجْزِى` = yeterli gelip yerine ödeyemez); `ٱلْجِزْيَة` ise verilen güvence ve barış antlaşmasının borç/yükümlülük karşılığıdır.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): `ٱلْجَزَاء` hem ödülü hem yaptırımı içine alan nötr 'tam karşılık' ismidir. `2:48` ve `2:123`teki `لَا تَجْزِى` fiili kesinlikle 'ödüllendirmek' değil, 'birinin borcunu ödeyip yerine yetmek (`تُغْنِى وَتَقْضِى`)' anlamındadır (`31:33` `جَازٍ` ise bunun ism-i fâilidir).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât) I. bab `جَزَىٰ` ile III. bab `جَازَىٰ` (`34:17` `نُجَٰزِىٓ`) arasındaki hayati Furûk farkını kaydeder: Yalın I. bab `جَزَىٰ` hem birebir adalet hem lütufla kat kat fazla ödül için (`6:160`, `23:111`, `76:12`) kullanılabilirken, karşılıklılık bildiren III. bab `نُجَٰزِىٓ` (`34:17`) sırf aşırı nankörlüğün tam birebir denk cezasını vurgular.",
+    "arbitration_decision": "Tahkim Kararı: Kök üç halkada mühürlenir: (1) Başkasının yerine geçip yetme ve borcu kapatma (`2:48`, `2:123`, `31:33` `عَنْ` edatlı yapı), (2) Eyleme göre ölçülendirilmiş adil karşılık ve iyilikte katmerli ihsan (`6:160`, `40:40`, `53:31,41`, `55:60`, `34:17`), (3) Hukukî-toplumsal sözleşme bedeli (`9:29` `ٱلْجِزْيَةَ`, `5:38`, `12:74-75`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*g-z-y / *g-z-z ('kesip ayırmak, payını biçmek, borcu/vergiyi kesip ödemek') — Eski Sami 'pay/hisse biçip ayırma' çekirdeğinden Yakın Doğu'da hukuk ve maliye alanına yerleşmiş kök.",
+    "hebrew": "İbranicede *g-z-z* (`גזז`: 'kırkmak, kesip ayırmak') ve *g-z-h* (`גזה`) kökü somut 'kesip ayırma/kırkma' fiziksel tabakasını korurken, karşılık/ödeme kavramı için *š-l-m* veya *s-k-r* tercih edilir.",
+    "aramaic_syriac": "Klasik Süryanicede `ܓܙܐ` (*gzā*: 'kesmek, ayırmak') yanında özellikle malî yükümlülük ve vergi anlamındaki `ܓܙܝܬܐ` (*gzītā*: 'haraç, vergi, ödenen pay') ve Babil Yahudi Aramicedeki *gəzītā* (`גזיתא`) formu Arapça `جِزْيَة` (`9:29`) ile doğrudan tarihî temas ve paralellik taşır.",
+    "north_arabian_sabaic": "Antik Kuzey/Güney Arapça (Sebece) yazıt geleneğinde hüküm, pay ayırma ve hak teslimi bağlamlarında paralel kök izleri bulunmakla birlikte Arapça *c-z-y* (`جَزَىٰ` / `جَزَاء`) 'kefil olma ve eylem karşılığı ödeme' anlamını en geniş üçlü sistemle geliştirmiştir.",
+    "akkadian_geez": "Doğu Samicede Akadca 'kesip ayırmak' kökü yanında ödeme/karşılık vermek için tamamen farklı *apālu* ve *riābu* kökleri kullanılır. Tarihsel dilbilimde `9:29`da geçen `جِزْيَة` terimi için hem yerli Arapça `ج-ز-ي` ('kefil olan güvence payı') kökü hem de Orta Farsça *gazīk / gazīdag* → Aramca *gzītā* ile Geç Antik Yakın Doğu idarî söz varlığı temasının birleştiği değerlendirilir.",
+    "phonological_note": "Proto-Semitik `*g` sesi Arapçada düzenli olarak `ج` (*jīm*) sesine dönüşmüş; `g-z-y/z` ('kesip ayırmak / pay ayırmak') kökü Kuzeybatı Samicede tarımsal kırkma (`*gzz`) ve vergi kesintisinde (`gzītā`), Arapçada ise 'kişinin hak ettiği tam payı kesip vermek / açığı kapatmak (`جَزَىٰ / جَزَاء`)' anlamında soyut hukuk ve ahlâk yasasına evrilmiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ظ-ل-م (`فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ` — Hak Edilen Tam Karşılık `جَزَاء` vs Haksız Eksiltme veya Aşırı Ceza `ظُلْم` — `6:160`, `40:17`, `45:22`)",
+      "غ-ن-ي / ش-ف-ع / ع-د-ل (`لَا تَجْزِى نَفْسٌ عَن نَفْسٍ ... وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ` — Yerine Geçme/Kefalet İmkânsızlığı vs Fidye ve Aracılık — `2:48`, `2:123`, `31:33`)",
+      "جَزَآءُ ٱلْمُحْسِنِينَ ↔ جَزَآءُ ٱلظَّٰلِمِينَ (`53:31`, `59:17`, `6:160` — İyiliğin On Kat/Eşsiz Ödülü vs Zalimliğin Dengi Yıkım Karşılığı)",
+      "ع-ف-و (`لِيَجْزِىَ` ↔ `يَغْفِرُوا۟` — Hak Edilmiş Karşılık vs Bağışlayıp Örtme — `45:14`, `3:136`, `42:40`)"
+    ],
+    "key_ayahs": [
+      "6:160 & 40:40 (مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ — asimetrik merhamet vs adil denklik)",
+      "2:48 & 31:33 (لَا تَجْزِى نَفْسٌ عَن نَفْسٍ / لَا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ — bireysel sorumluluk sınırları)",
+      "55:60 & 53:31 (هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ — güzelliğin karşılık yasası)",
+      "45:22 & 40:17 (لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ — yaratılışın adalet amacı)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ج-ز-ي bir boşluğu doldurup yapılan işe tam hak ettiği karşılığı ödemekse zıddı nedir?' Cevap: İnsanın hak ettiğini vermemek veya hak edilmeyeni yüklemek yani `ظ-ل-م` (`6:160`, `40:17`, `45:22` `وَهُمْ لَا يُظْلَمُونَ`) ile hak edildiği halde merhametle affetmek (`ع-ف-و / غ-ف-ر` `45:14`). Çift yönlü Mesânî testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "جَزَٰٓؤُهُۥ (`Çalınan Şeyin Cezası Nedir Sorusu/Ölçüsü`) vs فَهُوَ جَزَٰٓؤُهُۥ (`O Kişinin Bizzat Kendisi Onun Karşılığıdır`) vs نَجْزِى (`Genel Yaptırım Kuralımız`) — Tek Ayette `3` Kez (`12:75`)",
+      "ذَٰلِكَ جَزَيْنَٰهُم (`I. Bab Mâzî: Onlara Verdiğimiz Tarihî Karşılık`) vs وَهَلْ نُجَٰزِىٓ (`III. Bab Muzâri: Birebir Denk Cezayı Ancak Nanköre Veririz`) — `34:17`",
+      "لَا يَجْزِى (`Baba Oğlu Yerine Ödemez Fiili`) vs هُوَ جَازٍ (`Evlat da Babası Adına Ödeyici İsm-i Fâil`) — `31:33`",
+      "لِيَجْزِىَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ (`Kötülük Yapanlara Eylem Karşılığı`) vs وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى (`Güzellik Yapanlara Güzellikle`) — `53:31`",
+      "يُجْزَىٰهُ (`Edilgen Karşılık Verilir Fiili`) vs ٱلْجَزَآءَ ٱلْأَوْفَىٰ (`Tek Marife Masdar: En Eksiksiz Karşılık`) — `53:41`"
+    ],
+    "mechanical_difference": "1) `34:17` aynı ayette I. bab `جَزَيْنَٰهُم` ile tüm kökteki tek III. bab fiili `نُجَٰزِىٓ` yan yana getirerek 'iyilere lütufla katlayarak verdiğimiz halde, yalnızca azgın nankörlere birebir mufâale cezası keseriz' inceliğini kurar. 2) `31:33` aynı ayette `لَا يَجْزِى` (baba hakkında eylem zamanlı fiil) ile `جَازٍ` (evlat hakkında kalıcı sıfat ism-i fâil) arasında çift yönlü sorumluluk kilidi koyar. 3) `53:41` (`ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ`) kökte `ٱلْجَزَآءَ` kelimesinin harf-i tarifle (`ٱلْـ`) geldiği tek mef'ûl-i mutlak olup kesin adalet tamamlanmasını vurgular."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "2:48 & 2:123 & 31:33",
+      "role": "Kefalet ve Yerine Geçme Yasası Çapası (لَا تَجْزِى نَفْسٌ عَن نَفْسٍ / جَازٍ)",
+      "literal_meaning": "'Hiçbir canlının bir başkasının yerine geçip hiçbir şeyi ödeyemeyeceği (`لَا تَجْزِى`), babanın evladına ve evladın babasına hiçbir bedel karşılayıcı (`جَازٍ`) olamayacağı günden sakının!'"
+    },
+    {
+      "ref": "6:160 & 40:40",
+      "role": "10 Kat Lütuf ve Birebir Adalet Çapası (فَلَهُۥ عَشْرُ أَمْثَالِهَا / فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا)",
+      "literal_meaning": "'Kim bir iyilikle gelirse ona on katı vardır; kim de bir kötülükle gelirse yalnızca onun dengiyle karşılık görür (`فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا`) ve kendilerine asla haksızlık edilmez.'"
+    },
+    {
+      "ref": "34:17",
+      "role": "I. Bab vs III. Bab Mufâale Hapax Çapası (جَزَيْنَٰهُم ... وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ)",
+      "literal_meaning": "'Nankörlükleri sebebiyle onları işte böyle cezalandırdık (`جَزَيْنَٰهُم`); biz bu birebir tam karşılığı (`نُجَٰزِىٓ`) azgın nankörden başkasına verir miyiz?'"
+    },
+    {
+      "ref": "55:60 & 53:31 & 53:41",
+      "role": "İyilik Simetrisi ve Marife En Tam Karşılık Çapası (هَلْ جَزَآءُ ٱلْإِحْسَٰنِ / ٱلْجَزَآءَ ٱلْأَوْفَىٰ)",
+      "literal_meaning": "'Güzelliğin ve iyiliğin karşılığı (`جَزَآءُ`) iyilikten başkası mıdır?' ve 'Sonra ona emeğinin en eksiksiz karşılığı (`ٱلْجَزَآءَ ٱلْأَوْفَىٰ`) verilecektir.'"
+    },
+    {
+      "ref": "12:74-75",
+      "role": "Üçlü Hukukî Bedel Çapası (فَمَا جَزَٰٓؤُهُۥٓ / فَهُوَ جَزَٰٓؤُهُۥ)",
+      "literal_meaning": "'Yalancı çıkarsanız bu işin cezası/karşılığı nedir (`مَا جَزَٰٓؤُهُۥٓ`)?' dediler; 'Kimin yükünde çıkarsa onun kendisi onun karşılığıdır (`فَهُوَ جَزَٰٓؤُهُۥ`); biz zalimleri böyle cezalandırırız (`نَجْزِى`).'"
+    },
+    {
+      "ref": "9:29",
+      "role": "Antlaşmalı Güvence Bedeli (`ٱلْجِزْيَةَ`) Hapax Çapası",
+      "literal_meaning": "'...kendi ellerinden teslimiyetle barış ve koruma bedelini (`ٱلْجِزْيَةَ`) verinceye kadar...'"
+    },
+    {
+      "ref": "14:51 & 20:15 & 45:22",
+      "role": "Yaratılış ve Hesap Evrenselliği Çapası (لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ)",
+      "literal_meaning": "'Allah gökleri ve yeri hak ile yaratmıştır ki her benlik kendi kazandığının tam karşılığını alsın (`لِتُجْزَىٰ`) ve onlara asla haksızlık edilmesin.'"
+    },
+    {
+      "ref": "23:111 & 76:12 & 39:34",
+      "role": "Dirençli Duruşun Ebedî Karşılığı Çapası (جَزَيْتُهُمُ بِمَا صَبَرُوٓا۟ / جَزَىٰهُم بِمَا صَبَرُوا۟)",
+      "literal_meaning": "'Dirençli duruşları sebebiyle bugün onları ödüllendirdim (`جَزَيْتُهُمُ`): işte gerçek başarıya erenler onlardır!' ve 'sebatları karşılığında onlara esenlik bahçesi ve ipek verdi (`وَجَزَىٰهُم`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'da yalnızca iki fiil babından `5` lemma türetir: I. bab nâkıs `جَزَىٰ - يَجْزِى` (`73 V`: `48` malum + `25` meçhul) ile ism-i fâili `جَازٍ` (`1 N` `31:33` — kesreden düşmüş yâ'lı tenvinli `مَنْقُوص`); III. bab mufâale `جَازَىٰ` (`1 V` `34:17` `نُجَٰزِىٓ`); masdar `جَزَاء` (`42 N`: `41` nekre/muzâf + yalnızca `53:41`de marife `ٱلْجَزَآءَ`); hukukî isim `جِزْيَة` (`1 N` `9:29`). 2) Fiilin iki farklı gramatikal kullanımı vardır: (a) `عَنْ` harf-i cerriyle geldiğinde (`2:48`, `2:123`, `31:33`) 'birinin yerine geçip borcunu karşılamak' anlamındadır; (b) doğrudan iki mef'ûl (nesne) veya `بِـ` sebep harfi aldığında ('birine yaptığına karşılık vermek') tüm evrensel karşılık yasasını ifade eder. 3) `53:41`de hem edilgen fiil hem mef'ûl-i mutlak birlikte gelerek (`ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ`) eylemle sonucun tam örtüşmesini pekiştirir. 4) `8` ayette birden fazla geçer (`12:75` x3, diğer `7` ayette x2) ve `42` ayrı Rasm-ı Osmânî yazımı vardır.",
+  "derivatives": {
+    "جَزَىٰ (`73 V`, I. bab malum/meçhul) & نُجَٰزِىٓ (`1 V`, III. bab `34:17`) & جَازٍ (`1 N`, `31:33`)": "Başkası yerine kefil olamama (`2:48`, `31:33`), iyiliğe kat kat lütuf ve kötülüğe denk karşılık (`6:160`, `40:40`, `53:31`) ile aşırı nanköre mufâale karşılığı (`34:17`)",
+    "جَزَاء (`42 N`: `12:75`, `17:63`, `53:41`, `55:60` dahil)": "Hukukî tazmin (`5:38`, `12:75`), eylemin kaçınılmaz sonucu (`3:136`, `41:28`, `59:17`) ve en eksiksiz karşılık (`53:41`, `55:60`)",
+    "ٱلْجِزْيَة (`1 N` hapax `9:29`)": "Antlaşmalı toplumsal güvenlik ve koruma karşılığı elden ödenen güvence bedeli (`9:29`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 48,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:48",
+      "word_position": 4,
+      "target_word_uthmani": "تَجْزِى",
+      "target_word_rasm": "تجزى",
+      "target_word_literal_irab": "Kimse kimsenin yerine geçip yükünü ödeyemez (`تَجْزِى / يَجْزِى`, I. bab muzâri 'yerine geçmek/yeterli olmak')",
+      "context_snippet_arabic": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ",
+      "context_snippet_turkish_tabula_rasa": "Kimsenin kimseden faydalanamayacağı, kimseden bir şefaat kabul edilmeyeceği, kimseden bir fidye alınmayacağı ve yardım görülmeyeceği günden korunun.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3FS"
+      },
+      "ayah_text_arabic_full": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kimsenin kimseden faydalanamayacağı, kimseden bir şefaat kabul edilmeyeceği, kimseden bir fidye alınmayacağı ve yardım görülmeyeceği günden korunun.",
+      "contextual_meaning": "Kökün en eski kefalet anlamı (`لَا تَجْزِى نَفْسٌ عَن نَفْسٍ` `2:48,123` ve `لَا يَجْزِى وَالِدٌ ... وَلَا مَوْلُودٌ هُوَ جَازٍ` `31:33`): Hesap gününde hiç kimsenin bir başkasının yerine geçip bedel ödeyememesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 85,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:85",
+      "word_position": 29,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "... Kitabın bir kısmına güvene erip, bir kısmını gerçeğin üzerini örtme mı ediyorsunuz? Aranızda böyle yapanın cezası ancak dünya hayatında rezil olmaktır. Ahiret gününde de azabın en şiddetlisine onlar uğratılırlar. ...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra siz, birbirinizi öldüren, aranızdan bir takımı memleketlerinden süren, onlara karşı sapma ve ağır kusur ve düşmanlıkta birleşen, onları çıkarmak haramken size esir olarak geldiklerinde fidyelerini vermeye kalkan kimselersiniz. Kitabın bir kısmına güvene erip, bir kısmını gerçeğin üzerini örtme mı ediyorsunuz? Aranızda böyle yapanın cezası ancak dünya hayatında rezil olmaktır. Ahiret gününde de azabın en şiddetlisine onlar uğratılırlar. Allah yaptıklarınızdan gafil değildir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 123,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:123",
+      "word_position": 4,
+      "target_word_uthmani": "تَجْزِى",
+      "target_word_rasm": "تجزى",
+      "target_word_literal_irab": "Kimse kimsenin yerine geçip yükünü ödeyemez (`تَجْزِى / يَجْزِى`, I. bab muzâri 'yerine geçmek/yeterli olmak')",
+      "context_snippet_arabic": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ",
+      "context_snippet_turkish_tabula_rasa": "Kimsenin kimse namına bir şey ödemeyeceği, hiç kimseden fidye alınmayacağı, kimseye şefaatin yarar sağlamayacağı ve onların yardım görmeyeceği günden korunun.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3FS"
+      },
+      "ayah_text_arabic_full": "وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَٰعَةٌ وَلَا هُمْ يُنصَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kimsenin kimse namına bir şey ödemeyeceği, hiç kimseden fidye alınmayacağı, kimseye şefaatin yarar sağlamayacağı ve onların yardım görmeyeceği günden korunun.",
+      "contextual_meaning": "Kökün en eski kefalet anlamı (`لَا تَجْزِى نَفْسٌ عَن نَفْسٍ` `2:48,123` ve `لَا يَجْزِى وَالِدٌ ... وَلَا مَوْلُودٌ هُوَ جَازٍ` `31:33`): Hesap gününde hiç kimsenin bir başkasının yerine geçip bedel ödeyememesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 191,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:191",
+      "word_position": 24,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "قَٰتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Sizinle savaşırlarsa onları öldürün. gerçeğin üzerini örtenlerin cezası böyledir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ وَلَا تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ فِيهِ فَإِن قَٰتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları bulduğunuz yerde öldürün. Sizi çıkardıkları yerden siz de onları çıkarın. Fitne çıkarmak, adam öldürmekten daha kötüdür. dokunulmaz teslimiyet odağı'ın yanında, onlar savaşmadıkça siz de onlarla savaşmayın. Sizinle savaşırlarsa onları öldürün. gerçeğin üzerini örtenlerin cezası böyledir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 87,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:87",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَآؤُهُمْ",
+      "target_word_rasm": "جزاؤهم",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ",
+      "context_snippet_turkish_tabula_rasa": "İşte bunların cezası, Allah'ın, kozmik görevlilerin, insanların hepsinin lanetine uğramalarıdır.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ جَزَآؤُهُمْ أَنَّ عَلَيْهِمْ لَعْنَةَ ٱللَّهِ وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunların cezası, Allah'ın, kozmik görevlilerin, insanların hepsinin lanetine uğramalarıdır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 136,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:136",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَآؤُهُم",
+      "target_word_rasm": "جزاؤهم",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onların hareketlerinin karşılığı Rablerinden bağışlanma ve altlarından ırmaklar akan, içinde temelli kalacakları esenlik bahçeleridir. İyi davrananların ne güze...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların hareketlerinin karşılığı Rablerinden bağışlanma ve altlarından ırmaklar akan, içinde temelli kalacakları esenlik bahçeleridir. İyi davrananların ne güzel ecri vardır!",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 144,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:144",
+      "word_position": 25,
+      "target_word_uthmani": "وَسَيَجْزِى",
+      "target_word_rasm": "وسيجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَضُرَّ ٱللَّهَ شَيْـًٔا وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Muhammed ancak bir elçidir. Ondan önce de elçiler geçmişti. Ölür veya öldürülürse geriye mi döneceksiniz? Geriye dönen, Allah'a hiçbir zarar vermez. Allah nimet...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed ancak bir elçidir. Ondan önce de elçiler geçmişti. Ölür veya öldürülürse geriye mi döneceksiniz? Geriye dönen, Allah'a hiçbir zarar vermez. Allah nimetin değerini bilip açığa vuranların mükafatını verecektir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 145,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:145",
+      "word_position": 23,
+      "target_word_uthmani": "وَسَنَجْزِى",
+      "target_word_rasm": "وسنجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا وَسَنَجْزِى ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir kimse Allah'ın izni olmadan ölmez; o, belli bir vakte bağlanmıştır. Kim dünya nimetini isterse ona ondan veririz; ve kim ahiret nimetini isterse ona onda...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًا مُّؤَجَّلًا وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا وَسَنَجْزِى ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir kimse Allah'ın izni olmadan ölmez; o, belli bir vakte bağlanmıştır. Kim dünya nimetini isterse ona ondan veririz; ve kim ahiret nimetini isterse ona ondan veririz. nimetin değerini bilip açığa vuranların mükafatını vereceğiz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 93,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:93",
+      "word_position": 5,
+      "target_word_uthmani": "فَجَزَآؤُهُۥ",
+      "target_word_rasm": "فجزاؤه",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Kim bir güvene ereni kasden öldürürse cezası, içinde temelli kalacağı yakıcı yıkım yurdudur. Allah ona gazabetmiş, lanetlemiş ve büyük azab hazırlamıştır.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir güvene ereni kasden öldürürse cezası, içinde temelli kalacağı yakıcı yıkım yurdudur. Allah ona gazabetmiş, lanetlemiş ve büyük azab hazırlamıştır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 123,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:123",
+      "word_position": 10,
+      "target_word_uthmani": "يُجْزَ",
+      "target_word_rasm": "يجز",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ",
+      "context_snippet_turkish_tabula_rasa": "... Kim fenalık yaparsa cezasını görür, kendisine Allah'tan başka ne dost ve ne de yardımcı bulur.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, sizin kuruntularınıza ve Kitap ehlinin kuruntularına göre değildir. Kim fenalık yaparsa cezasını görür, kendisine Allah'tan başka ne dost ve ne de yardımcı bulur.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 29,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:29",
+      "word_position": 12,
+      "target_word_uthmani": "جَزَٰٓؤُا۟",
+      "target_word_rasm": "جزؤا",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ben, hem benim hem de kendi sapma ve kusurunu yüklenip yakıcı yıkım yurdu ehlinden olmanı isterim, zulmedenlerin cezası budur\".",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ben, hem benim hem de kendi sapma ve kusurunu yüklenip yakıcı yıkım yurdu ehlinden olmanı isterim, zulmedenlerin cezası budur\".",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 33,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:33",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَٰٓؤُا۟",
+      "target_word_rasm": "جزؤا",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Allah ve elçisiyle savaşanların ve yeryüzünde bozgunculuğa uğraşanların cezası öldürülmek veya asılmak yahut çapraz olarak el ve ayakları kesilmek ya da yerlerinden sürülmektir. Bu onlara dünyada bir rezilliktir. ...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ve elçisiyle savaşanların ve yeryüzünde bozgunculuğa uğraşanların cezası öldürülmek veya asılmak yahut çapraz olarak el ve ayakları kesilmek ya da yerlerinden sürülmektir. Bu onlara dünyada bir rezilliktir. Onlara ahirette büyük azab vardır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 38,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:38",
+      "word_position": 5,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا",
+      "context_snippet_turkish_tabula_rasa": "Erkek hırsız ve kadın hırsızın, yaptıklarından ötürü Allah tarafından ibret verici bir ceza olarak, ellerini kesin. Allah Güçlü'dür, Hakim'dir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا مِّنَ ٱللَّهِ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Erkek hırsız ve kadın hırsızın, yaptıklarından ötürü Allah tarafından ibret verici bir ceza olarak, ellerini kesin. Allah Güçlü'dür, Hakim'dir.",
+      "contextual_meaning": "Yeryüzü hukuku ve Yûsuf kıssası (`12:74-75` 'kimin yükünden çıkarsa onun kendisi tam karşılığıdır' kuralı, `5:38` suçun caydırıcı karşılığı)."
+    },
+    {
+      "surah": 5,
+      "ayah": 85,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:85",
+      "word_position": 13,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا وَذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah onlara, dediklerine karşılık, temelli kalacakları, altından ırmaklar akan esenlik bahçeleri verdi. Bu, iyi davrananların mükafatıdır.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَأَثَٰبَهُمُ ٱللَّهُ بِمَا قَالُوا۟ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onlara, dediklerine karşılık, temelli kalacakları, altından ırmaklar akan esenlik bahçeleri verdi. Bu, iyi davrananların mükafatıdır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 95,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:95",
+      "word_position": 13,
+      "target_word_uthmani": "فَجَزَآءٌ",
+      "target_word_rasm": "فجزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ",
+      "context_snippet_turkish_tabula_rasa": "... Sizden bile bile onu öldürene, ehli hayvanlardan öldürdüğü kadar olduğuna içinizden iki adil kimsenin hükmedeceği, Kabe'ye ulaşacak bir yakınlaşma sunusunu ödeme, yahut düşkünlere yemek yedirme şeklinde keffaret ya da yaptığının ağırlığını tatmak üzere bunlara denk öz denetim ve sakınma tutma vardır. Allah geçmiştekileri affetmiştir, kim tekrar yaparsa Allah ondan öç alır. ...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّٰرَةٌ طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ عَفَا ٱللَّهُ عَمَّا سَلَفَ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! İhramlı iken avı öldürmeyin. Sizden bile bile onu öldürene, ehli hayvanlardan öldürdüğü kadar olduğuna içinizden iki adil kimsenin hükmedeceği, Kabe'ye ulaşacak bir yakınlaşma sunusunu ödeme, yahut düşkünlere yemek yedirme şeklinde keffaret ya da yaptığının ağırlığını tatmak üzere bunlara denk öz denetim ve sakınma tutma vardır. Allah geçmiştekileri affetmiştir, kim tekrar yaparsa Allah ondan öç alır. Allah Güçlü'dür, Öçalıcı'dır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 84,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:84",
+      "word_position": 20,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَمُوسَىٰ وَهَٰرُونَ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u -ki işlerini iyi yapanlara böylece karşılık veririz-, Zekeriya'yı, Yahya'yı, İsa'yı ve İlyas'ı -ki hepsi iyilerdendir-, İsmail'i, Elyesa'ı, Yunus'u, Lut'u -ki hepsini dünyalara üstün kıldık- doğru yola eriştirdik.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ كُلًّا هَدَيْنَا وَنُوحًا هَدَيْنَا مِن قَبْلُ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَٰرُونَ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona İshak'ı, Yakub'u bağışladık, her birini doğru yola eriştirdik. Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u -ki işlerini iyi yapanlara böylece karşılık veririz-, Zekeriya'yı, Yahya'yı, İsa'yı ve İlyas'ı -ki hepsi iyilerdendir-, İsmail'i, Elyesa'ı, Yunus'u, Lut'u -ki hepsini dünyalara üstün kıldık- doğru yola eriştirdik.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 93,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:93",
+      "word_position": 36,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı yalan uydurandan veya kendisine bir şey vahyedilmemişken \"Bana vahyolundu, Allah'ın indirdiği gibi ben de indireceğim\" diyenden daha zalim kim olabilir? Bu zalimleri can çekişirlerken kozmik görevliler ellerini uzatmış, \"Canlarınızı verin, bugün Allah'a karşı haksız yere söylediklerinizden, O'nun ayetlerine büyüklük taslamanızdan ötürü alçaltıcı azabla cezalandırılacaksınız\" derken bir görsen!",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَٰتِهِۦ تَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı yalan uydurandan veya kendisine bir şey vahyedilmemişken \"Bana vahyolundu, Allah'ın indirdiği gibi ben de indireceğim\" diyenden daha zalim kim olabilir? Bu zalimleri can çekişirlerken kozmik görevliler ellerini uzatmış, \"Canlarınızı verin, bugün Allah'a karşı haksız yere söylediklerinizden, O'nun ayetlerine büyüklük taslamanızdan ötürü alçaltıcı azabla cezalandırılacaksınız\" derken bir görsen!",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 120,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:120",
+      "word_position": 9,
+      "target_word_uthmani": "سَيُجْزَوْنَ",
+      "target_word_rasm": "سيجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "sapma ve kusurun açığını da gizlisini de bırakın. sapma ve ağır kusur kazananlar, kazandıklarına karşılık şüphesiz ceza göreceklerdir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MP"
+      },
+      "ayah_text_arabic_full": "وَذَرُوا۟ ظَٰهِرَ ٱلْإِثْمِ وَبَاطِنَهُۥٓ إِنَّ ٱلَّذِينَ يَكْسِبُونَ ٱلْإِثْمَ سَيُجْزَوْنَ بِمَا كَانُوا۟ يَقْتَرِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sapma ve kusurun açığını da gizlisini de bırakın. sapma ve ağır kusur kazananlar, kazandıklarına karşılık şüphesiz ceza göreceklerdir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 138,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:138",
+      "word_position": 23,
+      "target_word_uthmani": "سَيَجْزِيهِم",
+      "target_word_rasm": "سيجزيهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... bir kısım hayvanların sırtlarına yük vurmak da haramdır\" iddiasında bulunarak ve bir kısım hayvanları keserken de Allah'ın adını anmamak suretiyle O'na iftira ederler. Allah, yaptıkları iftiralara karşı onları cezalandıracaktır.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu hayvanlar ve ekinleri dilediğimizden başkasının yemesi yasaktır; bir kısım hayvanların sırtlarına yük vurmak da haramdır\" iddiasında bulunarak ve bir kısım hayvanları keserken de Allah'ın adını anmamak suretiyle O'na iftira ederler. Allah, yaptıkları iftiralara karşı onları cezalandıracaktır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 139,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:139",
+      "word_position": 18,
+      "target_word_uthmani": "سَيَجْزِيهِمْ",
+      "target_word_rasm": "سيجزيهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَهُمْ فِيهِ شُرَكَآءُ سَيَجْزِيهِمْ وَصْفَهُمْ إِنَّهُۥ حَكِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Allah bu türlü sözlerin cezasını verecektir, çünkü O hakimdir, bilendir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ سَيَجْزِيهِمْ وَصْفَهُمْ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu hayvanların karınlarında olan yavrular yalnız erkeklerimize mahsus olup, eşlerimize yasaktır. Ölü doğacak olursa hepsi ona ortak olurlar\" dediler. Allah bu türlü sözlerin cezasını verecektir, çünkü O hakimdir, bilendir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 146,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:146",
+      "word_position": 25,
+      "target_word_uthmani": "جَزَيْنَٰهُم",
+      "target_word_rasm": "جزينهم",
+      "target_word_literal_irab": "Yaptıklarına karşılık verdik / verdim (`جَزَيْنَٰهُمْ / جَزَيْتُهُمُ / وَجَزَىٰهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. Biz şüphesiz doğru sözlüyüzdür.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. Biz şüphesiz doğru sözlüyüzdür.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 157,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:157",
+      "word_position": 26,
+      "target_word_uthmani": "سَنَجْزِى",
+      "target_word_rasm": "سنجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱللَّهِ وَصَدَفَ عَنْهَا سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın ayetlerini yalanlayandan ve onlardan yüz çevirenden daha zalim kimdir? Ayetlerimizden yüz çevirenleri, yüz çevirmelerinden ötürü, kötü bir azabla cezalandıracağız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "أَوْ تَقُولُوا۟ لَوْ أَنَّآ أُنزِلَ عَلَيْنَا ٱلْكِتَٰبُ لَكُنَّآ أَهْدَىٰ مِنْهُمْ فَقَدْ جَآءَكُم بَيِّنَةٌ مِّن رَّبِّكُمْ وَهُدًى وَرَحْمَةٌ فَمَنْ أَظْلَمُ مِمَّن كَذَّبَ بِـَٔايَٰتِ ٱللَّهِ وَصَدَفَ عَنْهَا سَنَجْزِى ٱلَّذِينَ يَصْدِفُونَ عَنْ ءَايَٰتِنَا سُوٓءَ ٱلْعَذَابِ بِمَا كَانُوا۟ يَصْدِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, indirdiğimiz kutsal Kitap'dır, ona uyun. \"Bizden önce iki topluluğa kitap indirildi, bizim onların okuduklarından haberimiz yok\" demekten veya \"Bize kitap indirilseydi onlardan daha doğru yolda olurduk\" demekten sakının ki merhamet olunasınız. Şüphesiz o, size Rabbinizden belge, yol gösteren ve rahmet olarak gelmiştir. Allah'ın ayetlerini yalanlayandan ve onlardan yüz çevirenden daha zalim kimdir? Ayetlerimizden yüz çevirenleri, yüz çevirmelerinden ötürü, kötü bir azabla cezalandıracağız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 160,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:160",
+      "word_position": 11,
+      "target_word_uthmani": "يُجْزَىٰٓ",
+      "target_word_rasm": "يجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kim ortaya bir iyilik koyarsa ona on katı verilir; ortaya bir kötülük koyan ise ancak misliyle cezalandırılır; onlara haksızlık yapılmaz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kim ortaya bir iyilik koyarsa ona on katı verilir; ortaya bir kötülük koyan ise ancak misliyle cezalandırılır; onlara haksızlık yapılmaz.",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 7,
+      "ayah": 40,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:40",
+      "word_position": 22,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "سَمِّ ٱلْخِيَاطِ وَكَذَٰلِكَ نَجْزِى ٱلْمُجْرِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... deve iğnenin deliğinden geçmedikçe esenlik bahçesine de giremezler. Suçluları böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَا لَا تُفَتَّحُ لَهُمْ أَبْوَٰبُ ٱلسَّمَآءِ وَلَا يَدْخُلُونَ ٱلْجَنَّةَ حَتَّىٰ يَلِجَ ٱلْجَمَلُ فِى سَمِّ ٱلْخِيَاطِ وَكَذَٰلِكَ نَجْزِى ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu ayetlerimizi yalan sayıp, onlara karşı büyüklük taslayanlara, göğün kapıları açılmaz; deve iğnenin deliğinden geçmedikçe esenlik bahçesine de giremezler. Suçluları böyle cezalandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 41,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:41",
+      "word_position": 9,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَوْقِهِمْ غَوَاشٍ وَكَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar için yakıcı yıkım yurdundan bir yatak ve üstlerine de örtüler vardır. Zalimleri böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "لَهُم مِّن جَهَنَّمَ مِهَادٌ وَمِن فَوْقِهِمْ غَوَاشٍ وَكَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar için yakıcı yıkım yurdundan bir yatak ve üstlerine de örtüler vardır. Zalimleri böyle cezalandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 147,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:147",
+      "word_position": 9,
+      "target_word_uthmani": "يُجْزَوْنَ",
+      "target_word_rasm": "يجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "حَبِطَتْ أَعْمَٰلُهُمْ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimizi ve ahirete kavuşmayı yalan sayan kimselerin işleri boşa gitmiştir. Onlar işlediklerinin karşılığından başka bir şeyle mi cezalanırlar?",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَلِقَآءِ ٱلْءَاخِرَةِ حَبِطَتْ أَعْمَٰلُهُمْ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimizi ve ahirete kavuşmayı yalan sayan kimselerin işleri boşa gitmiştir. Onlar işlediklerinin karşılığından başka bir şeyle mi cezalanırlar?",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 152,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:152",
+      "word_position": 14,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Buzağıyı sığınak mercii (ilâh) olarak benimseyenler Rablerinin öfkesine ve dünya hayatında alçaklığa uğrayacaklardır; iftira edenleri böylece cezalandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Buzağıyı sığınak mercii (ilâh) olarak benimseyenler Rablerinin öfkesine ve dünya hayatında alçaklığa uğrayacaklardır; iftira edenleri böylece cezalandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 180,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:180",
+      "word_position": 11,
+      "target_word_uthmani": "سَيُجْزَوْنَ",
+      "target_word_rasm": "سيجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "يُلْحِدُونَ فِىٓ أَسْمَٰٓئِهِۦ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "En güzel isimler Allah'ındır, O'na o isimlerle dua edin, O'nun isimleri konusunda eğriliğe sapanları bırakın. Onlar yaptıklarının cezasını göreceklerdir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MP"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا وَذَرُوا۟ ٱلَّذِينَ يُلْحِدُونَ فِىٓ أَسْمَٰٓئِهِۦ سَيُجْزَوْنَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "En güzel isimler Allah'ındır, O'na o isimlerle dua edin, O'nun isimleri konusunda eğriliğe sapanları bırakın. Onlar yaptıklarının cezasını göreceklerdir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 26,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:26",
+      "word_position": 17,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ وَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenleri azaba uğrattı. gerçeğin üzerini örtenlerin cezası budur.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ وَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bozgundan sonra Allah, elçisine, güvene erenlere güvenlik verdi ve görmediğiniz askerler indirdi; gerçeğin üzerini örtenleri azaba uğrattı. gerçeğin üzerini örtenlerin cezası budur.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 29,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:29",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلْجِزْيَةَ",
+      "target_word_rasm": "ٱلجزية",
+      "target_word_literal_irab": "Koruma ve barış düzeni karşılığı ödenen güvence bedeli (`ٱلْجِزْيَةَ`, fi'le kalıbı isim mansûb)",
+      "context_snippet_arabic": "ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kitap verilenlerden, Allah'a, ahiret gününe güven duy, Allah'ın ve elçisinin haram kıldığını haram saymayan, hak yaşam sistemini yaşam ve hesap sistemi edinmeyenlerle, boyunlarını büküp kendi elleriyle cizye verene kadar savaşın.",
+      "morphology": {
+        "lemma": "jizoyap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jizoyap|ROOT:jzy|F|ACC"
+      },
+      "ayah_text_arabic_full": "قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَٰغِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap verilenlerden, Allah'a, ahiret gününe güven duy, Allah'ın ve elçisinin haram kıldığını haram saymayan, hak yaşam sistemini yaşam ve hesap sistemi edinmeyenlerle, boyunlarını büküp kendi elleriyle cizye verene kadar savaşın.",
+      "contextual_meaning": "Hukukî-mali hapax (`ٱلْجِزْيَةَ` `9:29`): Toplumsal güvenlik ve barış sözleşmesinin yükümlülüğünü karşılayan, kendi eliyle ödenen bedel."
+    },
+    {
+      "surah": 9,
+      "ayah": 82,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:82",
+      "word_position": 5,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yaptıklarının cezası olarak, bundan böyle az gülsünler, çok ağlasınlar.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaptıklarının cezası olarak, bundan böyle az gülsünler, çok ağlasınlar.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 95,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:95",
+      "word_position": 15,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "رِجْسٌ وَمَأْوَىٰهُمْ جَهَنَّمُ جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Döndüğünüzde kendilerine çıkışmamanız için, Allah'a bağlayıcı ahit edeceklerdir. Siz onlardan yüz çevirin; çünkü pistirler. Yaptıklarının karşılığı olarak varac...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "سَيَحْلِفُونَ بِٱللَّهِ لَكُمْ إِذَا ٱنقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا۟ عَنْهُمْ فَأَعْرِضُوا۟ عَنْهُمْ إِنَّهُمْ رِجْسٌ وَمَأْوَىٰهُمْ جَهَنَّمُ جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Döndüğünüzde kendilerine çıkışmamanız için, Allah'a bağlayıcı ahit edeceklerdir. Siz onlardan yüz çevirin; çünkü pistirler. Yaptıklarının karşılığı olarak varacakları yer yakıcı yıkım yurdudur.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 121,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:121",
+      "word_position": 13,
+      "target_word_uthmani": "لِيَجْزِيَهُمُ",
+      "target_word_rasm": "ليجزيهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, yaptıklarının karşılığını en güzel şekilde kendilerine vermek üzere, az veya çok dolaşıma sokup paylaştıkları her şey, yürüdükleri her yol, onlar için ya...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, yaptıklarının karşılığını en güzel şekilde kendilerine vermek üzere, az veya çok dolaşıma sokup paylaştıkları her şey, yürüdükleri her yol, onlar için yazılır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 4,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:4",
+      "word_position": 12,
+      "target_word_uthmani": "لِيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hepinizin dönüşü, O'nadır. Allah'ın vadi haktır. O, önce yaratır, sonra güvene erip yararlı işler yapanların ve gerçeğin üzerini örtenlerin hareketlerinin karşı...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا وَعْدَ ٱللَّهِ حَقًّا إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ بِٱلْقِسْطِ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hepinizin dönüşü, O'nadır. Allah'ın vadi haktır. O, önce yaratır, sonra güvene erip yararlı işler yapanların ve gerçeğin üzerini örtenlerin hareketlerinin karşılığını adaletle vermek için tekrar diriltir. gerçeğin üzerini örtenlere, gerçeğin üzerini örtmelerinden ötürü kızgın bir içecek ve can yakıcı azab vardır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 13,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:13",
+      "word_position": 15,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "كَانُوا۟ لِيُؤْمِنُوا۟ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, sizden önce nice nesilleri, elçileri onlara belgeler getirmişken, haksızlık ederek güven duy zaman yok etmiştik. İşte biz suçlu milleti böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَهْلَكْنَا ٱلْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا۟ وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ وَمَا كَانُوا۟ لِيُؤْمِنُوا۟ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, sizden önce nice nesilleri, elçileri onlara belgeler getirmişken, haksızlık ederek güven duy zaman yok etmiştik. İşte biz suçlu milleti böyle cezalandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 27,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:27",
+      "word_position": 4,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kötülük işleyenlere kötülükleri kadar ceza verilir; onların yüzlerini zillet bürür; ...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük işleyenlere kötülükleri kadar ceza verilir; onların yüzlerini zillet bürür; Allah'a karşı onları savunacak yoktur; yüzleri, geceden kara bir parçayla örtülmüş gibidir. Bunlar yakıcı yıkım yurdu ehlidirler, orada temelli kalırlar.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 52,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:52",
+      "word_position": 9,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Haksızlık edenlere de: \"Sürekli azabı tadın, ancak yaptığınıza karşılık ceza çekiyorsunuz\" denir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلْخُلْدِ هَلْ تُجْزَوْنَ إِلَّا بِمَا كُنتُمْ تَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Haksızlık edenlere de: \"Sürekli azabı tadın, ancak yaptığınıza karşılık ceza çekiyorsunuz\" denir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 22,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:22",
+      "word_position": 8,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Erginlik çağına erince ona hikmet ve bilgi verdik. İyi davrananları böyle mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Erginlik çağına erince ona hikmet ve bilgi verdik. İyi davrananları böyle mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 25,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:25",
+      "word_position": 13,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "ٱلْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ",
+      "context_snippet_turkish_tabula_rasa": "... Kadın kocasına \"Ailene fenalık etmek isteyen bir kimsenin cezası ya hapis ya da can yakıcı bir azab olmalıdır\" dedi.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisi de kapıya koştu, kadın arkadan Yusuf'un gömleğini yırttı; kapının önünde kocasına rastladılar. Kadın kocasına \"Ailene fenalık etmek isteyen bir kimsenin cezası ya hapis ya da can yakıcı bir azab olmalıdır\" dedi.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 74,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:74",
+      "word_position": 3,
+      "target_word_uthmani": "جَزَٰٓؤُهُۥٓ",
+      "target_word_rasm": "جزؤه",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Yalancı iseniz, hırsızlığın cezası nedir?\" dediler.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yalancı iseniz, hırsızlığın cezası nedir?\" dediler.",
+      "contextual_meaning": "Yeryüzü hukuku ve Yûsuf kıssası (`12:74-75` 'kimin yükünden çıkarsa onun kendisi tam karşılığıdır' kuralı, `5:38` suçun caydırıcı karşılığı)."
+    },
+    {
+      "surah": 12,
+      "ayah": 75,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:75",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَٰٓؤُهُۥ",
+      "target_word_rasm": "جزؤه",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى",
+      "context_snippet_turkish_tabula_rasa": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "contextual_meaning": "Yeryüzü hukuku ve Yûsuf kıssası (`12:74-75` 'kimin yükünden çıkarsa onun kendisi tam karşılığıdır' kuralı, `5:38` suçun caydırıcı karşılığı)."
+    },
+    {
+      "surah": 12,
+      "ayah": 75,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:75",
+      "word_position": 8,
+      "target_word_uthmani": "جَزَٰٓؤُهُۥ",
+      "target_word_rasm": "جزؤه",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "contextual_meaning": "Yeryüzü hukuku ve Yûsuf kıssası (`12:74-75` 'kimin yükünden çıkarsa onun kendisi tam karşılığıdır' kuralı, `5:38` suçun caydırıcı karşılığı)."
+    },
+    {
+      "surah": 12,
+      "ayah": 75,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:75",
+      "word_position": 10,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "contextual_meaning": "Yeryüzü hukuku ve Yûsuf kıssası (`12:74-75` 'kimin yükünden çıkarsa onun kendisi tam karşılığıdır' kuralı, `5:38` suçun caydırıcı karşılığı)."
+    },
+    {
+      "surah": 12,
+      "ayah": 88,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:88",
+      "word_position": 20,
+      "target_word_uthmani": "يَجْزِى",
+      "target_word_rasm": "يجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "عَلَيْنَآ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri vezirin yanına vardıklarında: \"Ey Vezir! Biz ve çoluk çocuğumuz darlığa uğradık; pek değersiz bir malla geldik; ölçeği bize tam yap ve sadaka ver; Al...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍ مُّزْجَىٰةٍ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri vezirin yanına vardıklarında: \"Ey Vezir! Biz ve çoluk çocuğumuz darlığa uğradık; pek değersiz bir malla geldik; ölçeği bize tam yap ve sadaka ver; Allah sadaka verenleri şüphesiz mükafatlandırır\" dediler.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 14,
+      "ayah": 51,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:51",
+      "word_position": 1,
+      "target_word_uthmani": "لِيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah herkese yaptığının karşılığını vereceği için böyledir. Doğrusu Allah hesabı çabuk görür.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah herkese yaptığının karşılığını vereceği için böyledir. Doğrusu Allah hesabı çabuk görür.",
+      "contextual_meaning": "Yaratılış gayesi ve bireysel hesap (`لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ / تَسْعَىٰ` `14:51`, `20:15`, `40:17`, `45:22`): Her canlı kendi emeğinin karşılığını eksiksiz alır ve kimseye haksızlık edilmez."
+    },
+    {
+      "surah": 16,
+      "ayah": 31,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:31",
+      "word_position": 13,
+      "target_word_uthmani": "يَجْزِى",
+      "target_word_rasm": "يجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "مَا يَشَآءُونَ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "İçlerinden ırmaklar akan Adn esenlik bahçelerine girerler. Orada, diledikleri kendilerine verilir. Allah sakınanları böylece mükafatlandırır.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ لَهُمْ فِيهَا مَا يَشَآءُونَ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İçlerinden ırmaklar akan Adn esenlik bahçelerine girerler. Orada, diledikleri kendilerine verilir. Allah sakınanları böylece mükafatlandırır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 16,
+      "ayah": 96,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:96",
+      "word_position": 8,
+      "target_word_uthmani": "وَلَنَجْزِيَنَّ",
+      "target_word_rasm": "ولنجزين",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "عِندَ ٱللَّهِ بَاقٍ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم",
+      "context_snippet_turkish_tabula_rasa": "Sizde olanlar tükenir ama, Allah katında olanlar sonsuzdur, tükenmez. sebat edip direnenlere ecirlerini, yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "مَا عِندَكُمْ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٍ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizde olanlar tükenir ama, Allah katında olanlar sonsuzdur, tükenmez. sebat edip direnenlere ecirlerini, yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 16,
+      "ayah": 97,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:97",
+      "word_position": 13,
+      "target_word_uthmani": "وَلَنَجْزِيَنَّهُمْ",
+      "target_word_rasm": "ولنجزينهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Kadın, erkek, güvene ermiş olarak kim iyi iş işlerse, ona hoş bir hayat yaşatacağız. Ecirlerini yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "مَنْ عَمِلَ صَٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadın, erkek, güvene ermiş olarak kim iyi iş işlerse, ona hoş bir hayat yaşatacağız. Ecirlerini yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 63,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:63",
+      "word_position": 8,
+      "target_word_uthmani": "جَزَآؤُكُمْ",
+      "target_word_rasm": "جزاؤكم",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءً مَّوْفُورًا",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Haydi git! Onlardan sana kim uyarsa bil ki, yakıcı yıkım yurdu hepinizin cezası olur, hem de tam bir ceza\" dedi.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءً مَّوْفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Haydi git! Onlardan sana kim uyarsa bil ki, yakıcı yıkım yurdu hepinizin cezası olur, hem de tam bir ceza\" dedi.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 63,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:63",
+      "word_position": 9,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءً مَّوْفُورًا",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Haydi git! Onlardan sana kim uyarsa bil ki, yakıcı yıkım yurdu hepinizin cezası olur, hem de tam bir ceza\" dedi.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءً مَّوْفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Haydi git! Onlardan sana kim uyarsa bil ki, yakıcı yıkım yurdu hepinizin cezası olur, hem de tam bir ceza\" dedi.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 98,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:98",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَآؤُهُم",
+      "target_word_rasm": "جزاؤهم",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا",
+      "context_snippet_turkish_tabula_rasa": "Bu, ayetlerimizi gerçeğin üzerini ört ve: \"Kemik ve ufalanmış toprak olduğumuzda mı yeniden dirileceğiz?\" demelerinin cezasıdır.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, ayetlerimizi gerçeğin üzerini ört ve: \"Kemik ve ufalanmış toprak olduğumuzda mı yeniden dirileceğiz?\" demelerinin cezasıdır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 88,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:88",
+      "word_position": 7,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "وَعَمِلَ صَٰلِحًا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ وَسَنَقُولُ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "\"Haksızlık yapana azap edeceğiz, sonra Rabbine döndürülür, onu görülmemiş bir azaba uğratır; ama güvene erip yararlı iş işleyene, mükafat olarak güzel şeyler va...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Haksızlık yapana azap edeceğiz, sonra Rabbine döndürülür, onu görülmemiş bir azaba uğratır; ama güvene erip yararlı iş işleyene, mükafat olarak güzel şeyler vardır, ona buyruğumuzdan kolay olanı söyleriz\" dedi.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 106,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:106",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَآؤُهُمْ",
+      "target_word_rasm": "جزاؤهم",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "İşte onların cezası; gerçeğin üzerini örtmelerine, elçilerimi ve ayetlerimi alaya almalarına karşılık olarak, yakıcı yıkım yurdudur.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَآؤُهُمْ جَهَنَّمُ بِمَا كَفَرُوا۟ وَٱتَّخَذُوٓا۟ ءَايَٰتِى وَرُسُلِى هُزُوًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onların cezası; gerçeğin üzerini örtmelerine, elçilerimi ve ayetlerimi alaya almalarına karşılık olarak, yakıcı yıkım yurdudur.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 20,
+      "ayah": 15,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:15",
+      "word_position": 6,
+      "target_word_uthmani": "لِتُجْزَىٰ",
+      "target_word_rasm": "لتجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Herkes işlediğinin karşılığını görsün diye, zamanını gizli tuttuğum kıyamet mutlaka gelecektir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخْفِيهَا لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا تَسْعَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkes işlediğinin karşılığını görsün diye, zamanını gizli tuttuğum kıyamet mutlaka gelecektir.",
+      "contextual_meaning": "Yaratılış gayesi ve bireysel hesap (`لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ / تَسْعَىٰ` `14:51`, `20:15`, `40:17`, `45:22`): Her canlı kendi emeğinin karşılığını eksiksiz alır ve kimseye haksızlık edilmez."
+    },
+    {
+      "surah": 20,
+      "ayah": 76,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:76",
+      "word_position": 10,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Rabbine güvene ermiş ve yararlı iş yaparak gelenlere, işte onlara, en üstün dereceler, içlerinden ırmaklar akan, içinde temelli kalacakları Adn esenlik bahçeler...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbine güvene ermiş ve yararlı iş yaparak gelenlere, işte onlara, en üstün dereceler, içlerinden ırmaklar akan, içinde temelli kalacakları Adn esenlik bahçeleri vardır. Bu, arınanların mükafatıdır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 20,
+      "ayah": 127,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:127",
+      "word_position": 2,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَكَذَٰلِكَ نَجْزِى مَنْ أَسْرَفَ وَلَمْ",
+      "context_snippet_turkish_tabula_rasa": "İşte haddi aşanları, Rabbinin ayetlerine güven duy böylece cezalandıracağız. Hem, ahiretin azabı bu dünya azabından daha şiddetli ve daha devamlıdır.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ نَجْزِى مَنْ أَسْرَفَ وَلَمْ يُؤْمِنۢ بِـَٔايَٰتِ رَبِّهِۦ وَلَعَذَابُ ٱلْءَاخِرَةِ أَشَدُّ وَأَبْقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte haddi aşanları, Rabbinin ayetlerine güven duy böylece cezalandıracağız. Hem, ahiretin azabı bu dünya azabından daha şiddetli ve daha devamlıdır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 29,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:29",
+      "word_position": 9,
+      "target_word_uthmani": "نَجْزِيهِ",
+      "target_word_rasm": "نجزيه",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ كَذَٰلِكَ نَجْزِى",
+      "context_snippet_turkish_tabula_rasa": "Bunlar içinde kim \"Ben, Allah'tan başka bir sığınak merciiyim\" derse, işte onu yakıcı yıkım yurduyla cezalandırırız. Zulmedenlerin cezasını böyle veririz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar içinde kim \"Ben, Allah'tan başka bir sığınak merciiyim\" derse, işte onu yakıcı yıkım yurduyla cezalandırırız. Zulmedenlerin cezasını böyle veririz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 29,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:29",
+      "word_position": 12,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "نَجْزِيهِ جَهَنَّمَ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar içinde kim \"Ben, Allah'tan başka bir sığınak merciiyim\" derse, işte onu yakıcı yıkım yurduyla cezalandırırız. Zulmedenlerin cezasını böyle veririz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar içinde kim \"Ben, Allah'tan başka bir sığınak merciiyim\" derse, işte onu yakıcı yıkım yurduyla cezalandırırız. Zulmedenlerin cezasını böyle veririz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 23,
+      "ayah": 111,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:111",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَيْتُهُمُ",
+      "target_word_rasm": "جزيتهم",
+      "target_word_literal_irab": "Yaptıklarına karşılık verdik / verdim (`جَزَيْنَٰهُمْ / جَزَيْتُهُمُ / وَجَزَىٰهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "... Onlara hep gülüyordunuz. sebat edip direnmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır\" der.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:jazaY`|ROOT:jzy|1S"
+      },
+      "ayah_text_arabic_full": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: \"Rabbimiz! güvene erdik, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin\" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. sebat edip direnmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır\" der.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 24,
+      "ayah": 38,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:38",
+      "word_position": 1,
+      "target_word_uthmani": "لِيَجْزِيَهُمُ",
+      "target_word_rasm": "ليجزيهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا عَمِلُوا۟ وَيَزِيدَهُم مِّن فَضْلِهِۦ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 25,
+      "ayah": 15,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:15",
+      "word_position": 12,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "ٱلْمُتَّقُونَ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Bu mu iyidir, yoksa Allah'a karşı gelmekten sakınanlara mükafat ve gidilecek yer olarak söz verilen ebedi esenlik bahçesi mi daha iyidir?\"",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ أَذَٰلِكَ خَيْرٌ أَمْ جَنَّةُ ٱلْخُلْدِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ كَانَتْ لَهُمْ جَزَآءً وَمَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Bu mu iyidir, yoksa Allah'a karşı gelmekten sakınanlara mükafat ve gidilecek yer olarak söz verilen ebedi esenlik bahçesi mi daha iyidir?\"",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 25,
+      "ayah": 75,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:75",
+      "word_position": 2,
+      "target_word_uthmani": "يُجْزَوْنَ",
+      "target_word_rasm": "يجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "İşte onlar, sebat edip direndiklerinden ötürü esenlik bahçesinin en yüksek dereceleriyle mükafatlandırılırlar. Orada esenlik ve dirlik dilekleriyle karşılanırla...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَٰمًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlar, sebat edip direndiklerinden ötürü esenlik bahçesinin en yüksek dereceleriyle mükafatlandırılırlar. Orada esenlik ve dirlik dilekleriyle karşılanırlar.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 27,
+      "ayah": 90,
+      "surah_name": "Neml",
+      "ayah_ref": "27:90",
+      "word_position": 9,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "فِى ٱلنَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kötülük getiren kimseler, yüzükoyun ateşe atılırlar. \"Yaptıklarınızdan başka bir şeyle mi cezalandırılacaksınız?\" denir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتْ وُجُوهُهُمْ فِى ٱلنَّارِ هَلْ تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük getiren kimseler, yüzükoyun ateşe atılırlar. \"Yaptıklarınızdan başka bir şeyle mi cezalandırılacaksınız?\" denir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 14,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:14",
+      "word_position": 9,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Musa erginlik çağına gelip olgunlaşınca, ona hikmet ve ilim verdik. İyi davrananları böyle mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا بَلَغَ أَشُدَّهُۥ وَٱسْتَوَىٰٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa erginlik çağına gelip olgunlaşınca, ona hikmet ve ilim verdik. İyi davrananları böyle mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 25,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:25",
+      "word_position": 10,
+      "target_word_uthmani": "لِيَجْزِيَكَ",
+      "target_word_rasm": "ليجزيك",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ",
+      "context_snippet_turkish_tabula_rasa": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. ...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 84,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:84",
+      "word_position": 11,
+      "target_word_uthmani": "يُجْزَى",
+      "target_word_rasm": "يجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ",
+      "context_snippet_turkish_tabula_rasa": "Kim bir iyilik getirirse, ona daha iyisi verilir. Kim bir kötülük getirirse, o kötülükleri işleyenler, ancak yaptıkları kadar ceza görürler.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ خَيْرٌ مِّنْهَا وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَى ٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir iyilik getirirse, ona daha iyisi verilir. Kim bir kötülük getirirse, o kötülükleri işleyenler, ancak yaptıkları kadar ceza görürler.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 29,
+      "ayah": 7,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:7",
+      "word_position": 8,
+      "target_word_uthmani": "وَلَنَجْزِيَنَّهُمْ",
+      "target_word_rasm": "ولنجزينهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ ٱلَّذِى كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı iş işleyenlerin kötülüklerini, and olsun ki, örteriz; onları, yaptıklarından daha güzeli ile mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı iş işleyenlerin kötülüklerini, and olsun ki, örteriz; onları, yaptıklarından daha güzeli ile mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 30,
+      "ayah": 45,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:45",
+      "word_position": 1,
+      "target_word_uthmani": "لِيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Çünkü Allah güvene erip yararlı iş işleyenlere lütfundan karşılık verecektir. Doğrusu O, gerçeğin üzerini örtenleri sevmez.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِن فَضْلِهِۦٓ إِنَّهُۥ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü Allah güvene erip yararlı iş işleyenlere lütfundan karşılık verecektir. Doğrusu O, gerçeğin üzerini örtenleri sevmez.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 31,
+      "ayah": 33,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:33",
+      "word_position": 8,
+      "target_word_uthmani": "يَجْزِى",
+      "target_word_rasm": "يجزى",
+      "target_word_literal_irab": "Kimse kimsenin yerine geçip yükünü ödeyemez (`تَجْزِى / يَجْزِى`, I. bab muzâri 'yerine geçmek/yeterli olmak')",
+      "context_snippet_arabic": "وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... Babanın oğlu, oğulun da babası için bir şey ödeyemeyeceği günden korkun. Allah'ın verdiği söz şüphesiz gerçektir. ...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Rabbinize karşı gelmekten sakının. Babanın oğlu, oğulun da babası için bir şey ödeyemeyeceği günden korkun. Allah'ın verdiği söz şüphesiz gerçektir. Dünya hayatı sakın sizi aldatmasın. Allah'ın affına güvendirerek saptırıcı yıkıcı güç sizi ayartmasın.",
+      "contextual_meaning": "Kökün en eski kefalet anlamı (`لَا تَجْزِى نَفْسٌ عَن نَفْسٍ` `2:48,123` ve `لَا يَجْزِى وَالِدٌ ... وَلَا مَوْلُودٌ هُوَ جَازٍ` `31:33`): Hesap gününde hiç kimsenin bir başkasının yerine geçip bedel ödeyememesi."
+    },
+    {
+      "surah": 31,
+      "ayah": 33,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:33",
+      "word_position": 15,
+      "target_word_uthmani": "جَازٍ",
+      "target_word_rasm": "جاز",
+      "target_word_literal_irab": "Babası adına bir bedel ödeyip yerine geçebilecek kimse (`جَازٍ`, I. bab nâkıs ism-i fâil mecrûr)",
+      "context_snippet_arabic": "وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا",
+      "context_snippet_turkish_tabula_rasa": "... Babanın oğlu, oğulun da babası için bir şey ödeyemeyeceği günden korkun. Allah'ın verdiği söz şüphesiz gerçektir. ...",
+      "morphology": {
+        "lemma": "jaAz",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:jaAz|ROOT:jzy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Rabbinize karşı gelmekten sakının. Babanın oğlu, oğulun da babası için bir şey ödeyemeyeceği günden korkun. Allah'ın verdiği söz şüphesiz gerçektir. Dünya hayatı sakın sizi aldatmasın. Allah'ın affına güvendirerek saptırıcı yıkıcı güç sizi ayartmasın.",
+      "contextual_meaning": "Kökün en eski kefalet anlamı (`لَا تَجْزِى نَفْسٌ عَن نَفْسٍ` `2:48,123` ve `لَا يَجْزِى وَالِدٌ ... وَلَا مَوْلُودٌ هُوَ جَازٍ` `31:33`): Hesap gününde hiç kimsenin bir başkasının yerine geçip bedel ödeyememesi."
+    },
+    {
+      "surah": 32,
+      "ayah": 17,
+      "surah_name": "Secde",
+      "ayah_ref": "32:17",
+      "word_position": 10,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yaptıklarına karşılık onlar için saklanan müjdeyi kimse bilmez.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaptıklarına karşılık onlar için saklanan müjdeyi kimse bilmez.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 24,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:24",
+      "word_position": 1,
+      "target_word_uthmani": "لِّيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدْقِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Bu sebeple Allah, doğruları doğrulukları ile mükafatlandırır; ikiyüzlüleri de dilerse azablandırır veya tevbelerini kabul eder. Şüphesiz Allah bağışlayandır, me...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu sebeple Allah, doğruları doğrulukları ile mükafatlandırır; ikiyüzlüleri de dilerse azablandırır veya tevbelerini kabul eder. Şüphesiz Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 4,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:4",
+      "word_position": 1,
+      "target_word_uthmani": "لِّيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, güvene erip yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, güvene erip yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 17,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:17",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَيْنَٰهُم",
+      "target_word_rasm": "جزينهم",
+      "target_word_literal_irab": "Yaptıklarına karşılık verdik / verdim (`جَزَيْنَٰهُمْ / جَزَيْتُهُمُ / وَجَزَىٰهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ وَهَلْ",
+      "context_snippet_turkish_tabula_rasa": "İşte böylece, gerçeğin üzerini örtmelerinden ötürü onları cezalandırdık. Biz nankörden başkasına ceza mı veririz?",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böylece, gerçeğin üzerini örtmelerinden ötürü onları cezalandırdık. Biz nankörden başkasına ceza mı veririz?",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 17,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:17",
+      "word_position": 6,
+      "target_word_uthmani": "نُجَٰزِىٓ",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Nankörlükte direnenlere eylemlerinin tam denk karşılığını veririz (`نُجَٰزِىٓ`, III. bab mufâale muzâri `1P`)",
+      "context_snippet_arabic": "بِمَا كَفَرُوا۟ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ",
+      "context_snippet_turkish_tabula_rasa": "İşte böylece, gerçeğin üzerini örtmelerinden ötürü onları cezalandırdık. Biz nankörden başkasına ceza mı veririz?",
+      "morphology": {
+        "lemma": "nuja`ziY^",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:nuja`ziY^|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böylece, gerçeğin üzerini örtmelerinden ötürü onları cezalandırdık. Biz nankörden başkasına ceza mı veririz?",
+      "contextual_meaning": "III. bab hapax (`جَزَيْنَٰهُم ... وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ` `34:17`): İyilikte sınırı aşmayan I. bab karşılığına karşı, azgın nankörlükte aşırı gidenlere uygulanan birebir mufâale karşılığı."
+    },
+    {
+      "surah": 34,
+      "ayah": 33,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:33",
+      "word_position": 30,
+      "target_word_uthmani": "يُجْزَوْنَ",
+      "target_word_rasm": "يجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenlerin boyunlarına demir halkalar vururuz. Yaptıklarından başka bir şeyin mi cezasını çekerler?",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Güçsüz sayılanlar da büyüklük taslayanlara: \"Hayır gece gündüz hile kuruyor ve bize Allah'ı gerçeğin üzerini ört, O'na ortaklar koşmamızı emrediyordunuz\" derler. Azabı gördüklerinde, ettiklerine içleri yanar. gerçeğin üzerini örtenlerin boyunlarına demir halkalar vururuz. Yaptıklarından başka bir şeyin mi cezasını çekerler?",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 37,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:37",
+      "word_position": 16,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "صَٰلِحًا فَأُو۟لَٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... yalnız, güvene erip yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; işte onlar, yüksek derecelerde, güven içindedirler.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًا فَأُو۟لَٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَٰتِ ءَامِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Sizi Bana yaklaştıracak olan ne mallarınız ve ne de çocuklarınızdır; yalnız, güvene erip yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; işte onlar, yüksek derecelerde, güven içindedirler.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 36,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:36",
+      "word_position": 16,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... kendilerinden yakıcı yıkım yurdunun azabı da hafifletilmez. Her gerçeğin üzerini örteni böylece cezalandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlere yakıcı yıkım yurdu ateşi vardır. Ölümlerine hükmedilmez ki ölsünler; kendilerinden yakıcı yıkım yurdunun azabı da hafifletilmez. Her gerçeğin üzerini örteni böylece cezalandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 36,
+      "ayah": 54,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:54",
+      "word_position": 7,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Artık bugün kimseye hiçbir haksızlıkta bulunulmaz. İşlediklerinizden başkasıyla karşılık görmezsiniz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱلْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık bugün kimseye hiçbir haksızlıkta bulunulmaz. İşlediklerinizden başkasıyla karşılık görmezsiniz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 39,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:39",
+      "word_position": 2,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Yaptığınızdan başka birşeyle cezalanmayacaksınız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaptığınızdan başka birşeyle cezalanmayacaksınız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 80,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:80",
+      "word_position": 3,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "İşte Biz iyi davrananları böyle mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte Biz iyi davrananları böyle mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 105,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:105",
+      "word_position": 6,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱلرُّءْيَآ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Böylece ikisi de Allah' a teslimiyet gösterip, babası oğlunu alnı üzerine yatırınca Biz: \"Ey İbrahim! Rüyayı gerçek yaptın; işte biz iyi davrananları böylece mü...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece ikisi de Allah' a teslimiyet gösterip, babası oğlunu alnı üzerine yatırınca Biz: \"Ey İbrahim! Rüyayı gerçek yaptın; işte biz iyi davrananları böylece mükafatlandırırız\" diye seslendik.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 110,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:110",
+      "word_position": 2,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "İşte iyileri böylece mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte iyileri böylece mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 121,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:121",
+      "word_position": 3,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz, iyileri böylece mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz, iyileri böylece mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 131,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:131",
+      "word_position": 3,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz iyileri böylece mükafatlandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz iyileri böylece mükafatlandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 39,
+      "ayah": 34,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:34",
+      "word_position": 7,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ ذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, Rablerinin katında diledikleri şeyler vardır, bu, iyilerin mükafatıdır.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ذَٰلِكَ جَزَآءُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, Rablerinin katında diledikleri şeyler vardır, bu, iyilerin mükafatıdır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 39,
+      "ayah": 35,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:35",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَجْزِيَهُمْ",
+      "target_word_rasm": "ويجزيهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "أَسْوَأَ ٱلَّذِى عَمِلُوا۟ وَيَجْزِيَهُمْ أَجْرَهُم بِأَحْسَنِ ٱلَّذِى",
+      "context_snippet_turkish_tabula_rasa": "Zira Allah, onların yaptıkları kötülükleri örter, onlara, işledikleri şeylerin en güzel karşılıklarını verir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ أَسْوَأَ ٱلَّذِى عَمِلُوا۟ وَيَجْزِيَهُمْ أَجْرَهُم بِأَحْسَنِ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zira Allah, onların yaptıkları kötülükleri örter, onlara, işledikleri şeylerin en güzel karşılıklarını verir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 40,
+      "ayah": 17,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:17",
+      "word_position": 2,
+      "target_word_uthmani": "تُجْزَىٰ",
+      "target_word_rasm": "تجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "ٱلْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Bugün herkese, kazandığının karşılığı verilir. Bugün haksızlık yoktur. Doğrusu Allah, hesabı çabuk görendir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3FS"
+      },
+      "ayah_text_arabic_full": "ٱلْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ لَا ظُلْمَ ٱلْيَوْمَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bugün herkese, kazandığının karşılığı verilir. Bugün haksızlık yoktur. Doğrusu Allah, hesabı çabuk görendir.",
+      "contextual_meaning": "Yaratılış gayesi ve bireysel hesap (`لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ / تَسْعَىٰ` `14:51`, `20:15`, `40:17`, `45:22`): Her canlı kendi emeğinin karşılığını eksiksiz alır ve kimseye haksızlık edilmez."
+    },
+    {
+      "surah": 40,
+      "ayah": 40,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:40",
+      "word_position": 5,
+      "target_word_uthmani": "يُجْزَىٰٓ",
+      "target_word_rasm": "يجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَمَنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Kim bir kötülük işlerse ancak onun kadar ceza görür. Kadın veya erkek, kim, güven duy yararlı iş işlerse, işte onlar esenlik bahçesine girerler; ...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kim bir kötülük işlerse ancak onun kadar ceza görür. Kadın veya erkek, kim, güven duy yararlı iş işlerse, işte onlar esenlik bahçesine girerler; orada hesapsız şekilde rızıklanırlar.\"",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 41,
+      "ayah": 27,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:27",
+      "word_position": 6,
+      "target_word_uthmani": "وَلَنَجْزِيَنَّهُمْ",
+      "target_word_rasm": "ولنجزينهم",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "كَفَرُوا۟ عَذَابًا شَدِيدًا وَلَنَجْزِيَنَّهُمْ أَسْوَأَ ٱلَّذِى كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlere çetin bir azap tattıracağız. İşledikleri en kötü işlere karşılık onların cezasını vereceğiz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُوا۟ عَذَابًا شَدِيدًا وَلَنَجْزِيَنَّهُمْ أَسْوَأَ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlere çetin bir azap tattıracağız. İşledikleri en kötü işlere karşılık onların cezasını vereceğiz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 41,
+      "ayah": 28,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:28",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ",
+      "context_snippet_turkish_tabula_rasa": "İşte böyle; Allah'ın düşmanlarının cezası ateştir. Ayetlerimizi bile bile gerçeğin üzerini ört karşılığı orası onların temelli kalacakları yerdir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böyle; Allah'ın düşmanlarının cezası ateştir. Ayetlerimizi bile bile gerçeğin üzerini ört karşılığı orası onların temelli kalacakları yerdir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 41,
+      "ayah": 28,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:28",
+      "word_position": 10,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "فِيهَا دَارُ ٱلْخُلْدِ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا",
+      "context_snippet_turkish_tabula_rasa": "İşte böyle; Allah'ın düşmanlarının cezası ateştir. Ayetlerimizi bile bile gerçeğin üzerini ört karşılığı orası onların temelli kalacakları yerdir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَآءُ أَعْدَآءِ ٱللَّهِ ٱلنَّارُ لَهُمْ فِيهَا دَارُ ٱلْخُلْدِ جَزَآءًۢ بِمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böyle; Allah'ın düşmanlarının cezası ateştir. Ayetlerimizi bile bile gerçeğin üzerini ört karşılığı orası onların temelli kalacakları yerdir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 42,
+      "ayah": 40,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:40",
+      "word_position": 1,
+      "target_word_uthmani": "وَجَزَٰٓؤُا۟",
+      "target_word_rasm": "وجزؤا",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا",
+      "context_snippet_turkish_tabula_rasa": "Bir kötülüğün karşılığı, aynı şekilde bir kötülüktür. Ama kim affeder ve barışırsa, onun ecri Allah'a aittir. Doğrusu O, zulmedenleri sevmez.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir kötülüğün karşılığı, aynı şekilde bir kötülüktür. Ama kim affeder ve barışırsa, onun ecri Allah'a aittir. Doğrusu O, zulmedenleri sevmez.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 45,
+      "ayah": 14,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:14",
+      "word_position": 10,
+      "target_word_uthmani": "لِيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "güven duy de ki: Allah'ın bir milleti yaptıklarına karşılık cezalandıracağı günlerin geleceğini ummayanları şimdilik bağışlasınlar.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güven duy de ki: Allah'ın bir milleti yaptıklarına karşılık cezalandıracağı günlerin geleceğini ummayanları şimdilik bağışlasınlar.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 45,
+      "ayah": 22,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:22",
+      "word_position": 6,
+      "target_word_uthmani": "وَلِتُجْزَىٰ",
+      "target_word_rasm": "ولتجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Allah gökleri ve yeri gerçekle yaratmıştır; her cana, kazandığının karşılığı verilir, onlara zulmedilmez.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3FS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah gökleri ve yeri gerçekle yaratmıştır; her cana, kazandığının karşılığı verilir, onlara zulmedilmez.",
+      "contextual_meaning": "Yaratılış gayesi ve bireysel hesap (`لِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ / تَسْعَىٰ` `14:51`, `20:15`, `40:17`, `45:22`): Her canlı kendi emeğinin karşılığını eksiksiz alır ve kimseye haksızlık edilmez."
+    },
+    {
+      "surah": 45,
+      "ayah": 28,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:28",
+      "word_position": 11,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmeti diz üstü çökmüş olarak görürsün. Her ümmet kitabına çağrılır. Onlara denir ki: \"Bugün, size işlediğinizin karşılığı verilecektir.\"",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmeti diz üstü çökmüş olarak görürsün. Her ümmet kitabına çağrılır. Onlara denir ki: \"Bugün, size işlediğinizin karşılığı verilecektir.\"",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 46,
+      "ayah": 14,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:14",
+      "word_position": 6,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşte onlar, esenlik bahçesi ehlidirler; işlediklerine karşılık olarak, içinde temelli kalacaklardır.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlar, esenlik bahçesi ehlidirler; işlediklerine karşılık olarak, içinde temelli kalacaklardır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 46,
+      "ayah": 20,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:20",
+      "word_position": 15,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, ateşe sunuldukları gün, onlara: \"Dünyadaki hayatınızda sizin için güzel olan her şeyi harcadınız, onların zevkini sürdünüz; ama bugün...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, ateşe sunuldukları gün, onlara: \"Dünyadaki hayatınızda sizin için güzel olan her şeyi harcadınız, onların zevkini sürdünüz; ama bugün, yeryüzünde haksız yere büyüklük taslamanızın ve yoldan çıkmanızın karşılığında alçaltıcı bir azap göreceksiniz\"",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 46,
+      "ayah": 25,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:25",
+      "word_position": 12,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِلَّا مَسَٰكِنُهُمْ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Bunun üzerine evlerinin harabelerinden başka bir şey görünmez oldu. Biz, suçlu milleti işte böyle cezalandırırız.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَٰكِنُهُمْ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O azabın, yayılarak vadilerine doğru yöneldiğini gördüklerinde: \"Bu yaygın bulut bize yağmur yağdıracaktır\" dediler. Hud: \"Hayır, o, acele beklediğiniz şeydir; can yakıcı azap veren bir rüzgardır; Rabbinin buyruğu ile her şeyi yok eder\" dedi. Bunun üzerine evlerinin harabelerinden başka bir şey görünmez oldu. Biz, suçlu milleti işte böyle cezalandırırız.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 52,
+      "ayah": 16,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:16",
+      "word_position": 9,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "سَوَآءٌ عَلَيْكُمْ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını ...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 53,
+      "ayah": 31,
+      "surah_name": "Necm",
+      "ayah_ref": "53:31",
+      "word_position": 8,
+      "target_word_uthmani": "لِيَجْزِىَ",
+      "target_word_rasm": "ليجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük sapma...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük sapma ve kusurlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir.",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 53,
+      "ayah": 31,
+      "surah_name": "Necm",
+      "ayah_ref": "53:31",
+      "word_position": 13,
+      "target_word_uthmani": "وَيَجْزِىَ",
+      "target_word_rasm": "ويجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "أَسَٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük sapma...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لِيَجْزِىَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ بِمَا عَمِلُوا۟ وَيَجْزِىَ ٱلَّذِينَ أَحْسَنُوا۟ بِٱلْحُسْنَى",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük sapma ve kusurlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir.",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 53,
+      "ayah": 41,
+      "surah_name": "Necm",
+      "ayah_ref": "53:41",
+      "word_position": 2,
+      "target_word_uthmani": "يُجْزَىٰهُ",
+      "target_word_rasm": "يجزىه",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sonra ona karşılığı eksiksiz verilecektir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra ona karşılığı eksiksiz verilecektir.",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 53,
+      "ayah": 41,
+      "surah_name": "Necm",
+      "ayah_ref": "53:41",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْجَزَآءَ",
+      "target_word_rasm": "ٱلجزاء",
+      "target_word_literal_irab": "Eksiksiz ve tastamam karşılığı (`ٱلْجَزَآءَ`, tek marife mansûb masdar)",
+      "context_snippet_arabic": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sonra ona karşılığı eksiksiz verilecektir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ يُجْزَىٰهُ ٱلْجَزَآءَ ٱلْأَوْفَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra ona karşılığı eksiksiz verilecektir.",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 54,
+      "ayah": 14,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:14",
+      "word_position": 3,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+      "context_snippet_turkish_tabula_rasa": "Onu, tahtadan yapılmış, mıhla çakılmış bir gemiye bindirdik; gerçeğin üzerini ört olan Nuh'a mükafat olarak verdiğimiz gemi nezaretimiz altında yüzüyordu.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu, tahtadan yapılmış, mıhla çakılmış bir gemiye bindirdik; gerçeğin üzerini ört olan Nuh'a mükafat olarak verdiğimiz gemi nezaretimiz altında yüzüyordu.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 54,
+      "ayah": 35,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:35",
+      "word_position": 5,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "context_snippet_turkish_tabula_rasa": "Biz de üzerlerine taş yağdıran bir rüzgar gönderdik. Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. nimetin değerini bilip açı...",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "نِّعْمَةً مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de üzerlerine taş yağdıran bir rüzgar gönderdik. Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. nimetin değerini bilip açığa vurana işte böyle mükafat veririz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 55,
+      "ayah": 60,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:60",
+      "word_position": 2,
+      "target_word_uthmani": "جَزَآءُ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+      "context_snippet_turkish_tabula_rasa": "İyiliğin karşılığı ancak iyilik değil midir?",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+      "ayah_text_turkish_tabula_rasa_full": "İyiliğin karşılığı ancak iyilik değil midir?",
+      "contextual_meaning": "Kozmik adalet dengesi (`6:160` kötülüğe yalnızca dengi `مِثْلَهَا`, iyiliğe on katı; `40:40`; `53:31,41` en eksiksiz karşılık; `55:60` iyiliğin karşılığı yalnızca iyilik midir?)."
+    },
+    {
+      "surah": 56,
+      "ayah": 24,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:24",
+      "word_position": 1,
+      "target_word_uthmani": "جَزَآءًۢ",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve sapma ve kusura sokacak bir söz duymazlar.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve sapma ve kusura sokacak bir söz duymazlar.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 59,
+      "ayah": 17,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:17",
+      "word_position": 9,
+      "target_word_uthmani": "جَزَٰٓؤُا۟",
+      "target_word_rasm": "جزؤا",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "خَٰلِدَيْنِ فِيهَا وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "İkisinin sonucu da, içinde temelli kalacakları ateş olacaktır. Zalimlerin cezası budur.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَٰلِدَيْنِ فِيهَا وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisinin sonucu da, içinde temelli kalacakları ateş olacaktır. Zalimlerin cezası budur.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 66,
+      "ayah": 7,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:7",
+      "word_position": 8,
+      "target_word_uthmani": "تُجْزَوْنَ",
+      "target_word_rasm": "تجزون",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "تَعْتَذِرُوا۟ ٱلْيَوْمَ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey gerçeğin üzerini örtenler! Bugün özür beyan etmeyin, ancak işlediklerinizin karşılığını görmektesiniz\" denir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey gerçeğin üzerini örtenler! Bugün özür beyan etmeyin, ancak işlediklerinizin karşılığını görmektesiniz\" denir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 76,
+      "ayah": 9,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:9",
+      "word_position": 8,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "context_snippet_turkish_tabula_rasa": "\"Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız\" derler.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız\" derler.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 76,
+      "ayah": 12,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:12",
+      "word_position": 1,
+      "target_word_uthmani": "وَجَزَىٰهُم",
+      "target_word_rasm": "وجزىهم",
+      "target_word_literal_irab": "Yaptıklarına karşılık verdik / verdim (`جَزَيْنَٰهُمْ / جَزَيْتُهُمُ / وَجَزَىٰهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً",
+      "context_snippet_turkish_tabula_rasa": "sebat ve direnç karşılığı, esenlik bahçesi ve oradaki ipeklerdir.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:jazaY`|ROOT:jzy|3MS"
+      },
+      "ayah_text_arabic_full": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "sebat ve direnç karşılığı, esenlik bahçesi ve oradaki ipeklerdir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 76,
+      "ayah": 22,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:22",
+      "word_position": 5,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "هَٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "context_snippet_turkish_tabula_rasa": "\"İşte bu sizin işlediklerinizin karşılığıdır, çalışmalarınız nimeti açığa vurmaya değer\" denir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"İşte bu sizin işlediklerinizin karşılığıdır, çalışmalarınız nimeti açığa vurmaya değer\" denir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 77,
+      "ayah": 44,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:44",
+      "word_position": 3,
+      "target_word_uthmani": "نَجْزِى",
+      "target_word_rasm": "نجزى",
+      "target_word_literal_irab": "Herkesin eylemine denk karşılığını veririz / verecektir (`نَجْزِى / سَيَجْزِي / لِيَجْزِىَ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Biz, iyi davrananlara işte böyle karşılık veririz.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:jazaY`|ROOT:jzy|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, iyi davrananlara işte böyle karşılık veririz.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 78,
+      "ayah": 26,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:26",
+      "word_position": 1,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "جَزَآءً وِفَاقًا",
+      "context_snippet_turkish_tabula_rasa": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin....",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "جَزَآءً وِفَاقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin....",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 78,
+      "ayah": 36,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:36",
+      "word_position": 1,
+      "target_word_uthmani": "جَزَآءً",
+      "target_word_rasm": "جزاء",
+      "target_word_literal_irab": "Yaptıklarının tam karşılığı olarak (`جَزَآءً`, mef'ûl-i mutlak / le-eclih nekre mansûb)",
+      "context_snippet_arabic": "جَزَآءً مِّن رَّبِّكَ عَطَآءً",
+      "context_snippet_turkish_tabula_rasa": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir.",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 92,
+      "ayah": 19,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:19",
+      "word_position": 6,
+      "target_word_uthmani": "تُجْزَىٰٓ",
+      "target_word_rasm": "تجزى",
+      "target_word_literal_irab": "Eyleminizce eksiksiz karşılık görürsünüz / karşılık verilir (`تُجْزَوْنَ / يُجْزَوْنَ / يُجْزَىٰ`, I. bab edilgen muzâri)",
+      "context_snippet_arabic": "عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "O yaptığı iyiliği birinden karşılık görmek için değil, ancak yüce Rabbinin hoşnudluğunu (rızasını) gözeterek yapmıştır.",
+      "morphology": {
+        "lemma": "jazaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:jazaY`|ROOT:jzy|3FS"
+      },
+      "ayah_text_arabic_full": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "O yaptığı iyiliği birinden karşılık görmek için değil, ancak yüce Rabbinin hoşnudluğunu (rızasını) gözeterek yapmıştır.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    },
+    {
+      "surah": 98,
+      "ayah": 8,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:8",
+      "word_position": 1,
+      "target_word_uthmani": "جَزَآؤُهُمْ",
+      "target_word_rasm": "جزاؤهم",
+      "target_word_literal_irab": "Eyleminin sonucu ve tam karşılığı (`جَزَآءُ / جَزَآؤُهُمْ / جَزَآؤُكُمْ`, masdar merfû)",
+      "context_snippet_arabic": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ",
+      "context_snippet_turkish_tabula_rasa": "Onların Rableri katındaki mükafatı, içinde temelli ve sonsuz kalacakları, içlerinden ırmaklar akan Adn esenlik bahçeleridir. Allah onlardan razıdır. Onlar da Al...",
+      "morphology": {
+        "lemma": "jazaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:jazaA^'|ROOT:jzy|M|NOM"
+      },
+      "ayah_text_arabic_full": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların Rableri katındaki mükafatı, içinde temelli ve sonsuz kalacakları, içlerinden ırmaklar akan Adn esenlik bahçeleridir. Allah onlardan razıdır. Onlar da Allah'tan razıdır. Bu, Rabbinden korkan kimseyedir.",
+      "contextual_meaning": "Yapılan her bilinçli eylemin (`بِمَا كَسَبُوا۟ / بِمَا عَمِلُوا۟ / بِمَا صَبَرُوا۟`) iyilik veya yıkım cinsinden adil karşılığının ödenmesi."
+    }
+  ]
+}

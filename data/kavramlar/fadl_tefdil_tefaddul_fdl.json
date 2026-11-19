@@ -1,0 +1,2182 @@
+{
+  "root": "ف-ض-ل",
+  "root_latin": "F-D-L (fDl)",
+  "concept_name": "Fadl / Tefdîl (Taban Ölçüyü Aşan Artı Pay, İşlevsel Ayrışma ve İhsân)",
+  "rank": 109,
+  "total_occurrences": 104,
+  "unique_ayahs_count": 92,
+  "unified_core_mechanism": "Kökün `104` geçişlik tamamı İbn Fâris'in ve Râgıb'ın tek çekirdeğinde birleşir: 'Alışılagelmiş taban ölçüsünün, eşitliğin veya zorunlu denk karşılığın üstüne taşan artı pay ve bu payla yapılan ayrışma/iyilik'. Kur'an'da I. bab fiil hiç kullanılmaz; kök dört odakta çalışır: (1) Doğa ve rızıkta işlevsel farklılaşma (`13:4` ürünler, `16:71` rızık, `2:253` ve `17:70` elçiler ile insanlık). (2) Emek, denizcilik ve ticaretle elde edilen artı geçim imkânı (`16:14`, `17:12`, `62:10`, `73:20`). (3) Hak edilen denk borcun (`أَجْر` / `فَرِيضَة`) üstüne konan gönüllü feragat veya ilâhî artı katkı (`2:237`, `4:173`, `35:30`). (4) Cimriliğe, yoksulluk korkusuna ve hasede karşı koruyucu ve onarıcı ilâhî bolluk (`2:268`, `3:180`, `24:21,22`).",
+  "physical_core": "Bir şeyin zorunlu taban ölçüsünün, eşitliğin veya denk karşılığın üstüne taşan fazlalık, artı değer ve bu artı payı işlevsel ayrışma ya da karşılıksız açılımla vermek (`ٱلزِّيَادَةُ عَنِ ٱلِٱقْتِصَادِ وَإِعْطَاءُ ٱلْمَزِيَّةِ`). Fizikî ve ekonomik düzlemde aynı suyla sulanan bitkilerin tat/ürün ayrışımını (`13:4`), gemiler ve gündüz emeğiyle kazanılan artı geçim kaynağını (`16:14`, `62:10`, `73:20`) anlatır. Hukuk ve ahlakta borç olan denk ölçünün (`نِصْفُ مَا فَرَضْتُمْ` / `أَجْر`) ötesinde gönüllü feragati (`وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ` `2:237`) ve emeğin üstüne eklenen artı karşılığı (`4:173`, `35:30`) ifade eder.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `ف-ض-ل` maddesini tek sahih köke bağlar: 'Bir şeyde artma ve fazlalık bulunması (`زِيَادَة فِى شَىْء`)'. `فَضْل` fazlalık/artı iyilik, `تَفَضَّلَ` ise (`23:24`) akranlarının üstünde artı konum iddia etmek demektir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökün çekirdeğini *ez-ziyâde ani'l-iktisâd* (denk/orta ölçüden taşan fazlalık) diye tanımlar ve ikiye ayırır: övülen fazlalık (bilgi, olgunluk, karşılıksız ihsan) ve kınanan fazlalık (`23:24`teki kibirli üstünlük arayışı gibi haddi aşan taşma); ayrıca `فَضَّلَ`yi bir tarafa diğerinden fazla özellik/görev vermek diye açıklar.",
+    "lisan_al_arab": "Klasik sözlük geleneği (`el-Mekâyîs`, `el-Müfredât` ve Arap dil külliyatı) kökün temelini hem somut mal/ürün artığı hem de borç ve eşitliğin üstüne konan artı lütuf olarak teyit eder.",
+    "arbitration_decision": "Tahkim Kararı: Geleneksel meallerde `فَضْل` çoğu kez belirsiz bir 'lütuf/bol nimet' kalıbına sıkıştırılarak ticaret ve emek ekonomisi bağlamından (`17:12`, `62:10`, `73:20`) koparılır; `فَضَّلَ` ise ırk/cinsiyet kibri çağrıştıran soyut 'üstün kılma' gibi okunur. Kökün tamamı 'taban/eşit ölçüyü aşan artı pay, işlevsel farklılaştırma ve karşılıksız bolluk' mekaniğinde kilitlenir."
+  },
+  "semitic_cognates": {
+    "akkadian": "Akadçada artma, fazlalık ve artı pay için bütünüyle ayrı olan `watāru(m)` ('artmak, taşmak') kökü kullanılır; `f-ḍ-l` kökteşi Akadca sözlüklerde (CAD) bulunmaz.",
+    "aramaic_syriac": "Aramca ve Süryanicede (`ي-ت-ر / י-ת-ר` vb.) yerli kökteş yoktur; geç dönemlerde rastlanan biçimler doğrudan Arapçadan ödünçleme olarak değerlendirilir.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde (BDB) ve Klasik Etiyopça Geez'de (Leslau) Proto-Sami `*ṣ́ > Arab. ض` ses kuralıyla uyuşan ve 'artmak, taşmak' anlamına gelen yerli bir `*p-ṣ́-l` kökteşi mevcut değildir; İbranice artı pay için `יָתַר` (*yāṯar*) ve `עוֹד` köklerini kullanır.",
+    "phonological_note": "Proto-Sami lateralized emphatic `*ṣ́` sesi Arapçada düzenli olarak `ض` sesine dönüşse de, `ف-ض-ل` kökü Doğu ve Kuzeybatı Semitik dillerde belgelenmemiş olup Merkezî ve Güney Arabistan Semitiğine (Klasik Arapça ve Safaî/Dadanî mirasına) özgü semantik bir gelişimdir. Zoraki kökteşlik kurulmaz."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ق-ر (`ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ ... وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا` `2:268`; `إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ` `24:32` — Yoksunluk ve Darlık vs İmkân Artışı ve Bolluk)",
+      "ب-خ-ل / غ-ي-ر (`يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ` `3:180`, `4:37`, `9:75-76`; `بَغْيًا / يَحْسُدُونَ` `2:90`, `4:54` — Cimrilik, Saklama ve Kıskançlık vs Artı İmkânı Paylaşma)",
+      "ق-ص-د / س-و-ي (`فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِۦ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌۢ ... ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ` `35:32`; `فَهُمْ فِيهِ سَوَآءٌ` `16:71` — Denk/Eşit Taban Ölçü vs Onu Aşan Artı Pay)",
+      "خ-س-ر / ض-ر-ر (`فَلَوْلَا فَضْلُ ٱللَّهِ ... لَكُنتُم مِّنَ ٱلْخَٰسِرِينَ` `2:64`; `بِضُرٍّ ... لِفَضْلِهِۦ` `10:107` — Eksilme, Kayıp ve Zarar vs Onarıcı Fazlalık)"
+    ],
+    "key_ayahs": [
+      "2:64",
+      "2:198",
+      "2:237",
+      "2:268",
+      "3:174",
+      "3:180",
+      "4:32",
+      "4:95",
+      "4:173",
+      "13:4",
+      "16:71",
+      "17:21",
+      "23:24",
+      "24:22",
+      "35:30",
+      "35:32",
+      "62:10",
+      "73:20"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ف-ض-ل taban ve eşit ölçüyü aşan artı değer/fazlalık ise karşıtı nedir?' Cevap: (1) Malda eksiklik ve geçim darlığı (`ٱلْفَقْر` `2:268`, `فُقَرَآء` `24:32`, `عَيْلَة` `9:28`, `ٱلْخَٰسِرِينَ` `2:64`). (2) Ölçüde eşitlik ve farksızlık (`لَّا يَسْتَوِى` `4:95`, `فَهُمْ فِيهِ سَوَآءٌ` `16:71`, `مُّقْتَصِد` `35:32`). (3) Elden çıkan fazlayı tutup saklama (`بُخْل` `3:180`, `4:37`, `9:76`) ve başkasının artı payını çekememe (`بَغْيًا` `2:90`, `يَحْسُدُونَ` `4:54`). Tersinden her yön kökü doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "فَضْل (`Denk emeğin üstüne eklenen artı değer/bolluk`) vs أَجْر (`Emeğin hak edilmiş tam denk karşılığı`) — `3:171`, `4:95`, `4:173`, `35:30`",
+      "فَضْل (`Zorunlu hukukî borç olan yarının ötesindeki gönüllü feragat/iyilik`) vs فَرِيضَة (`Kesinleştirilmiş zorunlu pay`) — `2:237`",
+      "فَضْل (`Temel ihtiyacın ötesindeki artı imkân ve bolluk`) vs نِعْمَة / رَحْمَة (`Hayatı ayakta tutan esenlik ve koruyucu şefkat`) — `2:64`, `3:171,174`, `4:83,113`, `10:58`, `24:10,21`, `49:8`",
+      "فَضَّلَ (`Bileşenler/kullar arası işlevsel ve nitelik farkı oluşturmak`) vs سَوَآء / يَسْتَوِى (`Eşitlik ve aynı hizada olma`) — `4:95`, `16:71`, `13:4`",
+      "فَضْل (`Orta ölçünün ötesine sıçrayan hayır artışı`) vs مُّقْتَصِد (`Yalnızca orta/denk çizgide kalan`) — `35:32`",
+      "فَضْل (`Genel bolluk ve açılım`) vs سَعَة (`Kapsama alanı ve geçim genişliği`) — `24:22`"
+    ],
+    "mechanical_difference": "1) `4:173` ve `35:30`da `فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ` kalıbıyla `أُجُور` hakkedilen tam borcu, `فَضْل` ise hesabın üstüne eklenen artı fazlayı ayırır. 2) `2:237`de boşanma sonrası belirlenen bedelin yarısı zorunlu hak (`فَرِيضَة`), bundan gönüllü vazgeçmek ise `ٱلْفَضْل`dır. 3) `35:32`de `مُّقْتَصِد` ile denk ölçü, `سَابِقٌۢ بِٱلْخَيْرَٰتِ ... ذَٰلِكَ هُوَ ٱلْفَضْلُ` ile de ortalama ölçünün ötesindeki fazlalık ayet içinde yan yana konur."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "13:4",
+      "role": "Doğal Biyolojik Farklılaştırma Çapası (`يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ`)",
+      "literal_meaning": "'Aynı su ile sulandığı halde tat ve ürün bakımından bir kısmını diğerinden farklı ve artı nitelikte kılıyoruz' — kökteki 'üstün kılma'nın soyut kibir değil işlevsel farklılaştırma olduğunun fizikî kanıtı."
+    },
+    {
+      "ref": "2:198 & 17:12 & 62:10 & 73:20",
+      "role": "Üretim ve Ticaret Ekonomisi Çapası (`لِتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ` / `يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ`)",
+      "literal_meaning": "'Ticaret ve emekle artı değer aramanızda sakınca yoktur (`2:198`)', 'gündüz artı rızık üretmeniz için (`17:12`)', 'yeryüzüne yayılıp geçim imkânı arayın (`62:10`, `73:20`)' — kavramın somut geçim ve üretim artısı anlamı."
+    },
+    {
+      "ref": "2:237 & 24:22",
+      "role": "Hukukî Sınırın Ötesi İhsân Çapası (`وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ` / `أُو۟لُوا۟ ٱلْفَضْلِ وَٱلسَّعَةِ`)",
+      "literal_meaning": "'Ayrılık anında bile aranızdaki asgari hakkın ötesine geçen gönüllü iyilik payını unutmayın (`2:237`)' ve 'imkân fazlalığı ve genişlik sahipleri yakınlarına ve yoksullara yardımı kesmesin (`24:22`).'"
+    },
+    {
+      "ref": "4:173 & 35:30 & 35:32",
+      "role": "Bedel vs Artı Değer Furûk Çapası (`يُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ`)",
+      "literal_meaning": "'Onlara hak edilmiş karşılıklarını eksiksiz öder ve kendi artı bolluğundan daha da fazlasını ekler (`4:173`, `35:30`)' ve 'orta çizgiyi aşarak hayırlarda öne geçenlere büyük fazlalık (`ٱلْفَضْلُ ٱلْكَبِيرُ` `35:32`).'"
+    },
+    {
+      "ref": "2:268 & 3:180 & 4:32 & 16:71",
+      "role": "Yoksulluk, Cimrilik ve İşlev Paylaşımı Çapası (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`)",
+      "literal_meaning": "'Saptırıcı güç yoksullukla korkutur, Allah ise bağışlama ve artı bolluk vadeder (`2:268`)'; 'size verilen rızık fazlalığından cimrilik etmeyin (`3:180`, `16:71`)' ve 'başkasının sahip olduğu artı paya haset etmeyin (`4:32`).'"
+    },
+    {
+      "ref": "23:24 & 17:21 & 17:70",
+      "role": "V. Bab Hapaxı ve İnsanlık Onuru Çapası (`أَن يَتَفَضَّلَ عَلَيْكُمْ` / `وَفَضَّلْنَٰهُمْ ... تَفْضِيلًا`)",
+      "literal_meaning": "Önderlerin 'aranızda kendini üstün konuma çıkarmak istiyor (`23:24` V. bab hapaxı)' ithamına karşın, Allah'ın insanoğluna temiz rızıklar ve sorumluluk vererek onu donatması (`17:70` mef'ûl-i mutlak `تَفْضِيلًا`)."
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök bütün Kur'an'da I. bab fiil olarak (`فَضَلَ`) hiç kullanılmaz; fiiller yalnızca `17` kez tef'îl (`II. bab`) `فَضَّلَ` (`15` mâzî aktif, `1` mâzî meçhul `16:71` `فُضِّلُوا۟`, `1` muzâri `13:4` `وَنُفَضِّلُ`) ve `1` kez tefe''ül (`V. bab`) `يَتَفَضَّلَ` (`23:24` hapax: akranlarının üstünde imtiyaz arama) formunda gelir. 2) `فَضَّلَ` fiili daima çift nesneli/harf-i cerli çalışır: yükseltilen veya farklılaştırılan şey doğrudan nesne (`بَعْضَكُمْ / بَعْضَهُمْ`), kıyaslanan taraf ise `عَلَى` ile bağlanır (`عَلَى ٱلْعَٰلَمِينَ / عَلَى ٱلْقَٰعِدِينَ`). 3) İki ayette (`17:21`, `17:70`) II. babın mef'ûl-i mutlak masdarı `تَفْضِيلًا` pekiştirme sağlar; `84` geçişi oluşturan `فَضْل` ismi ise `11` ayette ikili/üçlü tekrarlar yapar (`57:29`da 3 kez; `3:174`, `4:32,95,113`, `11:3`, `16:71`, `17:21,70`, `57:21`, `62:4`te 2'şer kez). 4) Yalnızca `16` ayrı Rasm-ı Osmânî yazımında toplanır (`وفضلنهم` `17:70`, `45:16`da iç elif hazfiyle).",
+  "derivatives": {
+    "فَضْل (`84 N`)": "Emek ve ticaretle aranan artı geçim (`16:14`, `62:10`, `73:20`), asgari hukukun üstündeki iyilik (`2:237`), koruyucu ilâhî açılım (`2:64`, `24:21`) ve emeğin üstüne eklenen artı pay (`4:173`, `35:30`)",
+    "فَضَّلَ - يُفَضِّلُ (`17 V` II. bab, `1` meçhul dahil) & تَفْضِيل (`2 N`)": "Ürünleri tat bakımından farklılaştırmak (`13:4`), toplumsal/varlıksal payları ve görevleri ayırıp artırmak (`2:253`, `4:32,95`, `16:71`, `17:21,70`)",
+    "يَتَفَضَّلَ (`1 V` V. bab hapax `23:24`)": "Eşit insanlar arasında kendisi lehine artı ayrıcalık ve statü elde etmeye çalışmak"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 47,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:47",
+      "word_position": 9,
+      "target_word_uthmani": "فَضَّلْتُكُمْ",
+      "target_word_rasm": "فضلتكم",
+      "target_word_literal_irab": "Sizi diğer toplumlara göre artı sorumlulukla donattım (`فَضَّلْتُكُمْ`, II. bab mâzî 1. tekil)",
+      "context_snippet_arabic": "أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey İsrailoğulları! Size verdiğim nimeti ve sizi bir zamanlar alemlere üstün kıldığımı hatırlayın.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1S"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İsrailoğulları! Size verdiğim nimeti ve sizi bir zamanlar alemlere üstün kıldığımı hatırlayın.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 2,
+      "ayah": 64,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:64",
+      "word_position": 7,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "بَعْدِ ذَٰلِكَ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Bundan sonra yine yüz çevirdiniz; eğer Allah'ın size bol nimeti ve merhameti olmasaydı, muhakkak zarara uğrayanlardan olurdunuz.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "ثُمَّ تَوَلَّيْتُم مِّنۢ بَعْدِ ذَٰلِكَ فَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَكُنتُم مِّنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan sonra yine yüz çevirdiniz; eğer Allah'ın size bol nimeti ve merhameti olmasaydı, muhakkak zarara uğrayanlardan olurdunuz.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 2,
+      "ayah": 90,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:90",
+      "word_position": 15,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın kullarından dilediğine, bol ihsanından indirmesini çekemeyerek, Allah'ın indirdiğini gerçeğin üzerini ört, kendilerini ne kötü bir şey karşılığında sattılar. Bu yüzden gazab üstüne gazaba uğradılar. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kullarından dilediğine, bol ihsanından indirmesini çekemeyerek, Allah'ın indirdiğini gerçeğin üzerini ört, kendilerini ne kötü bir şey karşılığında sattılar. Bu yüzden gazab üstüne gazaba uğradılar. gerçeğin üzerini örtenlere alçaltıcı bir azab vardır.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 105,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:105",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden ve Allah'a eş koşanlardan gerçeğin üzerini örtenler, Rabbinizden size bir iyilik gelmesini istemezler. Allah, rahmetini dilediğine tahsis eder. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden ve Allah'a eş koşanlardan gerçeğin üzerini örtenler, Rabbinizden size bir iyilik gelmesini istemezler. Allah, rahmetini dilediğine tahsis eder. Allah büyük nimet sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 122,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:122",
+      "word_position": 9,
+      "target_word_uthmani": "فَضَّلْتُكُمْ",
+      "target_word_rasm": "فضلتكم",
+      "target_word_literal_irab": "Sizi diğer toplumlara göre artı sorumlulukla donattım (`فَضَّلْتُكُمْ`, II. bab mâzî 1. tekil)",
+      "context_snippet_arabic": "أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey İsrailoğulları! Size verdiğim nimeti ve sizi bir zamanlar alemlere üstün tuttuğumu hatırlayın.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1S"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İsrailoğulları! Size verdiğim nimeti ve sizi bir zamanlar alemlere üstün tuttuğumu hatırlayın.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 2,
+      "ayah": 198,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:198",
+      "word_position": 6,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ فَإِذَآ",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz'den refah istemenizde bir engel yoktur. Arafat'tan indiğinizde, Allah'ı Meşari Haram'da anın; O'nu, size gösterdiği şekilde zikredin. Nitekim siz öncel...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz'den refah istemenizde bir engel yoktur. Arafat'tan indiğinizde, Allah'ı Meşari Haram'da anın; O'nu, size gösterdiği şekilde zikredin. Nitekim siz önceleri hiç şüphesiz sapıklardandınız.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 2,
+      "ayah": 237,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:237",
+      "word_position": 29,
+      "target_word_uthmani": "ٱلْفَضْلَ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Ayrılık anındaki fazladan iyiliği / artı açılımı (`ٱلْفَضْلَ / فَضْلَهُۥ`, marife/muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "لِلتَّقْوَىٰ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlara mehir biçer de el sürmeden onları boşarsanız, kendileri veya nikah akdi elinde olan erkeğin bağışlaması hali müstesna biçtiğinizin yarısını verin, b...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlara mehir biçer de el sürmeden onları boşarsanız, kendileri veya nikah akdi elinde olan erkeğin bağışlaması hali müstesna biçtiğinizin yarısını verin, bağışlamanız Allah'tan sakınmaya daha uygundur. Aranızdaki iyiliği unutmayın. Allah şüphesiz işlediklerinizi görür.",
+      "contextual_meaning": "Hukukun üstünde gönüllü iyilik (`وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ` `2:237`): Ayrılıkta kesinleşmiş yarım borcun ötesine geçerek karşılıklı feragat ve ihsanı korumak."
+    },
+    {
+      "surah": 2,
+      "ayah": 243,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:243",
+      "word_position": 21,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Allah insanlara bol nimet verir, fakat insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Binlerce kişinin memleketlerinden ölüm korkusuyla çıktıklarını görmedin mi? Allah onlara \"Ölün\" dedi. Sonra onları diriltti. Allah insanlara bol nimet verir, fakat insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 251,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:251",
+      "word_position": 25,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın insanları birbiriyle savması olmasaydı yeryüzünün düzeni bozulurdu. Fakat Allah alemlere lütufkardır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları Allah'ın izniyle bozguna uğrattılar; Davud Calut'u öldürdü, Allah Davud'a hükümranlık ve hikmet verdi ve ona dilediğinden öğretti. Allah'ın insanları birbiriyle savması olmasaydı yeryüzünün düzeni bozulurdu. Fakat Allah alemlere lütufkardır.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 253,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:253",
+      "word_position": 3,
+      "target_word_uthmani": "فَضَّلْنَا",
+      "target_word_rasm": "فضلنا",
+      "target_word_literal_irab": "Bir kısmını diğerinden işlev ve payca ayırıp üstün kıldık (`فَضَّلْنَا / وَفَضَّلْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "İşte bu elçilerden bir kısmını diğerlerinden üstün kıldık. Onlardan Allah'ın kendilerine hitabettiği, derecelerle yükselttikleri vardır. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَٰتٍ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ وَلَٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bu elçilerden bir kısmını diğerlerinden üstün kıldık. Onlardan Allah'ın kendilerine hitabettiği, derecelerle yükselttikleri vardır. Meryem oğlu İsa'ya belgeler verdik, onu arındırıcı ilahi güç ve vahiy özü'le destekledik. Allah dileseydi, belgeler kendilerine geldikten sonra, elçilerin ardından birbirlerini öldürmezlerdi. Fakat ayrılığa düştüler, kimi güven duy, kimi gerçeğin üzerini örttü. Allah dileseydi birbirlerini öldürmezlerdi, lakin Allah istediğini yapar.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 2,
+      "ayah": 268,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:268",
+      "word_position": 10,
+      "target_word_uthmani": "وَفَضْلًا",
+      "target_word_rasm": "وفضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç sizi fakirlikle korkutarak cimriliği ve hayasızlığı emreder; Allah ise kendisinden mağfiret ve bol nimet vadeder. Allah'ın lütfü boldur, O her şeyi bilir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç sizi fakirlikle korkutarak cimriliği ve hayasızlığı emreder; Allah ise kendisinden mağfiret ve bol nimet vadeder. Allah'ın lütfü boldur, O her şeyi bilir.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 3,
+      "ayah": 73,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:73",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْفَضْلَ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Ayrılık anındaki fazladan iyiliği / artı açılımı (`ٱلْفَضْلَ / فَضْلَهُۥ`, marife/muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "رَبِّكُمْ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ",
+      "context_snippet_turkish_tabula_rasa": "... De ki: \"Doğrusu bol nimet Allah'ın elindedir, onu dilediğine verir. Allah'ın fazlı her şeyi kaplar, O her şeyi bilir\".",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden bir takımı şöyle dedi: \"güvene erenlere indirilene günün başında güvene erin, sonunda gerçeğin üzerini örtün ki, belki dönerler ve yaşam sisteminize uyanlardan başkasına güven duy\". De ki: \"Doğru yol Allah'ın yoludur\". Ve yine başkasına da verildiğine veya Rabbinizin katında Müslümanların karşı delil getirip sizi alt edeceğine güven duy, derler. De ki: \"Doğrusu bol nimet Allah'ın elindedir, onu dilediğine verir. Allah'ın fazlı her şeyi kaplar, O her şeyi bilir\".",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 74,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:74",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "\"Rahmetini dilediğine tahsis eder, Allah büyük, bol nimet sahibidir\".",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rahmetini dilediğine tahsis eder, Allah büyük, bol nimet sahibidir\".",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 152,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:152",
+      "word_position": 38,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "عَنكُمْ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "... And olsun ki O, sizi bağışladı. Allah'ın güvene erenlere nimeti boldur.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ وَلَقَدْ عَفَا عَنكُمْ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Allah, size verdiği sözde durdu. Onun izniyle gerçeğin üzerini örtenleri kırıp biçiyordunuz, ama Allah size arzuladığınız zaferi gösterdikten sonra gevşeyip bu hususta çekiştiniz ve isyan ettiniz; sizden kimi dünyayı, kimi ahireti istiyordu; derken denemek için Allah sizi geri çevirip bozguna uğrattı. And olsun ki O, sizi bağışladı. Allah'ın güvene erenlere nimeti boldur.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 170,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:170",
+      "word_position": 6,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 171,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:171",
+      "word_position": 5,
+      "target_word_uthmani": "وَفَضْلٍ",
+      "target_word_rasm": "وفضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar Allah'tan olan bir nimeti, bolluğu ve Allah'ın, güvene erenlerin ecrini zayi etmeyeceğini müjdelemek isterler.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Allah'tan olan bir nimeti, bolluğu ve Allah'ın, güvene erenlerin ecrini zayi etmeyeceğini müjdelemek isterler.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 3,
+      "ayah": 174,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:174",
+      "word_position": 5,
+      "target_word_uthmani": "وَفَضْلٍ",
+      "target_word_rasm": "وفضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ",
+      "context_snippet_turkish_tabula_rasa": "Bu yüzden kendilerine bir fenalık dokunmadan, Allah'tan nimet ve bollukla geri döndüler; Allah'ın rızasına uydular. Allah büyük, bol nimet sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu yüzden kendilerine bir fenalık dokunmadan, Allah'tan nimet ve bollukla geri döndüler; Allah'ın rızasına uydular. Allah büyük, bol nimet sahibidir.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 3,
+      "ayah": 174,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:174",
+      "word_position": 14,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "ٱللَّهِ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu yüzden kendilerine bir fenalık dokunmadan, Allah'tan nimet ve bollukla geri döndüler; Allah'ın rızasına uydular. Allah büyük, bol nimet sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu yüzden kendilerine bir fenalık dokunmadan, Allah'tan nimet ve bollukla geri döndüler; Allah'ın rızasına uydular. Allah büyük, bol nimet sahibidir.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 3,
+      "ayah": 180,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:180",
+      "word_position": 9,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın bol nimetinden verdiklerinde cimrilik edenler, sakın bunun kendileri için hayırlı olduğunu sanmasınlar, bilakis bu onların kötülüğünedir. Cimrilik yaptıkları şey, kıyamet günü boyunlarına dolanacaktır. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın bol nimetinden verdiklerinde cimrilik edenler, sakın bunun kendileri için hayırlı olduğunu sanmasınlar, bilakis bu onların kötülüğünedir. Cimrilik yaptıkları şey, kıyamet günü boyunlarına dolanacaktır. Göklerin ve yerin mirası Allah'ındır. Allah işlediklerinizden haberdardır.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 32,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:32",
+      "word_position": 4,
+      "target_word_uthmani": "فَضَّلَ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın sizi birbirinizden üstün kıldığı şeyleri özlemeyin. Erkeklere, kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sizi birbirinizden üstün kıldığı şeyleri özlemeyin. Erkeklere, kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. Allah'tan bol nimet isteyin. Doğrusu Allah her şeyi bilir.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 4,
+      "ayah": 32,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:32",
+      "word_position": 21,
+      "target_word_uthmani": "فَضْلِهِۦٓ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın sizi birbirinizden üstün kıldığı şeyleri özlemeyin. Erkeklere, kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sizi birbirinizden üstün kıldığı şeyleri özlemeyin. Erkeklere, kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. Allah'tan bol nimet isteyin. Doğrusu Allah her şeyi bilir.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 4,
+      "ayah": 34,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:34",
+      "word_position": 6,
+      "target_word_uthmani": "فَضَّلَ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 4,
+      "ayah": 37,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:37",
+      "word_position": 11,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar cimrilik ederler, insanlara cimrilik tavsiyesinde bulunurlar, Allah'ın bol nimetinden kendilerine verdiğini gizlerler. gerçeğin üzerini örtenlere aşağılık bir azab hazırlamışızdır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَأَعْتَدْنَا لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar cimrilik ederler, insanlara cimrilik tavsiyesinde bulunurlar, Allah'ın bol nimetinden kendilerine verdiğini gizlerler. gerçeğin üzerini örtenlere aşağılık bir azab hazırlamışızdır.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 54,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:54",
+      "word_position": 9,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ فَقَدْ ءَاتَيْنَآ ءَالَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa Allah'ın bol nimetinden verdiği kimseleri mi çekemiyorlar? Oysa İbrahim ailesine kitap ve hikmet verdik, onlara büyük hükümranlık bahşettik.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ فَقَدْ ءَاتَيْنَآ ءَالَ إِبْرَٰهِيمَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa Allah'ın bol nimetinden verdiği kimseleri mi çekemiyorlar? Oysa İbrahim ailesine kitap ve hikmet verdik, onlara büyük hükümranlık bahşettik.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 4,
+      "ayah": 70,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:70",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْفَضْلُ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ ٱلْفَضْلُ مِنَ ٱللَّهِ وَكَفَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Bu nimet, Allah'tandır. Bilen olarak Allah yeter.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ ٱلْفَضْلُ مِنَ ٱللَّهِ وَكَفَىٰ بِٱللَّهِ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu nimet, Allah'tandır. Bilen olarak Allah yeter.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 73,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:73",
+      "word_position": 3,
+      "target_word_uthmani": "فَضْلٌ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'tan bir artı nimet ve açılım (`فَضْلٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "وَلَئِنْ أَصَٰبَكُمْ فَضْلٌ مِّنَ ٱللَّهِ لَيَقُولَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'tan size bir nimet erişse, and olsun ki, sizinle kendi arasında bir dostluk yokmuş gibi: \"Keşki onlarla beraber olsaydım da ben de büyük bir başarı kazans...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَصَٰبَكُمْ فَضْلٌ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'tan size bir nimet erişse, and olsun ki, sizinle kendi arasında bir dostluk yokmuş gibi: \"Keşki onlarla beraber olsaydım da ben de büyük bir başarı kazansaydım\" der.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 83,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:83",
+      "word_position": 23,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "يَسْتَنۢبِطُونَهُۥ مِنْهُمْ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın size bol nimeti ve rahmeti olmasaydı, pek azınız bir yana, saptırıcı yıkıcı güce uyardınız.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine güven veya korku hususunda bir haber geldiğinde onu yayarlar; halbuki o haberi elçi'e veya kendilerinden buyruk sahibi olanlara götürselerdi, onlardan sonuç çıkarmaya kadir olanlar onu bilirdi. Allah'ın size bol nimeti ve rahmeti olmasaydı, pek azınız bir yana, saptırıcı yıkıcı güce uyardınız.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 15,
+      "target_word_uthmani": "فَضَّلَ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 27,
+      "target_word_uthmani": "وَفَضَّلَ",
+      "target_word_rasm": "وفضل",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 4,
+      "ayah": 113,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:113",
+      "word_position": 2,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Eğer sana Allah'ın bol nimeti ve rahmeti olmasaydı, onlardan bir takımı seni sapıtmaya çalışırdı. Halbuki onlar kendilerinden başkasını saptıramazlar, sana da bir zarar vermezler. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَضُرُّونَكَ مِن شَىْءٍ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer sana Allah'ın bol nimeti ve rahmeti olmasaydı, onlardan bir takımı seni sapıtmaya çalışırdı. Halbuki onlar kendilerinden başkasını saptıramazlar, sana da bir zarar vermezler. Allah sana Kitap ve hikmet indirmiş, sana bilmediğini öğretmiştir. Allah'ın sana olan nimeti ne büyüktür.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 4,
+      "ayah": 113,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:113",
+      "word_position": 30,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "تَكُن تَعْلَمُ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Eğer sana Allah'ın bol nimeti ve rahmeti olmasaydı, onlardan bir takımı seni sapıtmaya çalışırdı. Halbuki onlar kendilerinden başkasını saptıramazlar, sana da bir zarar vermezler. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَضُرُّونَكَ مِن شَىْءٍ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer sana Allah'ın bol nimeti ve rahmeti olmasaydı, onlardan bir takımı seni sapıtmaya çalışırdı. Halbuki onlar kendilerinden başkasını saptıramazlar, sana da bir zarar vermezler. Allah sana Kitap ve hikmet indirmiş, sana bilmediğini öğretmiştir. Allah'ın sana olan nimeti ne büyüktür.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 4,
+      "ayah": 173,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:173",
+      "word_position": 10,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere ve yararlı iş işleyenlere, ecirlerini ödeyecek, onlara olan bol nimetini daha da artıracaktır. Kulluk etmekten çekinenleri ve büyüklük taslayanları elem verici bir azaba uğratacaktır. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere ve yararlı iş işleyenlere, ecirlerini ödeyecek, onlara olan bol nimetini daha da artıracaktır. Kulluk etmekten çekinenleri ve büyüklük taslayanları elem verici bir azaba uğratacaktır. Onlar kendilerine Allah'tan başka bir dost ve yardımcı bulamazlar.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 4,
+      "ayah": 175,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:175",
+      "word_position": 11,
+      "target_word_uthmani": "وَفَضْلٍ",
+      "target_word_rasm": "وفضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا",
+      "context_snippet_turkish_tabula_rasa": "Allah kendisine güvene erenleri ve Kitabına sarılanları rahmetine ve bol nimetine kavuşturacak, onları Kendisine götüren doğru yola eriştirecektir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kendisine güvene erenleri ve Kitabına sarılanları rahmetine ve bol nimetine kavuşturacak, onları Kendisine götüren doğru yola eriştirecektir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 20,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 5,
+      "ayah": 54,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:54",
+      "word_position": 30,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. Allah her şeyi kaplar ve bilir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَٰفِرِينَ يُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. Allah her şeyi kaplar ve bilir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 86,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:86",
+      "word_position": 6,
+      "target_word_uthmani": "فَضَّلْنَا",
+      "target_word_rasm": "فضلنا",
+      "target_word_literal_irab": "Bir kısmını diğerinden işlev ve payca ayırıp üstün kıldık (`فَضَّلْنَا / وَفَضَّلْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَيُونُسَ وَلُوطًا وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u -ki işlerini iyi yapanlara böylece karşılık veririz-, Zekeriya'yı, Yahya'yı, İsa'yı ve İlyas'ı -ki hepsi iyilerdendir-, İsmail'i, Elyesa'ı, Yunus'u, Lut'u -ki hepsini dünyalara üstün kıldık- doğru yola eriştirdik.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "وَإِسْمَٰعِيلَ وَٱلْيَسَعَ وَيُونُسَ وَلُوطًا وَكُلًّا فَضَّلْنَا عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona İshak'ı, Yakub'u bağışladık, her birini doğru yola eriştirdik. Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u -ki işlerini iyi yapanlara böylece karşılık veririz-, Zekeriya'yı, Yahya'yı, İsa'yı ve İlyas'ı -ki hepsi iyilerdendir-, İsmail'i, Elyesa'ı, Yunus'u, Lut'u -ki hepsini dünyalara üstün kıldık- doğru yola eriştirdik.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 7,
+      "ayah": 39,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:39",
+      "word_position": 9,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "لَكُمْ عَلَيْنَا مِن فَضْلٍ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Öncekiler sonrakilere, \"Sizin bizden bir üstünlüğünüz yoktu, kazandığınıza karşılık azabı tadın\" derler.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öncekiler sonrakilere, \"Sizin bizden bir üstünlüğünüz yoktu, kazandığınıza karşılık azabı tadın\" derler.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 140,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:140",
+      "word_position": 7,
+      "target_word_uthmani": "فَضَّلَكُمْ",
+      "target_word_rasm": "فضلكم",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Sizi alemlere üstün kılmış olan Allah'tan başka bir sığınak mercii (ilâh) mı arayacağım?\" dedi.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sizi alemlere üstün kılmış olan Allah'tan başka bir sığınak mercii (ilâh) mı arayacağım?\" dedi.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 8,
+      "ayah": 29,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:29",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "لَكُمْ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'tan sakınırsanız, O size iyiyi kötüden ayırdedecek bir anlayış verir, kötülüklerinizi örter, sizi bağışlar. Allah büyük, bol nimet sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَتَّقُوا۟ ٱللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَيَغْفِرْ لَكُمْ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'tan sakınırsanız, O size iyiyi kötüden ayırdedecek bir anlayış verir, kötülüklerinizi örter, sizi bağışlar. Allah büyük, bol nimet sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 28,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:28",
+      "word_position": 21,
+      "target_word_uthmani": "فَضْلِهِۦٓ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. Allah şüphesiz bilendir, hakimdir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. Allah şüphesiz bilendir, hakimdir.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 9,
+      "ayah": 59,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:59",
+      "word_position": 14,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlar, Allah ve elçisinin kendilerine vermiş oldukları şeylere razı olsalar ve \"Allah bize yeter, O ve elçiyi bol nimetinden bize verecektir; doğrusu biz Allah'a gönül bağlayanlardanız\" deselerdi daha hayırlı olurdu.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlar, Allah ve elçisinin kendilerine vermiş oldukları şeylere razı olsalar ve \"Allah bize yeter, O ve elçiyi bol nimetinden bize verecektir; doğrusu biz Allah'a gönül bağlayanlardanız\" deselerdi daha hayırlı olurdu.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 74,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:74",
+      "word_position": 24,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ فَإِن يَتُوبُوا۟ يَكُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah ve elçiyi bol nimetinden onları zenginleştirdi ve öç almaya kalktılar. Eğer tevbe ederlerse iyiliklerine olur; ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, müslüman olduktan sonra gerçeğin üzerini örtüp küfür sözünü söylemişler iken, söylemedik diye Allah'a bağlayıcı ahit ettiler, başaramayacakları bir şeye giriştiler; Allah ve elçiyi bol nimetinden onları zenginleştirdi ve öç almaya kalktılar. Eğer tevbe ederlerse iyiliklerine olur; şayet yüz çevirirlerse, Allah onları dünya ve ahirette can yakıcı azaba uğratır. Yeryüzünde bir dost ve yardımcıları yoktur.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 75,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:75",
+      "word_position": 8,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Aralarında: \"Allah bize bol nimetinden verecek olursa, and olsun ki sadaka vereceğiz ve iyilerden olacağız\" diye O'na and verenler vardır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarında: \"Allah bize bol nimetinden verecek olursa, and olsun ki sadaka vereceğiz ve iyilerden olacağız\" diye O'na and verenler vardır.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 9,
+      "ayah": 76,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:76",
+      "word_position": 4,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah onlara bol nimetinden verince, cimrilik ettiler, yüz çevirdiler. Zaten dönektirler.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onlara bol nimetinden verince, cimrilik ettiler, yüz çevirdiler. Zaten dönektirler.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 10,
+      "ayah": 58,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:58",
+      "word_position": 2,
+      "target_word_uthmani": "بِفَضْلِ",
+      "target_word_rasm": "بفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Bunlar, Allah'ın bol nimeti ve rahmetiyledir.\" Buna sevinsinler. O, onların topladıklarından daha hayırlıdır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Bunlar, Allah'ın bol nimeti ve rahmetiyledir.\" Buna sevinsinler. O, onların topladıklarından daha hayırlıdır.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 60,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:60",
+      "word_position": 13,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı yalan uyduranlar kıyamet gününü ne zannederler? Doğrusu Allah'ın insanlara olan nimeti boldur, fakat çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı yalan uyduranlar kıyamet gününü ne zannederler? Doğrusu Allah'ın insanlara olan nimeti boldur, fakat çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 107,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:107",
+      "word_position": 15,
+      "target_word_uthmani": "لِفَضْلِهِۦ",
+      "target_word_rasm": "لفضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "بِخَيْرٍ فَلَا رَآدَّ لِفَضْلِهِۦ يُصِيبُ بِهِۦ مَن",
+      "context_snippet_turkish_tabula_rasa": "Allah sana bir sıkıntı verirse, onu O'ndan başkası gideremez. Sana bir iyilik dilerse O'nun nimetini engelleyecek yoktur. O'nu kullarından dilediğine verir. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ وَإِن يُرِدْكَ بِخَيْرٍ فَلَا رَآدَّ لِفَضْلِهِۦ يُصِيبُ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sana bir sıkıntı verirse, onu O'ndan başkası gideremez. Sana bir iyilik dilerse O'nun nimetini engelleyecek yoktur. O'nu kullarından dilediğine verir. O, bağışlayandır, merhametlidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 3,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:3",
+      "word_position": 16,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ وَإِن تَوَلَّوْا۟",
+      "context_snippet_turkish_tabula_rasa": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açı...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 3,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:3",
+      "word_position": 17,
+      "target_word_uthmani": "فَضْلَهُۥ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Ayrılık anındaki fazladan iyiliği / artı açılımı (`ٱلْفَضْلَ / فَضْلَهُۥ`, marife/muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "كُلَّ ذِى فَضْلٍ فَضْلَهُۥ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ",
+      "context_snippet_turkish_tabula_rasa": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açı...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 27,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:27",
+      "word_position": 26,
+      "target_word_uthmani": "فَضْلٍۭ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Daha başlangıçta, sana bizim ayak takımı dışında kimsenin uyduğunu görmüyoruz. Sizin bizden bir üstünlüğünüz yoktur; biz sizi yalancı sanıyoruz\" dediler.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَٰذِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletinin gerçeğin üzerini örten ileri gelenleri: \"Senin ancak kendimiz gibi bir insan olduğunu görüyoruz. Daha başlangıçta, sana bizim ayak takımı dışında kimsenin uyduğunu görmüyoruz. Sizin bizden bir üstünlüğünüz yoktur; biz sizi yalancı sanıyoruz\" dediler.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 38,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:38",
+      "word_position": 17,
+      "target_word_uthmani": "فَضْلِ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "شَىْءٍ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى",
+      "context_snippet_turkish_tabula_rasa": "Atalarım İbrahim, İshak ve Yakub'un yaşam sistemine uydum. Allah'a herhangi bir ortak koşmak bize yaraşmaz; bu, Allah'ın bize ve insanlara olan lütfudur; fakat ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Atalarım İbrahim, İshak ve Yakub'un yaşam sistemine uydum. Allah'a herhangi bir ortak koşmak bize yaraşmaz; bu, Allah'ın bize ve insanlara olan lütfudur; fakat insanların çoğu nimetin değerini bilip açığa vurmaz\" dedi.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 4,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:4",
+      "word_position": 16,
+      "target_word_uthmani": "وَنُفَضِّلُ",
+      "target_word_rasm": "ونفضل",
+      "target_word_literal_irab": "Ürün ve tatta kimini kiminden farklı/artı kılarız (`وَنُفَضِّلُ`, II. bab muzâri 1. çoğul)",
+      "context_snippet_arabic": "يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde, hepsi de aynı su ile sulanan, birbirine komşu toprak parçaları, tek ve çok köklü üzüm bağları, ekinler, hurma ağaçları vardır. Fakat onları şekil ve lezzetçe birbirinden farklı kılmışızdır. Düşünen kimseler için bunda ibretler vardır.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "وَفِى ٱلْأَرْضِ قِطَعٌ مُّتَجَٰوِرَٰتٌ وَجَنَّٰتٌ مِّنْ أَعْنَٰبٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde, hepsi de aynı su ile sulanan, birbirine komşu toprak parçaları, tek ve çok köklü üzüm bağları, ekinler, hurma ağaçları vardır. Fakat onları şekil ve lezzetçe birbirinden farklı kılmışızdır. Düşünen kimseler için bunda ibretler vardır.",
+      "contextual_meaning": "Doğal farklılaştırma (`وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ` `13:4`): Aynı suyla beslenen komşu topraklarda ürün ve tat çeşitliliği — kökün tek muzâri fiil geçişi."
+    },
+    {
+      "surah": 16,
+      "ayah": 14,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:14",
+      "word_position": 19,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 16,
+      "ayah": 71,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:71",
+      "word_position": 2,
+      "target_word_uthmani": "فَضَّلَ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. Oysa rızıkta hepsi eşittir. Allah'ın nimetini bile bile gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 16,
+      "ayah": 71,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:71",
+      "word_position": 10,
+      "target_word_uthmani": "فُضِّلُوا۟",
+      "target_word_rasm": "فضلوا",
+      "target_word_literal_irab": "Kendilerine fazladan pay verilenler (`فُضِّلُوا۟`, II. bab meçhul mâzî 3. çoğul)",
+      "context_snippet_arabic": "ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. ...",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:faD~ala|ROOT:fDl|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِى ٱلرِّزْقِ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah rızıkda kiminizi diğerlerine üstün tutmuştur. Üstün kılınanlar, emirleri altında bulunanların rızıklarını vermezler. Oysa rızıkta hepsi eşittir. Allah'ın nimetini bile bile gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 17,
+      "ayah": 12,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:12",
+      "word_position": 13,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 17,
+      "ayah": 21,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:21",
+      "word_position": 3,
+      "target_word_uthmani": "فَضَّلْنَا",
+      "target_word_rasm": "فضلنا",
+      "target_word_literal_irab": "Bir kısmını diğerinden işlev ve payca ayırıp üstün kıldık (`فَضَّلْنَا / وَفَضَّلْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "Onları birbirlerinden nasıl üstün kıldığımıza bir bak! Doğrusu ahirette daha büyük dereceler ve daha büyük üstünlükler vardır.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ وَلَلْءَاخِرَةُ أَكْبَرُ دَرَجَٰتٍ وَأَكْبَرُ تَفْضِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları birbirlerinden nasıl üstün kıldığımıza bir bak! Doğrusu ahirette daha büyük dereceler ve daha büyük üstünlükler vardır.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 17,
+      "ayah": 21,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:21",
+      "word_position": 11,
+      "target_word_uthmani": "تَفْضِيلًا",
+      "target_word_rasm": "تفضيلا",
+      "target_word_literal_irab": "Gerçek bir derece ve donanım farkıyla (`تَفْضِيلًا`, II. bab masdar mef'ûl-i mutlak mansûb)",
+      "context_snippet_arabic": "أَكْبَرُ دَرَجَٰتٍ وَأَكْبَرُ تَفْضِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Onları birbirlerinden nasıl üstün kıldığımıza bir bak! Doğrusu ahirette daha büyük dereceler ve daha büyük üstünlükler vardır.",
+      "morphology": {
+        "lemma": "tafoDiyl",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:tafoDiyl|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱنظُرْ كَيْفَ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ وَلَلْءَاخِرَةُ أَكْبَرُ دَرَجَٰتٍ وَأَكْبَرُ تَفْضِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onları birbirlerinden nasıl üstün kıldığımıza bir bak! Doğrusu ahirette daha büyük dereceler ve daha büyük üstünlükler vardır.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 17,
+      "ayah": 55,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:55",
+      "word_position": 8,
+      "target_word_uthmani": "فَضَّلْنَا",
+      "target_word_rasm": "فضلنا",
+      "target_word_literal_irab": "Bir kısmını diğerinden işlev ve payca ayırıp üstün kıldık (`فَضَّلْنَا / وَفَضَّلْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olan kimseleri Rabbin daha iyi bilir. And olsun ki elçileri birbirinden üstün kılmış ve Davud'a Zebur vermişizdir.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ عَلَىٰ بَعْضٍ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olan kimseleri Rabbin daha iyi bilir. And olsun ki elçileri birbirinden üstün kılmış ve Davud'a Zebur vermişizdir.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 17,
+      "ayah": 66,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:66",
+      "word_position": 10,
+      "target_word_uthmani": "فَضْلِهِۦٓ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ إِنَّهُۥ كَانَ بِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz, bol nimetinden elde edesiniz diye, denizde gemileri sizin için yüzdürür. O, size merhamet eder.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ إِنَّهُۥ كَانَ بِكُمْ رَحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz, bol nimetinden elde edesiniz diye, denizde gemileri sizin için yüzdürür. O, size merhamet eder.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 17,
+      "ayah": 70,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:70",
+      "word_position": 12,
+      "target_word_uthmani": "وَفَضَّلْنَٰهُمْ",
+      "target_word_rasm": "وفضلنهم",
+      "target_word_literal_irab": "Bir kısmını diğerinden işlev ve payca ayırıp üstün kıldık (`فَضَّلْنَا / وَفَضَّلْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, biz insanoğullarını şerefli kıldık, onların karada ve denizde gezmesini sağladık, temiz şeylerle onları rızıklandırdık, yaratıklarımızın pek çoğundan üstün kıldık.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, biz insanoğullarını şerefli kıldık, onların karada ve denizde gezmesini sağladık, temiz şeylerle onları rızıklandırdık, yaratıklarımızın pek çoğundan üstün kıldık.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 17,
+      "ayah": 70,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:70",
+      "word_position": 17,
+      "target_word_uthmani": "تَفْضِيلًا",
+      "target_word_rasm": "تفضيلا",
+      "target_word_literal_irab": "Gerçek bir derece ve donanım farkıyla (`تَفْضِيلًا`, II. bab masdar mef'ûl-i mutlak mansûb)",
+      "context_snippet_arabic": "كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, biz insanoğullarını şerefli kıldık, onların karada ve denizde gezmesini sağladık, temiz şeylerle onları rızıklandırdık, yaratıklarımızın pek çoğundan üstün kıldık.",
+      "morphology": {
+        "lemma": "tafoDiyl",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:tafoDiyl|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, biz insanoğullarını şerefli kıldık, onların karada ve denizde gezmesini sağladık, temiz şeylerle onları rızıklandırdık, yaratıklarımızın pek çoğundan üstün kıldık.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 17,
+      "ayah": 87,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:87",
+      "word_position": 6,
+      "target_word_uthmani": "فَضْلَهُۥ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Ayrılık anındaki fazladan iyiliği / artı açılımı (`ٱلْفَضْلَ / فَضْلَهُۥ`, marife/muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "مِّن رَّبِّكَ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Bunu yapmayışı ancak Rabbinin sana merhamet etmesindendir. Çünkü O'nun sana olan nimeti büyüktür.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّا رَحْمَةً مِّن رَّبِّكَ إِنَّ فَضْلَهُۥ كَانَ عَلَيْكَ كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunu yapmayışı ancak Rabbinin sana merhamet etmesindendir. Çünkü O'nun sana olan nimeti büyüktür.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 24,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:24",
+      "word_position": 14,
+      "target_word_uthmani": "يَتَفَضَّلَ",
+      "target_word_rasm": "يتفضل",
+      "target_word_literal_irab": "Size karşı artı statü ve üstünlük elde etsin (`يَتَفَضَّلَ`, V. bab mansûb muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor. Allah dilemiş olsaydı kozmik görevliler indirirdi. ...",
+      "morphology": {
+        "lemma": "yatafaD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(V)|LEM:yatafaD~ala|ROOT:fDl|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةً مَّا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletinin gerçeğin üzerini örten ileri gelenleri: \"Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor. Allah dilemiş olsaydı kozmik görevliler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin\" dediler.",
+      "contextual_meaning": "V. bab hapaxı (`يَتَفَضَّلَ عَلَيْكُمْ` `23:24`): Elçiyi 'kendi toplumunun içinde fazladan ayrıcalık ve statü elde etmeye çalışmakla' suçlayan kodamanların bakışı."
+    },
+    {
+      "surah": 24,
+      "ayah": 10,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:10",
+      "word_position": 2,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın size nimet ve rahmeti bulunmasa ve Allah tevbeleri kabul eden ve Hakim olmasaydı suçlunun hemen cezasını verirdi.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın size nimet ve rahmeti bulunmasa ve Allah tevbeleri kabul eden ve Hakim olmasaydı suçlunun hemen cezasını verirdi.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 24,
+      "ayah": 14,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:14",
+      "word_position": 2,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın dünya ve ahirette size lütuf ve merhameti olmasaydı, o kötü sözü yaymanızdan ötürü büyük bir azaba uğrardınız.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ لَمَسَّكُمْ فِى مَآ أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın dünya ve ahirette size lütuf ve merhameti olmasaydı, o kötü sözü yaymanızdan ötürü büyük bir azaba uğrardınız.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 24,
+      "ayah": 20,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:20",
+      "word_position": 2,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın size lütuf ve merhameti bulunmasaydı, Allah şefkatli ve merhametli olmasaydı hemen cezanızı verirdi.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın size lütuf ve merhameti bulunmasaydı, Allah şefkatli ve merhametli olmasaydı hemen cezanızı verirdi.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 24,
+      "ayah": 21,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:21",
+      "word_position": 17,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "بِٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın size lütuf ve merhameti bulunmasaydı, hiçbiriniz ebediyen temize çıkamazdı. Fakat Allah dilediğini temize çıkarır. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ وَمَن يَتَّبِعْ خُطُوَٰتِ ٱلشَّيْطَٰنِ فَإِنَّهُۥ يَأْمُرُ بِٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ مَا زَكَىٰ مِنكُم مِّنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ ٱللَّهَ يُزَكِّى مَن يَشَآءُ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! saptırıcı yıkıcı güce ayak uydurmayın. Kim saptırıcı yıkıcı gücün ardına takılırsa, bilsin ki, o, hayasızlığı ve fenalığı emreder. Allah'ın size lütuf ve merhameti bulunmasaydı, hiçbiriniz ebediyen temize çıkamazdı. Fakat Allah dilediğini temize çıkarır. Allah işitir ve bilir.",
+      "contextual_meaning": "Koruyucu çatı (`لَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ`): Hüsran, ağır azap ve kirlenmeden insanı ayakta tutup arındıran koruyucu açılım."
+    },
+    {
+      "surah": 24,
+      "ayah": 22,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:22",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن",
+      "context_snippet_turkish_tabula_rasa": "İçinizde lütuf ve servet sahibi olanlar, yakınlarına, düşkünlere ve Allah yolunda hicret edenlere, vermemek için bağlayıcı ahit etmesinler, affetsinler, geçsinler. Allah'ın sizi bağışlamasından hoşlanmaz mısınız? Allah bağışlayandır, merhametli olandır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَٰكِينَ وَٱلْمُهَٰجِرِينَ فِى سَبِيلِ ٱللَّهِ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizde lütuf ve servet sahibi olanlar, yakınlarına, düşkünlere ve Allah yolunda hicret edenlere, vermemek için bağlayıcı ahit etmesinler, affetsinler, geçsinler. Allah'ın sizi bağışlamasından hoşlanmaz mısınız? Allah bağışlayandır, merhametli olandır.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 24,
+      "ayah": 32,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:32",
+      "word_position": 14,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer yoksul iseler, Allah onları lütfü ile zenginleştirir. Allah lütfü bol olandır, bilendir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنكِحُوا۟ ٱلْأَيَٰمَىٰ مِنكُمْ وَٱلصَّٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizdeki bekarları, kölelerinizden ve cariyelerinizden iyi olanları evlendirin. Eğer yoksul iseler, Allah onları lütfü ile zenginleştirir. Allah lütfü bol olandır, bilendir.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 10,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "... Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları buna zorlarsa bilsin ki Allah hiç şüphesiz onu değil zorlanan kadınları bağışlar ve merhamet eder.",
+      "contextual_meaning": "Yoksulluk korkusu, cimrilik ve kıskançlığa karşı cömertlik (`ٱلْفَقْر / ٱلْبُخْل` vs `فَضْل`): Eldeki imkân fazlalığını gizleyip biriktirmeyip ihtiyaç sahipleriyle paylaşmak."
+    },
+    {
+      "surah": 24,
+      "ayah": 38,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:38",
+      "word_position": 8,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "عَمِلُوا۟ وَيَزِيدَهُم مِّن فَضْلِهِۦ وَٱللَّهُ يَرْزُقُ مَن",
+      "context_snippet_turkish_tabula_rasa": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا عَمِلُوا۟ وَيَزِيدَهُم مِّن فَضْلِهِۦ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 15,
+      "surah_name": "Neml",
+      "ayah_ref": "27:15",
+      "word_position": 10,
+      "target_word_uthmani": "فَضَّلَنَا",
+      "target_word_rasm": "فضلنا",
+      "target_word_literal_irab": "Bir kısmını diğerinden farklı ve artı imkânla donattı (`فَضَّلَ / وَفَضَّلَ / فَضَّلَكُمْ / فَضَّلَنَا`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Davud'a ve Süleyman'a ilim verdik. İkisi \"Bizi güvene eren kullarının çoğundan üstün kılan Allah'a hamdolsun\" dediler.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ وَسُلَيْمَٰنَ عِلْمًا وَقَالَا ٱلْحَمْدُ لِلَّهِ ٱلَّذِى فَضَّلَنَا عَلَىٰ كَثِيرٍ مِّنْ عِبَادِهِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Davud'a ve Süleyman'a ilim verdik. İkisi \"Bizi güvene eren kullarının çoğundan üstün kılan Allah'a hamdolsun\" dediler.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 27,
+      "ayah": 16,
+      "surah_name": "Neml",
+      "ayah_ref": "27:16",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْفَضْلُ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman Davud'a varis oldu: \"Ey insanlar! Bize kuş dili öğretildi ve bize herşeyden bolca verildi. Doğrusu bu apaçık bir lütuftur\" dedi.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا مِن كُلِّ شَىْءٍ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman Davud'a varis oldu: \"Ey insanlar! Bize kuş dili öğretildi ve bize herşeyden bolca verildi. Doğrusu bu apaçık bir lütuftur\" dedi.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 40,
+      "surah_name": "Neml",
+      "ayah_ref": "27:40",
+      "word_position": 22,
+      "target_word_uthmani": "فَضْلِ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ",
+      "context_snippet_turkish_tabula_rasa": "Kitabın bilgisine sahip olan biri: \"Gözünü açıp kapamadan ben onu sana getiririm\" dedi. Süleyman, tahtı yanına yerleşivermiş görünce: \"Bu, nimetin değerini bili...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabın bilgisine sahip olan biri: \"Gözünü açıp kapamadan ben onu sana getiririm\" dedi. Süleyman, tahtı yanına yerleşivermiş görünce: \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; fakat nankörlük eden bilsin ki Rabbim müstağnidir, kerem sahibidir\" dedi.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 73,
+      "surah_name": "Neml",
+      "ayah_ref": "27:73",
+      "word_position": 4,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Rabbin, insanlara karşı lütuf sahibidir. Fakat onların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Rabbin, insanlara karşı lütuf sahibidir. Fakat onların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 73,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:73",
+      "word_position": 11,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. Belki artık nimetin değer...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 30,
+      "ayah": 23,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:23",
+      "word_position": 8,
+      "target_word_uthmani": "فَضْلِهِۦٓ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ فِى ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin uyumanız, gündüz de lütfundan rızık aramanız O'nun varlığının belgelerindendir. Bunlarda kulak veren millet için dersler vardır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin uyumanız, gündüz de lütfundan rızık aramanız O'nun varlığının belgelerindendir. Bunlarda kulak veren millet için dersler vardır.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 30,
+      "ayah": 45,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:45",
+      "word_position": 7,
+      "target_word_uthmani": "فَضْلِهِۦٓ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِن فَضْلِهِۦٓ إِنَّهُۥ لَا يُحِبُّ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü Allah güvene erip yararlı iş işleyenlere lütfundan karşılık verecektir. Doğrusu O, gerçeğin üzerini örtenleri sevmez.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِن فَضْلِهِۦٓ إِنَّهُۥ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü Allah güvene erip yararlı iş işleyenlere lütfundan karşılık verecektir. Doğrusu O, gerçeğin üzerini örtenleri sevmez.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 46,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:46",
+      "word_position": 15,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rüzgarları müjdeciler olarak göndermesi, size rahmetini tattırması, buyruğu ile gemilerin yürümesi, lütfundan rızık istemeniz, O'nun varlığının belgelerindendir. Belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rüzgarları müjdeciler olarak göndermesi, size rahmetini tattırması, buyruğu ile gemilerin yürümesi, lütfundan rızık istemeniz, O'nun varlığının belgelerindendir. Belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 33,
+      "ayah": 47,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:47",
+      "word_position": 7,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "لَهُم مِّنَ ٱللَّهِ فَضْلًا كَبِيرًا",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere, Rablerinden büyük bir lütuf olduğunu müjdele.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere, Rablerinden büyük bir lütuf olduğunu müjdele.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 10,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:10",
+      "word_position": 5,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın\" diyerek and olsun ki, ona katımızdan lütufta bulunduk; \"geniş zırhlar yap, dokumasını sağlam tut\" diye ona demiri yumuşak kıldık. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا لَهُ ٱلْحَدِيدَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın\" diyerek and olsun ki, ona katımızdan lütufta bulunduk; \"geniş zırhlar yap, dokumasını sağlam tut\" diye ona demiri yumuşak kıldık. Yararlı iş işleyin; doğrusu Ben yaptıklarınızı görenim.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 12,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:12",
+      "word_position": 26,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki deniz bir değildir. Birinin suyu tatlı ve kolay içimlidir; diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 35,
+      "ayah": 30,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:30",
+      "word_position": 5,
+      "target_word_uthmani": "فَضْلِهِۦٓ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü Allah bu kimselerin ecirlerini tam verir ve lütfu ile arttırır. Doğrusu O, bağışlayandır, nimeti açığa vurmanın karşılığını bol bol verendir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü Allah bu kimselerin ecirlerini tam verir ve lütfu ile arttırır. Doğrusu O, bağışlayandır, nimeti açığa vurmanın karşılığını bol bol verendir.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 35,
+      "ayah": 32,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:32",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلْفَضْلُ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "ٱللَّهِ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan kimi kendine yazık eder, kimi orta davranır, kimi de, Allah'ın izniyle, iyiliklere koşar. İşte büyük lütuf budur.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَوْرَثْنَا ٱلْكِتَٰبَ ٱلَّذِينَ ٱصْطَفَيْنَا مِنْ عِبَادِنَا فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِۦ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌۢ بِٱلْخَيْرَٰتِ بِإِذْنِ ٱللَّهِ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra bu Kitap'ı kullarımızdan seçtiğimiz kimselere miras bırakmışızdır. Onlardan kimi kendine yazık eder, kimi orta davranır, kimi de, Allah'ın izniyle, iyiliklere koşar. İşte büyük lütuf budur.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 35,
+      "ayah": 35,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:35",
+      "word_position": 6,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "\"Bizi lütfuyla, temelli kalınacak esenlik bahçesine O yerleştirdi. Orada bize ne bir yorgunluk gelecek ve ne de usanç gelecektir.\"",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bizi lütfuyla, temelli kalınacak esenlik bahçesine O yerleştirdi. Orada bize ne bir yorgunluk gelecek ve ne de usanç gelecektir.\"",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 61,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:61",
+      "word_position": 13,
+      "target_word_uthmani": "فَضْلٍ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Büyük artı nimet ve açılım (`فَضْلٍ / وَفَضْلٍ / فَضْلٍۭ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu Allah insanlara karşı lütufkardır, ama insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size, geceyi dinlenesiniz diye karanlık ve gündüzü aydınlık olarak yaratan Allah'tır. Doğrusu Allah insanlara karşı lütufkardır, ama insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 22,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:22",
+      "word_position": 23,
+      "target_word_uthmani": "ٱلْفَضْلُ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "رَبِّهِمْ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+      "context_snippet_turkish_tabula_rasa": "... Rablerinin katında, onlara diledikleri verilir. İşte büyük lütuf budur.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "تَرَى ٱلظَّٰلِمِينَ مُشْفِقِينَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعٌۢ بِهِمْ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فِى رَوْضَاتِ ٱلْجَنَّاتِ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمْ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yaptıkları şeyler başlarına gelirken, zalimlerin korkudan titrediklerini görürsün. güvene erip yararlı işler işleyenler esenlik bahçesi bahçelerindedirler. Rablerinin katında, onlara diledikleri verilir. İşte büyük lütuf budur.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 26,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:26",
+      "word_position": 8,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, güvene erip yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini a...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَسْتَجِيبُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَٱلْكَٰفِرُونَ لَهُمْ عَذَابٌ شَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, güvene erip yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, gerçeğin üzerini örtenler için çetin azap vardır.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 57,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:57",
+      "word_position": 1,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "فَضْلًا مِّن رَّبِّكَ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları yakıcı yıkım yurdu azabından korumuştur. İşte büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَضْلًا مِّن رَّبِّكَ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları yakıcı yıkım yurdu azabından korumuştur. İşte büyük kurtuluş budur.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 45,
+      "ayah": 12,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:12",
+      "word_position": 12,
+      "target_word_uthmani": "فَضْلِهِۦ",
+      "target_word_rasm": "فضله",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Emri gereğince denizde yüzmek üzere gemileri, lütfedip verdiği rızkı aramanız için denizi buyruğunuz altına veren Allah'tır, belki artık nimetin değerini bilip ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Emri gereğince denizde yüzmek üzere gemileri, lütfedip verdiği rızkı aramanız için denizi buyruğunuz altına veren Allah'tır, belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 45,
+      "ayah": 16,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:16",
+      "word_position": 11,
+      "target_word_uthmani": "وَفَضَّلْنَٰهُمْ",
+      "target_word_rasm": "وفضلنهم",
+      "target_word_literal_irab": "Bir kısmını diğerinden işlev ve payca ayırıp üstün kıldık (`فَضَّلْنَا / وَفَضَّلْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Biz, İsrailoğullarına Kitap, hüküm ve elçilik görevi verdik; onları temiz şeylerle rızıklandırdık; onları dünyalara üstün kıldık.",
+      "morphology": {
+        "lemma": "faD~ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:faD~ala|ROOT:fDl|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Biz, İsrailoğullarına Kitap, hüküm ve elçilik görevi verdik; onları temiz şeylerle rızıklandırdık; onları dünyalara üstün kıldık.",
+      "contextual_meaning": "İşlev ve sorumluluk ayrışması (`فَضَّلَ ... عَلَى` / `فُضِّلُوا۟` / `تَفْضِيلًا`): Elçiler, toplumlar, rızık sahaları ve insanoğluna verilen donanım ve sorumluluk farklılıkları."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 15,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا",
+      "context_snippet_turkish_tabula_rasa": "... Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Bedel (`أَجْر`) veya orta ölçü (`مُّقْتَصِد`) üstü artış (`وَيَزِيدُهُم مِّن فَضْلِهِۦ`): Hak edilen tam karşılığın üstüne katılan artı bolluk ve katkı."
+    },
+    {
+      "surah": 49,
+      "ayah": 8,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:8",
+      "word_position": 1,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "فَضْلًا مِّنَ ٱللَّهِ وَنِعْمَةً",
+      "context_snippet_turkish_tabula_rasa": "... İşte böyle olanlar, Allah katından bir lütuf ve nimet sayesinde doğru yolda bulunanlardır. Allah bilendir, Hakim'dir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَضْلًا مِّنَ ٱللَّهِ وَنِعْمَةً وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bilin ki, içinizde Allah'ın elçiyi bulunmaktadır. Eğer o, bir çok işlerde size uymuş olsaydı şüphesiz kötü duruma düşerdiniz; ama Allah size güven bağı sevdirmiş, onu gönüllerinize güzel göstermiş; gerçeğin üzerini örtme tavrını, yoldan çıkmayı ve baş kaldırmayı size iğrenç göstermiştir. İşte böyle olanlar, Allah katından bir lütuf ve nimet sayesinde doğru yolda bulunanlardır. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 21,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:21",
+      "word_position": 17,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن",
+      "context_snippet_turkish_tabula_rasa": "... bu Allah'ın dilediğine verdiği lütfudur. Allah, büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Rabbiniz tarafından bağışlanmaya, Allah'a ve elçisine güvene erenler için hazırlanmış, genişliği yerle göğün genişliği kadar olan esenlik bahçesine koşusun; bu Allah'ın dilediğine verdiği lütfudur. Allah, büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 21,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:21",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... bu Allah'ın dilediğine verdiği lütfudur. Allah, büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Rabbiniz tarafından bağışlanmaya, Allah'a ve elçisine güvene erenler için hazırlanmış, genişliği yerle göğün genişliği kadar olan esenlik bahçesine koşusun; bu Allah'ın dilediğine verdiği lütfudur. Allah, büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 29,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:29",
+      "word_position": 10,
+      "target_word_uthmani": "فَضْلِ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 29,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:29",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْفَضْلَ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Ayrılık anındaki fazladan iyiliği / artı açılımı (`ٱلْفَضْلَ / فَضْلَهُۥ`, marife/muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|ACC"
+      },
+      "ayah_text_arabic_full": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 29,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:29",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 8,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:8",
+      "word_position": 9,
+      "target_word_uthmani": "فَضْلًا",
+      "target_word_rasm": "فضلا",
+      "target_word_literal_irab": "Rabbinizden gelen bir artı kazanç ve açılım (`فَضْلًا / وَفَضْلًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا",
+      "context_snippet_turkish_tabula_rasa": "... yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın yaşam sistemine ve elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar bunlardır.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın verdiği bu ganimet malları bilhassa; yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın yaşam sistemine ve elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar bunlardır.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 62,
+      "ayah": 4,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:4",
+      "word_position": 2,
+      "target_word_uthmani": "فَضْلُ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Allah'ın artı nimeti ve koruması (`فَضْلُ / ٱلْفَضْلُ`, marife/muzâf tekil isim merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 62,
+      "ayah": 4,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:4",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْفَضْلِ",
+      "target_word_rasm": "ٱلفضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+      "contextual_meaning": "Hesapsız ve kuşatıcı açılım (`ذُو ٱلْفَضْلِ ٱلْعَظِيمِ` / `فَضْلُ ٱللَّهِ`): Kimseden izin veya tekel almadan Allah'ın dilediğine ulaştırdığı büyük nimet ve destek (`2:105`, `3:73-74`, `8:29`, `10:58,60,107`, `11:3`, `57:21,29`, `62:4`)."
+    },
+    {
+      "surah": 62,
+      "ayah": 10,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:10",
+      "word_position": 9,
+      "target_word_uthmani": "فَضْلِ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 42,
+      "target_word_uthmani": "فَضْلِ",
+      "target_word_rasm": "فضل",
+      "target_word_literal_irab": "Onun artı bolluğu / büyük açılımı (`فَضْلِهِۦ / ٱلْفَضْلِ / بِفَضْلِ / لِفَضْلِهِۦ`, marife/muzâf tekil isim mecrûr)",
+      "context_snippet_arabic": "ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; ...",
+      "morphology": {
+        "lemma": "faDol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:faDol|ROOT:fDl|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Üretim ve ticaret artısı (`يَبْتَغُونَ فَضْلًا / مِن فَضْلِ ٱللَّهِ`): Gündüz emeği, deniz taşımacılığı, ticaret ve yolculukla elde edilen helâl geçim ve artı değer arayışı."
+    }
+  ]
+}

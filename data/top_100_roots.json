@@ -1,0 +1,1587 @@
+{
+  "total_unique_roots_in_quran": 1652,
+  "total_root_tokens_in_quran": 49968,
+  "top_100_token_count": 30191,
+  "top_100_coverage_percentage": 60.42,
+  "locked_in_top_100": 100,
+  "top_100_roots": [
+    {
+      "rank": 1,
+      "root_arabic": "أ-ل-ه",
+      "root_latin": "E-L-H",
+      "buckwalter": "Alh",
+      "frequency": 2851,
+      "unique_ayahs": 1879,
+      "concept_label": "İlâh / Allâh (Yegâne Mutlak Sığınak ve Otorite Mercii)",
+      "is_locked": true,
+      "sample_ayah": "1:1",
+      "top_lemmas": [
+        "{ll~ah",
+        "<ila`h",
+        "{ll~ahum~a"
+      ]
+    },
+    {
+      "rank": 2,
+      "root_arabic": "ق-و-ل",
+      "root_latin": "K-W-L",
+      "buckwalter": "qwl",
+      "frequency": 1722,
+      "unique_ayahs": 1383,
+      "concept_label": "Kavl (Söz, İfade, Dışa Vurum ve Beyan)",
+      "is_locked": true,
+      "sample_ayah": "2:8",
+      "top_lemmas": [
+        "qaAla",
+        "qawol",
+        "qaA^}il"
+      ]
+    },
+    {
+      "rank": 3,
+      "root_arabic": "ك-و-ن",
+      "root_latin": "K-W-N",
+      "buckwalter": "kwn",
+      "frequency": 1390,
+      "unique_ayahs": 1176,
+      "concept_label": "Kevn / Kâne (Yerleşip Ortaya Çıkma, Oluş ve Sabit Gerçeklik)",
+      "is_locked": true,
+      "sample_ayah": "2:10",
+      "top_lemmas": [
+        "kaAna",
+        "m~akaAn",
+        "makaAnat"
+      ]
+    },
+    {
+      "rank": 4,
+      "root_arabic": "ر-ب-ب",
+      "root_latin": "R-B-B",
+      "buckwalter": "rbb",
+      "frequency": 980,
+      "unique_ayahs": 871,
+      "concept_label": "Rabb (Besleyip Büyüten, Onarıp Olgunlaştıran Sahip ve Otorite)",
+      "is_locked": true,
+      "sample_ayah": "1:2",
+      "top_lemmas": [
+        "rab~",
+        "rab~a`niy~in",
+        "rib~iy~uwn"
+      ]
+    },
+    {
+      "rank": 5,
+      "root_arabic": "أ-م-ن",
+      "root_latin": "E-M-N",
+      "buckwalter": "Amn",
+      "frequency": 879,
+      "unique_ayahs": 723,
+      "concept_label": "İman / Güven (Şüphesiz İçsel Emniyet ve Güven Bağı)",
+      "is_locked": true,
+      "sample_ayah": "2:3",
+      "top_lemmas": [
+        "'aAmana",
+        "mu&omin",
+        "<iyma`n"
+      ]
+    },
+    {
+      "rank": 6,
+      "root_arabic": "ع-ل-م",
+      "root_latin": "A-L-M",
+      "buckwalter": "Elm",
+      "frequency": 854,
+      "unique_ayahs": 728,
+      "concept_label": "İlim / Alîm / Âlem (Ayırt Edici İz, İşaret ve Doğrudan Bilgi)",
+      "is_locked": true,
+      "sample_ayah": "1:2",
+      "top_lemmas": [
+        "Ealima",
+        "Ealiym",
+        "Eilom"
+      ]
+    },
+    {
+      "rank": 7,
+      "root_arabic": "ق-و-م",
+      "root_latin": "K-W-M",
+      "buckwalter": "qwm",
+      "frequency": 660,
+      "unique_ayahs": 597,
+      "concept_label": "Kıyâm / İkāmet (Ayağa Kalkış, Duruş, Ayakta Tutma)",
+      "is_locked": true,
+      "sample_ayah": "1:6",
+      "top_lemmas": [
+        "qawom",
+        "qiya`map",
+        ">aqaAma"
+      ]
+    },
+    {
+      "rank": 8,
+      "root_arabic": "أ-ت-ي",
+      "root_latin": "E-T-Y",
+      "buckwalter": "Aty",
+      "frequency": 549,
+      "unique_ayahs": 486,
+      "concept_label": "İtâ / İtyân (Engelsiz Akıp Gelmek, Yönelip Ulaşmak ve Teslim Etmek)",
+      "is_locked": true,
+      "sample_ayah": "2:23",
+      "top_lemmas": [
+        "A^taY",
+        ">ataY",
+        "A^tiy"
+      ]
+    },
+    {
+      "rank": 9,
+      "root_arabic": "ك-ف-ر",
+      "root_latin": "K-F-R",
+      "buckwalter": "kfr",
+      "frequency": 525,
+      "unique_ayahs": 465,
+      "concept_label": "Küfür (Gerçeğin Üzerini Örtme, Yok Sayma)",
+      "is_locked": true,
+      "sample_ayah": "2:6",
+      "top_lemmas": [
+        "kafara",
+        "ka`firuwn",
+        "kufor"
+      ]
+    },
+    {
+      "rank": 10,
+      "root_arabic": "ش-ي-أ",
+      "root_latin": "S-Y-E",
+      "buckwalter": "$yA",
+      "frequency": 519,
+      "unique_ayahs": 449,
+      "concept_label": "Şey / Meşîet (İrade ile Seçip Oldurmak, Varlık Birimi)",
+      "is_locked": true,
+      "sample_ayah": "2:20",
+      "top_lemmas": [
+        "$aYo'",
+        "$aA^'a"
+      ]
+    },
+    {
+      "rank": 11,
+      "root_arabic": "ب-ي-ن",
+      "root_latin": "B-Y-N",
+      "buckwalter": "byn",
+      "frequency": 514,
+      "unique_ayahs": 454,
+      "concept_label": "Beyân / Beyn (Aralık Açma, Sınırını Ayırıp Belirginleştirme)",
+      "is_locked": true,
+      "sample_ayah": "2:66",
+      "top_lemmas": [
+        "bayon",
+        "m~ubiyn",
+        "bay~inap"
+      ]
+    },
+    {
+      "rank": 12,
+      "root_arabic": "ر-س-ل",
+      "root_latin": "R-S-L",
+      "buckwalter": "rsl",
+      "frequency": 513,
+      "unique_ayahs": 429,
+      "concept_label": "İrsâl / Resûl (Salıp Göndermek, Akıtmak, Görevli Elçi)",
+      "is_locked": true,
+      "sample_ayah": "2:87",
+      "top_lemmas": [
+        "rasuwl",
+        ">arosala",
+        "m~urosal"
+      ]
+    },
+    {
+      "rank": 13,
+      "root_arabic": "أ-ر-ض",
+      "root_latin": "E-R-D",
+      "buckwalter": "ArD",
+      "frequency": 461,
+      "unique_ayahs": 440,
+      "concept_label": "Arz (Alt Taban, Üzerinde Yaşanılan Zemin ve Coğrafya)",
+      "is_locked": true,
+      "sample_ayah": "2:11",
+      "top_lemmas": [
+        ">aroD"
+      ]
+    },
+    {
+      "rank": 14,
+      "root_arabic": "ي-و-م",
+      "root_latin": "Y-W-M",
+      "buckwalter": "ywm",
+      "frequency": 405,
+      "unique_ayahs": 377,
+      "concept_label": "Yevm (Zaman Birimi, Aydınlık Döngü, Tarihsel Dönem / Aşama)",
+      "is_locked": true,
+      "sample_ayah": "1:4",
+      "top_lemmas": [
+        "yawom"
+      ]
+    },
+    {
+      "rank": 15,
+      "root_arabic": "أ-ي-ي",
+      "root_latin": "E-Y-Y",
+      "buckwalter": "Ayy",
+      "frequency": 382,
+      "unique_ayahs": 353,
+      "concept_label": "Âyet (Açık İşaret, Doğal Kanıt, Bilgilendirici Metin Birimi)",
+      "is_locked": true,
+      "sample_ayah": "2:39",
+      "top_lemmas": [
+        "'aAyap"
+      ]
+    },
+    {
+      "rank": 16,
+      "root_arabic": "س-م-و",
+      "root_latin": "S-M-W",
+      "buckwalter": "smw",
+      "frequency": 381,
+      "unique_ayahs": 352,
+      "concept_label": "Semâ / İsim (Üst Kozmik Katman, Tavan ve Tanımlayıcı Ad)",
+      "is_locked": true,
+      "sample_ayah": "1:1",
+      "top_lemmas": [
+        "samaA^'",
+        "{som",
+        "m~usam~FY"
+      ]
+    },
+    {
+      "rank": 17,
+      "root_arabic": "ع-ذ-ب",
+      "root_latin": "A-Z-B",
+      "buckwalter": "E*b",
+      "frequency": 373,
+      "unique_ayahs": 336,
+      "concept_label": "Azap (Tatlılıktan Kesilme, Mahrumiyet ve Ağır Yaptırım / Acı)",
+      "is_locked": true,
+      "sample_ayah": "2:7",
+      "top_lemmas": [
+        "Ea*aAb",
+        "Ea*~aba",
+        "muEa*~ib"
+      ]
+    },
+    {
+      "rank": 18,
+      "root_arabic": "ك-ل-ل",
+      "root_latin": "K-L-L",
+      "buckwalter": "kll",
+      "frequency": 363,
+      "unique_ayahs": 343,
+      "concept_label": "Küll / Kelâle / Kell (Kapsayan Bütünlük, Yanal Akrabalık ve Ağır Yük)",
+      "is_locked": true,
+      "sample_ayah": "2:20",
+      "top_lemmas": [
+        "kul~",
+        "kala`lap",
+        "kal~"
+      ]
+    },
+    {
+      "rank": 19,
+      "root_arabic": "ع-م-ل",
+      "root_latin": "A-M-L",
+      "buckwalter": "Eml",
+      "frequency": 360,
+      "unique_ayahs": 313,
+      "concept_label": "Amel (Bilinçli Eylem, İş, Emek ve Üretim)",
+      "is_locked": true,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "Eamila",
+        "Eamal",
+        "Ea`mil"
+      ]
+    },
+    {
+      "rank": 20,
+      "root_arabic": "ج-ع-ل",
+      "root_latin": "C-A-L",
+      "buckwalter": "jEl",
+      "frequency": 346,
+      "unique_ayahs": 311,
+      "concept_label": "Ce'l (Kılmak, Düzenlemek, İşlev ve Rol Atamak)",
+      "is_locked": true,
+      "sample_ayah": "2:19",
+      "top_lemmas": [
+        "jaEala",
+        "jaAEil"
+      ]
+    },
+    {
+      "rank": 21,
+      "root_arabic": "ر-ح-م",
+      "root_latin": "R-H-M",
+      "buckwalter": "rHm",
+      "frequency": 339,
+      "unique_ayahs": 313,
+      "concept_label": "Rahmet (Kuşatıcı Şefkat, Besleyici Koruma ve Rahim Bağı)",
+      "is_locked": true,
+      "sample_ayah": "1:1",
+      "top_lemmas": [
+        "r~aHiym",
+        "raHomap",
+        "r~aHoma`n"
+      ]
+    },
+    {
+      "rank": 22,
+      "root_arabic": "ر-أ-ي",
+      "root_latin": "R-E-Y",
+      "buckwalter": "rAy",
+      "frequency": 328,
+      "unique_ayahs": 297,
+      "concept_label": "Re'y / Rüya (Görmek, Zihinsel İdrak, Göstermek ve Görüş)",
+      "is_locked": true,
+      "sample_ayah": "2:55",
+      "top_lemmas": [
+        "ra'aA",
+        ">arayo",
+        "r~u'oyaA"
+      ]
+    },
+    {
+      "rank": 23,
+      "root_arabic": "ك-ت-ب",
+      "root_latin": "K-T-B",
+      "buckwalter": "ktb",
+      "frequency": 319,
+      "unique_ayahs": 279,
+      "concept_label": "Kitap / Ketb (Yazmak, Sabitlemek, Bağlayıcı Yasa ve Kayıt)",
+      "is_locked": true,
+      "sample_ayah": "2:2",
+      "top_lemmas": [
+        "kita`b",
+        "kataba",
+        "kaAtib"
+      ]
+    },
+    {
+      "rank": 24,
+      "root_arabic": "ه-د-ي",
+      "root_latin": "H-D-Y",
+      "buckwalter": "hdy",
+      "frequency": 316,
+      "unique_ayahs": 268,
+      "concept_label": "Hidayet / Hedy (Zarafetle Yol Göstermek, Doğrultu Vermek ve Armağan Sunmak)",
+      "is_locked": true,
+      "sample_ayah": "1:6",
+      "top_lemmas": [
+        "hadaY",
+        "hudFY",
+        "{hotadaY`"
+      ]
+    },
+    {
+      "rank": 25,
+      "root_arabic": "ظ-ل-م",
+      "root_latin": "Z-L-M",
+      "buckwalter": "Zlm",
+      "frequency": 315,
+      "unique_ayahs": 290,
+      "concept_label": "Zulüm / Zulumât (Karanlık, Bir Şeyi Yerinden Etmek ve Haksızlık)",
+      "is_locked": true,
+      "sample_ayah": "2:17",
+      "top_lemmas": [
+        "ZaAlim",
+        "Zalama",
+        "Zuluma`t"
+      ]
+    },
+    {
+      "rank": 26,
+      "root_arabic": "ن-ف-س",
+      "root_latin": "N-F-S",
+      "buckwalter": "nfs",
+      "frequency": 298,
+      "unique_ayahs": 270,
+      "concept_label": "Can / Benlik / Soluk (Kişilik, Öz, Hayat Nefesi ve Yarış)",
+      "is_locked": true,
+      "sample_ayah": "2:9",
+      "top_lemmas": [
+        "nafos",
+        "tanaf~asa",
+        "yatanaAfasi"
+      ]
+    },
+    {
+      "rank": 27,
+      "root_arabic": "ن-ز-ل",
+      "root_latin": "N-Z-L",
+      "buckwalter": "nzl",
+      "frequency": 293,
+      "unique_ayahs": 257,
+      "concept_label": "Nüzûl / Tenzîl (Ölçülü İndirme, Kademeli Ulaştırma ve Konaklama İkramı)",
+      "is_locked": true,
+      "sample_ayah": "2:4",
+      "top_lemmas": [
+        ">anzala",
+        "naz~ala",
+        "tanziyl"
+      ]
+    },
+    {
+      "rank": 28,
+      "root_arabic": "ق-ب-ل",
+      "root_latin": "K-B-L",
+      "buckwalter": "qbl",
+      "frequency": 293,
+      "unique_ayahs": 281,
+      "concept_label": "Kabûl / Kıble / Kabile (Yüz Yüze Karşılama, Yönelim ve Öncelik)",
+      "is_locked": true,
+      "sample_ayah": "2:4",
+      "top_lemmas": [
+        "qabol",
+        "taqab~ala",
+        "yaqobalu"
+      ]
+    },
+    {
+      "rank": 29,
+      "root_arabic": "ذ-ك-ر",
+      "root_latin": "Z-K-R",
+      "buckwalter": "*kr",
+      "frequency": 292,
+      "unique_ayahs": 264,
+      "concept_label": "Zikir / Zekâr (Zihinde İz Tutma, Unutmama, Hatırlatma ve Eril Cinsiyet)",
+      "is_locked": true,
+      "sample_ayah": "2:40",
+      "top_lemmas": [
+        "*akara",
+        "*ikor",
+        "ta*ak~ara"
+      ]
+    },
+    {
+      "rank": 30,
+      "root_arabic": "ح-ق-ق",
+      "root_latin": "H-K-K",
+      "buckwalter": "Hqq",
+      "frequency": 287,
+      "unique_ayahs": 263,
+      "concept_label": "Hak (Örtüşen Sağlam Gerçek, Sabit Ölçü, Hak Edilen Pay ve Borç)",
+      "is_locked": true,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        "Haq~",
+        "Haq~a",
+        ">aHaq~"
+      ]
+    },
+    {
+      "rank": 31,
+      "root_arabic": "ك-ذ-ب",
+      "root_latin": "K-Z-B",
+      "buckwalter": "k*b",
+      "frequency": 282,
+      "unique_ayahs": 257,
+      "concept_label": "Kizb / Tekzîb (Beklentiyi Boşa Çıkarma, Gerçeği Çarpıtma ve Kanıtı Yalanlama)",
+      "is_locked": true,
+      "sample_ayah": "2:10",
+      "top_lemmas": [
+        "ka*~aba",
+        "ka*ib",
+        "ka`*ib"
+      ]
+    },
+    {
+      "rank": 32,
+      "root_arabic": "ج-ي-أ",
+      "root_latin": "C-Y-E",
+      "buckwalter": "jyA",
+      "frequency": 278,
+      "unique_ayahs": 262,
+      "concept_label": "Mecî' (Ağırlıklı Varmak, Somut Sonuç Getirmek ve Geri Dönülmez Ortaya Çıkış)",
+      "is_locked": true,
+      "sample_ayah": "2:71",
+      "top_lemmas": [
+        "jaA^'a"
+      ]
+    },
+    {
+      "rank": 33,
+      "root_arabic": "ع-ب-د",
+      "root_latin": "A-B-D",
+      "buckwalter": "Ebd",
+      "frequency": 275,
+      "unique_ayahs": 251,
+      "concept_label": "Abd / Ubûdiyet (Düzlenmiş Yol Gibi Boyun Eğme, Emek Sunma ve Bilinçli Hizmet Bağlılığı)",
+      "is_locked": true,
+      "sample_ayah": "1:5",
+      "top_lemmas": [
+        "Eabod",
+        "Eabada",
+        "EaAbid"
+      ]
+    },
+    {
+      "rank": 34,
+      "root_arabic": "أ-خ-ذ",
+      "root_latin": "E-H-Z",
+      "buckwalter": "Ax*",
+      "frequency": 273,
+      "unique_ayahs": 244,
+      "concept_label": "Ahz / İttihâz (Kavramak, Somut Yakalayış ve Kalıcı Olarak Edinmek)",
+      "is_locked": true,
+      "sample_ayah": "2:48",
+      "top_lemmas": [
+        ">axa*a",
+        "{t~axa*a",
+        "yu&aAxi*u"
+      ]
+    },
+    {
+      "rank": 35,
+      "root_arabic": "خ-ل-ق",
+      "root_latin": "H-L-K",
+      "buckwalter": "xlq",
+      "frequency": 261,
+      "unique_ayahs": 218,
+      "concept_label": "Halk (Ölçüp Tasarlamak, Oranlı Biçim Vermek, Pay ve İç Karakter)",
+      "is_locked": true,
+      "sample_ayah": "2:21",
+      "top_lemmas": [
+        "xalaqa",
+        "xaloq",
+        "xa`liq"
+      ]
+    },
+    {
+      "rank": 36,
+      "root_arabic": "و-ق-ي",
+      "root_latin": "W-K-Y",
+      "buckwalter": "wqy",
+      "frequency": 258,
+      "unique_ayahs": 237,
+      "concept_label": "Vikâye / İttikâ (Kalkan Tutma, Zarardan Korunma ve Sorumluluk Bilinci)",
+      "is_locked": true,
+      "sample_ayah": "2:2",
+      "top_lemmas": [
+        "{t~aqaY`",
+        "mut~aqiyn",
+        "taqowaY"
+      ]
+    },
+    {
+      "rank": 37,
+      "root_arabic": "أ-خ-ر",
+      "root_latin": "E-H-R",
+      "buckwalter": "Axr",
+      "frequency": 250,
+      "unique_ayahs": 242,
+      "concept_label": "Âhir / Âhar / Te’hîr (Sonraki Aşama, Öteki Birim ve Geriye Bırakma)",
+      "is_locked": true,
+      "sample_ayah": "2:4",
+      "top_lemmas": [
+        "A^xir",
+        "A^xar",
+        ">ax~ara"
+      ]
+    },
+    {
+      "rank": 38,
+      "root_arabic": "أ-م-ر",
+      "root_latin": "E-M-R",
+      "buckwalter": "Amr",
+      "frequency": 248,
+      "unique_ayahs": 226,
+      "concept_label": "Emr (Yönlendirici İşaret, Karar, İşletim Düzeni ve Süreç)",
+      "is_locked": true,
+      "sample_ayah": "2:27",
+      "top_lemmas": [
+        ">amor",
+        ">amara",
+        "ya>otamiru"
+      ]
+    },
+    {
+      "rank": 39,
+      "root_arabic": "ن-و-س",
+      "root_latin": "N-W-S",
+      "buckwalter": "nws",
+      "frequency": 241,
+      "unique_ayahs": 225,
+      "concept_label": "Nâs (Hareketli İnsanlık Toplumu ve Kamuoyu)",
+      "is_locked": true,
+      "sample_ayah": "2:8",
+      "top_lemmas": [
+        "n~aAs"
+      ]
+    },
+    {
+      "rank": 40,
+      "root_arabic": "غ-ف-ر",
+      "root_latin": "G-F-R",
+      "buckwalter": "gfr",
+      "frequency": 234,
+      "unique_ayahs": 202,
+      "concept_label": "Mağfiret / Gufrân (Miğfer Gibi Örtüp Zırhlama ve Kusurun Üstünü Kapatma)",
+      "is_locked": true,
+      "sample_ayah": "2:58",
+      "top_lemmas": [
+        "gafuwr",
+        "gafara",
+        "{sotagofara"
+      ]
+    },
+    {
+      "rank": 41,
+      "root_arabic": "و-ل-ي",
+      "root_latin": "W-L-Y",
+      "buckwalter": "wly",
+      "frequency": 232,
+      "unique_ayahs": 202,
+      "concept_label": "Velâyet / Tevellî (Bitişik Yakınlık, Sahiplenip Üstlenme ve Sırt Çevirme)",
+      "is_locked": true,
+      "sample_ayah": "2:64",
+      "top_lemmas": [
+        "waliY~",
+        "tawal~aY`",
+        "wal~aY`"
+      ]
+    },
+    {
+      "rank": 42,
+      "root_arabic": "ب-ع-د",
+      "root_latin": "B-A-D",
+      "buckwalter": "bEd",
+      "frequency": 228,
+      "unique_ayahs": 216,
+      "concept_label": "Bu'd / Ba'd (Araya Giren Mesafe, Uzaklık, Ardından Gelme ve Tarihten Silinme)",
+      "is_locked": true,
+      "sample_ayah": "2:27",
+      "top_lemmas": [
+        "baEod",
+        "baEiyd",
+        "buEod"
+      ]
+    },
+    {
+      "rank": 43,
+      "root_arabic": "د-ع-و",
+      "root_latin": "D-A-W",
+      "buckwalter": "dEw",
+      "frequency": 212,
+      "unique_ayahs": 182,
+      "concept_label": "Da'vet / Duâ (Seslenerek Kendine Çekme, Çağrı, Adlandırma ve Talep)",
+      "is_locked": true,
+      "sample_ayah": "2:23",
+      "top_lemmas": [
+        "daEaA",
+        "duEaA^'",
+        "daEowap"
+      ]
+    },
+    {
+      "rank": 44,
+      "root_arabic": "ح-ك-م",
+      "root_latin": "H-K-M",
+      "buckwalter": "Hkm",
+      "frequency": 210,
+      "unique_ayahs": 189,
+      "concept_label": "Hüküm / Hikmet (Gem Vurup Frenleme, Sağlamlaştırma, Ölçülü Karar ve Bilgelik)",
+      "is_locked": true,
+      "sample_ayah": "2:32",
+      "top_lemmas": [
+        "Hakiym",
+        "Hakama",
+        "Hukom"
+      ]
+    },
+    {
+      "rank": 45,
+      "root_arabic": "م-ل-ك",
+      "root_latin": "M-L-K",
+      "buckwalter": "mlk",
+      "frequency": 206,
+      "unique_ayahs": 191,
+      "concept_label": "Mülk / Melik / Kozmik Görev (Sağlam Tutup Hükümranlık Etme, Sahiplik ve Görevli Güçler)",
+      "is_locked": true,
+      "sample_ayah": "1:4",
+      "top_lemmas": [
+        "malak",
+        "mulok",
+        "malakato"
+      ]
+    },
+    {
+      "rank": 46,
+      "root_arabic": "ج-ن-ن",
+      "root_latin": "C-N-N",
+      "buckwalter": "jnn",
+      "frequency": 201,
+      "unique_ayahs": 196,
+      "concept_label": "Cennât / Cânn / Cünûn (Örtüp Gizleme, Sık Esenlik Bahçesi, Görünmeyen Bilinç ve Zihin Örtülmesi)",
+      "is_locked": true,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "jan~ap",
+        "jin~",
+        "majonuwn"
+      ]
+    },
+    {
+      "rank": 47,
+      "root_arabic": "خ-ي-ر",
+      "root_latin": "H-Y-R",
+      "buckwalter": "xyr",
+      "frequency": 196,
+      "unique_ayahs": 178,
+      "concept_label": "Hayr / İhtiyâr (Seçkin İyi, Faydalı Değer-Mal ve Bilinçli Seçim)",
+      "is_locked": true,
+      "sample_ayah": "2:54",
+      "top_lemmas": [
+        "xayor",
+        "xayora`t",
+        "{xotaAra"
+      ]
+    },
+    {
+      "rank": 48,
+      "root_arabic": "ع-ن-د",
+      "root_latin": "A-N-D",
+      "buckwalter": "End",
+      "frequency": 195,
+      "unique_ayahs": 183,
+      "concept_label": "İnd / Anîd (Bitişik Yan, Kaynak Katı, Huzur ve Hizadan Sapıp Direnme)",
+      "is_locked": true,
+      "sample_ayah": "2:54",
+      "top_lemmas": [
+        "Eind",
+        "Eaniyd"
+      ]
+    },
+    {
+      "rank": 49,
+      "root_arabic": "ن-و-ر",
+      "root_latin": "N-W-R",
+      "buckwalter": "nwr",
+      "frequency": 194,
+      "unique_ayahs": 174,
+      "concept_label": "Nûr / Nâr / Münîr (Berrak Aydınlık, Yakıcı Ateş ve Yol Açıcı Işık)",
+      "is_locked": true,
+      "sample_ayah": "2:17",
+      "top_lemmas": [
+        "naAr",
+        "nuwr",
+        "m~uniyr"
+      ]
+    },
+    {
+      "rank": 50,
+      "root_arabic": "ح-س-ن",
+      "root_latin": "H-S-N",
+      "buckwalter": "Hsn",
+      "frequency": 194,
+      "unique_ayahs": 177,
+      "concept_label": "Hüsn / İhsân / Ahsen (Sağlam Uyum, Ölçülü Güzellik ve İşi Özenle Tam Yapma)",
+      "is_locked": true,
+      "sample_ayah": "2:58",
+      "top_lemmas": [
+        "muHosin",
+        ">aHosan",
+        "Hasanap"
+      ]
+    },
+    {
+      "rank": 51,
+      "root_arabic": "ض-ل-ل",
+      "root_latin": "D-L-L",
+      "buckwalter": "Dll",
+      "frequency": 191,
+      "unique_ayahs": 170,
+      "concept_label": "Dalâlet / Tadlîl (Pusula Kaybı, İz Silinmesi ve Doğru Yoldan Şaşma)",
+      "is_locked": true,
+      "sample_ayah": "1:7",
+      "top_lemmas": [
+        ">aDal~a",
+        "Dal~a",
+        "Dala`l"
+      ]
+    },
+    {
+      "rank": 52,
+      "root_arabic": "س-م-ع",
+      "root_latin": "S-M-A",
+      "buckwalter": "smE",
+      "frequency": 185,
+      "unique_ayahs": 163,
+      "concept_label": "Sem' / İstima' (Ses Yakalama, Dikkatle Kulak Verme ve Yanıtla İçselleştirme)",
+      "is_locked": true,
+      "sample_ayah": "2:7",
+      "top_lemmas": [
+        "samiEa",
+        "samiyE",
+        "samoE"
+      ]
+    },
+    {
+      "rank": 53,
+      "root_arabic": "ب-ن-ي",
+      "root_latin": "B-N-Y",
+      "buckwalter": "bny",
+      "frequency": 184,
+      "unique_ayahs": 150,
+      "concept_label": "Binâ / İbn (Taş Taş Örüp Yapı Kurmak, Soy Ve Aidiyet İnşası)",
+      "is_locked": true,
+      "sample_ayah": "2:22",
+      "top_lemmas": [
+        "bunaY~",
+        "{bon",
+        "banaAt"
+      ]
+    },
+    {
+      "rank": 54,
+      "root_arabic": "ح-ي-ي",
+      "root_latin": "H-Y-Y",
+      "buckwalter": "Hyy",
+      "frequency": 184,
+      "unique_ayahs": 161,
+      "concept_label": "Hayat / Hayy / İhyâ / İstihyâ (Canlılık, İşlevsel Dirilik, Sağ Bırakma ve Hassas Sakınma)",
+      "is_locked": true,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        "Hayaw`p",
+        ">aHoyaA",
+        "Hay~"
+      ]
+    },
+    {
+      "rank": 55,
+      "root_arabic": "خ-ر-ج",
+      "root_latin": "H-R-C",
+      "buckwalter": "xrj",
+      "frequency": 182,
+      "unique_ayahs": 157,
+      "concept_label": "Hurûc / İhrâc / İstihrâc (Kapalı Sınırı Yarıp Dışarı Çıkmak, Açığa Çıkarmak ve Sürgün)",
+      "is_locked": true,
+      "sample_ayah": "2:22",
+      "top_lemmas": [
+        ">axoraja",
+        "xaraja",
+        "<ixoraAj"
+      ]
+    },
+    {
+      "rank": 56,
+      "root_arabic": "ص-ل-ح",
+      "root_latin": "S-L-H",
+      "buckwalter": "SlH",
+      "frequency": 180,
+      "unique_ayahs": 170,
+      "concept_label": "Salâh / İslâh / Sâlihât / Sulh (Bozulmayı Giderip İşlevsel Dengeye Getirmek, Onarmak ve Barışı Kurmak)",
+      "is_locked": true,
+      "sample_ayah": "2:11",
+      "top_lemmas": [
+        "Sa`liH",
+        "S~a`liHa`t",
+        ">aSolaHa"
+      ]
+    },
+    {
+      "rank": 57,
+      "root_arabic": "س-ب-ل",
+      "root_latin": "S-B-L",
+      "buckwalter": "sbl",
+      "frequency": 176,
+      "unique_ayahs": 164,
+      "concept_label": "Sebîl / Sübül (Engelsiz İşlek Akış, Geçiş Yolu, Yöntem ve Sorumluluk Kapısı)",
+      "is_locked": true,
+      "sample_ayah": "2:108",
+      "top_lemmas": [
+        "sabiyl"
+      ]
+    },
+    {
+      "rank": 58,
+      "root_arabic": "ت-ب-ع",
+      "root_latin": "T-B-A",
+      "buckwalter": "tbE",
+      "frequency": 172,
+      "unique_ayahs": 156,
+      "concept_label": "İttibâ' / Teba' / İtbâ' (Adım Adım İz Sürmek, Peşinden Yetişip Takip Etmek ve Örnek Almak)",
+      "is_locked": true,
+      "sample_ayah": "2:38",
+      "top_lemmas": [
+        "{t~abaEa",
+        ">atobaEa",
+        "tabiEa"
+      ]
+    },
+    {
+      "rank": 59,
+      "root_arabic": "أ-و-ل",
+      "root_latin": "E-W-L",
+      "buckwalter": "Awl",
+      "frequency": 170,
+      "unique_ayahs": 158,
+      "concept_label": "Evvel / Âl / Ülî / Te'vîl (Başlangıç Kaynağı, Dönüp Bağlanan Yakın Çevre, Nitelik Sahipleri ve Asıl Sonuç)",
+      "is_locked": true,
+      "sample_ayah": "2:41",
+      "top_lemmas": [
+        ">aw~al",
+        ">uwliY",
+        "'aAl"
+      ]
+    },
+    {
+      "rank": 60,
+      "root_arabic": "ق-ت-ل",
+      "root_latin": "K-T-L",
+      "buckwalter": "qtl",
+      "frequency": 170,
+      "unique_ayahs": 122,
+      "concept_label": "Katl / Kıtâl / Taktîl / İktitâl (Can Bağını Kesip Etkisizleştirme, Karşılıklı Çarpışma ve İç Çatışma)",
+      "is_locked": true,
+      "sample_ayah": "2:54",
+      "top_lemmas": [
+        "qatala",
+        "qa`tala",
+        "qitaAl"
+      ]
+    },
+    {
+      "rank": 61,
+      "root_arabic": "م-ث-ل",
+      "root_latin": "M-S-L",
+      "buckwalter": "mvl",
+      "frequency": 169,
+      "unique_ayahs": 148,
+      "concept_label": "Mesel / Misil / Timsâl / Temessül (Karşılıklı Denk Model, Eşdeğer Ölçü, Örnek Tablo ve Surete Bürünme)",
+      "is_locked": true,
+      "sample_ayah": "2:17",
+      "top_lemmas": [
+        "maval",
+        "mivol",
+        "t~amaAviyl"
+      ]
+    },
+    {
+      "rank": 62,
+      "root_arabic": "ق-ل-ب",
+      "root_latin": "K-L-B",
+      "buckwalter": "qlb",
+      "frequency": 168,
+      "unique_ayahs": 155,
+      "concept_label": "Kalp / Taklîb / İnkılâb (Merkez Öz, Bilişsel Dönüşüm Odası ve Tersine Çevrilip Dönüş)",
+      "is_locked": true,
+      "sample_ayah": "2:7",
+      "top_lemmas": [
+        "qalob",
+        "{nqalaba",
+        "qal~abu"
+      ]
+    },
+    {
+      "rank": 63,
+      "root_arabic": "ش-ر-ك",
+      "root_latin": "S-R-K",
+      "buckwalter": "$rk",
+      "frequency": 168,
+      "unique_ayahs": 143,
+      "concept_label": "Şerîk / İştirâk / İştikâk (Paydaş Kılma, Yetki Bölüşümü ve Ortaklık Kurma)",
+      "is_locked": true,
+      "sample_ayah": "2:96",
+      "top_lemmas": [
+        ">a$oraka",
+        "mu$orik",
+        "$ariyk"
+      ]
+    },
+    {
+      "rank": 64,
+      "root_arabic": "ك-ث-ر",
+      "root_latin": "K-S-R",
+      "buckwalter": "kvr",
+      "frequency": 167,
+      "unique_ayahs": 162,
+      "concept_label": "Kesret / Ekser / Tekâsür / Kevser (Sayısal Çokluk, Yığılma Yarışı ve Taşkın Hayır Kaynağı)",
+      "is_locked": true,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        ">akovar",
+        "kaviyr",
+        "kaviyrap"
+      ]
+    },
+    {
+      "rank": 65,
+      "root_arabic": "س-و-أ",
+      "root_latin": "S-W-E",
+      "buckwalter": "swA",
+      "frequency": 167,
+      "unique_ayahs": 151,
+      "concept_label": "Sû' / Seyyie / Sev'e / İsâe (Çirkinlik, Keder Veren Bozukluk, Zarar ve Kusur)",
+      "is_locked": true,
+      "sample_ayah": "2:49",
+      "top_lemmas": [
+        "suw^'",
+        "say~i_#aAt",
+        "saA^'a"
+      ]
+    },
+    {
+      "rank": 66,
+      "root_arabic": "م-و-ت",
+      "root_latin": "M-W-T",
+      "buckwalter": "mwt",
+      "frequency": 165,
+      "unique_ayahs": 143,
+      "concept_label": "Mevt / Memât / Meyyit / İmâte (Güç ve İşlevin Çekilmesi, Durağanlaşma ve Evre Değişimi)",
+      "is_locked": true,
+      "sample_ayah": "2:19",
+      "top_lemmas": [
+        "mawot",
+        "m~aAta",
+        "m~ay~it"
+      ]
+    },
+    {
+      "rank": 67,
+      "root_arabic": "ك-ب-ر",
+      "root_latin": "K-B-R",
+      "buckwalter": "kbr",
+      "frequency": 161,
+      "unique_ayahs": 153,
+      "concept_label": "Kibr / Kebîr / Ekber / İstikbâr (Büyüklük, İleri Yaş ve Haksız Büyüklenme)",
+      "is_locked": true,
+      "sample_ayah": "2:34",
+      "top_lemmas": [
+        "{sotakobara",
+        "kabiyr",
+        ">akobar"
+      ]
+    },
+    {
+      "rank": 68,
+      "root_arabic": "ش-ه-د",
+      "root_latin": "S-H-D",
+      "buckwalter": "$hd",
+      "frequency": 160,
+      "unique_ayahs": 123,
+      "concept_label": "Şehâdet / Şâhid / Şehîd / Meşhûd (Yerinde Hazır Bulunuş, Açık Gözlem ve Sorumlu Tanıklık)",
+      "is_locked": true,
+      "sample_ayah": "2:23",
+      "top_lemmas": [
+        "$ahiyd",
+        "$ahida",
+        "$aha`dap"
+      ]
+    },
+    {
+      "rank": 69,
+      "root_arabic": "ن-ب-أ",
+      "root_latin": "N-B-E",
+      "buckwalter": "nbA",
+      "frequency": 160,
+      "unique_ayahs": 151,
+      "concept_label": "Nebe' / Nebî / Nübüvvet / İnbâ (Büyük Haber, Geçmişten Geleceğe Bilgi Aktarma ve Haber Elçiliği)",
+      "is_locked": true,
+      "sample_ayah": "2:31",
+      "top_lemmas": [
+        "n~abiY~",
+        "nab~a>a",
+        "naba>"
+      ]
+    },
+    {
+      "rank": 70,
+      "root_arabic": "ب-ع-ض",
+      "root_latin": "B-A-D",
+      "buckwalter": "bED",
+      "frequency": 158,
+      "unique_ayahs": 87,
+      "concept_label": "Ba'z / Ba'ûda (Bütünden Ayrılan Parça, Karşılıklı Bağlantı ve Sivrisinek)",
+      "is_locked": true,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        "baEoD",
+        "baEuwDap"
+      ]
+    },
+    {
+      "rank": 71,
+      "root_arabic": "ن-ص-ر",
+      "root_latin": "N-S-R",
+      "buckwalter": "nSr",
+      "frequency": 158,
+      "unique_ayahs": 137,
+      "concept_label": "Nasr / Nasîr / Ensâr / İntisâr / Nasârâ (Hayır ve Güç Ulaştırma, Aktif Destek ve Haklı Savunma)",
+      "is_locked": true,
+      "sample_ayah": "2:48",
+      "top_lemmas": [
+        "naSara",
+        "naSiyr",
+        "naSor"
+      ]
+    },
+    {
+      "rank": 72,
+      "root_arabic": "ص-د-ق",
+      "root_latin": "S-D-K",
+      "buckwalter": "Sdq",
+      "frequency": 155,
+      "unique_ayahs": 144,
+      "concept_label": "Sıdk / Sadâkat / Sadaka / Tasdik (Sağlamlık, Söz-Eylem Örtüşmesi, Doğrulama ve Özden Paylaşım)",
+      "is_locked": true,
+      "sample_ayah": "2:23",
+      "top_lemmas": [
+        "SaAdiq",
+        "muSad~iq",
+        "Sadaqa"
+      ]
+    },
+    {
+      "rank": 73,
+      "root_arabic": "غ-ي-ر",
+      "root_latin": "G-Y-R",
+      "buckwalter": "gyr",
+      "frequency": 154,
+      "unique_ayahs": 146,
+      "concept_label": "Gayr / Tağyîr / Muğîrât (Sınır Çizen Başkalık, Nitelik Değişimi ve Öz-Eksen Dönüşüm)",
+      "is_locked": true,
+      "sample_ayah": "1:7",
+      "top_lemmas": [
+        "gayor",
+        "yugay~iru",
+        "mugay~ir"
+      ]
+    },
+    {
+      "rank": 74,
+      "root_arabic": "و-ع-د",
+      "root_latin": "W-A-D",
+      "buckwalter": "wEd",
+      "frequency": 151,
+      "unique_ayahs": 130,
+      "concept_label": "Va'd / Vaîd / Mevid / Mîâd (Geleceğe Bağlayıcı Söz-Hedef Kurma, Belirlenmiş Vade ve Yaptırım Uyarısı)",
+      "is_locked": true,
+      "sample_ayah": "2:51",
+      "top_lemmas": [
+        "waEada",
+        "waEod",
+        "m~awoEid"
+      ]
+    },
+    {
+      "rank": 75,
+      "root_arabic": "ب-ص-ر",
+      "root_latin": "B-S-R",
+      "buckwalter": "bSr",
+      "frequency": 148,
+      "unique_ayahs": 139,
+      "concept_label": "Basar / Basîret / İbsâr (Seçik Görme, Ayırt Edici İçgörü ve Kanıtla Fark Etme)",
+      "is_locked": true,
+      "sample_ayah": "2:7",
+      "top_lemmas": [
+        "baSiyr",
+        "baSar",
+        ">aboSara"
+      ]
+    },
+    {
+      "rank": 76,
+      "root_arabic": "ر-و-د",
+      "root_latin": "R-W-D",
+      "buckwalter": "rwd",
+      "frequency": 148,
+      "unique_ayahs": 120,
+      "concept_label": "İrâde / Murâvede / Ruveyd (Hedefe Yönelme, Meyletme, Çekerek Döndürmeye Çalışma ve Yumuşak Mühlet)",
+      "is_locked": true,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        ">araAda",
+        "ra`wadu",
+        "ruwayod"
+      ]
+    },
+    {
+      "rank": 77,
+      "root_arabic": "ل-ق-ي",
+      "root_latin": "L-K-Y",
+      "buckwalter": "lqy",
+      "frequency": 146,
+      "unique_ayahs": 135,
+      "concept_label": "Likā / İlkā / Telakkî / İltikā (Karşılaşma-Yüzleşme ve Önüne Bırakıp Ulaştırma)",
+      "is_locked": true,
+      "sample_ayah": "2:14",
+      "top_lemmas": [
+        ">aloqaY`^",
+        "liqaA^'",
+        "laqu"
+      ]
+    },
+    {
+      "rank": 78,
+      "root_arabic": "د-و-ن",
+      "root_latin": "D-W-N",
+      "buckwalter": "dwn",
+      "frequency": 144,
+      "unique_ayahs": 142,
+      "concept_label": "Dûn (Üst Sınırın Berisinde ve Altında Kalan, İkincil veya Dışındaki Konum)",
+      "is_locked": true,
+      "sample_ayah": "2:23",
+      "top_lemmas": [
+        "duwn"
+      ]
+    },
+    {
+      "rank": 79,
+      "root_arabic": "ن-ع-م",
+      "root_latin": "N-A-M",
+      "buckwalter": "nEm",
+      "frequency": 140,
+      "unique_ayahs": 128,
+      "concept_label": "Nimet / Naîm (Yumuşak Refah, Hoşluk ve İyilik Bahşı)",
+      "is_locked": true,
+      "sample_ayah": "1:7",
+      "top_lemmas": [
+        "niEomap",
+        "n~aEam",
+        "niEoma"
+      ]
+    },
+    {
+      "rank": 80,
+      "root_arabic": "س-ل-م",
+      "root_latin": "S-L-M",
+      "buckwalter": "slm",
+      "frequency": 140,
+      "unique_ayahs": 127,
+      "concept_label": "Selâm / Teslimiyet / Bütünlük (Kusurdan Arınma, Güvenlik, Barış ve İçten Adanma)",
+      "is_locked": true,
+      "sample_ayah": "2:71",
+      "top_lemmas": [
+        "sala`m",
+        "musolim",
+        ">asolama"
+      ]
+    },
+    {
+      "rank": 81,
+      "root_arabic": "د-ن-و",
+      "root_latin": "D-N-W",
+      "buckwalter": "dnw",
+      "frequency": 133,
+      "unique_ayahs": 128,
+      "concept_label": "Dünyâ / Dünuv (Yakınlaşan, Mesafece ve Zamanca En Yakın İlk Aşama)",
+      "is_locked": true,
+      "sample_ayah": "2:61",
+      "top_lemmas": [
+        "d~unoyaA",
+        ">adonaY`",
+        "daAniyap"
+      ]
+    },
+    {
+      "rank": 82,
+      "root_arabic": "ق-د-ر",
+      "root_latin": "K-D-R",
+      "buckwalter": "qdr",
+      "frequency": 132,
+      "unique_ayahs": 121,
+      "concept_label": "Kader / Kudret / Miktar (Ölçü Belirleme, Orantılı Planlama, Kapasite ve Güç)",
+      "is_locked": true,
+      "sample_ayah": "2:20",
+      "top_lemmas": [
+        "qadiyr",
+        "qadara",
+        "qad~ara"
+      ]
+    },
+    {
+      "rank": 83,
+      "root_arabic": "ن-ذ-ر",
+      "root_latin": "N-Z-R",
+      "buckwalter": "n*r",
+      "frequency": 130,
+      "unique_ayahs": 115,
+      "concept_label": "Nezr / İnzâr (Tehlikeyi Önceden Bildirerek Uyarma ve Bağlayıcı Adak Sorumluluğu)",
+      "is_locked": true,
+      "sample_ayah": "2:6",
+      "top_lemmas": [
+        "na*iyr",
+        ">an*ara",
+        "mun*ir"
+      ]
+    },
+    {
+      "rank": 84,
+      "root_arabic": "ج-م-ع",
+      "root_latin": "C-M-A",
+      "buckwalter": "jmE",
+      "frequency": 129,
+      "unique_ayahs": 123,
+      "concept_label": "Cem' / Cemî / İcmâ (Dağınık Parçaları Bir Araya Toplama, Birlik ve Kesin Bütünlük)",
+      "is_locked": true,
+      "sample_ayah": "2:29",
+      "top_lemmas": [
+        "jamiyE",
+        ">ajomaEiyn",
+        "jamaEa"
+      ]
+    },
+    {
+      "rank": 85,
+      "root_arabic": "ن-ظ-ر",
+      "root_latin": "N-Z-R",
+      "buckwalter": "nZr",
+      "frequency": 129,
+      "unique_ayahs": 115,
+      "concept_label": "Nazar / İntizâr (Dikkatle Bakıp İnceleme, Gözetleme ve Süre/Mühlet Tanıma)",
+      "is_locked": true,
+      "sample_ayah": "2:50",
+      "top_lemmas": [
+        "n~aZara",
+        "yunZaru",
+        "yantaZiru"
+      ]
+    },
+    {
+      "rank": 86,
+      "root_arabic": "س-أ-ل",
+      "root_latin": "S-E-L",
+      "buckwalter": "sAl",
+      "frequency": 129,
+      "unique_ayahs": 118,
+      "concept_label": "Suâl / Mes'ûliyet (Bilgi Öğrenmek İçin Sormak, İhtiyaç Talep Etmek ve Hesap Sorumluluğu)",
+      "is_locked": true,
+      "sample_ayah": "2:61",
+      "top_lemmas": [
+        "sa>ala",
+        "yatasaA^'alu",
+        "saA^}il"
+      ]
+    },
+    {
+      "rank": 87,
+      "root_arabic": "ط-و-ع",
+      "root_latin": "T-W-A",
+      "buckwalter": "TwE",
+      "frequency": 129,
+      "unique_ayahs": 118,
+      "concept_label": "Tav' / Tâat / İstitâat (Zorlanmadan Gönüllü Uyum, İçten Adanma ve İmkan-Güç Yetişi)",
+      "is_locked": true,
+      "sample_ayah": "2:158",
+      "top_lemmas": [
+        ">aTaAEa",
+        "{sotaTaAEa",
+        "TawoE"
+      ]
+    },
+    {
+      "rank": 88,
+      "root_arabic": "ع-ظ-م",
+      "root_latin": "A-Z-M",
+      "buckwalter": "EZm",
+      "frequency": 128,
+      "unique_ayahs": 127,
+      "concept_label": "Azîm / Azm / Ta'zîm (Kemik Gibi Sarsılmaz Yapısal Sağlamlık, Büyüklük ve Yüceltme)",
+      "is_locked": true,
+      "sample_ayah": "2:7",
+      "top_lemmas": [
+        "EaZiym",
+        ">aEoZam",
+        "EaZom"
+      ]
+    },
+    {
+      "rank": 89,
+      "root_arabic": "خ-ل-ف",
+      "root_latin": "H-L-F",
+      "buckwalter": "xlf",
+      "frequency": 127,
+      "unique_ayahs": 116,
+      "concept_label": "Hilâfet / İhtilâf / Halef (Arkasından Gelip Yerini Alma, Çeşitlenme ve Ters Düşme)",
+      "is_locked": true,
+      "sample_ayah": "2:30",
+      "top_lemmas": [
+        "{xotalafa",
+        "xalof",
+        ">axolafu"
+      ]
+    },
+    {
+      "rank": 90,
+      "root_arabic": "أ-ه-ل",
+      "root_latin": "E-H-L",
+      "buckwalter": "Ahl",
+      "frequency": 127,
+      "unique_ayahs": 120,
+      "concept_label": "Ehl / Ehliyet (Aynı Otağ-Evi Paylaşan Aile, Yerleşim Halkı ve İlkeye Lâyık/Mensup Olanlar)",
+      "is_locked": true,
+      "sample_ayah": "2:105",
+      "top_lemmas": [
+        ">ahol"
+      ]
+    },
+    {
+      "rank": 91,
+      "root_arabic": "د-خ-ل",
+      "root_latin": "D-H-L",
+      "buckwalter": "dxl",
+      "frequency": 126,
+      "unique_ayahs": 111,
+      "concept_label": "Duhûl / Müdhal / Dehâl (İçeri Girme, Sığınak Kovuğu ve Gizli İç Çürüme)",
+      "is_locked": true,
+      "sample_ayah": "2:58",
+      "top_lemmas": [
+        "daxala",
+        ">udoxila",
+        "m~udoxal"
+      ]
+    },
+    {
+      "rank": 92,
+      "root_arabic": "خ-و-ف",
+      "root_latin": "H-W-F",
+      "buckwalter": "xwf",
+      "frequency": 124,
+      "unique_ayahs": 112,
+      "concept_label": "Havf / Hîfe / Tehavvüf (Tehlike Beklentisinden Doğan Ürküntü, İç Çekince ve Kenardan Azaltma)",
+      "is_locked": true,
+      "sample_ayah": "2:38",
+      "top_lemmas": [
+        "xaAfa",
+        "xawof",
+        "xiyfap"
+      ]
+    },
+    {
+      "rank": 93,
+      "root_arabic": "ر-ز-ق",
+      "root_latin": "R-Z-K",
+      "buckwalter": "rzq",
+      "frequency": 123,
+      "unique_ayahs": 109,
+      "concept_label": "Rızık / Rezzâk (Zamanlı Tahsisat, Yaşam Payı ve Sürdürülebilir Geçim Kaynağı)",
+      "is_locked": true,
+      "sample_ayah": "2:3",
+      "top_lemmas": [
+        "razaqa",
+        "rizoq",
+        "r~a`ziqiyn"
+      ]
+    },
+    {
+      "rank": 94,
+      "root_arabic": "ب-ش-ر",
+      "root_latin": "B-S-R",
+      "buckwalter": "b$r",
+      "frequency": 123,
+      "unique_ayahs": 119,
+      "concept_label": "Beşer / Bişâret / Mübâşeret (Dış Deri/Ten, Ölümlü İnsan ve Yüzü Parlatan Müjde)",
+      "is_locked": true,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "bu$~ira",
+        "ba$ar",
+        "bu$oraY`"
+      ]
+    },
+    {
+      "rank": 95,
+      "root_arabic": "ي-د-ي",
+      "root_latin": "Y-D-Y",
+      "buckwalter": "ydy",
+      "frequency": 120,
+      "unique_ayahs": 110,
+      "concept_label": "Yed / Eydî (Organ Olarak El, Yetki Tasarrufu ve Ön-Zaman Yönelimi)",
+      "is_locked": true,
+      "sample_ayah": "2:66",
+      "top_lemmas": [
+        "yad"
+      ]
+    },
+    {
+      "rank": 96,
+      "root_arabic": "أ-م-م",
+      "root_latin": "E-M-M",
+      "buckwalter": "Amm",
+      "frequency": 119,
+      "unique_ayahs": 108,
+      "concept_label": "Ümm / Ümmet / İmâm (Yönelinen Ana Kaynak, Anne, Ortak Yönlü Topluluk ve Öncü)",
+      "is_locked": true,
+      "sample_ayah": "2:78",
+      "top_lemmas": [
+        ">um~ap",
+        ">um~",
+        "<imaAm"
+      ]
+    },
+    {
+      "rank": 97,
+      "root_arabic": "ع-ز-ز",
+      "root_latin": "A-Z-Z",
+      "buckwalter": "Ezz",
+      "frequency": 119,
+      "unique_ayahs": 116,
+      "concept_label": "İzzet / Azîz (Sarsılmaz Sağlamlık, Yenilmez Üstünlük ve Eşsiz Değerlilik)",
+      "is_locked": true,
+      "sample_ayah": "2:129",
+      "top_lemmas": [
+        "Eaziyz",
+        "Eiz~ap",
+        ">aEaz~"
+      ]
+    },
+    {
+      "rank": 98,
+      "root_arabic": "ج-ز-ي",
+      "root_latin": "C-Z-Y",
+      "buckwalter": "jzy",
+      "frequency": 118,
+      "unique_ayahs": 109,
+      "concept_label": "Cezâ / Mücâzât (Yerine Geçip Kefil Olma, Birebir Denklik ve Eylem Karşılığı)",
+      "is_locked": true,
+      "sample_ayah": "2:48",
+      "top_lemmas": [
+        "jazaY`",
+        "jazaA^'",
+        "jizoyap"
+      ]
+    },
+    {
+      "rank": 99,
+      "root_arabic": "أ-ب-و",
+      "root_latin": "E-B-W",
+      "buckwalter": "Abw",
+      "frequency": 117,
+      "unique_ayahs": 104,
+      "concept_label": "Eb / Ebevân / Âbâ (Baba, Anne-Baba Birliği, Atalar ve Taklit-Soy Hukuku)",
+      "is_locked": true,
+      "sample_ayah": "2:133",
+      "top_lemmas": [
+        "A^baA'",
+        ">abN",
+        ">abawaAn"
+      ]
+    },
+    {
+      "rank": 100,
+      "root_arabic": "ن-ه-ر",
+      "root_latin": "N-H-R",
+      "buckwalter": "nhr",
+      "frequency": 113,
+      "unique_ayahs": 102,
+      "concept_label": "Nehir / Nehâr (Yatağı Yarıp Akma, Aydınlık Gündüz ve Taşkınca Azarlama)",
+      "is_locked": true,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "nahaAr",
+        "nahar",
+        "tanoharo"
+      ]
+    }
+  ]
+}

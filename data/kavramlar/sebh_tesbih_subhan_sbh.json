@@ -1,0 +1,1946 @@
+{
+  "root": "س-ب-ح",
+  "root_latin": "S-B-H (sbH)",
+  "concept_name": "Sebh / Tesbîh / Sübhân (Engin Akışta Yörüngede Yüzme ve Kusursuz Aşkınlığa Uzaklaştırma)",
+  "rank": 122,
+  "total_occurrences": 92,
+  "unique_ayahs_count": 87,
+  "unified_core_mechanism": "Kökün `92` geçişlik tamamı iki fizikî-anlamsal direğin birbirini beslemesiyle örülür: (1) Suda veya boşlukta kesintisiz yüzüp akmak (`يَسْبَحُونَ` `21:33`, `36:40`; `سَبْحًا` `73:7`, `79:3`; `وَٱلسَّٰبِحَٰتِ` `79:3`). (2) Kendi yörüngesinde şaşmadan akarak Yüce Yaratıcıyı her türlü durağanlıktan, kusurdan ve yakışıksız isnatlardan hızla uzak ve arı tutmak (`تَنْزِيه`: `سُبْحَٰنَ` `41` kez ve II. bab `سَبَّحَ / يُسَبِّحُ` `42` kez). Yedi Müsebbihât suresi (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`) tüm evreni bu durmaksızın işleyen dinamik uyumun öznesi kılar; `7:206`, `21:20` ve `41:38`de ise bıkmadan ve kibirlenmeden süren devamlılık ilkesiyle kilitlenir.",
+  "physical_core": "Suda veya havada kesintisiz kayıp akarak hızla ilerlemek ve bu akış gücüyle bir şeyi tüm pürüzlerden, durağanlıktan ve yakışıksız sınırlandırmalardan arındırıp uzaklaştırmak (`ٱلْجَرْيُ ٱلسَّرِيعُ فِي ٱلْمَاءِ أَوِ ٱلْهَوَاءِ وَٱلتَّبْعِيدُ عَنْ كُلِّ سُوءٍ`). Güneş ve ayın kendi yörüngelerinde kesintisiz yüzmesi (`فِى فَلَكٍ يَسْبَحُونَ` `21:33`, `36:40`), gündüzün yoğun koşuşturma akışı (`سَبْحًا طَوِيلًا` `73:7`), süzülüp akan görevliler (`وَٱلسَّٰبِحَٰتِ سَبْحًا` `79:3`) ve bütün gökler ile yerin kendi yaratılış rotasında akarak Yaratıcıyı her eksiklikten arındırması (`يُسَبِّحُ / سُبْحَٰنَ` `87` geçiş) bu tek 'kesintisiz yörünge akışı ve arındırarak uzak tutma' çekirdeğinden doğar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `sin-ba-ha (سبح)` kökünü iki yakın sütuna bağlar: (1) Suda yüzmek ve atın rüzgâr gibi akarcasına koşması (`es-sebh ve's-sibâha / es-sâbih`), (2) Her türlü çirkinlik ve eksiklikten uzak tutmak (`et-tenzîh ve't-teb'îd`). Arapçadaki `سُبْحَانَ مِنْ كَذَا` deyiminin de 'ondan ne kadar uzak ve berî!' anlamını verdiğini kaydeder.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) bu iki sütunu tek mekaniğe birleştirir: `السَّبْح` temelde su veya boşluk içinde süratle ilerleyip gitmektir; gök cisimlerinin yörünge akışından (`21:33`, `36:40`), gündüz koşuşturmasından (`73:7`) ve Yaratıcıyı yanlış tasvirlerden hızla uzak tutup kendi görev akışını sürdürmekten (`يُسَبِّحُ لِلَّهِ`) doğan tüm anlamlar buradan kaynaklanır.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `السَّابِح` kavramını işinde kesintisiz ve gayretle ilerleyen kimse diye tanımlar; `تَسْبِيح`in ise durağan sözlü tekrardan önce varlığın Yaratıcıyı her noksanlıktan uzak tutan şuurlu ve kozmik hareketi olduğunu belgeler.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `92` geçiş 'kendi yörüngesinde pürüzsüz akmak ve bu akışla Yaratıcıyı her eksiklikten, ortaktan ve batıl nitelemeden uzak tutmak' mekaniğinde kenetlenir. Böylece `21:33` ve `36:40`taki gök yüzüşü, `73:7`deki gündüz çalışma akışı, `17:44`teki bütün eşyanın canlı tepkisi (`وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ`) ve `41` kez tekrarlanan `سُبْحَٰنَ` arındırma haykırışı aynı kökün ayrılmaz halkalarını oluşturur."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "Aramca ve Süryanicede `שַׁבַּח / ܫܰܒܰܚ` (*šabbaḥ*, CAL Pa'el: 'yüceltmek, övgüyle anmak, arındırmak') Arapçadaki II. bab `سَبَّحَ` (*sabbaḥa*) fiiliyle biçim ve işlevce doğrudan örtüşür.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `שָׁבַח` (*šābaḥ* / Pi'el *šibbēaḥ*, BDB: 'yüceltmek, övmek' — örn. Mezmur 117:1; ayrıca dalgaları yatıştırıp durultmak — Mezmur 65:8) paralellik taşır (esir almak anlamındaki `שָׁבָה` *šābāh* ise farklı köktür).",
+    "ethiopic_and_akkadian": "Eski Etiyopça Geez `sabbaḥa` (*Leslau CDG*: 'yüceltmek, övgü sunmak') Güney Semitik halkayı sürdürür; Doğu Semitik (Akadca) ise aynı anlam alanı için başka kökler (`dalālu / nâdu`) kullanır.",
+    "phonological_note": "Semitik `Proto-Sami *š > Arapça s / Geez s / Aramca-İbranice š` ses yasası uyarınca kök, İbranice ve Aramcada `š-b-ḥ` (`ש-ב-ח`), Arapça ve Geez'de `s-b-ḥ` (`س-ب-ح`) biçiminde yansır. Arapça buna ek olarak I. babdaki somut fizikî 'su ve uzay içinde yüzme/akma' (`يَسْبَحُونَ`, `سَبْحًا`) çekirdeğini canlı biçimde korumuştur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ت-ر / س-ء-م / ك-ب-ر (`إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ` `7:206`; `يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ` `21:20`; `وَهُمْ لَا يَسْـَٔمُونَ` `41:38` — Yılmadan ve Bıkmadan Süren Akış vs Büyüklük Taslama `ٱسْتَكْبَرَ`, Gevşeme `فَتَرَ` ve Usanma `سَئِمَ`)",
+      "و-ص-ف / ش-ر-ك (`سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ` `23:91`, `37:159,180`; `سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ` `10:18`, `16:1`, `30:40`, `52:43` — Her Eksiklikten Uzak Tutma `سُبْحَٰنَ` vs Yaratıcıya Yakışıksız Nitelik ve Ortak Yakıştırma `يَصِفُونَ / يُشْرِكُونَ`)"
+    ],
+    "key_ayahs": [
+      "2:30",
+      "2:116",
+      "7:206",
+      "13:13",
+      "17:1",
+      "17:44",
+      "17:93",
+      "20:33",
+      "20:130",
+      "21:20",
+      "21:33",
+      "21:79",
+      "21:87",
+      "23:91",
+      "24:41",
+      "30:17",
+      "32:15",
+      "36:40",
+      "37:143",
+      "37:159",
+      "39:75",
+      "41:38",
+      "57:1",
+      "62:1",
+      "68:28",
+      "73:7",
+      "76:26",
+      "79:3",
+      "87:1",
+      "110:3"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`س-ب-ح` kendi yörüngesinde bıkmadan yüzüp akmak ve Yaratıcıyı her noksanlıktan uzak tutmak ise zıddı nedir?' Cevap: (1) Kozmik ve görev akışı düzeyinde karşıtları Kur'an'da aynı ayetlerde verilir: kibirlenip durağanlaşmak (`لَا يَسْتَكْبِرُونَ` `7:206`, `32:15`), gevşeyip durmak (`لَا يَفْتُرُونَ` `21:20`) ve bıkıp usanmaktır (`لَا يَسْـَٔمُونَ` `41:38`). (2) İnanç ve nitelik düzeyinde ise `سُبْحَٰنَ` kavramının `14`+ ayette doğrudan karşısına konan eylem `عَمَّا يَصِفُونَ / عَمَّا يُشْرِكُونَ` ('Yaratıcıya çocuk, eş veya acizlik yakıştırıp ortak koşmak') fiilleridir (`6:100`, `23:91`, `37:159`)."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`نُسَبِّحُ بِحَمْدِكَ` (`Yaratıcıyı her noksanlıktan uzak tutarak varlık akışında görev yapmak`) vs `نُقَدِّسُ لَكَ` (`Arı kılıp kutsiyetini gözetmek`) — `2:30`",
+      "`سَبْحًا طَوِيلًا` (`Gündüz boyunca süren yoğun hareket ve iş akışı` `73:7`) vs `وَسَبِّحْهُ لَيْلًا طَوِيلًا` (`Gece boyu içsel arındırma ve yöneliş` `76:26`)",
+      "`صَلَاتَهُۥ` (`Her canlı varlığın Yaratıcıya dönük özel bağlantı rotası`) vs `تَسْبِيحَهُۥ` (`O varlığın arındırıcı kozmik akışı`) — `24:41`",
+      "`تُسَبِّحُ ... يُسَبِّحُ ... تَسْبِيحَهُمْ` (`Tek ayette `3` geçişle evrenin aktif tenzihi ve insanın kavrayamadığı dil`) — `17:44`"
+    ],
+    "mechanical_difference": "1) `24:41` ayeti tek cümlede evrensel iki kavramı ayırır: `كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ` — `صَلَاة` her varlığın merkeze bağlı kalma kanalını, `تَسْبِيح` ise hiç durmadan görev akışında kalarak Yaratıcıyı noksanlıktan tenzih etmesini gösterir. 2) `2:30`da `نُسَبِّحُ` aktif hareketle eksiklikten arındırmayı, `نُقَدِّسُ` ise lekesiz arılığı korumayı belirtir. 3) `21:33` ve `36:40`ta I. bab `يَسْبَحُونَ` doğrudan güneş-ay hareketini ('yörünge yüzüşü') verirken, `17:44` ve `57:1`de II. bab `تُسَبِّحُ / سَبَّحَ` bütün kozmosun bu kusursuz işleyişle Yaratıcıyı yüceltmesini dile getirir. 4) `73:7`deki `سَبْحًا طَوِيلًا` (gündüz iş yoğunluğu) ile `76:26`daki `وَسَبِّحْهُ لَيْلًا طَوِيلًا` (gece arındırması) günlük döngünün iki yarısını dengeler."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "21:33 & 36:40 & 73:7 & 79:3",
+      "role": "Fiziksel Yüzme, Yörünge Akışı ve Hareket Çapası (`يَسْبَحُونَ` & `سَبْحًا` & `وَٱلسَّٰبِحَٰتِ`)",
+      "literal_meaning": "'Güneş ve ay her biri kendi yörüngesinde yüzüp akar (`فِى فَلَكٍ يَسْبَحُونَ` `21:33`, `36:40`)', 'gündüz senin için uzun bir iş ve hareket akışı vardır (`سَبْحًا طَوِيلًا` `73:7`)' ve 'hızla yüzüp süzülenlere ant olsun (`وَٱلسَّٰبِحَٰتِ سَبْحًا` `79:3`).'"
+    },
+    {
+      "ref": "17:44 & 24:41 & 13:13 & 21:79 & 38:18",
+      "role": "Evrensel Varlık Akışı ve Canlıların Tenzih Dili Çapası (`تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ` / `تَسْبِيحَهُمْ`)",
+      "literal_meaning": "'Yedi gök, yer ve içindekiler O'nu noksandan arındırır; övgüyle akıp yüceltmeyen hiçbir şey yoktur ama siz onların arındırma dilini kavramazsınız (`17:44`, `24:41`, `13:13`, `21:79`, `38:18`).'"
+    },
+    {
+      "ref": "57:1 & 59:1 & 61:1 & 62:1 & 64:1 & 87:1 & 17:1",
+      "role": "Yedi Müsebbihât Suresi Açılış Çapası (`سَبَّحَ` / `يُسَبِّحُ` / `سَبِّحِ` / `سُبْحَٰنَ`)",
+      "literal_meaning": "'Göklerde ve yerde olan her şey O'nu noksanlıktan arındırmıştır/arındırır (`57:1`, `59:1`, `61:1`, `62:1`, `64:1`)', 'en yüce Rabbinin adını arındır (`87:1`)' ve 'kulunu gece yürüten noksandan arıdır (`17:1`).'"
+    },
+    {
+      "ref": "2:116 & 6:100 & 17:93 & 21:22,87 & 23:91 & 37:159",
+      "role": "Yanlış Yakıştırmalardan Arındırma Haykırışı (`سُبْحَٰنَ` `41` Geçiş)",
+      "literal_meaning": "'Oğul/kız ve ortak yakıştırmalarından arı ve uzaktır (`2:116`, `6:100`, `21:22`, `23:91`, `37:159`)', 'Rabbim arıdır, ben ancak elçi bir insanım (`سُبْحَانَ رَبِّى` `17:93` — tam elifli tek yazım)' ve 'Yûnus'un karanlıklar içindeki itirafı (`سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ` `21:87`).'"
+    },
+    {
+      "ref": "3:41 & 20:130 & 37:143 & 50:39-40 & 68:28 & 110:3",
+      "role": "Zaman Halkaları ve Kriz Anı Arınma Çapası (`وَسَبِّحْ بِحَمْدِ رَبِّكَ`)",
+      "literal_meaning": "'Güneşin doğuşu ve batışı öncesinde, gecenin saatlerinde arındır (`20:130`, `50:39-40`, `52:48-49`)', 'balığın karnında arındıranlardan olmasaydı (`37:143`)' ve 'açılım ve zafer geldiğinde bağışlanma dileyip hamdle arındır (`110:3`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Sağlam (sâlim) yapılı `س-ب-ح` kökü I. babda yalnız iki geçişle (`يَسْبَحُونَ` `21:33`, `36:40`) kozmik yüzmeyi anlatır; diğer tüm `42` fiil (`18` emir, `19` muzârî, `4` mâzî) tekil-kozmik ve şuurlu arındırmayı veren II. bab (`سَبَّحَ - يُسَبِّحُ`) kalıbındadır. 2) `سُبْحَٰنَ` (`41 N`) daima gayr-ı munsarif (`فُعْلَان` kalıbında tenvinsiz) ve irâbda gizli fiilin `أُسَبِّحُ` mef'ûl-i mutlakı olarak mansûb gelir (`سُبْحَٰنَ ٱللَّهِ`, `سُبْحَٰنَكَ`, `سُبْحَٰنَهُۥ`). 3) Benzersiz Rasm-ı Osmânî kuralı: Kur'an'daki `41` `سُبْحَٰنَ` geçişinin **tam `40` tanesinde** `ح` ile `ن` arasındaki elif yazıda hazfedilerek `سبحن / سبحنك / سبحنه / فسبحن` şeklinde yazılmıştır; **yalnız tek ayette — İsrâ `17:93` (`قُلْ سُبْحَانَ رَبِّى`) — tam elifle `سبحان` yazılmıştır!** 4) `73:7`deki `سَبْحًا طَوِيلًا` sözcüğü şaz kıraatte `ح` yerine `خ` ile `سَبْخًا` ('hafifleme/genişlik') okunmuşsa da mütevâtir cumhur kıraatinde kesintisiz iş akışı anlamıyla `سَبْحًا`dır. `4` ayette tekrarlı geçer (`17:44`te `3` kez; `20:130`, `24:41`, `79:3`te `2`şer kez) ve `30` ayrı Rasm yazımı sunar.",
+  "derivatives": {
+    "سَبَّحَ - يُسَبِّحُ (`42 V` II. bab) & مُسَبِّحُون (`2 N`) & تَسْبِيح (`2 N`)": "Göklerin, yerin, gök gürültüsünün, dağların, kuşların ve şuurlu varlıkların Yüce Yaratıcıyı her noksanlıktan uzak tutup övgüyle akması (`17:44`, `24:41`, `57:1`, `62:1`, `87:1`, `37:143,166`)",
+    "سُبْحَٰنَ (`41 N` mef'ûl-i mutlak mansûb)": "'Her türlü kusurdan, çocuk/eş ve ortak yakıştırmasından tamamen uzak ve berîdir' anlamında arındırma beyanı (`17:1`, `21:87`, `23:91`, `37:159`, `17:93` tam elifli)",
+    "يَسْبَحُونَ (`2 V` I. bab `21:33`, `36:40`) & سَٰبِحَٰت (`1 N` `79:3`)": "Güneş, ay ve kozmik cisimlerin kendi yörüngelerinde kesintisiz yüzüp süzülmesi",
+    "سَبْحًا (`2 N`: `73:7`, `79:3`)": "Gündüzdeki yoğun çalışma ve hareket akışı (`73:7`) ile hızla süzülüş mastarı (`79:3`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 30,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:30",
+      "word_position": 19,
+      "target_word_uthmani": "نُسَبِّحُ",
+      "target_word_rasm": "نسبح",
+      "target_word_literal_irab": "Seni aşkınlıkla anarız / arındırırız (`نُسَبِّحُ`, II. bab muzârî merfû, 1. çoğul)",
+      "context_snippet_arabic": "وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin kozmik görevlilere \"Ben yeryüzünde bir halife var edeceğim\" demişti; kozmik görevliler, \"Orada bozgunculuk yapacak, kanlar akıtacak birini mi var edeceksin? Oysa biz Seni överek yüceltiyor ve Seni devamlı takdis ediyoruz\" dediler; ...",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin kozmik görevlilere \"Ben yeryüzünde bir halife var edeceğim\" demişti; kozmik görevliler, \"Orada bozgunculuk yapacak, kanlar akıtacak birini mi var edeceksin? Oysa biz Seni överek yüceltiyor ve Seni devamlı takdis ediyoruz\" dediler; Allah \"Ben şüphesiz sizin bilmediklerinizi bilirim\" dedi.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 2,
+      "ayah": 32,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:32",
+      "word_position": 2,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ سُبْحَٰنَكَ لَا عِلْمَ لَنَآ",
+      "context_snippet_turkish_tabula_rasa": "Cevap verdiler: \"Sen münezzehsin, öğrettiğinden başka bizim bir bilgimiz yoktur. Şüphesiz Sen hem bilensin, hem Hakim'sin\".",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Cevap verdiler: \"Sen münezzehsin, öğrettiğinden başka bizim bir bilgimiz yoktur. Şüphesiz Sen hem bilensin, hem Hakim'sin\".",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 2,
+      "ayah": 116,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:116",
+      "word_position": 5,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ بَل لَّهُۥ مَا",
+      "context_snippet_turkish_tabula_rasa": "\"Allah oğul edindi\" dediler; haşa, oysa, göklerde ve yerde olanlar O'nundur. Hepsi O'na boyun eğmişlerdir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ كُلٌّ لَّهُۥ قَٰنِتُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah oğul edindi\" dediler; haşa, oysa, göklerde ve yerde olanlar O'nundur. Hepsi O'na boyun eğmişlerdir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 3,
+      "ayah": 41,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:41",
+      "word_position": 18,
+      "target_word_uthmani": "وَسَبِّحْ",
+      "target_word_rasm": "وسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ya Rabbi! Bana bir alamet ver\" dedi, \"Alametin, üç gün, işaretle anlaşma dışında insanlarla konuşmamandır; Rabbini çok an, akşam sabah hamd et\" dedi.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًا وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ya Rabbi! Bana bir alamet ver\" dedi, \"Alametin, üç gün, işaretle anlaşma dışında insanlarla konuşmamandır; Rabbini çok an, akşam sabah hamd et\" dedi.",
+      "contextual_meaning": "Bireysel ve toplumsal özeleştiri/yöneliş (`3:41`, `19:11`, `20:33`, `68:28-29`): Zekeriyya'ya sabah akşam tesbîh işareti (`3:41`, `19:11`), Musa ve Harun'un çokça anma talebi (`20:33`), bahçe sahiplerinin hatalarını fark edince Rabb'i aşkın ilan etmesi (`68:28-29`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 191,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:191",
+      "word_position": 18,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar ayakta iken, otururken, yan yatarken Allah'ı anarlar; göklerin ve yerin yaratılışını düşünürler: \"Rabbimiz! Sen bunu boşuna yaratmadın, Sen münezzehsin. B...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar ayakta iken, otururken, yan yatarken Allah'ı anarlar; göklerin ve yerin yaratılışını düşünürler: \"Rabbimiz! Sen bunu boşuna yaratmadın, Sen münezzehsin. Bizi ateşin azabından koru\"",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 4,
+      "ayah": 171,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:171",
+      "word_position": 39,
+      "target_word_uthmani": "سُبْحَٰنَهُۥٓ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ey Kitap ehli! yaşam sisteminizde taşkınlık etmeyin. Allah hakkında ancak gerçeği söyleyin. ...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Kitap ehli! yaşam sisteminizde taşkınlık etmeyin. Allah hakkında ancak gerçeği söyleyin. Meryem oğlu İsa Mesih, Allah'ın elçiyi, Meryem'e ulaştırdığı kelimesi ve kendinden bir canlandırıcı hayat ve vahiy özüdür. Allah'a ve elçilerine güvene erin, \"üçtür\" demeyin, vazgeçin, bu hayrınızadır. Allah ancak bir tek sığınak mercii (ilâh)'dır, çocuğu olmaktan münezzehtir, göklerde olanlar da yerde olanlar da O'nundur. Vekil olarak Allah yeter.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 5,
+      "ayah": 116,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:116",
+      "word_position": 17,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "دُونِ ٱللَّهِ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Allah, \"Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki sığınak mercii (ilâh) olarak benimseyin dedin?\" demişti de, \"Haşa, hak olmayan s...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \"Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki sığınak mercii (ilâh) olarak benimseyin dedin?\" demişti de, \"Haşa, hak olmayan sözü söylemek bana yaraşmaz; eğer söylemişsem, şüphesiz Sen onu bilirsin; Sen, benim içimde olanı bilirsin; ben Senin içinde olanı bilmem; doğrusu görülmeyeni bilen ancak Sensin\" demişti, \"Ben onlara sadece 'Rabbim ve Rabbiniz olan Allah'a kulluk edin' diye bana emrettiğini söyledim. Aralarında bulunduğum müddetce onlar hakkında şahiddim, beni aralarından aldığında onları Sen gözlüyordun. Sen her şeye şahidsin.\"",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 6,
+      "ayah": 100,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:100",
+      "word_position": 12,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "وَبَنَٰتٍۭ بِغَيْرِ عِلْمٍ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "görünmeyen bilinçli varlıkları O yaratmışken gerçeğin üzerini örtenler Allah'a ortak koştular. Körü körüne O'na oğullar ve kızlar uydurdular. Haşa, O onların va...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ ٱلْجِنَّ وَخَلَقَهُمْ وَخَرَقُوا۟ لَهُۥ بَنِينَ وَبَنَٰتٍۭ بِغَيْرِ عِلْمٍ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "görünmeyen bilinçli varlıkları O yaratmışken gerçeğin üzerini örtenler Allah'a ortak koştular. Körü körüne O'na oğullar ve kızlar uydurdular. Haşa, O onların vasıflandırmalarından yücedir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 7,
+      "ayah": 143,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:143",
+      "word_position": 36,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: \"Sen Beni göremezsin ama dağa bak, eğ...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: \"Sen Beni göremezsin ama dağa bak, eğer o yerinde kalırsa sen de Beni göreceksin\" buyurdu. Rabbi dağa tecelli edince onu yerlebir etti ve Musa da baygın düştü; ayılınca: \"Yarabbi, münezzehsin, Sana tevbe ettim, ben güvene erenlerin ilkiyim\" dedi.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 7,
+      "ayah": 206,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:206",
+      "word_position": 9,
+      "target_word_uthmani": "وَيُسَبِّحُونَهُۥ",
+      "target_word_rasm": "ويسبحونه",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar (`يُسَبِّحُونَ / وَيُسَبِّحُونَهُۥ`, II. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Rabbinin katında olanlar, O'na kulluk etmekten büyüklenmezler, O'nu tenzih ederler ve yalnız O'na boyun eğme ve teslimiyet ederler.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Rabbinin katında olanlar, O'na kulluk etmekten büyüklenmezler, O'nu tenzih ederler ve yalnız O'na boyun eğme ve teslimiyet ederler.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 9,
+      "ayah": 31,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:31",
+      "word_position": 21,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "إِلَٰهَ إِلَّا هُوَ سُبْحَٰنَهُۥ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar Allah'ı bırakıp hahamlarını, papazlarını ve Meryem oğlu Mesih'i rableri olarak kabul ettiler. Oysa tek sığınak mercii (ilâh)'dan başkasına kulluk etmemekl...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱتَّخَذُوٓا۟ أَحْبَارَهُمْ وَرُهْبَٰنَهُمْ أَرْبَابًا مِّن دُونِ ٱللَّهِ وَٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوٓا۟ إِلَٰهًا وَٰحِدًا لَّآ إِلَٰهَ إِلَّا هُوَ سُبْحَٰنَهُۥ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Allah'ı bırakıp hahamlarını, papazlarını ve Meryem oğlu Mesih'i rableri olarak kabul ettiler. Oysa tek sığınak mercii (ilâh)'dan başkasına kulluk etmemekle emrolunmuşlardı. Ondan başka sığınak mercii (ilâh) yoktur. Allah, koştukları eşlerden münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 10,
+      "ayah": 10,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:10",
+      "word_position": 3,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Oradaki duaları: \"Münezzehsin ey Allah'ım\", dirlik temennileri: \"Selam size\" ve dualarının sonu da: \"Alemlerin Rabbi Allah'a hamd olsun\"dur.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَٰمٌ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oradaki duaları: \"Münezzehsin ey Allah'ım\", dirlik temennileri: \"Selam size\" ve dualarının sonu da: \"Alemlerin Rabbi Allah'a hamd olsun\"dur.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 10,
+      "ayah": 18,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:18",
+      "word_position": 26,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "وَلَا فِى ٱلْأَرْضِ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Allah'ı bırakarak, kendilerine fayda da zarar da veremeyen putlara taparlar: \"Bunlar, Allah katında bizim şefaatçılarımızdır\" derler. De ki: \"Göklerde ve...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِ قُلْ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعْلَمُ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Allah'ı bırakarak, kendilerine fayda da zarar da veremeyen putlara taparlar: \"Bunlar, Allah katında bizim şefaatçılarımızdır\" derler. De ki: \"Göklerde ve yerde, Allah'ın bilmediği bir şeyi mi O'na haber veriyorsunuz?\" Allah, onların ortak koşmalarından münezzeh ve yücedir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 10,
+      "ayah": 68,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:68",
+      "word_position": 5,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ هُوَ ٱلْغَنِىُّ لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah çocuk edindi\" dediler; haşa; O müstağnidir; göklerde ve yerde olanlara sahiptir. Elinizde, onun çocuk edindiğine dair bir delil yoktur, bilmediğiniz şeyi...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ هُوَ ٱلْغَنِىُّ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah çocuk edindi\" dediler; haşa; O müstağnidir; göklerde ve yerde olanlara sahiptir. Elinizde, onun çocuk edindiğine dair bir delil yoktur, bilmediğiniz şeyi Allah'a karşı nasıl söylüyorsunuz?",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 12,
+      "ayah": 108,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:108",
+      "word_position": 12,
+      "target_word_uthmani": "وَسُبْحَٰنَ",
+      "target_word_rasm": "وسبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "أَنَا۠ وَمَنِ ٱتَّبَعَنِى وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Benim yolum budur; ben ve bana uyanlar bilerek insanları Allah'a çağırırız. Allah'ı noksan sıfatlardan tenzih ederim. Ben asla Allah'a eş koşanlardan de...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Benim yolum budur; ben ve bana uyanlar bilerek insanları Allah'a çağırırız. Allah'ı noksan sıfatlardan tenzih ederim. Ben asla Allah'a eş koşanlardan değilim.\"",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 13,
+      "ayah": 13,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:13",
+      "word_position": 1,
+      "target_word_uthmani": "وَيُسَبِّحُ",
+      "target_word_rasm": "ويسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ",
+      "context_snippet_turkish_tabula_rasa": "O'nu, gök gürlemesi hamd ile, kozmik görevliler de korkularından tesbih ederler. Onlar pek kuvvetli olan Allah hakkında çekişirken, O, yıldırımları gönderir de onlarla dilediğini çarpar.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "O'nu, gök gürlemesi hamd ile, kozmik görevliler de korkularından tesbih ederler. Onlar pek kuvvetli olan Allah hakkında çekişirken, O, yıldırımları gönderir de onlarla dilediğini çarpar.",
+      "contextual_meaning": "Doğa unsurlarının tesbîh eşliği (`13:13`, `21:79`, `38:18`): Gök gürültüsünün hamd ile yönelişi (`13:13`) ve dağlar ile kuşların Davud'a uyumla eşlik etmesi (`21:79`, `38:18`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 98,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:98",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَبِّحْ",
+      "target_word_rasm": "فسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن",
+      "context_snippet_turkish_tabula_rasa": "Rabbini hamd ile an, boyun eğenlerden ol ve ölünceye kadar Rabbine kulluk et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbini hamd ile an, boyun eğenlerden ol ve ölünceye kadar Rabbine kulluk et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 16,
+      "ayah": 1,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:1",
+      "word_position": 6,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın buyruğu gelecektir; acele gelmesini istemeyin, Allah, ortak koştukları şeylerden münezzehtir, yücedir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın buyruğu gelecektir; acele gelmesini istemeyin, Allah, ortak koştukları şeylerden münezzehtir, yücedir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 16,
+      "ayah": 57,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:57",
+      "word_position": 4,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "وَيَجْعَلُونَ لِلَّهِ ٱلْبَنَٰتِ سُبْحَٰنَهُۥ وَلَهُم مَّا يَشْتَهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Beğendikleri erkek çocukları kendilerine; kızları da Allah'a malediyorlar. O bundan münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَجْعَلُونَ لِلَّهِ ٱلْبَنَٰتِ سُبْحَٰنَهُۥ وَلَهُم مَّا يَشْتَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Beğendikleri erkek çocukları kendilerine; kızları da Allah'a malediyorlar. O bundan münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 17,
+      "ayah": 1,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:1",
+      "word_position": 1,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi ...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 17,
+      "ayah": 43,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:43",
+      "word_position": 1,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, onların söylediklerinden Münezzeh'tir, Yüce'dir, Ulu'dur.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O, onların söylediklerinden Münezzeh'tir, Yüce'dir, Ulu'dur.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 17,
+      "ayah": 44,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:44",
+      "word_position": 1,
+      "target_word_uthmani": "تُسَبِّحُ",
+      "target_word_rasm": "تسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / kusurdan uzak tutar (`تُسَبِّحُ`, II. bab muzârî merfû, 3. tekil dişil)",
+      "context_snippet_arabic": "تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ",
+      "context_snippet_turkish_tabula_rasa": "Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder; O'nu hamd ile tesbih etmeyen hiçbir şey yoktur; ...",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3FS"
+      },
+      "ayah_text_arabic_full": "تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder; O'nu hamd ile tesbih etmeyen hiçbir şey yoktur; fakat siz onların tesbihlerini anlamazsınız. Doğrusu O Halim olandır, Bağışlayan'dır.",
+      "contextual_meaning": "Yedi gök, yer ve canlıların kendilerine özgü tesbîhi (`17:44`, `24:41`): Her varlık ve saf saf uçan kuşlar kendi işleyiş yasası içinde Allah'ı aşkınlığıyla anar; insan ise onların bu `تَسْبِيح` dilini kavrayamaz."
+    },
+    {
+      "surah": 17,
+      "ayah": 44,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:44",
+      "word_position": 12,
+      "target_word_uthmani": "يُسَبِّحُ",
+      "target_word_rasm": "يسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا",
+      "context_snippet_turkish_tabula_rasa": "Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder; O'nu hamd ile tesbih etmeyen hiçbir şey yoktur; ...",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder; O'nu hamd ile tesbih etmeyen hiçbir şey yoktur; fakat siz onların tesbihlerini anlamazsınız. Doğrusu O Halim olandır, Bağışlayan'dır.",
+      "contextual_meaning": "Yedi gök, yer ve canlıların kendilerine özgü tesbîhi (`17:44`, `24:41`): Her varlık ve saf saf uçan kuşlar kendi işleyiş yasası içinde Allah'ı aşkınlığıyla anar; insan ise onların bu `تَسْبِيح` dilini kavrayamaz."
+    },
+    {
+      "surah": 17,
+      "ayah": 44,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:44",
+      "word_position": 17,
+      "target_word_uthmani": "تَسْبِيحَهُمْ",
+      "target_word_rasm": "تسبيحهم",
+      "target_word_literal_irab": "Aşkınlıkla arındırma / tesbîh okuyuşu (`تَسْبِيحَهُمْ / وَتَسْبِيحَهُۥ`, II. bab mastar mansûb + zamir)",
+      "context_snippet_arabic": "وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder; O'nu hamd ile tesbih etmeyen hiçbir şey yoktur; ...",
+      "morphology": {
+        "lemma": "tasobiyH",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:tasobiyH|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yedi gök, yer ve bunlarda bulunanlar O'nu tesbih eder; O'nu hamd ile tesbih etmeyen hiçbir şey yoktur; fakat siz onların tesbihlerini anlamazsınız. Doğrusu O Halim olandır, Bağışlayan'dır.",
+      "contextual_meaning": "Yedi gök, yer ve canlıların kendilerine özgü tesbîhi (`17:44`, `24:41`): Her varlık ve saf saf uçan kuşlar kendi işleyiş yasası içinde Allah'ı aşkınlığıyla anar; insan ise onların bu `تَسْبِيح` dilini kavrayamaz."
+    },
+    {
+      "surah": 17,
+      "ayah": 93,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:93",
+      "word_position": 20,
+      "target_word_uthmani": "سُبْحَانَ",
+      "target_word_rasm": "سبحان",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَانَ`, aşkınlık mastarı mansûb — 41 geçiş içinde tam elif yazımlı tek örnek)",
+      "context_snippet_arabic": "كِتَٰبًا نَّقْرَؤُهُۥ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ",
+      "context_snippet_turkish_tabula_rasa": "\"Veya altın bir evin olmalı, yahut göğe yükselmelisin ama oradan okuyacağımız bir kitap indirmezsen yine o yükselmene güven duy.\" De ki: \"Fesubhanallah! Ben elç...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَوْ يَكُونَ لَكَ بَيْتٌ مِّن زُخْرُفٍ أَوْ تَرْقَىٰ فِى ٱلسَّمَآءِ وَلَن نُّؤْمِنَ لِرُقِيِّكَ حَتَّىٰ تُنَزِّلَ عَلَيْنَا كِتَٰبًا نَّقْرَؤُهُۥ قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Veya altın bir evin olmalı, yahut göğe yükselmelisin ama oradan okuyacağımız bir kitap indirmezsen yine o yükselmene güven duy.\" De ki: \"Fesubhanallah! Ben elçi olan bir insandan başka bir şey miyim? \"",
+      "contextual_meaning": "İnsanın olağanüstü beklentilerine karşı aşkınlık ilanı (`17:93`): Meydan okuma taleplerine karşı elçinin sadece insan bir haberci olduğunu bildiren `قُلْ سُبْحَانَ رَبِّى` yanıtı; 41 `suboHa`n` geçişi içinde tam elifle (`سبحان`) yazılan tek ayettir."
+    },
+    {
+      "surah": 17,
+      "ayah": 108,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:108",
+      "word_position": 2,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir\" derler.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir\" derler.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 19,
+      "ayah": 11,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:11",
+      "word_position": 9,
+      "target_word_uthmani": "سَبِّحُوا۟",
+      "target_word_rasm": "سبحوا",
+      "target_word_literal_irab": "Aşkınlığıyla anın / arındırın (`سَبِّحُوا / وَسَبِّحُوهُ`, II. bab emir, 2. çoğul eril)",
+      "context_snippet_arabic": "فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Zekeriya bunun üzerine mabedden çıkıp milletine: \"Sabah akşam Allah'ı tesbih edin\" diye işarette bulundu.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MP"
+      },
+      "ayah_text_arabic_full": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Zekeriya bunun üzerine mabedden çıkıp milletine: \"Sabah akşam Allah'ı tesbih edin\" diye işarette bulundu.",
+      "contextual_meaning": "Bireysel ve toplumsal özeleştiri/yöneliş (`3:41`, `19:11`, `20:33`, `68:28-29`): Zekeriyya'ya sabah akşam tesbîh işareti (`3:41`, `19:11`), Musa ve Harun'un çokça anma talebi (`20:33`), bahçe sahiplerinin hatalarını fark edince Rabb'i aşkın ilan etmesi (`68:28-29`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 35,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:35",
+      "word_position": 8,
+      "target_word_uthmani": "سُبْحَٰنَهُۥٓ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "يَتَّخِذَ مِن وَلَدٍ سُبْحَٰنَهُۥٓ إِذَا قَضَىٰٓ أَمْرًا",
+      "context_snippet_turkish_tabula_rasa": "Allah çocuk edinmez, O münezzehtir. Bir işin olmasına hükmederse ona ancak \"Ol\" der, o da olur.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٍ سُبْحَٰنَهُۥٓ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuk edinmez, O münezzehtir. Bir işin olmasına hükmederse ona ancak \"Ol\" der, o da olur.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 20,
+      "ayah": 33,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:33",
+      "word_position": 2,
+      "target_word_uthmani": "نُسَبِّحَكَ",
+      "target_word_rasm": "نسبحك",
+      "target_word_literal_irab": "Seni aşkınlıkla analım diye (`نُسَبِّحَكَ`, II. bab muzârî mansûb, 1. çoğul)",
+      "context_snippet_arabic": "كَىْ نُسَبِّحَكَ كَثِيرًا",
+      "context_snippet_turkish_tabula_rasa": "... Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin\" dedi.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "كَىْ نُسَبِّحَكَ كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin\" dedi.",
+      "contextual_meaning": "Bireysel ve toplumsal özeleştiri/yöneliş (`3:41`, `19:11`, `20:33`, `68:28-29`): Zekeriyya'ya sabah akşam tesbîh işareti (`3:41`, `19:11`), Musa ve Harun'un çokça anma talebi (`20:33`), bahçe sahiplerinin hatalarını fark edince Rabb'i aşkın ilan etmesi (`68:28-29`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 130,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:130",
+      "word_position": 5,
+      "target_word_uthmani": "وَسَبِّحْ",
+      "target_word_rasm": "وسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ",
+      "context_snippet_turkish_tabula_rasa": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 20,
+      "ayah": 130,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:130",
+      "word_position": 16,
+      "target_word_uthmani": "فَسَبِّحْ",
+      "target_word_rasm": "فسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ",
+      "context_snippet_turkish_tabula_rasa": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 21,
+      "ayah": 20,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:20",
+      "word_position": 1,
+      "target_word_uthmani": "يُسَبِّحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar (`يُسَبِّحُونَ / وَيُسَبِّحُونَهُۥ`, II. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا",
+      "context_snippet_turkish_tabula_rasa": "Gece ve gündüz, bıkmadan tesbih ederler.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüz, bıkmadan tesbih ederler.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 21,
+      "ayah": 22,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:22",
+      "word_position": 8,
+      "target_word_uthmani": "فَسُبْحَٰنَ",
+      "target_word_rasm": "فسبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "إِلَّا ٱللَّهُ لَفَسَدَتَا فَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ",
+      "context_snippet_turkish_tabula_rasa": "Eğer yerle gökte Allah'tan başka sahte sığınaklar olsaydı, ikisi de bozulurdu. Arşın Rabbi olan Allah, onların vasıflandırdıklarından münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا فَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yerle gökte Allah'tan başka sahte sığınaklar olsaydı, ikisi de bozulurdu. Arşın Rabbi olan Allah, onların vasıflandırdıklarından münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 21,
+      "ayah": 26,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:26",
+      "word_position": 5,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا سُبْحَٰنَهُۥ بَلْ عِبَادٌ مُّكْرَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rahman çocuk edindi\" dediler. Haşa; hayır, kozmik görevliler şerefli kılınmış kullardır.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا سُبْحَٰنَهُۥ بَلْ عِبَادٌ مُّكْرَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rahman çocuk edindi\" dediler. Haşa; hayır, kozmik görevliler şerefli kılınmış kullardır.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 21,
+      "ayah": 33,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:33",
+      "word_position": 11,
+      "target_word_uthmani": "يَسْبَحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Yüzerler / yörüngede akıp süzülürler (`يَسْبَحُونَ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "كُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi ve gündüzü, güneşi ve ayı yaratan O'dur. Her biri bir yörüngede yürür.",
+      "morphology": {
+        "lemma": "yasobaHu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yasobaHu|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi ve gündüzü, güneşi ve ayı yaratan O'dur. Her biri bir yörüngede yürür.",
+      "contextual_meaning": "Kozmik yörünge yüzüşü (`21:33`, `36:40`): Güneş, ay ve gök cisimlerinin kendi yörüngelerinde (`felek`) akıp süzülmesi (`يَسْبَحُونَ`); kökün sudaki sürtünmesiz ve kesintisiz akış çekirdeğini kozmik ölçekte görünür kılar."
+    },
+    {
+      "surah": 21,
+      "ayah": 79,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:79",
+      "word_position": 11,
+      "target_word_uthmani": "يُسَبِّحْنَ",
+      "target_word_rasm": "يسبحن",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar / eşlik ederek yönelirler (`يُسَبِّحْنَ`, II. bab muzârî, 3. çoğul dişil)",
+      "context_snippet_arabic": "مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Davud ile beraber tesbih etsinler diye dağları ve kuşları buyruk altına aldık. Bunları Biz yapmıştık.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3FP"
+      },
+      "ayah_text_arabic_full": "فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman'a bu meselenin hükmünü bildirmiştik; her birine hüküm ve ilim verdik. Davud ile beraber tesbih etsinler diye dağları ve kuşları buyruk altına aldık. Bunları Biz yapmıştık.",
+      "contextual_meaning": "Doğa unsurlarının tesbîh eşliği (`13:13`, `21:79`, `38:18`): Gök gürültüsünün hamd ile yönelişi (`13:13`) ve dağlar ile kuşların Davud'a uyumla eşlik etmesi (`21:79`, `38:18`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 87,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:87",
+      "word_position": 19,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar için...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar içinde: \"Senden başka sığınak mercii (ilâh) yoktur, Sen münezzehsin, doğrusu ben haksızlık edenlerdenim\" diye seslenmişti.",
+      "contextual_meaning": "Zorluk daralmasından tesbîh ile çıkış (`21:87`, `37:143`): Yunus'un karanlıklar içinden `سُبْحَٰنَكَ` nidasıyla kendi hatasını kabullenip aşkınlığı ilan etmesi ve `ٱلْمُسَبِّحِينَ` arasında yer alması."
+    },
+    {
+      "surah": 23,
+      "ayah": 91,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:91",
+      "word_position": 21,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah çocuk edinmemiştir; O'nun yanında hiçbir sığınak mercii (ilâh) yoktur, olsaydı, her sığınak mercii (ilâh) kendi yarattığı ile beraber gider ve birbirinden...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuk edinmemiştir; O'nun yanında hiçbir sığınak mercii (ilâh) yoktur, olsaydı, her sığınak mercii (ilâh) kendi yarattığı ile beraber gider ve birbirinden üstün olmağa çalışırlardı. Allah onların vasıflandırdıklarından münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 24,
+      "ayah": 16,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:16",
+      "word_position": 11,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ هَٰذَا بُهْتَٰنٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "O'nu işittiğinizde: \"Bu konuda konuşmamız yakışık almaz; haşa, bu büyük bir iftiradır\" demeniz gerekmez miydi?",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ هَٰذَا بُهْتَٰنٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O'nu işittiğinizde: \"Bu konuda konuşmamız yakışık almaz; haşa, bu büyük bir iftiradır\" demeniz gerekmez miydi?",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 24,
+      "ayah": 36,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:36",
+      "word_position": 10,
+      "target_word_uthmani": "يُسَبِّحُ",
+      "target_word_rasm": "يسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَيُذْكَرَ فِيهَا ٱسْمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلْغُدُوِّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yüksek tutulmasına ve içlerinde adının anılmasına izin verdiği evlerde, insanlar sabah akşam O'nu tesbih ederler.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "فِى بُيُوتٍ أَذِنَ ٱللَّهُ أَن تُرْفَعَ وَيُذْكَرَ فِيهَا ٱسْمُهُۥ يُسَبِّحُ لَهُۥ فِيهَا بِٱلْغُدُوِّ وَٱلْءَاصَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yüksek tutulmasına ve içlerinde adının anılmasına izin verdiği evlerde, insanlar sabah akşam O'nu tesbih ederler.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 24,
+      "ayah": 41,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:41",
+      "word_position": 5,
+      "target_word_uthmani": "يُسَبِّحُ",
+      "target_word_rasm": "يسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "contextual_meaning": "Yedi gök, yer ve canlıların kendilerine özgü tesbîhi (`17:44`, `24:41`): Her varlık ve saf saf uçan kuşlar kendi işleyiş yasası içinde Allah'ı aşkınlığıyla anar; insan ise onların bu `تَسْبِيح` dilini kavrayamaz."
+    },
+    {
+      "surah": 24,
+      "ayah": 41,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:41",
+      "word_position": 17,
+      "target_word_uthmani": "وَتَسْبِيحَهُۥ",
+      "target_word_rasm": "وتسبيحه",
+      "target_word_literal_irab": "Aşkınlıkla arındırma / tesbîh okuyuşu (`تَسْبِيحَهُمْ / وَتَسْبِيحَهُۥ`, II. bab mastar mansûb + zamir)",
+      "context_snippet_arabic": "قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "morphology": {
+        "lemma": "tasobiyH",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:tasobiyH|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "contextual_meaning": "Yedi gök, yer ve canlıların kendilerine özgü tesbîhi (`17:44`, `24:41`): Her varlık ve saf saf uçan kuşlar kendi işleyiş yasası içinde Allah'ı aşkınlığıyla anar; insan ise onların bu `تَسْبِيح` dilini kavrayamaz."
+    },
+    {
+      "surah": 25,
+      "ayah": 18,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:18",
+      "word_position": 2,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى",
+      "context_snippet_turkish_tabula_rasa": "Onlar: \"Haşa; Seni bırakıp başka dostlar edinmek bize yaraşmaz; fakat Sen onlara ve babalarına nimetler verdin de sonunda Seni anmayı unuttular ve helaki hak ed...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Haşa; Seni bırakıp başka dostlar edinmek bize yaraşmaz; fakat Sen onlara ve babalarına nimetler verdin de sonunda Seni anmayı unuttular ve helaki hak eden bir millet oldular\" derler.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 25,
+      "ayah": 58,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:58",
+      "word_position": 7,
+      "target_word_uthmani": "وَسَبِّحْ",
+      "target_word_rasm": "وسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ وَكَفَىٰ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Ölümsüz, diri olan Allah'a güven, O'nu överek tesbih et. Kullarının sapma ve kusurlarından haberdar olarak kendisi yeter.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ölümsüz, diri olan Allah'a güven, O'nu överek tesbih et. Kullarının sapma ve kusurlarından haberdar olarak kendisi yeter.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 27,
+      "ayah": 8,
+      "surah_name": "Neml",
+      "ayah_ref": "27:8",
+      "word_position": 11,
+      "target_word_uthmani": "وَسُبْحَٰنَ",
+      "target_word_rasm": "وسبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Oraya geldiğinde, kendisine şöyle nida olunmuştu: \"Ateşin yanında olan ve çevresinde bulunanlar mübarek kılınmıştır. Alemlerin Rabbi olan Allah münezzehtir\"",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oraya geldiğinde, kendisine şöyle nida olunmuştu: \"Ateşin yanında olan ve çevresinde bulunanlar mübarek kılınmıştır. Alemlerin Rabbi olan Allah münezzehtir\"",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 28,
+      "ayah": 68,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:68",
+      "word_position": 10,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "كَانَ لَهُمُ ٱلْخِيَرَةُ سُبْحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ عَمَّا",
+      "context_snippet_turkish_tabula_rasa": "Rabbin dilediğini yaratır ve seçer; onlar için seçim hakkı yoktur. Allah onların koştukları ortaklardan münezzehtir, yücedir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ سُبْحَٰنَ ٱللَّهِ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin dilediğini yaratır ve seçer; onlar için seçim hakkı yoktur. Allah onların koştukları ortaklardan münezzehtir, yücedir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 30,
+      "ayah": 17,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:17",
+      "word_position": 1,
+      "target_word_uthmani": "فَسُبْحَٰنَ",
+      "target_word_rasm": "فسبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ",
+      "context_snippet_turkish_tabula_rasa": "Akşamlarken ve sabahlarken, öğle ve ikindi vaktinde Allah'ı -ki göklerde ve yerde hamd O'na mahsustur- tesbih edin, irtibat ve sorumluluk bağını ayakta tutun.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Akşamlarken ve sabahlarken, öğle ve ikindi vaktinde Allah'ı -ki göklerde ve yerde hamd O'na mahsustur- tesbih edin, irtibat ve sorumluluk bağını ayakta tutun.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 30,
+      "ayah": 40,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:40",
+      "word_position": 19,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ذَٰلِكُم مِّن شَىْءٍ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sizi yaratan, sonra rızıklandıran, sonra öldüren, daha sonra da dirilten Allah'tır. O'na koştuğunuz ortaklarınızdan böyle bir şey yapan var mıdır? Allah onların...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi yaratan, sonra rızıklandıran, sonra öldüren, daha sonra da dirilten Allah'tır. O'na koştuğunuz ortaklarınızdan böyle bir şey yapan var mıdır? Allah onların ortak koştukları şeylerden münezzehtir, yücedir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 32,
+      "ayah": 15,
+      "surah_name": "Secde",
+      "ayah_ref": "32:15",
+      "word_position": 10,
+      "target_word_uthmani": "وَسَبَّحُوا۟",
+      "target_word_rasm": "وسبحوا",
+      "target_word_literal_irab": "Aşkınlığıyla andılar / kusurdan uzak tuttular (`سَبَّحُوا`, II. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 33,
+      "ayah": 42,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:42",
+      "word_position": 1,
+      "target_word_uthmani": "وَسَبِّحُوهُ",
+      "target_word_rasm": "وسبحوه",
+      "target_word_literal_irab": "Aşkınlığıyla anın / arındırın (`سَبِّحُوا / وَسَبِّحُوهُ`, II. bab emir, 2. çoğul eril)",
+      "context_snippet_arabic": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "context_snippet_turkish_tabula_rasa": "O'nu sabah akşam tesbih edin.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MP"
+      },
+      "ayah_text_arabic_full": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "O'nu sabah akşam tesbih edin.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 34,
+      "ayah": 41,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:41",
+      "word_position": 2,
+      "target_word_uthmani": "سُبْحَٰنَكَ",
+      "target_word_rasm": "سبحنك",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ سُبْحَٰنَكَ أَنتَ وَلِيُّنَا مِن",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevliler: \"Haşa, bizim dostumuz onlar değil, Sensin. Hayır; onlar bize değil görünmeyen bilinçli varlıklara tapıyorlardı, çoğu onlara güven duy\" derler...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَكَ أَنتَ وَلِيُّنَا مِن دُونِهِم بَلْ كَانُوا۟ يَعْبُدُونَ ٱلْجِنَّ أَكْثَرُهُم بِهِم مُّؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevliler: \"Haşa, bizim dostumuz onlar değil, Sensin. Hayır; onlar bize değil görünmeyen bilinçli varlıklara tapıyorlardı, çoğu onlara güven duy\" derler.",
+      "contextual_meaning": "Sahte tapınma odaklarından arınma (`34:41`): Sorgulanan yüksek görevlilerin, kendilerini değil görünmez varlıkları merkeze alan insanlardan bütünüyle uzak durup Allah'ın aşkınlığını (`سُبْحَٰنَكَ`) ilan etmesi."
+    },
+    {
+      "surah": 36,
+      "ayah": 36,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:36",
+      "word_position": 1,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "سُبْحَٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ",
+      "context_snippet_turkish_tabula_rasa": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden çift çift yaratan Allah münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "سُبْحَٰنَ ٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ وَمِنْ أَنفُسِهِمْ وَمِمَّا لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden çift çift yaratan Allah münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 36,
+      "ayah": 40,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:40",
+      "word_position": 15,
+      "target_word_uthmani": "يَسْبَحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Yüzerler / yörüngede akıp süzülürler (`يَسْبَحُونَ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "context_snippet_turkish_tabula_rasa": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler.",
+      "morphology": {
+        "lemma": "yasobaHu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yasobaHu|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler.",
+      "contextual_meaning": "Kozmik yörünge yüzüşü (`21:33`, `36:40`): Güneş, ay ve gök cisimlerinin kendi yörüngelerinde (`felek`) akıp süzülmesi (`يَسْبَحُونَ`); kökün sudaki sürtünmesiz ve kesintisiz akış çekirdeğini kozmik ölçekte görünür kılar."
+    },
+    {
+      "surah": 36,
+      "ayah": 83,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:83",
+      "word_position": 1,
+      "target_word_uthmani": "فَسُبْحَٰنَ",
+      "target_word_rasm": "فسبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "فَسُبْحَٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ",
+      "context_snippet_turkish_tabula_rasa": "Her şeyin hükümranlığı elinde olan ve sizin de kendisine döneceğiniz Allah münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَسُبْحَٰنَ ٱلَّذِى بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَإِلَيْهِ تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her şeyin hükümranlığı elinde olan ve sizin de kendisine döneceğiniz Allah münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 37,
+      "ayah": 143,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:143",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُسَبِّحِينَ",
+      "target_word_rasm": "ٱلمسبحين",
+      "target_word_literal_irab": "Aşkınlığıyla anıp uzak tutanlardan (`ٱلْمُسَبِّحِينَ`, II. bab ism-i fâil mecrûr çoğul eril)",
+      "context_snippet_arabic": "أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah'ı tesbih edenlerden olmasaydı, tekrar diriltilecek güne kadar balığın karnında kalacaktı.",
+      "morphology": {
+        "lemma": "musab~iHuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:musab~iHuwn|ROOT:sbH|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah'ı tesbih edenlerden olmasaydı, tekrar diriltilecek güne kadar balığın karnında kalacaktı.",
+      "contextual_meaning": "Zorluk daralmasından tesbîh ile çıkış (`21:87`, `37:143`): Yunus'un karanlıklar içinden `سُبْحَٰنَكَ` nidasıyla kendi hatasını kabullenip aşkınlığı ilan etmesi ve `ٱلْمُسَبِّحِينَ` arasında yer alması."
+    },
+    {
+      "surah": 37,
+      "ayah": 159,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:159",
+      "word_position": 1,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah onların vasıflandırmalarından münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onların vasıflandırmalarından münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 37,
+      "ayah": 166,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:166",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْمُسَبِّحُونَ",
+      "target_word_rasm": "ٱلمسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anıp uzak tutanlarız (`ٱلْمُسَبِّحُونَ`, II. bab ism-i fâil merfû çoğul eril)",
+      "context_snippet_arabic": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevliler şöyle derler: \"Bizim her birimizin bilinen bir makamı vardır. Şüphesiz biz sıra sıra duranlarız, şüphesiz biz Allah'ı tesbih edenleriz.\"",
+      "morphology": {
+        "lemma": "musab~iHuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:musab~iHuwn|ROOT:sbH|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevliler şöyle derler: \"Bizim her birimizin bilinen bir makamı vardır. Şüphesiz biz sıra sıra duranlarız, şüphesiz biz Allah'ı tesbih edenleriz.\"",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 37,
+      "ayah": 180,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:180",
+      "word_position": 1,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ",
+      "context_snippet_turkish_tabula_rasa": "Senin güçlü olan Rabbin, onların vasıflandırmalarından münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senin güçlü olan Rabbin, onların vasıflandırmalarından münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 38,
+      "ayah": 18,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:18",
+      "word_position": 5,
+      "target_word_uthmani": "يُسَبِّحْنَ",
+      "target_word_rasm": "يسبحن",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar / eşlik ederek yönelirler (`يُسَبِّحْنَ`, II. bab muzârî, 3. çoğul dişil)",
+      "context_snippet_arabic": "سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz, akşam sabah onunla beraber tesbih eden dağları, kuşları da toplu halde onun buyruğu altına vermiştik. Her biri ona yönelmekteydi.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3FP"
+      },
+      "ayah_text_arabic_full": "إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz, akşam sabah onunla beraber tesbih eden dağları, kuşları da toplu halde onun buyruğu altına vermiştik. Her biri ona yönelmekteydi.",
+      "contextual_meaning": "Doğa unsurlarının tesbîh eşliği (`13:13`, `21:79`, `38:18`): Gök gürültüsünün hamd ile yönelişi (`13:13`) ve dağlar ile kuşların Davud'a uyumla eşlik etmesi (`21:79`, `38:18`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 4,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:4",
+      "word_position": 12,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ هُوَ ٱللَّهُ ٱلْوَٰحِدُ",
+      "context_snippet_turkish_tabula_rasa": "Allah çocuk edinmek isteseydi, yaratıklarından dilediğini seçerdi. O münezzehtir, O; gücü her şeye yeten tek Allah'tır.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuk edinmek isteseydi, yaratıklarından dilediğini seçerdi. O münezzehtir, O; gücü her şeye yeten tek Allah'tır.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 39,
+      "ayah": 67,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:67",
+      "word_position": 14,
+      "target_word_uthmani": "سُبْحَٰنَهُۥ",
+      "target_word_rasm": "سبحنه",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; gökler O'nun kudretiyle dürülmüş olacaktır. ...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; gökler O'nun kudretiyle dürülmüş olacaktır. O, putperestlerin ortak koşmalarından yüce ve münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 39,
+      "ayah": 75,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:75",
+      "word_position": 7,
+      "target_word_uthmani": "يُسَبِّحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar (`يُسَبِّحُونَ / وَيُسَبِّحُونَهُۥ`, II. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevlileri, arşın etrafını çevirmiş oldukları halde, Rablerini hamd ile överken görürsün. Artık insanların aralarında adaletle hüküm olunmuştur. \"Övgü, ...",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlileri, arşın etrafını çevirmiş oldukları halde, Rablerini hamd ile överken görürsün. Artık insanların aralarında adaletle hüküm olunmuştur. \"Övgü, Alemlerin Rabbi olan Allah içindir\" denir.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 40,
+      "ayah": 7,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:7",
+      "word_position": 6,
+      "target_word_uthmani": "يُسَبِّحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar (`يُسَبِّحُونَ / وَيُسَبِّحُونَهُۥ`, II. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Arşı yüklenen ve çevresinde bulunanlar, Rablerini överek tesbih ederler; O'na güven duyup emin olurlar. ...",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Arşı yüklenen ve çevresinde bulunanlar, Rablerini överek tesbih ederler; O'na güven duyup emin olurlar. güvene erenler için: \"Rabbimiz! İlmin ve rahmetin herşeyi içine almıştır. Tevbe edip Senin yoluna uyanları bağışla; onları yakıcı yıkım yurdunun azabından koru\" diye bağışlanma dilerler.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 40,
+      "ayah": 55,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:55",
+      "word_position": 8,
+      "target_word_uthmani": "وَسَبِّحْ",
+      "target_word_rasm": "وسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, Allah'ın verdiği söz şüphesiz gerçektir. Suçunun bağışlanmasını dile; Rabbini akşam, sabah, överek tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, Allah'ın verdiği söz şüphesiz gerçektir. Suçunun bağışlanmasını dile; Rabbini akşam, sabah, överek tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 41,
+      "ayah": 38,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:38",
+      "word_position": 6,
+      "target_word_uthmani": "يُسَبِّحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar (`يُسَبِّحُونَ / وَيُسَبِّحُونَهُۥ`, II. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ",
+      "context_snippet_turkish_tabula_rasa": "Eğer büyüklük taslarlarsa kendi aleyhlerinedir. Rabbinin katında bulunanlar hiç usanmadan, O'nu gece gündüz tesbih ederler.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ لَا يَسْـَٔمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer büyüklük taslarlarsa kendi aleyhlerinedir. Rabbinin katında bulunanlar hiç usanmadan, O'nu gece gündüz tesbih ederler.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 42,
+      "ayah": 5,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:5",
+      "word_position": 7,
+      "target_word_uthmani": "يُسَبِّحُونَ",
+      "target_word_rasm": "يسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anarlar (`يُسَبِّحُونَ / وَيُسَبِّحُونَهُۥ`, II. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... kozmik görevliler Rablerini överek tesbih eder ve yeryüzünde bulunanlar için O'ndan bağışlanma dilerler. İyi bilin ki Allah Şüphesiz bağışlayandır, merhametli olandır.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MP"
+      },
+      "ayah_text_arabic_full": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökler neredeyse üstlerinden çatlayacak. kozmik görevliler Rablerini överek tesbih eder ve yeryüzünde bulunanlar için O'ndan bağışlanma dilerler. İyi bilin ki Allah Şüphesiz bağışlayandır, merhametli olandır.",
+      "contextual_meaning": "Kozmik görevlilerin gece gündüz kesintisiz yönelişi (`2:30`, `7:206`, `21:20`, `37:166`, `39:75`, `40:7`, `41:38`, `42:5`): Kibir ve bıkkınlık taşımadan, varoluş düzeni içinde Allah'ı her eksiklikten uzak tutmaları."
+    },
+    {
+      "surah": 43,
+      "ayah": 13,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:13",
+      "word_position": 12,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا",
+      "context_snippet_turkish_tabula_rasa": "... zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz\" demeniz içindir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَٰنَ ٱلَّذِى سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak: \"Bunları buyruğumuza veren ne yücedir; zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz\" demeniz içindir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 43,
+      "ayah": 82,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:82",
+      "word_position": 1,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "سُبْحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin Rabbi, Arşın Rabbi onların vasıflandırmalarından münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "سُبْحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin Rabbi, Arşın Rabbi onların vasıflandırmalarından münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 48,
+      "ayah": 9,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:9",
+      "word_position": 6,
+      "target_word_uthmani": "وَتُسَبِّحُوهُ",
+      "target_word_rasm": "وتسبحوه",
+      "target_word_literal_irab": "O'nu aşkınlığıyla anasınız diye (`وَتُسَبِّحُوهُ`, II. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... Ey insanlar, siz de Allah'a ve elçisine güven duy, ona yardım edesiniz, O'na saygı gösteresiniz ve O'nu sabah akşam tesbih edesiniz.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu seni şahit, müjdeci ve uyarıcı olarak gönderdik. Ey insanlar, siz de Allah'a ve elçisine güven duy, ona yardım edesiniz, O'na saygı gösteresiniz ve O'nu sabah akşam tesbih edesiniz.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 50,
+      "ayah": 39,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:39",
+      "word_position": 5,
+      "target_word_uthmani": "وَسَبِّحْ",
+      "target_word_rasm": "وسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ",
+      "context_snippet_turkish_tabula_rasa": "Söylediklerine sebat edip diren; Rabbini, güneşin doğmasından önce ve batışından önce överek tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Söylediklerine sebat edip diren; Rabbini, güneşin doğmasından önce ve batışından önce överek tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 50,
+      "ayah": 40,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:40",
+      "word_position": 3,
+      "target_word_uthmani": "فَسَبِّحْهُ",
+      "target_word_rasm": "فسبحه",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin ve boyun eğişlerin ardından O'nu tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin ve boyun eğişlerin ardından O'nu tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 52,
+      "ayah": 43,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:43",
+      "word_position": 6,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "إِلَٰهٌ غَيْرُ ٱللَّهِ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa Allah'tan başka bir sahte sığınakları mı vardır? Allah, onların ortak koşmalarından münezzehtir.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ لَهُمْ إِلَٰهٌ غَيْرُ ٱللَّهِ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa Allah'tan başka bir sahte sığınakları mı vardır? Allah, onların ortak koşmalarından münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 52,
+      "ayah": 48,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:48",
+      "word_position": 6,
+      "target_word_uthmani": "وَسَبِّحْ",
+      "target_word_rasm": "وسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin hükmü yerine gelinceye kadar sebat edip diren; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et;",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin hükmü yerine gelinceye kadar sebat edip diren; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et;",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 52,
+      "ayah": 49,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:49",
+      "word_position": 3,
+      "target_word_uthmani": "فَسَبِّحْهُ",
+      "target_word_rasm": "فسبحه",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَٰرَ ٱلنُّجُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 56,
+      "ayah": 74,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:74",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَبِّحْ",
+      "target_word_rasm": "فسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 56,
+      "ayah": 96,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:96",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَبِّحْ",
+      "target_word_rasm": "فسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 57,
+      "ayah": 1,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:1",
+      "word_position": 1,
+      "target_word_uthmani": "سَبَّحَ",
+      "target_word_rasm": "سبح",
+      "target_word_literal_irab": "Aşkınlığıyla andı / bütün varlığıyla yöneldi (`سَبَّحَ`, II. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "سَبَّحَ لِلَّهِ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olanlar Allah'ı tesbih ederler. O güçlüdür, Hakim'dir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olanlar Allah'ı tesbih ederler. O güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 59,
+      "ayah": 1,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:1",
+      "word_position": 1,
+      "target_word_uthmani": "سَبَّحَ",
+      "target_word_rasm": "سبح",
+      "target_word_literal_irab": "Aşkınlığıyla andı / bütün varlığıyla yöneldi (`سَبَّحَ`, II. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "سَبَّحَ لِلَّهِ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar da yerde olanlar da Allah'ı tesbih ederler. O güçlüdür, Hakim'dir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar da yerde olanlar da Allah'ı tesbih ederler. O güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 59,
+      "ayah": 23,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:23",
+      "word_position": 16,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, kendisinden başka sığınak mercii (ilâh) olmayan, hükümran, çok kutsal; esenlik veren, güvenlik veren, görüp gözeten, güçlü, buyruğunu herşeye geçiren, ulu ol...",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, kendisinden başka sığınak mercii (ilâh) olmayan, hükümran, çok kutsal; esenlik veren, güvenlik veren, görüp gözeten, güçlü, buyruğunu herşeye geçiren, ulu olan, Allah'tır. Allah onların koştukları eşlerden (ortaklardan) münezzehtir.",
+      "contextual_meaning": "Yakıştırılan eksiklik, ortak veya beşerî zaaf isnatlarından mutlak uzaklaştırma ilanı (`سُبْحَٰنَ`): Evrenin bütünlüğünü bozan her türlü yanlış tasavvuru reddedip Yaratıcıyı aşkın konumunda tutar."
+    },
+    {
+      "surah": 59,
+      "ayah": 24,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:24",
+      "word_position": 9,
+      "target_word_uthmani": "يُسَبِّحُ",
+      "target_word_rasm": "يسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ يُسَبِّحُ لَهُۥ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "O, vareden, güzel yaratan, yarattıklarına şekil veren, en güzel adlar kendisinin olan Allah'tır. Göklerde ve yerde olanlar O'nu tesbih ederler. O güçlüdür, Hakim'dir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "O, vareden, güzel yaratan, yarattıklarına şekil veren, en güzel adlar kendisinin olan Allah'tır. Göklerde ve yerde olanlar O'nu tesbih ederler. O güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 61,
+      "ayah": 1,
+      "surah_name": "Saff",
+      "ayah_ref": "61:1",
+      "word_position": 1,
+      "target_word_uthmani": "سَبَّحَ",
+      "target_word_rasm": "سبح",
+      "target_word_literal_irab": "Aşkınlığıyla andı / bütün varlığıyla yöneldi (`سَبَّحَ`, II. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "سَبَّحَ لِلَّهِ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar da yerde olanlar da Allah'ı tesbih ederler. O, güçlüdür, Hakim'dir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar da yerde olanlar da Allah'ı tesbih ederler. O, güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 62,
+      "ayah": 1,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:1",
+      "word_position": 1,
+      "target_word_uthmani": "يُسَبِّحُ",
+      "target_word_rasm": "يسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "يُسَبِّحُ لِلَّهِ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar ve yerde bulunanlar, hükümran, çok kutsal, güçlü ve Hakim olan Allah'ı tesbih ederler.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar ve yerde bulunanlar, hükümran, çok kutsal, güçlü ve Hakim olan Allah'ı tesbih ederler.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 64,
+      "ayah": 1,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:1",
+      "word_position": 1,
+      "target_word_uthmani": "يُسَبِّحُ",
+      "target_word_rasm": "يسبح",
+      "target_word_literal_irab": "Aşkınlığıyla anar / yüceltir (`يُسَبِّحُ / وَيُسَبِّحُ`, II. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "يُسَبِّحُ لِلَّهِ مَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar ve yerde bulunanlar Allah'ı tesbih ederler. Hükümranlık O'nundur, Övülmek O'na mahsustur. O herşeye Kadir'dir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar ve yerde bulunanlar Allah'ı tesbih ederler. Hükümranlık O'nundur, Övülmek O'na mahsustur. O herşeye Kadir'dir.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 68,
+      "ayah": 28,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:28",
+      "word_position": 7,
+      "target_word_uthmani": "تُسَبِّحُونَ",
+      "target_word_rasm": "تسبحون",
+      "target_word_literal_irab": "Aşkınlığıyla anıyordunuz (`تُسَبِّحُونَ`, II. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ortancaları: \"Ben size Allah'ı anmanız gerekmez mi, dememiş miydim?\" dedi.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:sab~aHa|ROOT:sbH|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ortancaları: \"Ben size Allah'ı anmanız gerekmez mi, dememiş miydim?\" dedi.",
+      "contextual_meaning": "Bireysel ve toplumsal özeleştiri/yöneliş (`3:41`, `19:11`, `20:33`, `68:28-29`): Zekeriyya'ya sabah akşam tesbîh işareti (`3:41`, `19:11`), Musa ve Harun'un çokça anma talebi (`20:33`), bahçe sahiplerinin hatalarını fark edince Rabb'i aşkın ilan etmesi (`68:28-29`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 29,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:29",
+      "word_position": 2,
+      "target_word_uthmani": "سُبْحَٰنَ",
+      "target_word_rasm": "سبحن",
+      "target_word_literal_irab": "Her eksiklikten uzak ve aşkındır (`سُبْحَٰنَ / سُبْحَٰنَكَ / سُبْحَٰنَهُۥ`, hazifli elif yazımlı aşkınlık mastarı mansûb)",
+      "context_snippet_arabic": "قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimizi tenzih ederiz; doğrusu biz yazık etmiştik\" dediler.",
+      "morphology": {
+        "lemma": "suboHa`n",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:suboHa`n|ROOT:sbH|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimizi tenzih ederiz; doğrusu biz yazık etmiştik\" dediler.",
+      "contextual_meaning": "Bireysel ve toplumsal özeleştiri/yöneliş (`3:41`, `19:11`, `20:33`, `68:28-29`): Zekeriyya'ya sabah akşam tesbîh işareti (`3:41`, `19:11`), Musa ve Harun'un çokça anma talebi (`20:33`), bahçe sahiplerinin hatalarını fark edince Rabb'i aşkın ilan etmesi (`68:28-29`)."
+    },
+    {
+      "surah": 69,
+      "ayah": 52,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:52",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَبِّحْ",
+      "target_word_rasm": "فسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse çok büyük olan Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse çok büyük olan Rabbinin adını tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 73,
+      "ayah": 7,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:7",
+      "word_position": 5,
+      "target_word_uthmani": "سَبْحًا",
+      "target_word_rasm": "سبحا",
+      "target_word_literal_irab": "Engin meşguliyet / gündüz akışı içinde ilerleyiş (`سَبْحًا`, I. bab belirsiz mastar mansûb)",
+      "context_snippet_arabic": "لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Çünkü gündüz, seni uzun uzun alıkoyacak işler vardır.",
+      "morphology": {
+        "lemma": "saboH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:saboH|ROOT:sbH|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü gündüz, seni uzun uzun alıkoyacak işler vardır.",
+      "contextual_meaning": "Engin akış ve hızla süzülüş (`73:7`, `79:3`): Gündüzün uzun meşguliyet akışı (`سَبْحًا طَوِيلًا`, `73:7`) ve kozmik görevlilerin emir doğrultusunda süratle yüzüp süzülüşü (`وَٱلسَّٰبِحَٰتِ سَبْحًا`, `79:3`)."
+    },
+    {
+      "surah": 76,
+      "ayah": 26,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:26",
+      "word_position": 5,
+      "target_word_uthmani": "وَسَبِّحْهُ",
+      "target_word_rasm": "وسبحه",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    },
+    {
+      "surah": 79,
+      "ayah": 3,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:3",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلسَّٰبِحَٰتِ",
+      "target_word_rasm": "وٱلسبحت",
+      "target_word_literal_irab": "Yüzerek akıp gidenler / yörüngede süzülenler (`وَٱلسَّٰبِحَٰتِ`, I. bab ism-i fâil dişil çoğul mecrûr)",
+      "context_snippet_arabic": "وَٱلسَّٰبِحَٰتِ سَبْحًا",
+      "context_snippet_turkish_tabula_rasa": "Yüzüp yüzüp gidenlere and olsun,",
+      "morphology": {
+        "lemma": "s~a`biHa`t",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:s~a`biHa`t|ROOT:sbH|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلسَّٰبِحَٰتِ سَبْحًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzüp yüzüp gidenlere and olsun,",
+      "contextual_meaning": "Engin akış ve hızla süzülüş (`73:7`, `79:3`): Gündüzün uzun meşguliyet akışı (`سَبْحًا طَوِيلًا`, `73:7`) ve kozmik görevlilerin emir doğrultusunda süratle yüzüp süzülüşü (`وَٱلسَّٰبِحَٰتِ سَبْحًا`, `79:3`)."
+    },
+    {
+      "surah": 79,
+      "ayah": 3,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:3",
+      "word_position": 2,
+      "target_word_uthmani": "سَبْحًا",
+      "target_word_rasm": "سبحا",
+      "target_word_literal_irab": "Hızla yüzüşle / engin akışla (`سَبْحًا`, I. bab mef'ûl-i mutlak, belirsiz mastar mansûb)",
+      "context_snippet_arabic": "وَٱلسَّٰبِحَٰتِ سَبْحًا",
+      "context_snippet_turkish_tabula_rasa": "Yüzüp yüzüp gidenlere and olsun,",
+      "morphology": {
+        "lemma": "saboH",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:saboH|ROOT:sbH|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلسَّٰبِحَٰتِ سَبْحًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzüp yüzüp gidenlere and olsun,",
+      "contextual_meaning": "Engin akış ve hızla süzülüş (`73:7`, `79:3`): Gündüzün uzun meşguliyet akışı (`سَبْحًا طَوِيلًا`, `73:7`) ve kozmik görevlilerin emir doğrultusunda süratle yüzüp süzülüşü (`وَٱلسَّٰبِحَٰتِ سَبْحًا`, `79:3`)."
+    },
+    {
+      "surah": 87,
+      "ayah": 1,
+      "surah_name": "A'lâ",
+      "ayah_ref": "87:1",
+      "word_position": 1,
+      "target_word_uthmani": "سَبِّحِ",
+      "target_word_rasm": "سبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "context_snippet_turkish_tabula_rasa": "Yüce Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+      "ayah_text_turkish_tabula_rasa_full": "Yüce Rabbinin adını tesbih et.",
+      "contextual_meaning": "Müsebbihât sûre açılışları (`17:1`, `57:1`, `59:1`, `61:1`, `62:1`, `64:1`, `87:1`): Dört farklı dilbilgisel kipte (`سُبْحَٰنَ` mastar `17:1`; `سَبَّحَ` mâzî `57:1`, `59:1`, `61:1`; `يُسَبِّحُ` muzârî `62:1`, `64:1`; `سَبِّحِ` emir `87:1`) tüm göklerin ve yerin Allah'ı eksiklikten uzak tuttuğu vurgulanır."
+    },
+    {
+      "surah": 110,
+      "ayah": 3,
+      "surah_name": "Nasr",
+      "ayah_ref": "110:3",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَبِّحْ",
+      "target_word_rasm": "فسبح",
+      "target_word_literal_irab": "Aşkınlığıyla an / kusursuzlukla yücelt (`سَبِّحْ / فَسَبِّحْ / وَسَبِّحْ / وَسَبِّحْهُ / فَسَبِّحْهُ`, II. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın yaşam sistemine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir.",
+      "morphology": {
+        "lemma": "sab~aHa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:sab~aHa|ROOT:sbH|2MS"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın yaşam sistemine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir.",
+      "contextual_meaning": "Elçiye ve inananlara gün döngüsünde sebat ve hamd ile arındırma buyrukları (`15:98`, `20:130`, `25:58`, `40:55`, `50:39-40`, `52:48-49`, `56:74`, `56:96`, `69:52`, `76:26`, `110:3`): Güneşin doğuşundan batışına ve uzun gece boyunca kesintisiz direnç ve şükür yönelişi."
+    }
+  ]
+}

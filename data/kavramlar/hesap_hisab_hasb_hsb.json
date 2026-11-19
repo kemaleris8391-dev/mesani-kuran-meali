@@ -1,0 +1,2279 @@
+{
+  "root": "ح-س-ب",
+  "root_latin": "H-S-B (Hsb)",
+  "concept_name": "Hesap / Hasb / Hisâb (Sayma, Muhasebe, Tek Taraflı Sanı ve Tam Yetme)",
+  "rank": 103,
+  "total_occurrences": 109,
+  "unique_ayahs_count": 102,
+  "unified_core_mechanism": "Kökün `109` geçişlik sistemi İbn Fâris'in ilk iki aslı olan 'Sayma-Hesaplama (`الْعَدّ`)' ile 'Hesabı Tam Kapatıp Yetme (`الْكِفَايَة`)' eksenlerinde kesintisiz işler: (1) Kozmik zaman ve mizan düzenini şaşmaz oranla hesaplamak (`حُسْبَان` `6:96`, `55:5`; `حِسَاب` `10:5`, `17:12`, `21:47`). (2) İnsanların yapıp ettiklerini eksiksiz kayda geçirip karşılıklı muhasebeye çekmek (`حَاسَبَ` `2:284`, `65:8`, `84:8`; `حِسَاب` `39` kez; `حَسِيب / حَاسِبِين` `6` kez) veya ölçüsüz/sınırsız vermek (`بِغَيْرِ حِسَابٍ`). (3) Zihinde tek yönlü hesabını çıkarıp kesin sanmak (`حَسِبَ` `44` kez) ya da kendi hesabına katıp beklemek (`اِحْتَسَبَ` `3` kez). (4) Hesabı tamamen kapatarak başka dayanağa ihtiyaç bırakmamak (`حَسْبُ` `11` kez ve `78:36` `حِسَابًا`; `18:40`ta ise gökten gelen hesaplı darbe).",
+  "physical_core": "İbn Fâris'in ayrıştırdığı iki temel Kur'anî hat üzerinden tek mekanik çekirdek: (1) 'Birimleri tek tek sayıp birbirine oranlayarak kesin toplam ve ölçü çıkarmak (`الْعَدّ / الْحِسَاب` — astronomik ölçüm `6:96`, `55:5`, karşılıklı muhasebe `2:284`, `65:8` ve zihinde tek taraflı sayım yapıp sanmak `حَسِبَ`)'. (2) 'İstenen hesabı ve ölçüyü eksiği kalmayacak biçimde tam kapatıp yetmek (`الْكِفَايَة / حَسْبُ` — `3:173`, `8:62`, `65:3`, `78:36`)'. İbranice eşkökenlisi *ḥāšaḇ*'daki 'örgü ipliklerini birbirine geçirip dokumak -> planlamak, hesaplamak, saymak' somut görüntüsü de verileri/birimleri bir hesap örgüsünde birleştirme hareketini aydınlatır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökte birbirinden ayrı 4 asıl sayar: (1) `العدّ` (saymak, hesaplamak; zihinde saymak demek olan `الحسبان = الظن`; şeref sayımı `الحسب`; ecir/hesap beklentisi `الاحتساب`), (2) `الكفاية` (yeterli olmak: `حساب / حسبك`), (3) `الحسبان` (küçük yastık, küçük oklar/dolu/darbe), (4) `الأحسب` (cilt hastalığı — Kur'an'da yoktur).",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `حَسَبْتُ` sayım ve hesabı, `حَسِبْتُ` sanıyı, `حَسْبُكَ` yetmeyi, `حُسْبَان` ise hem hesap/ölçüyü hem gökten inen küçük taş/dolu darbelerini ifade eder.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): Sayma/hesap (`حِسَاب`), yeterli olma (`حَسْبُكَ` ve `عَطَآءً حِسَابًا` `78:36`: yeterli ve tam karşılık bağış), sanma (`حُسْبَان`) ve `18:40`taki gökten gönderilen darbe (`حُسْبَانًا مِّنَ ٱلسَّمَآءِ`) maddelerini şahitleriyle ayırır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `حِسَاب`ı 'sayıyı kullanıp ölçmek', `حَسْب`u 'yeterli olmak', `اِحْتِسَاب`ı 'hesaba dahil edip beklemek' olarak tanımlar. En kritik tespiti `حُسْبَان` ile `ظَنّ` farkıdır: `ظَنّ` iki zıt ihtimali zihinde tartıp birini ağır bastırmaktır; `حُسْبَان` (`حَسِبَ`) ise karşı ihtimali hiç aklına getirmeden tek tarafa hüküm bağlayıp kesin sanmaktır.",
+    "arbitration_decision": "Tahkim Kararı: İbn Fâris'in ayrı saydığı asıllar zorlamayla tek şeye indirgenmez, ancak Kur'an'daki dağılım netleştirilir: 4. asıl (`الأحسب`) Kur'an'da yoktur. Geri kalan `109` geçişin tamamı 1. asıl (`العدّ / الحساب` ve bunun zihindeki tek taraflı sayımı olan `حَسِبَ` ile VIII. bab `اِحْتَسَبَ`) ve 2. asıl (`الكفاية`: `حَسْبُ` `11` kez + `78:36` `عَطَآءً حِسَابًا` köprüsü) ile tam açıklanır. `18:40`taki `حُسْبَانًا مِّنَ ٱلسَّمَآءِ` ise İbn Fâris'in 3. aslıyla ('gökten inen dolu/darbe') bağlantılı olduğu gibi 1. asıldaki 'hesaplı/ölçülü yıkım cezası' anlamını da taşır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*ḥ-š-b (Proto-Sami *s₁ ıslıklısı: Arapça `س` = İbranice `שׁ` = Aramice `שׁ` = Ge'ez `ሰ`).",
+    "hebrew": "חָשַׁב / ḥāšaḇ (Strong's H2803 / BDB: 'örgüde iplikleri birleştirip dokumak -> zihinde kurmak, planlamak, saymak, hesaba geçirmek, sanmak, değer biçmek').",
+    "aramaic_syriac": "Kitâb-ı Mukaddes Aramicesi חֲשַׁב / ḥăšaḇ (Strong's H2804, Daniel 4:32/35: 'sayılmak, hesaba katılmak') ve Klasik Süryanice `ܚܫܒ` / ḥəšaḇ ('hesaplamak, düşünmek, saymak').",
+    "south_semitic_geez": "Ge'ez `ሐሰበ` / ḥasaba ('düşünmek, hesaplamak, ölçüp biçmek').",
+    "akkadian": "Yeni Asurca metinlerde geçen *ḫašābu* ('hesaplamak') kökü, Doğu Samicede `*ḥ` sesinin normalde düşmesi gerekirken *ḫ-* taşıması sebebiyle akademik sözlüklerde (AHw vb.) Aramiceden ödünçleme olarak değerlendirilir; yerli doğu eşkökenlisi olarak kesinleştirilemez.",
+    "phonological_note": "Proto-Sami *s₁ ses yasası uyarınca Arapça `س` (ḥ-s-b) ünsüzü İbranice `שׁ` (ḥ-š-b) ve Aramice `שׁ` (ḥ-š-b) ile birebir düzenli eşleşir (krş. Ar. `ش-ك-ر` [*s₂] <-> İbr. `שָׂכַר` [*ś] farkı!). İbranice `ḥāšaḇ`'daki 'örgü kurup hesaplamak / zihinde bir şeyi şöyle saymak / hesaba yazmak' çekirdeği, Arapçadaki `حَسِبَ` ('zihinde öyle saymak') ile `حَاسَبَ / حِسَاب` ('kayıtlı hesap görmek') birliğini filolojik olarak perçinler."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "غ-ف-ل / ع-ب-ث / س-د-ي (`ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ` `21:1`, `عَبَثًا` `23:115`, `سُدًى` `75:36` — Hesaplı Düzen vs Habersiz Başıboşluk)",
+      "بِغَيْرِ حِسَابٍ ↔ حِسَابًا يَسِيرًا / شَدِيدًا / سَرِيعُ ٱلْحِسَابِ (`2:212`, `3:27`, `65:8`, `84:8` — Ölçüsüz Sınırsız Akış vs Tartılı Sıkı Hesaplaşma)",
+      "لَا تَحْسَبَنَّ ... بَلْ / بَلَىٰ (`3:169`, `3:180`, `24:11`, `43:80` — Tek Taraflı Yanılgı Sanısı vs Gerçek Durumun İlanı)",
+      "لَا يَجِدْهُ شَيْـًٔا ↔ فَوَفَّىٰهُ حِسَابَهُۥ (`24:39`: serabı su sanıp hiçbir şey bulamama ↔ tam karşılık hesabının ödenmesi)"
+    ],
+    "key_ayahs": [
+      "2:212",
+      "3:169",
+      "3:180",
+      "21:1",
+      "21:47",
+      "23:115",
+      "24:11",
+      "24:39",
+      "75:36"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ح-س-ب verileri sayıp hesaba bağlamak (veya zihinde tek taraflı kesin sanmak) ve yeterliliği kapatmak ise zıtları nedir?' Cevap: (1) Hesapsız başıboşluk iddiaları (`عَبَثًا` `23:115`, `سُدًى` `75:36`, `فِى غَفْلَةٍ` `21:1`) — başıboşluğun ve gafletin tersi her ayrıntının hesapla kayda bağlanmasıdır. (2) Serabın boşluğu (`لَمْ يَجِدْهُ شَيْـًٔا` `24:39`) karşısına tam karşılık (`فَوَفَّىٰهُ حِسَابَهُۥ`) konur. (3) Yanlış sanılar (`لَا تَحْسَبَنَّ`) `بَلْ` gerçeğiyle bozulur (`3:169,180`, `24:11`). Ters-anlam testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "عَدَد (`Tekil birimleri 1-2-3 diye saymak`) vs حِسَاب (`Sayılan birimleri takvim/ölçü sistemine dönüştürüp hesaplamak`) — `10:5`, `17:12`",
+      "ظَنَّ (`İki ihtimali zihinde tartıp birini ağır bastırmak`) vs حَسِبَ / اِحْتَسَبَ (`Karşı ihtimali düşünmeden tek tarafı kesin sanmak/hesaplamak`) — `59:2`, `69:20`",
+      "كَفَىٰ (`Eksiği kapatıp bütünüyle yetmek`) vs حَسِيب / حَاسِب (`Her zerre eylemi kayda alıp hesap görmek`) — `4:6`, `17:14`, `21:47`, `33:39`",
+      "قَدْر / تَقْدِير (`Yapısal ölçü ve sınır koymak`) vs حُسْبَان / حِسَاب (`O ölçü üzerinden işleyen kesin hesap döngüsü`) — `6:96`, `65:3`",
+      "جَزَآءً (`Eyleme denk karşılık`) vs عَطَآءً حِسَابًا (`Hesaplı ve doyurucu derecede yeterli bağış`) — `78:36`",
+      "بَلَاغ (`Elçinin tebliğ görevi`) vs حِسَاب (`Sonucu tartıp muhasebeye çekme yetkisi`) — `13:40`"
+    ],
+    "mechanical_difference": "1) `10:5` ve `17:12`de `عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ` yan yana gelir: `عَدَد` salt tane sayımını, `حِسَاب` ise o sayılardan vakit/takvim ve sonuç çıkarmayı ayırır. 2) `59:2`de önce iki kez `ظَنَّ` (durumu tartarak zannetme), ardından `مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟` (hesap planlarına hiç katmadıkları yerden) gelerek `ظَنّ` ile `حَسَب` farkını aynı ayette gösterir. 3) `4:6`, `17:14`, `21:47` ve `33:39`da `كَفَىٰ` 'yetme' işlevini, `حَسِيبًا / حَاسِبِينَ` ise 'hesap tutma' yetkisini ayırır."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "10:5 & 17:12 & 6:96 & 55:5",
+      "role": "Kozmik Matematik ve Takvim Ölçüsü Çapası (`عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ` / `حُسْبَانًا`)",
+      "literal_meaning": "'Yılların sayısını ve hesabını (`ٱلْحِسَابَ`) bilesiniz diye aya konaklar ölçülendirdi (`10:5`, `17:12`)' ve 'Güneş ile ay şaşmaz bir hesap/ölçü (`حُسْبَان / بِحُسْبَانٍ`) üzere işler (`6:96`, `55:5`).'"
+    },
+    {
+      "ref": "24:39 & 65:3 & 65:8 & 84:8",
+      "role": "Çift/Üçlü Kök Yoğunluğu ve Hesap-Yeterlilik Köprüsü Çapası",
+      "literal_meaning": "`24:39`da aynı ayette üç geçiş: Susuzun serabı su sanması (`يَحْسَبُهُ`), sonunda hesabının eksiksiz ödenmesi (`حِسَابَهُۥ`) ve Allah'ın hesabı en süratli görmesi (`سَرِيعُ ٱلْحِسَابِ`). `65:3`te: Hesap etmediği yerden (`لَا يَحْتَسِبُ`) rızık ve dayanan kişiye O'nun tam yetmesi (`فَهُوَ حَسْبُهُۥٓ`)."
+    },
+    {
+      "ref": "2:284 & 21:47 & 17:14 & 6:52",
+      "role": "Bireysel Sorumluluk Muhasebesi ve Öz-Hesap Çapası",
+      "literal_meaning": "'İçinizdekini açsanız da gizleseniz de Allah onunla sizi muhasebeye çeker (`يُحَاسِبْكُم` `2:284`)', 'hardal tanesi ağırlığı bile mizana konur (`21:47`)', 'kendi kitabını oku, bugün kendine karşı hesap tutucu (`حَسِيبًا` `17:14`) olarak kendin yetersin' ve 'onların hesabından sana bir yük yoktur (`6:52`).'"
+    },
+    {
+      "ref": "23:115 & 75:36 & 21:1 & 104:3",
+      "role": "Tek Taraflı Yanlış Hesap / Sanı (`حَسِبَ`) Çapası",
+      "literal_meaning": "'Sizi boşuna yarattığımızı ve bize döndürülmeyeceğinizi mi hesabedip sandınız (`أَفَحَسِبْتُمْ` `23:115`)?', 'insan başıboş bırakılacağını mı sanıyor (`75:36`)?' ve 'malının kendisini ölümsüz kılacağını sanıyor (`يَحْسَبُ` `104:3`).'"
+    },
+    {
+      "ref": "3:173 & 8:62,64 & 9:129 & 5:104 & 78:36",
+      "role": "Yeterlilik (`حَسْبُ`) ve Ölçülü Bağış (`عَطَآءً حِسَابًا`) Çapası",
+      "literal_meaning": "'Allah bize yeter (`حَسْبُنَا ٱللَّهُ`) ve O ne güzel vekildir (`3:173`, `9:129`, `39:38`)' hakikatine karşı atalarının yolunu yeterli sayanlar (`حَسْبُنَا` `5:104`); ayrıca 'yeterli ve eksiksiz hesaplı bir bağış (`عَطَآءً حِسَابًا` `78:36`).'"
+    },
+    {
+      "ref": "18:40 & 59:2 & 39:47",
+      "role": "Beklenmeyen Darbe ve Öngörülmeyen Hesap (`حُسْبَانًا` / `لَمْ يَحْتَسِبُوا۟`) Çapası",
+      "literal_meaning": "'Bahçenin üzerine gökten hesaplı/ölçülü bir darbe (`حُسْبَانًا مِّنَ ٱلسَّمَآءِ` `18:40`) gönderir', 'hiç hesaplarına katmadıkları yerden geldi (`لَمْ يَحْتَسِبُوا۟` `59:2`)' ve 'hiç hesap etmedikleri şeyler karşılarına çıktı (`39:47`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök `50` fiil, `57` isim ve `2` sıfat (`33:39` `حَسِيبًا`, `78:36` `حِسَابًا`) olmak üzere `109` geçişte `8` lemma üretir: I. bab `حَسِبَ` (`44 V`: `13` mâzî, `31` muzâri — zihinde sanmak/saymak), III. bab `حَاسَبَ` (`3 V`: `2:284` meçhul olmayan meczûm, `65:8` mâzî `1P`, `84:8` meçhul muzâri `يُحَاسَبُ`), VIII. bab `اِحْتَسَبَ` (`3 V`: `39:47`, `59:2`, `65:3`), masdar/isim `حِسَاب` (`39`), yeterlilik ismi `حَسْب` (`11 N`), mübalağa sıfat/isim `حَسِيب` (`4`), kozmik/ceza ölçüsü `حُسْبَان` (`3 N`: `6:96`, `18:40`, `55:5`) ve ism-i fâil çoğulu `حَاسِبِين` (`2 N`: `6:62`, `21:47`). 2) Çok önemli i'rab ve imla notu: `69:20` ve `69:26`daki `حِسَابِيَهْ` kelimesinin sonundaki `هْ`, zamir değil durak nefesini koruyan `هاء السكت` ('sekte he'si')dir! 3) `9` ayette `لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` ağır tekit nûnu (`نون التوكيد الثقيلة`) ile nehiy/uyarı kalıbı kurar. 4) `6` ayette birden fazla yer alır (`24:39` x3; `3:188`, `6:52`, `65:3`, `65:8`, `84:8` x2) ve `51` ayrı Rasm-ı Osmânî yazımı vardır.",
+  "derivatives": {
+    "حَسِبَ - يَحْسَبُ (`44 V` I. bab)": "Karşı ihtimali katmadan zihinde tek yönlü sayıp sanmak (`2:214`, `3:169,180`, `24:11`, `27:44,88`, `104:3`)",
+    "حِسَاب (`38 N` + `1 ADJ` `78:36` = `39`)": "Takvim/sayım hesabı (`10:5`, `17:12`), eylem muhasebesi ve hesap günü (`2:202`, `38:16,26`, `69:20,26`), sınırsızlık (`بِغَيْرِ حِسَابٍ`) ve doyurucu yeterli bağış (`78:36`)",
+    "حَاسَبَ (`3 V` III. bab) & اِحْتَسَبَ (`3 V` VIII. bab)": "Kulun eylemleriyle yüzleştirilip muhasebeye çekilmesi (`2:284`, `65:8`, `84:8`) ve kişinin hesabına katıp önceden öngörmesi (`39:47`, `59:2`, `65:3`)",
+    "حَسْب (`11 N`: `حَسْبُكَ / حَسْبُنَا / حَسْبِىَ`)": "Hesabı tamamen kapatıp yeten tam dayanak ve karşılık (`3:173`, `8:62,64`, `9:129`, `39:38`, `65:3` ve olumsuz `2:206`, `5:104`, `9:68`, `58:8`)",
+    "حَسِيب (`4`) & حَاسِبِين (`2 N`)": "Her zerre ayrıntıyı eksiksiz kaydeden hesap görücü (`4:6,86`, `6:62`, `17:14`, `21:47`, `33:39`)",
+    "حُسْبَان (`3 N`: `6:96`, `18:40`, `55:5`)": "Güneş ve ayın şaşmaz kozmik ölçüm-hesap düzeni (`6:96`, `55:5`) ile gökten inen hesaplı/ölçülü darbe (`18:40`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 202,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:202",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "كَسَبُوا۟ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "İşte onlara, kazançlarından ötürü karşılık vardır. Allah hesabı çabuk görür.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا۟ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlara, kazançlarından ötürü karşılık vardır. Allah hesabı çabuk görür.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 206,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:206",
+      "word_position": 9,
+      "target_word_uthmani": "فَحَسْبُهُۥ",
+      "target_word_rasm": "فحسبه",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ فَحَسْبُهُۥ جَهَنَّمُ وَلَبِئْسَ ٱلْمِهَادُ",
+      "context_snippet_turkish_tabula_rasa": "Ona: \"Allah'tan sakın\" denince, gururu kendisine sapma ve ağır kusur işletir, artık ona yakıcı yıkım yurdu yetişir, ne kötü yataktır!..",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ فَحَسْبُهُۥ جَهَنَّمُ وَلَبِئْسَ ٱلْمِهَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona: \"Allah'tan sakın\" denince, gururu kendisine sapma ve ağır kusur işletir, artık ona yakıcı yıkım yurdu yetişir, ne kötü yataktır!..",
+      "contextual_meaning": "Yıkıcı veya yanlış yeterlilik (`2:206`, `5:104`, `9:68`, `58:8`): Gerçeği örtme ve kibre karşılık yakıcı yıkım yurdunun yetmesi veya 'atalarımızın yolu bize yeter' diyerek hakikate kapanma."
+    },
+    {
+      "surah": 2,
+      "ayah": 212,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:212",
+      "word_position": 20,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlere, dünya hayatı güzel görünür, onlar, güven duy alay ederler, oysa, Allah'a karşı gelmekten sakınanlar kıyamet günü onların üstünde olacaklardır. Allah dilediğini hesabsız şekilde rızıklandırır.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlere, dünya hayatı güzel görünür, onlar, güven duy alay ederler, oysa, Allah'a karşı gelmekten sakınanlar kıyamet günü onların üstünde olacaklardır. Allah dilediğini hesabsız şekilde rızıklandırır.",
+      "contextual_meaning": "Sınırsız ve hesapsız akış (`بِغَيْرِ حِسَابٍ`): Yaratıcı Kudret'in dilediğine ve yararlı eylem sahiplerine daraltma ve sayı sınırı olmaksızın rızık ve karşılık vermesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 214,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:214",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبْتُمْ",
+      "target_word_rasm": "حسبتم",
+      "target_word_literal_irab": "Yoksa ... mı hesabedip sandınız (`حَسِبْتُمْ / أَفَحَسِبْتُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ",
+      "context_snippet_turkish_tabula_rasa": "Sizden önce gelenlerin durumu sizin başınıza gelmeden esenlik bahçesine gireceğinizi mi zannettiniz? elçi ve onunla beraber güvene erenler: \"Allah'ın yardımı ne zaman?\" diyecek kadar darlığa ve zorluğa uğramışlar ve sarsılmışlardı; ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|2MP"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önce gelenlerin durumu sizin başınıza gelmeden esenlik bahçesine gireceğinizi mi zannettiniz? elçi ve onunla beraber güvene erenler: \"Allah'ın yardımı ne zaman?\" diyecek kadar darlığa ve zorluğa uğramışlar ve sarsılmışlardı; iyi bilin ki Allah'ın yardımı şüphesiz yakındır.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 2,
+      "ayah": 273,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:273",
+      "word_position": 12,
+      "target_word_uthmani": "يَحْسَبُهُمُ",
+      "target_word_rasm": "يحسبهم",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Sadakalarınızı, kendilerini Allah yoluna adayıp yeryüzünde dolaşamayanlara, hayalarından dolayı, kendilerini tanımayanların zengin saydıkları yoksullara verin. Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadakalarınızı, kendilerini Allah yoluna adayıp yeryüzünde dolaşamayanlara, hayalarından dolayı, kendilerini tanımayanların zengin saydıkları yoksullara verin. Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. dolaşıma sokup paylaştığınız iyi bir şeyi Allah şüphesiz bilir.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 2,
+      "ayah": 284,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:284",
+      "word_position": 15,
+      "target_word_uthmani": "يُحَاسِبْكُم",
+      "target_word_rasm": "يحاسبكم",
+      "target_word_literal_irab": "Onunla sizi muhasebeye çeker (`يُحَاسِبْكُم`, III. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ",
+      "context_snippet_turkish_tabula_rasa": "... İçinizdekini açıklasanız da gizleseniz de Allah sizi onunla hesaba çeker ve dilediğini bağışlar, dilediğine azabeder. Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "HaAsabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:HaAsabo|ROOT:Hsb|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olanlar Allah'ındır. İçinizdekini açıklasanız da gizleseniz de Allah sizi onunla hesaba çeker ve dilediğini bağışlar, dilediğine azabeder. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "III. bab karşılıklı muhasebe (`2:284`, `65:8`, `84:8`): İnsanın açık-gizli tüm yaptıklarıyla yüzleştirilmesi, azgın kentlerin çetin (`حِسَابًا شَدِيدًا`) veya sağdan verilenin kolay (`حِسَابًا يَسِيرًا`) muhasebeden geçmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 19,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:19",
+      "word_position": 26,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Allah katında yaşam ve hesap sistemi, şüphesiz İslam'dır. Ancak, Kitap verilenler, kendilerine ilim geldikten sonra, aralarındaki ihtiras yüzünden ayrılığa düştüler. ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah katında yaşam ve hesap sistemi, şüphesiz İslam'dır. Ancak, Kitap verilenler, kendilerine ilim geldikten sonra, aralarındaki ihtiras yüzünden ayrılığa düştüler. Allah'ın ayetlerini kim gerçeğin üzerini örterse bilsin ki, Allah hesabı çabuk görür.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 27,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:27",
+      "word_position": 21,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceyi gündüze, gündüzü geceye geçirirsin; ölüden diri, diriden ölü çıkarırsın; dilediğini hesapsız rızıklandırırsın\".",
+      "contextual_meaning": "Sınırsız ve hesapsız akış (`بِغَيْرِ حِسَابٍ`): Yaratıcı Kudret'in dilediğine ve yararlı eylem sahiplerine daraltma ve sayı sınırı olmaksızın rızık ve karşılık vermesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 37,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:37",
+      "word_position": 34,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "Rabbi onu güzel bir kabulle karşıladı, güzel bir bitki gibi yetiştirdi; onu Zekeriya'nın himayesine bıraktı. ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi onu güzel bir kabulle karşıladı, güzel bir bitki gibi yetiştirdi; onu Zekeriya'nın himayesine bıraktı. Zekeriya mabedde onun yanına her girişinde, yanında bir yiyecek bulurdu. \"Ey Meryem! Bu sana nereden geldi?\" demiş, o da: Bu, Allah'ın katındandır\" cevabını vermişti. Doğrusu Allah dilediğini hesapsız rızıklandırır.",
+      "contextual_meaning": "Sınırsız ve hesapsız akış (`بِغَيْرِ حِسَابٍ`): Yaratıcı Kudret'in dilediğine ve yararlı eylem sahiplerine daraltma ve sayı sınırı olmaksızın rızık ve karşılık vermesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 78,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:78",
+      "word_position": 7,
+      "target_word_uthmani": "لِتَحْسَبُوهُ",
+      "target_word_rasm": "لتحسبوه",
+      "target_word_literal_irab": "Onu ... sanasınız diye (`لِتَحْسَبُوهُ`, I. bab mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَٰبِ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Onlardan bir takımı, Kitapta olmadığı halde Kitaptan zannedesiniz diye dillerini eğip bükerler. O, Allah katından olmadığı halde: ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَٰبِ وَمَا هُوَ مِنَ ٱلْكِتَٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan bir takımı, Kitapta olmadığı halde Kitaptan zannedesiniz diye dillerini eğip bükerler. O, Allah katından olmadığı halde: \"Allah katındandır\" derler, bile bile Allah'a karşı yalan söylerler.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 3,
+      "ayah": 142,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:142",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبْتُمْ",
+      "target_word_rasm": "حسبتم",
+      "target_word_literal_irab": "Yoksa ... mı hesabedip sandınız (`حَسِبْتُمْ / أَفَحَسِبْتُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa içinizden Allah cihad edenleri ve sebat edip direnenleri belirtmeden esenlik bahçesine gireceğinizi mi sanıyordunuz?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|2MP"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa içinizden Allah cihad edenleri ve sebat edip direnenleri belirtmeden esenlik bahçesine gireceğinizi mi sanıyordunuz?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 3,
+      "ayah": 169,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:169",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْسَبَنَّ",
+      "target_word_rasm": "تحسبن",
+      "target_word_literal_irab": "Sakın ... sanma (`تَحْسَبَنَّ / تَحْسَبَنَّهُم`, tekit nûnlu nehiy I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 3,
+      "ayah": 173,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:173",
+      "word_position": 14,
+      "target_word_uthmani": "حَسْبُنَا",
+      "target_word_rasm": "حسبنا",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "فَزَادَهُمْ إِيمَٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar onlara: \"Düşmanınız olan insanlar size karşı bir ordu topladılar, onlardan korkun\" dediler. ...",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar onlara: \"Düşmanınız olan insanlar size karşı bir ordu topladılar, onlardan korkun\" dediler. Bu, onların güven bağı artırdı da: \"Allah bize yeter. O ne güzel Vekil'dir\" dediler.",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 3,
+      "ayah": 178,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:178",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْسَبَنَّ",
+      "target_word_rasm": "يحسبن",
+      "target_word_literal_irab": "Sakın ... sanmasınlar (`يَحْسَبَنَّ`, tekit nûnlu nehiy I. bab muzâri)",
+      "context_snippet_arabic": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, kendilerine vermiş olduğumuz mühletin sakın kendileri için hayırlı olduğunu sanmasınlar. Biz onlara ancak, sapma ve kusurları çoğalsın diye mühlet veriyoruz. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّمَا نُمْلِى لَهُمْ خَيْرٌ لِّأَنفُسِهِمْ إِنَّمَا نُمْلِى لَهُمْ لِيَزْدَادُوٓا۟ إِثْمًا وَلَهُمْ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, kendilerine vermiş olduğumuz mühletin sakın kendileri için hayırlı olduğunu sanmasınlar. Biz onlara ancak, sapma ve kusurları çoğalsın diye mühlet veriyoruz. Küçültücü azab onlaradır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 3,
+      "ayah": 180,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:180",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْسَبَنَّ",
+      "target_word_rasm": "يحسبن",
+      "target_word_literal_irab": "Sakın ... sanmasınlar (`يَحْسَبَنَّ`, tekit nûnlu nehiy I. bab muzâri)",
+      "context_snippet_arabic": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın bol nimetinden verdiklerinde cimrilik edenler, sakın bunun kendileri için hayırlı olduğunu sanmasınlar, bilakis bu onların kötülüğünedir. Cimrilik yaptıkları şey, kıyamet günü boyunlarına dolanacaktır. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم بَلْ هُوَ شَرٌّ لَّهُمْ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَٰمَةِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın bol nimetinden verdiklerinde cimrilik edenler, sakın bunun kendileri için hayırlı olduğunu sanmasınlar, bilakis bu onların kötülüğünedir. Cimrilik yaptıkları şey, kıyamet günü boyunlarına dolanacaktır. Göklerin ve yerin mirası Allah'ındır. Allah işlediklerinizden haberdardır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 3,
+      "ayah": 188,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:188",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْسَبَنَّ",
+      "target_word_rasm": "تحسبن",
+      "target_word_literal_irab": "Sakın ... sanma (`تَحْسَبَنَّ / تَحْسَبَنَّهُم`, tekit nûnlu nehiy I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ",
+      "context_snippet_turkish_tabula_rasa": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 3,
+      "ayah": 188,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:188",
+      "word_position": 14,
+      "target_word_uthmani": "تَحْسَبَنَّهُم",
+      "target_word_rasm": "تحسبنهم",
+      "target_word_literal_irab": "Sakın ... sanma (`تَحْسَبَنَّ / تَحْسَبَنَّهُم`, tekit nûnlu nehiy I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ",
+      "context_snippet_turkish_tabula_rasa": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 3,
+      "ayah": 199,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:199",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "... İşte onların ecirleri Rablerinin katındadır. Şüphesiz Allah'ın hesabı çabuktur.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden Allah'a huşu duyarak güvene erip, Allah'ın ayetlerini az bir değere değişmeyenler vardır. İşte onların ecirleri Rablerinin katındadır. Şüphesiz Allah'ın hesabı çabuktur.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 37,
+      "target_word_uthmani": "حَسِيبًا",
+      "target_word_rasm": "حسيبا",
+      "target_word_literal_irab": "Eksiksiz hesap görücü ve gözetici (`حَسِيبًا`, mübalağa sıfat/isim mansûb)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "context_snippet_turkish_tabula_rasa": "... Mallarını kendilerine verdiğiniz zaman, yanlarında şahid bulundurun. Hesap sormak için Allah yeter.",
+      "morphology": {
+        "lemma": "Hasiyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasiyb|ROOT:Hsb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; büyüyecekler de geri alacaklar diye onları israf ederek ve tez elden yemeyin. Zengin olan, iffetli olmağa çalışsın, yoksul olan uygun bir şekilde yesin. Mallarını kendilerine verdiğiniz zaman, yanlarında şahid bulundurun. Hesap sormak için Allah yeter.",
+      "contextual_meaning": "Kayıt ve denetim otoritesi (`4:6`, `4:86`, `33:39`): Yetim malı tesliminden en küçük selam karşılığına kadar her şeyi eksiksiz kayda alıp hesabını soran."
+    },
+    {
+      "surah": 4,
+      "ayah": 86,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:86",
+      "word_position": 15,
+      "target_word_uthmani": "حَسِيبًا",
+      "target_word_rasm": "حسيبا",
+      "target_word_literal_irab": "Eksiksiz hesap görücü ve gözetici (`حَسِيبًا`, mübalağa sıfat/isim mansûb)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+      "context_snippet_turkish_tabula_rasa": "Size bir selam verildiği zaman, ondan daha iyisiyle selam verin veya ayniyle mukabele edin. Allah her şeyin hesabını gereği gibi yapandır.",
+      "morphology": {
+        "lemma": "Hasiyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasiyb|ROOT:Hsb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Size bir selam verildiği zaman, ondan daha iyisiyle selam verin veya ayniyle mukabele edin. Allah her şeyin hesabını gereği gibi yapandır.",
+      "contextual_meaning": "Kayıt ve denetim otoritesi (`4:6`, `4:86`, `33:39`): Yetim malı tesliminden en küçük selam karşılığına kadar her şeyi eksiksiz kayda alıp hesabını soran."
+    },
+    {
+      "surah": 5,
+      "ayah": 4,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:4",
+      "word_position": 31,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Sana, kendilerine neyin helal kılındığını soruyorlar, de ki: Size temiz olanlar helal kılındı; ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kendilerine neyin helal kılındığını soruyorlar, de ki: Size temiz olanlar helal kılındı; Allah'ın size öğrettiği üzere alıştırıp yetiştirerek öğrettiğiniz avcı hayvanların sizin için tuttuklarını yiyin ve üzerine Allah'ın adını anın. Allah'tan sakının, doğrusu Allah hesabı çabuk görür.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 71,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:71",
+      "word_position": 1,
+      "target_word_uthmani": "وَحَسِبُوٓا۟",
+      "target_word_rasm": "وحسبوا",
+      "target_word_literal_irab": "Sandılar / hesabettiler (`وَحَسِبُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Bir fitne kopmayacağını sandılar, körleştiler, sağırlaştılar; sonra Allah tevbelerini kabul etti, yine de çoğu körleştiler ve sağırlaştılar. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌ مِّنْهُمْ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir fitne kopmayacağını sandılar, körleştiler, sağırlaştılar; sonra Allah tevbelerini kabul etti, yine de çoğu körleştiler ve sağırlaştılar. Allah, işlediklerini görür.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 5,
+      "ayah": 104,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:104",
+      "word_position": 12,
+      "target_word_uthmani": "حَسْبُنَا",
+      "target_word_rasm": "حسبنا",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "contextual_meaning": "Yıkıcı veya yanlış yeterlilik (`2:206`, `5:104`, `9:68`, `58:8`): Gerçeği örtme ve kibre karşılık yakıcı yıkım yurdunun yetmesi veya 'atalarımızın yolu bize yeter' diyerek hakikate kapanma."
+    },
+    {
+      "surah": 6,
+      "ayah": 52,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:52",
+      "word_position": 13,
+      "target_word_uthmani": "حِسَابِهِم",
+      "target_word_rasm": "حسابهم",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "... Onların hesabından sana bir sorumluluk yoktur, senin hesabından da onlara bir sorumluluk yoktur ki onları kovarak zulmedenlerden olasın.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah akşam, Rabblerinin rızasını isteyerek O'na yalvaranları kovma. Onların hesabından sana bir sorumluluk yoktur, senin hesabından da onlara bir sorumluluk yoktur ki onları kovarak zulmedenlerden olasın.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 6,
+      "ayah": 52,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:52",
+      "word_position": 18,
+      "target_word_uthmani": "حِسَابِكَ",
+      "target_word_rasm": "حسابك",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ",
+      "context_snippet_turkish_tabula_rasa": "... Onların hesabından sana bir sorumluluk yoktur, senin hesabından da onlara bir sorumluluk yoktur ki onları kovarak zulmedenlerden olasın.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَطْرُدِ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ مَا عَلَيْكَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَمَا مِنْ حِسَابِكَ عَلَيْهِم مِّن شَىْءٍ فَتَطْرُدَهُمْ فَتَكُونَ مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah akşam, Rabblerinin rızasını isteyerek O'na yalvaranları kovma. Onların hesabından sana bir sorumluluk yoktur, senin hesabından da onlara bir sorumluluk yoktur ki onları kovarak zulmedenlerden olasın.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 6,
+      "ayah": 62,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:62",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْحَٰسِبِينَ",
+      "target_word_rasm": "ٱلحسبين",
+      "target_word_literal_irab": "Hesap görenlerin en hızlısı (`ٱلْحَٰسِبِينَ`, ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَٰسِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Haberiniz olsun, hüküm O'nundur. O, hesap görenlerin en süratlisidir.",
+      "morphology": {
+        "lemma": "Ha`sibiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:Ha`sibiyn|ROOT:Hsb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ثُمَّ رُدُّوٓا۟ إِلَى ٱللَّهِ مَوْلَىٰهُمُ ٱلْحَقِّ أَلَا لَهُ ٱلْحُكْمُ وَهُوَ أَسْرَعُ ٱلْحَٰسِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, kulların üstünde yegane Hakim'dir, size koruyucular gönderir. Artık birinize ölüm gelince elçilerimiz, bir eksiklik yapmaksızın onun canını alırlar, sonra gerçek Mevlalarına döndürürler. Haberiniz olsun, hüküm O'nundur. O, hesap görenlerin en süratlisidir.",
+      "contextual_meaning": "En hızlı ve şaşmaz hesap görücü (`6:62`, `21:47`): Hardal tanesi ağırlığındaki en küçük eylemi dahi adalet terazilerine getirip hesap görmede Allah'ın mutlak yetkinliği."
+    },
+    {
+      "surah": 6,
+      "ayah": 69,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:69",
+      "word_position": 6,
+      "target_word_uthmani": "حِسَابِهِم",
+      "target_word_rasm": "حسابهم",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَٰكِن",
+      "context_snippet_turkish_tabula_rasa": "Sakınan kimselere, onların hesaplarından bir sorumluluk yoktur. Fakat bir hatırlatmadır; belki sakınırlar.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sakınan kimselere, onların hesaplarından bir sorumluluk yoktur. Fakat bir hatırlatmadır; belki sakınırlar.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 6,
+      "ayah": 96,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:96",
+      "word_position": 8,
+      "target_word_uthmani": "حُسْبَانًا",
+      "target_word_rasm": "حسبانا",
+      "target_word_literal_irab": "Kozmik bir hesap ve vakit ölçüsü (`حُسْبَانًا`, nekre mef'ûl mansûb)",
+      "context_snippet_arabic": "سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ",
+      "context_snippet_turkish_tabula_rasa": "Tanyerini ağartan, geceyi dinlenme zamanı, güneş ve ayı vakit ölçüsü kılandır. Bu, Güçlü olan'ın, Bilen'in nizamıdır.",
+      "morphology": {
+        "lemma": "HusobaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HusobaAn|ROOT:Hsb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Tanyerini ağartan, geceyi dinlenme zamanı, güneş ve ayı vakit ölçüsü kılandır. Bu, Güçlü olan'ın, Bilen'in nizamıdır.",
+      "contextual_meaning": "Kozmik hesap düzeni (`6:96`, `55:5`): Güneş ve ayın şaşmaz bir matematiksel ölçü ve döngü hesabı (`حُسْبَانًا / بِحُسْبَانٍ`) ile seyretmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 30,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:30",
+      "word_position": 14,
+      "target_word_uthmani": "وَيَحْسَبُونَ",
+      "target_word_rasm": "ويحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah insanlardan bir takımını doğru yola eriştirdi, fakat bir takımı da sapıklığı haketti, çünkü bunlar Allah'ı bırakıp saptırıcı yıkıcı güçleri dost edinmiş ve kendilerini doğru yolda sanmışlardı.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ ٱلضَّلَٰلَةُ إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah insanlardan bir takımını doğru yola eriştirdi, fakat bir takımı da sapıklığı haketti, çünkü bunlar Allah'ı bırakıp saptırıcı yıkıcı güçleri dost edinmiş ve kendilerini doğru yolda sanmışlardı.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 8,
+      "ayah": 59,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:59",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْسَبَنَّ",
+      "target_word_rasm": "يحسبن",
+      "target_word_literal_irab": "Sakın ... sanmasınlar (`يَحْسَبَنَّ`, tekit nûnlu nehiy I. bab muzâri)",
+      "context_snippet_arabic": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ سَبَقُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, asla öne geçtiklerini sanmasınlar, çünkü onlar bizi aciz bırakamıyacaklardır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ سَبَقُوٓا۟ إِنَّهُمْ لَا يُعْجِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, asla öne geçtiklerini sanmasınlar, çünkü onlar bizi aciz bırakamıyacaklardır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 8,
+      "ayah": 62,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:62",
+      "word_position": 6,
+      "target_word_uthmani": "حَسْبَكَ",
+      "target_word_rasm": "حسبك",
+      "target_word_literal_irab": "Sana eksiksiz yeten (`حَسْبَكَ`, ism-i inne mansûb)",
+      "context_snippet_arabic": "أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ هُوَ ٱلَّذِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Seni aldatmak isterlerse, bil ki şüphesiz Allah sana kafidir. Seni ve güvene erenleri yardımıyla destekleyen, kalblerini uzlaştıran O'dur. ...",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ وَبِٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni aldatmak isterlerse, bil ki şüphesiz Allah sana kafidir. Seni ve güvene erenleri yardımıyla destekleyen, kalblerini uzlaştıran O'dur. Eğer yeryüzünde olan her şeyi dolaşıma sokup paylaşsan bile, sen onların kalblerini uzlaştıramazdın, ama Allah onları uzlaştırdı. Doğrusu O Güçlü'dür, Hakim'dir.",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 8,
+      "ayah": 64,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:64",
+      "word_position": 3,
+      "target_word_uthmani": "حَسْبُكَ",
+      "target_word_rasm": "حسبك",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ حَسْبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yardımı sana ve sana uyan güvene erenlere yeter.",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ حَسْبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yardımı sana ve sana uyan güvene erenlere yeter.",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 16,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:16",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبْتُمْ",
+      "target_word_rasm": "حسبتم",
+      "target_word_literal_irab": "Yoksa ... mı hesabedip sandınız (`حَسِبْتُمْ / أَفَحَسِبْتُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan, elçisinden ve güvene erenlerden başka sırdaş edinmeyenleri ortaya çıkarmadan sizi kendi halinize bırakacak mı zannediyorsunuz? Allah işlediklerinizden haberdardır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|2MP"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden cihat edenleri; Allah'tan, elçisinden ve güvene erenlerden başka sırdaş edinmeyenleri ortaya çıkarmadan sizi kendi halinize bırakacak mı zannediyorsunuz? Allah işlediklerinizden haberdardır.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 9,
+      "ayah": 59,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:59",
+      "word_position": 9,
+      "target_word_uthmani": "حَسْبُنَا",
+      "target_word_rasm": "حسبنا",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlar, Allah ve elçisinin kendilerine vermiş oldukları şeylere razı olsalar ve \"Allah bize yeter, O ve elçiyi bol nimetinden bize verecektir; doğrusu biz Allah'a gönül bağlayanlardanız\" deselerdi daha hayırlı olurdu.",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlar, Allah ve elçisinin kendilerine vermiş oldukları şeylere razı olsalar ve \"Allah bize yeter, O ve elçiyi bol nimetinden bize verecektir; doğrusu biz Allah'a gönül bağlayanlardanız\" deselerdi daha hayırlı olurdu.",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 9,
+      "ayah": 68,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:68",
+      "word_position": 11,
+      "target_word_uthmani": "حَسْبُهُمْ",
+      "target_word_rasm": "حسبهم",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ ٱللَّهُ وَلَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah, ikiyüzlü erkek ve kadınlara ve gerçeğin üzerini örtenlere, ebedi kalacakları yakıcı yıkım yurdu ateşini hazırlamıştır. O, onlara yeter. Allah onları lanetlemiştir (rahmetinden uzak kılmıştır). ...",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَدَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَا هِىَ حَسْبُهُمْ وَلَعَنَهُمُ ٱللَّهُ وَلَهُمْ عَذَابٌ مُّقِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, ikiyüzlü erkek ve kadınlara ve gerçeğin üzerini örtenlere, ebedi kalacakları yakıcı yıkım yurdu ateşini hazırlamıştır. O, onlara yeter. Allah onları lanetlemiştir (rahmetinden uzak kılmıştır). Onlara devamlı azab vardır.",
+      "contextual_meaning": "Yıkıcı veya yanlış yeterlilik (`2:206`, `5:104`, `9:68`, `58:8`): Gerçeği örtme ve kibre karşılık yakıcı yıkım yurdunun yetmesi veya 'atalarımızın yolu bize yeter' diyerek hakikate kapanma."
+    },
+    {
+      "surah": 9,
+      "ayah": 129,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:129",
+      "word_position": 4,
+      "target_word_uthmani": "حَسْبِىَ",
+      "target_word_rasm": "حسبى",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer yüz çevirirlerse de ki: \"Allah bana yeter; O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güveniyorum; O büyük arşın Rabbidir.\"",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yüz çevirirlerse de ki: \"Allah bana yeter; O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güveniyorum; O büyük arşın Rabbidir.\"",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 10,
+      "ayah": 5,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:5",
+      "word_position": 13,
+      "target_word_uthmani": "وَٱلْحِسَابَ",
+      "target_word_rasm": "وٱلحساب",
+      "target_word_literal_irab": "Hesabı / hesaplarını (`وَٱلْحِسَابَ / حِسَابَهُۥ / حِسَابَهُم`, mansûb)",
+      "context_snippet_arabic": "لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... yılların sayısını ve hesabı bilmeniz için, aya konak yerleri düzenleyen O'dur. Allah bunları ancak gerçeğe göre yaratmıştır; ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Güneşi ışıklı ve ayı nurlu yapan; yılların sayısını ve hesabı bilmeniz için, aya konak yerleri düzenleyen O'dur. Allah bunları ancak gerçeğe göre yaratmıştır; bilen millete ayetleri uzun uzadıya açıklıyor.",
+      "contextual_meaning": "Matematiksel zaman bilgisi (`عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ` `10:5`, `17:12`): Ayın evreleri ve gece-gündüz dönüşüyle yılların sayımının ve vakit hesabının öğrenilmesi."
+    },
+    {
+      "surah": 13,
+      "ayah": 18,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:18",
+      "word_position": 23,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ لَهُمْ سُوٓءُ ٱلْحِسَابِ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ",
+      "context_snippet_turkish_tabula_rasa": "... O'nun çağrısına uymayanlar ise, yeryüzünde olan her şey ve daha bir katı onların olsa, kurtulmak için fidye verirlerdi. İşte hesapları kötü olanlar bunlardır. Varacakları yer yakıcı yıkım yurdudur; ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمُ ٱلْحُسْنَىٰ وَٱلَّذِينَ لَمْ يَسْتَجِيبُوا۟ لَهُۥ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ سُوٓءُ ٱلْحِسَابِ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمِهَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin çağrısına gelenlere en güzel karşılık vardır. O'nun çağrısına uymayanlar ise, yeryüzünde olan her şey ve daha bir katı onların olsa, kurtulmak için fidye verirlerdi. İşte hesapları kötü olanlar bunlardır. Varacakları yer yakıcı yıkım yurdudur; ne kötü konaktır!",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 21,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:21",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "رَبَّهُمْ وَيَخَافُونَ سُوٓءَ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Allah'ın birleştirilmesini emrettiği şeyi birleştirirler, Rablerinden korkarlar; kötü hesaptan ürkerler.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوٓءَ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Allah'ın birleştirilmesini emrettiği şeyi birleştirirler, Rablerinden korkarlar; kötü hesaptan ürkerler.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 40,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:40",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْحِسَابُ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap ve muhasebe (`ٱلْحِسَابُ / حِسَابُهُمْ / حِسَابُهُۥ`, merfû)",
+      "context_snippet_arabic": "عَلَيْكَ ٱلْبَلَٰغُ وَعَلَيْنَا ٱلْحِسَابُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara vadettiğimiz azabın bir kısmını sana göstersek de senin canını alsak da, vazifen sadece tebliğ etmektir. Hesap görmek Bize düşer.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن مَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ وَعَلَيْنَا ٱلْحِسَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara vadettiğimiz azabın bir kısmını sana göstersek de senin canını alsak da, vazifen sadece tebliğ etmektir. Hesap görmek Bize düşer.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 13,
+      "ayah": 41,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:41",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "لِحُكْمِهِۦ وَهُوَ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Görmüyorlar mı ki, Biz yeryüzünü etrafından gitgide eksiltmekteyiz. Hüküm Allah'ındır, O'nun hükmünü takip edip bozacak yoktur. O, hesabı çabuk görür.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا وَٱللَّهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهِۦ وَهُوَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Görmüyorlar mı ki, Biz yeryüzünü etrafından gitgide eksiltmekteyiz. Hüküm Allah'ındır, O'nun hükmünü takip edip bozacak yoktur. O, hesabı çabuk görür.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 41,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:41",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْحِسَابُ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap ve muhasebe (`ٱلْحِسَابُ / حِسَابُهُمْ / حِسَابُهُۥ`, merfû)",
+      "context_snippet_arabic": "وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! Hesap görülecek günde, beni, anamı babamı ve güvene erenleri bağışla.\"",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! Hesap görülecek günde, beni, anamı babamı ve güvene erenleri bağışla.\"",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 42,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:42",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْسَبَنَّ",
+      "target_word_rasm": "تحسبن",
+      "target_word_literal_irab": "Sakın ... sanma (`تَحْسَبَنَّ / تَحْسَبَنَّهُم`, tekit nûnlu nehiy I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا",
+      "context_snippet_turkish_tabula_rasa": "Sakın Allah'ı, zalimlerin yaptıklarından habersiz sanma; gözlerin dışarı fırlayacağı bir güne kadar onları ertelemektedir.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ ٱلْأَبْصَٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Sakın Allah'ı, zalimlerin yaptıklarından habersiz sanma; gözlerin dışarı fırlayacağı bir güne kadar onları ertelemektedir.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 14,
+      "ayah": 47,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:47",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْسَبَنَّ",
+      "target_word_rasm": "تحسبن",
+      "target_word_literal_irab": "Sakın ... sanma (`تَحْسَبَنَّ / تَحْسَبَنَّهُم`, tekit nûnlu nehiy I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "فَلَا تَحْسَبَنَّ ٱللَّهَ مُخْلِفَ وَعْدِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yerin başka bir yerle, göklerin de başka göklerle değiştirildiği, her şeye üstün gelen tek Allah'ın huzuruna çıktıkları günde, sakın Allah'ın elçilerine verdiği sözden cayacağını sanma; doğrusu Allah güçlüdür, öç alandır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "فَلَا تَحْسَبَنَّ ٱللَّهَ مُخْلِفَ وَعْدِهِۦ رُسُلَهُۥٓ إِنَّ ٱللَّهَ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerin başka bir yerle, göklerin de başka göklerle değiştirildiği, her şeye üstün gelen tek Allah'ın huzuruna çıktıkları günde, sakın Allah'ın elçilerine verdiği sözden cayacağını sanma; doğrusu Allah güçlüdür, öç alandır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 14,
+      "ayah": 51,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:51",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah herkese yaptığının karşılığını vereceği için böyledir. Doğrusu Allah hesabı çabuk görür.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah herkese yaptığının karşılığını vereceği için böyledir. Doğrusu Allah hesabı çabuk görür.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 12,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:12",
+      "word_position": 19,
+      "target_word_uthmani": "وَٱلْحِسَابَ",
+      "target_word_rasm": "وٱلحساب",
+      "target_word_literal_irab": "Hesabı / hesaplarını (`وَٱلْحِسَابَ / حِسَابَهُۥ / حِسَابَهُم`, mansûb)",
+      "context_snippet_arabic": "وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "... Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "contextual_meaning": "Matematiksel zaman bilgisi (`عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ` `10:5`, `17:12`): Ayın evreleri ve gece-gündüz dönüşüyle yılların sayımının ve vakit hesabının öğrenilmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 14,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:14",
+      "word_position": 7,
+      "target_word_uthmani": "حَسِيبًا",
+      "target_word_rasm": "حسيبا",
+      "target_word_literal_irab": "Eksiksiz hesap görücü ve gözetici (`حَسِيبًا`, mübalağa sıfat/isim mansûb)",
+      "context_snippet_arabic": "بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا",
+      "context_snippet_turkish_tabula_rasa": "\"Kitabını oku, bugün, hesap görücü olarak sen kendine yetersin.\"",
+      "morphology": {
+        "lemma": "Hasiyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasiyb|ROOT:Hsb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kitabını oku, bugün, hesap görücü olarak sen kendine yetersin.\"",
+      "contextual_meaning": "Öz-muhasebe (`كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا` `17:14`): İnsanın kendi kayıt kitabını okuyarak kendine karşı bizzat hesap görücü olarak yetmesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 9,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:9",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبْتَ",
+      "target_word_rasm": "حسبت",
+      "target_word_literal_irab": "Sandın / onları ... saydın (`حَسِبْتَ / حَسِبْتَهُمْ`, I. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa sen Mağara ve Kitap ehlini şaşılacak ayetlerimizden mi zannettin?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa sen Mağara ve Kitap ehlini şaşılacak ayetlerimizden mi zannettin?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 18,
+      "ayah": 18,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:18",
+      "word_position": 1,
+      "target_word_uthmani": "وَتَحْسَبُهُمْ",
+      "target_word_rasm": "وتحسبهم",
+      "target_word_literal_irab": "Onları / onu ... sanırsın (`تَحْسَبُ / تَحْسَبُهُمْ / وَتَحْسَبُهُمْ`, I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ",
+      "context_snippet_turkish_tabula_rasa": "Mağara ehli uykuda iken sen onları uyanık sanırdın. Biz onları sağa ve sola döndürürdük. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ وَكَلْبُهُم بَٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mağara ehli uykuda iken sen onları uyanık sanırdın. Biz onları sağa ve sola döndürürdük. Köpekleri dirseklerini eşiğe uzatmıştı. Onları görsen, için korkuyla dolar, geri dönüp kaçardın.",
+      "contextual_meaning": "Dış görünüş yanılgısı (`18:18`, `24:39`, `27:44,88`, `76:19`): Uyuyanları uyanık, serabı su, cam zemini derin su, yürüyen dağları sabit veya hizmetçileri saçılmış inci sanma gibi duyusal hesap yanılması."
+    },
+    {
+      "surah": 18,
+      "ayah": 40,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:40",
+      "word_position": 10,
+      "target_word_uthmani": "حُسْبَانًا",
+      "target_word_rasm": "حسبانا",
+      "target_word_literal_irab": "Gökten hesaplı ve ölçülü bir darbe (`حُسْبَانًا`, nekre isim mansûb)",
+      "context_snippet_arabic": "جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. ...",
+      "morphology": {
+        "lemma": "HusobaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HusobaAn|ROOT:Hsb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًا زَلَقًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın\" dedi.",
+      "contextual_meaning": "Ölçülü gök darbesi (`حُسْبَانًا مِّنَ ٱلسَّمَآءِ` `18:40`): Kibirli bağ sahibinin bahçesini kaygan düzlüğe çeviren, gökten indirilmiş hesaplı darbe/afet."
+    },
+    {
+      "surah": 18,
+      "ayah": 102,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:102",
+      "word_position": 1,
+      "target_word_uthmani": "أَفَحَسِبَ",
+      "target_word_rasm": "أفحسب",
+      "target_word_literal_irab": "Yoksa ... mı sandı (`أَحَسِبَ / أَفَحَسِبَ / حَسِبَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler, Beni bırakıp da kullarımı dost edinmelerini yeterli mi sandılar? Doğrusu biz yakıcı yıkım yurdunu gerçeğin üzerini örtenlere konak olarak hazırladık.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟ أَن يَتَّخِذُوا۟ عِبَادِى مِن دُونِىٓ أَوْلِيَآءَ إِنَّآ أَعْتَدْنَا جَهَنَّمَ لِلْكَٰفِرِينَ نُزُلًا",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, Beni bırakıp da kullarımı dost edinmelerini yeterli mi sandılar? Doğrusu biz yakıcı yıkım yurdunu gerçeğin üzerini örtenlere konak olarak hazırladık.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 18,
+      "ayah": 104,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:104",
+      "word_position": 8,
+      "target_word_uthmani": "يَحْسَبُونَ",
+      "target_word_rasm": "يحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+      "context_snippet_turkish_tabula_rasa": "Dünya hayatında, çalışmaları boşa gitmiştir, oysa onlar güzel iş yaptıklarını sanıyorlardı.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatında, çalışmaları boşa gitmiştir, oysa onlar güzel iş yaptıklarını sanıyorlardı.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 21,
+      "ayah": 1,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:1",
+      "word_position": 3,
+      "target_word_uthmani": "حِسَابُهُمْ",
+      "target_word_rasm": "حسابهم",
+      "target_word_literal_irab": "Hesap ve muhasebe (`ٱلْحِسَابُ / حِسَابُهُمْ / حِسَابُهُۥ`, merfû)",
+      "context_snippet_arabic": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ",
+      "context_snippet_turkish_tabula_rasa": "İnsanların hesap görme zamanı yaklaştı, fakat onlar hala habersiz, hakdan yüz çeviriyorlar.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların hesap görme zamanı yaklaştı, fakat onlar hala habersiz, hakdan yüz çeviriyorlar.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 47,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:47",
+      "word_position": 20,
+      "target_word_uthmani": "حَٰسِبِينَ",
+      "target_word_rasm": "حسبين",
+      "target_word_literal_irab": "Hesap görenler olarak (`حَٰسِبِينَ`, ism-i fâil çoğul mansûb hâl)",
+      "context_snippet_arabic": "بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Hardal tanesi kadar olsa bile yapılanı ortaya koyarız. Hesap gören olarak Biz yeteriz.",
+      "morphology": {
+        "lemma": "Ha`sibiyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:Ha`sibiyn|ROOT:Hsb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kıyamet günü doğru teraziler kurarız; hiçbir kimse hiçbir haksızlığa uğratılmaz. Hardal tanesi kadar olsa bile yapılanı ortaya koyarız. Hesap gören olarak Biz yeteriz.",
+      "contextual_meaning": "En hızlı ve şaşmaz hesap görücü (`6:62`, `21:47`): Hardal tanesi ağırlığındaki en küçük eylemi dahi adalet terazilerine getirip hesap görmede Allah'ın mutlak yetkinliği."
+    },
+    {
+      "surah": 23,
+      "ayah": 55,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:55",
+      "word_position": 1,
+      "target_word_uthmani": "أَيَحْسَبُونَ",
+      "target_word_rasm": "أيحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 23,
+      "ayah": 115,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:115",
+      "word_position": 1,
+      "target_word_uthmani": "أَفَحَسِبْتُمْ",
+      "target_word_rasm": "أفحسبتم",
+      "target_word_literal_irab": "Yoksa ... mı hesabedip sandınız (`حَسِبْتُمْ / أَفَحَسِبْتُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًا",
+      "context_snippet_turkish_tabula_rasa": "Allah' \"Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?\" der.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|2MP"
+      },
+      "ayah_text_arabic_full": "أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah' \"Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?\" der.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 23,
+      "ayah": 117,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:117",
+      "word_position": 12,
+      "target_word_uthmani": "حِسَابُهُۥ",
+      "target_word_rasm": "حسابه",
+      "target_word_literal_irab": "Hesap ve muhasebe (`ٱلْحِسَابُ / حِسَابُهُمْ / حِسَابُهُۥ`, merfû)",
+      "context_snippet_arabic": "لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Allah'la beraber, varlığına hiçbir delili olmadığı halde başka sığınak merciine tapanın hesabını Rabbi görecektir. gerçeğin üzerini örtenler elbette kurtulamazlar.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرْهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'la beraber, varlığına hiçbir delili olmadığı halde başka sığınak merciine tapanın hesabını Rabbi görecektir. gerçeğin üzerini örtenler elbette kurtulamazlar.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 24,
+      "ayah": 11,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:11",
+      "word_position": 8,
+      "target_word_uthmani": "تَحْسَبُوهُ",
+      "target_word_rasm": "تحسبوه",
+      "target_word_literal_irab": "Onu ... saymayın / sanmayın (`تَحْسَبُوهُ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "عُصْبَةٌ مِّنكُمْ لَا تَحْسَبُوهُ شَرًّا لَّكُم بَلْ",
+      "context_snippet_turkish_tabula_rasa": "(elçi'in eşi hakkında) o yalanı uyduranlar içinizden bir güruhtur. Bunu kendiniz için kötü sanmayın, o sizin için hayırlı olmuştur. O kimselerden her birine kazandığı sapma ve ağır kusur karşılığı ceza vardır; ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ جَآءُو بِٱلْإِفْكِ عُصْبَةٌ مِّنكُمْ لَا تَحْسَبُوهُ شَرًّا لَّكُم بَلْ هُوَ خَيْرٌ لَّكُمْ لِكُلِّ ٱمْرِئٍ مِّنْهُم مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "(elçi'in eşi hakkında) o yalanı uyduranlar içinizden bir güruhtur. Bunu kendiniz için kötü sanmayın, o sizin için hayırlı olmuştur. O kimselerden her birine kazandığı sapma ve ağır kusur karşılığı ceza vardır; içlerinden elebaşılık yapana ise büyük azap vardır.",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 24,
+      "ayah": 15,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:15",
+      "word_position": 11,
+      "target_word_uthmani": "وَتَحْسَبُونَهُۥ",
+      "target_word_rasm": "وتحسبونه",
+      "target_word_literal_irab": "Onu ... sanıyorsunuz (`وَتَحْسَبُونَهُۥ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "لَكُم بِهِۦ عِلْمٌ وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ",
+      "context_snippet_turkish_tabula_rasa": "Onu dilinize dolamıştınız. Bilmediğiniz şeyleri ağzınıza alıyordunuz. Onu önemsiz bir şey sanıyordunuz, oysa Allah katında önemi büyüktü.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MP"
+      },
+      "ayah_text_arabic_full": "إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu dilinize dolamıştınız. Bilmediğiniz şeyleri ağzınıza alıyordunuz. Onu önemsiz bir şey sanıyordunuz, oysa Allah katında önemi büyüktü.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 24,
+      "ayah": 38,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:38",
+      "word_position": 14,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا عَمِلُوا۟ وَيَزِيدَهُم مِّن فَضْلِهِۦ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, onları işlediklerinin en güzeliyle mükafatlandırır ve lütfundan onlara fazlasıyla verir. Allah dilediğini hesapsız şekilde rızıklandırır.",
+      "contextual_meaning": "Sınırsız ve hesapsız akış (`بِغَيْرِ حِسَابٍ`): Yaratıcı Kudret'in dilediğine ve yararlı eylem sahiplerine daraltma ve sayı sınırı olmaksızın rızık ve karşılık vermesi."
+    },
+    {
+      "surah": 24,
+      "ayah": 39,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:39",
+      "word_position": 6,
+      "target_word_uthmani": "يَحْسَبُهُ",
+      "target_word_rasm": "يحسبه",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "... Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin işleri engin çöllerdeki serap gibidir. Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. Allah hesabı çabuk görendir.",
+      "contextual_meaning": "Dış görünüş yanılgısı (`18:18`, `24:39`, `27:44,88`, `76:19`): Uyuyanları uyanık, serabı su, cam zemini derin su, yürüyen dağları sabit veya hizmetçileri saçılmış inci sanma gibi duyusal hesap yanılması."
+    },
+    {
+      "surah": 24,
+      "ayah": 39,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:39",
+      "word_position": 19,
+      "target_word_uthmani": "حِسَابَهُۥ",
+      "target_word_rasm": "حسابه",
+      "target_word_literal_irab": "Hesabı / hesaplarını (`وَٱلْحِسَابَ / حِسَابَهُۥ / حِسَابَهُم`, mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "... Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin işleri engin çöllerdeki serap gibidir. Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. Allah hesabı çabuk görendir.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 39,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:39",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "... Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin işleri engin çöllerdeki serap gibidir. Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. Allah hesabı çabuk görendir.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 57,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:57",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْسَبَنَّ",
+      "target_word_rasm": "تحسبن",
+      "target_word_literal_irab": "Sakın ... sanma (`تَحْسَبَنَّ / تَحْسَبَنَّهُم`, tekit nûnlu nehiy I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "لَا تَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ مُعْجِزِينَ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlerin, Bizi yeryüzünde aciz bırakacaklarını sanmayasın. Varacakları yer ateştir. Ne kötü dönüştür!",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَا تَحْسَبَنَّ ٱلَّذِينَ كَفَرُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَأْوَىٰهُمُ ٱلنَّارُ وَلَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin, Bizi yeryüzünde aciz bırakacaklarını sanmayasın. Varacakları yer ateştir. Ne kötü dönüştür!",
+      "contextual_meaning": "Yanılgı uyarısı (`لَا تَحْسَبَنَّ / لَا يَحْسَبَنَّ` `3:169,178,180,188`, `8:59`, `14:42,47`, `24:11,57`): Tek taraflı yüzeysel hesaba kapılıp gerçeğin tersini sanmama konusunda kesin uyarı."
+    },
+    {
+      "surah": 25,
+      "ayah": 44,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:44",
+      "word_position": 2,
+      "target_word_uthmani": "تَحْسَبُ",
+      "target_word_rasm": "تحسب",
+      "target_word_literal_irab": "Onları / onu ... sanırsın (`تَحْسَبُ / تَحْسَبُهُمْ / وَتَحْسَبُهُمْ`, I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa çoklarının söz dinlediklerini veya aklettiklerini mi sanırsın? Onlar şüphesiz davarlar gibidir, belki daha da sapık yolludurlar.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلَّا كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa çoklarının söz dinlediklerini veya aklettiklerini mi sanırsın? Onlar şüphesiz davarlar gibidir, belki daha da sapık yolludurlar.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 26,
+      "ayah": 113,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:113",
+      "word_position": 2,
+      "target_word_uthmani": "حِسَابُهُمْ",
+      "target_word_rasm": "حسابهم",
+      "target_word_literal_irab": "Hesap ve muhasebe (`ٱلْحِسَابُ / حِسَابُهُمْ / حِسَابُهُۥ`, merfû)",
+      "context_snippet_arabic": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "... hesabları Rabbime aittir, düşünsenize! Ben güvene erenleri kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى لَوْ تَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh: \"Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben güvene erenleri kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 27,
+      "ayah": 44,
+      "surah_name": "Neml",
+      "ayah_ref": "27:44",
+      "word_position": 7,
+      "target_word_uthmani": "حَسِبَتْهُ",
+      "target_word_rasm": "حسبته",
+      "target_word_literal_irab": "Onu ... sandı (`حَسِبَتْهُ`, I. bab mâzî 3. tekil dişil)",
+      "context_snippet_arabic": "ٱلصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن",
+      "context_snippet_turkish_tabula_rasa": "... \"Köşke gir\" dendi; salonu görünce, onu derin bir su zannetti, eteğini çekti. Süleyman: ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3FS"
+      },
+      "ayah_text_arabic_full": "قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona: \"Köşke gir\" dendi; salonu görünce, onu derin bir su zannetti, eteğini çekti. Süleyman: \"Doğrusu bu camdan yapılmış mücella bir salondur\" dedi. Melike: \"Rabbim! Şüphesiz ben kendime yazık etmişim. Süleyman'la beraber, Alemlerin Rabbi olan Allah'a teslim oldum\" dedi.",
+      "contextual_meaning": "Dış görünüş yanılgısı (`18:18`, `24:39`, `27:44,88`, `76:19`): Uyuyanları uyanık, serabı su, cam zemini derin su, yürüyen dağları sabit veya hizmetçileri saçılmış inci sanma gibi duyusal hesap yanılması."
+    },
+    {
+      "surah": 27,
+      "ayah": 88,
+      "surah_name": "Neml",
+      "ayah_ref": "27:88",
+      "word_position": 3,
+      "target_word_uthmani": "تَحْسَبُهَا",
+      "target_word_rasm": "تحسبها",
+      "target_word_literal_irab": "Onu ... sanırsın (`تَحْسَبُهَا`, I. bab muzâri)",
+      "context_snippet_arabic": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ",
+      "context_snippet_turkish_tabula_rasa": "Dağları yerinde donmuş gibi durur görürsün, oysa onlar bulutlar gibi geçerler. Bu her şeyi sağlam tutan Allah'ın işidir. Doğrusu O, yaptıklarınızdan haberdardır...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3FS"
+      },
+      "ayah_text_arabic_full": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dağları yerinde donmuş gibi durur görürsün, oysa onlar bulutlar gibi geçerler. Bu her şeyi sağlam tutan Allah'ın işidir. Doğrusu O, yaptıklarınızdan haberdardır.",
+      "contextual_meaning": "Dış görünüş yanılgısı (`18:18`, `24:39`, `27:44,88`, `76:19`): Uyuyanları uyanık, serabı su, cam zemini derin su, yürüyen dağları sabit veya hizmetçileri saçılmış inci sanma gibi duyusal hesap yanılması."
+    },
+    {
+      "surah": 29,
+      "ayah": 2,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:2",
+      "word_position": 1,
+      "target_word_uthmani": "أَحَسِبَ",
+      "target_word_rasm": "أحسب",
+      "target_word_literal_irab": "Yoksa ... mı sandı (`أَحَسِبَ / أَفَحَسِبَ / حَسِبَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "And olsun, biz kendilerinden öncekileri de denemişken, insanlar, \"güvene erdik\" deyince, denenmeden bırakılacaklarını mı sanırlar? Allah elbette doğruları ortaya koyacak ve elbette yalancıları da ortaya çıkaracaktır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun, biz kendilerinden öncekileri de denemişken, insanlar, \"güvene erdik\" deyince, denenmeden bırakılacaklarını mı sanırlar? Allah elbette doğruları ortaya koyacak ve elbette yalancıları da ortaya çıkaracaktır.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 29,
+      "ayah": 4,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:4",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبَ",
+      "target_word_rasm": "حسب",
+      "target_word_literal_irab": "Yoksa ... mı sandı (`أَحَسِبَ / أَفَحَسِبَ / حَسِبَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَمْ حَسِبَ ٱلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, kötülük yapanlar Bizden kaçabileceklerini mi sanarlar? Ne kötü hüküm veriyorlar!",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبَ ٱلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسْبِقُونَا سَآءَ مَا يَحْكُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, kötülük yapanlar Bizden kaçabileceklerini mi sanarlar? Ne kötü hüküm veriyorlar!",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 33,
+      "ayah": 20,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:20",
+      "word_position": 1,
+      "target_word_uthmani": "يَحْسَبُونَ",
+      "target_word_rasm": "يحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Bunlar, düşman birliklerinin gitmediklerini sanıyorlardı. Bu birlikler tekrar gelmiş olsalardı, kendileri çöllerde bedevilerin yanında bulunup, sadece sizin haberlerinizi sormayı dilerlerdi. ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ وَلَوْ كَانُوا۟ فِيكُم مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, düşman birliklerinin gitmediklerini sanıyorlardı. Bu birlikler tekrar gelmiş olsalardı, kendileri çöllerde bedevilerin yanında bulunup, sadece sizin haberlerinizi sormayı dilerlerdi. Aranızda olsalar ancak pek az savaşırlardı.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 33,
+      "ayah": 39,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:39",
+      "word_position": 13,
+      "target_word_uthmani": "حَسِيبًا",
+      "target_word_rasm": "حسيبا",
+      "target_word_literal_irab": "Eksiksiz hesap görücü ve gözetici (`حَسِيبًا`, mübalağa sıfat/isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın göndermiş olduklarını tebliğ edenler, Allah'tan korkarlar ve O'ndan başka kimseden korkmazlar. Allah hesap gören olarak yeter.",
+      "morphology": {
+        "lemma": "Hasiyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Hasiyb|ROOT:Hsb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın göndermiş olduklarını tebliğ edenler, Allah'tan korkarlar ve O'ndan başka kimseden korkmazlar. Allah hesap gören olarak yeter.",
+      "contextual_meaning": "Kayıt ve denetim otoritesi (`4:6`, `4:86`, `33:39`): Yetim malı tesliminden en küçük selam karşılığına kadar her şeyi eksiksiz kayda alıp hesabını soran."
+    },
+    {
+      "surah": 38,
+      "ayah": 16,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:16",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar ise \"Rabbimiz! Bizim payımızı hesap gününden önce ver\" derler.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar ise \"Rabbimiz! Bizim payımızı hesap gününden önce ver\" derler.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 26,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:26",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Ey Davud! Seni şüphesiz yeryüzünde hükümran kıldık, o halde insanlar arasında adaletle hükmet, hevese uyma yoksa seni Allah'ın yolundan saptırır. Doğrusu, Allah'ın yolundan sapanlara, onlara, hesap gününü unutmalarına karşılık çetin azap vardır.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Davud! Seni şüphesiz yeryüzünde hükümran kıldık, o halde insanlar arasında adaletle hükmet, hevese uyma yoksa seni Allah'ın yolundan saptırır. Doğrusu, Allah'ın yolundan sapanlara, onlara, hesap gününü unutmalarına karşılık çetin azap vardır.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 39,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:39",
+      "word_position": 7,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "\"İşte Bizim bağışımız budur; ister ver, ister tut, hesapsızdır.\" dedik.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "هَٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"İşte Bizim bağışımız budur; ister ver, ister tut, hesapsızdır.\" dedik.",
+      "contextual_meaning": "Sınırsız ve hesapsız akış (`بِغَيْرِ حِسَابٍ`): Yaratıcı Kudret'in dilediğine ve yararlı eylem sahiplerine daraltma ve sayı sınırı olmaksızın rızık ve karşılık vermesi."
+    },
+    {
+      "surah": 38,
+      "ayah": 53,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:53",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "مَا تُوعَدُونَ لِيَوْمِ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "İşte bu hesap günü için, size söz verilenlerdir.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "هَٰذَا مَا تُوعَدُونَ لِيَوْمِ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bu hesap günü için, size söz verilenlerdir.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 10,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:10",
+      "word_position": 21,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "Şöyle de: \"Ey güvene eren kullarım! Rabbinize karşı gelmekten sakının; bu dünyada iyilik yapanlara iyilik vardır. Allah'ın yarattığı yeryüzü geniştir. Yalnız se...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle de: \"Ey güvene eren kullarım! Rabbinize karşı gelmekten sakının; bu dünyada iyilik yapanlara iyilik vardır. Allah'ın yarattığı yeryüzü geniştir. Yalnız sebat edip direnenlere, ecirleri sonsuz olarak ödenecektir.\"",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 38,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:38",
+      "word_position": 32,
+      "target_word_uthmani": "حَسْبِىَ",
+      "target_word_rasm": "حسبى",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "مُمْسِكَٰتُ رَحْمَتِهِۦ قُلْ حَسْبِىَ ٱللَّهُ عَلَيْهِ يَتَوَكَّلُ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, onlara, \"Gökleri ve yeri yaratan kimdir?\" diye sorsan: \"Allah'tır\" derler. ...",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ قُلْ حَسْبِىَ ٱللَّهُ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, onlara, \"Gökleri ve yeri yaratan kimdir?\" diye sorsan: \"Allah'tır\" derler. De ki: \"Öyleyse bana bildirin, Allah bana bir zarar vermek isterse, Allah'ı bırakıp da taptıklarınız, O'nun verdiği zararı giderebilir mi? Yahut bana bir rahmetdilerse, O'nun rahmetini önleyebilir mi?\" De ki: \"Allah bana yeter; güvenenler O'na güvenir.\"",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 39,
+      "ayah": 47,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:47",
+      "word_position": 25,
+      "target_word_uthmani": "يَحْتَسِبُونَ",
+      "target_word_rasm": "يحتسبون",
+      "target_word_literal_irab": "Hesaplarına katıp bekledikleri (`يَحْتَسِبُونَ`, VIII. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde olanların hepsi ve bir misli daha zalimlerin olmuş olsa, kıyamet günündeki kötü azap için fidye verseler kabul edilmez. Allah katından onlara, hiç hesaplamadıkları şeyler beliriverir.",
+      "morphology": {
+        "lemma": "yaHotasibu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yaHotasibu|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟ بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde olanların hepsi ve bir misli daha zalimlerin olmuş olsa, kıyamet günündeki kötü azap için fidye verseler kabul edilmez. Allah katından onlara, hiç hesaplamadıkları şeyler beliriverir.",
+      "contextual_meaning": "VIII. bab öngörü dışı tecelli (`مِنْ حَيْثُ لَا يَحْتَسِبُ / لَمْ يَحْتَسِبُوا۟` `39:47`, `59:2`, `65:3`): İnsanların kendi zihin defterlerine ve beklentilerine hiç katmadıkları yerden rızık veya sarsıcı gerçeğin gelmesi."
+    },
+    {
+      "surah": 40,
+      "ayah": 17,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:17",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Bugün herkese, kazandığının karşılığı verilir. Bugün haksızlık yoktur. Doğrusu Allah, hesabı çabuk görendir.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ لَا ظُلْمَ ٱلْيَوْمَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bugün herkese, kazandığının karşılığı verilir. Bugün haksızlık yoktur. Doğrusu Allah, hesabı çabuk görendir.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 27,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:27",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْحِسَابِ",
+      "target_word_rasm": "ٱلحساب",
+      "target_word_literal_irab": "Hesap görmenin / hesapların (`ٱلْحِسَابِ / حِسَابِهِم / حِسَابِكَ`, mecrûr)",
+      "context_snippet_arabic": "لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Doğrusu ben, hesap görülecek güne güven duy böbürlenenlerin hepsinden, benim de Rabbim sizin de Rabbiniz olan Allah'a sığınırım\" dedi.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Doğrusu ben, hesap görülecek güne güven duy böbürlenenlerin hepsinden, benim de Rabbim sizin de Rabbiniz olan Allah'a sığınırım\" dedi.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 40,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:40",
+      "word_position": 23,
+      "target_word_uthmani": "حِسَابٍ",
+      "target_word_rasm": "حساب",
+      "target_word_literal_irab": "Sınırsız ve hesapsız (`بِغَيْرِ حِسَابٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "... Kadın veya erkek, kim, güven duy yararlı iş işlerse, işte onlar esenlik bahçesine girerler; orada hesapsız şekilde rızıklanırlar. \"",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَنْ عَمِلَ سَيِّئَةً فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَمَنْ عَمِلَ صَٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ يُرْزَقُونَ فِيهَا بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Kim bir kötülük işlerse ancak onun kadar ceza görür. Kadın veya erkek, kim, güven duy yararlı iş işlerse, işte onlar esenlik bahçesine girerler; orada hesapsız şekilde rızıklanırlar.\"",
+      "contextual_meaning": "Sınırsız ve hesapsız akış (`بِغَيْرِ حِسَابٍ`): Yaratıcı Kudret'in dilediğine ve yararlı eylem sahiplerine daraltma ve sayı sınırı olmaksızın rızık ve karşılık vermesi."
+    },
+    {
+      "surah": 43,
+      "ayah": 37,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:37",
+      "word_position": 5,
+      "target_word_uthmani": "وَيَحْسَبُونَ",
+      "target_word_rasm": "ويحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz onlar bunları yoldan alıkorlar, bunlar da doğru yola eriştiklerini sanırlar.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُمْ لَيَصُدُّونَهُمْ عَنِ ٱلسَّبِيلِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz onlar bunları yoldan alıkorlar, bunlar da doğru yola eriştiklerini sanırlar.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 43,
+      "ayah": 80,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:80",
+      "word_position": 2,
+      "target_word_uthmani": "يَحْسَبُونَ",
+      "target_word_rasm": "يحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, kendilerinin gizli veya açık konuşmalarını duymayız mı sanırlar? Hayır; öyle değil; yanlarındaki elçilerimiz yazmaktadır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, kendilerinin gizli veya açık konuşmalarını duymayız mı sanırlar? Hayır; öyle değil; yanlarındaki elçilerimiz yazmaktadır.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 45,
+      "ayah": 21,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:21",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبَ",
+      "target_word_rasm": "حسب",
+      "target_word_literal_irab": "Yoksa ... mı sandı (`أَحَسِبَ / أَفَحَسِبَ / حَسِبَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, kötülük işleyen kimseler, ölümlerinde ve diriliklerinde kendilerini, güvene erip yararlı iş işleyen kimseler ile bir mi tutacağımızı sandılar? Ne kötü hüküm veriyorlar!",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, kötülük işleyen kimseler, ölümlerinde ve diriliklerinde kendilerini, güvene erip yararlı iş işleyen kimseler ile bir mi tutacağımızı sandılar? Ne kötü hüküm veriyorlar!",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 47,
+      "ayah": 29,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:29",
+      "word_position": 2,
+      "target_word_uthmani": "حَسِبَ",
+      "target_word_rasm": "حسب",
+      "target_word_literal_irab": "Yoksa ... mı sandı (`أَحَسِبَ / أَفَحَسِبَ / حَسِبَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَمْ حَسِبَ ٱلَّذِينَ فِى قُلُوبِهِم",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, kalblerinde hastalık olanlar, Allah'ın onların kinlerini dışarı vurmayacağını mı sandılar?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ أَن لَّن يُخْرِجَ ٱللَّهُ أَضْغَٰنَهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, kalblerinde hastalık olanlar, Allah'ın onların kinlerini dışarı vurmayacağını mı sandılar?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 55,
+      "ayah": 5,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:5",
+      "word_position": 3,
+      "target_word_uthmani": "بِحُسْبَانٍ",
+      "target_word_rasm": "بحسبان",
+      "target_word_literal_irab": "Şaşmaz bir hesap ve ölçü düzeniyle (`بِحُسْبَانٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "context_snippet_turkish_tabula_rasa": "Güneş ve ayın hareketleri bir hesaba göredir.",
+      "morphology": {
+        "lemma": "HusobaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HusobaAn|ROOT:Hsb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Güneş ve ayın hareketleri bir hesaba göredir.",
+      "contextual_meaning": "Kozmik hesap düzeni (`6:96`, `55:5`): Güneş ve ayın şaşmaz bir matematiksel ölçü ve döngü hesabı (`حُسْبَانًا / بِحُسْبَانٍ`) ile seyretmesi."
+    },
+    {
+      "surah": 58,
+      "ayah": 8,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:8",
+      "word_position": 34,
+      "target_word_uthmani": "حَسْبُهُمْ",
+      "target_word_rasm": "حسبهم",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ",
+      "context_snippet_turkish_tabula_rasa": "Gizli toplantıdan menedilen, sonra menolundukları şeyi yapmaya kalkışarak sapma ve ağır kusur işlemek, düşmanlık etmek ve elçiye karşı gelmek konusunda gizli gizli konuşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlarlar; içlerinden, \"Gerçekten elçi olsaydı Allah'ın bizi, söylediklerimizden ötürü, cezalandırması gerekmez miydi?\" derler. ...",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gizli toplantıdan menedilen, sonra menolundukları şeyi yapmaya kalkışarak sapma ve ağır kusur işlemek, düşmanlık etmek ve elçiye karşı gelmek konusunda gizli gizli konuşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlarlar; içlerinden, \"Gerçekten elçi olsaydı Allah'ın bizi, söylediklerimizden ötürü, cezalandırması gerekmez miydi?\" derler. yakıcı yıkım yurdu onlara yeter. Oraya girerler, ne kötü dönüştür!",
+      "contextual_meaning": "Yıkıcı veya yanlış yeterlilik (`2:206`, `5:104`, `9:68`, `58:8`): Gerçeği örtme ve kibre karşılık yakıcı yıkım yurdunun yetmesi veya 'atalarımızın yolu bize yeter' diyerek hakikate kapanma."
+    },
+    {
+      "surah": 58,
+      "ayah": 18,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:18",
+      "word_position": 10,
+      "target_word_uthmani": "وَيَحْسَبُونَ",
+      "target_word_rasm": "ويحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah, onların hepsini tekrar dirilttiği gün, size bağlayıcı ahit ettikleri gibi O'na bağlayıcı ahit ederler; kendilerine bir yarar sağlayacağını sanırlar. Dikkat edin; ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيَحْلِفُونَ لَهُۥ كَمَا يَحْلِفُونَ لَكُمْ وَيَحْسَبُونَ أَنَّهُمْ عَلَىٰ شَىْءٍ أَلَآ إِنَّهُمْ هُمُ ٱلْكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, onların hepsini tekrar dirilttiği gün, size bağlayıcı ahit ettikleri gibi O'na bağlayıcı ahit ederler; kendilerine bir yarar sağlayacağını sanırlar. Dikkat edin; onlar şüphesiz yalancıdırlar.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 59,
+      "ayah": 2,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:2",
+      "word_position": 28,
+      "target_word_uthmani": "يَحْتَسِبُوا۟",
+      "target_word_rasm": "يحتسبوا",
+      "target_word_literal_irab": "Hesaplarına katıp öngörmedikleri (`يَحْتَسِبُوا۟`, VIII. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ",
+      "context_snippet_turkish_tabula_rasa": "... Oysa ey güvene erenler! Çıkacaklarını sanmamıştınız, onlar da, kalelerinin kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah'ın azabı onlara beklemedikleri yerden geldi, kalblerine korku saldı; ...",
+      "morphology": {
+        "lemma": "yaHotasibu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yaHotasibu|ROOT:Hsb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden gerçeğin üzerini örten olanları ilk sürgünde yurtlarından çıkaran O'dur. Oysa ey güvene erenler! Çıkacaklarını sanmamıştınız, onlar da, kalelerinin kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah'ın azabı onlara beklemedikleri yerden geldi, kalblerine korku saldı; evlerini kendi elleriyle ve güvene erenlerin elleriyle yıkıyorlardı. Ey akıl sahipleri! Ders alın.",
+      "contextual_meaning": "VIII. bab öngörü dışı tecelli (`مِنْ حَيْثُ لَا يَحْتَسِبُ / لَمْ يَحْتَسِبُوا۟` `39:47`, `59:2`, `65:3`): İnsanların kendi zihin defterlerine ve beklentilerine hiç katmadıkları yerden rızık veya sarsıcı gerçeğin gelmesi."
+    },
+    {
+      "surah": 59,
+      "ayah": 14,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:14",
+      "word_position": 15,
+      "target_word_uthmani": "تَحْسَبُهُمْ",
+      "target_word_rasm": "تحسبهم",
+      "target_word_literal_irab": "Onları / onu ... sanırsın (`تَحْسَبُ / تَحْسَبُهُمْ / وَتَحْسَبُهُمْ`, I. bab muzâri 2. tekil)",
+      "context_snippet_arabic": "بَأْسُهُم بَيْنَهُمْ شَدِيدٌ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "... Kendi aralarındaki çekişmeleri ise serttir; onları birlik sanırsın, oysa kalbleri birbirinden ayrıdır. Bu, akletmeyen bir topluluk olmalarındandır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "لَا يُقَٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar sizinle toplu olarak, ancak surla çevrilmiş kasabalar içinde veya duvarlar arkasından savaşı kabul edebilirler. Kendi aralarındaki çekişmeleri ise serttir; onları birlik sanırsın, oysa kalbleri birbirinden ayrıdır. Bu, akletmeyen bir topluluk olmalarındandır.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 63,
+      "ayah": 4,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:4",
+      "word_position": 12,
+      "target_word_uthmani": "يَحْسَبُونَ",
+      "target_word_rasm": "يحسبون",
+      "target_word_literal_irab": "Sanırlar / sayarlar (`يَحْسَبُونَ / أَيَحْسَبُونَ / وَيَحْسَبُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "... tıpkı, sıralanmış kof kütük gibidirler; her çığlığı kendi aleyhlerine sayarlar; onlar düşmandır, onlardan çekin; ...",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ قَٰتَلَهُمُ ٱللَّهُ أَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara baktığın zaman cüsseleri hoşuna gider; konuşurlarsa sözlerini dinlersin; tıpkı, sıralanmış kof kütük gibidirler; her çığlığı kendi aleyhlerine sayarlar; onlar düşmandır, onlardan çekin; Allah canlarını alsın, nasıl da aldatılıp döndürülüyorlar.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 65,
+      "ayah": 3,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:3",
+      "word_position": 5,
+      "target_word_uthmani": "يَحْتَسِبُ",
+      "target_word_rasm": "يحتسب",
+      "target_word_literal_irab": "Kendi hesabına katıp beklediği (`يَحْتَسِبُ`, VIII. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَن يَتَوَكَّلْ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "... Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. ...",
+      "morphology": {
+        "lemma": "yaHotasibu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:yaHotasibu|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe güvene eren kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+      "contextual_meaning": "VIII. bab öngörü dışı tecelli (`مِنْ حَيْثُ لَا يَحْتَسِبُ / لَمْ يَحْتَسِبُوا۟` `39:47`, `59:2`, `65:3`): İnsanların kendi zihin defterlerine ve beklentilerine hiç katmadıkları yerden rızık veya sarsıcı gerçeğin gelmesi."
+    },
+    {
+      "surah": 65,
+      "ayah": 3,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:3",
+      "word_position": 11,
+      "target_word_uthmani": "حَسْبُهُۥٓ",
+      "target_word_rasm": "حسبه",
+      "target_word_literal_irab": "Bize / sana / onlara tam yeten (`حَسْبُنَا / حَسْبِىَ / حَسْبُكَ / حَسْبُهُمْ`, mübtedâ/haber merfû)",
+      "context_snippet_arabic": "عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ إِنَّ ٱللَّهَ بَٰلِغُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. ...",
+      "morphology": {
+        "lemma": "Hasob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hasob|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe güvene eren kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+      "contextual_meaning": "Tek gerçek dayanak ve tam yeterlilik (`حَسْبُنَا / حَسْبُكَ / حَسْبِىَ / فَهُوَ حَسْبُهُۥٓ` `3:173`, `8:62,64`, `9:59,129`, `39:38`, `65:3`): Allah'a dayanan için başka destek aramaya gerek kalmaması."
+    },
+    {
+      "surah": 65,
+      "ayah": 8,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:8",
+      "word_position": 9,
+      "target_word_uthmani": "فَحَاسَبْنَٰهَا",
+      "target_word_rasm": "فحاسبنها",
+      "target_word_literal_irab": "Onu çetin bir muhasebeye çektik (`فَحَاسَبْنَٰهَا`, III. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Rablerinin ve O'nun elçilerinin buyruğundan çıkan nice kasabalar halkını Biz, çetin bir hesaba çekmiş, onları, görülmedik bir azaba uğratmışızdır.",
+      "morphology": {
+        "lemma": "HaAsabo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:HaAsabo|ROOT:Hsb|1P"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَٰهَا عَذَابًا نُّكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin ve O'nun elçilerinin buyruğundan çıkan nice kasabalar halkını Biz, çetin bir hesaba çekmiş, onları, görülmedik bir azaba uğratmışızdır.",
+      "contextual_meaning": "III. bab karşılıklı muhasebe (`2:284`, `65:8`, `84:8`): İnsanın açık-gizli tüm yaptıklarıyla yüzleştirilmesi, azgın kentlerin çetin (`حِسَابًا شَدِيدًا`) veya sağdan verilenin kolay (`حِسَابًا يَسِيرًا`) muhasebeden geçmesi."
+    },
+    {
+      "surah": 65,
+      "ayah": 8,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:8",
+      "word_position": 10,
+      "target_word_uthmani": "حِسَابًا",
+      "target_word_rasm": "حسابا",
+      "target_word_literal_irab": "Çetin / kolay bir hesap / karşılık (`حِسَابًا`, nekre isim/mef'ûl mansûb)",
+      "context_snippet_arabic": "رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَٰهَا عَذَابًا",
+      "context_snippet_turkish_tabula_rasa": "Rablerinin ve O'nun elçilerinin buyruğundan çıkan nice kasabalar halkını Biz, çetin bir hesaba çekmiş, onları, görülmedik bir azaba uğratmışızdır.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَٰهَا عَذَابًا نُّكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin ve O'nun elçilerinin buyruğundan çıkan nice kasabalar halkını Biz, çetin bir hesaba çekmiş, onları, görülmedik bir azaba uğratmışızdır.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 69,
+      "ayah": 20,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:20",
+      "word_position": 5,
+      "target_word_uthmani": "حِسَابِيَهْ",
+      "target_word_rasm": "حسابيه",
+      "target_word_literal_irab": "Kendi hesabımla (`حِسَابِيَهْ`, sekte he'li mef'ûl mansûb)",
+      "context_snippet_arabic": "ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ",
+      "context_snippet_turkish_tabula_rasa": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنِّى ظَنَنتُ أَنِّى مُلَٰقٍ حِسَابِيَهْ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabı sağından verilen; \"Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum\" der.",
+      "contextual_meaning": "Bireysel kayıtla yüzleşme (`حِسَابِيَهْ` `69:20,26`): Kitabı sağdan alanın hesabıyla buluşmayı bilmesi ile soldan alanın 'keşke hesabımı hiç bilmeseydim' pişmanlığı."
+    },
+    {
+      "surah": 69,
+      "ayah": 26,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:26",
+      "word_position": 4,
+      "target_word_uthmani": "حِسَابِيَهْ",
+      "target_word_rasm": "حسابيه",
+      "target_word_literal_irab": "Kendi hesabımın ne olduğunu (`حِسَابِيَهْ`, sekte he'li merfû)",
+      "context_snippet_arabic": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; ...",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمْ أَدْرِ مَا حِسَابِيَهْ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der.",
+      "contextual_meaning": "Bireysel kayıtla yüzleşme (`حِسَابِيَهْ` `69:20,26`): Kitabı sağdan alanın hesabıyla buluşmayı bilmesi ile soldan alanın 'keşke hesabımı hiç bilmeseydim' pişmanlığı."
+    },
+    {
+      "surah": 75,
+      "ayah": 3,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:3",
+      "word_position": 1,
+      "target_word_uthmani": "أَيَحْسَبُ",
+      "target_word_rasm": "أيحسب",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ",
+      "context_snippet_turkish_tabula_rasa": "İnsan, kemiklerini bir araya toplayamayız mı sanıyor?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan, kemiklerini bir araya toplayamayız mı sanıyor?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 75,
+      "ayah": 36,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:36",
+      "word_position": 1,
+      "target_word_uthmani": "أَيَحْسَبُ",
+      "target_word_rasm": "أيحسب",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanoğlu kendisinin başıboş bırakılacağını mı sanır?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanoğlu kendisinin başıboş bırakılacağını mı sanır?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 76,
+      "ayah": 19,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:19",
+      "word_position": 7,
+      "target_word_uthmani": "حَسِبْتَهُمْ",
+      "target_word_rasm": "حسبتهم",
+      "target_word_literal_irab": "Sandın / onları ... saydın (`حَسِبْتَ / حَسِبْتَهُمْ`, I. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+      "context_snippet_turkish_tabula_rasa": "Yanlarında ölümsüz gençler dolaşır; onları gördüğünde saçılmış birer inci sanırsın.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Hasiba|ROOT:Hsb|2MS"
+      },
+      "ayah_text_arabic_full": "وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًا مَّنثُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yanlarında ölümsüz gençler dolaşır; onları gördüğünde saçılmış birer inci sanırsın.",
+      "contextual_meaning": "Dış görünüş yanılgısı (`18:18`, `24:39`, `27:44,88`, `76:19`): Uyuyanları uyanık, serabı su, cam zemini derin su, yürüyen dağları sabit veya hizmetçileri saçılmış inci sanma gibi duyusal hesap yanılması."
+    },
+    {
+      "surah": 78,
+      "ayah": 27,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:27",
+      "word_position": 5,
+      "target_word_uthmani": "حِسَابًا",
+      "target_word_rasm": "حسابا",
+      "target_word_literal_irab": "Çetin / kolay bir hesap / karşılık (`حِسَابًا`, nekre isim/mef'ûl mansûb)",
+      "context_snippet_arabic": "كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "context_snippet_turkish_tabula_rasa": "Çünkü onlar, hesaba çekileceklerini sanmazlardı.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü onlar, hesaba çekileceklerini sanmazlardı.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 78,
+      "ayah": 36,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:36",
+      "word_position": 5,
+      "target_word_uthmani": "حِسَابًا",
+      "target_word_rasm": "حسابا",
+      "target_word_literal_irab": "Hesaplı ve doyurucu derecede yeterli (`حِسَابًا`, III. bab masdar kökenli sıfat mansûb)",
+      "context_snippet_arabic": "مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "context_snippet_turkish_tabula_rasa": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir.",
+      "contextual_meaning": "Sıfat anlamıyla tam yeterlilik (`عَطَآءً حِسَابًا` `78:36`): Rabbin katından hak edilmiş emeği eksiksiz karşılayıp doyuran yeterli ve cömert bağış."
+    },
+    {
+      "surah": 84,
+      "ayah": 8,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:8",
+      "word_position": 2,
+      "target_word_uthmani": "يُحَاسَبُ",
+      "target_word_rasm": "يحاسب",
+      "target_word_literal_irab": "Muhasebeye ve hesaba çekilir (`يُحَاسَبُ`, III. bab meçhul muzâri 3. tekil eril)",
+      "context_snippet_arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.",
+      "morphology": {
+        "lemma": "HaAsabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|(III)|LEM:HaAsabo|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.",
+      "contextual_meaning": "III. bab karşılıklı muhasebe (`2:284`, `65:8`, `84:8`): İnsanın açık-gizli tüm yaptıklarıyla yüzleştirilmesi, azgın kentlerin çetin (`حِسَابًا شَدِيدًا`) veya sağdan verilenin kolay (`حِسَابًا يَسِيرًا`) muhasebeden geçmesi."
+    },
+    {
+      "surah": 84,
+      "ayah": 8,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:8",
+      "word_position": 3,
+      "target_word_uthmani": "حِسَابًا",
+      "target_word_rasm": "حسابا",
+      "target_word_literal_irab": "Çetin / kolay bir hesap / karşılık (`حِسَابًا`, nekre isim/mef'ûl mansûb)",
+      "context_snippet_arabic": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.",
+      "contextual_meaning": "Hızlı ve adil eylem muhasebesi (`سَرِيعُ ٱلْحِسَابِ`, `يَوْمُ ٱلْحِسَابِ`, `سُوٓءُ ٱلْحِسَابِ`, `فَوَفَّىٰهُ حِسَابَهُۥ`): Herkesin kendi ürettiğinin eksiksiz dökümüyle yüzleşmesi (`2:202`, `3:19,199`, `5:4`, `13:18,21,41`, `14:41,51`, `21:1`, `24:39`, `38:16,26,53`, `40:17,27`, `65:8`, `78:27`, `84:8`)."
+    },
+    {
+      "surah": 88,
+      "ayah": 26,
+      "surah_name": "Gāşiye",
+      "ayah_ref": "88:26",
+      "word_position": 4,
+      "target_word_uthmani": "حِسَابَهُم",
+      "target_word_rasm": "حسابهم",
+      "target_word_literal_irab": "Hesabı / hesaplarını (`وَٱلْحِسَابَ / حِسَابَهُۥ / حِسَابَهُم`, mansûb)",
+      "context_snippet_arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz sonra hesaplarını görmek de Bize düşmektedir.",
+      "morphology": {
+        "lemma": "HisaAb",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(III)|LEM:HisaAb|ROOT:Hsb|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz sonra hesaplarını görmek de Bize düşmektedir.",
+      "contextual_meaning": "Sorumluluk sınırlarının ayrımı (`6:52,69`, `13:40`, `23:117`, `26:113`, `88:26`): Hiç kimsenin başkasının hesabından sorumlu olmaması ve elçinin görevinin yalnızca bildiri olup hesabın Allah'a aitliği."
+    },
+    {
+      "surah": 90,
+      "ayah": 5,
+      "surah_name": "Beled",
+      "ayah_ref": "90:5",
+      "word_position": 1,
+      "target_word_uthmani": "أَيَحْسَبُ",
+      "target_word_rasm": "أيحسب",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 90,
+      "ayah": 7,
+      "surah_name": "Beled",
+      "ayah_ref": "90:7",
+      "word_position": 1,
+      "target_word_uthmani": "أَيَحْسَبُ",
+      "target_word_rasm": "أيحسب",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "O, kimsenin kendisini görmediğini mi zannediyor?",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O, kimsenin kendisini görmediğini mi zannediyor?",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    },
+    {
+      "surah": 104,
+      "ayah": 3,
+      "surah_name": "Hümeze",
+      "ayah_ref": "104:3",
+      "word_position": 1,
+      "target_word_uthmani": "يَحْسَبُ",
+      "target_word_rasm": "يحسب",
+      "target_word_literal_irab": "Yoksa ... sanıyor mu / sanır (`أَيَحْسَبُ / يَحْسَبُ / يَحْسَبُهُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Malının kendisini ölümsüz kılacağını sanır.",
+      "morphology": {
+        "lemma": "Hasiba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Hasiba|ROOT:Hsb|3MS"
+      },
+      "ayah_text_arabic_full": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Malının kendisini ölümsüz kılacağını sanır.",
+      "contextual_meaning": "Zihinde tek yönlü hesabını çıkarıp sanmak (`حَسِبَ` `2:214,273`, `3:78,142`, `5:71`, `7:30`, `9:16`, `18:9,102,104`, `23:55,115`, `24:15`, `25:44`, `29:2,4`, `33:20`, `43:37,80`, `45:21`, `47:29`, `58:18`, `59:14`, `63:4`, `75:3,36`, `90:5,7`, `104:3`): karşı ihtimali dışarıda bırakarak yanlış varsayımda bulunma."
+    }
+  ]
+}

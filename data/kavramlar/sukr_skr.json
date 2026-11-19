@@ -1,0 +1,1561 @@
+{
+  "root": "ش-ك-ر",
+  "root_latin": "Ş-K-R",
+  "concept_name": "Şükür (Nimetin Değerini Bilip Açığa Vurma)",
+  "rank": null,
+  "total_occurrences": 75,
+  "unique_ayahs_count": 69,
+  "unified_core_mechanism": "Kişiye bahşedilen potansiyeli ve imkanları örtmeyip; az bir beslenmeyle dahi dolup taşarak, üreterek ve saçarak görünür kılma, nimeti aktif berekete dönüştürme eylemi.",
+  "physical_core": "Az bir girdiyle dolup taşmak, bolluk saçmak; aldığı besini/gücü dışarıya bereket veya meyve olarak fışkırtıp görünür kılmak.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Dört ayrı asıl: iyiliği anıp açığa vurmak (doluluk/taşma), azla yetinme, şüphe, tüylenme.",
+    "lisan_al_arab": "İyiliği yaymak, övgü, az suya çok süt veren hayvan (şekre).",
+    "ragib_mufredat": "Nimetin etkisini dille, kalple ve organlarla açığa vurup karşılık vermek.",
+    "arbitration_decision": "İbrâhîm 14:7 ve Bakara 2:152'de \"küfr\" zıddı olarak konumlandırılması; şükrün boş bir lafız değil, nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkarma ve katbekat artırma eylemi olduğunu belgeler."
+  },
+  "semitic_cognates": {
+    "northwest_semitic_hebrew": "śākar / שָׂכַר (ücret ödemek, kiralamak, karşılık vermek; Strong's H7936)",
+    "jewish_aramaic": "śəkar / סְכַר / שְׂכַר (ücret ödemek, emeğin karşılığını vermek)",
+    "sabaic": "s₂kr (yazıtlarda: ceza/bedel yüklemek, karşılık ödetmek)",
+    "philological_note": "Proto-Sami ıslıklı (sibilant) ses yasası gereği Proto-Sami *s₂ sesi düzenli olarak Arapça ش (š) = İbranice שׂ (ś) = Sebece s₂ = Aramice ס/שׂ şeklinde eşleşir (krş. Ar. şa'îr = İbr. śə'ōrāh = Seb. s₂ʿr; Ar. 'aşr = İbr. 'eśer = Seb. ʿs₂r). Dolayısıyla Sebece s₂kr ile Arapça ş-k-r sesçe tam eşkökenlidir; ancak Sebece'de anlam 'ceza/bedel ödetmek' yönünde semantik bir özelleşme göstermiştir. İbranicede ise kök nötr olarak 'ücret/karşılık ödemek' demektir."
+  },
+  "mesani_opposite": {
+    "meaning": "Nimeti örtüp gizlemek, yok saymak, içine gömmek",
+    "key_ayahs": [
+      "76:3",
+      "2:152",
+      "14:7",
+      "31:12"
+    ],
+    "reverse_stress_test": "Kur'an'da küfür (ك-ف-ر); apaçık gerçeğin ve nimetin üzerini örtüp görünmez kılmaktır (57:20, 2:152). Küfrün tüm ayetlerdeki kullanımının tam tersi alındığında ortaya çıkan kavram şükürdür (ش-ك-ر): Örtmeyip açığa vurmak, azıcık bir beslenmeyle dahi dolup taşarak hayata verim, bereket ve eylemsel karşılık saçmaktır. İbrahim 7'de 'şükrederseniz artırırım, küfrederseniz azabım şiddetlidir' denilerek zıtlık mutlak kılınmıştır.",
+    "roots": [
+      "ك-ف-ر (K-F-R)"
+    ]
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "Hamd",
+      "Medh",
+      "Şükr"
+    ],
+    "mechanical_difference": "Hamd: Varlıktaki öz mükemmelliği ve nizamı hayranlıkla teslim etmek | Medh: Geçici ve yüzeysel övgü | Şükr: Alınan lütuf ve gücü saklamayıp eylemle dışarı vurmak, onu hayata bereket ve üretim olarak saçmak (amelî karşılık)",
+    "term_comparisons": {
+      "Hamd": "Varlıktaki öz mükemmelliği ve nizamı hayranlıkla teslim etmek",
+      "Medh": "Geçici ve yüzeysel övgü",
+      "Şükr": "Alınan lütuf ve gücü saklamayıp eylemle dışarı vurmak, onu hayata bereket ve üretim olarak saçmak (amelî karşılık)"
+    }
+  },
+  "anchor_ayahs": [
+    "34:13 (Sebe 13 - اعْمَلُوا آلَ دَاوُودَ شُكْرًا / Eylem üreterek şükredin)",
+    "14:7 (İbrâhîm 7 - لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِن كَفَرْتُمْ...)"
+  ],
+  "grammar_and_branch_rules": "Yalnızca Form I (şakara) fiil ve müştaklarıyla kullanılır. 'لـ' harf-i cerriyle veya doğrudan nesneyle 'nimeti saklamayıp eylem ve verime dönüştürmek'; şekûr mübalağa sıfatı ise 'az girdiyle dolup taşan bereket' anlamını verir.",
+  "derivatives": {
+    "شاكر (Şâkir)": "Nimeti ve potansiyeli eyleme dökerek görünür kılan, verimli karşılık veren",
+    "شكور (Şekûr)": "Azıcık bir emeğe karşılık dolup taşarak devasa bereket ve karşılık veren",
+    "شكر (Şükr)": "Nimeti aktif eylemle ortaya saçma, üretken kılma durumu",
+    "مشكور (Meşkûr)": "Emeği boşa çıkarılmamış, karşılığı dolup taşarak verilmiş"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 52,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:52",
+      "word_position": 8,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra bunun ardından, nimetin değerini bilip açığa vurursunuz diye, sizi bağışlamıştık.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra bunun ardından, nimetin değerini bilip açığa vurursunuz diye, sizi bağışlamıştık.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 2,
+      "ayah": 56,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:56",
+      "word_position": 7,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ölümünüzden sonra, nimetin değerini bilip açığa vurasınız diye sizi tekrar diriltmiştik.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölümünüzden sonra, nimetin değerini bilip açığa vurasınız diye sizi tekrar diriltmiştik.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 2,
+      "ayah": 152,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:152",
+      "word_position": 3,
+      "target_word_uthmani": "وَٱشْكُرُوا۟",
+      "target_word_rasm": "وٱشكروا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "context_snippet_turkish_tabula_rasa": "Artık Beni anın, Ben de sizi anayım; Bana nimetin değerini bilip açığa vurun, nankörlük etmeyin.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık Beni anın, Ben de sizi anayım; Bana nimetin değerini bilip açığa vurun, nankörlük etmeyin.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 2,
+      "ayah": 158,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:158",
+      "word_position": 23,
+      "target_word_uthmani": "شَاكِرٌ",
+      "target_word_rasm": "شاكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "خَيْرًا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Kim gönülden iyilik yaparsa, karşılığını görür. Doğrusu Allah nimeti açığa vurmanın karşılığını verendir ve bilendir.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلصَّفَا وَٱلْمَرْوَةَ مِن شَعَآئِرِ ٱللَّهِ فَمَنْ حَجَّ ٱلْبَيْتَ أَوِ ٱعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَن يَطَّوَّفَ بِهِمَا وَمَن تَطَوَّعَ خَيْرًا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Safa ile Merve Allah'ın nişanelerindendir. Kim Kabe'yi büyük yöneliş toplanmasına katılır veya umre yaparsa, bu ikisini de tavaf etmesinde bir beis yoktur. Kim gönülden iyilik yaparsa, karşılığını görür. Doğrusu Allah nimeti açığa vurmanın karşılığını verendir ve bilendir.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 2,
+      "ayah": 172,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:172",
+      "word_position": 9,
+      "target_word_uthmani": "وَٱشْكُرُوا۟",
+      "target_word_rasm": "وٱشكروا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sizi rızıklandırdığımızın temizlerinden yiyin; yalnız Allah'a kulluk ediyorsanız, O'na nimetin değerini bilip açığa vurun.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sizi rızıklandırdığımızın temizlerinden yiyin; yalnız Allah'a kulluk ediyorsanız, O'na nimetin değerini bilip açığa vurun.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 2,
+      "ayah": 185,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:185",
+      "word_position": 44,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Bu kolaylıkları, sayıyı tamamlamanız ve size yol gösterdiğine karşılık O'nu ululamanız için meşru kılmıştır; ola ki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ramazan ayı, ki onda Kuran, insanlara yol gösterici ve doğruyu yanlıştan ayırıcı belgeler olarak indirildi. Sizden bu ayı idrak eden, onda öz denetim ve sakınma tutsun; hasta veya yolculukta olan, tutamadığı günlerin sayısınca diğer günlerde tutsun. Allah size kolaylık ister, zorluk istemez. Bu kolaylıkları, sayıyı tamamlamanız ve size yol gösterdiğine karşılık O'nu ululamanız için meşru kılmıştır; ola ki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 2,
+      "ayah": 243,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:243",
+      "word_position": 28,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah insanlara bol nimet verir, fakat insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ خَرَجُوا۟ مِن دِيَٰرِهِمْ وَهُمْ أُلُوفٌ حَذَرَ ٱلْمَوْتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُوا۟ ثُمَّ أَحْيَٰهُمْ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Binlerce kişinin memleketlerinden ölüm korkusuyla çıktıklarını görmedin mi? Allah onlara \"Ölün\" dedi. Sonra onları diriltti. Allah insanlara bol nimet verir, fakat insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 3,
+      "ayah": 123,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:123",
+      "word_position": 10,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, siz düşkün bir durumda iken, Bedir'de, Allah size yardım etmişti; Allah'tan sakının ki nimetin değerini bilip açığa vurabilesiniz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, siz düşkün bir durumda iken, Bedir'de, Allah size yardım etmişti; Allah'tan sakının ki nimetin değerini bilip açığa vurabilesiniz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 3,
+      "ayah": 144,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:144",
+      "word_position": 27,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "شَيْـًٔا وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Ölür veya öldürülürse geriye mi döneceksiniz? Geriye dönen, Allah'a hiçbir zarar vermez. Allah nimetin değerini bilip açığa vuranların mükafatını verecektir.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed ancak bir elçidir. Ondan önce de elçiler geçmişti. Ölür veya öldürülürse geriye mi döneceksiniz? Geriye dönen, Allah'a hiçbir zarar vermez. Allah nimetin değerini bilip açığa vuranların mükafatını verecektir.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 3,
+      "ayah": 145,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:145",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "نُؤْتِهِۦ مِنْهَا وَسَنَجْزِى ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... o, belli bir vakte bağlanmıştır. Kim dünya nimetini isterse ona ondan veririz; ve kim ahiret nimetini isterse ona ondan veririz. ...",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًا مُّؤَجَّلًا وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا وَسَنَجْزِى ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir kimse Allah'ın izni olmadan ölmez; o, belli bir vakte bağlanmıştır. Kim dünya nimetini isterse ona ondan veririz; ve kim ahiret nimetini isterse ona ondan veririz. nimetin değerini bilip açığa vuranların mükafatını vereceğiz.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 4,
+      "ayah": 147,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:147",
+      "word_position": 6,
+      "target_word_uthmani": "شَكَرْتُمْ",
+      "target_word_rasm": "شكرتم",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verdi (Form I mâzî fiil)",
+      "context_snippet_arabic": "ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ وَكَانَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "nimetin değerini bilip açığa vurur ve güven duy, Allah size niçin azabetsin? Allah nimeti açığa vurmanın karşılığını verir ve bilir.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "nimetin değerini bilip açığa vurur ve güven duy, Allah size niçin azabetsin? Allah nimeti açığa vurmanın karşılığını verir ve bilir.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 4,
+      "ayah": 147,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:147",
+      "word_position": 10,
+      "target_word_uthmani": "شَاكِرًا",
+      "target_word_rasm": "شاكرا",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "وَءَامَنتُمْ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+      "context_snippet_turkish_tabula_rasa": "nimetin değerini bilip açığa vurur ve güven duy, Allah size niçin azabetsin? Allah nimeti açığa vurmanın karşılığını verir ve bilir.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "nimetin değerini bilip açığa vurur ve güven duy, Allah size niçin azabetsin? Allah nimeti açığa vurmanın karşılığını verir ve bilir.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 61,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah sizi zorlamak istemez, Allah sizi arıtıp üzerinize olan nimetini tamamlamak ister ki nimetin değerini bilip açığa vurasınız.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! irtibat bağına kalktığınızda yüzlerinizi, dirseklere kadar ellerinizi, -başlarınızı meshedip- topuk kemiklerine kadar ayaklarınızı yıkayın. Eğer cünüpseniz yıkanıp temizlenin; şayet hasta veya yolculukta iseniz veya ayak yolundan gelmişseniz yahut kadınlara yaklaşmışsanız ve su bulamamışsanız temiz bir toprağa teyemmüm edin, yüzlerinizi, ellerinizi onunla meshedin. Allah sizi zorlamak istemez, Allah sizi arıtıp üzerinize olan nimetini tamamlamak ister ki nimetin değerini bilip açığa vurasınız.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 5,
+      "ayah": 89,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:89",
+      "word_position": 45,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... nimetin değerini bilip açığa vurasınız diye Allah size böylece ayetlerini açıklıyor.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size rasgele bağlayıcı ahitlerinizden dolayı değil, bile bile ettiğiniz bağlayıcı ahitlerden ötürü hesap sorar. bağlayıcı ahdin keffareti, ailenize yedirdiğinizin ortalamasından on düşkünü yedirmek yahut giydirmek ya da bir köle azad etmektir. Bulamayan üç gün öz denetim ve sakınma tutmalıdır; bağlayıcı ahitlerinizin keffareti budur. bağlayıcı ahit ettiğinizde bağlayıcı ahitlerinizi tutun. nimetin değerini bilip açığa vurasınız diye Allah size böylece ayetlerini açıklıyor.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 6,
+      "ayah": 53,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:53",
+      "word_position": 15,
+      "target_word_uthmani": "بِٱلشَّٰكِرِينَ",
+      "target_word_rasm": "بٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Böylece, \"Aramızdan Allah bunlara mı iyilikte bulundu?\" demeleri için onları birbiriyle denedik. Allah nimetin değerini bilip açığa vuranları iyi bilen değil midir?",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍ لِّيَقُولُوٓا۟ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece, \"Aramızdan Allah bunlara mı iyilikte bulundu?\" demeleri için onları birbiriyle denedik. Allah nimetin değerini bilip açığa vuranları iyi bilen değil midir?",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 6,
+      "ayah": 63,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:63",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Kara ve denizin karanlıklarından sizi kim kurtarır? Bundan bizi kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız diye O'na gizli gizli yalvarır yakarırsınız. \"",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kara ve denizin karanlıklarından sizi kim kurtarır? Bundan bizi kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız diye O'na gizli gizli yalvarır yakarırsınız.\"",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 7,
+      "ayah": 10,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:10",
+      "word_position": 11,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مَعَٰيِشَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sizi yeryüzünde yerleştirdik ve orada size geçimlikler yarattık. Öyleyken pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ مَكَّنَّٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَٰيِشَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi yeryüzünde yerleştirdik ve orada size geçimlikler yarattık. Öyleyken pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 7,
+      "ayah": 17,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:17",
+      "word_position": 15,
+      "target_word_uthmani": "شَٰكِرِينَ",
+      "target_word_rasm": "شكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "وَلَا تَجِدُ أَكْثَرَهُمْ شَٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... sonra önlerinden, ardlarından, sağ ve sollarından onlara sokulacağım; çoğunu Sana nimetin değerini bilip açığa vurur bulamayacaksın\" dedi.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ لَءَاتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَٰنِهِمْ وَعَن شَمَآئِلِهِمْ وَلَا تَجِدُ أَكْثَرَهُمْ شَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Beni azdırdığın için, and olsun ki, Senin doğru yolun üzerinde onlara karşı duracağım; sonra önlerinden, ardlarından, sağ ve sollarından onlara sokulacağım; çoğunu Sana nimetin değerini bilip açığa vurur bulamayacaksın\" dedi.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 7,
+      "ayah": 58,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:58",
+      "word_position": 17,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "نُصَرِّفُ ٱلْءَايَٰتِ لِقَوْمٍ يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... nimetin değerini bilip açığa vuracak millet için böylece ayetleri yerli yerince açıklarız.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلْبَلَدُ ٱلطَّيِّبُ يَخْرُجُ نَبَاتُهُۥ بِإِذْنِ رَبِّهِۦ وَٱلَّذِى خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا كَذَٰلِكَ نُصَرِّفُ ٱلْءَايَٰتِ لِقَوْمٍ يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyi toprak Rabbinin izniyle bitki verir, çorak toprak kavruk bitki çıkarır. nimetin değerini bilip açığa vuracak millet için böylece ayetleri yerli yerince açıklarız.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 7,
+      "ayah": 144,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:144",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Musa! Verdiklerimle ve seninle konuşmamla seni insanlar arasından seçtim; sana verdiğimi al ve nimetin değerini bilip açığa vur\" dedi.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِى وَبِكَلَٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Musa! Verdiklerimle ve seninle konuşmamla seni insanlar arasından seçtim; sana verdiğimi al ve nimetin değerini bilip açığa vur\" dedi.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 7,
+      "ayah": 189,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:189",
+      "word_position": 29,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bize kusursuz bir çocuk verirsen, and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye yalvardılar.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek bir candan ve özden yaratan ve gönlünün huzura kavuşacağı eşini de ondan var eden Allah'tır. Eşine yaklaşınca, eşi hafif bir yük yüklendi ve bu halde bir müddet taşıdı. Hamileliği ağırlaşınca, karı-koca, Rableri olan Allah'a: \"Bize kusursuz bir çocuk verirsen, and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye yalvardılar.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 8,
+      "ayah": 26,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:26",
+      "word_position": 19,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde az sayıda olduğunuz ve zayıf sayıldığınız için insanların sizi esir olarak alıp götürmesinden korktuğunuz zamanları, hatırlayın. Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 10,
+      "ayah": 22,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:22",
+      "word_position": 41,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... bir fırtına çıkıp da onları her taraftan dalgaların sardığı ve çepeçevre kuşatıldıklarını sandıkları anda ise Allah'ın yaşam sistemine sarılarak, \"Bizi bu tehlikeden kurtarırsan and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye O'na yalvarırlar.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi karada ve denizde yürüten Allah'tır. Bulunduğunuz gemi, içindekileri güzel bir rüzgarla götürürken yolcular neşelenirler; bir fırtına çıkıp da onları her taraftan dalgaların sardığı ve çepeçevre kuşatıldıklarını sandıkları anda ise Allah'ın yaşam sistemine sarılarak, \"Bizi bu tehlikeden kurtarırsan and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye O'na yalvarırlar.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 10,
+      "ayah": 60,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:60",
+      "word_position": 19,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı yalan uyduranlar kıyamet gününü ne zannederler? Doğrusu Allah'ın insanlara olan nimeti boldur, fakat çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı yalan uyduranlar kıyamet gününü ne zannederler? Doğrusu Allah'ın insanlara olan nimeti boldur, fakat çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 12,
+      "ayah": 38,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:38",
+      "word_position": 26,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... bu, Allah'ın bize ve insanlara olan lütfudur; fakat insanların çoğu nimetin değerini bilip açığa vurmaz\" dedi.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Atalarım İbrahim, İshak ve Yakub'un yaşam sistemine uydum. Allah'a herhangi bir ortak koşmak bize yaraşmaz; bu, Allah'ın bize ve insanlara olan lütfudur; fakat insanların çoğu nimetin değerini bilip açığa vurmaz\" dedi.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 14,
+      "ayah": 5,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:5",
+      "word_position": 21,
+      "target_word_uthmani": "شَكُورٍ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlarda, çokça sebat edip direnen ve nimetin değerini bilip açığa vuran herkes için dersler vardır.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Musa'yı ayetlerimizle, \"Milletini karanlıklardan aydınlığa çıkar ve Allah'ın günlerini onlara hatırlat\" diye göndermiştik. Bunlarda, çokça sebat edip direnen ve nimetin değerini bilip açığa vuran herkes için dersler vardır.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 14,
+      "ayah": 7,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:7",
+      "word_position": 5,
+      "target_word_uthmani": "شَكَرْتُمْ",
+      "target_word_rasm": "شكرتم",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verdi (Form I mâzî fiil)",
+      "context_snippet_arabic": "تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِن كَفَرْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"nimetin değerini bilip açığa vurursanız and olsun ki, size karşılığını artıracağım; nankörlük ederseniz bilin ki azabım pek çetindir\" diye bildirmişti.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz: \"nimetin değerini bilip açığa vurursanız and olsun ki, size karşılığını artıracağım; nankörlük ederseniz bilin ki azabım pek çetindir\" diye bildirmişti.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 14,
+      "ayah": 37,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:37",
+      "word_position": 26,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır. \"",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! Ben çocuklarımdan kimini, yöneliş ve sorumluluk bağı kılabilmeleri için Senin kutsal evinin yanında, ziraata elverişsiz bir vadiye yerleştirdim. Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır.\"",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 16,
+      "ayah": 14,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:14",
+      "word_position": 21,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 16,
+      "ayah": 78,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:78",
+      "word_position": 15,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah sizi annelerinizin karnından bir şey bilmez halde çıkarmıştır. Belki nimetin değerini bilip açığa vurursunuz diye size kulak, göz ve kalp vermiştir.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sizi annelerinizin karnından bir şey bilmez halde çıkarmıştır. Belki nimetin değerini bilip açığa vurursunuz diye size kulak, göz ve kalp vermiştir.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 16,
+      "ayah": 114,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:114",
+      "word_position": 7,
+      "target_word_uthmani": "وَٱشْكُرُوا۟",
+      "target_word_rasm": "وٱشكروا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن",
+      "context_snippet_turkish_tabula_rasa": "Yalnız Allah'a kulluk ediyorsanız, Allah'ın size helal ve temiz olarak verdiği rızıklardan yiyin, O'nun nimetine nimetin değerini bilip açığa vurun.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalnız Allah'a kulluk ediyorsanız, Allah'ın size helal ve temiz olarak verdiği rızıklardan yiyin, O'nun nimetine nimetin değerini bilip açığa vurun.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 16,
+      "ayah": 121,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:121",
+      "word_position": 1,
+      "target_word_uthmani": "شَاكِرًا",
+      "target_word_rasm": "شاكرا",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "شَاكِرًا لِّأَنْعُمِهِ ٱجْتَبَىٰهُ وَهَدَىٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin nimetlerine nimetin değerini bilip açığa vururdu; Rabbi de onu seçti ve doğru yola eriştirdi.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "شَاكِرًا لِّأَنْعُمِهِ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin nimetlerine nimetin değerini bilip açığa vururdu; Rabbi de onu seçti ve doğru yola eriştirdi.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 17,
+      "ayah": 3,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:3",
+      "word_position": 9,
+      "target_word_uthmani": "شَكُورًا",
+      "target_word_rasm": "شكورا",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "إِنَّهُۥ كَانَ عَبْدًا شَكُورًا",
+      "context_snippet_turkish_tabula_rasa": "... Ey Nuh'la beraber taşıyarak kurtardığımız kimselerin soyundan olanlar! Beni bırakıp başkasını vekil edinmeyesiniz diye onu İsrailoğullarına doğruluk rehberi kıldık. Doğrusu Nuh, çok nimetin değerini bilip açığa vuran bir kuldu.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذُرِّيَّةَ مَنْ حَمَلْنَا مَعَ نُوحٍ إِنَّهُۥ كَانَ عَبْدًا شَكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya kitap verdik. Ey Nuh'la beraber taşıyarak kurtardığımız kimselerin soyundan olanlar! Beni bırakıp başkasını vekil edinmeyesiniz diye onu İsrailoğullarına doğruluk rehberi kıldık. Doğrusu Nuh, çok nimetin değerini bilip açığa vuran bir kuldu.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 17,
+      "ayah": 19,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:19",
+      "word_position": 12,
+      "target_word_uthmani": "مَّشْكُورًا",
+      "target_word_rasm": "مشكورا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurma, gereğini yapma (masdar / ismi mef'ûl)",
+      "context_snippet_arabic": "فَأُو۟لَٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
+      "context_snippet_turkish_tabula_rasa": "Ahireti isteyip, güvene ermiş olarak onun için gerekli çalışmada bulunan kimselerin, işte onların çalışmaları nimeti açığa vurmaya değer.",
+      "morphology": {
+        "lemma": "m~a$okuwr",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:m~a$okuwr|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَرَادَ ٱلْءَاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُو۟لَٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ahireti isteyip, güvene ermiş olarak onun için gerekli çalışmada bulunan kimselerin, işte onların çalışmaları nimeti açığa vurmaya değer.",
+      "contextual_meaning": "Nimetin kıymetini bilip gereğini yapma; karşılığı verilmiş ve takdir edilmiş olan."
+    },
+    {
+      "surah": 21,
+      "ayah": 80,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:80",
+      "word_position": 10,
+      "target_word_uthmani": "شَٰكِرُونَ",
+      "target_word_rasm": "شكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "بَأْسِكُمْ فَهَلْ أَنتُمْ شَٰكِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ona, sizi savaşta korumak için zırh yapma sanatını öğrettik, artık nimetin değerini bilip açığa vurur misiniz?",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَلَّمْنَٰهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ فَهَلْ أَنتُمْ شَٰكِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona, sizi savaşta korumak için zırh yapma sanatını öğrettik, artık nimetin değerini bilip açığa vurur misiniz?",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 22,
+      "ayah": 36,
+      "surah_name": "Hac",
+      "ayah_ref": "22:36",
+      "word_position": 27,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... nimetin değerini bilip açığa vurursunuz diye onları böylece sizin buyruğunuza verdik.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte yakınlaşma sunusu deve ve sığırları Allah'ın size olan nişanelerinden kıldık. Onlarda sizin için hayır vardır. Bağlı halde keserken üzerlerine Allah'ın adını anın. Yan üstü düşüp ölünce onlardan yiyin, isteyene de istemeyene de verin. nimetin değerini bilip açığa vurursunuz diye onları böylece sizin buyruğunuza verdik.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 23,
+      "ayah": 78,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:78",
+      "word_position": 10,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Oysa, sizin için kulaklar, gözler ve kalbler vareden O'dur. Pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa, sizin için kulaklar, gözler ve kalbler vareden O'dur. Pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 25,
+      "ayah": 62,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:62",
+      "word_position": 13,
+      "target_word_uthmani": "شُكُورًا",
+      "target_word_rasm": "شكورا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurma, gereğini yapma (masdar / ismi mef'ûl)",
+      "context_snippet_arabic": "يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+      "context_snippet_turkish_tabula_rasa": "İbret almak veya nimetin değerini bilip açığa vurmak dileyen kimseler için gece ile gündüzü birbiri ardınca getiren O'dur.",
+      "morphology": {
+        "lemma": "$ukuwr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ukuwr|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "İbret almak veya nimetin değerini bilip açığa vurmak dileyen kimseler için gece ile gündüzü birbiri ardınca getiren O'dur.",
+      "contextual_meaning": "Nimetin kıymetini bilip gereğini yapma; karşılığı verilmiş ve takdir edilmiş olan."
+    },
+    {
+      "surah": 27,
+      "ayah": 19,
+      "surah_name": "Neml",
+      "ayah_ref": "27:19",
+      "word_position": 9,
+      "target_word_uthmani": "أَشْكُرَ",
+      "target_word_rasm": "أشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Bana ve ana babama verdiğin nimete nimeti açığa vurmada, hoşnut olacağın işi yapmakta beni muvaffak kıl. Rahmetinle, beni iyi kullarının arasına koy\" dedi.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman, onun sözüne hafifçe güldü ve: \"Rabbim! Bana ve ana babama verdiğin nimete nimeti açığa vurmada, hoşnut olacağın işi yapmakta beni muvaffak kıl. Rahmetinle, beni iyi kullarının arasına koy\" dedi.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 27,
+      "ayah": 40,
+      "surah_name": "Neml",
+      "ayah_ref": "27:40",
+      "word_position": 25,
+      "target_word_uthmani": "ءَأَشْكُرُ",
+      "target_word_rasm": "ءأشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ وَمَن",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabın bilgisine sahip olan biri: \"Gözünü açıp kapamadan ben onu sana getiririm\" dedi. Süleyman, tahtı yanına yerleşivermiş görünce: \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; fakat nankörlük eden bilsin ki Rabbim müstağnidir, kerem sahibidir\" dedi.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 27,
+      "ayah": 40,
+      "surah_name": "Neml",
+      "ayah_ref": "27:40",
+      "word_position": 29,
+      "target_word_uthmani": "شَكَرَ",
+      "target_word_rasm": "شكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verdi (Form I mâzî fiil)",
+      "context_snippet_arabic": "أَمْ أَكْفُرُ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:$akara|ROOT:$kr|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabın bilgisine sahip olan biri: \"Gözünü açıp kapamadan ben onu sana getiririm\" dedi. Süleyman, tahtı yanına yerleşivermiş görünce: \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; fakat nankörlük eden bilsin ki Rabbim müstağnidir, kerem sahibidir\" dedi.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 27,
+      "ayah": 40,
+      "surah_name": "Neml",
+      "ayah_ref": "27:40",
+      "word_position": 31,
+      "target_word_uthmani": "يَشْكُرُ",
+      "target_word_rasm": "يشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitabın bilgisine sahip olan biri: \"Gözünü açıp kapamadan ben onu sana getiririm\" dedi. Süleyman, tahtı yanına yerleşivermiş görünce: \"Bu, nimetin değerini bilip açığa vurma mü edeceğim yoksa nankörlük mü edeceğim diye beni sınayan Rabbimin lütfundandır. nimetin değerini bilip açığa vuran ancak kendisi için nimetin değerini bilip açığa vurmuş olur; fakat nankörlük eden bilsin ki Rabbim müstağnidir, kerem sahibidir\" dedi.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 27,
+      "ayah": 73,
+      "surah_name": "Neml",
+      "ayah_ref": "27:73",
+      "word_position": 10,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Rabbin, insanlara karşı lütuf sahibidir. Fakat onların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ رَبَّكَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Rabbin, insanlara karşı lütuf sahibidir. Fakat onların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 28,
+      "ayah": 73,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:73",
+      "word_position": 13,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlar, O'nun rahmetinden ötürüdür. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 29,
+      "ayah": 17,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:17",
+      "word_position": 24,
+      "target_word_uthmani": "وَٱشْكُرُوا۟",
+      "target_word_rasm": "وٱشكروا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "... O'na kulluk edin. O'na nimetin değerini bilip açığa vurun. Siz O'na döneceksiniz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَٰنًا وَتَخْلُقُونَ إِفْكًا إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz Allah'ı bırakıp sadece bir takım putlara tapıyor, aslı olmayan sözler uyduruyorsunuz. Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayın. O'na kulluk edin. O'na nimetin değerini bilip açığa vurun. Siz O'na döneceksiniz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 30,
+      "ayah": 46,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:46",
+      "word_position": 17,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rüzgarları müjdeciler olarak göndermesi, size rahmetini tattırması, buyruğu ile gemilerin yürümesi, lütfundan rızık istemeniz, O'nun varlığının belgelerindendir. Belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rüzgarları müjdeciler olarak göndermesi, size rahmetini tattırması, buyruğu ile gemilerin yürümesi, lütfundan rızık istemeniz, O'nun varlığının belgelerindendir. Belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 31,
+      "ayah": 12,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:12",
+      "word_position": 6,
+      "target_word_uthmani": "ٱشْكُرْ",
+      "target_word_rasm": "ٱشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ وَمَن يَشْكُرْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Lokman'a, Allah'a nimetin değerini bilip açığa vurması için hikmet verdik. nimetin değerini bilip açığa vuran kimse ancak kendisi için nimetin değerini bilip açığa vurmuş olur. ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Lokman'a, Allah'a nimetin değerini bilip açığa vurması için hikmet verdik. nimetin değerini bilip açığa vuran kimse ancak kendisi için nimetin değerini bilip açığa vurmuş olur. Nankörlük eden ise, bilsin ki, Allah her şeyden müstağnidir, övülmeğe layık olandır.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 31,
+      "ayah": 12,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:12",
+      "word_position": 9,
+      "target_word_uthmani": "يَشْكُرْ",
+      "target_word_rasm": "يشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "ٱشْكُرْ لِلَّهِ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Lokman'a, Allah'a nimetin değerini bilip açığa vurması için hikmet verdik. nimetin değerini bilip açığa vuran kimse ancak kendisi için nimetin değerini bilip açığa vurmuş olur. ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Lokman'a, Allah'a nimetin değerini bilip açığa vurması için hikmet verdik. nimetin değerini bilip açığa vuran kimse ancak kendisi için nimetin değerini bilip açığa vurmuş olur. Nankörlük eden ise, bilsin ki, Allah her şeyden müstağnidir, övülmeğe layık olandır.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 31,
+      "ayah": 12,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:12",
+      "word_position": 11,
+      "target_word_uthmani": "يَشْكُرُ",
+      "target_word_rasm": "يشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Lokman'a, Allah'a nimetin değerini bilip açığa vurması için hikmet verdik. nimetin değerini bilip açığa vuran kimse ancak kendisi için nimetin değerini bilip açığa vurmuş olur. ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا لُقْمَٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Lokman'a, Allah'a nimetin değerini bilip açığa vurması için hikmet verdik. nimetin değerini bilip açığa vuran kimse ancak kendisi için nimetin değerini bilip açığa vurmuş olur. Nankörlük eden ise, bilsin ki, Allah her şeyden müstağnidir, övülmeğe layık olandır.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 31,
+      "ayah": 14,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:14",
+      "word_position": 13,
+      "target_word_uthmani": "ٱشْكُرْ",
+      "target_word_rasm": "ٱشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ",
+      "context_snippet_turkish_tabula_rasa": "... Bana ve ana babana nimetin değerini bilip açığa vur diye tavsiyede bulunmuşuzdur. Dönüş Bana'dır.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MS"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz insana, ana ve babasına karşı iyi davranmasını tavsiye etmişizdir. Annesi onu, güçsüzlükten güçsüzlüğe uğrayarak karnında taşımıştı. Çocuğun sütten kesilmesi iki yıl içinde olur. Bana ve ana babana nimetin değerini bilip açığa vur diye tavsiyede bulunmuşuzdur. Dönüş Bana'dır.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 31,
+      "ayah": 31,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:31",
+      "word_position": 19,
+      "target_word_uthmani": "شَكُورٍ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlarda, pek sebatlı ve dirençli ve çok nimetin değerini bilip açığa vuran kimselerin hepsine dersler vardır.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَٰتِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemilerin denizde Allah'ın lütfuyla yürüdüğünü görmez misin? Allah böylece size varlığının delillerini gösterir. Bunlarda, pek sebatlı ve dirençli ve çok nimetin değerini bilip açığa vuran kimselerin hepsine dersler vardır.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 32,
+      "ayah": 9,
+      "surah_name": "Secde",
+      "ayah_ref": "32:9",
+      "word_position": 14,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan, sonra onun soyunu, bayağı bir suyun özünden yapan, sonra onu şekillendirip hayat verici özünden ona üfleyen Allah'tır. Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az nimetin değerini bilip açığa vuruyorsunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 34,
+      "ayah": 13,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:13",
+      "word_position": 15,
+      "target_word_uthmani": "شُكْرًا",
+      "target_word_rasm": "شكرا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurma, gereğini yapma (masdar / ismi mef'ûl)",
+      "context_snippet_arabic": "ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır. \"",
+      "morphology": {
+        "lemma": "$ukor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ukor|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır.\"",
+      "contextual_meaning": "Nimetin kıymetini bilip gereğini yapma; karşılığı verilmiş ve takdir edilmiş olan."
+    },
+    {
+      "surah": 34,
+      "ayah": 13,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:13",
+      "word_position": 19,
+      "target_word_uthmani": "ٱلشَّكُورُ",
+      "target_word_rasm": "ٱلشكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır. \"",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır.\"",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 34,
+      "ayah": 15,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:15",
+      "word_position": 15,
+      "target_word_uthmani": "وَٱشْكُرُوا۟",
+      "target_word_rasm": "وٱشكروا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurun (Form I emir fiil)",
+      "context_snippet_arabic": "مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ بَلْدَةٌ طَيِّبَةٌ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbinizin verdiği rızıktan yiyin ve O'na nimetin değerini bilip açığa vurun. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sebelilerin yurtlarında Allah'ın kudretine bir işaret vardır: Sağlı sollu iki bahçe vardı. Onlara: \"Rabbinizin verdiği rızıktan yiyin ve O'na nimetin değerini bilip açığa vurun. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 34,
+      "ayah": 19,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:19",
+      "word_position": 19,
+      "target_word_uthmani": "شَكُورٍ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu bunlarda, pek sebat edip direnen ve çok nimetin değerini bilip açığa vuran kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَقَالُوا۟ رَبَّنَا بَٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَٰهُمْ أَحَادِيثَ وَمَزَّقْنَٰهُمْ كُلَّ مُمَزَّقٍ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama onlar: \"Rabbimiz! Yolculuklarımızın mesafesini uzak kıl\" deyip kendilerine yazık ettiler. Biz de onları efsane yapıverdik, darmadağın ettik. Doğrusu bunlarda, pek sebat edip direnen ve çok nimetin değerini bilip açığa vuran kimseler için dersler vardır.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 35,
+      "ayah": 12,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:12",
+      "word_position": 28,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki deniz bir değildir. Birinin suyu tatlı ve kolay içimlidir; diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 35,
+      "ayah": 30,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:30",
+      "word_position": 8,
+      "target_word_uthmani": "شَكُورٌ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "فَضْلِهِۦٓ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü Allah bu kimselerin ecirlerini tam verir ve lütfu ile arttırır. Doğrusu O, bağışlayandır, nimeti açığa vurmanın karşılığını bol bol verendir.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü Allah bu kimselerin ecirlerini tam verir ve lütfu ile arttırır. Doğrusu O, bağışlayandır, nimeti açığa vurmanın karşılığını bol bol verendir.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 35,
+      "ayah": 34,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:34",
+      "word_position": 11,
+      "target_word_uthmani": "شَكُورٌ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+      "context_snippet_turkish_tabula_rasa": "Derler ki: \"Bizden üzüntüyü gideren Allah'a hamdolsun. Doğrusu Rabbimiz bağışlayandır, nimeti açığa vurmanın karşılığını verendir.\"",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Derler ki: \"Bizden üzüntüyü gideren Allah'a hamdolsun. Doğrusu Rabbimiz bağışlayandır, nimeti açığa vurmanın karşılığını verendir.\"",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 36,
+      "ayah": 35,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:35",
+      "word_position": 8,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onun ve elleriyle yaptıklarının ürünlerini yesinler; nimetin değerini bilip açığa vurmazlar mi?",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onun ve elleriyle yaptıklarının ürünlerini yesinler; nimetin değerini bilip açığa vurmazlar mi?",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 36,
+      "ayah": 73,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:73",
+      "word_position": 6,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مَنَٰفِعُ وَمَشَارِبُ أَفَلَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlarda daha nice faydalar, içecekler vardır; nimetin değerini bilip açığa vurmazlar mi?",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَهُمْ فِيهَا مَنَٰفِعُ وَمَشَارِبُ أَفَلَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlarda daha nice faydalar, içecekler vardır; nimetin değerini bilip açığa vurmazlar mi?",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 39,
+      "ayah": 7,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:7",
+      "word_position": 12,
+      "target_word_uthmani": "تَشْكُرُوا۟",
+      "target_word_rasm": "تشكروا",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "لِعِبَادِهِ ٱلْكُفْرَ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "... Kullarının gerçeğin üzerini örtmesinden hoşnut olmaz. Eğer nimetin değerini bilip açığa vurursanız sizden hoşnut olur. Hiçbir ağır sapmaya düşen diğerinin sapma ve kusurunu yüklenmez. ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِن تَكْفُرُوا۟ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنكُمْ وَلَا يَرْضَىٰ لِعِبَادِهِ ٱلْكُفْرَ وَإِن تَشْكُرُوا۟ يَرْضَهُ لَكُمْ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer gerçeğin üzerini örterseniz bilin ki Allah sizden müstağnidir. Kullarının gerçeğin üzerini örtmesinden hoşnut olmaz. Eğer nimetin değerini bilip açığa vurursanız sizden hoşnut olur. Hiçbir ağır sapmaya düşen diğerinin sapma ve kusurunu yüklenmez. Sonunda dönüşünüz Rabbinizedir; yaptıklarınızı o zaman size haber verir; çünkü O, kalblerde olanı bilir.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 39,
+      "ayah": 66,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:66",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلشَّٰكِرِينَ",
+      "target_word_rasm": "ٱلشكرين",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "فَٱعْبُدْ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Hayır; yalnız Allah'a kulluk et ve şukredenlerden ol.\"",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hayır; yalnız Allah'a kulluk et ve şukredenlerden ol.\"",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 40,
+      "ayah": 61,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:61",
+      "word_position": 20,
+      "target_word_uthmani": "يَشْكُرُونَ",
+      "target_word_rasm": "يشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu Allah insanlara karşı lütufkardır, ama insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|3MP"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size, geceyi dinlenesiniz diye karanlık ve gündüzü aydınlık olarak yaratan Allah'tır. Doğrusu Allah insanlara karşı lütufkardır, ama insanların çoğu nimetin değerini bilip açığa vurmazlar.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 42,
+      "ayah": 23,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:23",
+      "word_position": 29,
+      "target_word_uthmani": "شَكُورٌ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu Allah bağışlayandır, nimeti açığa vurmanın karşılığını verendir.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erip yararlı işler işleyen kullarını bununla müjdeler. De ki: \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem.\" Kim güzel bir iş işlerse onun güzelliğini arttırırız. Doğrusu Allah bağışlayandır, nimeti açığa vurmanın karşılığını verendir.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 42,
+      "ayah": 33,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:33",
+      "word_position": 15,
+      "target_word_uthmani": "شَكُورٍ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlarda, sebatlı ve dirençli olan ve çok nimetin değerini bilip açığa vuran kimseler için deliller vardır.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:$akuwr|ROOT:$kr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "O, dilerse rüzgarı durdurur, yelkenle giden gemiler o zaman denizin yüzünde durakalır. Bunlarda, sebatlı ve dirençli olan ve çok nimetin değerini bilip açığa vuran kimseler için deliller vardır.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 45,
+      "ayah": 12,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:12",
+      "word_position": 14,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Emri gereğince denizde yüzmek üzere gemileri, lütfedip verdiği rızkı aramanız için denizi buyruğunuz altına veren Allah'tır, belki artık nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Emri gereğince denizde yüzmek üzere gemileri, lütfedip verdiği rızkı aramanız için denizi buyruğunuz altına veren Allah'tır, belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 46,
+      "ayah": 15,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:15",
+      "word_position": 25,
+      "target_word_uthmani": "أَشْكُرَ",
+      "target_word_rasm": "أشكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Bana ve anne babama verdiğin nimete nimetin değerini bilip açığa vurmamı ve benim hoşnut olacağın yararlı bir işi yapmamı sağla; bana verdiğin gibi soyuma da salah ver; ...",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz insana, anne ve babasına karşı iyi davranmasını tavsiye etmişizdir; zira annesi, onu, karnında, zorluğa uğrayarak taşımış; onu güçlükle doğurmuştur. Taşınması ve sütten kesilmesi otuz ay sürer. Sonunda erginlik çağına erince ve kırk yaşına varınca: \"Rabbim! Bana ve anne babama verdiğin nimete nimetin değerini bilip açığa vurmamı ve benim hoşnut olacağın yararlı bir işi yapmamı sağla; bana verdiğin gibi soyuma da salah ver; doğrusu Sana yöneldim, ben, kendini Sana verenlerdenim\" demesi gerekir.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 54,
+      "ayah": 35,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:35",
+      "word_position": 7,
+      "target_word_uthmani": "شَكَرَ",
+      "target_word_rasm": "شكر",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verdi (Form I mâzî fiil)",
+      "context_snippet_arabic": "كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "context_snippet_turkish_tabula_rasa": "... Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. nimetin değerini bilip açığa vurana işte böyle mükafat veririz.",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:$akara|ROOT:$kr|3MS"
+      },
+      "ayah_text_arabic_full": "نِّعْمَةً مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de üzerlerine taş yağdıran bir rüzgar gönderdik. Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. nimetin değerini bilip açığa vurana işte böyle mükafat veririz.",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 56,
+      "ayah": 70,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:70",
+      "word_position": 6,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dileseydik onu acılaştırırdık; hala nimetin değerini bilip açığa vurmaz misiniz?",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dileseydik onu acılaştırırdık; hala nimetin değerini bilip açığa vurmaz misiniz?",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 64,
+      "ayah": 17,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:17",
+      "word_position": 11,
+      "target_word_uthmani": "شَكُورٌ",
+      "target_word_rasm": "شكور",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "وَيَغْفِرْ لَكُمْ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah'a güzel bir ödünç takdiminde bulunursanız, onu sizin için kat kat yapar ve sizi bağışlar; Allah, nimeti açığa vurmanın karşılığını verendir; Halim'dir.",
+      "morphology": {
+        "lemma": "$akuwr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$akuwr|ROOT:$kr|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah'a güzel bir ödünç takdiminde bulunursanız, onu sizin için kat kat yapar ve sizi bağışlar; Allah, nimeti açığa vurmanın karşılığını verendir; Halim'dir.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 67,
+      "ayah": 23,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:23",
+      "word_position": 12,
+      "target_word_uthmani": "تَشْكُرُونَ",
+      "target_word_rasm": "تشكرون",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını verirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Sizi yaratan sizin için kulaklar, gözler ve kalbler var eden O'dur. Ne az nimetin değerini bilip açığa vuruyorsunuz!\"",
+      "morphology": {
+        "lemma": "$akara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:$akara|ROOT:$kr|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Sizi yaratan sizin için kulaklar, gözler ve kalbler var eden O'dur. Ne az nimetin değerini bilip açığa vuruyorsunuz!\"",
+      "contextual_meaning": "Nimetin üzerini örtmeyip hakkını vererek değerini açığa çıkardı ve gereğini yaptı."
+    },
+    {
+      "surah": 76,
+      "ayah": 3,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:3",
+      "word_position": 5,
+      "target_word_uthmani": "شَاكِرًا",
+      "target_word_rasm": "شاكرا",
+      "target_word_literal_irab": "Nimetin değerini bilip hakkını tam veren, az iyiliğe çokça karşılık veren (sıfat)",
+      "context_snippet_arabic": "هَدَيْنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz ona yol gösterdik; buna kimi nimetin değerini bilip açığa vurur, kimi de nankörlük.",
+      "morphology": {
+        "lemma": "$aAkir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:$aAkir|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا هَدَيْنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz ona yol gösterdik; buna kimi nimetin değerini bilip açığa vurur, kimi de nankörlük.",
+      "contextual_meaning": "Nimetin hakkını tam verip açığa vuran; az iyiliğe katbekat fazlasıyla karşılık veren."
+    },
+    {
+      "surah": 76,
+      "ayah": 9,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:9",
+      "word_position": 10,
+      "target_word_uthmani": "شُكُورًا",
+      "target_word_rasm": "شكورا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurma, gereğini yapma (masdar / ismi mef'ûl)",
+      "context_snippet_arabic": "مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "context_snippet_turkish_tabula_rasa": "\"Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız\"...",
+      "morphology": {
+        "lemma": "$ukuwr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:$ukuwr|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız\" derler.",
+      "contextual_meaning": "Nimetin kıymetini bilip gereğini yapma; karşılığı verilmiş ve takdir edilmiş olan."
+    },
+    {
+      "surah": 76,
+      "ayah": 22,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:22",
+      "word_position": 8,
+      "target_word_uthmani": "مَّشْكُورًا",
+      "target_word_rasm": "مشكورا",
+      "target_word_literal_irab": "Nimetin değerini bilip açığa vurma, gereğini yapma (masdar / ismi mef'ûl)",
+      "context_snippet_arabic": "جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "context_snippet_turkish_tabula_rasa": "\"İşte bu sizin işlediklerinizin karşılığıdır, çalışmalarınız nimeti açığa vurmaya değer\" denir.",
+      "morphology": {
+        "lemma": "m~a$okuwr",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:m~a$okuwr|ROOT:$kr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"İşte bu sizin işlediklerinizin karşılığıdır, çalışmalarınız nimeti açığa vurmaya değer\" denir.",
+      "contextual_meaning": "Nimetin kıymetini bilip gereğini yapma; karşılığı verilmiş ve takdir edilmiş olan."
+    }
+  ]
+}

@@ -1,0 +1,2027 @@
+{
+  "root": "ب-غ-ي",
+  "root_latin": "B-G-Y (bgy)",
+  "concept_name": "Bagy / İbtigâ / Yenbağî (Şiddetle Aramak, Yaraşmak ve Sınırı Taşıp Saldırmak)",
+  "rank": 119,
+  "total_occurrences": 96,
+  "unique_ayahs_count": 90,
+  "unified_core_mechanism": "Kökün `96` geçişlik tamamı İbn Fâris'in `(بغي)` ekseninde iki simetrik kanat olarak birleşir: 'Bir hedefe doğru şiddetle uzanıp talep etmek; denge veya hak gözetildiğinde yapıcı çabaya, ölçü aşıldığında ise yıkıcı sınır ihlaline dönüşmek'. Üç fiil babı bu ayrımı morfolojik olarak mühürler: (1) VIII. bab (`ٱبْتَغَىٰ` `34 V` + `ٱبْتِغَآء` `14 N` = `48` geçiş): helal geçim (`62:10`), özgürlük sözleşmesi (`24:33`) ve Yaratıcının rızasını arayış (`2:207`, `92:20`). (2) I. bab (`بَغَىٰ` `25 V` + `بَغْى` `11 N` + `بَاغٍ` `3 N` + `بَغِىّ / بِغَآء` `3 N` = `42` geçiş): bilgi sonrası hizip çekişmesi (`2:213`), yolda eğrilik arama (`7:45`), mal-güç şımarıklığıyla saldırma (`28:76`, `42:27`, `49:9`), iki denizin sınırı aşmaması (`55:20`) ve iffet sınırının çiğnenmesi (`19:20,28`, `24:33`). (3) VII. bab (`يَنۢبَغِى` `6 V`, daima olumsuz): bir niteliğin kozmik veya ahlakî yapıya uymaması (`19:92`, `36:40,69`).",
+  "physical_core": "İçsel arzu veya hedeflenen şeye doğru şiddetle uzanıp aramak, ölçülü kalmadığında ise belirlenen sınırı taşarak haksızca saldırmak (`طَلَبُ ٱلشَّيْءِ وَٱلْمَيْلُ ٱلشَّدِيدُ إِلَيْهِ ثُمَّ مُجَاوَزَةُ ٱلْحَدِّ`). İki denizin aralarındaki engele rağmen birbirinin sınırına taşmaması (`لَا يَبْغِيَانِ` `55:20`), zorunlulukta taşkın istek gütmeden yemek (`غَيْرَ بَاغٍ` `2:173`), ticaret ve deniz yoluyla rızık aramak (`ٱبْتِغَآءَ` / `تَبْتَغُوا۟ فَضْلًا`), yolda eğrilik aramak (`تَبْغُونَهَا عِوَجًا`) ve bir düzenin doğasına yerleşmek (`يَنۢبَغِى`) hep aynı 'şiddetli arayış ve sınır ilişkisi' çekirdeğinden dallanır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `ba-ğayn-ya (بغى)` kökünde iki yakın kol saptar: (1) Bir şeyi talep edip aramak (`talab`: `بَغَيْتُ ٱلشَّىْءَ / ٱبْتَغَيْتُ`), (2) Ölçüyü taşıp haksızca yükselmek ve bozgun çıkarmak (`el-mücâveze ve'l-fesâd`: `بَغْى`).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökün iki bab üzerinden nasıl ayrıştığını netleştirir: Ölçüyü gözeterek hayrı, rızkı veya hakikati istemek çoğunlukla VIII. bab `ٱبْتَغَىٰ - ٱبْتِغَآء` (ile nadir I. bab `12:65`, `18:64`) ile taşınırken; ölçüyü ve sınırı çiğneyen haksız talep I. bab `بَغَىٰ`, mastarı `بَغْى` ve iffet sınırını aşan `بَغِىّ / بِغَآء` (`19:20,28`, `24:33`) formlarında yoğunlaşır.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `بَغَتِ ٱلْمَرْأَةُ / بَغِىّ` ('iffet sınırını aşan'), `بَغَى ٱلْجُرْحُ` ('yaranın şişip irin toplayarak taşması') ve `ٱنْبَغَى` ('kolayca talep edilebilir ve uygun hale gelmesi') örnekleriyle taşma ile şiddetli arzu arasındaki fiziksel bağlantıyı pekiştirir.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `96` geçiş aynı mekaniğin iki yönlü çalışmasını sergiler: İnsanın yöneldiği şiddetli arayış (`طلب`). Hedef hak, rızık veya Yaratıcının rızası olduğunda `ٱبْتِغَآء / وَٱبْتَغِ` ('emeğinle ara-iste' `28:77`) övülür; hedef komşunun payı, denge sınırı (`55:20`), toplum huzuru (`49:9`) veya kendi sınırını aşmak olduğunda aynı kök `بَغَىٰ / وَلَا تَبْغِ` ('taşkınlık yapma' `28:77`) adını alır."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "Aramca ve Süryanicede `בְּעָא / ܒܥܳܐ` (*bǝʿā*, CAL: 'aramak, istemek, sormak, dua etmek') ve isim `בְּעָיָא` (*bǝʿāyā*, 'istek, talep, sorun') kökün doğrudan en güçlü Kuzeybatı Semitik karşılığıdır.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `בָּעָה` (*bāʿāh*, BDB: 'aramak, sormak; suyun kaynayıp taşması/şişmesi' — Yeşaya 21:12, 30:13) hem 'arama' hem de 'taşma/şişme' çift kutupluluğunu İbranicede dahi canlı biçimde saklar.",
+    "akkadian": "Akadca D-kalıbı `buʾʾû(m)` (CAD B: 'titizlikle aramak, araştırmak, talep etmek') 'arama ve isteme' anlamında doğrudan Doğu Semitik paralellik taşır.",
+    "phonological_note": "Proto-Sami `*√b-ġ-y` kökünde orta kök harfi `*ġ` (غ): Arapçada asli sesiyle (`ب-غ-ي`) korunurken Kuzeybatı Semitik ses yasası (`Proto-Sami *ġ > İbranice/Aramca ʿ`) uyarınca düzenli olarak ayın (`ע` / `ع`) sesine dönüşmüş (`*b-ġ-y` > İbranice `bāʿāh`, Aramca `bǝʿā`), Akadcada ise gırtlak zayıflamasıyla `buʾʾûm` biçimini almıştır. Üstelik İbranicedeki `bāʿāh` kökünün hem 'aramak' hem de 'kaynayıp şişerek taşmak' anlamlarını taşıması, İbn Fâris'in Arapçadaki çift kutuplu tanımının pan-Semitik kökenini doğrular."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-د-ل / ق-س-ط (`إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ ... وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ` `16:90`; `فَإِنۢ بَغَتْ ... فَأَصْلِحُوا۟ بِٱلْعَدْلِ وَأَقْسِطُوٓا۟` `49:9`; `38:22` — Ölçülü Adalet, Denge ve Onarım vs Sınır Aşan Saldırganlık ve Taşkınlık `بَغْى`)",
+      "إ-ص-ل-ا-ح / م-ع-ر-و-ف (`وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ... وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ` `28:77`; `4:114` `إِصْلَٰحٍۭ` — Hayrı ve Düzeni Aramak `ٱبْتِغَآء` vs Bozgunculuk Aramak `تَبْغِ`)",
+      "ح-ل-م / ب-ر-ز-خ (`بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ` `55:20`; `عَفُوٌّ غَفُورٌ` `22:60` — Dengeli Engel ve Sınırda Durma vs Sınırı Çiğneyip Taşma)"
+    ],
+    "key_ayahs": [
+      "2:173",
+      "2:207",
+      "2:213",
+      "3:7",
+      "3:83",
+      "4:114",
+      "6:164",
+      "7:33",
+      "10:23",
+      "12:65",
+      "16:90",
+      "18:64",
+      "19:20",
+      "19:92",
+      "22:60",
+      "24:33",
+      "28:76",
+      "28:77",
+      "30:23",
+      "36:40",
+      "36:69",
+      "38:22",
+      "38:35",
+      "42:27",
+      "42:39",
+      "49:9",
+      "55:20",
+      "62:10",
+      "92:20"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ب-غ-ي` bir hedefe şiddetle uzanıp aramak ve sınır gözetilmezse ölçüyü taşıp haksızca saldırmak ise zıddı nedir?' Cevap: (1) Saldırgan taşkınlığın (`بَغْى`) doğrudan Kur'anî karşıtları adalet ve ıslah/düzeltmedir (`ٱلْعَدْل / أَقْسِطُوا۟` `16:90`, `49:9`, `38:22`) ve doğal sınıra saygıdır (`بَرْزَخٌ لَّا يَبْغِيَانِ` `55:20`). (2) Tek bir ayette `28:77` kendi içinde kutuplaşır: `وَٱبْتَغِ` (hayrı/sorumluluğu aramak) karşısında `وَلَا تَبْغِ ٱلْفَسَادَ` (yeryüzünde bozgunculuk taşkınlığına girmemek). (3) `19:20,28` ve `24:33`te ise iffet ihlali olan `بَغِىّ / بِغَآء` doğrudan namuslu korunma (`تَحَصُّن`) ile çarpıştırılır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`وَٱبْتَغِ` (`Emek verip gelecek iyiliği aramak`) vs `وَلَا تَبْغِ` (`Yeryüzünde taşkınlık ve bozgunculuk çıkarmamak`) — `28:77`",
+      "`بَاغٍ` (`İçsel keyfî taşkınlık ve zorbalık güden`) vs `عَادٍ` (`Dış zorunluluk miktarını aşan`) — `2:173`, `6:145`, `16:115`",
+      "`ٱبْتِغَآءَ ٱلْفِتْنَةِ` (`Kargaşa çıkarmayı hedefleme`) vs `ٱبْتِغَآءَ تَأْوِيلِهِۦ` (`Kendi arzusuna göre yorum arayışı`) — `3:7`",
+      "`ٱلْفَحْشَآء` (`Aşırı çirkin eylem`) vs `ٱلْمُنكَر` (`Selim akıl/örfçe reddedilen`) vs `ٱلْبَغْى` (`Haddi aşarak başkasına yönelen zorbalık ve hak gaspı`) — `16:90`, `7:33`",
+      "`ٱلْبِغَآء` (`İffet sınırını ihlal eden zorbalık`) vs `تَحَصُّنًا` (`İffeti kale gibi koruma iradesi`) — `24:33`"
+    ],
+    "mechanical_difference": "1) `28:77`de `وَٱبْتَغِ ... وَلَا تَبْغِ` kalıbı aynı kökten iki farklı fiil babının zıt yörüngesini tek cümlede gösterir: VIII. bab yapıcı arayışı, I. bab ise yıkıcı taşkınlığı yasaklayarak ayırır. 2) `2:173`, `6:145` ve `16:115`te açlık zorunluluğunda `غَيْرَ بَاغٍ وَلَا عَادٍ` eşleşir: ilki niyetteki taşkın arzuyu (`بَاغٍ`), ikincisi tüketimdeki miktar aşımını (`عَادٍ`) sınırlar. 3) `16:90`da toplum düzeni üç onarıcı (`عَدْل`, `إِحْسَٰن`, `إِيتَآئِ ذِى ٱلْقُرْبَىٰ`) ve üç yıkıcı (`فَحْشَآء`, `مُنكَر`, `بَغْى`) kavramla kilitlenir; burada `بَغْى`, bireysel çirkinliği değil doğrudan başkasının hakkına yönelen saldırgan sınırı aşmayı belirtir. 4) `24:33`te ise özgürlük sözleşmesi aramak (`يَبْتَغُونَ ٱلْكِتَٰبَ`) ile geçici dünya çıkarı için (`لِّتَبْتَغُوا۟ عَرَضَ`) genç kızları `ٱلْبِغَآء`a zorlama arasındaki ahlakî uçurum sergilenir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "28:77 & 55:20 & 16:90 & 49:9 & 10:23",
+      "role": "İki Yörüngeli Merkez Çapası: Yapıcı Arayış vs Sınır Taşan Saldırı",
+      "literal_meaning": "'Sana verilenden gelecek iyiliği ara-iste (`وَٱبْتَغِ`), ama yeryüzünde taşkın bozgunculuk arama (`وَلَا تَبْغِ` `28:77`)', 'iki deniz arasında engel vardır, birbirinin sınırına taşmazlar (`لَا يَبْغِيَانِ` `55:20`)', 'haksız taşkınlığınız yalnız kendi benliğinize döner (`10:23`)' ve 'saldıran tarafa karşı adalete dönünceye kadar durun (`49:9`).'"
+    },
+    {
+      "ref": "2:207,265,272 & 62:10 & 92:20 & 13:17",
+      "role": "Arı Rıza, Geçim ve Faydalı Çaba Arayışı Çapası (`ٱبْتِغَآء` & `تَبْتَغُوا۟ فَضْلًا`)",
+      "literal_meaning": "'Yalnız Yaratıcının rızasını ve hoşnutluğunu arayarak kendini veya malını paylaşmak (`2:207,265,272`, `92:20`)', 'yeryüzüne yayılıp O'nun lütfundan rızık aramak (`62:10`, `28:73`, `73:20`)' ve 'ateşte eritip süs/eşya aramalarındaki hak-batıl ölçüsü (`13:17`).'"
+    },
+    {
+      "ref": "19:92 & 36:40 & 36:69 & 25:18 & 26:211 & 38:35",
+      "role": "Yapısal Uygunsuzluk ve Kozmik Ölçü Çapası (`مَا / لَا يَنۢبَغِى` — `6` Geçişin Tamamı)",
+      "literal_meaning": "'Rahmân'a çocuk edinmek hiç yakışmaz (`19:92`)', 'ne güneş aya yetişebilir ne gece gündüzü geçebilir (`36:40`)', 'ona şiir öğretmedik, zaten ona yaraşmaz da (`36:69`)' ve 'benden sonra kimseye nasip olmayacak bir yönetim ver (`38:35`).'"
+    },
+    {
+      "ref": "2:173 & 18:64 & 12:65 & 38:22-24",
+      "role": "Maddî Arayış, Dava ve Zorunluluk Sınırı Çapası (`نَبْغِ` / `غَيْرَ بَاغٍ` / `بَغَىٰ بَعْضُنَا`)",
+      "literal_meaning": "'İşte arayıp durduğumuz nokta buydu (`ذَٰلِكَ مَا كُنَّا نَبْغِ` `18:64`)', 'başka ne isteyebiliriz ki (`12:65`)', 'mecbur kalan kişi taşkınlık etmeden yerse (`غَيْرَ بَاغٍ وَلَا عَادٍ` `2:173`)' ve 'ortakların birçoğu birbirinin hakkına tecavüz eder (`38:22,24`).'"
+    },
+    {
+      "ref": "24:33 & 19:20,28 & 2:213 & 3:7",
+      "role": "İffet Sınırı ve Bilgi Sonrası Kıskançlık/Fitne Çapası (`بَغِىّ / بِغَآء` & `بَغْيًا بَيْنَهُمْ`)",
+      "literal_meaning": "'Kendi genç kızlarınızı iffet dışı kazanca zorlamayın (`عَلَى ٱلْبِغَآءِ` `24:33`)', 'ben iffetsiz bir kadın değildim (`وَلَمْ أَكُ بَغِيًّا` `19:20,28`)' ve 'kendilerine açık delil geldikten sonra sırf aralarındaki haksız çekişme (`بَغْيًۢا بَيْنَهُمْ`) yüzünden ayrılığa düştüler (`2:213`, `3:19`, `42:14`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Son harfi illetli nâkıs-ı yâî (`ب-غ-ي`) köktür. I. bab `بَغَىٰ - يَبْغِى`, VII. bab `ٱنۢبَغَىٰ - يَنۢبَغِى` (mutâvaat: yalnız olumsuz muzârî `مَا / لَا يَنۢبَغِى` olarak `6` kez) ve VIII. bab `ٱبْتَغَىٰ - يَبْتَغِى` (if'ti'âl babı çaba yoğunluğu katar) Kur'an'daki tüm `65` fiili paylaşır. 2) Meczûm ve emir çekimlerinde sondaki illetli `ى` harfi kesrayı koruyarak düşer (`يَبْتَغِ` `3:85`, `وَٱبْتَغِ` `17:110`, `28:77`, `تَبْغِ` `28:77`); çoğulda ise son `ى` düşüp vav-elif eklenir (`لَبَغَوْا۟` `42:27`, `ٱبْتَغَوُا۟` `9:48`, `لَّٱبْتَغَوْا۟` `17:42`). 3) Rasm-ı Osmânî inceliği: Mûsâ kıssasında `18:64`teki `مَا كُنَّا نَبْغِ` fiili merfû olduğu halde yazıda son `ى` düşürülerek `نبغ` şeklinde resmedilmiştir (`12:65`te `نَبْغِى` tam `ى` ile yazılır). 4) İsm-i fâil `بَاغٍ` (`2:173`, `6:145`, `16:115`) tenkîr ve cerr/ref halinde `ى` düşerek tenvin alır; I. bab mastar `بَغْى` (`11`) ve VIII. bab mastar `ٱبْتِغَآء` (`14`) çoğunlukla mef'ûlün leh ('... yüzünden / ... amacıyla') olarak mansûb gelir. Toplam `5` ayette birden fazla geçer (`24:33`te `3` kez; `3:7`, `10:23`, `28:77`, `49:9`da `2`şer kez) ve `47` ayrı Rasm-ı Osmânî yazımı sunar.",
+  "derivatives": {
+    "ٱبْتَغَىٰ (`34 V` Form VIII) & ٱبْتِغَآء (`14 N` VIII. bab mastar)": "Emek ve iradeyle bir hedefe uzanıp aramak: rızık ve lütuf (`62:10`, `30:23`), hoşnutluk ve rıza (`2:207`, `92:20`), özgürlük sözleşmesi (`24:33`) yahut fitne ve dünya çıkarı (`3:7`, `4:139`, `9:48`)",
+    "بَغَىٰ - يَبْغِى (`25 V` Form I) & بَغْى (`11 N`) & بَاغٍ (`3 N`)": "Sınırı aşıp haksızca saldırmak ve eğrilik aramak (`10:23`, `28:76`, `38:22`, `42:27`, `49:9`, `55:20`), kıskançlık çekişmesi (`2:213`, `3:19`), taşkın arzu gütmek (`2:173`) ve sade aramak (`12:65`, `18:64`)",
+    "مَا / لَا يَنۢبَغِى (`6 V` Form VII: `19:92`, `25:18`, `26:211`, `36:40`, `36:69`, `38:35`)": "Tabiat, makam veya hakikat yasasına uygun düşmek / yaraşmak — Kur'an'da daima olumsuz kalıpta",
+    "بَغِىّ (`2 N`: `19:20,28`) & بِغَآء (`1 N`: `24:33`)": "İffet sınırını ihlal eden kadın (`19:20,28`) ve iffet dışı kazanca zorlama (`24:33`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 90,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:90",
+      "word_position": 10,
+      "target_word_uthmani": "بَغْيًا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "Haksız taşkınlık / çekişme yüzünden (`بَغْيًا / بَغْيًۢا`, nekre I. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın kullarından dilediğine, bol ihsanından indirmesini çekemeyerek, Allah'ın indirdiğini gerçeğin üzerini ört, kendilerini ne kötü bir şey karşılığında sat...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "بِئْسَمَا ٱشْتَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ أَن يَكْفُرُوا۟ بِمَآ أَنزَلَ ٱللَّهُ بَغْيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضْلِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٍ وَلِلْكَٰفِرِينَ عَذَابٌ مُّهِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kullarından dilediğine, bol ihsanından indirmesini çekemeyerek, Allah'ın indirdiğini gerçeğin üzerini ört, kendilerini ne kötü bir şey karşılığında sattılar. Bu yüzden gazab üstüne gazaba uğradılar. gerçeğin üzerini örtenlere alçaltıcı bir azab vardır.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 2,
+      "ayah": 173,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:173",
+      "word_position": 16,
+      "target_word_uthmani": "بَاغٍ",
+      "target_word_rasm": "باغ",
+      "target_word_literal_irab": "Keyfî taşkınlık ve arzu güden (`بَاغٍ`, nâkıs ism-i fâil merfû/mecrûr — `ى` düşerek tenvin alır)",
+      "context_snippet_arabic": "فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz size ölü hayvan etini, kanı, domuz etini, Allah'tan başkası için kesilen hayvanı haram kılmıştır; fakat, darda kalana, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere sapma ve ağır kusur sayılmaz. ...",
+      "morphology": {
+        "lemma": "baAg",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAg|ROOT:bgy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz size ölü hayvan etini, kanı, domuz etini, Allah'tan başkası için kesilen hayvanı haram kılmıştır; fakat, darda kalana, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere sapma ve ağır kusur sayılmaz. Çünkü Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Zorunluluk anında keyfî taşkınlık gütmeme şartı (`غَيْرَ بَاغٍ وَلَا عَادٍ` `2:173`, `6:145`, `16:115`): Hayatta kalma zaruretinde içsel azgın arzuyla (`بَاغٍ`) ve miktar sınırını aşarak (`عَادٍ`) yeme yasağı."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 26,
+      "target_word_uthmani": "وَٱبْتَغُوا۟",
+      "target_word_rasm": "وٱبتغوا",
+      "target_word_literal_irab": "Emekle arayın / isteyin (`وَٱبْتَغُوا۟ / فَٱبْتَغُوا۟`, VIII. bab emir, 2. çoğul eril)",
+      "context_snippet_arabic": "عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 2,
+      "ayah": 198,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:198",
+      "word_position": 5,
+      "target_word_uthmani": "تَبْتَغُوا۟",
+      "target_word_rasm": "تبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz'den refah istemenizde bir engel yoktur. Arafat'tan indiğinizde, Allah'ı Meşari Haram'da anın; ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz'den refah istemenizde bir engel yoktur. Arafat'tan indiğinizde, Allah'ı Meşari Haram'da anın; O'nu, size gösterdiği şekilde zikredin. Nitekim siz önceleri hiç şüphesiz sapıklardandınız.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 2,
+      "ayah": 207,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:207",
+      "word_position": 6,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مَن يَشْرِى نَفْسَهُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar arasında, Allah'ın rızasını kazanmak için canını verenler vardır. Allah kullarına karşı şefkatlidir.",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يَشْرِى نَفْسَهُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar arasında, Allah'ın rızasını kazanmak için canını verenler vardır. Allah kullarına karşı şefkatlidir.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 2,
+      "ayah": 213,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:213",
+      "word_position": 31,
+      "target_word_uthmani": "بَغْيًۢا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "Haksız taşkınlık / çekişme yüzünden (`بَغْيًا / بَغْيًۢا`, nekre I. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ فَهَدَى ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar bir tek ümmetti. Allah elçileri müjdeci ve uyarıcı olarak gönderdi; insanların ayrılığa düşecekleri hususlarda aralarında hüküm vermek için onlarla birlikte hak Kitaplar indirdi. ...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar bir tek ümmetti. Allah elçileri müjdeci ve uyarıcı olarak gönderdi; insanların ayrılığa düşecekleri hususlarda aralarında hüküm vermek için onlarla birlikte hak Kitaplar indirdi. Ancak Kitap verilenler, kendilerine belgeler geldikten sonra, aralarındaki ihtiras yüzünden onda ayrılığa düştüler. Allah, güvene erenleri, ayrılığa düştükleri gerçeğe kendi izni ile eriştirdi. Allah dilediğini doğru yola eriştirir.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 2,
+      "ayah": 265,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:265",
+      "word_position": 5,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rızasını kazanmak ve kalblerini sağlamlaştırmak için mallarını dolaşıma sokup paylaştıranların durumu, yüksekçe bir tepede bulunan, bol yağmur aldığınd...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rızasını kazanmak ve kalblerini sağlamlaştırmak için mallarını dolaşıma sokup paylaştıranların durumu, yüksekçe bir tepede bulunan, bol yağmur aldığında yemişlerini iki kat veren, bol yağmur yağmasa bile çisentisi düşen bir bahçenin durumu gibidir. Allah işlediklerinizi görür.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 2,
+      "ayah": 272,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:272",
+      "word_position": 17,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Onların doğru yola iletilmeleri sana düşmez, fakat Allah dilediğini doğru yola eriştirir. dolaşıma sokup paylaştığınız iyi şey kendinizedir, zaten ancak Allah'ı...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların doğru yola iletilmeleri sana düşmez, fakat Allah dilediğini doğru yola eriştirir. dolaşıma sokup paylaştığınız iyi şey kendinizedir, zaten ancak Allah'ın rızasını kazanmak için dolaşıma sokup paylaşırsınız. dolaşıma sokup paylaştığınız iyi bir şeyin karşılığı haksızlığa uğratılmaksızın size verilir.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 3,
+      "ayah": 7,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:7",
+      "word_position": 23,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Sana Kitap'ı indiren O'dur. Onda Kitap'ın temeli olan kesin anlamlı ayetler vardır, diğerleri de çeşitli anlamlıdırlar. Kalblerinde eğrilik olan kimseler, fitne...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana Kitap'ı indiren O'dur. Onda Kitap'ın temeli olan kesin anlamlı ayetler vardır, diğerleri de çeşitli anlamlıdırlar. Kalblerinde eğrilik olan kimseler, fitne çıkarmak, kendilerine göre yorumlamak için onların çeşitli anlamlı olanlarına uyarlar. Oysa onların yorumunu ancak Allah bilir. İlimde derinleşmiş olanlar: \"Ona güvene erdik, hepsi Rabbimiz'in katındandır\" derler. Bunu ancak akıl sahipleri düşünür;",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 3,
+      "ayah": 7,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:7",
+      "word_position": 25,
+      "target_word_uthmani": "وَٱبْتِغَآءَ",
+      "target_word_rasm": "وٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "Sana Kitap'ı indiren O'dur. Onda Kitap'ın temeli olan kesin anlamlı ayetler vardır, diğerleri de çeşitli anlamlıdırlar. Kalblerinde eğrilik olan kimseler, fitne...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana Kitap'ı indiren O'dur. Onda Kitap'ın temeli olan kesin anlamlı ayetler vardır, diğerleri de çeşitli anlamlıdırlar. Kalblerinde eğrilik olan kimseler, fitne çıkarmak, kendilerine göre yorumlamak için onların çeşitli anlamlı olanlarına uyarlar. Oysa onların yorumunu ancak Allah bilir. İlimde derinleşmiş olanlar: \"Ona güvene erdik, hepsi Rabbimiz'in katındandır\" derler. Bunu ancak akıl sahipleri düşünür;",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 3,
+      "ayah": 19,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:19",
+      "word_position": 17,
+      "target_word_uthmani": "بَغْيًۢا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "Haksız taşkınlık / çekişme yüzünden (`بَغْيًا / بَغْيًۢا`, nekre I. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَمَن يَكْفُرْ",
+      "context_snippet_turkish_tabula_rasa": "Allah katında yaşam ve hesap sistemi, şüphesiz İslam'dır. Ancak, Kitap verilenler, kendilerine ilim geldikten sonra, aralarındaki ihtiras yüzünden ayrılığa düştüler. ...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah katında yaşam ve hesap sistemi, şüphesiz İslam'dır. Ancak, Kitap verilenler, kendilerine ilim geldikten sonra, aralarındaki ihtiras yüzünden ayrılığa düştüler. Allah'ın ayetlerini kim gerçeğin üzerini örterse bilsin ki, Allah hesabı çabuk görür.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 3,
+      "ayah": 83,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:83",
+      "word_position": 4,
+      "target_word_uthmani": "يَبْغُونَ",
+      "target_word_rasm": "يبغون",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yaşam sisteminden başka bir yaşam ve hesap sistemi mi arzu ediyorlar? Oysa göklerde ve yerde kim varsa, ister istemez O'na teslim olmuştur, O'na döneceklerdir.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yaşam sisteminden başka bir yaşam ve hesap sistemi mi arzu ediyorlar? Oysa göklerde ve yerde kim varsa, ister istemez O'na teslim olmuştur, O'na döneceklerdir.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 3,
+      "ayah": 85,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:85",
+      "word_position": 2,
+      "target_word_uthmani": "يَبْتَغِ",
+      "target_word_rasm": "يبتغ",
+      "target_word_literal_irab": "Kim ararsa (`يَبْتَغِ`, VIII. bab muzârî meczûm, 3. tekil eril — `ى` düşer)",
+      "context_snippet_arabic": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَٰمِ دِينًا",
+      "context_snippet_turkish_tabula_rasa": "Kim İslam'dan başka bir yaşam sistemine yönelirse, onunki kabul edilmeyecektir. O ahirette de kaybedenlerdendir.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kim İslam'dan başka bir yaşam sistemine yönelirse, onunki kabul edilmeyecektir. O ahirette de kaybedenlerdendir.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 3,
+      "ayah": 99,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:99",
+      "word_position": 11,
+      "target_word_uthmani": "تَبْغُونَهَا",
+      "target_word_rasm": "تبغونها",
+      "target_word_literal_irab": "Eğriltmek istiyorsunuz (`تَبْغُونَهَا / وَتَبْغُونَهَا`, I. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ey Kitap ehli! Siz doğru olduğuna şahidken, niçin güvene erenleri Allah'ın yolunu eğri göstermeğe yeltenerek ondan çeviriyorsunuz? Allah işlediklerinizd...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ey Kitap ehli! Siz doğru olduğuna şahidken, niçin güvene erenleri Allah'ın yolunu eğri göstermeğe yeltenerek ondan çeviriyorsunuz? Allah işlediklerinizden gafil değildir\".",
+      "contextual_meaning": "Dosdoğru yolda eğrilik ve çarpıklık arama (`وَيَبْغُونَهَا عِوَجًا` `3:99`, `7:45,86`, `11:19`, `14:3`): İnsanları hak güzergâhından alıkoyup yolu yamultmaya çalışma."
+    },
+    {
+      "surah": 4,
+      "ayah": 24,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:24",
+      "word_position": 17,
+      "target_word_uthmani": "تَبْتَغُوا۟",
+      "target_word_rasm": "تبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ",
+      "context_snippet_turkish_tabula_rasa": "Evli kadınlarla evlenmeniz de haram kılındı. Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evli kadınlarla evlenmeniz de haram kılındı. Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. Bunlardan başkasını, zinadan kaçınıp, iffetli olarak, mallarınızla istemeniz size helal kılındı. Onlardan faydalandığınıza mukabil, kararlaştırılmış olan mehirlerini verin; kararlaştırılandan başka, karşılıklı hoşnud olduğunuz hususda size bir sorumluluk yoktur. Allah Bilen'dir, Hakim'dir.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 4,
+      "ayah": 34,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:34",
+      "word_position": 33,
+      "target_word_uthmani": "تَبْغُوا۟",
+      "target_word_rasm": "تبغوا",
+      "target_word_literal_irab": "Aleyhlerine bahane/yol aramayın (`تَبْغُوا۟`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 94,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:94",
+      "word_position": 18,
+      "target_word_uthmani": "تَبْتَغُونَ",
+      "target_word_rasm": "تبتغون",
+      "target_word_literal_irab": "Arayarak (`تَبْتَغُونَ`, VIII. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "... Allah size iyilikte bulundu, iyice araştırıp anlayın, Allah işlediklerinizden şüphesiz haberdardır.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah yolunda yürüdüğünüz vakit, her şeyi iyice anlayın. Size, müslüman olduğunu bildirene, dünya hayatının geçici menfaatine göz dikerek: \"Sen güvene eren değilsin\" demeyin. Allah katında birçok ganimetler vardır. Evvelce siz de öyleydiniz. Allah size iyilikte bulundu, iyice araştırıp anlayın, Allah işlediklerinizden şüphesiz haberdardır.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 4,
+      "ayah": 104,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:104",
+      "word_position": 4,
+      "target_word_uthmani": "ٱبْتِغَآءِ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Arayıp takip etmede (`ٱبْتِغَآءِ`, VIII. bab mastar mecrûr)",
+      "context_snippet_arabic": "وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ إِن تَكُونُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Düşman milleti kovalamakta gevşeklik göstermeyin. Eğer siz acı çekiyorsanız, şüphesiz onlar da sizin çektiğiniz gibi acı çekiyorlar; oysa siz Allah'tan onların ...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَهِنُوا۟ فِى ٱبْتِغَآءِ ٱلْقَوْمِ إِن تَكُونُوا۟ تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَ وَتَرْجُونَ مِنَ ٱللَّهِ مَا لَا يَرْجُونَ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Düşman milleti kovalamakta gevşeklik göstermeyin. Eğer siz acı çekiyorsanız, şüphesiz onlar da sizin çektiğiniz gibi acı çekiyorlar; oysa siz Allah'tan onların beklemedikleri şeyleri bekliyorsunuz. Allah Bilendir, Hakim olandır.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 4,
+      "ayah": 114,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:114",
+      "word_position": 20,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ",
+      "context_snippet_turkish_tabula_rasa": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 4,
+      "ayah": 139,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:139",
+      "word_position": 8,
+      "target_word_uthmani": "أَيَبْتَغُونَ",
+      "target_word_rasm": "أيبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "مِن دُونِ ٱلْمُؤْمِنِينَ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... onların tarafında bir şeref ve kudret mi arıyorlar? Doğrusu kudret bütün olarak Allah'ındır.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, güvene erenleri bırakıp da gerçeğin üzerini örtenleri dost edinirler; onların tarafında bir şeref ve kudret mi arıyorlar? Doğrusu kudret bütün olarak Allah'ındır.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 19,
+      "target_word_uthmani": "يَبْتَغُونَ",
+      "target_word_rasm": "يبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 5,
+      "ayah": 35,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:35",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱبْتَغُوٓا۟",
+      "target_word_rasm": "وٱبتغوا",
+      "target_word_literal_irab": "Emekle arayın / isteyin (`وَٱبْتَغُوا۟ / فَٱبْتَغُوا۟`, VIII. bab emir, 2. çoğul eril)",
+      "context_snippet_arabic": "ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ وَجَٰهِدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'tan sakının, O'na ulaşmaya yol arayın, yolunda cihad edin ki kurtulasınız.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ وَجَٰهِدُوا۟ فِى سَبِيلِهِۦ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'tan sakının, O'na ulaşmaya yol arayın, yolunda cihad edin ki kurtulasınız.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 5,
+      "ayah": 50,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:50",
+      "word_position": 3,
+      "target_word_uthmani": "يَبْغُونَ",
+      "target_word_rasm": "يبغون",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "أَفَحُكْمَ ٱلْجَٰهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Cahiliye devri hükmünü mü istiyorlar? Yakinen bilen bir millet için Allah'tan daha iyi hüküm veren kim vardır?",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَحُكْمَ ٱلْجَٰهِلِيَّةِ يَبْغُونَ وَمَنْ أَحْسَنُ مِنَ ٱللَّهِ حُكْمًا لِّقَوْمٍ يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Cahiliye devri hükmünü mü istiyorlar? Yakinen bilen bir millet için Allah'tan daha iyi hüküm veren kim vardır?",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 6,
+      "ayah": 35,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:35",
+      "word_position": 9,
+      "target_word_uthmani": "تَبْتَغِىَ",
+      "target_word_rasm": "تبتغى",
+      "target_word_literal_irab": "Arayıp bulabilsen (`تَبْتَغِىَ`, VIII. bab muzârî mansûb, 2. tekil eril)",
+      "context_snippet_arabic": "فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Onların yüz çevirmesi sana ağır gelince, eğer gücün yeri delmeye veya göğe merdiven dayamağa yetmiş olsaydı, onlara bir apaçık gösterge göstermek isterdin. Allah dileseydi onları doğru yolda toplardı. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yüz çevirmesi sana ağır gelince, eğer gücün yeri delmeye veya göğe merdiven dayamağa yetmiş olsaydı, onlara bir apaçık gösterge göstermek isterdin. Allah dileseydi onları doğru yolda toplardı. Sakın bilmeyenlerden olma.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 6,
+      "ayah": 114,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:114",
+      "word_position": 3,
+      "target_word_uthmani": "أَبْتَغِى",
+      "target_word_rasm": "أبتغى",
+      "target_word_literal_irab": "Mı arayayım (`أَبْتَغِى`, VIII. bab muzârî merfû, 1. tekil)",
+      "context_snippet_arabic": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah size Kitap'ı açık açık indirmişken O'ndan başka bir hakem mi isteyeyim?\" Kendilerine Kitap verdiklerimiz, onun gerçekten Rableri katından indirilmiş olduğunu bilirler. Öyleyse, sen şüpheye düşenlerden olma!",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|1S"
+      },
+      "ayah_text_arabic_full": "أَفَغَيْرَ ٱللَّهِ أَبْتَغِى حَكَمًا وَهُوَ ٱلَّذِىٓ أَنزَلَ إِلَيْكُمُ ٱلْكِتَٰبَ مُفَصَّلًا وَٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْلَمُونَ أَنَّهُۥ مُنَزَّلٌ مِّن رَّبِّكَ بِٱلْحَقِّ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah size Kitap'ı açık açık indirmişken O'ndan başka bir hakem mi isteyeyim?\" Kendilerine Kitap verdiklerimiz, onun gerçekten Rableri katından indirilmiş olduğunu bilirler. Öyleyse, sen şüpheye düşenlerden olma!",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 6,
+      "ayah": 145,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:145",
+      "word_position": 33,
+      "target_word_uthmani": "بَاغٍ",
+      "target_word_rasm": "باغ",
+      "target_word_literal_irab": "Keyfî taşkınlık ve arzu güden (`بَاغٍ`, nâkıs ism-i fâil merfû/mecrûr — `ى` düşerek tenvin alır)",
+      "context_snippet_arabic": "فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bana vahyolunanda, leş, akıtılmış kan, domuz eti ki pistir ve sapma ve ağır kusur işlenerek Allah'tan başkası adına kesilen hayvandan başkasını yemenin haram olduğuna dair bir emir bulamıyorum; fakat darda kalan, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere bunlardan da yiyebilir. ...",
+      "morphology": {
+        "lemma": "baAg",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAg|ROOT:bgy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Bana vahyolunanda, leş, akıtılmış kan, domuz eti ki pistir ve sapma ve ağır kusur işlenerek Allah'tan başkası adına kesilen hayvandan başkasını yemenin haram olduğuna dair bir emir bulamıyorum; fakat darda kalan, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere bunlardan da yiyebilir.\" Doğrusu Rabbin bağışlar ve merhamet eder.",
+      "contextual_meaning": "Zorunluluk anında keyfî taşkınlık gütmeme şartı (`غَيْرَ بَاغٍ وَلَا عَادٍ` `2:173`, `6:145`, `16:115`): Hayatta kalma zaruretinde içsel azgın arzuyla (`بَاغٍ`) ve miktar sınırını aşarak (`عَادٍ`) yeme yasağı."
+    },
+    {
+      "surah": 6,
+      "ayah": 146,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:146",
+      "word_position": 26,
+      "target_word_uthmani": "بِبَغْيِهِمْ",
+      "target_word_rasm": "ببغيهم",
+      "target_word_literal_irab": "Taşkınlıklarından ötürü / haksız taşkınlıktan (`بِبَغْيِهِمْ / وَٱلْبَغْىِ`, I. bab mastar mecrûr)",
+      "context_snippet_arabic": "بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. ...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. Biz şüphesiz doğru sözlüyüzdür.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 6,
+      "ayah": 164,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:164",
+      "word_position": 4,
+      "target_word_uthmani": "أَبْغِى",
+      "target_word_rasm": "أبغى",
+      "target_word_literal_irab": "Mı arayayım (`أَبْغِى / أَبْغِيكُمْ`, I. bab muzârî merfû, 1. tekil)",
+      "context_snippet_arabic": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah her şeyin Rabbi iken O'ndan başka bir rab mi arayayım? Herkesin kazandığı kendisinedir, kimse başkasının yükünü taşımaz; sonunda dönüşünüz Rabbinizedir, ayrılığa düştüğünüz şeyleri size bildirecektir. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah her şeyin Rabbi iken O'ndan başka bir rab mi arayayım? Herkesin kazandığı kendisinedir, kimse başkasının yükünü taşımaz; sonunda dönüşünüz Rabbinizedir, ayrılığa düştüğünüz şeyleri size bildirecektir.\"",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 7,
+      "ayah": 33,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:33",
+      "word_position": 12,
+      "target_word_uthmani": "وَٱلْبَغْىَ",
+      "target_word_rasm": "وٱلبغى",
+      "target_word_literal_irab": "Ve haksız taşkınlığı (`وَٱلْبَغْىَ`, marife I. bab mastar mansûb)",
+      "context_snippet_arabic": "وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim sadece, açık ve gizli fenalıkları, sapma ve kusuru, haksız yere tecavüzü, hakkında hiçbir delil indirmediği şeyi Allah'a ortak koşmanızı, Allah'a karşı bilmediğiniz şeyleri söylemenizi haram kılmıştır. \"",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Rabbim sadece, açık ve gizli fenalıkları, sapma ve kusuru, haksız yere tecavüzü, hakkında hiçbir delil indirmediği şeyi Allah'a ortak koşmanızı, Allah'a karşı bilmediğiniz şeyleri söylemenizi haram kılmıştır.\"",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 45,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:45",
+      "word_position": 6,
+      "target_word_uthmani": "وَيَبْغُونَهَا",
+      "target_word_rasm": "ويبغونها",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْءَاخِرَةِ",
+      "context_snippet_turkish_tabula_rasa": "... Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْءَاخِرَةِ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline: \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "contextual_meaning": "Dosdoğru yolda eğrilik ve çarpıklık arama (`وَيَبْغُونَهَا عِوَجًا` `3:99`, `7:45,86`, `11:19`, `14:3`): İnsanları hak güzergâhından alıkoyup yolu yamultmaya çalışma."
+    },
+    {
+      "surah": 7,
+      "ayah": 86,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:86",
+      "word_position": 13,
+      "target_word_uthmani": "وَتَبْغُونَهَا",
+      "target_word_rasm": "وتبغونها",
+      "target_word_literal_irab": "Eğriltmek istiyorsunuz (`تَبْغُونَهَا / وَتَبْغُونَهَا`, I. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا وَٱذْكُرُوٓا۟ إِذْ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'a güvene erenleri yolundan alıkoyup ve o yolun eğriliğini dileyerek tehdit edip her yolda pusu kurup oturmayın. Azken, Allah'ın sizi çoğalttığını hatırla...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a güvene erenleri yolundan alıkoyup ve o yolun eğriliğini dileyerek tehdit edip her yolda pusu kurup oturmayın. Azken, Allah'ın sizi çoğalttığını hatırlayın; bozguncuların sonunun nasıl olduğuna bir bakın.\"",
+      "contextual_meaning": "Dosdoğru yolda eğrilik ve çarpıklık arama (`وَيَبْغُونَهَا عِوَجًا` `3:99`, `7:45,86`, `11:19`, `14:3`): İnsanları hak güzergâhından alıkoyup yolu yamultmaya çalışma."
+    },
+    {
+      "surah": 7,
+      "ayah": 140,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:140",
+      "word_position": 4,
+      "target_word_uthmani": "أَبْغِيكُمْ",
+      "target_word_rasm": "أبغيكم",
+      "target_word_literal_irab": "Mı arayayım (`أَبْغِى / أَبْغِيكُمْ`, I. bab muzârî merfû, 1. tekil)",
+      "context_snippet_arabic": "قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"Sizi alemlere üstün kılmış olan Allah'tan başka bir sığınak mercii (ilâh) mı arayacağım?\" dedi.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sizi alemlere üstün kılmış olan Allah'tan başka bir sığınak mercii (ilâh) mı arayacağım?\" dedi.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 9,
+      "ayah": 47,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:47",
+      "word_position": 10,
+      "target_word_uthmani": "يَبْغُونَكُمُ",
+      "target_word_rasm": "يبغونكم",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "خَبَالًا وَلَأَوْضَعُوا۟ خِلَٰلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّٰعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Aranızda savaşa çıkmış olsalardı, ancak sizi bozmağa çalışırlar ve fitneye düşürmek için aranıza sokulurlardı. İçinizde onlara kulak verenler var. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَٰلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّٰعُونَ لَهُمْ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aranızda savaşa çıkmış olsalardı, ancak sizi bozmağa çalışırlar ve fitneye düşürmek için aranıza sokulurlardı. İçinizde onlara kulak verenler var. Allah kendilerine yazık edenleri bilir.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 9,
+      "ayah": 48,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:48",
+      "word_position": 2,
+      "target_word_uthmani": "ٱبْتَغَوُا۟",
+      "target_word_rasm": "ٱبتغوا",
+      "target_word_literal_irab": "Aradılar / yol ararlardı (`ٱبْتَغَوُا۟ / لَّٱبْتَغَوْا۟`, VIII. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, daha önce de fitne koparmak istemişlerdi. Sana karşı bir takım işler çeviriyorlardı, sonunda onlar istemedikleri halde hak ortaya çıktı, Allah'ın emri üstün geldi.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, daha önce de fitne koparmak istemişlerdi. Sana karşı bir takım işler çeviriyorlardı, sonunda onlar istemedikleri halde hak ortaya çıktı, Allah'ın emri üstün geldi.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 10,
+      "ayah": 23,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:23",
+      "word_position": 5,
+      "target_word_uthmani": "يَبْغُونَ",
+      "target_word_rasm": "يبغون",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "Allah onları kurtarınca, hemen yeryüzünde haksız yere taşkınlıklara başlarlar. Ey insanlar! Geçici dünya hayatında yaptığınız taşkınlık aleyhinizedir. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onları kurtarınca, hemen yeryüzünde haksız yere taşkınlıklara başlarlar. Ey insanlar! Geçici dünya hayatında yaptığınız taşkınlık aleyhinizedir. Sonra dönüşünüz Bizedir. Yaptıklarınızı size bildiririz.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 23,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:23",
+      "word_position": 13,
+      "target_word_uthmani": "بَغْيُكُمْ",
+      "target_word_rasm": "بغيكم",
+      "target_word_literal_irab": "Taşkınlıkları / haksız saldırı (`بَغْيُكُمْ / ٱلْبَغْىُ`, I. bab mastar merfû)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ",
+      "context_snippet_turkish_tabula_rasa": "Allah onları kurtarınca, hemen yeryüzünde haksız yere taşkınlıklara başlarlar. Ey insanlar! Geçici dünya hayatında yaptığınız taşkınlık aleyhinizedir. ...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onları kurtarınca, hemen yeryüzünde haksız yere taşkınlıklara başlarlar. Ey insanlar! Geçici dünya hayatında yaptığınız taşkınlık aleyhinizedir. Sonra dönüşünüz Bizedir. Yaptıklarınızı size bildiririz.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 90,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:90",
+      "word_position": 8,
+      "target_word_uthmani": "بَغْيًا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "Haksız taşkınlık / çekişme yüzünden (`بَغْيًا / بَغْيًۢا`, nekre I. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا حَتَّىٰٓ إِذَآ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarını denizden geçirdik, Firavun ve askerleri haksızlık ve düşmanlıkla ardlarına düştüler. Firavun boğulacağı anda: \"İsrailoğullarının güven duy başk...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarını denizden geçirdik, Firavun ve askerleri haksızlık ve düşmanlıkla ardlarına düştüler. Firavun boğulacağı anda: \"İsrailoğullarının güven duy başka sığınak mercii (ilâh) olmadığına güven duy, artık ben O'na teslim olanlardanım\" dedi.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 11,
+      "ayah": 19,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:19",
+      "word_position": 6,
+      "target_word_uthmani": "وَيَبْغُونَهَا",
+      "target_word_rasm": "ويبغونها",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْءَاخِرَةِ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar Allah'ın yolundan alıkorlar ve o yolu eğriltmeğe çalışırlar; işte onlar ahireti gerçeğin üzerini örtenlerdir.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Allah'ın yolundan alıkorlar ve o yolu eğriltmeğe çalışırlar; işte onlar ahireti gerçeğin üzerini örtenlerdir.",
+      "contextual_meaning": "Dosdoğru yolda eğrilik ve çarpıklık arama (`وَيَبْغُونَهَا عِوَجًا` `3:99`, `7:45,86`, `11:19`, `14:3`): İnsanları hak güzergâhından alıkoyup yolu yamultmaya çalışma."
+    },
+    {
+      "surah": 12,
+      "ayah": 65,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:65",
+      "word_position": 11,
+      "target_word_uthmani": "نَبْغِى",
+      "target_word_rasm": "نبغى",
+      "target_word_literal_irab": "Aradığımız / başka ne isteyelim (`نَبْغِى / نَبْغِ`, I. bab muzârî merfû, 1. çoğul — `18:64`te `ى` yazıda düşer)",
+      "context_snippet_arabic": "قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ",
+      "context_snippet_turkish_tabula_rasa": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; işte mallarımız da bize iade edilmiş; ailemize onunla yine yiyecek getirir, kardeşimizi de korur ve bir deve yükü de artırmış oluruz; esasen bu az bir şeydir\" dediler.",
+      "contextual_meaning": "Yalın arayış ve hedef tespiti (`مَا نَبْغِى` `12:65`; `ذَٰلِكَ مَا كُنَّا نَبْغِ` `18:64`): I. bab fiilin taşkınlık olmaksızın 'tam arayıp beklediğimiz işaret' anlamında sade kullanımı."
+    },
+    {
+      "surah": 13,
+      "ayah": 17,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:17",
+      "word_position": 17,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, hak ve batıl için şöyle misal verir: Köpük uçup gider, insanlara fayda veren ise yerde kalır. Allah bunun gibi daha nice misaller verir.",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de buna benzer bir köpük vardır. Allah, hak ve batıl için şöyle misal verir: Köpük uçup gider, insanlara fayda veren ise yerde kalır. Allah bunun gibi daha nice misaller verir.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 13,
+      "ayah": 22,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:22",
+      "word_position": 3,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; ...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 14,
+      "ayah": 3,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:3",
+      "word_position": 11,
+      "target_word_uthmani": "وَيَبْغُونَهَا",
+      "target_word_rasm": "ويبغونها",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا أُو۟لَٰٓئِكَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Onlar dünya hayatını ahirete tercih ederler, Allah'ın yolundan alıkoyup onun eğriliğini isterler. İşte onlar uzak bir sapıklık içindedirler.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۭ بَعِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar dünya hayatını ahirete tercih ederler, Allah'ın yolundan alıkoyup onun eğriliğini isterler. İşte onlar uzak bir sapıklık içindedirler.",
+      "contextual_meaning": "Dosdoğru yolda eğrilik ve çarpıklık arama (`وَيَبْغُونَهَا عِوَجًا` `3:99`, `7:45,86`, `11:19`, `14:3`): İnsanları hak güzergâhından alıkoyup yolu yamultmaya çalışma."
+    },
+    {
+      "surah": 16,
+      "ayah": 14,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:14",
+      "word_position": 17,
+      "target_word_uthmani": "وَلِتَبْتَغُوا۟",
+      "target_word_rasm": "ولتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 16,
+      "ayah": 90,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:90",
+      "word_position": 13,
+      "target_word_uthmani": "وَٱلْبَغْىِ",
+      "target_word_rasm": "وٱلبغى",
+      "target_word_literal_irab": "Taşkınlıklarından ötürü / haksız taşkınlıktan (`بِبَغْيِهِمْ / وَٱلْبَغْىِ`, I. bab mastar mecrûr)",
+      "context_snippet_arabic": "عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz adaleti, iyilik yapmayı, yakınlara bakmayı emreder; hayasızlığı, fenalığı ve haddi aşmayı yasak eder. Tutasınız diye size öğüt verir.",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz adaleti, iyilik yapmayı, yakınlara bakmayı emreder; hayasızlığı, fenalığı ve haddi aşmayı yasak eder. Tutasınız diye size öğüt verir.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 115,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:115",
+      "word_position": 16,
+      "target_word_uthmani": "بَاغٍ",
+      "target_word_rasm": "باغ",
+      "target_word_literal_irab": "Keyfî taşkınlık ve arzu güden (`بَاغٍ`, nâkıs ism-i fâil merfû/mecrûr — `ى` düşerek tenvin alır)",
+      "context_snippet_arabic": "فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkasının adına kesilenleri haram etmiştir. Darda kalan, aşırı gitmemek ve başkasının hakkına el uzatmamak şartiyle bunun dışındadır. ...",
+      "morphology": {
+        "lemma": "baAg",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:baAg|ROOT:bgy|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkasının adına kesilenleri haram etmiştir. Darda kalan, aşırı gitmemek ve başkasının hakkına el uzatmamak şartiyle bunun dışındadır. Allah şüphesiz bağışlar, merhamet eder.",
+      "contextual_meaning": "Zorunluluk anında keyfî taşkınlık gütmeme şartı (`غَيْرَ بَاغٍ وَلَا عَادٍ` `2:173`, `6:145`, `16:115`): Hayatta kalma zaruretinde içsel azgın arzuyla (`بَاغٍ`) ve miktar sınırını aşarak (`عَادٍ`) yeme yasağı."
+    },
+    {
+      "surah": 17,
+      "ayah": 12,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:12",
+      "word_position": 12,
+      "target_word_uthmani": "لِّتَبْتَغُوا۟",
+      "target_word_rasm": "لتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ve gündüzü varlığımıza birer delil kıldık. Bir delil olan geceyi kaldırıp yine bir delil olan gündüzü Rabbinizin bol nimetini aramanız, yılların sayısını ve hesabını bilmeniz için aydınlık kıldık. Her şeyi uzun uzadıya açıkladık.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 17,
+      "ayah": 28,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:28",
+      "word_position": 4,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍ مِّن رَّبِّكَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin'den umduğun rahmeti elde etmek için, hak sahiblerinden yüz çevirmek zorunda kalırsan, onlara hiç değilse tatlı bir söz söyle.",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا تُعْرِضَنَّ عَنْهُمُ ٱبْتِغَآءَ رَحْمَةٍ مِّن رَّبِّكَ تَرْجُوهَا فَقُل لَّهُمْ قَوْلًا مَّيْسُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin'den umduğun rahmeti elde etmek için, hak sahiblerinden yüz çevirmek zorunda kalırsan, onlara hiç değilse tatlı bir söz söyle.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 17,
+      "ayah": 42,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:42",
+      "word_position": 9,
+      "target_word_uthmani": "لَّٱبْتَغَوْا۟",
+      "target_word_rasm": "لٱبتغوا",
+      "target_word_literal_irab": "Aradılar / yol ararlardı (`ٱبْتَغَوُا۟ / لَّٱبْتَغَوْا۟`, VIII. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Eğer dedikleri gibi Allah'la beraber sahte sığınaklar bulunsaydı, o takdirde hepsi arşın sahibiyle savaşmaya bir yol ararlardı.\"",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌ كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Eğer dedikleri gibi Allah'la beraber sahte sığınaklar bulunsaydı, o takdirde hepsi arşın sahibiyle savaşmaya bir yol ararlardı.\"",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 17,
+      "ayah": 57,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:57",
+      "word_position": 4,
+      "target_word_uthmani": "يَبْتَغُونَ",
+      "target_word_rasm": "يبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ",
+      "context_snippet_turkish_tabula_rasa": "Taptıkları putlar Rablerine daha yakın olmak için vesile ararlar. O'nun rahmetini umar, azabından korkarlar. Zira Rabbinin azabı korkmağa değer.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Taptıkları putlar Rablerine daha yakın olmak için vesile ararlar. O'nun rahmetini umar, azabından korkarlar. Zira Rabbinin azabı korkmağa değer.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 17,
+      "ayah": 66,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:66",
+      "word_position": 8,
+      "target_word_uthmani": "لِتَبْتَغُوا۟",
+      "target_word_rasm": "لتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz, bol nimetinden elde edesiniz diye, denizde gemileri sizin için yüzdürür. O, size merhamet eder.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ إِنَّهُۥ كَانَ بِكُمْ رَحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz, bol nimetinden elde edesiniz diye, denizde gemileri sizin için yüzdürür. O, size merhamet eder.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 17,
+      "ayah": 110,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:110",
+      "word_position": 19,
+      "target_word_uthmani": "وَٱبْتَغِ",
+      "target_word_rasm": "وٱبتغ",
+      "target_word_literal_irab": "Ara / yönünü belirle (`وَٱبْتَغِ`, VIII. bab emir, 2. tekil eril — `ى` düşer)",
+      "context_snippet_arabic": "وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... \"İster Allah deyin, ister Rahman deyin, hangisini derseniz deyin, en güzel isimler O'nundur. \" irtibat bağını ayakta tutarken sesini yükseltme, gizli de okuma, ikisi ortasında bir yol tut.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botagaY`|ROOT:bgy|2MS"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İster Allah deyin, ister Rahman deyin, hangisini derseniz deyin, en güzel isimler O'nundur.\" irtibat bağını ayakta tutarken sesini yükseltme, gizli de okuma, ikisi ortasında bir yol tut.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 18,
+      "ayah": 64,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:64",
+      "word_position": 5,
+      "target_word_uthmani": "نَبْغِ",
+      "target_word_rasm": "نبغ",
+      "target_word_literal_irab": "Aradığımız / başka ne isteyelim (`نَبْغِى / نَبْغِ`, I. bab muzârî merfû, 1. çoğul — `18:64`te `ى` yazıda düşer)",
+      "context_snippet_arabic": "ذَٰلِكَ مَا كُنَّا نَبْغِ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"İstediğimiz zaten buydu\" dedi. Hemen geldikleri yoldan izleri üzerinde geri döndüler.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"İstediğimiz zaten buydu\" dedi. Hemen geldikleri yoldan izleri üzerinde geri döndüler.",
+      "contextual_meaning": "Yalın arayış ve hedef tespiti (`مَا نَبْغِى` `12:65`; `ذَٰلِكَ مَا كُنَّا نَبْغِ` `18:64`): I. bab fiilin taşkınlık olmaksızın 'tam arayıp beklediğimiz işaret' anlamında sade kullanımı."
+    },
+    {
+      "surah": 18,
+      "ayah": 108,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:108",
+      "word_position": 4,
+      "target_word_uthmani": "يَبْغُونَ",
+      "target_word_rasm": "يبغون",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+      "context_snippet_turkish_tabula_rasa": "Orada temelli kalırlar, başka bir yere gitmek istemezler.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Orada temelli kalırlar, başka bir yere gitmek istemezler.",
+      "contextual_meaning": "Esenlik yurdundan ayrılmak istememek (`لَا يَبْغُونَ عَنْهَا حِوَلًا` `18:108`): Kalıcı huzur ortamında bulunanların başka bir yere değişim aramayacakları vurgusu."
+    },
+    {
+      "surah": 19,
+      "ayah": 20,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:20",
+      "word_position": 11,
+      "target_word_uthmani": "بَغِيًّا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "İffet sınırını ihlal etmiş kadın (`بَغِيًّا`, sıfat-ı müşebbehe nekre mansûb)",
+      "context_snippet_arabic": "بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Meryem: \"Bana bir insan temas etmemişken, ben kötü kadın da olmadığım halde nasıl oğlum olabilir?\" dedi.",
+      "morphology": {
+        "lemma": "bagiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagiy~|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَلَمْ يَمْسَسْنِى بَشَرٌ وَلَمْ أَكُ بَغِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem: \"Bana bir insan temas etmemişken, ben kötü kadın da olmadığım halde nasıl oğlum olabilir?\" dedi.",
+      "contextual_meaning": "İffet sınırının korunması (`وَلَمْ أَكُ بَغِيًّا` `19:20,28`): Meryem'in babası ve annesi gibi kendisinin de asla namus ölçüsünü çiğneyen biri olmadığını beyanı."
+    },
+    {
+      "surah": 19,
+      "ayah": 28,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:28",
+      "word_position": 11,
+      "target_word_uthmani": "بَغِيًّا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "İffet sınırını ihlal etmiş kadın (`بَغِيًّا`, sıfat-ı müşebbehe nekre mansûb)",
+      "context_snippet_arabic": "وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "context_snippet_turkish_tabula_rasa": "... Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "morphology": {
+        "lemma": "bagiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagiy~|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuğu alıp kavmine getirdi, onlar: \"Meryem! Utanılacak bir şey yaptın. Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "contextual_meaning": "İffet sınırının korunması (`وَلَمْ أَكُ بَغِيًّا` `19:20,28`): Meryem'in babası ve annesi gibi kendisinin de asla namus ölçüsünü çiğneyen biri olmadığını beyanı."
+    },
+    {
+      "surah": 19,
+      "ayah": 92,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:92",
+      "word_position": 2,
+      "target_word_uthmani": "يَنۢبَغِى",
+      "target_word_rasm": "ينبغى",
+      "target_word_literal_irab": "Yaraşır / uygun düşer (`يَنۢبَغِى`, VII. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ",
+      "context_snippet_turkish_tabula_rasa": "Oysa Rahman'a çocuk edinmek yaraşmaz, çünkü göklerde ve yerde olan her şey Rahman'a baş eğmiş kul olarak gelecektir.",
+      "morphology": {
+        "lemma": "yan[bagiY",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VII)|LEM:yan[bagiY|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa Rahman'a çocuk edinmek yaraşmaz, çünkü göklerde ve yerde olan her şey Rahman'a baş eğmiş kul olarak gelecektir.",
+      "contextual_meaning": "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+    },
+    {
+      "surah": 22,
+      "ayah": 60,
+      "surah_name": "Hac",
+      "ayah_ref": "22:60",
+      "word_position": 9,
+      "target_word_uthmani": "بُغِىَ",
+      "target_word_rasm": "بغى",
+      "target_word_literal_irab": "Haksız saldırıya uğradı (`بُغِىَ`, I. bab meçhul mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "عُوقِبَ بِهِۦ ثُمَّ بُغِىَ عَلَيْهِ لَيَنصُرَنَّهُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... kim kendisine verilen kadar ceza verirse ve kendisine yine de saldırılırsa, Allah ona, and olsun ki yardım edecektir. Allah şüphesiz, affeder ve bağışlar.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:bagaY`|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ وَمَنْ عَاقَبَ بِمِثْلِ مَا عُوقِبَ بِهِۦ ثُمَّ بُغِىَ عَلَيْهِ لَيَنصُرَنَّهُ ٱللَّهُ إِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu böyledir; kim kendisine verilen kadar ceza verirse ve kendisine yine de saldırılırsa, Allah ona, and olsun ki yardım edecektir. Allah şüphesiz, affeder ve bağışlar.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 7,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:7",
+      "word_position": 2,
+      "target_word_uthmani": "ٱبْتَغَىٰ",
+      "target_word_rasm": "ٱبتغى",
+      "target_word_literal_irab": "Ötesini aradıysa (`ٱبْتَغَىٰ`, VIII. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Bu sınırları aşmak isteyenler, işte bunlar aşırı gidenlerdir.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu sınırları aşmak isteyenler, işte bunlar aşırı gidenlerdir.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 12,
+      "target_word_uthmani": "يَبْتَغُونَ",
+      "target_word_rasm": "يبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ",
+      "context_snippet_turkish_tabula_rasa": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları buna zorlarsa bilsin ki Allah hiç şüphesiz onu değil zorlanan kadınları bağışlar ve merhamet eder.",
+      "contextual_meaning": "Özgürlük akdi veya geçici dünya metaı arayışı (`يَبْتَغُونَ ٱلْكِتَٰبَ` / `لِّتَبْتَغُوا۟ عَرَضَ` `24:33`): Özgürleşmek isteyenlere kapı açılması ile sömürü arayışının karşılaştırılması."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 32,
+      "target_word_uthmani": "ٱلْبِغَآءِ",
+      "target_word_rasm": "ٱلبغاء",
+      "target_word_literal_irab": "İffet dışı fuhşa/kazanca (`ٱلْبِغَآءِ`, marife I. bab mastar mecrûr)",
+      "context_snippet_arabic": "تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا",
+      "context_snippet_turkish_tabula_rasa": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. ...",
+      "morphology": {
+        "lemma": "bigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:bigaA^'|ROOT:bgy|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları buna zorlarsa bilsin ki Allah hiç şüphesiz onu değil zorlanan kadınları bağışlar ve merhamet eder.",
+      "contextual_meaning": "İffet dışı kazanca zorlama yasağı (`عَلَى ٱلْبِغَآءِ` `24:33`): Namuslu kalmak isteyen genç kızların dünyevî çıkar uğruna iffet sınırını aşmaya zorlanmasının kesin yasağı."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 36,
+      "target_word_uthmani": "لِّتَبْتَغُوا۟",
+      "target_word_rasm": "لتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları buna zorlarsa bilsin ki Allah hiç şüphesiz onu değil zorlanan kadınları bağışlar ve merhamet eder.",
+      "contextual_meaning": "Özgürlük akdi veya geçici dünya metaı arayışı (`يَبْتَغُونَ ٱلْكِتَٰبَ` / `لِّتَبْتَغُوا۟ عَرَضَ` `24:33`): Özgürleşmek isteyenlere kapı açılması ile sömürü arayışının karşılaştırılması."
+    },
+    {
+      "surah": 25,
+      "ayah": 18,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:18",
+      "word_position": 5,
+      "target_word_uthmani": "يَنۢبَغِى",
+      "target_word_rasm": "ينبغى",
+      "target_word_literal_irab": "Yaraşır / uygun düşer (`يَنۢبَغِى`, VII. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Haşa; Seni bırakıp başka dostlar edinmek bize yaraşmaz; fakat Sen onlara ve babalarına nimetler verdin de sonunda Seni anmayı unuttular ve helaki hak eden bir millet oldular\" derler.",
+      "morphology": {
+        "lemma": "yan[bagiY",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VII)|LEM:yan[bagiY|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سُبْحَٰنَكَ مَا كَانَ يَنۢبَغِى لَنَآ أَن نَّتَّخِذَ مِن دُونِكَ مِنْ أَوْلِيَآءَ وَلَٰكِن مَّتَّعْتَهُمْ وَءَابَآءَهُمْ حَتَّىٰ نَسُوا۟ ٱلذِّكْرَ وَكَانُوا۟ قَوْمًۢا بُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Haşa; Seni bırakıp başka dostlar edinmek bize yaraşmaz; fakat Sen onlara ve babalarına nimetler verdin de sonunda Seni anmayı unuttular ve helaki hak eden bir millet oldular\" derler.",
+      "contextual_meaning": "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 211,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:211",
+      "word_position": 2,
+      "target_word_uthmani": "يَنۢبَغِى",
+      "target_word_rasm": "ينبغى",
+      "target_word_literal_irab": "Yaraşır / uygun düşer (`يَنۢبَغِى`, VII. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu onlara düşmez, zaten güçleri de yetmez.",
+      "morphology": {
+        "lemma": "yan[bagiY",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VII)|LEM:yan[bagiY|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu onlara düşmez, zaten güçleri de yetmez.",
+      "contextual_meaning": "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 55,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:55",
+      "word_position": 14,
+      "target_word_uthmani": "نَبْتَغِى",
+      "target_word_rasm": "نبتغى",
+      "target_word_literal_irab": "Aramayız / peşine düşmeyiz (`نَبْتَغِى`, VIII. bab muzârî merfû, 1. çoğul)",
+      "context_snippet_arabic": "سَلَٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَٰهِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, boş söz işittikleri vakit ondan yüz çevirirler. \"Bizim işlediğimiz bize, sizin işlediğiniz sizedir. Size selam olsun, cahillerle ilgilenmeyiz\" derler.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا سَمِعُوا۟ ٱللَّغْوَ أَعْرَضُوا۟ عَنْهُ وَقَالُوا۟ لَنَآ أَعْمَٰلُنَا وَلَكُمْ أَعْمَٰلُكُمْ سَلَٰمٌ عَلَيْكُمْ لَا نَبْتَغِى ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, boş söz işittikleri vakit ondan yüz çevirirler. \"Bizim işlediğimiz bize, sizin işlediğiniz sizedir. Size selam olsun, cahillerle ilgilenmeyiz\" derler.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 28,
+      "ayah": 73,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:73",
+      "word_position": 9,
+      "target_word_uthmani": "وَلِتَبْتَغُوا۟",
+      "target_word_rasm": "ولتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dinlenmeniz için geceyi ve lütfedip verdiği rızkı aramanız için gündüzü meydana getirmiştir. Bunlar, O'nun rahmetinden ötürüdür. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 28,
+      "ayah": 76,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:76",
+      "word_position": 7,
+      "target_word_uthmani": "فَبَغَىٰ",
+      "target_word_rasm": "فبغى",
+      "target_word_literal_irab": "Sınırı taşıp haksız baskı kurdu (`بَغَىٰ / فَبَغَىٰ`, I. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ وَءَاتَيْنَٰهُ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:bagaY`|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ قَٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ وَءَاتَيْنَٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; Allah'ın sana yaptığı iyilik gibi, sen de iyilik yap; yeryüzünde bozgunculuk isteme; doğrusu Allah bozguncuları sevmez\" demişlerdi.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 77,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:77",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱبْتَغِ",
+      "target_word_rasm": "وٱبتغ",
+      "target_word_literal_irab": "Ara / yönünü belirle (`وَٱبْتَغِ`, VIII. bab emir, 2. tekil eril — `ى` düşer)",
+      "context_snippet_arabic": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botagaY`|ROOT:bgy|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; Allah'ın sana yaptığı iyilik gibi, sen de iyilik yap; yeryüzünde bozgunculuk isteme; doğrusu Allah bozguncuları sevmez\" demişlerdi.",
+      "contextual_meaning": "Gelecek kalıcı yurdu emekle arama çağrısı (`وَٱبْتَغِ` `28:77` VIII. bab emir): İmkânları gelecek yurt iyiliği için değerlendirme ve dünyevî payı ihmal etmeme dengesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 77,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:77",
+      "word_position": 18,
+      "target_word_uthmani": "تَبْغِ",
+      "target_word_rasm": "تبغ",
+      "target_word_literal_irab": "Bozgunculuk arama/çıkarma (`تَبْغِ`, I. bab muzârî meczûm nehy, 2. tekil eril — `ى` düşer)",
+      "context_snippet_arabic": "ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; Allah'ın sana yaptığı iyilik gibi, sen de iyilik yap; yeryüzünde bozgunculuk isteme; doğrusu Allah bozguncuları sevmez\" demişlerdi.",
+      "contextual_meaning": "Yeryüzünde taşkın bozgunculuk çıkarma yasağı (`وَلَا تَبْغِ ٱلْفَسَادَ` `28:77` I. bab nehiy): Aynı ayette yapıcı arama (`وَٱبْتَغِ`) karşısında sınır aşan bozgunculuğun (`تَبْغِ`) kesin reddi."
+    },
+    {
+      "surah": 29,
+      "ayah": 17,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:17",
+      "word_position": 19,
+      "target_word_uthmani": "فَٱبْتَغُوا۟",
+      "target_word_rasm": "فٱبتغوا",
+      "target_word_literal_irab": "Emekle arayın / isteyin (`وَٱبْتَغُوا۟ / فَٱبْتَغُوا۟`, VIII. bab emir, 2. çoğul eril)",
+      "context_snippet_arabic": "يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ",
+      "context_snippet_turkish_tabula_rasa": "Siz Allah'ı bırakıp sadece bir takım putlara tapıyor, aslı olmayan sözler uyduruyorsunuz. Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَٰنًا وَتَخْلُقُونَ إِفْكًا إِنَّ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz Allah'ı bırakıp sadece bir takım putlara tapıyor, aslı olmayan sözler uyduruyorsunuz. Doğrusu, Allah'tan başka taptıklarınızın size rızık vermeye güçleri yetmez. Artık rızkı Allah katında arayın. O'na kulluk edin. O'na nimetin değerini bilip açığa vurun. Siz O'na döneceksiniz.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 30,
+      "ayah": 23,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:23",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱبْتِغَآؤُكُم",
+      "target_word_rasm": "وٱبتغاؤكم",
+      "target_word_literal_irab": "Ve (lütuftan) aramanız (`وَٱبْتِغَآؤُكُم`, VIII. bab mastar + zamir merfû)",
+      "context_snippet_arabic": "مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin uyumanız, gündüz de lütfundan rızık aramanız O'nun varlığının belgelerindendir. Bunlarda kulak veren millet için dersler vardır.",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin uyumanız, gündüz de lütfundan rızık aramanız O'nun varlığının belgelerindendir. Bunlarda kulak veren millet için dersler vardır.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 30,
+      "ayah": 46,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:46",
+      "word_position": 13,
+      "target_word_uthmani": "وَلِتَبْتَغُوا۟",
+      "target_word_rasm": "ولتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Rüzgarları müjdeciler olarak göndermesi, size rahmetini tattırması, buyruğu ile gemilerin yürümesi, lütfundan rızık istemeniz, O'nun varlığının belgelerindendir. Belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rüzgarları müjdeciler olarak göndermesi, size rahmetini tattırması, buyruğu ile gemilerin yürümesi, lütfundan rızık istemeniz, O'nun varlığının belgelerindendir. Belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 33,
+      "ayah": 51,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:51",
+      "word_position": 10,
+      "target_word_uthmani": "ٱبْتَغَيْتَ",
+      "target_word_rasm": "ٱبتغيت",
+      "target_word_literal_irab": "Yeniden yanına almak istediğin (`ٱبْتَغَيْتَ`, VIII. bab mâzî, 2. tekil eril)",
+      "context_snippet_arabic": "مَن تَشَآءُ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا",
+      "context_snippet_turkish_tabula_rasa": "Bunlardan istediğini bırakır, istediğini yanına alabilirsin. Sırasını geri bırakmış olduklarından da arzu ettiğini yanına almanda sana bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MS"
+      },
+      "ayah_text_arabic_full": "تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ذَٰلِكَ أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ كُلُّهُنَّ وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlardan istediğini bırakır, istediğini yanına alabilirsin. Sırasını geri bırakmış olduklarından da arzu ettiğini yanına almanda sana bir sorumluluk yoktur. Bu onların gözlerinin aydın olmasını, üzülmemelerini, hepsine verdiğin şeylere razı olmalarını daha iyi sağlar. Allah kalblerinizde olanı bilir; Allah bilendir, Halim olandır.",
+      "contextual_meaning": "Meşru sınırlar içinde yol, vesile ve denge arayışı (`وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ` `5:35`, `17:110`, `4:24`, `28:55`): Aşırılıklar arasında orta ses tonunu, hukukî nikâhı veya doğru hükmü arama."
+    },
+    {
+      "surah": 35,
+      "ayah": 12,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:12",
+      "word_position": 24,
+      "target_word_uthmani": "لِتَبْتَغُوا۟",
+      "target_word_rasm": "لتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki deniz bir değildir. Birinin suyu tatlı ve kolay içimlidir; diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 36,
+      "ayah": 40,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:40",
+      "word_position": 3,
+      "target_word_uthmani": "يَنۢبَغِى",
+      "target_word_rasm": "ينبغى",
+      "target_word_literal_irab": "Yaraşır / uygun düşer (`يَنۢبَغِى`, VII. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ",
+      "context_snippet_turkish_tabula_rasa": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler.",
+      "morphology": {
+        "lemma": "yan[bagiY",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VII)|LEM:yan[bagiY|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler.",
+      "contextual_meaning": "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+    },
+    {
+      "surah": 36,
+      "ayah": 69,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:69",
+      "word_position": 5,
+      "target_word_uthmani": "يَنۢبَغِى",
+      "target_word_rasm": "ينبغى",
+      "target_word_literal_irab": "Yaraşır / uygun düşer (`يَنۢبَغِى`, VII. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Biz ona şiir öğretmedik, zaten ona gerekmezdi. Bu bir öğüt ve apaçık Kuran'dır.",
+      "morphology": {
+        "lemma": "yan[bagiY",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VII)|LEM:yan[bagiY|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz ona şiir öğretmedik, zaten ona gerekmezdi. Bu bir öğüt ve apaçık Kuran'dır.",
+      "contextual_meaning": "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+    },
+    {
+      "surah": 38,
+      "ayah": 22,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:22",
+      "word_position": 11,
+      "target_word_uthmani": "بَغَىٰ",
+      "target_word_rasm": "بغى",
+      "target_word_literal_irab": "Sınırı taşıp haksız baskı kurdu (`بَغَىٰ / فَبَغَىٰ`, I. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Korkma, birbirinin hakkına tecavüz etmiş iki davacıyız; aramızda adaletle hükmet, ondan ayrılma, bizi doğru yola çıkar. \"",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:bagaY`|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: \"Korkma, birbirinin hakkına tecavüz etmiş iki davacıyız; aramızda adaletle hükmet, ondan ayrılma, bizi doğru yola çıkar.\"",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 24,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:24",
+      "word_position": 12,
+      "target_word_uthmani": "لَيَبْغِى",
+      "target_word_rasm": "ليبغى",
+      "target_word_literal_irab": "Elbette birbirinin hakkına taşar (`لَيَبْغِى`, I. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "ayah_text_turkish_tabula_rasa_full": "Davud: \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. güvene erip yararlı iş işleyenler bunun dışındadır ki sayıları da ne kadar azdır!\" demişti. Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 35,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:35",
+      "word_position": 9,
+      "target_word_uthmani": "يَنۢبَغِى",
+      "target_word_rasm": "ينبغى",
+      "target_word_literal_irab": "Yaraşır / uygun düşer (`يَنۢبَغِى`, VII. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman: \"Rabbim! Beni bağışla, bana benden sonra kimsenin ulaşamayacağı bir hükümranlık ver; Sen şüphesiz, daima bağışta bulunansın\" dedi.",
+      "morphology": {
+        "lemma": "yan[bagiY",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VII)|LEM:yan[bagiY|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman: \"Rabbim! Beni bağışla, bana benden sonra kimsenin ulaşamayacağı bir hükümranlık ver; Sen şüphesiz, daima bağışta bulunansın\" dedi.",
+      "contextual_meaning": "Kozmik ve yapısal uygunsuzluk ölçüsü (`مَا / لَا يَنۢبَغِى` `19:92`, `25:18`, `26:211`, `36:40,69`, `38:35`): Güneşin aya yetişemeyeceği gibi çocuk edinmenin Rahmân'a, şiirin ise vahye asla yaraşıp uymadığı ilkesi."
+    },
+    {
+      "surah": 42,
+      "ayah": 14,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:14",
+      "word_position": 9,
+      "target_word_uthmani": "بَغْيًۢا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "Haksız taşkınlık / çekişme yüzünden (`بَغْيًا / بَغْيًۢا`, nekre I. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَلَوْلَا كَلِمَةٌ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer belirli bir süre için Rabbinin verilmiş bir sözü olmasaydı, aralarında hemen hükmedilirdi. Arkalarından Kitaba varis kılınanlar da ondan şüphe ve endişe içindedirler.",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine ilim geldikten sonra ayrılığa düşmeleri, ancak, birbirini çekememekten oldu. Eğer belirli bir süre için Rabbinin verilmiş bir sözü olmasaydı, aralarında hemen hükmedilirdi. Arkalarından Kitaba varis kılınanlar da ondan şüphe ve endişe içindedirler.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 42,
+      "ayah": 27,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:27",
+      "word_position": 6,
+      "target_word_uthmani": "لَبَغَوْا۟",
+      "target_word_rasm": "لبغوا",
+      "target_word_literal_irab": "Elbette yeryüzünde azıp taşarlardı (`لَبَغَوْا۟`, I. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah rızkı kullarının hepsine bol bol verseydi, yeryüzünde azgınlık ederlerdi. Ama O, dilediğini bir ölçüye göre indirir. ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah rızkı kullarının hepsine bol bol verseydi, yeryüzünde azgınlık ederlerdi. Ama O, dilediğini bir ölçüye göre indirir. Doğrusu O, kullarından haberdardır, onları görendir.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 39,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:39",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْبَغْىُ",
+      "target_word_rasm": "ٱلبغى",
+      "target_word_literal_irab": "Taşkınlıkları / haksız saldırı (`بَغْيُكُمْ / ٱلْبَغْىُ`, I. bab mastar merfû)",
+      "context_snippet_arabic": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bir haksızlığa uğradıklarında, üstün gelmek için aralarında yardımlaşırlar.",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir haksızlığa uğradıklarında, üstün gelmek için aralarında yardımlaşırlar.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 42,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:42",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَبْغُونَ",
+      "target_word_rasm": "ويبغون",
+      "target_word_literal_irab": "Taşkınlık yaparlar / eğrilik veya başka merci ararlar (`يَبْغُونَ / وَيَبْغُونَهَا / يَبْغُونَكُمُ`, I. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlara zulmedenlere, yeryüzünde haksız yere taşkınlık edenlere karşı durulmalıdır. İşte, can yakıcı azap bunlaradır.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظْلِمُونَ ٱلنَّاسَ وَيَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlara zulmedenlere, yeryüzünde haksız yere taşkınlık edenlere karşı durulmalıdır. İşte, can yakıcı azap bunlaradır.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 45,
+      "ayah": 12,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:12",
+      "word_position": 10,
+      "target_word_uthmani": "وَلِتَبْتَغُوا۟",
+      "target_word_rasm": "ولتبتغوا",
+      "target_word_literal_irab": "Arayasınız diye (`لِتَبْتَغُوا۟ / تَبْتَغُوا۟`, VIII. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Emri gereğince denizde yüzmek üzere gemileri, lütfedip verdiği rızkı aramanız için denizi buyruğunuz altına veren Allah'tır, belki artık nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Emri gereğince denizde yüzmek üzere gemileri, lütfedip verdiği rızkı aramanız için denizi buyruğunuz altına veren Allah'tır, belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 45,
+      "ayah": 17,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:17",
+      "word_position": 13,
+      "target_word_uthmani": "بَغْيًۢا",
+      "target_word_rasm": "بغيا",
+      "target_word_literal_irab": "Haksız taşkınlık / çekişme yüzünden (`بَغْيًا / بَغْيًۢا`, nekre I. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ إِنَّ رَبَّكَ",
+      "context_snippet_turkish_tabula_rasa": "yaşam ve hesap sistemi konusunda, onlara belgeler verdik; ancak, kendilerine ilim geldikten sonra birbirini çekememezlikten ayrılığa düştüler. ...",
+      "morphology": {
+        "lemma": "bagoy",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:bagoy|ROOT:bgy|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَءَاتَيْنَٰهُم بَيِّنَٰتٍ مِّنَ ٱلْأَمْرِ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yaşam ve hesap sistemi konusunda, onlara belgeler verdik; ancak, kendilerine ilim geldikten sonra birbirini çekememezlikten ayrılığa düştüler. Rabbin kıyamet günü, ayrılığa düştükleri şeyler hakkında şüphesiz aralarında hükmedecektir.",
+      "contextual_meaning": "Açık bilgi geldikten sonra kıskançlık ve taşkınlıkla ayrışma (`بَغْيًۢا بَيْنَهُمْ` `2:213`, `3:19`, `42:14`, `45:17`; `2:90`, `10:90`): Bilgisizlikten değil sırf üstünlük ve çekememezlik taşkınlığıyla hakkı reddetme."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 14,
+      "target_word_uthmani": "يَبْتَغُونَ",
+      "target_word_rasm": "يبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 49,
+      "ayah": 9,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:9",
+      "word_position": 9,
+      "target_word_uthmani": "بَغَتْ",
+      "target_word_rasm": "بغت",
+      "target_word_literal_irab": "Haksız yere saldırdı (`بَغَتْ`, I. bab mâzî, 3. tekil dişil)",
+      "context_snippet_arabic": "فَأَصْلِحُوا۟ بَيْنَهُمَا فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Eğer güvene erenlerden iki topluluk birbirleriyle savaşırlarsa aralarını düzeltiniz; eğer biri diğeri üzerine saldırırsa, saldıranlarla Allah'ın buyruğuna dönmelerine kadar savaşınız; ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:bagaY`|ROOT:bgy|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer güvene erenlerden iki topluluk birbirleriyle savaşırlarsa aralarını düzeltiniz; eğer biri diğeri üzerine saldırırsa, saldıranlarla Allah'ın buyruğuna dönmelerine kadar savaşınız; eğer dönerlerse aralarını adaletle bulunuz, adil davranınız, şüphesiz Allah adil davrananları sever.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 9,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:9",
+      "word_position": 15,
+      "target_word_uthmani": "تَبْغِى",
+      "target_word_rasm": "تبغى",
+      "target_word_literal_irab": "Saldırısını sürdüreni (`تَبْغِى`, I. bab muzârî merfû, 3. tekil dişil)",
+      "context_snippet_arabic": "ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Eğer güvene erenlerden iki topluluk birbirleriyle savaşırlarsa aralarını düzeltiniz; eğer biri diğeri üzerine saldırırsa, saldıranlarla Allah'ın buyruğuna dönmelerine kadar savaşınız; ...",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer güvene erenlerden iki topluluk birbirleriyle savaşırlarsa aralarını düzeltiniz; eğer biri diğeri üzerine saldırırsa, saldıranlarla Allah'ın buyruğuna dönmelerine kadar savaşınız; eğer dönerlerse aralarını adaletle bulunuz, adil davranınız, şüphesiz Allah adil davrananları sever.",
+      "contextual_meaning": "Hakkı çiğneyen saldırgan taşkınlık, haksız yol arama ve adalet dengesi (`4:34`, `9:47`, `10:23`, `16:90`, `22:60`, `28:76`, `38:22,24`, `42:27,39,42`, `49:9`, `6:164`, `7:140`): Başkasının hakkına tecavüz etme, aile içi haksız bahane arama (`4:34`), nimet bolluğunda azgınlaşma (`42:27`) ve saldırıya karşı meşru adalet dengesi (`49:9`)."
+    },
+    {
+      "surah": 55,
+      "ayah": 20,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:20",
+      "word_position": 4,
+      "target_word_uthmani": "يَبْغِيَانِ",
+      "target_word_rasm": "يبغيان",
+      "target_word_literal_irab": "Birbirinin sınırına taşmazlar (`يَبْغِيَانِ`, I. bab muzârî merfû, 3. ikil)",
+      "context_snippet_arabic": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "context_snippet_turkish_tabula_rasa": "Aralarında bir engel vardır; birbirinin sınırını aşamazlar.",
+      "morphology": {
+        "lemma": "bagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:bagaY`|ROOT:bgy|3MD"
+      },
+      "ayah_text_arabic_full": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarında bir engel vardır; birbirinin sınırını aşamazlar.",
+      "contextual_meaning": "Doğal denge sınırını ihlal etmeme yasası (`بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ` `55:20`): İki farklı su kütlesinin aralarındaki görünmez engelle birbirinin sınırına taşmadan akışı."
+    },
+    {
+      "surah": 57,
+      "ayah": 27,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:27",
+      "word_position": 25,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا",
+      "context_snippet_turkish_tabula_rasa": "Onların izleri üzerinden elçi ard arda gönderdik; Meryem oğlu İsa'yı da ardlarından gönderdik ve ona İncil'i verdik; ona uyanların gönüllerine şefkat ve merhame...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların izleri üzerinden elçi ard arda gönderdik; Meryem oğlu İsa'yı da ardlarından gönderdik ve ona İncil'i verdik; ona uyanların gönüllerine şefkat ve merhamet duyguları koyduk; üzerlerine bizim gerekli kılmadığımız fakat kendilerinin güya Allah'ın rızasını kazanmak için ortaya attıkları ruhbaniyete bile gereği gibi riayet etmediler; içlerinde güvene ermiş olan kimselere ecirlerini verdik; ama çoğu yoldan çıkmışlardır.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 59,
+      "ayah": 8,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:8",
+      "word_position": 8,
+      "target_word_uthmani": "يَبْتَغُونَ",
+      "target_word_rasm": "يبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın yaşam sistemine ve elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar bunlardır.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın verdiği bu ganimet malları bilhassa; yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın yaşam sistemine ve elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar bunlardır.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 60,
+      "ayah": 1,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:1",
+      "word_position": 31,
+      "target_word_uthmani": "وَٱبْتِغَآءَ",
+      "target_word_rasm": "وٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "جِهَٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى تُسِرُّونَ إِلَيْهِم",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, size gelen gerçeği gerçeğin üzerini örtmüş, onlara sevgi gösteriyorsunuz; oysa onlar, Rabbiniz olan Allah'a güven duy ötürü sizi ve elçiyi yurdunuzdan çıkarıyorlar. ...",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Benim de düşmanım, sizin de düşmanınız olanları dost edinmeyin. Onlar, size gelen gerçeği gerçeğin üzerini örtmüş, onlara sevgi gösteriyorsunuz; oysa onlar, Rabbiniz olan Allah'a güven duy ötürü sizi ve elçiyi yurdunuzdan çıkarıyorlar. Eğer sizler Benim yolumda savaşmak ve rızamı kazanmak için çıkmışsanız onlara nasıl sevgi gösterirsiniz? Ben, sizin gizlediğinizi de, açığa vurduğunuzu da bilirim. İçinizden onlara sevgi gösteren kimse, şüphesiz doğru yoldan sapmıştır.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    },
+    {
+      "surah": 62,
+      "ayah": 10,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:10",
+      "word_position": 7,
+      "target_word_uthmani": "وَٱبْتَغُوا۟",
+      "target_word_rasm": "وٱبتغوا",
+      "target_word_literal_irab": "Emekle arayın / isteyin (`وَٱبْتَغُوا۟ / فَٱبْتَغُوا۟`, VIII. bab emir, 2. çoğul eril)",
+      "context_snippet_arabic": "فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{botagaY`|ROOT:bgy|2MP"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 66,
+      "ayah": 1,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:1",
+      "word_position": 9,
+      "target_word_uthmani": "تَبْتَغِى",
+      "target_word_rasm": "تبتغى",
+      "target_word_literal_irab": "Hoşnutluk arayarak (`تَبْتَغِى`, VIII. bab muzârî merfû, 2. tekil eril)",
+      "context_snippet_arabic": "أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine yasak ediyorsun? Allah bağışlayandır, acıyandır.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|2MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine yasak ediyorsun? Allah bağışlayandır, acıyandır.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 70,
+      "ayah": 31,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:31",
+      "word_position": 2,
+      "target_word_uthmani": "ٱبْتَغَىٰ",
+      "target_word_rasm": "ٱبتغى",
+      "target_word_literal_irab": "Ötesini aradıysa (`ٱبْتَغَىٰ`, VIII. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Bu sınırları aşmak isteyenler, işte onlar, aşırı gidenlerdir.",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MS"
+      },
+      "ayah_text_arabic_full": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu sınırları aşmak isteyenler, işte onlar, aşırı gidenlerdir.",
+      "contextual_meaning": "Hedefi şaşan veya hakkın dışında merci/sınır ötesi arzulayan tutumlar (`3:7,83,85`, `5:50`, `6:164`, `7:140`, `23:7`, `70:31`): Kargaşa veya keyfî yorum peşinde koşma, Yaratıcı dışında rab-hüküm arama yahut helal sınırının ötesini isteme."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 40,
+      "target_word_uthmani": "يَبْتَغُونَ",
+      "target_word_rasm": "يبتغون",
+      "target_word_literal_irab": "Ararlar / mı arıyorlar (`يَبْتَغُونَ / أَيَبْتَغُونَ`, VIII. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; ...",
+      "morphology": {
+        "lemma": "{botagaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VIII)|LEM:{botagaY`|ROOT:bgy|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Doğal nimetlerden meşru geçim ve lütuf arayışı (`يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ` `2:198`, `16:14`, `28:73`, `30:23`, `62:10`, `73:20`): Gündüz ışığı, denizler ve yolculuklar içinde emek verip rızık arama serbestliği."
+    },
+    {
+      "surah": 92,
+      "ayah": 20,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:20",
+      "word_position": 2,
+      "target_word_uthmani": "ٱبْتِغَآءَ",
+      "target_word_rasm": "ٱبتغاء",
+      "target_word_literal_irab": "Aramak / elde etmek amacıyla (`ٱبْتِغَآءَ / وَٱبْتِغَآءَ`, VIII. bab mastar mansûb — mef'ûlün leh)",
+      "context_snippet_arabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "O yaptığı iyiliği birinden karşılık görmek için değil, ancak yüce Rabbinin hoşnudluğunu (rızasını) gözeterek yapmıştır.",
+      "morphology": {
+        "lemma": "{botigaA^'",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(VIII)|LEM:{botigaA^'|ROOT:bgy|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "O yaptığı iyiliği birinden karşılık görmek için değil, ancak yüce Rabbinin hoşnudluğunu (rızasını) gözeterek yapmıştır.",
+      "contextual_meaning": "Arı niyetle hoşnutluk ve rıza arayışı (`ٱبْتِغَآءَ مَرْضَاتِ / وَجْهِ رَبِّهِ` `2:207,265,272`, `13:22`, `48:29`, `92:20`): Çıkar hesaplarından arınarak yalnız Yaratıcının rızasını ve rahmetini hedefleme."
+    }
+  ]
+}

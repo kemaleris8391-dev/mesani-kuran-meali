@@ -1,0 +1,2164 @@
+{
+  "root": "ص-ب-ر",
+  "root_latin": "S-B-R (Sbr)",
+  "concept_name": "Sebat / Direnç / Istibâr (Benliği Hedefe Kenetleyip Sarsılmadan Tutma)",
+  "rank": 110,
+  "total_occurrences": 103,
+  "unique_ayahs_count": 93,
+  "unified_core_mechanism": "Kökün `103` geçişlik tamamı İbn Fâris'in tespit ettiği `ٱلْحَبْس` ('tutmak, bağlamak, yerinde sımsıkı korumak') çekirdeğinden çalışır: 'Baskı, belirsizlik, çekişme veya çatışma anında benliği, gözü ve ayakları dağıtmayıp ilkeye/hedefe kenetlemek'. Pasif bir boyun bükme değil aktif tutma gücüdür: `18:28`de benliği dostlara bağlama, `2:250`de ayakları sabit tutma, `3:200`de rakibe direnç yarışı (`صَابِرُوا۟`), `8:46`da çözülmeye karşı direnme, `18:67-82`de bilgi tamamlanana dek tepkiyi tutma ve `19:65`te VIII. bab `ٱصْطَبِرْ` ile ekstra çaba yüklenmedir. `2:175` ve `38:6`da ise yanlış yolda direnenlerin tutunması aynı kök mekaniğinin karşıt kanıtıdır.",
+  "physical_core": "Belirli bir ilke, hedef, sınama veya sorumluluk ekseninde benliği sımsıkı tutup dağılmasını ve kaçmasını engellemek; sarsıntıya karşı konumda sabit kalarak aktif direnç ve sebat göstermek (`حَبْسُ ٱلنَّفْسِ وَثَبَاتُهَا فِى ٱلضِّيقِ`). Geleneksel mistik edebiyatın öğrettiği 'çaresiz pasif bekleyiş' değil, `18:28`de doğrudan geçişli olarak `وَٱصْبِرْ نَفْسَكَ` ('kendi benliğini tutup bağla') ifadesinde somutlaşan aktif irade kenetlenmesidir. Zorlukta yıkılmamayı (`2:177`, `8:46`), rakiplere karşı dayanıklılıkta öne geçmeyi (`3:200` III. bab), hakikat veya hatta inatçı saplantı üzerinde ayak diremeyi (`38:6`, `25:42`, `2:175`) kapsar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) kökün birinci ve temel aslının `ٱلْحَبْس` (tutmak, bağlamak, yerinde sabit tutmak) olduğunu söyler: `صَبَرْتُ نَفْسِى عَلَى ٱلْأَمْرِ` = benliğimi o işin üzerinde sımsıkı tuttum, dağılmasına izin vermedim (aynı zamanda taşın sertliği ve en yüksek nokta anlamlarıyla dayanıklılık eksenindedir).",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökü *el-imsâk fî dîk* (darlık ve baskı anında kendini tutma) ve `حَبْسُ ٱلنَّفْسِ` (aklın ve yasanın gerektirdiği çizgide benliği tutma) diye tanımlar; `19:65`teki `ٱصْطَبِرْ` kalıbının ise fazladan irade ve çaba yüklenmeyi (`تَكَلُّف وَجَهْد`) anlattığını vurgular.",
+    "lisan_al_arab": "Klasik Arapça kaynakları (`Mekâyîs`, `el-Müfredât` ve Arapça sözlük geleneği) hem kişinin içsel irade zırhını hem `3:200`deki rakibe karşı dayanıklılık yarışını (`مُصَابَرَة`) ortak 'tutma ve dayanma' mekaniğinde birleştirir.",
+    "arbitration_decision": "Tahkim Kararı: Geleneksel meallerde pasif boyun eğiş algısına kayan ifadeler temizlenir; çünkü Kur'an `8:65-66`da savaş oranlarını, `3:200`de cephe nöbetini (`رَابِطُوا۟`), `18:28`de benliği tutmayı ve `2:250`de ayakları sabit kılmayı bu kökle anlatır. Ayrıca `2:175`, `25:42` ve `38:6` bu kökün nötr 'direnme/inatla tutunma' mekaniğini kanıtlar. Tüm kullanımlar 'sebat ve aktif direnç / benliği konumda tutma' eksenine oturtulur."
+  },
+  "semitic_cognates": {
+    "akkadian": "Akadçada yığma veya dayanma için ayrı kökler (`kamāru`, `muāšu` vb.) kullanılır; *ṣ-b-r* kökü doğrudan bu anlamla yaygın değildir.",
+    "aramaic_syriac": "Aramca ve Süryanicede (`סבר / ܣܒܪ` *sbar* ve `צבר` *ṣbar*, CAL) kökteş biçimler iki kolda görünür: İbranice paralelinde fiziksel toplama/yığma, Süryanicede ise zihni bir beklentiye bağlama ('ummak, beklemek, düşünmek') anlamını almıştır.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `צָבַר` (*ṣābar*, BDB: 'toplamak, sımsıkı bir araya yığmak' — Yaratılış 41:35) düzenli ses denkliği (`Proto-Sami *ṣ > Arab. ص / Heb. צ`) taşır; Etiyopça Geez'de (Leslau) ise Arapçadaki 'sağlamlık, sebat ve tahammül' anlam kümesiyle yakın *ṣ-b-r* paralelleri korunur.",
+    "phonological_note": "Proto-Sami vurgulu `*ṣ` sesi Arapçada `ص`, İbranicede `צ` sesine düzenli evrilir. Kökün 'bir araya sıkıştırıp yığmak/bağlamak' fiziksel tabanı İbranicede somut küme yığma (`צָבַר`), Güney Semitikte ise (Arapça & Etiyopça) dağılmamak üzere benliği ve iradeyi bir arada tutma ('sebat ve aktif direnç') şeklinde evrilmiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ج-ز-ع (`سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا` `14:21` — Panikleyip Çözülmek ve Sızlanmak vs Konumda Tutunup Direnmek)",
+      "ف-ش-ل / ن-ز-ع (`وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ وَٱصْبِرُوٓا۟` `8:46` — Dağılıp Gücünü Yitirmek vs Sebatla Kenetlenmek)",
+      "ع-ج-ل (`فَٱصْبِرْ ... وَلَا تَسْتَعْجِل لَّهُمْ` `46:35` — Sürece Dirençle Tutunmak vs Aceleyle Çözümü Zorlamak)",
+      "خ-ف-ف / ع-د-و (`فَٱصْبِرْ ... وَلَا يَسْتَخِفَّنَّكَ` `30:60`; `وَٱصْبِرْ نَفْسَكَ ... وَلَا تَعْدُ عَيْنَاكَ` `18:28` — Hafifleyip Savrulmak veya Ölçüden Taşmak vs Ağırbaşlı Sebatla Durmak)"
+    ],
+    "key_ayahs": [
+      "2:153",
+      "2:175",
+      "2:177",
+      "2:250",
+      "3:200",
+      "8:46",
+      "8:65-66",
+      "14:5",
+      "14:21",
+      "16:126-127",
+      "18:28",
+      "18:67-69",
+      "19:65",
+      "25:42",
+      "30:60",
+      "38:6",
+      "42:43",
+      "46:35",
+      "52:16",
+      "103:3"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ص-ب-ر baskı altında dağılmadan benliği hedefte sımsıkı tutma ve direnç ise zıddı nedir?' Cevap: (1) Panik ve çözülme (`جَزَع` `14:21`, `تَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ` `8:46`). (2) Dayanıksız acelecilik ve hafife gelip savrulma (`لَا تَسْتَعْجِل` `46:35`, `لَا يَسْتَخِفَّنَّكَ` `30:60`, `وَلَا تَعْدُ عَيْنَاكَ` `18:28`). (3) Ölçüsüz misillemeye kapılıp sınırı taşmak (`16:126` vs `42:43`). Her iki yön de aktif irade tutma çekirdeğini doğrulamaktadır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "ص-ب-ر (`Konumda kalıp dağılmamak`) vs ج-ز-ع (`Sızlanıp dağılmak`) — `14:21`",
+      "ص-ب-ر (`İradeyi kenetleyip tutmak`) vs ف-ش-ل / ن-ز-ع (`Çekişip gevşeyerek gücünü kaybetmek`) — `8:46`",
+      "ٱصْبِرُوا۟ (`I. bab`: Kendi benliğini tutma) vs صَابِرُوا۟ (`III. bab`: Rakibe karşı dayanıklılıkta üstün kalma) vs رَابِطُوا۟ (`Sınır hattını birbirine bağlama`) — `3:200`",
+      "صَبَّار (`Darlıkta dağılmadan direnç gösteren`) vs شَكُور (`Genişlikte değer bilip açığa vuran`) — `14:5`, `31:31`, `34:19`, `42:33`",
+      "ص-ب-ر (`Sarsıntıya karşı ayakta kalma direnci`) vs غ-ف-ر (`Kötülüğü örtüp bağışlama`) — `42:43`, `16:126`",
+      "ص-ب-ر (`Benliği hizada tutma`) vs ع-د-و (`Bakışın yörünge dışına kayıp taşması`) — `18:28`"
+    ],
+    "mechanical_difference": "1) `3:200`de aynı cümlede `ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟` üç basamağı ayırır: içsel öz-tutma (`I. bab`), rakibin direncini aşan uzun soluklu rekabet dayanıklılığı (`III. bab`) ve kolektif hat tutuşu (`رِبَاط`). 2) `18:28`de `وَٱصْبِرْ نَفْسَكَ` ile benliği bağlayıp tutma, `وَلَا تَعْدُ عَيْنَاكَ` ile gözün ölçüden taşması yan yana gelerek fiziksel merkezleme mekaniğini açığa çıkarır. 3) `14:5`, `31:31`, `34:19`, `42:33` dörtlüsünde `صَبَّارٍ شَكُورٍ` zorluk-bolluk çift kanadını aynı kişide birleştirir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "18:28 & 2:250 & 7:126",
+      "role": "Fiziksel Kenetlenme ve Zırh Çapası (`وَٱصْبِرْ نَفْسَكَ` / `أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`)",
+      "literal_meaning": "'Benliğini onlarla birlikte sımsıkı tut (`18:28` geçişli kullanımı)' ve 'üzerimize direnç boşalt/giydir ve ayaklarımızı sabit tut (`2:250`)' — kavramın pasiflik değil aktif irade kilitlemesi oluşunun doğrudan delili."
+    },
+    {
+      "ref": "3:200 & 8:46 & 8:65-66",
+      "role": "Kolektif Direnç ve Güç Oranı Çapası (`ٱصْبِرُوا۟ وَصَابِرُوا۟` / `وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟`)",
+      "literal_meaning": "'Direnin, rakipten daha dirençli durun ve hatları bağlayın (`3:200`)', 'çekişip gevşemeyin ki gücünüz uçmasın (`8:46`)' ve 'dirençli yüz kişi iki yüz kişiyi yener (`8:66`).'"
+    },
+    {
+      "ref": "2:175 & 25:42 & 38:6",
+      "role": "Nötr Mekanik Kanıtı: Yanlışta Direniş Çapası (`فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ` / `وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ`)",
+      "literal_meaning": "'Ateşe karşı ne kadar da cüretli/dayanıklı davranıyorlar (`2:175`)', 'sahte sığınaklarınıza direnmeseydik (`25:42`)' ve 'yürüyün, onlarda direnin (`38:6`)' — kelimenin başlı başına kör taklide değil yönelinen hedefe göre değer kazandığını gösterir."
+    },
+    {
+      "ref": "19:65 & 20:132 & 54:27",
+      "role": "VIII. Bab `ت -> ط` Yoğunlaşma Çapası (`وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ`)",
+      "literal_meaning": "'Ona yönelişte ve sorumluluk bağında bilinçli çaba yüklenerek sebatla kenetlen' — `ت -> ط` dönüşümüyle artırılmış irade yoğunluğu."
+    },
+    {
+      "ref": "14:5 & 31:31 & 34:19 & 42:33",
+      "role": "İkili Zirve Karakter Çapası (`لِكُلِّ صَبَّارٍ شَكُورٍ`)",
+      "literal_meaning": "'Elbette bunda darlıkta çok dirençli, genişlikte çok değer bilen herkes için açık göstergeler vardır' — dört farklı surede tekrar eden dengeli insan formülü."
+    },
+    {
+      "ref": "16:126-127 & 42:43 & 39:10 & 103:3",
+      "role": "Hukukî Üstünlük ve Hesapsız Karşılık Çapası (`إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ`)",
+      "literal_meaning": "'Sebat edip bağışlamak gerçek kararlılıktır (`42:43`, `16:126`)', 'hakikati ve sebatı karşılıklı tavsiye etmek (`103:3`)' ve 'direnenlere hak edişleri sınırsızca tam ödenir (`39:10`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) `62` fiilin `58`i I. bab (`صَبَرَ - يَصْبِرُ`), `3`ü VIII. bab iftiâl (`وَٱصْطَبِرْ` `19:65`, `20:132`, `54:27` — vurgulu `ص` sesi ardından `ت` harfi zorunlu olarak `ط`'ya kalbolur), `1`i ise III. bab müfâale (`وَصَابِرُوا۟` `3:200` hapaxı) formundadır. 2) `2:175`teki `فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ` yapısı morfolojide tekil eril mâzî gibi kodlansa da belâgat açısından taaccüb (şaşırma: 'ne kadar da pervasızca dayanıyorlar') kalıbıdır. 3) İsim ve sıfatlarda (`41` geçiş) `22` ism-i fâil (`صَابِر / صَابِرُونَ / صَابِرِينَ / صَابِرَة / صَٰبِرَٰت`), `15` masdar (`صَبْر / بِٱلصَّبْرِ / صَبْرُكَ`), `4` mübalağa sıfatı (`صَبَّارٍ` daima `شَكُورٍ` ile) bulunur. 4) `10` ayette çift geçer (`2:153`, `3:200`, `8:46`, `8:66`, `16:126`, `16:127`, `33:35`, `46:35`, `52:16`, `70:5`) ve `35` ayrı Rasm-ı Osmânî yazımı taşır (`ٱلصبرون / ٱلصبرين / وٱلصبرت` iç elif hazifleriyle).",
+  "derivatives": {
+    "صَبَرَ - يَصْبِرُ (`58 V` I. bab) & وَٱصْطَبِرْ (`3 V` VIII. bab) & وَصَابِرُوا۟ (`1 V` III. bab)": "Benliği ve iradeyi hedefte sabit tutmak (`18:28`, `19:65`), rakipten uzun süre dayanmak (`3:200`), çözülme ve paniğe karşı direnmek (`8:46`, `14:21`, `30:60`)",
+    "صَبْر (`15 N` masdar)": "Ayakları sabit tutan zırh (`2:250`, `7:126`), bilgi olgunlaşana dek iradeyi tutma (`18:67-82`) ve birbirine direnç aşılama (`90:17`, `103:3`)",
+    "صَابِر / صَٰبِرِينَ / صَٰبِرَٰت / صَابِرَة (`22 N/ADJ`) & صَبَّار (`4 ADJ`)": "Darlıkta sarsılmayıp hak edişi tam alanlar (`2:177`, `39:10`) ve daima `شَكُور` ile çiftlenen yüksek dirençliler (`14:5`, `31:31`, `34:19`, `42:33`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 45,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:45",
+      "word_position": 2,
+      "target_word_uthmani": "بِٱلصَّبْرِ",
+      "target_word_rasm": "بٱلصبر",
+      "target_word_literal_irab": "Direnç ve sebat ile (`بِٱلصَّبْرِ`, marife masdar mecrûr)",
+      "context_snippet_arabic": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ",
+      "context_snippet_turkish_tabula_rasa": "sebat ve direnç ve irtibat bağıyla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına yöneliş ve sorumluluk bağı elbette ağır gelir.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat ve direnç ve irtibat bağıyla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına yöneliş ve sorumluluk bağı elbette ağır gelir.",
+      "contextual_meaning": "Toplumsal ve ruhsal direnç desteği (`بِٱلصَّبْرِ وَٱلصَّلَوٰةِ` / `تَوَاصَوْا۟ بِٱلصَّبْرِ`): Zorluklarda dayanışma ve sebat bilincini karşılıklı ayakta tutmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 61,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:61",
+      "word_position": 5,
+      "target_word_uthmani": "نَّصْبِرَ",
+      "target_word_rasm": "نصبر",
+      "target_word_literal_irab": "Tek bir yiyeceğe asla dayanıp kalamayız (`نَّصْبِرَ`, I. bab mansûb muzâri 1. çoğul)",
+      "context_snippet_arabic": "قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin\" demiştiniz de, \"Hayırlı olanı daha düşük şeyle mi değiştirmek istiyorsunuz? Bir şehre inin, şüphesiz orada istediğiniz vardır\" demişti. Onlara yoksulluk ve düşkünlük damgası vuruldu, Allah'ın gazabına uğradılar. ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin\" demiştiniz de, \"Hayırlı olanı daha düşük şeyle mi değiştirmek istiyorsunuz? Bir şehre inin, şüphesiz orada istediğiniz vardır\" demişti. Onlara yoksulluk ve düşkünlük damgası vuruldu, Allah'ın gazabına uğradılar. Bu, Allah'ın ayetlerini gerçeğin üzerini ört ve haksız yere elçileri öldürmelerindendi; bu, karşı gelmeleri ve taşkınlık yapmalarındandı.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 153,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:153",
+      "word_position": 5,
+      "target_word_uthmani": "بِٱلصَّبْرِ",
+      "target_word_rasm": "بٱلصبر",
+      "target_word_literal_irab": "Direnç ve sebat ile (`بِٱلصَّبْرِ`, marife masdar mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! sebat ve direnç ve irtibat bağıyla yardım dileyin. Allah, muhakkak ki sebat edip direnenlerle beraberdir.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! sebat ve direnç ve irtibat bağıyla yardım dileyin. Allah, muhakkak ki sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Toplumsal ve ruhsal direnç desteği (`بِٱلصَّبْرِ وَٱلصَّلَوٰةِ` / `تَوَاصَوْا۟ بِٱلصَّبْرِ`): Zorluklarda dayanışma ve sebat bilincini karşılıklı ayakta tutmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 153,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:153",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! sebat ve direnç ve irtibat bağıyla yardım dileyin. Allah, muhakkak ki sebat edip direnenlerle beraberdir.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! sebat ve direnç ve irtibat bağıyla yardım dileyin. Allah, muhakkak ki sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Toplumsal ve ruhsal direnç desteği (`بِٱلصَّبْرِ وَٱلصَّلَوٰةِ` / `تَوَاصَوْا۟ بِٱلصَّبْرِ`): Zorluklarda dayanışma ve sebat bilincini karşılıklı ayakta tutmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 155,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:155",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sebat edip direnenleri müjdele.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sebat edip direnenleri müjdele.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 175,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:175",
+      "word_position": 9,
+      "target_word_uthmani": "أَصْبَرَهُمْ",
+      "target_word_rasm": "أصبرهم",
+      "target_word_literal_irab": "Ateşe karşı ne kadar da cüretkâr dayanıyorlar (`أَصْبَرَهُمْ`, taaccüb IV. vezinli fiil)",
+      "context_snippet_arabic": "وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar doğruluk yerine sapıklığı, mağfiret yerine azabı alanlardır.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MS"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar doğruluk yerine sapıklığı, mağfiret yerine azabı alanlardır.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 40,
+      "target_word_uthmani": "وَٱلصَّٰبِرِينَ",
+      "target_word_rasm": "وٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ",
+      "context_snippet_turkish_tabula_rasa": "... Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 2,
+      "ayah": 249,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:249",
+      "word_position": 60,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Nice az topluluk çok topluluğa Allah'ın izniyle üstün gelmiştir, Allah sebat edip direnenlerle beraberdir\" dediler.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Talut orduyla birlikte ayrıldıktan sonra, \"Doğrusu Allah sizi bir ırmakla deneyecektir, ondan içen benden değildir, onu tatmayan eliyle sadece bir avuç avuçlayan müstesna şüphesiz bendendir\" dedi. Onlardan pek azı hariç, sudan içtiler. Kendisi ve kendisiyle olan güvene erenler ırmağı geçince, \"Bugün Calut ve ordusuna karşı koyacak gücümüz yok\" dediler. Kendilerinin Allah'a kavuşacağını bilenler ise: \"Nice az topluluk çok topluluğa Allah'ın izniyle üstün gelmiştir, Allah sebat edip direnenlerle beraberdir\" dediler.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 2,
+      "ayah": 250,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:250",
+      "word_position": 9,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا",
+      "context_snippet_turkish_tabula_rasa": "Calut ve ordusuna karşı çıktıklarında, \"Rabbimiz! Bize sebat ve direnç ver, sebatımızı artır, gerçeğin üzerini örten millete karşı bize yardım et\" dediler.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Calut ve ordusuna karşı çıktıklarında, \"Rabbimiz! Bize sebat ve direnç ver, sebatımızı artır, gerçeğin üzerini örten millete karşı bize yardım et\" dediler.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 3,
+      "ayah": 17,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:17",
+      "word_position": 1,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar ki, \"Rabbimiz! Biz şüphesiz güvene erdik, bunun için sapma ve kusurlarımızı bize bağışla ve bizi ateşin azabından koru\" diyen, sebat edip direnen, doğru olan, gönülden kulluk eden, hayra dolaşıma sokup paylaştıran ve seher vakitlerinde bağışlanma dileyenlerdir.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar ki, \"Rabbimiz! Biz şüphesiz güvene erdik, bunun için sapma ve kusurlarımızı bize bağışla ve bizi ateşin azabından koru\" diyen, sebat edip direnen, doğru olan, gönülden kulluk eden, hayra dolaşıma sokup paylaştıran ve seher vakitlerinde bağışlanma dileyenlerdir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 3,
+      "ayah": 120,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:120",
+      "word_position": 11,
+      "target_word_uthmani": "تَصْبِرُوا۟",
+      "target_word_rasm": "تصبروا",
+      "target_word_literal_irab": "Direnirseniz / direnmeseniz de (`تَصْبِرُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "يَفْرَحُوا۟ بِهَا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... sebat edip direnir ve sakınırsanız, onların hilesi size hiçbir zarar vermez. Allah işlediklerinin hepsini ilmiyle kuşatmıştır.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Size bir iyilik gelse, onların fenasına gider; başınıza bir kötülük gelse buna sevinirler. sebat edip direnir ve sakınırsanız, onların hilesi size hiçbir zarar vermez. Allah işlediklerinin hepsini ilmiyle kuşatmıştır.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 3,
+      "ayah": 125,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:125",
+      "word_position": 3,
+      "target_word_uthmani": "تَصْبِرُوا۟",
+      "target_word_rasm": "تصبروا",
+      "target_word_literal_irab": "Direnirseniz / direnmeseniz de (`تَصْبِرُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "بَلَىٰٓ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "... Evet, eğer sebat edip direnirseniz, sakınırsanız ve onlar de hemen üzerinize gelirlerse Rabbiniz size, nişanlı beş bin kozmik görevliyle imdat edecektir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "بَلَىٰٓ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُم بِخَمْسَةِ ءَالَٰفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ مُسَوِّمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere: \"Rabbinizin size gönderilmiş üç bin kozmik görevliyle yardım etmesi size yetmeyecek mi?\" diyordun. Evet, eğer sebat edip direnirseniz, sakınırsanız ve onlar de hemen üzerinize gelirlerse Rabbiniz size, nişanlı beş bin kozmik görevliyle imdat edecektir.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 3,
+      "ayah": 142,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:142",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "جَٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa içinizden Allah cihad edenleri ve sebat edip direnenleri belirtmeden esenlik bahçesine gireceğinizi mi sanıyordunuz?",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa içinizden Allah cihad edenleri ve sebat edip direnenleri belirtmeden esenlik bahçesine gireceğinizi mi sanıyordunuz?",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 3,
+      "ayah": 146,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:146",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱسْتَكَانُوا۟ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolunda başlarına gelenlerden ötürü gevşememişler, yılmamışlar ve boyun eğmemişlerdi. Allah, sebat edip direnenleri sever.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن نَّبِىٍّ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nice elçilerin yanında Rabbe kul olmuş pek çok kimse savaşmıştır. Allah yolunda başlarına gelenlerden ötürü gevşememişler, yılmamışlar ve boyun eğmemişlerdi. Allah, sebat edip direnenleri sever.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 3,
+      "ayah": 186,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:186",
+      "word_position": 18,
+      "target_word_uthmani": "تَصْبِرُوا۟",
+      "target_word_rasm": "تصبروا",
+      "target_word_literal_irab": "Direnirseniz / direnmeseniz de (`تَصْبِرُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "أَذًى كَثِيرًا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "... sebat edip direnir ve Allah'a karşı gelmekten sakınırsanız bilin ki, bu üzerinde sebat edilecek işlerdendir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki mallarınız ve canlarınızla sınanacaksınız; hiç şüphesiz, sizden önce Kitap verilenlerden ve Allah'a eş koşanlardan çok üzücü sözler işiteceksiniz. sebat edip direnir ve Allah'a karşı gelmekten sakınırsanız bilin ki, bu üzerinde sebat edilecek işlerdendir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 3,
+      "ayah": 200,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:200",
+      "word_position": 4,
+      "target_word_uthmani": "ٱصْبِرُوا۟",
+      "target_word_rasm": "ٱصبروا",
+      "target_word_literal_irab": "Sebat edip direnin (`ٱصْبِرُوا۟ / فَٱصْبِرُوا۟ / وَٱصْبِرُوٓا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! sebat edip direnin, düşmanlarınızdan daha sebatlı ve dirençli olun, cihada hazır bulunun, Allah'a karşı gelmekten sakının ki başarıya erişebilesiniz.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! sebat edip direnin, düşmanlarınızdan daha sebatlı ve dirençli olun, cihada hazır bulunun, Allah'a karşı gelmekten sakının ki başarıya erişebilesiniz.",
+      "contextual_meaning": "Üçlü direnç mimarisi (`ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟` `3:200`): İçsel kenetlenme (I. bab), rakibe karşı dayanıklılık yarışı (III. bab hapaxı) ve sınır nöbeti (`رِبَاط`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 200,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:200",
+      "word_position": 5,
+      "target_word_uthmani": "وَصَابِرُوا۟",
+      "target_word_rasm": "وصابروا",
+      "target_word_literal_irab": "Karşı taraftan daha dirençli ve sarsılmaz durun (`وَصَابِرُوا۟`, III. bab emir 2. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! sebat edip direnin, düşmanlarınızdan daha sebatlı ve dirençli olun, cihada hazır bulunun, Allah'a karşı gelmekten sakının ki başarıya erişebilesiniz.",
+      "morphology": {
+        "lemma": "SaAbiru",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(III)|LEM:SaAbiru|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! sebat edip direnin, düşmanlarınızdan daha sebatlı ve dirençli olun, cihada hazır bulunun, Allah'a karşı gelmekten sakının ki başarıya erişebilesiniz.",
+      "contextual_meaning": "Üçlü direnç mimarisi (`ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟` `3:200`): İçsel kenetlenme (I. bab), rakibe karşı dayanıklılık yarışı (III. bab hapaxı) ve sınır nöbeti (`رِبَاط`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 25,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:25",
+      "word_position": 53,
+      "target_word_uthmani": "تَصْبِرُوا۟",
+      "target_word_rasm": "تصبروا",
+      "target_word_literal_irab": "Kendinizi tutmanız / direnmeniz (`تَصْبِرُوا۟`, I. bab mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Onlarla, zinadan kaçınmaları, iffetli olmaları ve gizli dost tutmamış olmaları halinde, velilerinin izniyle evlenin ve örfe uygun bir şekilde mehirlerini verin. Evlendiklerinde zina edecek olurlarsa, onlara, hür kadınlara edilen azabın yarısı edilir. ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم بَعْضُكُم مِّنۢ بَعْضٍ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden, hür güvene eren kadınlarla evlenmeye güç yetiremiyen kimse, ellerinizdeki güvene eren cariyelerinizden alsın. Allah sizin güven bağı çok iyi bilir. Birbirinizdensiniz, aynı soydansınız. Onlarla, zinadan kaçınmaları, iffetli olmaları ve gizli dost tutmamış olmaları halinde, velilerinin izniyle evlenin ve örfe uygun bir şekilde mehirlerini verin. Evlendiklerinde zina edecek olurlarsa, onlara, hür kadınlara edilen azabın yarısı edilir. Cariye ile evlenmedeki bu izin içinizden, sapma ve kusura girme korkusu olanlaradır. sebat edip direnmeniz sizin için daha hayırlıdır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 6,
+      "ayah": 34,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:34",
+      "word_position": 6,
+      "target_word_uthmani": "فَصَبَرُوا۟",
+      "target_word_rasm": "فصبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Senden önce nice elçiler yalanlandı ve kendilerine yardımımız gelene kadar yalanlanmalarına ve sıkıştırılmaya katlandılar. Allah'ın sözlerini değiştirebilecek yoktur; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce nice elçiler yalanlandı ve kendilerine yardımımız gelene kadar yalanlanmalarına ve sıkıştırılmaya katlandılar. Allah'ın sözlerini değiştirebilecek yoktur; and olsun ki elçilerin haberi sana da geldi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 87,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:87",
+      "word_position": 12,
+      "target_word_uthmani": "فَٱصْبِرُوا۟",
+      "target_word_rasm": "فٱصبروا",
+      "target_word_literal_irab": "Sebat edip direnin (`ٱصْبِرُوا۟ / فَٱصْبِرُوا۟ / وَٱصْبِرُوٓا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "وَطَآئِفَةٌ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "\"İçinizde mademki benimle gönderilene güvene eren bir topluluk ve güven duy bir topluluk var, o halde Allah'ın aramızda hükmünü bildirmesine kadar sebat edip direnin. Allah hükmedenlerin en iyisidir. ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِن كَانَ طَآئِفَةٌ مِّنكُمْ ءَامَنُوا۟ بِٱلَّذِىٓ أُرْسِلْتُ بِهِۦ وَطَآئِفَةٌ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ بَيْنَنَا وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"İçinizde mademki benimle gönderilene güvene eren bir topluluk ve güven duy bir topluluk var, o halde Allah'ın aramızda hükmünü bildirmesine kadar sebat edip direnin. Allah hükmedenlerin en iyisidir.\"",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 126,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:126",
+      "word_position": 14,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbimiz! Bize sebat ve direnç ver ve canımızı müslim olarak al\" dediler.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتْنَا رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar da: \"Doğrusu biz ancak Rabbimize döneriz. Rabbimizin ayetleri gelince, onlara güven duy ötürü bizden öç alıyorsun. Rabbimiz! Bize sebat ve direnç ver ve canımızı müslim olarak al\" dediler.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 128,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:128",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱصْبِرُوٓا۟",
+      "target_word_rasm": "وٱصبروا",
+      "target_word_literal_irab": "Sebat edip direnin (`ٱصْبِرُوا۟ / فَٱصْبِرُوا۟ / وَٱصْبِرُوٓا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ إِنَّ ٱلْأَرْضَ لِلَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Musa milletine: \"Allah'tan yardım dileyin ve sebat edip direnin; yeryüzü şüphesiz Allah'ındır, kullarından dilediğini ona mirasçı kılar; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ وَٱلْعَٰقِبَةُ لِلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa milletine: \"Allah'tan yardım dileyin ve sebat edip direnin; yeryüzü şüphesiz Allah'ındır, kullarından dilediğini ona mirasçı kılar; sonuç Allah'a karşı gelmekten sakınanlarındır\" dedi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 7,
+      "ayah": 137,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:137",
+      "word_position": 20,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ وَدَمَّرْنَا مَا كَانَ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbinin İsrailoğullarına verdiği güzel söz, sebat ve dirençlerine karşılık yerine geldi. Firavun ve milletinin yaptığını ve yükselttiklerini yıktık.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hor görülen yahudileri, bereketlendirdiğimiz yerin doğularına ve batılarına mirasçı kıldık. Rabbinin İsrailoğullarına verdiği güzel söz, sebat ve dirençlerine karşılık yerine geldi. Firavun ve milletinin yaptığını ve yükselttiklerini yıktık.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 8,
+      "ayah": 46,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:46",
+      "word_position": 9,
+      "target_word_uthmani": "وَٱصْبِرُوٓا۟",
+      "target_word_rasm": "وٱصبروا",
+      "target_word_literal_irab": "Sebat edip direnin (`ٱصْبِرُوا۟ / فَٱصْبِرُوا۟ / وَٱصْبِرُوٓا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ وَٱصْبِرُوٓا۟ إِنَّ ٱللَّهَ مَعَ",
+      "context_snippet_turkish_tabula_rasa": "... çekişmeyin, yoksa korkar başarısızlığa düşersiniz ve kuvvetiniz gider. sebat edip direnin, doğrusu Allah sebat edip direnenlerle beraberdir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ وَٱصْبِرُوٓا۟ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine itaat edin; çekişmeyin, yoksa korkar başarısızlığa düşersiniz ve kuvvetiniz gider. sebat edip direnin, doğrusu Allah sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 8,
+      "ayah": 46,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:46",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... çekişmeyin, yoksa korkar başarısızlığa düşersiniz ve kuvvetiniz gider. sebat edip direnin, doğrusu Allah sebat edip direnenlerle beraberdir.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُوا۟ فَتَفْشَلُوا۟ وَتَذْهَبَ رِيحُكُمْ وَٱصْبِرُوٓا۟ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine itaat edin; çekişmeyin, yoksa korkar başarısızlığa düşersiniz ve kuvvetiniz gider. sebat edip direnin, doğrusu Allah sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 8,
+      "ayah": 65,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:65",
+      "word_position": 11,
+      "target_word_uthmani": "صَٰبِرُونَ",
+      "target_word_rasm": "صبرون",
+      "target_word_literal_irab": "Sebatla direnen yirmi kişi (`صَٰبِرُونَ`, çoğul sıfat merfû)",
+      "context_snippet_arabic": "يَكُن مِّنكُمْ عِشْرُونَ صَٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن",
+      "context_snippet_turkish_tabula_rasa": "güvene erenleri savaş için coştur. Sizin sebatlı ve dirençli yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, gerçeğin üzerini örtenlerden bin kişiyi yener; ...",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ صَٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ كَفَرُوا۟ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenleri savaş için coştur. Sizin sebatlı ve dirençli yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, gerçeğin üzerini örtenlerden bin kişiyi yener; çünkü onlar anlayışsız bir güruhtur. Şimdi Allah yükünüzü hafifletti, zira içinizde zaaf bulunduğunu biliyordu. Sizin sebatlı ve dirençli yüz kişiniz onlardan ikiyüz kişiyi yener; sizin bin kişiniz, Allah'ın izniyle, ikibin kişiyi yener. Allah sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 8,
+      "ayah": 66,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:66",
+      "word_position": 13,
+      "target_word_uthmani": "صَابِرَةٌ",
+      "target_word_rasm": "صابرة",
+      "target_word_literal_irab": "Dirençli yüz kişilik birlik (`صَابِرَةٌ`, dişil tekil ism-i fâil merfû)",
+      "context_snippet_arabic": "يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن",
+      "context_snippet_turkish_tabula_rasa": "güvene erenleri savaş için coştur. Sizin sebatlı ve dirençli yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, gerçeğin üzerini örtenlerden bin kişiyi yener; ...",
+      "morphology": {
+        "lemma": "SaAbirap",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:SaAbirap|ROOT:Sbr|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلْـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenleri savaş için coştur. Sizin sebatlı ve dirençli yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, gerçeğin üzerini örtenlerden bin kişiyi yener; çünkü onlar anlayışsız bir güruhtur. Şimdi Allah yükünüzü hafifletti, zira içinizde zaaf bulunduğunu biliyordu. Sizin sebatlı ve dirençli yüz kişiniz onlardan ikiyüz kişiyi yener; sizin bin kişiniz, Allah'ın izniyle, ikibin kişiyi yener. Allah sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 8,
+      "ayah": 66,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:66",
+      "word_position": 26,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenleri savaş için coştur. Sizin sebatlı ve dirençli yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, gerçeğin üzerini örtenlerden bin kişiyi yener; ...",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلْـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenleri savaş için coştur. Sizin sebatlı ve dirençli yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, gerçeğin üzerini örtenlerden bin kişiyi yener; çünkü onlar anlayışsız bir güruhtur. Şimdi Allah yükünüzü hafifletti, zira içinizde zaaf bulunduğunu biliyordu. Sizin sebatlı ve dirençli yüz kişiniz onlardan ikiyüz kişiyi yener; sizin bin kişiniz, Allah'ın izniyle, ikibin kişiyi yener. Allah sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Çatışma ve cephe direnci (`أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا`, `وَلَا تَنَٰزَعُوا۟`, `وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ`): Gevşeyip dağılmadan, korku ve sayı azlığı karşısında ayakları sabit tutma."
+    },
+    {
+      "surah": 10,
+      "ayah": 109,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:109",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Sana vahyedilene uy; Allah hükmünü verene kadar sebat edip diren. O, hüküm verenlerin en iyisidir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ وَٱصْبِرْ حَتَّىٰ يَحْكُمَ ٱللَّهُ وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana vahyedilene uy; Allah hükmünü verene kadar sebat edip diren. O, hüküm verenlerin en iyisidir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 11,
+      "ayah": 11,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:11",
+      "word_position": 3,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Bunların dışında, sebat edip direnerek iyi işler işleyen kimseler, işte onlara mağfiret ve büyük ecir vardır.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunların dışında, sebat edip direnerek iyi işler işleyen kimseler, işte onlara mağfiret ve büyük ecir vardır.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 11,
+      "ayah": 49,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:49",
+      "word_position": 16,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "مِن قَبْلِ هَٰذَا فَٱصْبِرْ إِنَّ ٱلْعَٰقِبَةَ لِلْمُتَّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar sana vahyettiğimiz bilinmeyen olaylardır. Sen de, milletin de daha önce bunları bilmezdiniz. sebat edip diren, sonuç, Allah'tan sakınanlarındır.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَٰذَا فَٱصْبِرْ إِنَّ ٱلْعَٰقِبَةَ لِلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar sana vahyettiğimiz bilinmeyen olaylardır. Sen de, milletin de daha önce bunları bilmezdiniz. sebat edip diren, sonuç, Allah'tan sakınanlarındır.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 11,
+      "ayah": 115,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:115",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, Allah iyi davrananların ecrini elbette zayi etmez.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, Allah iyi davrananların ecrini elbette zayi etmez.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 18,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:18",
+      "word_position": 12,
+      "target_word_uthmani": "فَصَبْرٌ",
+      "target_word_rasm": "فصبر",
+      "target_word_literal_irab": "Artık güzel bir sebat ve irade tutumu gerekir (`فَصَبْرٌ`, tekil nekre masdar merfû)",
+      "context_snippet_arabic": "لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَٱللَّهُ ٱلْمُسْتَعَانُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Sizi kendi benliğiniz bir iş yapmaya sürükledi; artık bana güzelce sebat ve direnç gerekir. Anlattıklarınıza ancak Allah'tan yardım istenir\" dedi.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Üzerine başka bir kan bulaşmış olarak Yusuf'un gömleğini de getirmişlerdi. Babaları: \"Sizi kendi benliğiniz bir iş yapmaya sürükledi; artık bana güzelce sebat ve direnç gerekir. Anlattıklarınıza ancak Allah'tan yardım istenir\" dedi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 83,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:83",
+      "word_position": 7,
+      "target_word_uthmani": "فَصَبْرٌ",
+      "target_word_rasm": "فصبر",
+      "target_word_literal_irab": "Artık güzel bir sebat ve irade tutumu gerekir (`فَصَبْرٌ`, tekil nekre masdar merfû)",
+      "context_snippet_arabic": "لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Onlara sırt çevirdi, \"Vah, Yusuf'a yazık oldu!\" dedi ve üzüntüden gözlerine ak düştü. Artık acısını içinde saklıyordu.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara sırt çevirdi, \"Vah, Yusuf'a yazık oldu!\" dedi ve üzüntüden gözlerine ak düştü. Artık acısını içinde saklıyordu.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 90,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:90",
+      "word_position": 17,
+      "target_word_uthmani": "وَيَصْبِرْ",
+      "target_word_rasm": "ويصبر",
+      "target_word_literal_irab": "Kim sakınır ve direnirse (`وَيَصْبِرْ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا",
+      "context_snippet_turkish_tabula_rasa": "... doğrusu kim kötülükten sakınır ve sebat edip direnirse bilsin ki Allah iyi davrananların ecrini katiyen zayi etmez\" dedi. .",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yoksa sen Yusuf musun?\" dediler. \"Ben Yusuf'um, bu da kardeşim. Allah bize iyilikte bulundu; doğrusu kim kötülükten sakınır ve sebat edip direnirse bilsin ki Allah iyi davrananların ecrini katiyen zayi etmez\" dedi..",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 13,
+      "ayah": 22,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:22",
+      "word_position": 2,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 13,
+      "ayah": 24,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:24",
+      "word_position": 4,
+      "target_word_uthmani": "صَبَرْتُمْ",
+      "target_word_rasm": "صبرتم",
+      "target_word_literal_irab": "Direndiniz / direnirseniz (`صَبَرْتُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "سَلَٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "سَلَٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 14,
+      "ayah": 5,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:5",
+      "word_position": 20,
+      "target_word_uthmani": "صَبَّارٍ",
+      "target_word_rasm": "صبار",
+      "target_word_literal_irab": "Zorlukta çok dirençli olan herkes (`صَبَّارٍ`, mübalağa sıfatı nekre mecrûr)",
+      "context_snippet_arabic": "ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlarda, çokça sebat edip direnen ve nimetin değerini bilip açığa vuran herkes için dersler vardır.",
+      "morphology": {
+        "lemma": "Sab~aAr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Sab~aAr|ROOT:Sbr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Musa'yı ayetlerimizle, \"Milletini karanlıklardan aydınlığa çıkar ve Allah'ın günlerini onlara hatırlat\" diye göndermiştik. Bunlarda, çokça sebat edip direnen ve nimetin değerini bilip açığa vuran herkes için dersler vardır.",
+      "contextual_meaning": "Çift kutuplu denge sıfatı (`لِكُلِّ صَبَّارٍ شَكُورٍ` `14:5`, `31:31`, `34:19`, `42:33`): Darlıkta sarsılmayıp çok dirençli kalan ve genişlikte nimetin değerini çok açığa vuran kimse."
+    },
+    {
+      "surah": 14,
+      "ayah": 12,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:12",
+      "word_position": 10,
+      "target_word_uthmani": "وَلَنَصْبِرَنَّ",
+      "target_word_rasm": "ولنصبرن",
+      "target_word_literal_irab": "Eziyetinize elbette direneceğiz (`وَلَنَصْبِرَنَّ`, I. bab te'kidli muzâri 1. çoğul)",
+      "context_snippet_arabic": "وَقَدْ هَدَىٰنَا سُبُلَنَا وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا",
+      "context_snippet_turkish_tabula_rasa": "\"Bize yollarımızı gösteren Allah'a niçin güvenmeyelim? Bize ettiğiniz eziyete elbette katlanacağız. Güvenenler ancak Allah'a güvensinler.\"",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|1P"
+      },
+      "ayah_text_arabic_full": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bize yollarımızı gösteren Allah'a niçin güvenmeyelim? Bize ettiğiniz eziyete elbette katlanacağız. Güvenenler ancak Allah'a güvensinler.\"",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 14,
+      "ayah": 21,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:21",
+      "word_position": 30,
+      "target_word_uthmani": "صَبَرْنَا",
+      "target_word_rasm": "صبرنا",
+      "target_word_literal_irab": "Dirensek de / ilahlarımız üzerinde direndik (`صَبَرْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن",
+      "context_snippet_turkish_tabula_rasa": "... Artık sızlansak da sebat edip dirensek de birdir, çünkü kaçacak yerimiz yoktur\" derler.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|1P"
+      },
+      "ayah_text_arabic_full": "وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَٰكُمْ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların hepsi Allah'ın huzuruna çıkarlar; güçsüzler, büyüklük taslayanlara: \"Doğrusu biz size uymuştuk, Allah'ın azabından bizi koruyabilecek misiniz?\" derler. Cevap olarak: \"Allah bizi doğru yola eriştirseydi biz de sizi eriştirirdik. Artık sızlansak da sebat edip dirensek de birdir, çünkü kaçacak yerimiz yoktur\" derler.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 16,
+      "ayah": 42,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:42",
+      "word_position": 2,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar sebat edip direnen ve yalnız Rablerine güvenen kimselerdir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar sebat edip direnen ve yalnız Rablerine güvenen kimselerdir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 16,
+      "ayah": 96,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:96",
+      "word_position": 10,
+      "target_word_uthmani": "صَبَرُوٓا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "بَاقٍ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Sizde olanlar tükenir ama, Allah katında olanlar sonsuzdur, tükenmez. sebat edip direnenlere ecirlerini, yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "مَا عِندَكُمْ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٍ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizde olanlar tükenir ama, Allah katında olanlar sonsuzdur, tükenmez. sebat edip direnenlere ecirlerini, yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 16,
+      "ayah": 110,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:110",
+      "word_position": 12,
+      "target_word_uthmani": "وَصَبَرُوٓا۟",
+      "target_word_rasm": "وصبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "فُتِنُوا۟ ثُمَّ جَٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin, türlü eziyete uğratıldıktan sonra hicret eden, sonra Allah uğrunda savaşan ve sebat edip direnen kimselerden yanadır. Rabbin şüphesiz bundan sonra da bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا۟ مِنۢ بَعْدِ مَا فُتِنُوا۟ ثُمَّ جَٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin, türlü eziyete uğratıldıktan sonra hicret eden, sonra Allah uğrunda savaşan ve sebat edip direnen kimselerden yanadır. Rabbin şüphesiz bundan sonra da bağışlar ve merhamet eder.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 16,
+      "ayah": 126,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:126",
+      "word_position": 9,
+      "target_word_uthmani": "صَبَرْتُمْ",
+      "target_word_rasm": "صبرتم",
+      "target_word_literal_irab": "Direndiniz / direnirseniz (`صَبَرْتُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "عُوقِبْتُم بِهِۦ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer ceza vermek isterseniz size yapılanın aynıyla mukabele edin. sebat edip direnirseniz and olsun ki bu, sebat edip direnenler için daha iyidir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer ceza vermek isterseniz size yapılanın aynıyla mukabele edin. sebat edip direnirseniz and olsun ki bu, sebat edip direnenler için daha iyidir.",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 16,
+      "ayah": 126,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:126",
+      "word_position": 12,
+      "target_word_uthmani": "لِّلصَّٰبِرِينَ",
+      "target_word_rasm": "للصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer ceza vermek isterseniz size yapılanın aynıyla mukabele edin. sebat edip direnirseniz and olsun ki bu, sebat edip direnenler için daha iyidir.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer ceza vermek isterseniz size yapılanın aynıyla mukabele edin. sebat edip direnirseniz and olsun ki bu, sebat edip direnenler için daha iyidir.",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 16,
+      "ayah": 127,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:127",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, senin sebat ve direncin ancak Allah'ın yardımıyladır; onlara üzülme, kurdukları düzenlerden de endişe etme.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, senin sebat ve direncin ancak Allah'ın yardımıyladır; onlara üzülme, kurdukları düzenlerden de endişe etme.",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 16,
+      "ayah": 127,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:127",
+      "word_position": 3,
+      "target_word_uthmani": "صَبْرُكَ",
+      "target_word_rasm": "صبرك",
+      "target_word_literal_irab": "Senin direnç ve sebatın (`صَبْرُكَ`, muzâf masdar merfû)",
+      "context_snippet_arabic": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, senin sebat ve direncin ancak Allah'ın yardımıyladır; onlara üzülme, kurdukları düzenlerden de endişe etme.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, senin sebat ve direncin ancak Allah'ın yardımıyladır; onlara üzülme, kurdukları düzenlerden de endişe etme.",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 18,
+      "ayah": 28,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:28",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sabah akşam Rablerinin rızasını dileyerek O'na yalvaranlarla beraber sen de sebat edip diren. Dünya hayatının güzelliklerini isteyerek gözlerini o kimselerden ayırma. ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sabah akşam Rablerinin rızasını dileyerek O'na yalvaranlarla beraber sen de sebat edip diren. Dünya hayatının güzelliklerini isteyerek gözlerini o kimselerden ayırma. Bizi anmasını kendisine unutturduğumuz ve işinde aşırı giderek hevesine uyan kimseye uyma.",
+      "contextual_meaning": "Fiziksel tutma çapası (`وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم` `18:28`): Geçişli emirle 'benliğini onların yanında sımsıkı tut, gözlerin öteye taşmasın (`وَلَا تَعْدُ عَيْنَاكَ`)' uyarısı."
+    },
+    {
+      "surah": 18,
+      "ayah": 67,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:67",
+      "word_position": 6,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "O: \"Sen doğrusu benim yaptıklarıma dayanamazsın, bilgice kavrayamadığın bir şeye nasıl dayanabilirsin?\" dedi.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O: \"Sen doğrusu benim yaptıklarıma dayanamazsın, bilgice kavrayamadığın bir şeye nasıl dayanabilirsin?\" dedi.",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 68,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:68",
+      "word_position": 2,
+      "target_word_uthmani": "تَصْبِرُ",
+      "target_word_rasm": "تصبر",
+      "target_word_literal_irab": "Nasıl dayanabilirsin (`تَصْبِرُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"İnşallah sebat edip direndiğimi göreceksin, sana hiçbir işte baş kaldırmayacağım\" dedi.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"İnşallah sebat edip direndiğimi göreceksin, sana hiçbir işte baş kaldırmayacağım\" dedi.",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 69,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:69",
+      "word_position": 6,
+      "target_word_uthmani": "صَابِرًا",
+      "target_word_rasm": "صابرا",
+      "target_word_literal_irab": "Beni sebatkâr ve dirençli olarak (`صَابِرًا`, tekil nekre ism-i fâil mansûb)",
+      "context_snippet_arabic": "إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ",
+      "context_snippet_turkish_tabula_rasa": "O da: \"O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın\" dedi.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O da: \"O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın\" dedi.",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 72,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:72",
+      "word_position": 8,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "Musa'ya: \"Ben sana yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya: \"Ben sana yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 75,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:75",
+      "word_position": 9,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "O: \"Ben sana, yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O: \"Ben sana, yaptığım işlere dayanamazsın demedim mi?\" dedi.",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 78,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:78",
+      "word_position": 12,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "O şöyle söyledi: \"İşte bu, seninle benim ayrılmamızı gerektiriyor; dayanamadığın işlerin yorumunu sana anlatacağım\"",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ هَٰذَا فِرَاقُ بَيْنِى وَبَيْنِكَ سَأُنَبِّئُكَ بِتَأْوِيلِ مَا لَمْ تَسْتَطِع عَّلَيْهِ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O şöyle söyledi: \"İşte bu, seninle benim ayrılmamızı gerektiriyor; dayanamadığın işlerin yorumunu sana anlatacağım\"",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 82,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:82",
+      "word_position": 35,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+      "context_snippet_turkish_tabula_rasa": "... Ben bunları kendiliğimden yapmadım. İşte dayanamadığın işlerin içyüzleri budur. \"",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Duvar ise, şehirde iki yetim erkek çocuğa aitti. Duvarın altında onların bir hazinesi vardı; babaları da iyi bir kimseydi. Rabbin onların erginlik çağına ulaşmasını ve Rabbinden bir rahmet olarak hazinelerini çıkarmalarını istedi. Ben bunları kendiliğimden yapmadım. İşte dayanamadığın işlerin içyüzleri budur.\"",
+      "contextual_meaning": "Bilgi olgunlaşana dek iradeyi tutma (`18:67-82`): Bilgice kuşatılmamış olayların içyüzü açıklanana kadar acele tepkiyi kontrol altında tutabilme sınaması."
+    },
+    {
+      "surah": 19,
+      "ayah": 65,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:65",
+      "word_position": 7,
+      "target_word_uthmani": "وَٱصْطَبِرْ",
+      "target_word_rasm": "وٱصطبر",
+      "target_word_literal_irab": "Bilinçli çabayla sebatla kenetlen (`وَٱصْطَبِرْ`, VIII. bab `ت -> ط` kalbli emir 2. tekil eril)",
+      "context_snippet_arabic": "وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ هَلْ تَعْلَمُ",
+      "context_snippet_turkish_tabula_rasa": "O, göklerin, yerin ve ikisi arasında bulunanların Rabbidir. Öyleyse Ona kulluk ve yönelişte sebatlı ve dirençli ol. Hiç O'na benzeyen bir şey bilir misin?",
+      "morphology": {
+        "lemma": "{SoTabiro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{SoTabiro|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَٱعْبُدْهُ وَٱصْطَبِرْ لِعِبَٰدَتِهِۦ هَلْ تَعْلَمُ لَهُۥ سَمِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "O, göklerin, yerin ve ikisi arasında bulunanların Rabbidir. Öyleyse Ona kulluk ve yönelişte sebatlı ve dirençli ol. Hiç O'na benzeyen bir şey bilir misin?",
+      "contextual_meaning": "VIII. bab `ت -> ط` kalbi (`وَٱصْطَبِرْ` `19:65`, `20:132`, `54:27`): Yöneliş bağı ve gözetim sorumluluğunda ekstra irade ve çaba yüklenerek sebatla kenetlenmek."
+    },
+    {
+      "surah": 20,
+      "ayah": 130,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:130",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların dediklerine sebat edip diren; güneşin doğmasından ve batmasından önce Rabbini hamd ile tesbih et; gece saatlerinde ve gündüzleri de tesbih et ki Rabbinin rızasına eresin.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 20,
+      "ayah": 132,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:132",
+      "word_position": 4,
+      "target_word_uthmani": "وَٱصْطَبِرْ",
+      "target_word_rasm": "وٱصطبر",
+      "target_word_literal_irab": "Bilinçli çabayla sebatla kenetlen (`وَٱصْطَبِرْ`, VIII. bab `ت -> ط` kalbli emir 2. tekil eril)",
+      "context_snippet_arabic": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ",
+      "context_snippet_turkish_tabula_rasa": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. ...",
+      "morphology": {
+        "lemma": "{SoTabiro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{SoTabiro|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "contextual_meaning": "VIII. bab `ت -> ط` kalbi (`وَٱصْطَبِرْ` `19:65`, `20:132`, `54:27`): Yöneliş bağı ve gözetim sorumluluğunda ekstra irade ve çaba yüklenerek sebatla kenetlenmek."
+    },
+    {
+      "surah": 21,
+      "ayah": 85,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:85",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "ٱلْكِفْلِ كُلٌّ مِّنَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "İsmail, İdris ve Zülkifl hakkında anlattığımızı da an; onların her biri sebat edip direnenlerdendi.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِسْمَٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ كُلٌّ مِّنَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsmail, İdris ve Zülkifl hakkında anlattığımızı da an; onların her biri sebat edip direnenlerdendi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 22,
+      "ayah": 35,
+      "surah_name": "Hac",
+      "ayah_ref": "22:35",
+      "word_position": 7,
+      "target_word_uthmani": "وَٱلصَّٰبِرِينَ",
+      "target_word_rasm": "وٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmet için, Allah'ın kendilerine rızk olarak verdiği yakınlaşma sunusu hayvanların üzerlerine O'nun adını anarak yakınlaşma sunusu kesmeyi meşru kıldık. Sizin sığınak merciiniz tek bir sığınak mercii (ilâh)'dır, O'na teslim olun. Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 23,
+      "ayah": 111,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:111",
+      "word_position": 5,
+      "target_word_uthmani": "صَبَرُوٓا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara hep gülüyordunuz. sebat edip direnmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır\" der.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: \"Rabbimiz! güvene erdik, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin\" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. sebat edip direnmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır\" der.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 25,
+      "ayah": 20,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:20",
+      "word_position": 17,
+      "target_word_uthmani": "أَتَصْبِرُونَ",
+      "target_word_rasm": "أتصبرون",
+      "target_word_literal_irab": "Dayanıp direnecek misiniz (`أَتَصْبِرُونَ`, I. bab soru muzârisi 2. çoğul)",
+      "context_snippet_arabic": "بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "... Ey insanlar! sebat edip direnir misiniz diye sizi birbirinizle sınarız. Rabbin her şeyi görür.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce gönderdiğimiz bütün elçiler de, şüphesiz, yemek yerler, sokaklarda gezerlerdi. Ey insanlar! sebat edip direnir misiniz diye sizi birbirinizle sınarız. Rabbin her şeyi görür.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 25,
+      "ayah": 42,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:42",
+      "word_position": 8,
+      "target_word_uthmani": "صَبَرْنَا",
+      "target_word_rasm": "صبرنا",
+      "target_word_literal_irab": "Dirensek de / ilahlarımız üzerinde direndik (`صَبَرْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا وَسَوْفَ يَعْلَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"sahte sığınaklarımız üzerinde direnmeseydik, doğrusu neredeyse bizi onlardan uzaklaştıracaktı\" derler. Azabı gördükleri zaman, kimin yolunun sapık olduğunu bileceklerdir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|1P"
+      },
+      "ayah_text_arabic_full": "إِن كَادَ لَيُضِلُّنَا عَنْ ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ ٱلْعَذَابَ مَنْ أَضَلُّ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"sahte sığınaklarımız üzerinde direnmeseydik, doğrusu neredeyse bizi onlardan uzaklaştıracaktı\" derler. Azabı gördükleri zaman, kimin yolunun sapık olduğunu bileceklerdir.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 25,
+      "ayah": 75,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:75",
+      "word_position": 5,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً",
+      "context_snippet_turkish_tabula_rasa": "İşte onlar, sebat edip direndiklerinden ötürü esenlik bahçesinin en yüksek dereceleriyle mükafatlandırılırlar. Orada esenlik ve dirlik dilekleriyle karşılanırlar.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَٰمًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlar, sebat edip direndiklerinden ötürü esenlik bahçesinin en yüksek dereceleriyle mükafatlandırılırlar. Orada esenlik ve dirlik dilekleriyle karşılanırlar.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 54,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:54",
+      "word_position": 6,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ",
+      "context_snippet_turkish_tabula_rasa": "İşte onlara, sebat ve dirençlerinden dolayı, ecirleri iki defa verilir; onlar kötülüğü iyilikle savarlar, kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlara, sebat ve dirençlerinden dolayı, ecirleri iki defa verilir; onlar kötülüğü iyilikle savarlar, kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 80,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:80",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلصَّٰبِرُونَ",
+      "target_word_rasm": "ٱلصبرون",
+      "target_word_literal_irab": "Ancak sebat edip direnenler (`ٱلصَّٰبِرُونَ`, çoğul ism-i fâil merfû)",
+      "context_snippet_arabic": "وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّٰبِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın mükafatı, güvene erip yararlı iş işleyenler için daha iyidir. Ona da ancak sebat edip direnenler kavuşabilir\" demişlerdi.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌ لِّمَنْ ءَامَنَ وَعَمِلَ صَٰلِحًا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّٰبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine ilim verilmiş olanlar ise: \"Size yazıklar olsun; Allah'ın mükafatı, güvene erip yararlı iş işleyenler için daha iyidir. Ona da ancak sebat edip direnenler kavuşabilir\" demişlerdi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 29,
+      "ayah": 59,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:59",
+      "word_position": 2,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... sebat edip direnerek, Rablerine güvenerek iş görenlerin ecri ne güzeldir!",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı iş işleyenleri, içlerinden ırmaklar akan, içinde temelli kalacakları esenlik bahçesindeki köşklere yerleştiririz. sebat edip direnerek, Rablerine güvenerek iş görenlerin ecri ne güzeldir!",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 30,
+      "ayah": 60,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:60",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren ki, Allah'ın sözü şüphesiz gerçektir. Kesin olarak güven duy seni hafife almasınlar.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren ki, Allah'ın sözü şüphesiz gerçektir. Kesin olarak güven duy seni hafife almasınlar.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 31,
+      "ayah": 17,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:17",
+      "word_position": 9,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey oğulcuğum! irtibat bağını kıl, uygun olanı buyurup fenalığı önle, başına gelene sebat edip diren; doğrusu bunlar, azmedilmeğe değer işlerdir.\"",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey oğulcuğum! irtibat bağını kıl, uygun olanı buyurup fenalığı önle, başına gelene sebat edip diren; doğrusu bunlar, azmedilmeğe değer işlerdir.\"",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 31,
+      "ayah": 31,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:31",
+      "word_position": 18,
+      "target_word_uthmani": "صَبَّارٍ",
+      "target_word_rasm": "صبار",
+      "target_word_literal_irab": "Zorlukta çok dirençli olan herkes (`صَبَّارٍ`, mübalağa sıfatı nekre mecrûr)",
+      "context_snippet_arabic": "ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlarda, pek sebatlı ve dirençli ve çok nimetin değerini bilip açığa vuran kimselerin hepsine dersler vardır.",
+      "morphology": {
+        "lemma": "Sab~aAr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Sab~aAr|ROOT:Sbr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَٰتِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemilerin denizde Allah'ın lütfuyla yürüdüğünü görmez misin? Allah böylece size varlığının delillerini gösterir. Bunlarda, pek sebatlı ve dirençli ve çok nimetin değerini bilip açığa vuran kimselerin hepsine dersler vardır.",
+      "contextual_meaning": "Çift kutuplu denge sıfatı (`لِكُلِّ صَبَّارٍ شَكُورٍ` `14:5`, `31:31`, `34:19`, `42:33`): Darlıkta sarsılmayıp çok dirençli kalan ve genişlikte nimetin değerini çok açığa vuran kimse."
+    },
+    {
+      "surah": 32,
+      "ayah": 24,
+      "surah_name": "Secde",
+      "ayah_ref": "32:24",
+      "word_position": 7,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ وَكَانُوا۟ بِـَٔايَٰتِنَا يُوقِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip direnerek ayetlerimize kesin olarak güven duy ötürü, aralarından, onları buyruğumuzla doğru yola götüren önderler yaptık.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ وَكَانُوا۟ بِـَٔايَٰتِنَا يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip direnerek ayetlerimize kesin olarak güven duy ötürü, aralarından, onları buyruğumuzla doğru yola götüren önderler yaptık.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 33,
+      "ayah": 35,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:35",
+      "word_position": 10,
+      "target_word_uthmani": "وَٱلصَّٰبِرِينَ",
+      "target_word_rasm": "وٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 33,
+      "ayah": 35,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:35",
+      "word_position": 11,
+      "target_word_uthmani": "وَٱلصَّٰبِرَٰتِ",
+      "target_word_rasm": "وٱلصبرت",
+      "target_word_literal_irab": "Sebat ve direnç sahibi kadınlar (`وَٱلصَّٰبِرَٰتِ`, dişil çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "morphology": {
+        "lemma": "S~a`bira`t",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:S~a`bira`t|ROOT:Sbr|FP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 34,
+      "ayah": 19,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:19",
+      "word_position": 18,
+      "target_word_uthmani": "صَبَّارٍ",
+      "target_word_rasm": "صبار",
+      "target_word_literal_irab": "Zorlukta çok dirençli olan herkes (`صَبَّارٍ`, mübalağa sıfatı nekre mecrûr)",
+      "context_snippet_arabic": "ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu bunlarda, pek sebat edip direnen ve çok nimetin değerini bilip açığa vuran kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "Sab~aAr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Sab~aAr|ROOT:Sbr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَقَالُوا۟ رَبَّنَا بَٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَٰهُمْ أَحَادِيثَ وَمَزَّقْنَٰهُمْ كُلَّ مُمَزَّقٍ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama onlar: \"Rabbimiz! Yolculuklarımızın mesafesini uzak kıl\" deyip kendilerine yazık ettiler. Biz de onları efsane yapıverdik, darmadağın ettik. Doğrusu bunlarda, pek sebat edip direnen ve çok nimetin değerini bilip açığa vuran kimseler için dersler vardır.",
+      "contextual_meaning": "Çift kutuplu denge sıfatı (`لِكُلِّ صَبَّارٍ شَكُورٍ` `14:5`, `31:31`, `34:19`, `42:33`): Darlıkta sarsılmayıp çok dirençli kalan ve genişlikte nimetin değerini çok açığa vuran kimse."
+    },
+    {
+      "surah": 37,
+      "ayah": 102,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:102",
+      "word_position": 26,
+      "target_word_uthmani": "ٱلصَّٰبِرِينَ",
+      "target_word_rasm": "ٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenlerle beraber / onlar için (`ٱلصَّٰبِرِينَ / لِّلصَّٰبِرِينَ`, çoğul ism-i fâil mecrûr)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuk kendisinin yanısıra yürümeye başlayınca: \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 38,
+      "ayah": 6,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:6",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱصْبِرُوا۟",
+      "target_word_rasm": "وٱصبروا",
+      "target_word_literal_irab": "Sebat edip direnin (`ٱصْبِرُوا۟ / فَٱصْبِرُوا۟ / وَٱصْبِرُوٓا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Yürüyün, sahte sığınaklarınıza bağlılıkta direnin, sizden istenen şüphesiz budur. Başka yaşam sisteminde de bunu işitmedik; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ إِنَّ هَٰذَا لَشَىْءٌ يُرَادُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan ileri gelenler: \"Yürüyün, sahte sığınaklarınıza bağlılıkta direnin, sizden istenen şüphesiz budur. Başka yaşam sisteminde de bunu işitmedik; bu ancak bir uydurmadır. Kuran, aramızda ona mı indirilmeliydi?\" dediler. Hayır, bunlar Kuran'ımızdan şüphededirler. Hayır, azabımızı henüz tatmamışlardır.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 38,
+      "ayah": 17,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:17",
+      "word_position": 1,
+      "target_word_uthmani": "ٱصْبِرْ",
+      "target_word_rasm": "ٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "ٱصْبِرْ عَلَىٰ مَا يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların söylediklerine sebat edip diren; güçlü kulumuz Davud'u an; o, daima Allah'a yönelirdi.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "ٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱذْكُرْ عَبْدَنَا دَاوُۥدَ ذَا ٱلْأَيْدِ إِنَّهُۥٓ أَوَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların söylediklerine sebat edip diren; güçlü kulumuz Davud'u an; o, daima Allah'a yönelirdi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 38,
+      "ayah": 44,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:44",
+      "word_position": 10,
+      "target_word_uthmani": "صَابِرًا",
+      "target_word_rasm": "صابرا",
+      "target_word_literal_irab": "Beni sebatkâr ve dirençli olarak (`صَابِرًا`, tekil nekre ism-i fâil mansûb)",
+      "context_snippet_arabic": "تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ ٱلْعَبْدُ إِنَّهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Eyyub! Eline bir demet sap alıp onunla vur, bağlayıcı ahdini bozma\" demiştik. Doğrusu Biz onu sebatlı ve dirençli bulmuştuk. Ne iyi kuldu, daima Allah'a yönelirdi.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ ٱلْعَبْدُ إِنَّهُۥٓ أَوَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Eyyub! Eline bir demet sap alıp onunla vur, bağlayıcı ahdini bozma\" demiştik. Doğrusu Biz onu sebatlı ve dirençli bulmuştuk. Ne iyi kuldu, daima Allah'a yönelirdi.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 39,
+      "ayah": 10,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:10",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلصَّٰبِرُونَ",
+      "target_word_rasm": "ٱلصبرون",
+      "target_word_literal_irab": "Ancak sebat edip direnenler (`ٱلصَّٰبِرُونَ`, çoğul ism-i fâil merfû)",
+      "context_snippet_arabic": "وَٰسِعَةٌ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın yarattığı yeryüzü geniştir. Yalnız sebat edip direnenlere, ecirleri sonsuz olarak ödenecektir. \"",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle de: \"Ey güvene eren kullarım! Rabbinize karşı gelmekten sakının; bu dünyada iyilik yapanlara iyilik vardır. Allah'ın yarattığı yeryüzü geniştir. Yalnız sebat edip direnenlere, ecirleri sonsuz olarak ödenecektir.\"",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 40,
+      "ayah": 55,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:55",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, Allah'ın verdiği söz şüphesiz gerçektir. Suçunun bağışlanmasını dile; Rabbini akşam, sabah, överek tesbih et.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱسْتَغْفِرْ لِذَنۢبِكَ وَسَبِّحْ بِحَمْدِ رَبِّكَ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, Allah'ın verdiği söz şüphesiz gerçektir. Suçunun bağışlanmasını dile; Rabbini akşam, sabah, överek tesbih et.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 40,
+      "ayah": 77,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:77",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren; şüphesiz Allah'ın verdiği söz gerçektir. ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren; şüphesiz Allah'ın verdiği söz gerçektir. Onlara söz verdiğimiz azabın bir kısmını sana gösteririz veya seni öldürürüz, nasıl olsa onların dönüşü Bizedir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 41,
+      "ayah": 24,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:24",
+      "word_position": 2,
+      "target_word_uthmani": "يَصْبِرُوا۟",
+      "target_word_rasm": "يصبروا",
+      "target_word_literal_irab": "Eğer direnirlerse (`يَصْبِرُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ مَثْوًى لَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "İster sebat edip dirensinler ister etmesinler, onların durağı ateştir. Hoş tutulmalarını isteseler de artık hoş tutulmazlar.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَإِن يَصْبِرُوا۟ فَٱلنَّارُ مَثْوًى لَّهُمْ وَإِن يَسْتَعْتِبُوا۟ فَمَا هُم مِّنَ ٱلْمُعْتَبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İster sebat edip dirensinler ister etmesinler, onların durağı ateştir. Hoş tutulmalarını isteseler de artık hoş tutulmazlar.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 41,
+      "ayah": 35,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:35",
+      "word_position": 5,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Bu, ancak sebat edip direnenlere vergidir; bu ancak o büyük hazzı tadanlara vergidir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, ancak sebat edip direnenlere vergidir; bu ancak o büyük hazzı tadanlara vergidir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 42,
+      "ayah": 33,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:33",
+      "word_position": 14,
+      "target_word_uthmani": "صَبَّارٍ",
+      "target_word_rasm": "صبار",
+      "target_word_literal_irab": "Zorlukta çok dirençli olan herkes (`صَبَّارٍ`, mübalağa sıfatı nekre mecrûr)",
+      "context_snippet_arabic": "ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "context_snippet_turkish_tabula_rasa": "... Bunlarda, sebatlı ve dirençli olan ve çok nimetin değerini bilip açığa vuran kimseler için deliller vardır.",
+      "morphology": {
+        "lemma": "Sab~aAr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:Sab~aAr|ROOT:Sbr|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "O, dilerse rüzgarı durdurur, yelkenle giden gemiler o zaman denizin yüzünde durakalır. Bunlarda, sebatlı ve dirençli olan ve çok nimetin değerini bilip açığa vuran kimseler için deliller vardır.",
+      "contextual_meaning": "Çift kutuplu denge sıfatı (`لِكُلِّ صَبَّارٍ شَكُورٍ` `14:5`, `31:31`, `34:19`, `42:33`): Darlıkta sarsılmayıp çok dirençli kalan ve genişlikte nimetin değerini çok açığa vuran kimse."
+    },
+    {
+      "surah": 42,
+      "ayah": 43,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:43",
+      "word_position": 2,
+      "target_word_uthmani": "صَبَرَ",
+      "target_word_rasm": "صبر",
+      "target_word_literal_irab": "Kim direnir ve bağışlarsa / onların direndiği gibi (`صَبَرَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Ama sebat edip direnerek bağışlayanın işi, işte bu, azmedilmeye değer işlerdendir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama sebat edip direnerek bağışlayanın işi, işte bu, azmedilmeye değer işlerdendir.",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 46,
+      "ayah": 35,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:35",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟",
+      "context_snippet_turkish_tabula_rasa": "elçilerden azim sahibi olanların sebat edip direndiği gibi sen de sebat edip diren; gerçeğin üzerini örtenler için acele etme; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ بَلَٰغٌ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçilerden azim sahibi olanların sebat edip direndiği gibi sen de sebat edip diren; gerçeğin üzerini örtenler için acele etme; onlar, kendilerine söz verileni gördükleri gün dünyada sadece gündüzün bir müddeti eğlendiklerini sanırlar. Bu bir bildiridir; yoldan çıkmış olanlardan başkası mı yok edilir?",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 46,
+      "ayah": 35,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:35",
+      "word_position": 3,
+      "target_word_uthmani": "صَبَرَ",
+      "target_word_rasm": "صبر",
+      "target_word_literal_irab": "Kim direnir ve bağışlarsa / onların direndiği gibi (`صَبَرَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "elçilerden azim sahibi olanların sebat edip direndiği gibi sen de sebat edip diren; gerçeğin üzerini örtenler için acele etme; ...",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ بَلَٰغٌ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçilerden azim sahibi olanların sebat edip direndiği gibi sen de sebat edip diren; gerçeğin üzerini örtenler için acele etme; onlar, kendilerine söz verileni gördükleri gün dünyada sadece gündüzün bir müddeti eğlendiklerini sanırlar. Bu bir bildiridir; yoldan çıkmış olanlardan başkası mı yok edilir?",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 47,
+      "ayah": 31,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:31",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱلصَّٰبِرِينَ",
+      "target_word_rasm": "وٱلصبرين",
+      "target_word_literal_irab": "Sebat edip direnenleri (`ٱلصَّٰبِرِينَ / وَٱلصَّٰبِرِينَ`, çoğul ism-i fâil mansûb)",
+      "context_snippet_arabic": "نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki sizi, içinizden cihada çıkanları ve sebat edip direnenleri meydana çıkarana ve haberlerinizi açıklayana kadar deneyeceğiz.",
+      "morphology": {
+        "lemma": "SaAbir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:SaAbir|ROOT:Sbr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki sizi, içinizden cihada çıkanları ve sebat edip direnenleri meydana çıkarana ve haberlerinizi açıklayana kadar deneyeceğiz.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 49,
+      "ayah": 5,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:5",
+      "word_position": 3,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlar, sen yanlarına çıkıncaya kadar sebat edip direnselerdi şüphesiz onlar için daha iyi olurdu. Allah bağışlayandır, merhamet edendir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَّهُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlar, sen yanlarına çıkıncaya kadar sebat edip direnselerdi şüphesiz onlar için daha iyi olurdu. Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 50,
+      "ayah": 39,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:39",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "Söylediklerine sebat edip diren; Rabbini, güneşin doğmasından önce ve batışından önce överek tesbih et.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Söylediklerine sebat edip diren; Rabbini, güneşin doğmasından önce ve batışından önce överek tesbih et.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 52,
+      "ayah": 16,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:16",
+      "word_position": 2,
+      "target_word_uthmani": "فَٱصْبِرُوٓا۟",
+      "target_word_rasm": "فٱصبروا",
+      "target_word_literal_irab": "Sebat edip direnin (`ٱصْبِرُوا۟ / فَٱصْبِرُوا۟ / وَٱصْبِرُوٓا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MP"
+      },
+      "ayah_text_arabic_full": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 52,
+      "ayah": 16,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:16",
+      "word_position": 5,
+      "target_word_uthmani": "تَصْبِرُوا۟",
+      "target_word_rasm": "تصبروا",
+      "target_word_literal_irab": "Direnirseniz / direnmeseniz de (`تَصْبِرُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ إِنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:Sabara|ROOT:Sbr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sebat edip direnseniz de sebat edip direnmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir.",
+      "contextual_meaning": "Nötr mekanik veya geç kalmış direnç (`2:175`, `14:21`, `25:42`, `38:6`, `41:24`, `52:16`): Ateş yolundaki pervasız cüret (`أَصْبَرَهُمْ عَلَى ٱلنَّارِ`), bâtılda ayak direme veya yıkım anında sızlanmakla farksızlaşan direniş."
+    },
+    {
+      "surah": 52,
+      "ayah": 48,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:48",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin hükmü yerine gelinceye kadar sebat edip diren; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et;",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin hükmü yerine gelinceye kadar sebat edip diren; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et;",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 54,
+      "ayah": 27,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:27",
+      "word_position": 7,
+      "target_word_uthmani": "وَٱصْطَبِرْ",
+      "target_word_rasm": "وٱصطبر",
+      "target_word_literal_irab": "Bilinçli çabayla sebatla kenetlen (`وَٱصْطَبِرْ`, VIII. bab `ت -> ط` kalbli emir 2. tekil eril)",
+      "context_snippet_arabic": "فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, onları denemek üzere dişi deveyi gönderen Biziz. Salih'e şöyle demiştik: \"Onları gözetle ve sebat edip diren;",
+      "morphology": {
+        "lemma": "{SoTabiro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{SoTabiro|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, onları denemek üzere dişi deveyi gönderen Biziz. Salih'e şöyle demiştik: \"Onları gözetle ve sebat edip diren;",
+      "contextual_meaning": "VIII. bab `ت -> ط` kalbi (`وَٱصْطَبِرْ` `19:65`, `20:132`, `54:27`): Yöneliş bağı ve gözetim sorumluluğunda ekstra irade ve çaba yüklenerek sebatla kenetlenmek."
+    },
+    {
+      "surah": 68,
+      "ayah": 48,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:48",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Sen Rabbinin hükmüne kadar sebat edip diren; balık sahibi (Yunus) gibi olma, o, pek üzgün olarak Rabbine seslenmişti.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen Rabbinin hükmüne kadar sebat edip diren; balık sahibi (Yunus) gibi olma, o, pek üzgün olarak Rabbine seslenmişti.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 70,
+      "ayah": 5,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:5",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Güzel güzel sebat edip diren;",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Güzel güzel sebat edip diren;",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 70,
+      "ayah": 5,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:5",
+      "word_position": 2,
+      "target_word_uthmani": "صَبْرًا",
+      "target_word_rasm": "صبرا",
+      "target_word_literal_irab": "Üstün direnç / dayanma gücü (`صَبْرًا`, tekil nekre masdar mansûb)",
+      "context_snippet_arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Güzel güzel sebat edip diren;",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Güzel güzel sebat edip diren;",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 73,
+      "ayah": 10,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:10",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱصْبِرْ",
+      "target_word_rasm": "وٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların söylediklerine sebat edip diren, yanlarından güzellikle ayrıl.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların söylediklerine sebat edip diren, yanlarından güzellikle ayrıl.",
+      "contextual_meaning": "Ahlakî üstünlük ve ölçülü irade (`صَبْرًا جَمِيلًا`, `وَلَمَن صَبَرَ وَغَفَرَ`, `فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ`): Kışkırtma ve öç alma baskısı karşısında güzellikle direnip bağışlayabilmek."
+    },
+    {
+      "surah": 74,
+      "ayah": 7,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:7",
+      "word_position": 2,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "وَلِرَبِّكَ فَٱصْبِرْ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin için sebat edip diren.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "وَلِرَبِّكَ فَٱصْبِرْ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin için sebat edip diren.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 76,
+      "ayah": 12,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:12",
+      "word_position": 3,
+      "target_word_uthmani": "صَبَرُوا۟",
+      "target_word_rasm": "صبروا",
+      "target_word_literal_irab": "Zorluğa göğüs gerip direndiler (`صَبَرُوا۟ / فَصَبَرُوا۟ / وَصَبَرُوٓا۟ / صَبَرُوٓا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "context_snippet_turkish_tabula_rasa": "sebat ve direnç karşılığı, esenlik bahçesi ve oradaki ipeklerdir.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:Sabara|ROOT:Sbr|3MP"
+      },
+      "ayah_text_arabic_full": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "sebat ve direnç karşılığı, esenlik bahçesi ve oradaki ipeklerdir.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 76,
+      "ayah": 24,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:24",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱصْبِرْ",
+      "target_word_rasm": "فٱصبر",
+      "target_word_literal_irab": "Sebat edip diren / benliğini tut (`ٱصْبِرْ / فَٱصْبِرْ / وَٱصْبِرْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin hükmüne kadar sebat edip diren; onların sapma ve ağır kusur işleyen ve gerçeğin üzerini örten olanlarına uyma.",
+      "morphology": {
+        "lemma": "Sabara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:Sabara|ROOT:Sbr|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin hükmüne kadar sebat edip diren; onların sapma ve ağır kusur işleyen ve gerçeğin üzerini örten olanlarına uyma.",
+      "contextual_meaning": "Zorluk, eksiklik, eziyet ve sınamalar karşısında dağılmayıp hedef ve hakikat üzerinde tutunmak, sonucunda sınırsız hak edişe (`39:10`) kavuşmak."
+    },
+    {
+      "surah": 90,
+      "ayah": 17,
+      "surah_name": "Beled",
+      "ayah_ref": "90:17",
+      "word_position": 7,
+      "target_word_uthmani": "بِٱلصَّبْرِ",
+      "target_word_rasm": "بٱلصبر",
+      "target_word_literal_irab": "Direnç ve sebat ile (`بِٱلصَّبْرِ`, marife masdar mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "context_snippet_turkish_tabula_rasa": "Sonra, güvene erip birbirlerine sebat ve direnç tavsiye edenlerden, merhametlilerden olmayı tavsiye edenlerden olmaktır.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|GEN"
+      },
+      "ayah_text_arabic_full": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra, güvene erip birbirlerine sebat ve direnç tavsiye edenlerden, merhametlilerden olmayı tavsiye edenlerden olmaktır.",
+      "contextual_meaning": "Toplumsal ve ruhsal direnç desteği (`بِٱلصَّبْرِ وَٱلصَّلَوٰةِ` / `تَوَاصَوْا۟ بِٱلصَّبْرِ`): Zorluklarda dayanışma ve sebat bilincini karşılıklı ayakta tutmak."
+    },
+    {
+      "surah": 103,
+      "ayah": 3,
+      "surah_name": "Asr",
+      "ayah_ref": "103:3",
+      "word_position": 9,
+      "target_word_uthmani": "بِٱلصَّبْرِ",
+      "target_word_rasm": "بٱلصبر",
+      "target_word_literal_irab": "Direnç ve sebat ile (`بِٱلصَّبْرِ`, marife masdar mecrûr)",
+      "context_snippet_arabic": "وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "context_snippet_turkish_tabula_rasa": "Ancak güvene erip yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sebatlı ve dirençli olmayı tavsiye edenler bunun dışındadır.",
+      "morphology": {
+        "lemma": "Sabor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sabor|ROOT:Sbr|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak güvene erip yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sebatlı ve dirençli olmayı tavsiye edenler bunun dışındadır.",
+      "contextual_meaning": "Toplumsal ve ruhsal direnç desteği (`بِٱلصَّبْرِ وَٱلصَّلَوٰةِ` / `تَوَاصَوْا۟ بِٱلصَّبْرِ`): Zorluklarda dayanışma ve sebat bilincini karşılıklı ayakta tutmak."
+    }
+  ]
+}

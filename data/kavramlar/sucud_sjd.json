@@ -1,0 +1,1903 @@
+{
+  "root": "س-ج-د",
+  "root_latin": "S-C-D",
+  "concept_name": "Sücûd (Boyun Eğme ve Koşulsuz Teslimiyet)",
+  "rank": null,
+  "total_occurrences": 92,
+  "unique_ayahs_count": 81,
+  "unified_core_mechanism": "Kibri, itaatsizliği ve dikleşmeyi (istikbârı) tamamen terk ederek; ontolojik, evrensel veya ahlaki bir otorite karşısında saygı ve mutlak teslimiyetle baş eğme, yere kapanma ve teslim olma mekanizması.",
+  "physical_core": "Alçalmak, eğilip başı öne doğru eğmek, boyun büküp mutlak teslimiyet göstermek. Devenin binilsin diye başını öne eğip çökmesine 'escada'l-ba'îr', rüzgarda yere doğru meyleden ağaca 'şecerun sâcid' denir.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Eğilmek, boyun bükmek ve alçalmak (hudû').",
+    "lisan_al_arab": "Yere kapanmak, alnı yere koymak, devenin biniciye boyun eğmesi.",
+    "ragib_mufredat": "İradeyi teslim etme, tevazu gösterme; melekler ve gök cisimleri için kozmik yasalara itaat.",
+    "arbitration_decision": "Kur'an'da A'râf 7:12 ve Bakara 2:34'te sücûdun zıddına \"istekbere\" (büyüklenmek, kibre kapılmak) konulmuştur. Bu, sücûdun salt fiziksel bir eğilme değil, benliği/kibri sıfırlayarak emre ve ilahi yasaya koşulsuz boyun eğme/teslim olma mekanizması olduğunu kanıtlar."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "sged / ܣܓܶܕ (yere kapanmak, hürmetle boyun eğmek, ibadet etmek)",
+    "sabaic": "s₁gd (Proto-Sami *s₁ ses yasasına uygun olarak; Geç Sebece ve Kuzey Arabistan yazıtlarında: saygıyla boyun eğmek, hürmet bildirmek)",
+    "philological_note": "Arapça س (s) sesi Proto-Sami *s₁ sesidir. Aramice sged ve Sebece s₁gd ile birebir ses ve anlam eşleşmesi içindedir. Anlam 'dikleşmenin ve kibrin zıddı olarak boyun büküp teslim olmak'tır."
+  },
+  "mesani_opposite": {
+    "key_ayahs": [
+      "2:34",
+      "7:12-13",
+      "32:15",
+      "16:49",
+      "41:37-38"
+    ],
+    "reverse_stress_test": "Kur'an'da 'اسْتَكْبَرَ' (istikbâr); gerçeğe, hakka ve ontolojik yasaya karşı küstahça dikleşmek, boyun eğmeyi reddedip büyüklenmektir (2:34, 7:12, 16:49). İstikbârın Kur'an'daki tüm kullanımlarının tam tersi alındığında; 'سَجَدَ' kökü kibrin tamamen sıfırlanmasını, hakikat ve ilahi yasa karşısında alçalarak baş eğmeyi ve mutlak teslimiyeti ifade eder. Bu iki kavram metinde daima birbirini dışlayan zıt kutuplardır.",
+    "roots": [
+      "ك-ب-ر (İstikbâr - Kibirle burnunu dikmek, dikleşmek, boyun eğmeyi reddetmek)"
+    ]
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "Rükû",
+      "Hudû / Huşû",
+      "Kunut",
+      "Secde"
+    ],
+    "mechanical_difference": "Rükû: Hakkı kabul edip öne doğru eğilmek, esnemek (incurvation) | Hudû / Huşû: İçsel saygı ve ürpertiyle sessizleşmek | Kunut: Sürekli ve kesintisiz itaatte sabit durmak | Secde: Kibrini tamamen sıfırlayarak yere kapanmak, otoriteye ve ontolojik yasaya mutlak boyun eğip teslim olmak",
+    "term_comparisons": {
+      "Rükû": "Hakkı kabul edip öne doğru eğilmek, esnemek (incurvation)",
+      "Hudû / Huşû": "İçsel saygı ve ürpertiyle sessizleşmek",
+      "Kunut": "Sürekli ve kesintisiz itaatte sabit durmak",
+      "Secde": "Kibrini tamamen sıfırlayarak yere kapanmak, otoriteye ve ontolojik yasaya mutlak boyun eğip teslim olmak"
+    }
+  },
+  "anchor_ayahs": [
+    "55:6 (Yıldızlar ve ağaçların ontolojik boyun eğişi)",
+    "12:100 (Yusuf'un ailesinin hürmet boyun eğişi)",
+    "17:107 (يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا / Çeneleri üstüne boyun büküp kapanmaları)"
+  ],
+  "grammar_and_branch_rules": "Yalnızca Form I (sajada + li-) fiili ve isim türevleriyle kullanılır. 'لـ' harf-i cerri teslimiyetin yöneltildiği otoriteyi belirler; kozmik varlıkların secde etmesi ontolojik yasalara koşulsuz itaati ifade eder.",
+  "derivatives": {
+    "سجد (Secede)": "Boyun eğdi, alçaldı, mutlak teslim oldu",
+    "ساجد / ساجدين (Sâcid / Sâcidîn)": "Küstahlaşmayıp boyun eğenler, teslimiyet gösterenler",
+    "سجود (Sucûd)": "Mutlak teslimiyet, baş eğme ve yere kapanma hali",
+    "مسجد / مساجد (Mescid / Mesâcid)": "Boyun eğilen, mutlak teslimiyetin ve tevazunun sergilendiği odak mekanları"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 34,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:34",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْجُدُوا۟",
+      "target_word_rasm": "ٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" demiştik, İblis müstesna hepsi boyun eğip teslim oldular, o ise kaçındı, büyüklük tasladı ve gerçeğin üzerini örtenlerden oldu.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" demiştik, İblis müstesna hepsi boyun eğip teslim oldular, o ise kaçındı, büyüklük tasladı ve gerçeğin üzerini örtenlerden oldu.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 2,
+      "ayah": 34,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:34",
+      "word_position": 6,
+      "target_word_uthmani": "فَسَجَدُوٓا۟",
+      "target_word_rasm": "فسجدوا",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" demiştik, İblis müstesna hepsi boyun eğip teslim oldular, o ise kaçındı, büyüklük tasladı ve gerçeğin üzerini örtenlerden oldu.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" demiştik, İblis müstesna hepsi boyun eğip teslim oldular, o ise kaçındı, büyüklük tasladı ve gerçeğin üzerini örtenlerden oldu.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 2,
+      "ayah": 58,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:58",
+      "word_position": 13,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ",
+      "context_snippet_turkish_tabula_rasa": "\"Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, boyun eğme ve teslimiyet ederek kapısından girin, \"bağışla!\" deyin, Biz de yanılmalarınızı bağışlarız, iyilere daha da artırırız\" demiştik.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, boyun eğme ve teslimiyet ederek kapısından girin, \"bağışla!\" deyin, Biz de yanılmalarınızı bağışlarız, iyilere daha da artırırız\" demiştik.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 2,
+      "ayah": 114,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:114",
+      "word_position": 5,
+      "target_word_uthmani": "مَسَٰجِدَ",
+      "target_word_rasm": "مسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeler...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeleri gerekir. Dünyada rezillik onlaradır, ahirette büyük azab da onlaradır.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 125,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:125",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلسُّجُودِ",
+      "target_word_rasm": "ٱلسجود",
+      "target_word_literal_irab": "Boyun eğiş ve teslim olma durumu (masdar)",
+      "context_snippet_arabic": "لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "... Evimi ziyaret edenler, kendini kulluk ve yönelişe verenler, tevazu ile öne eğilme ve boyun eğenler için temiz tutun diye İbrahim ve İsmail'e ahd verdik.",
+      "morphology": {
+        "lemma": "s~ujuwd",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:s~ujuwd|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kabeyi, insanlar için toplanma ve güven yeri kılmıştık. İbrahim'in makamını yöneliş ve sorumluluk bağı yeri edinin, dedik. Evimi ziyaret edenler, kendini kulluk ve yönelişe verenler, tevazu ile öne eğilme ve boyun eğenler için temiz tutun diye İbrahim ve İsmail'e ahd verdik.",
+      "contextual_meaning": "Tam bir boyun eğiş ve teslimiyet durumu."
+    },
+    {
+      "surah": 2,
+      "ayah": 144,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:144",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا",
+      "context_snippet_turkish_tabula_rasa": "... Hoşnud olacağın kıbleye seni elbette çevireceğiz. Artık yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir; bulunduğunuz yerde yüzlerinizi o yöne çevirin. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzünü göğe çevirip durduğunu görüyoruz. Hoşnud olacağın kıbleye seni elbette çevireceğiz. Artık yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir; bulunduğunuz yerde yüzlerinizi o yöne çevirin. Doğrusu Kitap verilenler, bunun Rab'lerinden bir gerçek olduğunu bilirler. Allah onların yaptıklarından gafil değildir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 149,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:149",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَإِنَّهُۥ لَلْحَقُّ",
+      "context_snippet_turkish_tabula_rasa": "Her nereden yola çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir, şüphesiz bu Rabbinden bir haktır. Allah, yaptıklarınızdan gafil değildir.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her nereden yola çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir, şüphesiz bu Rabbinden bir haktır. Allah, yaptıklarınızdan gafil değildir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 150,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:150",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا",
+      "context_snippet_turkish_tabula_rasa": "Her nereden çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir. İnsanların zulmedenlerinden başkalarının size karşı gösterecekleri bir hüccet olmaması için, her nerede olursanız, yüzlerinizi oranın semtine çevirin, bu hususta onlardan korkmayın. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her nereden çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir. İnsanların zulmedenlerinden başkalarının size karşı gösterecekleri bir hüccet olmaması için, her nerede olursanız, yüzlerinizi oranın semtine çevirin, bu hususta onlardan korkmayın. Benden korkun da size olan nimetimi tamamlayayım. Böylece doğru yolu bulursunuz.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 53,
+      "target_word_uthmani": "ٱلْمَسَٰجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 191,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:191",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "وَلَا تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... dokunulmaz teslimiyet odağı'ın yanında, onlar savaşmadıkça siz de onlarla savaşmayın. Sizinle savaşırlarsa onları öldürün. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ وَلَا تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ فِيهِ فَإِن قَٰتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları bulduğunuz yerde öldürün. Sizi çıkardıkları yerden siz de onları çıkarın. Fitne çıkarmak, adam öldürmekten daha kötüdür. dokunulmaz teslimiyet odağı'ın yanında, onlar savaşmadıkça siz de onlarla savaşmayın. Sizinle savaşırlarsa onları öldürün. gerçeğin üzerini örtenlerin cezası böyledir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 196,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:196",
+      "word_position": 65,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... Güven içinde olursanız, büyük yöneliş toplanmasına kadar umreden faydalanabilen kimseye kolayına gelen bir yakınlaşma sunusu kesmek, bulamayana, büyük yöneliş toplanması esnasında üç gün ve döndüğünüzde yedi gün, ki o tam on gündür öz denetim ve sakınma tutmak gerekir. Bu, ailesi dokunulmaz teslimiyet odağı'da oturmayan kimseler içindir. Allah'tan sakının ve Allah'ın cezasının şiddetli olacağını bilin.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Başladığınız büyük yöneliş toplanması ve umreyi Allah için tamamlayın. Alıkonursanız, kolayınıza gelen bir yakınlaşma sunusu gönderin. yakınlaşma sunusu, yerine ulaşıncaya kadar, başlarınızı tıraş etmeyin. İçinizde hasta olan veya başından rahatsız bulunan varsa fidye olarak ya öz denetim ve sakınma tutması, ya sadaka vermesi ya da yakınlaşma sunusu kesmesi gerekir. Güven içinde olursanız, büyük yöneliş toplanmasına kadar umreden faydalanabilen kimseye kolayına gelen bir yakınlaşma sunusu kesmek, bulamayana, büyük yöneliş toplanması esnasında üç gün ve döndüğünüzde yedi gün, ki o tam on gündür öz denetim ve sakınma tutmak gerekir. Bu, ailesi dokunulmaz teslimiyet odağı'da oturmayan kimseler içindir. Allah'tan sakının ve Allah'ın cezasının şiddetli olacağını bilin.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 17,
+      "target_word_uthmani": "وَٱلْمَسْجِدِ",
+      "target_word_rasm": "وٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. İşte yakıcı yıkım yurdu ehli onlardır, onlar orada temellidirler.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 3,
+      "ayah": 43,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:43",
+      "word_position": 4,
+      "target_word_uthmani": "وَٱسْجُدِى",
+      "target_word_rasm": "وٱسجدى",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Meryem! Rabbine gönülden boyun eğ, boyun eğip teslim ol, boyun bükenlerle birlikte tevazu ile öne eğilme et.\"",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2FS"
+      },
+      "ayah_text_arabic_full": "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Meryem! Rabbine gönülden boyun eğ, boyun eğip teslim ol, boyun bükenlerle birlikte tevazu ile öne eğilme et.\"",
+      "contextual_meaning": "Zihinsel ve kalbî teslimiyetin bedensel tevazu ve boyun eğişle somutlaşması."
+    },
+    {
+      "surah": 3,
+      "ayah": 113,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:113",
+      "word_position": 14,
+      "target_word_uthmani": "يَسْجُدُونَ",
+      "target_word_rasm": "يسجدون",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin hepsi bir değildir: Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 4,
+      "ayah": 102,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:102",
+      "word_position": 14,
+      "target_word_uthmani": "سَجَدُوا۟",
+      "target_word_rasm": "سجدوا",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; kılmayan öbür kısım gelsin, seninle beraber kılsınlar, tedbirli olsunlar, silahlarını alsınlar. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; kılmayan öbür kısım gelsin, seninle beraber kılsınlar, tedbirli olsunlar, silahlarını alsınlar. gerçeğin üzerini örtenler, size ansızın bir baskın vermek için, silah ve eşyanızdan ayrılmış bulunmanızı dilerler. Yağmurdan zarar görecekseniz veya hasta olursanız, silahlarınızı bırakmanıza engel yoktur, fakat dikkatli olun. Allah gerçeğin üzerini örtenlere şüphesiz ağır bir azab hazırlamıştır.",
+      "contextual_meaning": "Zihinsel ve kalbî teslimiyetin bedensel tevazu ve boyun eğişle somutlaşması."
+    },
+    {
+      "surah": 4,
+      "ayah": 154,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:154",
+      "word_position": 9,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Kapıdan boyun eğme ve teslimiyet ederek girin\" dedik, \"Cumartesileri aşırı gitmeyin\" dedik, onlardan sağlam bir söz aldık.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve \"Bize Allah'ı apaçık göster\" demişlerdi. Zulümlerinden ötürü onları yıldırım çarpmıştı. Belgeler kendilerine geldikten sonra da, buzağıyı sığınak mercii (ilâh) olarak benimsediler, fakat bunları affettik ve Musa'ya apaçık bir hüccet verdik, söz vermelerine karşılık Tur dağını üzerlerine kaldırdık ve onlara: \"Kapıdan boyun eğme ve teslimiyet ederek girin\" dedik, \"Cumartesileri aşırı gitmeyin\" dedik, onlardan sağlam bir söz aldık.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 34,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 7,
+      "ayah": 11,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:11",
+      "word_position": 8,
+      "target_word_uthmani": "ٱسْجُدُوا۟",
+      "target_word_rasm": "ٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, sizi yarattık, sonra şekil verdik, sonra kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" dedik; İblis'ten başka hepsi boyun eğip teslim oldu, o boyun eğenlerden olmadı.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, sizi yarattık, sonra şekil verdik, sonra kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" dedik; İblis'ten başka hepsi boyun eğip teslim oldu, o boyun eğenlerden olmadı.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 7,
+      "ayah": 11,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:11",
+      "word_position": 10,
+      "target_word_uthmani": "فَسَجَدُوٓا۟",
+      "target_word_rasm": "فسجدوا",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, sizi yarattık, sonra şekil verdik, sonra kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" dedik; İblis'ten başka hepsi boyun eğip teslim oldu, o boyun eğenlerden olmadı.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, sizi yarattık, sonra şekil verdik, sonra kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" dedik; İblis'ten başka hepsi boyun eğip teslim oldu, o boyun eğenlerden olmadı.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 7,
+      "ayah": 11,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:11",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلسَّٰجِدِينَ",
+      "target_word_rasm": "ٱلسجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, sizi yarattık, sonra şekil verdik, sonra kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" dedik; İblis'ten başka hepsi boyun eğip teslim oldu, o boyun eğenlerden olmadı.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, sizi yarattık, sonra şekil verdik, sonra kozmik görevlilere, \"Adem'e boyun eğip teslim olun\" dedik; İblis'ten başka hepsi boyun eğip teslim oldu, o boyun eğenlerden olmadı.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 7,
+      "ayah": 12,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:12",
+      "word_position": 5,
+      "target_word_uthmani": "تَسْجُدَ",
+      "target_word_rasm": "تسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, \"Sana emrettiğim halde, seni boyun eğmekten alıkoyan nedir?\" dedi, \"Beni ateşten onu çamurdan yarattın, ben ondan üstünüm\" cevabını verdi.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \"Sana emrettiğim halde, seni boyun eğmekten alıkoyan nedir?\" dedi, \"Beni ateşten onu çamurdan yarattın, ben ondan üstünüm\" cevabını verdi.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 7,
+      "ayah": 29,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:29",
+      "word_position": 9,
+      "target_word_uthmani": "مَسْجِدٍ",
+      "target_word_rasm": "مسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim adaleti emretti; her boyun eğme ve teslimiyet yerinde yüzünüzü O'na doğrultun; yaşam sisteminde samimi olarak O'na yalvarın. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ كَمَا بَدَأَكُمْ تَعُودُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Rabbim adaleti emretti; her boyun eğme ve teslimiyet yerinde yüzünüzü O'na doğrultun; yaşam sisteminde samimi olarak O'na yalvarın. Sizi yarattığı gibi yine O'na döneceksiniz.\"",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 7,
+      "ayah": 31,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:31",
+      "word_position": 7,
+      "target_word_uthmani": "مَسْجِدٍ",
+      "target_word_rasm": "مسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ey Ademoğulları! Her mescide güzel elbiselerinizi giyinerek gidin; yiyin için fakat israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Ademoğulları! Her mescide güzel elbiselerinizi giyinerek gidin; yiyin için fakat israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 7,
+      "ayah": 120,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:120",
+      "word_position": 3,
+      "target_word_uthmani": "سَٰجِدِينَ",
+      "target_word_rasm": "سجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sihirbazlar boyun eğmeye kapanıp, \"Alemlerin Rabbine, Musa ve Harun'un Rabbine güvene erdik\" dediler.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sihirbazlar boyun eğmeye kapanıp, \"Alemlerin Rabbine, Musa ve Harun'un Rabbine güvene erdik\" dediler.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 7,
+      "ayah": 161,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:161",
+      "word_position": 15,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Şu şehirde oturun, dilediğiniz gibi yiyip için, \"affet!\" deyin ve boyun eğme ve teslimiyet ederek kapısından girin; Biz de yanılmalarınızı bağışlarız. ...",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Şu şehirde oturun, dilediğiniz gibi yiyip için, \"affet!\" deyin ve boyun eğme ve teslimiyet ederek kapısından girin; Biz de yanılmalarınızı bağışlarız. İyi davrananlara daha da artıracağız\" denmişti.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 7,
+      "ayah": 206,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:206",
+      "word_position": 11,
+      "target_word_uthmani": "يَسْجُدُونَ",
+      "target_word_rasm": "يسجدون",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Rabbinin katında olanlar, O'na kulluk etmekten büyüklenmezler, O'nu tenzih ederler ve yalnız O'na boyun eğme ve teslimiyet ederler.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Rabbinin katında olanlar, O'na kulluk etmekten büyüklenmezler, O'nu tenzih ederler ve yalnız O'na boyun eğme ve teslimiyet ederler.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 8,
+      "ayah": 34,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:34",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Yoksa dokunulmaz teslimiyet odağı'a girmekten menederlerken Allah onlara niçin azab etmesin? Hem de O'nun dostu değiller; O'nun dostları ancak karşı gelmekten sakınanlardır. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa dokunulmaz teslimiyet odağı'a girmekten menederlerken Allah onlara niçin azab etmesin? Hem de O'nun dostu değiller; O'nun dostları ancak karşı gelmekten sakınanlardır. Fakat çoğu bunu bilmiyorlar.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 7,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:7",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟",
+      "context_snippet_turkish_tabula_rasa": "dokunulmaz teslimiyet odağı'ın yanında andlaştıklarınızın dışında, puta tapanların Allah katında ve elçiyi önünde nasıl bir andlaşmaları olabilir. Size doğru davrandıkça siz de onlara doğru davranın. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "dokunulmaz teslimiyet odağı'ın yanında andlaştıklarınızın dışında, puta tapanların Allah katında ve elçiyi önünde nasıl bir andlaşmaları olabilir. Size doğru davrandıkça siz de onlara doğru davranın. Allah, sözleşmelerini bozmaktan sakınanları sever.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 17,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:17",
+      "word_position": 6,
+      "target_word_uthmani": "مَسَٰجِدَ",
+      "target_word_rasm": "مسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَٰجِدَ ٱللَّهِ شَٰهِدِينَ عَلَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Puta tapanların kendilerinin gerçeğin üzerini örten olduklarını itiraf edip dururken Allah'ın mescidlerini onarmaları gerekmez. Onların işledikleri boşa gitmişt...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَٰجِدَ ٱللَّهِ شَٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلْكُفْرِ أُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ وَفِى ٱلنَّارِ هُمْ خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Puta tapanların kendilerinin gerçeğin üzerini örten olduklarını itiraf edip dururken Allah'ın mescidlerini onarmaları gerekmez. Onların işledikleri boşa gitmiştir, yakıcı yıkım yurdunda temelli kalacaklardır.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 18,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:18",
+      "word_position": 3,
+      "target_word_uthmani": "مَسَٰجِدَ",
+      "target_word_rasm": "مسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın mescidlerini sadece, Allah'a ve ahiret gününe güvene eren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ancak Allah'tan korkan kimsel...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın mescidlerini sadece, Allah'a ve ahiret gününe güvene eren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ancak Allah'tan korkan kimseler onarır. İşte onlar doğru yolda bulunanlardan olabilirler.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 19,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:19",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanmasına gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret gününe güven duy, Allah yolunda cihat edenle bir mi tuttunuz? Allah ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَجَٰهَدَ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanmasına gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret gününe güven duy, Allah yolunda cihat edenle bir mi tuttunuz? Allah katında bir olmazlar; Allah zulmeden milleti doğru yola eriştirmez.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 28,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:28",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْمَسْجِدَ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. Allah şüphesiz bilendir, hakimdir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 107,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:107",
+      "word_position": 3,
+      "target_word_uthmani": "مَسْجِدًا",
+      "target_word_rasm": "مسجدا",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا",
+      "context_snippet_turkish_tabula_rasa": "Zarar vermek, gerçeğin üzerini örtmek, güvene erenlerin arasını ayırmak, Allah ve elçi'ine karşı savaşanlara daha önceden gözcülük yapmak üzere bir boyun eğme ve teslimiyet odağı kurup: \"Biz sadece iyilik yapmak istedik\" diye bağlayıcı ahit edenlerin yalancı olduklarına şüphesiz ki Allah şahiddir.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zarar vermek, gerçeğin üzerini örtmek, güvene erenlerin arasını ayırmak, Allah ve elçi'ine karşı savaşanlara daha önceden gözcülük yapmak üzere bir boyun eğme ve teslimiyet odağı kurup: \"Biz sadece iyilik yapmak istedik\" diye bağlayıcı ahit edenlerin yalancı olduklarına şüphesiz ki Allah şahiddir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 108,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:108",
+      "word_position": 5,
+      "target_word_uthmani": "لَّمَسْجِدٌ",
+      "target_word_rasm": "لمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "تَقُمْ فِيهِ أَبَدًا لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "O mescide hiç girme! İlk gününden beri Allah'a karşı gelmekten sakınmak için kurulan mescidde bulunman daha uygundur. Orada, arınmak isteyen insanlar vardır. Al...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَا تَقُمْ فِيهِ أَبَدًا لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O mescide hiç girme! İlk gününden beri Allah'a karşı gelmekten sakınmak için kurulan mescidde bulunman daha uygundur. Orada, arınmak isteyen insanlar vardır. Allah, arınmak isteyenleri sever.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 9,
+      "ayah": 112,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:112",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلسَّٰجِدُونَ",
+      "target_word_rasm": "ٱلسجدون",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلْءَامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a tevbe eden, kullukta bulunan, O'nu öven, O'nun uğrunda gezen, tevazu ile öne eğilme ve boyun eğme ve teslimiyet eden, uygun olanı buyurup fenalığı yasak eden ve Allah'ın yasalarını koruyan güvene erenlere de müjdele.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلتَّٰٓئِبُونَ ٱلْعَٰبِدُونَ ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلْءَامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَٰفِظُونَ لِحُدُودِ ٱللَّهِ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a tevbe eden, kullukta bulunan, O'nu öven, O'nun uğrunda gezen, tevazu ile öne eğilme ve boyun eğme ve teslimiyet eden, uygun olanı buyurup fenalığı yasak eden ve Allah'ın yasalarını koruyan güvene erenlere de müjdele.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 12,
+      "ayah": 4,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:4",
+      "word_position": 15,
+      "target_word_uthmani": "سَٰجِدِينَ",
+      "target_word_rasm": "سجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf babasına: \"Babacığım! \"Rüyamda onbir yıldız, güneş ve ayın bana boyun eğme ve teslimiyet ettiklerini gördüm\" demişti.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf babasına: \"Babacığım! \"Rüyamda onbir yıldız, güneş ve ayın bana boyun eğme ve teslimiyet ettiklerini gördüm\" demişti.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 12,
+      "ayah": 100,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:100",
+      "word_position": 7,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: ...",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: \"Babacığım! İşte bu, vaktiyle gördüğüm rüyanın çıkışıdır; Rabbim onu gerçekleştirdi. saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra, beni hapisten çıkaran, sizi çölden getiren Rabbim bana pek çok iyilikte bulundu. Doğrusu Rabbim dilediğine lütufkardır, O şüphesiz bilendir, Hakim'dir\" dedi.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 13,
+      "ayah": 15,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:15",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْجُدُ",
+      "target_word_rasm": "يسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Yerde ve göklerdeki kimseler de, gölgeleri de, sabah akşam, ister istemez Allah'a boyun eğme ve teslimiyet ederler.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَٰلُهُم بِٱلْغُدُوِّ وَٱلْءَاصَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerde ve göklerdeki kimseler de, gölgeleri de, sabah akşam, ister istemez Allah'a boyun eğme ve teslimiyet ederler.",
+      "contextual_meaning": "Göklerdeki ve yerdeki tüm varlıkların ve gölgelerinin kozmik nizama tam bir teslimiyetle boyun eğişi."
+    },
+    {
+      "surah": 15,
+      "ayah": 29,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:29",
+      "word_position": 9,
+      "target_word_uthmani": "سَٰجِدِينَ",
+      "target_word_rasm": "سجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Onu yapıp hayat verici özümden üflediğimde ona boyun eğip teslim olun\" demişti.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "'Rabbin kozmik görevlilere: \"Ben, balçıktan, işlenebilen kara topraktan bir insan yaratacağım. Onu yapıp hayat verici özümden üflediğimde ona boyun eğip teslim olun\" demişti.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 15,
+      "ayah": 30,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:30",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَجَدَ",
+      "target_word_rasm": "فسجد",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine, İblis'in dışında bütün kozmik görevliler hemen boyun eğip teslim oldular. O, boyun eğme ve teslimiyet edenlerle beraber olmaktan çekindi.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MS"
+      },
+      "ayah_text_arabic_full": "فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine, İblis'in dışında bütün kozmik görevliler hemen boyun eğip teslim oldular. O, boyun eğme ve teslimiyet edenlerle beraber olmaktan çekindi.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 15,
+      "ayah": 31,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:31",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلسَّٰجِدِينَ",
+      "target_word_rasm": "ٱلسجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine, İblis'in dışında bütün kozmik görevliler hemen boyun eğip teslim oldular. O, boyun eğme ve teslimiyet edenlerle beraber olmaktan çekindi.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَّآ إِبْلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine, İblis'in dışında bütün kozmik görevliler hemen boyun eğip teslim oldular. O, boyun eğme ve teslimiyet edenlerle beraber olmaktan çekindi.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 15,
+      "ayah": 32,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:32",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلسَّٰجِدِينَ",
+      "target_word_rasm": "ٱلسجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Ey İblis! boyun eğme ve teslimiyet edenlerle beraber olmaktan seni alıkoyan nedir?\" dedi.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey İblis! boyun eğme ve teslimiyet edenlerle beraber olmaktan seni alıkoyan nedir?\" dedi.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 15,
+      "ayah": 33,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:33",
+      "word_position": 4,
+      "target_word_uthmani": "لِّأَسْجُدَ",
+      "target_word_rasm": "لأسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن",
+      "context_snippet_turkish_tabula_rasa": "O: \"Balçıktan, işlenebilen kara topraktan yarattığın insana boyun eğme ve teslimiyet edemem\" dedi.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ",
+      "ayah_text_turkish_tabula_rasa_full": "O: \"Balçıktan, işlenebilen kara topraktan yarattığın insana boyun eğme ve teslimiyet edemem\" dedi.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 15,
+      "ayah": 98,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:98",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلسَّٰجِدِينَ",
+      "target_word_rasm": "ٱلسجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbini hamd ile an, boyun eğenlerden ol ve ölünceye kadar Rabbine kulluk et.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbini hamd ile an, boyun eğenlerden ol ve ölünceye kadar Rabbine kulluk et.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 16,
+      "ayah": 48,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:48",
+      "word_position": 14,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَٰخِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yarattığı şeylerin, gölgeleri sağa sola vurarak, Allah'a boyun eğerek boyun eğme ve teslimiyet etmekte olduklarını görmüyorlar mı?",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَىْءٍ يَتَفَيَّؤُا۟ ظِلَٰلُهُۥ عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَٰخِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yarattığı şeylerin, gölgeleri sağa sola vurarak, Allah'a boyun eğerek boyun eğme ve teslimiyet etmekte olduklarını görmüyorlar mı?",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 16,
+      "ayah": 49,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:49",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْجُدُ",
+      "target_word_rasm": "يسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde bulunan her canlı ve kozmik görevliler, büyüklük taslamaksızın Allah'a boyun eğme ve teslimiyet ederler.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍ وَٱلْمَلَٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde bulunan her canlı ve kozmik görevliler, büyüklük taslamaksızın Allah'a boyun eğme ve teslimiyet ederler.",
+      "contextual_meaning": "Göklerdeki ve yerdeki tüm varlıkların ve gölgelerinin kozmik nizama tam bir teslimiyetle boyun eğişi."
+    },
+    {
+      "surah": 17,
+      "ayah": 1,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:1",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ",
+      "context_snippet_turkish_tabula_rasa": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 17,
+      "ayah": 1,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:1",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا",
+      "context_snippet_turkish_tabula_rasa": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 17,
+      "ayah": 7,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:7",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْمَسْجِدَ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ",
+      "context_snippet_turkish_tabula_rasa": "... İki vaadden ikincisinin vakti gelince, yüzünüzü üzüntüye sokmaları, kötülük yapmaları, önceden boyun eğme ve teslimiyet odağı'e girdikleri gibi girmeleri, ele geçirdikleri yerleri harap etmeleri için onları tekrar göndereceğiz.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "İyilik ederseniz kendinize iyilik etmiş olursunuz. Kötülük ederseniz o da kendinizedir. İki vaadden ikincisinin vakti gelince, yüzünüzü üzüntüye sokmaları, kötülük yapmaları, önceden boyun eğme ve teslimiyet odağı'e girdikleri gibi girmeleri, ele geçirdikleri yerleri harap etmeleri için onları tekrar göndereceğiz.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 17,
+      "ayah": 61,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:61",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْجُدُوا۟",
+      "target_word_rasm": "ٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ",
+      "context_snippet_turkish_tabula_rasa": "... \"Adem'e boyun eğip teslim olun\" demiştik, İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o ise: \"çamurdan yarattığına mı boyun eğme ve teslimiyet edeceğim?\" demişti.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik, İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o ise: \"çamurdan yarattığına mı boyun eğme ve teslimiyet edeceğim?\" demişti.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 17,
+      "ayah": 61,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:61",
+      "word_position": 6,
+      "target_word_uthmani": "فَسَجَدُوٓا۟",
+      "target_word_rasm": "فسجدوا",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Adem'e boyun eğip teslim olun\" demiştik, İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o ise: \"çamurdan yarattığına mı boyun eğme ve teslimiyet edeceğim?\" demişti.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik, İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o ise: \"çamurdan yarattığına mı boyun eğme ve teslimiyet edeceğim?\" demişti.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 17,
+      "ayah": 61,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:61",
+      "word_position": 10,
+      "target_word_uthmani": "ءَأَسْجُدُ",
+      "target_word_rasm": "ءأسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Adem'e boyun eğip teslim olun\" demiştik, İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o ise: \"çamurdan yarattığına mı boyun eğme ve teslimiyet edeceğim?\" demişti.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik, İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o ise: \"çamurdan yarattığına mı boyun eğme ve teslimiyet edeceğim?\" demişti.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 17,
+      "ayah": 107,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:107",
+      "word_position": 18,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir\" derler.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir\" derler.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 18,
+      "ayah": 21,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:21",
+      "word_position": 32,
+      "target_word_uthmani": "مَّسْجِدًا",
+      "target_word_rasm": "مسجدا",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Onların mağaralarının çevresinde mutlaka bir boyun eğme ve teslimiyet odağı kuracağız\" dediler.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُوٓا۟ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَأَنَّ ٱلسَّاعَةَ لَا رَيْبَ فِيهَآ إِذْ يَتَنَٰزَعُونَ بَيْنَهُمْ أَمْرَهُمْ فَقَالُوا۟ ٱبْنُوا۟ عَلَيْهِم بُنْيَٰنًا رَّبُّهُمْ أَعْلَمُ بِهِمْ قَالَ ٱلَّذِينَ غَلَبُوا۟ عَلَىٰٓ أَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِم مَّسْجِدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece, Allah'ın sözünün gerçek olduğunu ve kıyametin kopmasından şüphe edilemeyeceğini bilmeleri için, insanların onları bulmalarını sağladık. Nitekim halk, bunların hakkında çekişip duruyor: \"Onların mağaralarının çevresine bir bina kurun\" diyorlardı. Oysa, Rableri onları çok iyi bilir. Tartışmayı kazananlar: \"Onların mağaralarının çevresinde mutlaka bir boyun eğme ve teslimiyet odağı kuracağız\" dediler.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 18,
+      "ayah": 50,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:50",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْجُدُوا۟",
+      "target_word_rasm": "ٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik. İblis'ten başka hepsi boyun eğme ve teslimiyet etmişti. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ بِئْسَ لِلظَّٰلِمِينَ بَدَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik. İblis'ten başka hepsi boyun eğme ve teslimiyet etmişti. O, görünmeyen bilinçli varlıklardan idi. Rabbinin buyruğu dışına çıktı. Ey insanoğulları! Siz Beni bırakıp onu ve soyunu dost mu ediniyorsunuz? Halbuki onlar size düşmandır. Kendilerine yazık edenler için bu ne kötü değişmedir!",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 18,
+      "ayah": 50,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:50",
+      "word_position": 6,
+      "target_word_uthmani": "فَسَجَدُوٓا۟",
+      "target_word_rasm": "فسجدوا",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik. İblis'ten başka hepsi boyun eğme ve teslimiyet etmişti. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ كَانَ مِنَ ٱلْجِنِّ فَفَسَقَ عَنْ أَمْرِ رَبِّهِۦٓ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوْلِيَآءَ مِن دُونِى وَهُمْ لَكُمْ عَدُوٌّۢ بِئْسَ لِلظَّٰلِمِينَ بَدَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevlilere: \"Adem'e boyun eğip teslim olun\" demiştik. İblis'ten başka hepsi boyun eğme ve teslimiyet etmişti. O, görünmeyen bilinçli varlıklardan idi. Rabbinin buyruğu dışına çıktı. Ey insanoğulları! Siz Beni bırakıp onu ve soyunu dost mu ediniyorsunuz? Halbuki onlar size düşmandır. Kendilerine yazık edenler için bu ne kötü değişmedir!",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 19,
+      "ayah": 58,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:58",
+      "word_position": 28,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا",
+      "context_snippet_turkish_tabula_rasa": "... Rahman'ın ayetleri onlara okunduğu zaman ağlayarak boyun eğmeye kapanırlardı.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّۦنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُ ٱلرَّحْمَٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar Allah'ın kendilerine nimetler sunduğu elçiler; Adem'in soyundan, Nuh ile beraber taşıdıklarımızdan; İbrahim ve İsmail'in neslinden ve doğru yola erdirdiğimizden, seçip beğendiklerimizdendirler. Rahman'ın ayetleri onlara okunduğu zaman ağlayarak boyun eğmeye kapanırlardı.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 20,
+      "ayah": 70,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:70",
+      "word_position": 3,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda sihirbazlar: \"Biz Musa ve Harun'un Rabbine güvene erdik\" deyip boyun eğip teslim oldular.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda sihirbazlar: \"Biz Musa ve Harun'un Rabbine güvene erdik\" deyip boyun eğip teslim oldular.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 20,
+      "ayah": 116,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:116",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْجُدُوا۟",
+      "target_word_rasm": "ٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi esenlik bahçesinden çıkarmasın, yoksa bedbaht olursun. Doğrusu esenlik bahçesinde ne acıkırsın, ne ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi esenlik bahçesinden çıkarmasın, yoksa bedbaht olursun. Doğrusu esenlik bahçesinde ne acıkırsın, ne de çıplak kalırsın; orada ne susarsın ne de güneşin sıcağında kalırsın\" dedik.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 20,
+      "ayah": 116,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:116",
+      "word_position": 6,
+      "target_word_uthmani": "فَسَجَدُوٓا۟",
+      "target_word_rasm": "فسجدوا",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi esenlik bahçesinden çıkarmasın, yoksa bedbaht olursun. Doğrusu esenlik bahçesinde ne acıkırsın, ne ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi esenlik bahçesinden çıkarmasın, yoksa bedbaht olursun. Doğrusu esenlik bahçesinde ne acıkırsın, ne de çıplak kalırsın; orada ne susarsın ne de güneşin sıcağında kalırsın\" dedik.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 22,
+      "ayah": 18,
+      "surah_name": "Hac",
+      "ayah_ref": "22:18",
+      "word_position": 5,
+      "target_word_uthmani": "يَسْجُدُ",
+      "target_word_rasm": "يسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olanların, güneş, ay, yıldızlar, dağlar, ağaçlar, hayvanların ve insanların birçoğunun Allah'a boyun eğme ve teslimiyet ettiklerini görmüyor musun? İnsanların birçoğu da azabı hak etmiştir. Allah'ın alçalttığı kimseyi yükseltebilecek yoktur. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olanların, güneş, ay, yıldızlar, dağlar, ağaçlar, hayvanların ve insanların birçoğunun Allah'a boyun eğme ve teslimiyet ettiklerini görmüyor musun? İnsanların birçoğu da azabı hak etmiştir. Allah'ın alçalttığı kimseyi yükseltebilecek yoktur. Doğrusu Allah ne dilerse yapar.",
+      "contextual_meaning": "Göklerdeki ve yerdeki tüm varlıkların ve gölgelerinin kozmik nizama tam bir teslimiyetle boyun eğişi."
+    },
+    {
+      "surah": 22,
+      "ayah": 25,
+      "surah_name": "Hac",
+      "ayah_ref": "22:25",
+      "word_position": 8,
+      "target_word_uthmani": "وَٱلْمَسْجِدِ",
+      "target_word_rasm": "وٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu gerçeğin üzerini örtenleri, Allah'ın yolundan, yerli ve yolcu bütün insanlar için eşit kılınan dokunulmaz teslimiyet odağı'dan alıkoyanları ve orada zulm ile yanlış yola saptırmak isteyeni, can yakıcı bir azaba uğratırız.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu gerçeğin üzerini örtenleri, Allah'ın yolundan, yerli ve yolcu bütün insanlar için eşit kılınan dokunulmaz teslimiyet odağı'dan alıkoyanları ve orada zulm ile yanlış yola saptırmak isteyeni, can yakıcı bir azaba uğratırız.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 22,
+      "ayah": 26,
+      "surah_name": "Hac",
+      "ayah_ref": "22:26",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلسُّجُودِ",
+      "target_word_rasm": "ٱلسجود",
+      "target_word_literal_irab": "Boyun eğiş ve teslim olma durumu (masdar)",
+      "context_snippet_arabic": "لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "... tavaf edenler, orada kıyama duranlar, boyun bükenler ve boyun eğmeye varanlar için Evimi temiz tut\" diye İbrahim'i Kabe'nin yerine yerleştirmiştik.",
+      "morphology": {
+        "lemma": "s~ujuwd",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:s~ujuwd|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bana hiçbir şeyi ortak koşma; tavaf edenler, orada kıyama duranlar, boyun bükenler ve boyun eğmeye varanlar için Evimi temiz tut\" diye İbrahim'i Kabe'nin yerine yerleştirmiştik.",
+      "contextual_meaning": "Tam bir boyun eğiş ve teslimiyet durumu."
+    },
+    {
+      "surah": 22,
+      "ayah": 40,
+      "surah_name": "Hac",
+      "ayah_ref": "22:40",
+      "word_position": 22,
+      "target_word_uthmani": "وَمَسَٰجِدُ",
+      "target_word_rasm": "ومسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ",
+      "context_snippet_turkish_tabula_rasa": "Onlar haksız yere ve \"Rabbimiz Allah'tır\" dediler diye yurtlarından çıkarılmışlardır. Allah insanların bir kısmını diğeriyle savmasaydı, manastırlar, kiliseler,...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar haksız yere ve \"Rabbimiz Allah'tır\" dediler diye yurtlarından çıkarılmışlardır. Allah insanların bir kısmını diğeriyle savmasaydı, manastırlar, kiliseler, havralar ve içinde Allah'ın adı çok anılan camiler yıkılıp giderdi. And olsun ki, Allah'a yardım edenlere O da yardım eder. Doğrusu Allah kuvvetlidir, güçlüdür.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 22,
+      "ayah": 77,
+      "surah_name": "Hac",
+      "ayah_ref": "22:77",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱسْجُدُوا۟",
+      "target_word_rasm": "وٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! boyun büküp esneyin, boyun eğmeye varın, Rabbiniz'e kulluk edin, iyilik yapın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! boyun büküp esneyin, boyun eğmeye varın, Rabbiniz'e kulluk edin, iyilik yapın ki saadete erişesiniz.",
+      "contextual_meaning": "Zihinsel ve kalbî teslimiyetin bedensel tevazu ve boyun eğişle somutlaşması."
+    },
+    {
+      "surah": 25,
+      "ayah": 60,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:60",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْجُدُوا۟",
+      "target_word_rasm": "ٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Onlara: \"Rahman'a boyun eğmeye varın\" dendiği zaman \"Rahman da nedir? Emrettiğine mi boyun eğmeye varacağız?\" derler. Bu, onların nefretini artırır.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Rahman'a boyun eğmeye varın\" dendiği zaman \"Rahman da nedir? Emrettiğine mi boyun eğmeye varacağız?\" derler. Bu, onların nefretini artırır.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 25,
+      "ayah": 60,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:60",
+      "word_position": 9,
+      "target_word_uthmani": "أَنَسْجُدُ",
+      "target_word_rasm": "أنسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara: \"Rahman'a boyun eğmeye varın\" dendiği zaman \"Rahman da nedir? Emrettiğine mi boyun eğmeye varacağız?\" derler. Bu, onların nefretini artırır.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱسْجُدُوا۟ لِلرَّحْمَٰنِ قَالُوا۟ وَمَا ٱلرَّحْمَٰنُ أَنَسْجُدُ لِمَا تَأْمُرُنَا وَزَادَهُمْ نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Rahman'a boyun eğmeye varın\" dendiği zaman \"Rahman da nedir? Emrettiğine mi boyun eğmeye varacağız?\" derler. Bu, onların nefretini artırır.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 25,
+      "ayah": 64,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:64",
+      "word_position": 4,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَٰمًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar, gecelerini Rableri için kıyama durarak ve boyun eğmeye vararak geçirirler.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمْ سُجَّدًا وَقِيَٰمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, gecelerini Rableri için kıyama durarak ve boyun eğmeye vararak geçirirler.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 26,
+      "ayah": 46,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:46",
+      "word_position": 3,
+      "target_word_uthmani": "سَٰجِدِينَ",
+      "target_word_rasm": "سجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunu gören sihirbazlar boyun eğmeye kapanarak: \"Alemlerin Rabbine, Musa ve Harun'un Rabbine güvene erdik\" dediler.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunu gören sihirbazlar boyun eğmeye kapanarak: \"Alemlerin Rabbine, Musa ve Harun'un Rabbine güvene erdik\" dediler.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 26,
+      "ayah": 219,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:219",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلسَّٰجِدِينَ",
+      "target_word_rasm": "ٱلسجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "وَتَقَلُّبَكَ فِى ٱلسَّٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Senin kalkıp irtibat bağını kurup sürdürenler arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَقَلُّبَكَ فِى ٱلسَّٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senin kalkıp irtibat bağını kurup sürdürenler arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 27,
+      "ayah": 24,
+      "surah_name": "Neml",
+      "ayah_ref": "27:24",
+      "word_position": 3,
+      "target_word_uthmani": "يَسْجُدُونَ",
+      "target_word_rasm": "يسجدون",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ",
+      "context_snippet_turkish_tabula_rasa": "... onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çok geçmeden Hüdhüd gelip Süleyman'a: \"Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka sığınak mercii (ilâh) yoktur\" dedi.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 27,
+      "ayah": 25,
+      "surah_name": "Neml",
+      "ayah_ref": "27:25",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْجُدُوا۟",
+      "target_word_rasm": "يسجدوا",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ",
+      "context_snippet_turkish_tabula_rasa": "... onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. ...",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَلَّا يَسْجُدُوا۟ لِلَّهِ ٱلَّذِى يُخْرِجُ ٱلْخَبْءَ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُخْفُونَ وَمَا تُعْلِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çok geçmeden Hüdhüd gelip Süleyman'a: \"Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka sığınak mercii (ilâh) yoktur\" dedi.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 32,
+      "ayah": 15,
+      "surah_name": "Secde",
+      "ayah_ref": "32:15",
+      "word_position": 9,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟ بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 38,
+      "ayah": 72,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:72",
+      "word_position": 9,
+      "target_word_uthmani": "سَٰجِدِينَ",
+      "target_word_rasm": "سجدين",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin kozmik görevlilere şöyle demişti: \"Ben çamurdan bir insan yaratacağım. Onu yapıp hayat verici özümden ona üflediğim zaman ona boyun eğip teslim olun.\"",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin kozmik görevlilere şöyle demişti: \"Ben çamurdan bir insan yaratacağım. Onu yapıp hayat verici özümden ona üflediğim zaman ona boyun eğip teslim olun.\"",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 38,
+      "ayah": 73,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:73",
+      "word_position": 1,
+      "target_word_uthmani": "فَسَجَدَ",
+      "target_word_rasm": "فسجد",
+      "target_word_literal_irab": "Kibrini kırıp boyun eğdi, teslim oldu (Form I mâzî fiil)",
+      "context_snippet_arabic": "فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bütün kozmik görevliler boyun eğme ve teslimiyet etmişlerdi, fakat İblis; o, büyüklük taslamış ve gerçeğin üzerini örtenlerden olmuştu.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sajada|ROOT:sjd|3MS"
+      },
+      "ayah_text_arabic_full": "فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün kozmik görevliler boyun eğme ve teslimiyet etmişlerdi, fakat İblis; o, büyüklük taslamış ve gerçeğin üzerini örtenlerden olmuştu.",
+      "contextual_meaning": "Kibre ve dikleşmeye karşılık, yüce buyruğa ve insanın yeryüzü sorumluluğuna boyun eğip teslim olma emri."
+    },
+    {
+      "surah": 38,
+      "ayah": 75,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:75",
+      "word_position": 6,
+      "target_word_uthmani": "تَسْجُدَ",
+      "target_word_rasm": "تسجد",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Ey İblis, ellerimle (kudretimle) yarattığıma boyun eğme ve teslimiyet etmekten seni alıkoyan nedir? Böbürlendin mi? Yoksa gururlananlardan mısın?\" dedi.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey İblis, ellerimle (kudretimle) yarattığıma boyun eğme ve teslimiyet etmekten seni alıkoyan nedir? Böbürlendin mi? Yoksa gururlananlardan mısın?\" dedi.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 39,
+      "ayah": 9,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:9",
+      "word_position": 6,
+      "target_word_uthmani": "سَاجِدًا",
+      "target_word_rasm": "ساجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْءَاخِرَةَ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin boyun eğme ve teslimiyet ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse gerçeğin üzerini örten kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar. ...",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saAjid|ROOT:sjd|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin boyun eğme ve teslimiyet ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse gerçeğin üzerini örten kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar.\"",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 41,
+      "ayah": 37,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:37",
+      "word_position": 8,
+      "target_word_uthmani": "تَسْجُدُوا۟",
+      "target_word_rasm": "تسجدوا",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَٱلشَّمْسُ وَٱلْقَمَرُ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ",
+      "context_snippet_turkish_tabula_rasa": "Gece ile gündüz, güneş ile ay Allah'ın varlığının belgelerindendir. Güneşe ve aya boyun eğme ve teslimiyet etmeyin; eğer Allah'a kulluk etmek istiyorsanız, bunları yaratana boyun eğip teslim olun.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ile gündüz, güneş ile ay Allah'ın varlığının belgelerindendir. Güneşe ve aya boyun eğme ve teslimiyet etmeyin; eğer Allah'a kulluk etmek istiyorsanız, bunları yaratana boyun eğip teslim olun.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 41,
+      "ayah": 37,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:37",
+      "word_position": 12,
+      "target_word_uthmani": "وَٱسْجُدُوا۟",
+      "target_word_rasm": "وٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "Gece ile gündüz, güneş ile ay Allah'ın varlığının belgelerindendir. Güneşe ve aya boyun eğme ve teslimiyet etmeyin; eğer Allah'a kulluk etmek istiyorsanız, bunları yaratana boyun eğip teslim olun.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece ile gündüz, güneş ile ay Allah'ın varlığının belgelerindendir. Güneşe ve aya boyun eğme ve teslimiyet etmeyin; eğer Allah'a kulluk etmek istiyorsanız, bunları yaratana boyun eğip teslim olun.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 48,
+      "ayah": 25,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:25",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمَسْجِدِ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar gerçeğin üzerini örtenlerdir, sizi dokunulmaz teslimiyet odağı'ı ziyaretten ve bağlı yakınlaşma sunularını yerlerine gitmekten alıkoyanlardır. Eğer, oradaki henüz tanımadığınız güvene ermiş erkeklerle güvene ermiş kadınları bilmeyerek ezmek suretiyle üzüntüye kapılmanız ihtimali olmasaydı Allah savaşı önlemezdi. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar gerçeğin üzerini örtenlerdir, sizi dokunulmaz teslimiyet odağı'ı ziyaretten ve bağlı yakınlaşma sunularını yerlerine gitmekten alıkoyanlardır. Eğer, oradaki henüz tanımadığınız güvene ermiş erkeklerle güvene ermiş kadınları bilmeyerek ezmek suretiyle üzüntüye kapılmanız ihtimali olmasaydı Allah savaşı önlemezdi. Allah, dilediklerine rahmet etmek için böyle yapmıştır. Eğer güven duy gerçeğin üzerini örtenler birbirinden ayrılmış olsalardı, gerçeğin üzerini örtenleri can yakıcı bir azaba uğratırdık.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 48,
+      "ayah": 27,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:27",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْمَسْجِدَ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ",
+      "context_snippet_turkish_tabula_rasa": "... Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. ...",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Allah, elçisinin rüyasının gerçek olduğunu tasdik eder. Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. Size, bundan başka, yakın zamanda bir zafer verecektir.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 13,
+      "target_word_uthmani": "سُجَّدًا",
+      "target_word_rasm": "سجدا",
+      "target_word_literal_irab": "Boyun eğenler, koşulsuz teslimiyet gösterenler (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "... Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. ...",
+      "morphology": {
+        "lemma": "saAjid",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:saAjid|ROOT:sjd|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Kibir ve direncini kırıp yüce iradeye teslimiyet halinde olan kimseler."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلسُّجُودِ",
+      "target_word_rasm": "ٱلسجود",
+      "target_word_literal_irab": "Boyun eğiş ve teslim olma durumu (masdar)",
+      "context_snippet_arabic": "وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "... Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. ...",
+      "morphology": {
+        "lemma": "s~ujuwd",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~ujuwd|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Tam bir boyun eğiş ve teslimiyet durumu."
+    },
+    {
+      "surah": 50,
+      "ayah": 40,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:40",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلسُّجُودِ",
+      "target_word_rasm": "ٱلسجود",
+      "target_word_literal_irab": "Boyun eğiş ve teslim olma durumu (masdar)",
+      "context_snippet_arabic": "ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin ve boyun eğişlerin ardından O'nu tesbih et.",
+      "morphology": {
+        "lemma": "s~ujuwd",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~ujuwd|ROOT:sjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin ve boyun eğişlerin ardından O'nu tesbih et.",
+      "contextual_meaning": "Tam bir boyun eğiş ve teslimiyet durumu."
+    },
+    {
+      "surah": 53,
+      "ayah": 62,
+      "surah_name": "Necm",
+      "ayah_ref": "53:62",
+      "word_position": 1,
+      "target_word_uthmani": "فَٱسْجُدُوا۟",
+      "target_word_rasm": "فٱسجدوا",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Artık boyun eğmeye varın, Allah'a kulluk edin.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MP"
+      },
+      "ayah_text_arabic_full": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟",
+      "ayah_text_turkish_tabula_rasa_full": "Artık boyun eğmeye varın, Allah'a kulluk edin.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 55,
+      "ayah": 6,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:6",
+      "word_position": 3,
+      "target_word_uthmani": "يَسْجُدَانِ",
+      "target_word_rasm": "يسجدان",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "context_snippet_turkish_tabula_rasa": "Bitkiler ve ağaçlar O'nun buyruğuna boyun eğerler.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MD"
+      },
+      "ayah_text_arabic_full": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bitkiler ve ağaçlar O'nun buyruğuna boyun eğerler.",
+      "contextual_meaning": "Göklerdeki ve yerdeki tüm varlıkların ve gölgelerinin kozmik nizama tam bir teslimiyetle boyun eğişi."
+    },
+    {
+      "surah": 68,
+      "ayah": 42,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:42",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلسُّجُودِ",
+      "target_word_rasm": "ٱلسجود",
+      "target_word_literal_irab": "Boyun eğiş ve teslim olma durumu (masdar)",
+      "context_snippet_arabic": "سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "context_snippet_turkish_tabula_rasa": "... gözleri dönmüş olarak yüzlerini zillet bürür; boyun eğmeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman boyun eğmeye çağırılmışlardı.",
+      "morphology": {
+        "lemma": "s~ujuwd",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~ujuwd|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; boyun eğmeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman boyun eğmeye çağırılmışlardı.",
+      "contextual_meaning": "Tam bir boyun eğiş ve teslimiyet durumu."
+    },
+    {
+      "surah": 68,
+      "ayah": 43,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:43",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلسُّجُودِ",
+      "target_word_rasm": "ٱلسجود",
+      "target_word_literal_irab": "Boyun eğiş ve teslim olma durumu (masdar)",
+      "context_snippet_arabic": "كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "... gözleri dönmüş olarak yüzlerini zillet bürür; boyun eğmeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman boyun eğmeye çağırılmışlardı.",
+      "morphology": {
+        "lemma": "s~ujuwd",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:s~ujuwd|ROOT:sjd|MP|GEN"
+      },
+      "ayah_text_arabic_full": "خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; boyun eğmeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman boyun eğmeye çağırılmışlardı.",
+      "contextual_meaning": "Tam bir boyun eğiş ve teslimiyet durumu."
+    },
+    {
+      "surah": 72,
+      "ayah": 18,
+      "surah_name": "Cin",
+      "ayah_ref": "72:18",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْمَسَٰجِدَ",
+      "target_word_rasm": "ٱلمسجد",
+      "target_word_literal_irab": "Boyun eğme ve teslimiyet odakları / mekânları (mekân ismi)",
+      "context_snippet_arabic": "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Mescidler şüphesiz Allah'ındır, öyleyse oralarda Allah'a yalvarırken başkasını katmayın.",
+      "morphology": {
+        "lemma": "masojid",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:masojid|ROOT:sjd|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mescidler şüphesiz Allah'ındır, öyleyse oralarda Allah'a yalvarırken başkasını katmayın.",
+      "contextual_meaning": "Benliğin sıfırlandığı, evrensel yasaya teslimiyetin ve yönelişin icra edildiği odak mekânı."
+    },
+    {
+      "surah": 76,
+      "ayah": 26,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:26",
+      "word_position": 3,
+      "target_word_uthmani": "فَٱسْجُدْ",
+      "target_word_rasm": "فٱسجد",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا",
+      "context_snippet_turkish_tabula_rasa": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Geceleyin O'na boyun eğip teslim ol; O'nu geceleri uzun uzun tesbih et.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 84,
+      "ayah": 21,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:21",
+      "word_position": 6,
+      "target_word_uthmani": "يَسْجُدُونَ",
+      "target_word_rasm": "يسجدون",
+      "target_word_literal_irab": "Boyun eğerler, ilahi nizama teslim olurlar (Form I muzâri fiil)",
+      "context_snippet_arabic": "عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara Kuran okunduğu zaman neden boyun eğme ve teslimiyet etmiyorlar?",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sajada|ROOT:sjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara Kuran okunduğu zaman neden boyun eğme ve teslimiyet etmiyorlar?",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    },
+    {
+      "surah": 96,
+      "ayah": 19,
+      "surah_name": "Alak",
+      "ayah_ref": "96:19",
+      "word_position": 4,
+      "target_word_uthmani": "وَٱسْجُدْ",
+      "target_word_rasm": "وٱسجد",
+      "target_word_literal_irab": "Kibrinizi kırıp boyun eğin, teslim olun (Form I emir fiil)",
+      "context_snippet_arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "context_snippet_turkish_tabula_rasa": "Sakın ona uyma; sen boyun eğip teslim ol, Rabbine yaklaş.",
+      "morphology": {
+        "lemma": "sajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sajada|ROOT:sjd|2MS"
+      },
+      "ayah_text_arabic_full": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "ayah_text_turkish_tabula_rasa_full": "Sakın ona uyma; sen boyun eğip teslim ol, Rabbine yaklaş.",
+      "contextual_meaning": "Kendi benliğini ve direncini sıfırlayarak yüce iradeye ve emre teslim oldu, boyun eğdi."
+    }
+  ]
+}

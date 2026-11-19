@@ -1,0 +1,2010 @@
+{
+  "root": "ح-ب-ب",
+  "root_latin": "H-B-B (Hbb)",
+  "concept_name": "Hubb / Habb / Habbe / İstihbâb (Özde Sabitlenen Bağ, Tohum Çekirdeği ve Değer Tercihi)",
+  "rank": 121,
+  "total_occurrences": 95,
+  "unique_ayahs_count": 85,
+  "unified_core_mechanism": "Kökün `95` geçişlik tamamı İbn Fâris'in mudâaf `(حب)` kökündeki 'özde/çekirdekte sabitlenip kök salmak' çekirdeğine oturur. İki büyük dünyayı birbirine bağlar: (1) Somut doğa dünyası: toprağa ekilip bire yedi yüz veren tahıl/hardal tanesi ve çekirdeği (`حَبّ / حَبَّة` `12` geçiş: `2:261`, `6:59,95,99`, `21:47`, `31:16`, `55:12`). (2) İrade ve kalp dünyası: kalbin çekirdeğine yerleşip insanı harekete geçiren sevgi ve değer tercihi (`83` geçiş). Kur'an burada duyguyu başıboş bırakmaz; `3:31`, `3:92`, `49:7` ve `42` ayrı `يُحِبُّ / لَا يُحِبُّ` ayetiyle sevgiyi eylemsel adalet, paylaşma ve sınırlara saygıyla ölçer; körü körüne dünya malını veya gerçeği örtmeyi tercih eden (`ٱسْتَحَبُّوا۟`) seçimleri ise deşifre eder.",
+  "physical_core": "İki yönlü somut mudâaf ekseni: Bitkinin tüm özünü ve üreme potansiyelini içinde sıkıca toplayıp tutan 'tohum/tane/çekirdek' (`ٱلْحَبّ / ٱلْحَبَّة`) ile kalbin iç çekirdeğine (`حَبَّةُ ٱلْقَلْبِ`) sabit biçimde bağlanıp yapışan köklü meyil ve tercih (`ٱللُّزُومُ وَٱلثَّبَاتُ`). Toprağın karanlığındaki tek hardal tanesinden (`حَبَّةٍ` `6:59`, `21:47`, `31:16`) yedi başak veren tohuma (`2:261`), tahılı yarıp filizlendiren kudrete (`فَالِقُ ٱلْحَبِّ` `6:95`), ve gönül çekirdeğine kök salan ilâhî-beşerî sevgi ve seçimlere (`حُبّ / أَحَبَّ / ٱسْتَحَبَّ` `83` geçiş) kadar tüm `95` geçiş 'özde sabitlenip filizlenen bağ' çekirdeğinde birleşir.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) mudâaf `(حب)` kökünü 'sabitlenip ayrılmadan tutunma (`el-lüzûm ve's-sebât`)' ve 'bitki çekirdeği/taneciği (`habbe`)' eksenlerinde açıklar ve ikisini doğrudan 'kalbin çekirdeği/özü (`حَبَّةُ ٱلْقَلْبِ`)' deyimiyle birleştirir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökün fizikî çekirdeğini `'kalbin tam ortasındaki siyah öz noktasına (habbetü'l-kalb) işleyip yerleşmek'` şeklinde formüle eder; `حُبّ` ve `مَحَبَّة`nin yalnız duygusal heves değil iradenin kalıcı seçimi olduğunu, bu yüzden Allah'ın sevdiği (`يُحِبُّ`) ve sevmediği (`لَا يُحِبُّ`) niteliklerin bütünüyle somut eylemlere (`إِحْسَان`, `قِسْط`, `تَوْبَة`, `تَقْوَى` vs `عُدْوَان`, `فَسَاد`, `إِسْرَاف`) bağlandığını ortaya koyar.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `أَحِبَّآؤُهُ` (`حَبِيب` çoğulu `أَحِبَّاء`), mîmli mastar `مَحَبَّة` (`20:39`), `حَبَّة` ('tek tahıl/hardal tanesi') ve `12:30`daki `شَغَفَهَا حُبًّا` ('sevginin kalp zarına işlemesi') örnekleriyle tohum ve kalp çekirdeği arasındaki yapısal birliği pekiştirir.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `95` geçişin tamamı 'çekirdeğe yerleşen kalıcı eğilim ve meyve veren bağ' mekaniğiyle çözülür. Bitkisel dünyada `حَبّ / حَبَّة` (`12` geçiş) yaşamsal çoğalmanın (`2:261`) ve kozmik hassasiyet ölçüsünün (`21:47`, `31:16`) birimi olurken; insan ve değerler dünyasında `أَحَبَّ / حُبّ / ٱسْتَحَبَّ` (`83` geçiş) insanın kalbini neye kilitleyip (`2:165`, `9:24`) kimi tercih ettiğini (`41:17`) belirleyen eylem motorudur."
+  },
+  "semitic_cognates": {
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `חָבַב` (*ḥābab*, Tesniye 33:3: 'gönülden sevmek, bağrında koruyup gözetmek', BDB) kökü Arapçadaki `(حبب)` ile tam fonolojik eşköklüdür (İbranicede daha seyrek ve arkaik kalıp olarak yaşar, yaygın sevgi kökü `ʾ-h-b`dir).",
+    "aramaic_syriac": "Aramca ve Süryanicede `חַבֵּיב / ܚܰܒ` (*ḥabbeb*, CAL Pa'el: 'sevmek, özenle kucaklamak, değer vermek') ve `ḥăvîvā` ('sevgili, dost') canlı ve yoğun biçimde kullanılır.",
+    "akkadian": "Akadca `ḫabābu(m)` (CAD Ḫ: 'tatlıca mırıldanmak, şırıldamak; aşk fısıltısıyla yakınlık kurmak', sevgili sözcük listelerinde *râmu* ile eşlenir) ve Eski Etiyopça Geez `ḥababa` ('sevmek, arzulamak' — Leslau CDG) Doğu ve Güney Semitik halkaları tamamlar.",
+    "phonological_note": "Pan-Semitik `*√ḥ-b-b` kökü (`Proto-Sami *ḥ > Arap. ح, İbr./Aram. ח, Akk. ḫ, Geez ḥ`; `*b = b`), ses yasalarını eksiksiz izleyerek dört büyük Semitik kolda da varlığını sürdürür. Doğu Semitikteki sıcak fısıltı ve yakınlık tınısı, Batı ve Merkezî Semitikte kalbe yerleşen köklü sevgi (`حُبّ / أَحَبَّ`) eksenine oturmuştur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ك-ر-ه (`وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ ... وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ` `49:7`; `وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا ... وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا` `2:216`; `أَيُحِبُّ ... فَكَرِهْتُمُوهُ` `49:12` — Kalben Bağlanıp Sevme vs İtiklenip Tiksinme `ك-ر-ه`)",
+      "ب-غ-ض / ع-د-و (`وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ ... وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ` `5:64` — Kalp Bağı ve İyilik vs Düşmanlık ve Kin `ب-غ-ض`)",
+      "لَا يُحِبُّ (`19` Olumlu `يُحِبُّ` Özelliğe Karşılık `23` Kesin Ret `لَا يُحِبُّ`: `ٱلْمُحْسِنِينَ / ٱلْمُقْسِطِينَ` vs `ٱلْمُعْتَدِينَ / ٱلظَّٰلِمِينَ / ٱلْمُسْرِفِينَ`)"
+    ],
+    "key_ayahs": [
+      "2:165",
+      "2:177",
+      "2:190",
+      "2:195",
+      "2:216",
+      "2:222",
+      "2:261",
+      "3:14",
+      "3:31",
+      "3:92",
+      "3:119",
+      "5:18",
+      "5:54",
+      "5:64",
+      "6:59",
+      "6:76",
+      "6:95",
+      "9:24",
+      "12:30",
+      "16:107",
+      "20:39",
+      "21:47",
+      "28:56",
+      "31:16",
+      "38:32",
+      "41:17",
+      "49:7",
+      "49:12",
+      "59:9",
+      "76:8",
+      "89:20",
+      "100:8"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ح-ب-ب` bir tohumun öze yerleşip bağlanması ve iradenin kalıcı seçimiyle değerleri benimsemesi ise zıddı nedir?' Cevap: Kur'an tam `3` ayrı ayette aynı köklerin karşıtlığını yan yana kilitler (`2:216`, `49:7`, `49:12`): `ح-ب-ب` (sevmek/sevdirmek) tam zıddı `ك-ر-ه` (hoşlanmayıp tiksinmek) ve `ب-غ-ض` (nefret ve düşmanlık beslemek `5:64`) kökleridir. Değerler düzeyinde ise `يُحِبُّ` (`19` iyilik/adalet niteliği) doğrudan `لَا يُحِبُّ` (`23` saldırı/zulüm/israf tutumu) dizisiyle iki simetrik kutup kurar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`حَبَّبَ` (`Gönle yerleştirip sevdirmek` II. bab) vs `زَيَّنَ` (`Kalbe bezeyip güzel göstermek`) vs `كَرَّهَ` (`Tiksindirip uzaklaştırmak` II. bab) — `49:7`",
+      "`تَكْرَهُوا۟` (`Hoşlanmayıp geri durmak`) vs `تُحِبُّوا۟` (`Arzulayıp bağlanmak`) — `2:216`",
+      "`تُحِبُّونَ ٱللَّهَ` (`İnsanların Yaratıcıya bağlanma iddiası`) vs `يُحْبِبْكُمُ ٱللَّهُ` (`Elçiye uyma sonucu ilâhî onay ve sevgi` — idğam çözülür!) — `3:31`",
+      "`يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ` (`Aracı figürlere duyulan eşdeğer sevgi`) vs `أَشَدُّ حُبًّا لِّلَّهِ` (`Güvene erenlerin yalnız Tek Yaratıcıya yönelen çok daha sıkı sevgisi`) — `2:165`",
+      "`يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ` (`Göç eden kardeşleri gönülden sevmek`) vs `يُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ` (`Kendi ihtiyacı varken dahi ötekini tercih etmek`) — `59:9`"
+    ],
+    "mechanical_difference": "1) `49:7` ayeti kalp mühendisliğinin üç mekaniğini aynı cümlede ayırır: `حَبَّبَ إِلَيْكُمُ` (çekirdek bağı kurdu), `وَزَيَّنَهُۥ فِى قُلُوبِكُمْ` (estetik çekim ekledi) ve `وَكَرَّهَ إِلَيْكُمُ` (karşı kutba doğal itme yerleştirdi). 2) `3:31`deki `تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` cümlesi sevgiyi soyut duygudan çıkarıp somut `ٱتَّبِعُونِى` (eylemsel uyuma) bağlar. 3) `59:9`da kalpten sevmek (`يُحِبُّونَ`) bir adım ileri taşınarak ihtiyaç halinde bile karşısındakini kendi önüne koyma eylemi (`يُؤْثِرُونَ`) ile taçlandırılır. 4) `2:165`te ise kök tek ayette `3` kez geçerek ortak koşmaya kayan eşitleyici sevgi ile müstakim sarsılmaz sevgi arasındaki yoğunluk farkını (`أَشَدُّ حُبًّا`) ölçer."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "2:261 & 6:59,95 & 21:47 & 31:16",
+      "role": "Somut Tohum, Kozmik Hassasiyet ve Bereket Çapası (`حَبّ / حَبَّة` `12 N`)",
+      "literal_meaning": "'Yedi başak ve her başakta yüz tane veren tek tohum (`حَبَّةٍ` `2:261`)', 'toprağın karanlıklarındaki tek bir taneden haberdar olmak (`6:59`)', 'tohumu ve çekirdeği yaran (`فَالِقُ ٱلْحَبِّ` `6:95`)' ve 'hardal tanesi ağırlığındaki (`مِثْقَالَ حَبَّةٍ` `21:47`, `31:16`) her eylemin eksiksiz getirilmesi.'"
+    },
+    {
+      "ref": "3:31 & 5:54 & 2:165 & 49:7 & 20:39",
+      "role": "Eylem Testli Sevgi, Gönle Yerleştirme ve Mutlak Öncelik Çapası",
+      "literal_meaning": "'Allah'ı seviyorsanız bana uyun ki Allah da sizi sevsin (`يُحْبِبْكُمُ` `3:31`)', 'O onları sever, onlar da O'nu sever (`5:54`)', 'güvene erenlerin sevgisi çok daha sıkı ve güçlüdür (`2:165`)', 'kalbinize güveni sevdirdi (`حَبَّبَ` `49:7`)' ve 'üzerine Benden bir sevgi bıraktım (`مَحَبَّةً مِّنِّى` `20:39`).'"
+    },
+    {
+      "ref": "2:190-222 & 3:76,134,159 & 5:42 & 49:9 & 60:8 & 61:4",
+      "role": "İlahî Onay (`يُحِبُّ` `19` Ayet) vs Kırmızı Çizgi (`لَا يُحِبُّ` `23` Ayet) Çapası",
+      "literal_meaning": "Yaratıcının sevgi ve onay yönelttiği `19` somut eylem (iyilik üretme, adalet, sorumluluk bilinci, arınma, direniş, kenetlenmiş safta durma) ile reddettiği `23` tutum (saldırganlık, zulüm, israf, kibir, bozgunculuk, ihanet) eksiksiz haritalanır."
+    },
+    {
+      "ref": "2:216 & 2:177 & 3:92 & 59:9 & 76:8",
+      "role": "Vererek Sınanan Bağlılık ve Ölçü Yanılgısı Çapası",
+      "literal_meaning": "'Sevdiğiniz şeylerden paylaşmadıkça iyiliğe eremezsiniz (`3:92`)', 'yemeğe ve mala duyduğu derin sevgiye rağmen paylaşmak (`2:177`, `76:8`)' ve 'bazen size hayırlı olanı sevmez, zararlı olanı seversiniz (`2:216`).'"
+    },
+    {
+      "ref": "9:23-24 & 14:3 & 16:107 & 41:17 & 38:32 & 100:8",
+      "role": "Yanlış Tercih Sınavı Çapası (`ٱسْتَحَبُّوا۟` / `حُبُّ ٱلْخَيْرِ / ٱلْمَالِ`)",
+      "literal_meaning": "'Doğru yol yerine körlüğü ve geçici hayatı tercih ettiler (`ٱسْتَحَبُّوا۟` `9:23`, `14:3`, `16:107`, `41:17`)', 'dünya malını yığırcasına sevmek (`89:20`, `100:8`)' ve 'iyi cins atların sevgisinin sorumluluğu unutturması (`38:32` `أَحْبَبْتُ حُبَّ ٱلْخَيْرِ`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Mudâaf (`ح-ب-ب`) köklüdür ve Kur'an'da I. bab fiil olarak hiç geçmez (`0` I. bab fiil!). Sevgi fiilleri yalnızca IV. bab (`أَحَبَّ - يُحِبُّ` `64 V`), II. bab (`حَبَّبَ` `1 V` hapax `49:7`) ve X. bab (`ٱسْتَحَبَّ - يَسْتَحِبُّ` `4 V`) kalıplarında çekilir. 2) Mudâaf idğam çözülme kuralı: IV. babda son hareke sâkin olduğunda şedde çözülür ve iki `ب` açık yazılır: `أَحْبَبْتَ` (`28:56`), `أَحْبَبْتُ` (`38:32`) ve `3:31`de şartın cevabı olarak meczûm gelen `يُحْبِبْكُمُ` (`تُحِبُّونَ` idğamlıyken aynı ayette `يُحْبِبْكُمُ` idğamsızdır!). 3) Tekil özel sözcükler (hapaxlar): II. bab `حَبَّبَ` (`49:7`), mîmli mastar `مَحَبَّةً` (`20:39`), sıfat çoğulu `وَأَحِبَّٰٓؤُهُۥ` (`5:18` — Rasm-ı Osmânî'de med elifi hazfedildiği için hemze doğrudan `و` kürsüsü üzerinde `وأحبؤه` olarak yazılmıştır!). 4) `9` ayette tekrarlı geçer (`2:165`te `3` kez; `2:222`, `2:261`, `3:31`, `3:119`, `5:54`, `9:108`, `38:32`, `89:20`de `2`şer kez) ve `32` farklı Rasm yazımı içerir.",
+  "derivatives": {
+    "أَحَبَّ - يُحِبُّ (`64 V` IV. bab) & حَبَّبَ (`1 V` II. bab `49:7`)": "İyilik, adalet, sorumluluk bilinci ve arınmayı ilâhî olarak onaylamak (`19` ayet), taşkınlık ve bozgunculuğu reddetmek (`23` ayet) yahut insan kalbinin gönül bağı kurması (`3:31`, `49:7`)",
+    "حُبّ (`9 N`), مَحَبَّة (`1 N` `20:39`), أَحَبّ (`3`), أَحِبَّٰٓؤُهُۥ (`1 N` `5:18`)": "Kalbin çekirdeğine işleyen sevgi gücü (`2:165,177`, `12:30`, `20:39`, `38:32`, `89:20`, `100:8`), öncelik karşılaştırması (`9:24`, `12:8,33`) ve `5:18`deki seçkinlik iddiası",
+    "حَبّ (`7 N`) & حَبَّة (`5 N`: `2:261` x2, `6:59`, `21:47`, `31:16`)": "Yeri yarıp ürün veren tohum ve tahıl tanesi ile ince hesap terazisindeki hardal tanesi ölçüsü",
+    "ٱسْتَحَبَّ - يَسْتَحِبُّ (`4 V` X. bab: `9:23`, `14:3`, `16:107`, `41:17`)": "Bir seçeneği ötekine göre daha sevgili bulup bilinçle tercih etmek"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 165,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:165",
+      "word_position": 9,
+      "target_word_uthmani": "يُحِبُّونَهُمْ",
+      "target_word_rasm": "يحبونهم",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ وَٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar arasında, Allah'ı bırakıp, O'na koştukları eşleri sığınak mercii (ilâh) olarak benimseyenler ve onları, Allah'ı severcesine sevenler vardır. güvene erenlerin Allah'ı sevmesi ise hepsinden kuvvetlidir. ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar arasında, Allah'ı bırakıp, O'na koştukları eşleri sığınak mercii (ilâh) olarak benimseyenler ve onları, Allah'ı severcesine sevenler vardır. güvene erenlerin Allah'ı sevmesi ise hepsinden kuvvetlidir. Zalimler azabı gördükleri zaman, bütün kuvvetin Allah'a aid bulunacağını ve Allah'ın azabının şiddetli olduğunu keşke bilselerdi!",
+      "contextual_meaning": "Sevgi yoğunluğu ve yöneliş sınırı (`2:165` x3): Aracı figürlere duyulan sevgi ile güvene erenlerin yalnız Tek Yaratıcıya beslediği çok daha güçlü sevgi (`أَشَدُّ حُبًّا`) farkı."
+    },
+    {
+      "surah": 2,
+      "ayah": 165,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:165",
+      "word_position": 10,
+      "target_word_uthmani": "كَحُبِّ",
+      "target_word_rasm": "كحب",
+      "target_word_literal_irab": "Sevgisine rağmen / sevgisi gibi / mal tutkusuyla (`كَحُبِّ / حُبِّهِۦ / لِحُبِّ`, mastar mecrûr)",
+      "context_snippet_arabic": "ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ وَٱلَّذِينَ ءَامَنُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar arasında, Allah'ı bırakıp, O'na koştukları eşleri sığınak mercii (ilâh) olarak benimseyenler ve onları, Allah'ı severcesine sevenler vardır. güvene erenlerin Allah'ı sevmesi ise hepsinden kuvvetlidir. ...",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar arasında, Allah'ı bırakıp, O'na koştukları eşleri sığınak mercii (ilâh) olarak benimseyenler ve onları, Allah'ı severcesine sevenler vardır. güvene erenlerin Allah'ı sevmesi ise hepsinden kuvvetlidir. Zalimler azabı gördükleri zaman, bütün kuvvetin Allah'a aid bulunacağını ve Allah'ın azabının şiddetli olduğunu keşke bilselerdi!",
+      "contextual_meaning": "Sevgi yoğunluğu ve yöneliş sınırı (`2:165` x3): Aracı figürlere duyulan sevgi ile güvene erenlerin yalnız Tek Yaratıcıya beslediği çok daha güçlü sevgi (`أَشَدُّ حُبًّا`) farkı."
+    },
+    {
+      "surah": 2,
+      "ayah": 165,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:165",
+      "word_position": 15,
+      "target_word_uthmani": "حُبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Sevgi bakımından / aşkla / aşırı sevgiyle (`حُبًّا`, nekre mastar mansûb)",
+      "context_snippet_arabic": "وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ وَلَوْ يَرَى",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar arasında, Allah'ı bırakıp, O'na koştukları eşleri sığınak mercii (ilâh) olarak benimseyenler ve onları, Allah'ı severcesine sevenler vardır. güvene erenlerin Allah'ı sevmesi ise hepsinden kuvvetlidir. ...",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar arasında, Allah'ı bırakıp, O'na koştukları eşleri sığınak mercii (ilâh) olarak benimseyenler ve onları, Allah'ı severcesine sevenler vardır. güvene erenlerin Allah'ı sevmesi ise hepsinden kuvvetlidir. Zalimler azabı gördükleri zaman, bütün kuvvetin Allah'a aid bulunacağını ve Allah'ın azabının şiddetli olduğunu keşke bilselerdi!",
+      "contextual_meaning": "Sevgi yoğunluğu ve yöneliş sınırı (`2:165` x3): Aracı figürlere duyulan sevgi ile güvene erenlerin yalnız Tek Yaratıcıya beslediği çok daha güçlü sevgi (`أَشَدُّ حُبًّا`) farkı."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 22,
+      "target_word_uthmani": "حُبِّهِۦ",
+      "target_word_rasm": "حبه",
+      "target_word_literal_irab": "Sevgisine rağmen / sevgisi gibi / mal tutkusuyla (`كَحُبِّ / حُبِّهِۦ / لِحُبِّ`, mastar mecrûr)",
+      "context_snippet_arabic": "وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "contextual_meaning": "Sevileni paylaşarak sınanma (`3:92`, `2:177`, `59:9`, `76:8`): Kendi özünün sevdiği malı ve yemeği muhtaçlarla bölüşme erdemi."
+    },
+    {
+      "surah": 2,
+      "ayah": 190,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:190",
+      "word_position": 12,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sizinle savaşanlarla Allah yolunda savaşın, aşırı gitmeyin; doğrusu Allah aşırı gidenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizinle savaşanlarla Allah yolunda savaşın, aşırı gitmeyin; doğrusu Allah aşırı gidenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 195,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:195",
+      "word_position": 13,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَأَحْسِنُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda dolaşıma sokup paylaşın, kendinizi kendi elinizle tehlikeye atmayın, işlerinizi iyi yapın. Şüphesiz Allah iyi iş yapanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ وَأَحْسِنُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda dolaşıma sokup paylaşın, kendinizi kendi elinizle tehlikeye atmayın, işlerinizi iyi yapın. Şüphesiz Allah iyi iş yapanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 205,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:205",
+      "word_position": 13,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَٱلنَّسْلَ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ",
+      "context_snippet_turkish_tabula_rasa": "Dünya hayatına dair konuşması senin hoşuna giden, pek azılı düşman iken, kalbinde olana Allah'ı şahid tutan, işbaşına geçince, yeryüzünde bozgunculuk yapmaya, ekin ve nesli yok etmeğe çabalayan insanlar vardır. Allah bozgunculuğu sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatına dair konuşması senin hoşuna giden, pek azılı düşman iken, kalbinde olana Allah'ı şahid tutan, işbaşına geçince, yeryüzünde bozgunculuk yapmaya, ekin ve nesli yok etmeğe çabalayan insanlar vardır. Allah bozgunculuğu sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 216,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:216",
+      "word_position": 16,
+      "target_word_uthmani": "تُحِبُّوا۟",
+      "target_word_rasm": "تحبوا",
+      "target_word_literal_irab": "Sevesiniz (`تُحِبُّوا۟`, IV. bab muzârî mansûb, 2. çoğul eril)",
+      "context_snippet_arabic": "لَّكُمْ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ",
+      "context_snippet_turkish_tabula_rasa": "... İhtimal ki hoşlanmadığınız şey sizin iyiliğinizedir ve ihtimal ki sevdiğiniz bir şey sizin kötülüğünüzedir. Siz bilmezsiniz, Allah bilir.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Savaş, hoşunuza gitmediği halde size farz kılındı. İhtimal ki hoşlanmadığınız şey sizin iyiliğinizedir ve ihtimal ki sevdiğiniz bir şey sizin kötülüğünüzedir. Siz bilmezsiniz, Allah bilir.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 24,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kadınların aybaşı hali hakkında da sorarlar, de ki: \"O bir ezadır (rahatsızlıktır)\". Aybaşı halinde iken kadınlardan el çekin, temizlenmelerine kadar onlara yaklaşmayın. Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 26,
+      "target_word_uthmani": "وَيُحِبُّ",
+      "target_word_rasm": "ويحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kadınların aybaşı hali hakkında da sorarlar, de ki: \"O bir ezadır (rahatsızlıktır)\". Aybaşı halinde iken kadınlardan el çekin, temizlenmelerine kadar onlara yaklaşmayın. Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 261,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:261",
+      "word_position": 9,
+      "target_word_uthmani": "حَبَّةٍ",
+      "target_word_rasm": "حبة",
+      "target_word_literal_irab": "Bir tek tohum / hardal tanesinin (`حَبَّةٍ`, nekre tekil dişil birim ismi mecrûr)",
+      "context_snippet_arabic": "سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını Allah yolunda dolaşıma sokup paylaştıranların durumu, her başağında yüz tane olmak üzere yedi başak veren tanenin durumu gibidir. Allah dilediğine kat kat verir. ...",
+      "morphology": {
+        "lemma": "Hab~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~ap|ROOT:Hbb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını Allah yolunda dolaşıma sokup paylaştıranların durumu, her başağında yüz tane olmak üzere yedi başak veren tanenin durumu gibidir. Allah dilediğine kat kat verir. Allah'ın lütfü geniştir, O her şeyi bilendir.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 2,
+      "ayah": 261,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:261",
+      "word_position": 17,
+      "target_word_uthmani": "حَبَّةٍ",
+      "target_word_rasm": "حبة",
+      "target_word_literal_irab": "Bir tek tohum / hardal tanesinin (`حَبَّةٍ`, nekre tekil dişil birim ismi mecrûr)",
+      "context_snippet_arabic": "كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن",
+      "context_snippet_turkish_tabula_rasa": "Mallarını Allah yolunda dolaşıma sokup paylaştıranların durumu, her başağında yüz tane olmak üzere yedi başak veren tanenin durumu gibidir. Allah dilediğine kat kat verir. ...",
+      "morphology": {
+        "lemma": "Hab~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~ap|ROOT:Hbb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını Allah yolunda dolaşıma sokup paylaştıranların durumu, her başağında yüz tane olmak üzere yedi başak veren tanenin durumu gibidir. Allah dilediğine kat kat verir. Allah'ın lütfü geniştir, O her şeyi bilendir.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 2,
+      "ayah": 276,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:276",
+      "word_position": 8,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ٱلصَّدَقَٰتِ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah faizi eksiltir, sadakaları bereketlendirir. Allah pek nankör olan hiçbir ağır sapmaya düşeni sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah faizi eksiltir, sadakaları bereketlendirir. Allah pek nankör olan hiçbir ağır sapmaya düşeni sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 14,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:14",
+      "word_position": 3,
+      "target_word_uthmani": "حُبُّ",
+      "target_word_rasm": "حب",
+      "target_word_literal_irab": "Şiddetli tutkusu / sevgisi (`حُبُّ`, muzâf mastar merfû)",
+      "context_snippet_arabic": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Kadınlara, oğullara, kantar kantar altın ve gümüşe, nişanlı atlar ve develere, ekinlere karşı aşırı sevgi beslemek insanlara güzel gösterilmiştir. Bunlar dünya hayatının nimetleridir, oysa gidilecek yerin güzeli Allah katındadır.",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|NOM"
+      },
+      "ayah_text_arabic_full": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَٰمِ وَٱلْحَرْثِ ذَٰلِكَ مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlara, oğullara, kantar kantar altın ve gümüşe, nişanlı atlar ve develere, ekinlere karşı aşırı sevgi beslemek insanlara güzel gösterilmiştir. Bunlar dünya hayatının nimetleridir, oysa gidilecek yerin güzeli Allah katındadır.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 3,
+      "ayah": 31,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:31",
+      "word_position": 4,
+      "target_word_uthmani": "تُحِبُّونَ",
+      "target_word_rasm": "تحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'ı seviyorsanız bana uyun. Allah da sizi sevsin ve sapma ve kusurlarınızı bağışlasın. Allah affeder ve merhamet eder\".",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ı seviyorsanız bana uyun. Allah da sizi sevsin ve sapma ve kusurlarınızı bağışlasın. Allah affeder ve merhamet eder\".",
+      "contextual_meaning": "Eylemle test edilen sevgi ve karşılıklı gönül bağı (`3:31`, `5:54`, `24:22`, `28:56`): Sevgi iddiasının elçiye somut uyumla (`فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` `3:31`) doğrulanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 31,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:31",
+      "word_position": 7,
+      "target_word_uthmani": "يُحْبِبْكُمُ",
+      "target_word_rasm": "يحببكم",
+      "target_word_literal_irab": "Sizi sever (`يُحْبِبْكُمُ`, IV. bab mudâaf meczûm — şart cevabında idğam çözülür)",
+      "context_snippet_arabic": "تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'ı seviyorsanız bana uyun. Allah da sizi sevsin ve sapma ve kusurlarınızı bağışlasın. Allah affeder ve merhamet eder\".",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ı seviyorsanız bana uyun. Allah da sizi sevsin ve sapma ve kusurlarınızı bağışlasın. Allah affeder ve merhamet eder\".",
+      "contextual_meaning": "Eylemle test edilen sevgi ve karşılıklı gönül bağı (`3:31`, `5:54`, `24:22`, `28:56`): Sevgi iddiasının elçiye somut uyumla (`فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` `3:31`) doğrulanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 32,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:32",
+      "word_position": 10,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah'a ve elçiye itaat edin\". Yüz çevirirlerse bilsinler ki, Allah gerçeğin üzerini örtenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'a ve elçiye itaat edin\". Yüz çevirirlerse bilsinler ki, Allah gerçeğin üzerini örtenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 57,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:57",
+      "word_position": 10,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "أُجُورَهُمْ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı iş işleyenlerin ecirleri ise tastamam verilecektir. Allah zalimleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı iş işleyenlerin ecirleri ise tastamam verilecektir. Allah zalimleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 76,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:76",
+      "word_position": 8,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Hayır, öyle değil; ahdini yerine getiren ve sapma ve kusurdan sakınan bilsin ki, Allah sakınanları şüphesiz sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَنْ أَوْفَىٰ بِعَهْدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, öyle değil; ahdini yerine getiren ve sapma ve kusurdan sakınan bilsin ki, Allah sakınanları şüphesiz sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 3,
+      "ayah": 92,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:92",
+      "word_position": 7,
+      "target_word_uthmani": "تُحِبُّونَ",
+      "target_word_rasm": "تحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ وَمَا تُنفِقُوا۟ مِن",
+      "context_snippet_turkish_tabula_rasa": "Sevdiğiniz şeylerden sarfetmedikçe iyiliğe erişemezsiniz. Her ne sarfederseniz, şüphesiz Allah onu bilir.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sevdiğiniz şeylerden sarfetmedikçe iyiliğe erişemezsiniz. Her ne sarfederseniz, şüphesiz Allah onu bilir.",
+      "contextual_meaning": "Sevileni paylaşarak sınanma (`3:92`, `2:177`, `59:9`, `76:8`): Kendi özünün sevdiği malı ve yemeği muhtaçlarla bölüşme erdemi."
+    },
+    {
+      "surah": 3,
+      "ayah": 119,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:119",
+      "word_position": 3,
+      "target_word_uthmani": "تُحِبُّونَهُمْ",
+      "target_word_rasm": "تحبونهم",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşte siz, onlar sizi sevmezken onları seven ve Kitapların bütününe güvene eren kimselersiniz. Size rastladıkları zaman: ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ قُلْ مُوتُوا۟ بِغَيْظِكُمْ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte siz, onlar sizi sevmezken onları seven ve Kitapların bütününe güvene eren kimselersiniz. Size rastladıkları zaman: \"güvene erdik\" derler, yalnız kaldıklarında da, size öfkelerinden parmaklarını ısırırlar. De ki: \"Öfkenizden çatlayın\". Allah kalblerde olanı bilir.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 119,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:119",
+      "word_position": 5,
+      "target_word_uthmani": "يُحِبُّونَكُمْ",
+      "target_word_rasm": "يحبونكم",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ",
+      "context_snippet_turkish_tabula_rasa": "İşte siz, onlar sizi sevmezken onları seven ve Kitapların bütününe güvene eren kimselersiniz. Size rastladıkları zaman: ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "هَٰٓأَنتُمْ أُو۟لَآءِ تُحِبُّونَهُمْ وَلَا يُحِبُّونَكُمْ وَتُؤْمِنُونَ بِٱلْكِتَٰبِ كُلِّهِۦ وَإِذَا لَقُوكُمْ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ عَضُّوا۟ عَلَيْكُمُ ٱلْأَنَامِلَ مِنَ ٱلْغَيْظِ قُلْ مُوتُوا۟ بِغَيْظِكُمْ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte siz, onlar sizi sevmezken onları seven ve Kitapların bütününe güvene eren kimselersiniz. Size rastladıkları zaman: \"güvene erdik\" derler, yalnız kaldıklarında da, size öfkelerinden parmaklarını ısırırlar. De ki: \"Öfkenizden çatlayın\". Allah kalblerde olanı bilir.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 134,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:134",
+      "word_position": 12,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar bollukta ve darlıkta dolaşıma sokup paylaştırırlar, öfkelerini yenerler, insanların kusurlarını affederler. Allah iyilik yapanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar bollukta ve darlıkta dolaşıma sokup paylaştırırlar, öfkelerini yenerler, insanların kusurlarını affederler. Allah iyilik yapanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 3,
+      "ayah": 140,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:140",
+      "word_position": 23,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "شُهَدَآءَ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Böylece biz, Allah'ın gerçek güvene erenleri ortaya çıkarması ve içinizden şahitler edinmesi için, bu günleri bazen lehe, bazen de aleyhe döndürüp duruyoruz. Allah, zulmedenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌ مِّثْلُهُۥ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer siz (Uhud'da) bir yara almışsanız, (size düşman olan) o topluluk da (Bedir'de) benzeri bir yara almıştı. Böylece biz, Allah'ın gerçek güvene erenleri ortaya çıkarması ve içinizden şahitler edinmesi için, bu günleri bazen lehe, bazen de aleyhe döndürüp duruyoruz. Allah, zulmedenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 146,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:146",
+      "word_position": 20,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَمَا ٱسْتَكَانُوا۟ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolunda başlarına gelenlerden ötürü gevşememişler, yılmamışlar ve boyun eğmemişlerdi. Allah, sebat edip direnenleri sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَكَأَيِّن مِّن نَّبِىٍّ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nice elçilerin yanında Rabbe kul olmuş pek çok kimse savaşmıştır. Allah yolunda başlarına gelenlerden ötürü gevşememişler, yılmamışlar ve boyun eğmemişlerdi. Allah, sebat edip direnenleri sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 3,
+      "ayah": 148,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:148",
+      "word_position": 9,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ثَوَابِ ٱلْءَاخِرَةِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bu yüzden Allah onlara dünya nimetini de ahiret nimetini de fazlasiyle verdi. Allah işlerini iyi yapanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْءَاخِرَةِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu yüzden Allah onlara dünya nimetini de ahiret nimetini de fazlasiyle verdi. Allah işlerini iyi yapanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 3,
+      "ayah": 152,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:152",
+      "word_position": 20,
+      "target_word_uthmani": "تُحِبُّونَ",
+      "target_word_rasm": "تحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "مَآ أَرَىٰكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "... Onun izniyle gerçeğin üzerini örtenleri kırıp biçiyordunuz, ama Allah size arzuladığınız zaferi gösterdikten sonra gevşeyip bu hususta çekiştiniz ve isyan ettiniz; sizden kimi dünyayı, kimi ahireti istiyordu; ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْءَاخِرَةَ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ وَلَقَدْ عَفَا عَنكُمْ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Allah, size verdiği sözde durdu. Onun izniyle gerçeğin üzerini örtenleri kırıp biçiyordunuz, ama Allah size arzuladığınız zaferi gösterdikten sonra gevşeyip bu hususta çekiştiniz ve isyan ettiniz; sizden kimi dünyayı, kimi ahireti istiyordu; derken denemek için Allah sizi geri çevirip bozguna uğrattı. And olsun ki O, sizi bağışladı. Allah'ın güvene erenlere nimeti boldur.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 159,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:159",
+      "word_position": 29,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Onları affet, onlara mağfiret dile, iş hakkında onlara danış, fakat karar verdin mi Allah'a güven, doğrusu Allah güvenenleri sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rahmetinden dolayı, sen onlara karşı yumuşak davrandın. Eğer kaba ve katı kalbli olsaydın, şüphesiz etrafından dağılır giderlerdi. Onları affet, onlara mağfiret dile, iş hakkında onlara danış, fakat karar verdin mi Allah'a güven, doğrusu Allah güvenenleri sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 3,
+      "ayah": 188,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:188",
+      "word_position": 7,
+      "target_word_uthmani": "وَّيُحِبُّونَ",
+      "target_word_rasm": "ويحبون",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 36,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:36",
+      "word_position": 28,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا",
+      "context_snippet_turkish_tabula_rasa": "... Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a kulluk edin, O'na bir şeyi ortak koşmayın. Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 107,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:107",
+      "word_position": 10,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine hainlik edenlerden yana uğraşmaya kalkma. Allah, hainlikte direnen suçluyu sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine hainlik edenlerden yana uğraşmaya kalkma. Allah, hainlikte direnen suçluyu sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 148,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:148",
+      "word_position": 2,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ",
+      "context_snippet_turkish_tabula_rasa": "Allah, zulme uğrayan kimseden başkasının, kötülüğü sözle bile açıklamasını sevmez. Allah işitir ve bilir.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, zulme uğrayan kimseden başkasının, kötülüğü sözle bile açıklamasını sevmez. Allah işitir ve bilir.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 13,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:13",
+      "word_position": 31,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "... İçlerinden pek azından başkasının daima hainliklerini görürsün, onları affet ve geç. Allah iyilik yapanları şüphesiz sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sözlerini bozdukları için onlara lanet ettik, kalblerini katılaştırdık. Onlar sözleri yerlerinden değiştirirler. Kendilerine belletilenin bir kısmını unuttular. İçlerinden pek azından başkasının daima hainliklerini görürsün, onları affet ve geç. Allah iyilik yapanları şüphesiz sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 5,
+      "ayah": 18,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:18",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَحِبَّٰٓؤُهُۥ",
+      "target_word_rasm": "وأحبؤه",
+      "target_word_literal_irab": "Ve O'nun sevgili dostları (`وَأَحِبَّٰٓؤُهُۥ`, kırık çoğul isim merfû — hemze `و` üzerinde `وأحبؤه`)",
+      "context_snippet_arabic": "نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم",
+      "context_snippet_turkish_tabula_rasa": "Yahudiler ve hıristiyanlar, \"Biz Allah'ın oğulları ve sevgilileriyiz\" dediler. \"Öyleyse sapma ve kusurlarınızdan ötürü size niçin azabediyor? Bilakis siz O'nun yarattığı insanlarsınız\" de, Allah dilediğini bağışlar, dilediğine azab eder. ...",
+      "morphology": {
+        "lemma": ">aHib~a`^&",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aHib~a`^&|ROOT:Hbb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudiler ve hıristiyanlar, \"Biz Allah'ın oğulları ve sevgilileriyiz\" dediler. \"Öyleyse sapma ve kusurlarınızdan ötürü size niçin azabediyor? Bilakis siz O'nun yarattığı insanlarsınız\" de, Allah dilediğini bağışlar, dilediğine azab eder. Göklerin, yerin ve ikisinin arasındakilerin hükümranlığı Allah'ındır. Dönüş O'nadır.",
+      "contextual_meaning": "İmtiyaz ve sevgili dostluk iddiasının reddi (`وَأَحِبَّٰٓؤُهُۥ` `5:18`): Yaptıklarının hesabını veren beşer varlığın ayrıcalıklı sevgi iddiasında bulunamayacağı uyarısı."
+    },
+    {
+      "surah": 5,
+      "ayah": 42,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:42",
+      "word_position": 25,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "بِٱلْقِسْطِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer hükmedersen aralarında adaletle hüküm ver. Allah adil olanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "سَمَّٰعُونَ لِلْكَذِبِ أَكَّٰلُونَ لِلسُّحْتِ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar yalana kulak verirler, haram yerler. Eğer sana gelirlerse aralarında hükmet, yahut onlardan yüz çevir; yüz çevirirsen sana bir zarar veremezler. Eğer hükmedersen aralarında adaletle hüküm ver. Allah adil olanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 5,
+      "ayah": 54,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:54",
+      "word_position": 13,
+      "target_word_uthmani": "يُحِبُّهُمْ",
+      "target_word_rasm": "يحبهم",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَٰفِرِينَ يُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. Allah her şeyi kaplar ve bilir.",
+      "contextual_meaning": "Eylemle test edilen sevgi ve karşılıklı gönül bağı (`3:31`, `5:54`, `24:22`, `28:56`): Sevgi iddiasının elçiye somut uyumla (`فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` `3:31`) doğrulanması."
+    },
+    {
+      "surah": 5,
+      "ayah": 54,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:54",
+      "word_position": 14,
+      "target_word_uthmani": "وَيُحِبُّونَهُۥٓ",
+      "target_word_rasm": "ويحبونه",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَٰفِرِينَ يُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. Allah her şeyi kaplar ve bilir.",
+      "contextual_meaning": "Eylemle test edilen sevgi ve karşılıklı gönül bağı (`3:31`, `5:54`, `24:22`, `28:56`): Sevgi iddiasının elçiye somut uyumla (`فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` `3:31`) doğrulanması."
+    },
+    {
+      "surah": 5,
+      "ayah": 64,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:64",
+      "word_position": 46,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yahudiler, \"Allah'ın eli sıkıdır\" dediler; dediklerinden ötürü elleri bağlandı, lanetlendiler. Hayır, O'nun iki eli de açıktır, nasıl dilerse sarfeder. ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudiler, \"Allah'ın eli sıkıdır\" dediler; dediklerinden ötürü elleri bağlandı, lanetlendiler. Hayır, O'nun iki eli de açıktır, nasıl dilerse sarfeder. And olsun ki, sana Rabbinden indirilen sözler onların çoğunun azgınlığını ve gerçeğin üzerini örtmesini artıracaktır. Onların arasına kıyamete kadar sürecek düşmanlık ve kin saldık. Savaş ateşini ne zaman körükleseler Allah onu söndürmüştür. Yeryüzünde bozgunculuğa koşarlar. Allah bozguncuları sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 87,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:87",
+      "word_position": 16,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın size helal ettiği temiz şeyleri haram kılmayın, hududu da aşmayın, doğrusu Allah aşırı gidenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ وَلَا تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın size helal ettiği temiz şeyleri haram kılmayın, hududu da aşmayın, doğrusu Allah aşırı gidenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 93,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:93",
+      "word_position": 23,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ٱتَّقَوا۟ وَّأَحْسَنُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere ve yararlı iş işleyenlere, -sakınırlar, güven duyup emin olurlar, yararlı işler işlerler, sonra haramdan sakınıp güven duyup emin olurlar ve sonra isyandan sakınıp iyilik yaparlarsa- daha önceleri tatmış olduklarından dolayı bir sorumluluk yoktur. Allah iyi davrananları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لَيْسَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟ وَّءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ثُمَّ ٱتَّقَوا۟ وَّءَامَنُوا۟ ثُمَّ ٱتَّقَوا۟ وَّأَحْسَنُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere ve yararlı iş işleyenlere, -sakınırlar, güven duyup emin olurlar, yararlı işler işlerler, sonra haramdan sakınıp güven duyup emin olurlar ve sonra isyandan sakınıp iyilik yaparlarsa- daha önceleri tatmış olduklarından dolayı bir sorumluluk yoktur. Allah iyi davrananları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 6,
+      "ayah": 59,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:59",
+      "word_position": 20,
+      "target_word_uthmani": "حَبَّةٍ",
+      "target_word_rasm": "حبة",
+      "target_word_literal_irab": "Bir tek tohum / hardal tanesinin (`حَبَّةٍ`, nekre tekil dişil birim ismi mecrûr)",
+      "context_snippet_arabic": "إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَٰتِ ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "... Düşen yaprağı, yerin karanlıklarında olan taneyi, yaşı kuruyu ki apaçık Kitap'tadır ancak O bilir.",
+      "morphology": {
+        "lemma": "Hab~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~ap|ROOT:Hbb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Gaybın anahtarları O'nun katındadır, onları ancak O bilir. Karada ve denizde olanı bilir. Düşen yaprağı, yerin karanlıklarında olan taneyi, yaşı kuruyu ki apaçık Kitap'tadır ancak O bilir.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 6,
+      "ayah": 76,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:76",
+      "word_position": 14,
+      "target_word_uthmani": "أُحِبُّ",
+      "target_word_rasm": "أحب",
+      "target_word_literal_irab": "Sevmem / gönülden bağlanmam (`أُحِبُّ`, IV. bab muzârî merfû, 1. tekil)",
+      "context_snippet_arabic": "أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Gece basınca bir yıldız gördü, \"işte bu benim Rabbim!\" dedi; yıldız batınca, \"batanları sevmem\" dedi.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|1S"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَآ أُحِبُّ ٱلْءَافِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece basınca bir yıldız gördü, \"işte bu benim Rabbim!\" dedi; yıldız batınca, \"batanları sevmem\" dedi.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 95,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:95",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْحَبِّ",
+      "target_word_rasm": "ٱلحب",
+      "target_word_literal_irab": "Daneyi / tohumu (`ٱلْحَبِّ`, marife cins ismi mecrûr)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ يُخْرِجُ ٱلْحَىَّ",
+      "context_snippet_turkish_tabula_rasa": "Taneyi ve çekirdeği yaran şüphesiz Allah'tır; ölüyü çıkarır. İşte Allah budur, nasıl yüz çevirirsiniz?",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ذَٰلِكُمُ ٱللَّهُ فَأَنَّىٰ تُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taneyi ve çekirdeği yaran şüphesiz Allah'tır; ölüyü çıkarır. İşte Allah budur, nasıl yüz çevirirsiniz?",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 6,
+      "ayah": 99,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:99",
+      "word_position": 17,
+      "target_word_uthmani": "حَبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Daneler / ekin tohumu (`حَبًّا`, nekre cins ismi mansûb)",
+      "context_snippet_arabic": "خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ",
+      "context_snippet_turkish_tabula_rasa": "... Her bitkiyi onunla bitirdik, ondan bitirdiğimiz yeşilden, birbirine benzeyen ve benzemeyen yığın yığın taneler, hurmaların tomurcuklarından sarkan salkımlar, üzüm bağları, zeytin ve nar çıkardık. Ürün verdiklerinde ürünlerine, olgunlaşmalarına bir bakın. ...",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَٰبِهٍ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ إِنَّ فِى ذَٰلِكُمْ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, gökten su indirendir. Her bitkiyi onunla bitirdik, ondan bitirdiğimiz yeşilden, birbirine benzeyen ve benzemeyen yığın yığın taneler, hurmaların tomurcuklarından sarkan salkımlar, üzüm bağları, zeytin ve nar çıkardık. Ürün verdiklerinde ürünlerine, olgunlaşmalarına bir bakın. Bunlarda, güvene erenler için, şüphesiz, deliller vardır.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 6,
+      "ayah": 141,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:141",
+      "word_position": 30,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Ürün verdiği zaman ürününden yiyin, devşirildiği ve biçildiği gün hakkını verin; israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çardaklı ve çardaksız bağları inşa eden Allah'tır. Tadları çeşitli ekin ve hurmaları, zeytin ve narı birbirine benzer ve benzemez şekilde yaratan O'dur. Ürün verdiği zaman ürününden yiyin, devşirildiği ve biçildiği gün hakkını verin; israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 31,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:31",
+      "word_position": 14,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Ademoğulları! Her mescide güzel elbiselerinizi giyinerek gidin; yiyin için fakat israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Ademoğulları! Her mescide güzel elbiselerinizi giyinerek gidin; yiyin için fakat israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 55,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:55",
+      "word_position": 7,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَخُفْيَةً إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinize gönülden ve gizlice yalvarın. Doğrusu O aşırı gidenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "ٱدْعُوا۟ رَبَّكُمْ تَضَرُّعًا وَخُفْيَةً إِنَّهُۥ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinize gönülden ve gizlice yalvarın. Doğrusu O aşırı gidenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 79,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:79",
+      "word_position": 13,
+      "target_word_uthmani": "تُحِبُّونَ",
+      "target_word_rasm": "تحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "لَكُمْ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "Salih de onlardan yüz çevirdi ve \"Ey milletim! And olsun ki ben size Rabbimin sözünü bildirmiş ve öğüt vermiştim; fakat siz öğüt verenleri sevmiyorsunuz\" dedi.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَالَةَ رَبِّى وَنَصَحْتُ لَكُمْ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Salih de onlardan yüz çevirdi ve \"Ey milletim! And olsun ki ben size Rabbimin sözünü bildirmiş ve öğüt vermiştim; fakat siz öğüt verenleri sevmiyorsunuz\" dedi.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 58,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:58",
+      "word_position": 13,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْخَآئِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer bir topluluğun anlaşmaya hıyanet etmesinden korkarsan, sen de onlara karşı anlaşmayı bozarak aynı şekilde davran. Doğrusu Allah hainleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْخَآئِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer bir topluluğun anlaşmaya hıyanet etmesinden korkarsan, sen de onlara karşı anlaşmayı bozarak aynı şekilde davran. Doğrusu Allah hainleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 4,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:4",
+      "word_position": 21,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yalnız, andlaşma hükümlerinde size karşı bir eksiklik yapmayan ve aleyhinizde kimseye yardım etmeyen otoriteyi bölüşüp ortak koşanlarla yaptığınız andlaşmaya sonuna kadar riayet edin. Allah sakınanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalnız, andlaşma hükümlerinde size karşı bir eksiklik yapmayan ve aleyhinizde kimseye yardım etmeyen otoriteyi bölüşüp ortak koşanlarla yaptığınız andlaşmaya sonuna kadar riayet edin. Allah sakınanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 9,
+      "ayah": 7,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:7",
+      "word_position": 22,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Size doğru davrandıkça siz de onlara doğru davranın. Allah, sözleşmelerini bozmaktan sakınanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "dokunulmaz teslimiyet odağı'ın yanında andlaştıklarınızın dışında, puta tapanların Allah katında ve elçiyi önünde nasıl bir andlaşmaları olabilir. Size doğru davrandıkça siz de onlara doğru davranın. Allah, sözleşmelerini bozmaktan sakınanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 9,
+      "ayah": 23,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:23",
+      "word_position": 10,
+      "target_word_uthmani": "ٱسْتَحَبُّوا۟",
+      "target_word_rasm": "ٱستحبوا",
+      "target_word_literal_irab": "Tercih edip üstün tuttular (`ٱسْتَحَبُّوا۟ / فَٱسْتَحَبُّوا۟`, X. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Babalarınızı, kardeşlerinizi küfrü güven bağı tercih ediyorlarsa dost edinmeyin. Sizden onları kim dost edinirse doğrusu kendine yazık etmiş olurlar.",
+      "morphology": {
+        "lemma": "{sotaHab~u",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaHab~u|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Babalarınızı, kardeşlerinizi küfrü güven bağı tercih ediyorlarsa dost edinmeyin. Sizden onları kim dost edinirse doğrusu kendine yazık etmiş olurlar.",
+      "contextual_meaning": "Tercih ve değer sıralaması (`ٱسْتَحَبُّوا۟` `9:23`, `14:3`, `16:107`, `41:17` X. bab): Hakikat ve gelecek kalıcı yurt yerine dünya çıkarını veya körlüğü daha sevgili seçip üstün tutma uyarısı."
+    },
+    {
+      "surah": 9,
+      "ayah": 24,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:24",
+      "word_position": 16,
+      "target_word_uthmani": "أَحَبَّ",
+      "target_word_rasm": "أحب",
+      "target_word_literal_irab": "Daha sevgili / öncelikli (`أَحَبَّ`, ism-i tafdîl mansûb)",
+      "context_snippet_arabic": "كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez. ...",
+      "morphology": {
+        "lemma": ">aHab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aHab~|ROOT:Hbb|MS|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez.\"",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 9,
+      "ayah": 108,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:108",
+      "word_position": 18,
+      "target_word_uthmani": "يُحِبُّونَ",
+      "target_word_rasm": "يحبون",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Orada, arınmak isteyen insanlar vardır. Allah, arınmak isteyenleri sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "لَا تَقُمْ فِيهِ أَبَدًا لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O mescide hiç girme! İlk gününden beri Allah'a karşı gelmekten sakınmak için kurulan mescidde bulunman daha uygundur. Orada, arınmak isteyen insanlar vardır. Allah, arınmak isteyenleri sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 9,
+      "ayah": 108,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:108",
+      "word_position": 22,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Orada, arınmak isteyen insanlar vardır. Allah, arınmak isteyenleri sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لَا تَقُمْ فِيهِ أَبَدًا لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O mescide hiç girme! İlk gününden beri Allah'a karşı gelmekten sakınmak için kurulan mescidde bulunman daha uygundur. Orada, arınmak isteyen insanlar vardır. Allah, arınmak isteyenleri sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 12,
+      "ayah": 8,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:8",
+      "word_position": 5,
+      "target_word_uthmani": "أَحَبُّ",
+      "target_word_rasm": "أحب",
+      "target_word_literal_irab": "Daha sevgili / daha yakın (`أَحَبُّ`, ism-i tafdîl merfû)",
+      "context_snippet_arabic": "قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "morphology": {
+        "lemma": ">aHab~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aHab~|ROOT:Hbb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 12,
+      "ayah": 30,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:30",
+      "word_position": 13,
+      "target_word_uthmani": "حُبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Sevgi bakımından / aşkla / aşırı sevgiyle (`حُبًّا`, nekre mastar mansûb)",
+      "context_snippet_arabic": "نَّفْسِهِۦ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَىٰهَا فِى",
+      "context_snippet_turkish_tabula_rasa": "Şehirde bir takım kadınlar: \"Vezirin karısı kölesinin olmak istiyormuş; sevgisi bağrını yakmış; doğrusu onun besbelli sapıtmış olduğunu görüyoruz.\" dediler.",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şehirde bir takım kadınlar: \"Vezirin karısı kölesinin olmak istiyormuş; sevgisi bağrını yakmış; doğrusu onun besbelli sapıtmış olduğunu görüyoruz.\" dediler.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 12,
+      "ayah": 33,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:33",
+      "word_position": 4,
+      "target_word_uthmani": "أَحَبُّ",
+      "target_word_rasm": "أحب",
+      "target_word_literal_irab": "Daha sevgili / daha yakın (`أَحَبُّ`, ism-i tafdîl merfû)",
+      "context_snippet_arabic": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf: \"Rabbim! Hapis benim için, bunların istediklerini yapmaktan daha iyidir. Eğer tuzaklarını benden uzaklaştırmazsan onlara meyleder ve bilmeyenlerden oluru...",
+      "morphology": {
+        "lemma": ">aHab~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aHab~|ROOT:Hbb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf: \"Rabbim! Hapis benim için, bunların istediklerini yapmaktan daha iyidir. Eğer tuzaklarını benden uzaklaştırmazsan onlara meyleder ve bilmeyenlerden olurum.\" dedi.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 14,
+      "ayah": 3,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:3",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْتَحِبُّونَ",
+      "target_word_rasm": "يستحبون",
+      "target_word_literal_irab": "Tercih edip severler (`يَسْتَحِبُّونَ`, X. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Onlar dünya hayatını ahirete tercih ederler, Allah'ın yolundan alıkoyup onun eğriliğini isterler. İşte onlar uzak bir sapıklık içindedirler.",
+      "morphology": {
+        "lemma": "{sotaHab~u",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(X)|LEM:{sotaHab~u|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۭ بَعِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar dünya hayatını ahirete tercih ederler, Allah'ın yolundan alıkoyup onun eğriliğini isterler. İşte onlar uzak bir sapıklık içindedirler.",
+      "contextual_meaning": "Tercih ve değer sıralaması (`ٱسْتَحَبُّوا۟` `9:23`, `14:3`, `16:107`, `41:17` X. bab): Hakikat ve gelecek kalıcı yurt yerine dünya çıkarını veya körlüğü daha sevgili seçip üstün tutma uyarısı."
+    },
+    {
+      "surah": 16,
+      "ayah": 23,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:23",
+      "word_position": 12,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "يُعْلِنُونَ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onların gizlediklerini de, açığa vurduklarını da Allah'ın bildiğinde şüphe yoktur. O, büyüklük taslayanları sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların gizlediklerini de, açığa vurduklarını da Allah'ın bildiğinde şüphe yoktur. O, büyüklük taslayanları sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 107,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:107",
+      "word_position": 3,
+      "target_word_uthmani": "ٱسْتَحَبُّوا۟",
+      "target_word_rasm": "ٱستحبوا",
+      "target_word_literal_irab": "Tercih edip üstün tuttular (`ٱسْتَحَبُّوا۟ / فَٱسْتَحَبُّوا۟`, X. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "ذَٰلِكَ بِأَنَّهُمُ ٱسْتَحَبُّوا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Bu, dünya hayatını ahirete tercih etmelerinden ve Allah'ın da, gerçeğin üzerini örten milleti doğru yola eriştirmemesinden ötürü böyledir.",
+      "morphology": {
+        "lemma": "{sotaHab~u",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaHab~u|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّهُمُ ٱسْتَحَبُّوا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَأَنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, dünya hayatını ahirete tercih etmelerinden ve Allah'ın da, gerçeğin üzerini örten milleti doğru yola eriştirmemesinden ötürü böyledir.",
+      "contextual_meaning": "Tercih ve değer sıralaması (`ٱسْتَحَبُّوا۟` `9:23`, `14:3`, `16:107`, `41:17` X. bab): Hakikat ve gelecek kalıcı yurt yerine dünya çıkarını veya körlüğü daha sevgili seçip üstün tutma uyarısı."
+    },
+    {
+      "surah": 20,
+      "ayah": 39,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:39",
+      "word_position": 18,
+      "target_word_uthmani": "مَحَبَّةً",
+      "target_word_rasm": "محبة",
+      "target_word_literal_irab": "Derin bir sevgi / gönül bağı (`مَحَبَّةً`, nekre mîmli mastar mansûb — `20:39` hapaxı)",
+      "context_snippet_arabic": "لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım. \"",
+      "morphology": {
+        "lemma": "maHab~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maHab~ap|ROOT:Hbb|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey Musa! İstediğin sana verildi\" dedi, \"Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım.\"",
+      "contextual_meaning": "Kalplere bırakılan ilâhî yakınlık çekimi (`مَحَبَّةً مِّنِّى` `20:39`): Bebek Mûsâ'ya bakan gönüllerde sevgi uyandırılması."
+    },
+    {
+      "surah": 21,
+      "ayah": 47,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:47",
+      "word_position": 13,
+      "target_word_uthmani": "حَبَّةٍ",
+      "target_word_rasm": "حبة",
+      "target_word_literal_irab": "Bir tek tohum / hardal tanesinin (`حَبَّةٍ`, nekre tekil dişil birim ismi mecrûr)",
+      "context_snippet_arabic": "وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا",
+      "context_snippet_turkish_tabula_rasa": "... hiçbir kimse hiçbir haksızlığa uğratılmaz. Hardal tanesi kadar olsa bile yapılanı ortaya koyarız. Hesap gören olarak Biz yeteriz.",
+      "morphology": {
+        "lemma": "Hab~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~ap|ROOT:Hbb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kıyamet günü doğru teraziler kurarız; hiçbir kimse hiçbir haksızlığa uğratılmaz. Hardal tanesi kadar olsa bile yapılanı ortaya koyarız. Hesap gören olarak Biz yeteriz.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 22,
+      "ayah": 38,
+      "surah_name": "Hac",
+      "ayah_ref": "22:38",
+      "word_position": 10,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz güvene erenleri savunur, çünkü hainleri ve nankörleri hiç sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٍ كَفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz güvene erenleri savunur, çünkü hainleri ve nankörleri hiç sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 19,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:19",
+      "word_position": 3,
+      "target_word_uthmani": "يُحِبُّونَ",
+      "target_word_rasm": "يحبون",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler arasından hayasızlığın yayılmasını arzu edenlere, işte onlara, dünya ve ahirette can yakıcı azap vardır. Allah bilir, siz ise bilmezsiniz.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler arasından hayasızlığın yayılmasını arzu edenlere, işte onlara, dünya ve ahirette can yakıcı azap vardır. Allah bilir, siz ise bilmezsiniz.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 22,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:22",
+      "word_position": 19,
+      "target_word_uthmani": "تُحِبُّونَ",
+      "target_word_rasm": "تحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "İçinizde lütuf ve servet sahibi olanlar, yakınlarına, düşkünlere ve Allah yolunda hicret edenlere, vermemek için bağlayıcı ahit etmesinler, affetsinler, geçsinl...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَٰكِينَ وَٱلْمُهَٰجِرِينَ فِى سَبِيلِ ٱللَّهِ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizde lütuf ve servet sahibi olanlar, yakınlarına, düşkünlere ve Allah yolunda hicret edenlere, vermemek için bağlayıcı ahit etmesinler, affetsinler, geçsinler. Allah'ın sizi bağışlamasından hoşlanmaz mısınız? Allah bağışlayandır, merhametli olandır.",
+      "contextual_meaning": "Eylemle test edilen sevgi ve karşılıklı gönül bağı (`3:31`, `5:54`, `24:22`, `28:56`): Sevgi iddiasının elçiye somut uyumla (`فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` `3:31`) doğrulanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 56,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:56",
+      "word_position": 5,
+      "target_word_uthmani": "أَحْبَبْتَ",
+      "target_word_rasm": "أحببت",
+      "target_word_literal_irab": "Sevdiğin / gönül verdiğin (`أَحْبَبْتَ`, IV. bab mâzî, 2. tekil eril — idğam çözülür)",
+      "context_snippet_arabic": "لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَٰكِنَّ ٱللَّهَ يَهْدِى",
+      "context_snippet_turkish_tabula_rasa": "Sen, sevdiğini doğru yola eriştiremezsin, ama Allah, dilediğini doğru yola eriştirir. Doğru yola girecekleri en iyi O bilir.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّكَ لَا تَهْدِى مَنْ أَحْبَبْتَ وَلَٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen, sevdiğini doğru yola eriştiremezsin, ama Allah, dilediğini doğru yola eriştirir. Doğru yola girecekleri en iyi O bilir.",
+      "contextual_meaning": "Eylemle test edilen sevgi ve karşılıklı gönül bağı (`3:31`, `5:54`, `24:22`, `28:56`): Sevgi iddiasının elçiye somut uyumla (`فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ` `3:31`) doğrulanması."
+    },
+    {
+      "surah": 28,
+      "ayah": 76,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:76",
+      "word_position": 28,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ قَٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ وَءَاتَيْنَٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; Allah'ın sana yaptığı iyilik gibi, sen de iyilik yap; yeryüzünde bozgunculuk isteme; doğrusu Allah bozguncuları sevmez\" demişlerdi.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 77,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:77",
+      "word_position": 25,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. Milleti ona: \"Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; Allah'ın sana yaptığı iyilik gibi, sen de iyilik yap; yeryüzünde bozgunculuk isteme; doğrusu Allah bozguncuları sevmez\" demişlerdi.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 45,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:45",
+      "word_position": 10,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "فَضْلِهِۦٓ إِنَّهُۥ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü Allah güvene erip yararlı iş işleyenlere lütfundan karşılık verecektir. Doğrusu O, gerçeğin üzerini örtenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِن فَضْلِهِۦٓ إِنَّهُۥ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü Allah güvene erip yararlı iş işleyenlere lütfundan karşılık verecektir. Doğrusu O, gerçeğin üzerini örtenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 16,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:16",
+      "word_position": 6,
+      "target_word_uthmani": "حَبَّةٍ",
+      "target_word_rasm": "حبة",
+      "target_word_literal_irab": "Bir tek tohum / hardal tanesinin (`حَبَّةٍ`, nekre tekil dişil birim ismi mecrûr)",
+      "context_snippet_arabic": "إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey oğulcuğum! İşlediğin şey, bir hardal tanesi ağırlığınca olsa da, bir kayanın içinde veya göklerde yahut yerin derinliklerinde bulunsa, Allah onu getirip meydana kor. Doğrusu Allah Latif'tir, haberdardır\".",
+      "morphology": {
+        "lemma": "Hab~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~ap|ROOT:Hbb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Lokman: \"Ey oğulcuğum! İşlediğin şey, bir hardal tanesi ağırlığınca olsa da, bir kayanın içinde veya göklerde yahut yerin derinliklerinde bulunsa, Allah onu getirip meydana kor. Doğrusu Allah Latif'tir, haberdardır\".",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 31,
+      "ayah": 18,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:18",
+      "word_position": 13,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "context_snippet_turkish_tabula_rasa": "\"İnsanları küçümseyip yüz çevirme, yeryüzünde böbürlenerek yürüme; Allah, kendini beğenip övünen hiç kimseyi şüphesiz ki sevmez.\"",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"İnsanları küçümseyip yüz çevirme, yeryüzünde böbürlenerek yürüme; Allah, kendini beğenip övünen hiç kimseyi şüphesiz ki sevmez.\"",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 33,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:33",
+      "word_position": 8,
+      "target_word_uthmani": "حَبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Daneler / ekin tohumu (`حَبًّا`, nekre cins ismi mansûb)",
+      "context_snippet_arabic": "أَحْيَيْنَٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşte onlara bir delil: Ölü yeri diriltir ve oradan taneler çıkarırız da ondan yerler.",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlara bir delil: Ölü yeri diriltir ve oradan taneler çıkarırız da ondan yerler.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 38,
+      "ayah": 32,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:32",
+      "word_position": 3,
+      "target_word_uthmani": "أَحْبَبْتُ",
+      "target_word_rasm": "أحببت",
+      "target_word_literal_irab": "Elbette sevdim / kaptırdım (`أَحْبَبْتُ`, IV. bab mâzî, 1. tekil — idğam çözülür)",
+      "context_snippet_arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن",
+      "context_snippet_turkish_tabula_rasa": "... \"Doğrusu ben bu iyi malları, Rabbimi anmayı sağladıkları için severim\" demişti. Koşup, toz perdesi arkasında kayboldukları zaman: ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>aHobabo|ROOT:Hbb|1S"
+      },
+      "ayah_text_arabic_full": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman: \"Doğrusu ben bu iyi malları, Rabbimi anmayı sağladıkları için severim\" demişti. Koşup, toz perdesi arkasında kayboldukları zaman: \"onları bana getirin\" dedi. Bacaklarını ve boyunlarını sıvazlamaya başlamıştı.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 38,
+      "ayah": 32,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:32",
+      "word_position": 4,
+      "target_word_uthmani": "حُبَّ",
+      "target_word_rasm": "حب",
+      "target_word_literal_irab": "İyi cins mal/at sevgisini (`حُبَّ`, muzâf mastar mansûb)",
+      "context_snippet_arabic": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Doğrusu ben bu iyi malları, Rabbimi anmayı sağladıkları için severim\" demişti. Koşup, toz perdesi arkasında kayboldukları zaman: ...",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman: \"Doğrusu ben bu iyi malları, Rabbimi anmayı sağladıkları için severim\" demişti. Koşup, toz perdesi arkasında kayboldukları zaman: \"onları bana getirin\" dedi. Bacaklarını ve boyunlarını sıvazlamaya başlamıştı.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 41,
+      "ayah": 17,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:17",
+      "word_position": 4,
+      "target_word_uthmani": "فَٱسْتَحَبُّوا۟",
+      "target_word_rasm": "فٱستحبوا",
+      "target_word_literal_irab": "Tercih edip üstün tuttular (`ٱسْتَحَبُّوا۟ / فَٱسْتَحَبُّوا۟`, X. bab mâzî, 3. çoğul eril)",
+      "context_snippet_arabic": "وَأَمَّا ثَمُودُ فَهَدَيْنَٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Semud milletine, doğru yolu göstermiştik, ama onlar körlüğü, doğru yolda gitmeye tercih ettiler. Kazandıklarının karşılığı olarak onları alçaltıcı azabın yıldırımı çarptı.",
+      "morphology": {
+        "lemma": "{sotaHab~u",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sotaHab~u|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ثَمُودُ فَهَدَيْنَٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَٰعِقَةُ ٱلْعَذَابِ ٱلْهُونِ بِمَا كَانُوا۟ يَكْسِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milletine, doğru yolu göstermiştik, ama onlar körlüğü, doğru yolda gitmeye tercih ettiler. Kazandıklarının karşılığı olarak onları alçaltıcı azabın yıldırımı çarptı.",
+      "contextual_meaning": "Tercih ve değer sıralaması (`ٱسْتَحَبُّوا۟` `9:23`, `14:3`, `16:107`, `41:17` X. bab): Hakikat ve gelecek kalıcı yurt yerine dünya çıkarını veya körlüğü daha sevgili seçip üstün tutma uyarısı."
+    },
+    {
+      "surah": 42,
+      "ayah": 40,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:40",
+      "word_position": 13,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهِ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bir kötülüğün karşılığı, aynı şekilde bir kötülüktür. Ama kim affeder ve barışırsa, onun ecri Allah'a aittir. Doğrusu O, zulmedenleri sevmez.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir kötülüğün karşılığı, aynı şekilde bir kötülüktür. Ama kim affeder ve barışırsa, onun ecri Allah'a aittir. Doğrusu O, zulmedenleri sevmez.",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 7,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:7",
+      "word_position": 15,
+      "target_word_uthmani": "حَبَّبَ",
+      "target_word_rasm": "حبب",
+      "target_word_literal_irab": "Gönlünüze sevdirdi / bağladı (`حَبَّبَ`, II. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... ama Allah size güven bağı sevdirmiş, onu gönüllerinize güzel göstermiş; gerçeğin üzerini örtme tavrını, yoldan çıkmayı ve baş kaldırmayı size iğrenç göstermiştir. ...",
+      "morphology": {
+        "lemma": "Hab~aba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Hab~aba|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ لَوْ يُطِيعُكُمْ فِى كَثِيرٍ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bilin ki, içinizde Allah'ın elçiyi bulunmaktadır. Eğer o, bir çok işlerde size uymuş olsaydı şüphesiz kötü duruma düşerdiniz; ama Allah size güven bağı sevdirmiş, onu gönüllerinize güzel göstermiş; gerçeğin üzerini örtme tavrını, yoldan çıkmayı ve baş kaldırmayı size iğrenç göstermiştir. İşte böyle olanlar, Allah katından bir lütuf ve nimet sayesinde doğru yolda bulunanlardır. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Gönle yerleştirilen sevgi ve tiksinti kutuplaşması (`حَبَّبَ ... وَكَرَّهَ` `49:7` II. bab hapaxı): Kalbe güveni sevdirip süslerken gerçeği örtmeyi ve sapmayı itici kılma mekanizması."
+    },
+    {
+      "surah": 49,
+      "ayah": 9,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:9",
+      "word_position": 29,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "وَأَقْسِطُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "context_snippet_turkish_tabula_rasa": "... eğer dönerlerse aralarını adaletle bulunuz, adil davranınız, şüphesiz Allah adil davrananları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer güvene erenlerden iki topluluk birbirleriyle savaşırlarsa aralarını düzeltiniz; eğer biri diğeri üzerine saldırırsa, saldıranlarla Allah'ın buyruğuna dönmelerine kadar savaşınız; eğer dönerlerse aralarını adaletle bulunuz, adil davranınız, şüphesiz Allah adil davrananları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 18,
+      "target_word_uthmani": "أَيُحِبُّ",
+      "target_word_rasm": "أيحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi birini...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 50,
+      "ayah": 9,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:9",
+      "word_position": 9,
+      "target_word_uthmani": "وَحَبَّ",
+      "target_word_rasm": "وحب",
+      "target_word_literal_irab": "Ve biçilen ekin danesini (`وَحَبَّ`, muzâf cins ismi mansûb)",
+      "context_snippet_arabic": "فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ",
+      "context_snippet_turkish_tabula_rasa": "Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler, biçilecek taneli ekinler, küme küme tomurcukları olan boylu hurma ağaçları yetiştirdik. O su ile ölü yeri dirilttik. ...",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler, biçilecek taneli ekinler, küme küme tomurcukları olan boylu hurma ağaçları yetiştirdik. O su ile ölü yeri dirilttik. İşte insanların diriltilmesi de böyledir.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 55,
+      "ayah": 12,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:12",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱلْحَبُّ",
+      "target_word_rasm": "وٱلحب",
+      "target_word_literal_irab": "Ve daneler / başaklı tahıl (`وَٱلْحَبُّ`, marife cins ismi merfû)",
+      "context_snippet_arabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "context_snippet_turkish_tabula_rasa": "Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar vardır.",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar vardır.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 57,
+      "ayah": 23,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:23",
+      "word_position": 12,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "ءَاتَىٰكُمْ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu, kaybettiğinize üzülmemeniz ve Allah'ın size verdiği nimetlerle şımarmamanız içindir. Allah, kendini beğenip öğünen hiç kimseyi sevmez;",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, kaybettiğinize üzülmemeniz ve Allah'ın size verdiği nimetlerle şımarmamanız içindir. Allah, kendini beğenip öğünen hiç kimseyi sevmez;",
+      "contextual_meaning": "İlâhî onayın dışında kalan kırmızı çizgiler (`لَا يُحِبُّ`): Saldırganlar, bozguncular, nankörler, hainler, israfçılar, kibirlenip böbürlenenler ve batan geçici yıldızlar (`6:76`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 9,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:9",
+      "word_position": 7,
+      "target_word_uthmani": "يُحِبُّونَ",
+      "target_word_rasm": "يحبون",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Daha önceden Medine'yi yurt edinmiş ve gönüllerine güven bağı yerleştirmiş olan kimseler, kendilerine hicret edip gelenleri severler; onlara verilenler karşısında içlerinde bir çekememezlik hissetmezler; ...",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Daha önceden Medine'yi yurt edinmiş ve gönüllerine güven bağı yerleştirmiş olan kimseler, kendilerine hicret edip gelenleri severler; onlara verilenler karşısında içlerinde bir çekememezlik hissetmezler; kendileri zaruret içinde bulunsalar bile onları kendilerinden önde tutarlar. kendi benliğinin tamahkarlığından korunabilmiş kimseler, işte onlar saadete erenlerdir.",
+      "contextual_meaning": "Sevileni paylaşarak sınanma (`3:92`, `2:177`, `59:9`, `76:8`): Kendi özünün sevdiği malı ve yemeği muhtaçlarla bölüşme erdemi."
+    },
+    {
+      "surah": 60,
+      "ayah": 8,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:8",
+      "word_position": 20,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِلَيْهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, yaşam ve hesap sistemi uğrunda sizinle savaşmayan, sizi yurdunuzdan çıkarmayan kimselere iyilik yapmanızı ve onlara karşı adil davranmanızı yasak kılmaz; doğrusu Allah adil olanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, yaşam ve hesap sistemi uğrunda sizinle savaşmayan, sizi yurdunuzdan çıkarmayan kimselere iyilik yapmanızı ve onlara karşı adil davranmanızı yasak kılmaz; doğrusu Allah adil olanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 61,
+      "ayah": 4,
+      "surah_name": "Saff",
+      "ayah_ref": "61:4",
+      "word_position": 3,
+      "target_word_uthmani": "يُحِبُّ",
+      "target_word_rasm": "يحب",
+      "target_word_literal_irab": "Sever / onaylayıp sahip çıkar (`يُحِبُّ / أَيُحِبُّ / يُحِبُّهُمْ`, IV. bab muzârî merfû, 3. tekil eril)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Allah, kendi uğrunda, kenetlenmiş bir duvar gibi, saf halinde çarpışanları sever.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Allah, kendi uğrunda, kenetlenmiş bir duvar gibi, saf halinde çarpışanları sever.",
+      "contextual_meaning": "İlâhî onay ve sevgi yöneltilen somut erdemler (`يُحِبُّ`): İyilik üretenler (`ٱلْمُحْسِنِينَ`), adaletle hükmedenler (`ٱلْمُقْسِطِينَ`), sorumluluk bilincindekiler, arınanlar, direnenler ve kenetlenmiş safta duranlar."
+    },
+    {
+      "surah": 61,
+      "ayah": 13,
+      "surah_name": "Saff",
+      "ayah_ref": "61:13",
+      "word_position": 2,
+      "target_word_uthmani": "تُحِبُّونَهَا",
+      "target_word_rasm": "تحبونها",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "وَأُخْرَىٰ تُحِبُّونَهَا نَصْرٌ مِّنَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Bundan başka, sevdiğiniz bir şey daha: Allah katından bir yardım ve yakın bir zafer vardır. güvene erenlere müjde ver.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "وَأُخْرَىٰ تُحِبُّونَهَا نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan başka, sevdiğiniz bir şey daha: Allah katından bir yardım ve yakın bir zafer vardır. güvene erenlere müjde ver.",
+      "contextual_meaning": "Toplumsal sevgi yanılgıları ve insanî tercihler (`2:216`, `3:119`, `3:152`, `3:188`, `7:79`, `24:19`, `49:12`, `61:13`): İnsanın bazen zararına olanı sevmesi, çirkinliği yayma arzusu veya öğüt vereni sevmemesi (`7:79`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 20,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:20",
+      "word_position": 3,
+      "target_word_uthmani": "تُحِبُّونَ",
+      "target_word_rasm": "تحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "context_snippet_turkish_tabula_rasa": "Hayır, hayır! Sizler, çabuk elde edeceğiniz dünya nimetlerini seversiniz.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, hayır! Sizler, çabuk elde edeceğiniz dünya nimetlerini seversiniz.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 76,
+      "ayah": 8,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:8",
+      "word_position": 4,
+      "target_word_uthmani": "حُبِّهِۦ",
+      "target_word_rasm": "حبه",
+      "target_word_literal_irab": "Sevgisine rağmen / sevgisi gibi / mal tutkusuyla (`كَحُبِّ / حُبِّهِۦ / لِحُبِّ`, mastar mecrûr)",
+      "context_snippet_arabic": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Onlar içleri çektiği halde, yiyeceği yoksula, öksüze ve esire yedirirler.",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar içleri çektiği halde, yiyeceği yoksula, öksüze ve esire yedirirler.",
+      "contextual_meaning": "Sevileni paylaşarak sınanma (`3:92`, `2:177`, `59:9`, `76:8`): Kendi özünün sevdiği malı ve yemeği muhtaçlarla bölüşme erdemi."
+    },
+    {
+      "surah": 76,
+      "ayah": 27,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:27",
+      "word_position": 3,
+      "target_word_uthmani": "يُحِبُّونَ",
+      "target_word_rasm": "يحبون",
+      "target_word_literal_irab": "Severler (`يُحِبُّونَ / يُحِبُّونَهُمْ / يُحِبُّونَكُمْ`, IV. bab muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu insanlar, çabuk elde edilen dünya nimetlerini severler de ağırlığı çekilmez günü arkalarında bırakırlar.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ يَوْمًا ثَقِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu insanlar, çabuk elde edilen dünya nimetlerini severler de ağırlığı çekilmez günü arkalarında bırakırlar.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 78,
+      "ayah": 15,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:15",
+      "word_position": 3,
+      "target_word_uthmani": "حَبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Daneler / ekin tohumu (`حَبًّا`, nekre cins ismi mansûb)",
+      "context_snippet_arabic": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "context_snippet_turkish_tabula_rasa": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık.",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "ayah_text_turkish_tabula_rasa_full": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 80,
+      "ayah": 27,
+      "surah_name": "Abese",
+      "ayah_ref": "80:27",
+      "word_position": 3,
+      "target_word_uthmani": "حَبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Daneler / ekin tohumu (`حَبًّا`, nekre cins ismi mansûb)",
+      "context_snippet_arabic": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+      "context_snippet_turkish_tabula_rasa": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.",
+      "morphology": {
+        "lemma": "Hab~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hab~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.",
+      "contextual_meaning": "Tohum, tahıl tanesi ve kozmik hassasiyet ölçüsü (`2:261`, `6:59,95,99`, `21:47`, `31:16`, `36:33`, `50:9`, `55:12`, `78:15`, `80:27`): Yedi yüz kat filiz veren tohumdan toprağın karanlığındaki hardal tanesine uzanan somut hayat çekirdeği."
+    },
+    {
+      "surah": 89,
+      "ayah": 20,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:20",
+      "word_position": 1,
+      "target_word_uthmani": "وَتُحِبُّونَ",
+      "target_word_rasm": "وتحبون",
+      "target_word_literal_irab": "Seversiniz / arzuluyorsunuz (`تُحِبُّونَ / تُحِبُّونَهَا / تُحِبُّونَهُمْ`, IV. bab muzârî merfû, 2. çoğul eril)",
+      "context_snippet_arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "context_snippet_turkish_tabula_rasa": "Malı pek çok seviyorsunuz.",
+      "morphology": {
+        "lemma": ">aHobabo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>aHobabo|ROOT:Hbb|2MP"
+      },
+      "ayah_text_arabic_full": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Malı pek çok seviyorsunuz.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 89,
+      "ayah": 20,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:20",
+      "word_position": 3,
+      "target_word_uthmani": "حُبًّا",
+      "target_word_rasm": "حبا",
+      "target_word_literal_irab": "Sevgi bakımından / aşkla / aşırı sevgiyle (`حُبًّا`, nekre mastar mansûb)",
+      "context_snippet_arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "context_snippet_turkish_tabula_rasa": "Malı pek çok seviyorsunuz.",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Malı pek çok seviyorsunuz.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    },
+    {
+      "surah": 100,
+      "ayah": 8,
+      "surah_name": "Âdiyât",
+      "ayah_ref": "100:8",
+      "word_position": 2,
+      "target_word_uthmani": "لِحُبِّ",
+      "target_word_rasm": "لحب",
+      "target_word_literal_irab": "Sevgisine rağmen / sevgisi gibi / mal tutkusuyla (`كَحُبِّ / حُبِّهِۦ / لِحُبِّ`, mastar mecrûr)",
+      "context_snippet_arabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten mala da pek düşkündür.",
+      "morphology": {
+        "lemma": "Hub~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Hub~|ROOT:Hbb|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten mala da pek düşkündür.",
+      "contextual_meaning": "İnsanî tutkuların yönü ve öncelik testi (`3:14`, `9:24`, `12:8-33`, `38:32`, `89:20`, `100:8`): Mal, at ve dünya sevgisinin (`حُبُّ ٱلشَّهَوَٰتِ`) sorumluluğu gölgelememesi ve Yûsuf'un zindanı zevke üstün tutması."
+    }
+  ]
+}

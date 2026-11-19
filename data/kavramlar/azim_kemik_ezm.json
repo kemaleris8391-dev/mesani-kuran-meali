@@ -1,0 +1,2658 @@
+{
+  "root": "ع-ظ-م",
+  "root_latin": "A-Z-M (EZm)",
+  "concept_name": "Azîm / Azm / Ta'zîm (Kemik Gibi Sarsılmaz Yapısal Sağlamlık, Büyüklük ve Yüceltme)",
+  "rank": 88,
+  "total_occurrences": 128,
+  "unique_ayahs_count": 127,
+  "unified_core_mechanism": "Kökün 128 geçişlik bütünü İbn Fâris'in ve Semitik dil ailesinin doğruladığı tek fizikî omurgaya oturur: 'Taşıyıcı sert kemik yapısı ve ondan doğan sarsılmaz ağırlık-büyüklük'. Üç tutarlı kolda çalışır: (1) Somut iskelet ve kemik (`عَظْم` `2`, `عِظَام` `13` = `15` geçiş): embriyolojik inşa (`23:14`), yaşlılıkta güç kaybı (`19:4`), hayvan anatomisi (`6:146`) ve çürümüş kemiklerden yeniden diriliş kanıtı (`36:78`, `75:3`, `79:11`). (2) Değer, derece, haber, lütuf, yaptırım ve ahlâk büyüklüğü (`عَظِيم` `107` ve `أَعْظَم` `3`: `ٱلْعَظِيمُ` mutlak sıfat, `خُلُقٍ عَظِيمٍ` `68:4`, `فَضْل / فَوْز / عَذَاب عَظِيم`, `نَبَإٍ عَظِيمٍ`, hafif sanılan büyük etik sorumluluk `24:15`). (3) Eylem olarak büyütme (`يُعَظِّمْ` `22:30,32` kutsal sınırlara saygı yüceltmesi; `يُعْظِمْ` `65:5` ödül hacmini büyütme).",
+  "physical_core": "Ham fiziki çekirdek: İbn Fâris'e göre tek asıl `كِبَرٌ وَقُوَّةٌ` — kemik (`ٱلْعَظْم`) gibi sert, yük taşıyan, kırılmaya ve çökmeye karşı dayanıklı yapısal omurga ve büyüklük (`وَمِنَ ٱلْبَابِ ٱلْعَظْمُ، وَهُوَ سُمِّىَ بِذَلِكَ لِقُوَّتِهِ وَشِدَّتِهِ`). İnsanı ayakta tutan sert kemik çatısı (`عَظْم / عِظَام` `15` kez) ile sarsılmaz ahlâk (`خُلُقٍ عَظِيمٍ`), büyük olay (`نَبَإٍ عَظِيمٍ`) ve Mutlak Büyüklük (`ٱلْعَظِيمُ`) aynı iskelet sağlamlığı metaforundan çıkar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris tek çekirdek kurar: `كِبَرٌ وَقُوَّةٌ` (hacim, derece veya etki bakımından büyük ve sert-sağlam olma). Kemiğin adı olan `عَظْم` bile bu güç ve sertlikten dolayı doğrudan aynı kökten türetilmiştir.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلْعَظْمُ` eklem çubukları/iskelet kemikleri (`قَصَبُ ٱلْمَفَاصِلِ`); `عَظُمَ` ise fizikî veya mânevî olarak irileşip ağırlık kazanmaktır.",
+    "lisan_al_arab": "Lisânü'l-Arab: `عَظِيم` hakir ve küçüğün (`حَقِير / صَغِير`) zıddıdır. `تَعْظِيم` (`22:30,32`) bir değerin hakkını verip onu saygın kılmak; `إِعْظَام` (`65:5`) ise bir şeyi büyük görüp/büyütüp katlamaktır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): Cisimler için boy-en-derinlik büyüklüğü olan `عِظَم` kavramı daha sonra her türlü anlamlı olay, şeref, ödül veya tehlikenin büyüklüğüne teşmil edilmiştir (`أَمْرٍ عَظِيمٍ`, `نَبَإٍ عَظِيمٍ`, `ٱلْعَظِيمُ` insan aklının sınırlarını aşan Mutlak Yücelik).",
+    "arbitration_decision": "Tahkim Kararı: Kökün iki görünümü sanılan 'kemik' (`عَظْم / عِظَام` `15` geçiş) ve 'büyük/yüce' (`عَظِيم / أَعْظَم / عَظَّمَ / أَعْظَمَ` `113` geçiş) aslında birbirinden kopuk iki tesadüfî anlam değil, Proto-Semitik 'iskeletin taşıyıcı sert sütunu (`*ʿaṯ̣m-`)' fizikî zemininde birleşen tek köktür. Ahlâktaki `خُلُقٍ عَظِيمٍ` (`68:4`) dahi sarsılmayan kemik omurgası gibi karakter sağlamlığıdır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*ʿ-ṯ̣-m / *ʿaṯ̣m- ('kemik, beden iskeleti, sert yapı; öze ve büyüklüğe ulaşma')",
+    "hebrew": "İbranice `עֶצֶם` (*ʿeṣem*: 'kemik, öz, zat, büyüklük/güç'; eylemsel `עָצַם` *ʿāṣam* 'güçlü, büyük, kalabalık ve sağlam olmak') ile Arapça `عَظْم / عَظِيم` aynı çift katmanı paylaşır.",
+    "aramaic_syriac": "Klasik Süryanice `ܥܰܛܡܳܐ` (*ʿaṭmā*: 'kemik, kalça/iskelet yapısı') — Proto-Semitik `*ṯ̣` sesinin Aramice `ṭ` sesine kaydığı düzenli formdur.",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece) ve Ge'ez'de `ዐጽም` (*ʿaṣm* 'kemik') + Ugaritçe `ʿẓm` ('kemik/büyük') doğrudan kökdeştir.",
+    "akkadian_geez": "Doğu Samicede Akadca `eṣemtu` ('kemik') aynı Proto-Semitik `*ʿaṯ̣m-` kökünün dişil ekli tam Doğu karşılığıdır.",
+    "phonological_note": "Proto-Semitik `*ʿ-ṯ̣-m` kökü bütün ailelerde ders kitabı kesinliğiyle izlenir: `*ṯ̣` ünsüzü Arapça ve Ugaritçede `ẓ` (`عَظْم`), Akadcada ve İbranicede `ṣ` (*eṣemtu*, *ʿeṣem*), Süryanicede `ṭ` (*ʿaṭmā*) sesine düzenli dönüşmüş ve hem 'kemik' hem 'sağlamlık/büyüklük' İbranicede de Arapçada da bir arada yaşamıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ق-ر / ص-غ-ر (`مِن طِين / نُّطْفَة / صَغِير ↔ عَظِيم` — Küçük/Değersiz Görülen vs Sarsılmaz Büyük — 18:49, 23:14, 24:15)",
+      "ل-ح-م (`عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا` — Sert İskelet Kemik vs Yumuşak Et Dokusu — 23:14)",
+      "و-ه-ن (`وَهَنَ ٱلْعَظْمُ` — Kemiğin Zayıflaması vs Yapısal Güç `عَظَمَة` — 19:4)"
+    ],
+    "key_ayahs": [
+      "23:14 (فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا — kemik çatısı ile onu örten yumuşak et dokusu Mesânîsi)",
+      "24:15 (وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ — insanların hafif/küçük sandığı ile Yaratıcı katında ağır/büyük olanın zıtlığı)",
+      "19:4 (إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى — sert kemiğin yıpranıp güçsüzleşmesi)",
+      "2:255 & 56:74,96 (ٱلْعَلِىُّ ٱلْعَظِيمُ / فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ — mutlak yüceliğin yüceltilmesi)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ع-ظ-م kemik gibi sağlam omurga ve küçümsenemeyen büyüklükse zıddı nedir?' Cevap: İnsanın hafif ve önemsiz sandığı (`هَيِّنٌ` ↔ `عَظِيمٌ` `24:15`), gevşek/küçük (`صَغِير`), sert kemiği örten yumuşak et (`لَحْم` `23:14`) ve kemiğin zayıflamasıdır (`وَهَن` `19:4`). İnsanın önemsiz gördüğü dedikoduya karşı ilâhî terazinin ağır/büyük kılması (`24:15`) ters testi doğrudan kanıtlar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "هَيِّنًا (İnsan Gözünde Küçük ve Önemsiz) vs عَظِيمٌ (Gerçek Terazide Çok Ağır ve Büyük) — 24:15",
+      "عِظَٰمًا (Yeni İnşa Edilen İskelet) vs ٱلْعِظَٰمَ (Etle Giydirilen Hazır Kemikler) — 23:14",
+      "يُعَظِّمْ (`II. Bab` 22:30,32: Saygınlığı ve Değeri Yüceltmek) vs يُعْظِمْ (`IV. Bab` 65:5: Ödül Miktarını Büyütmek)",
+      "خَيْرًا وَأَعْظَمَ أَجْرًا (`73:20`: Değerce Üstün ve Ölçüce Daha Büyük) vs أَعْظَمُ دَرَجَةً (`9:20`, `57:10`)"
+    ],
+    "mechanical_difference": "1) `23:14`te kök aynı ayette önce nekre sonuç (`فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا`: çiğnemlik etten kemikler inşa ettik) sonra marife nesne (`فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا`: sonra o kemiklere et giydirdik) olarak iki ayrı embriyolojik evreyi bağlar. 2) `24:15`te (`تَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ`) dedikodu ve iftiranın insan algısındaki hafifliğiyle etik terazideki sarsıcı büyüklüğü ayrılır. 3) II. bab `يُعَظِّمْ` (`22:30,32`) kalbî saygıyı, IV. bab `يُعْظِمْ` (`65:5`) ise verilen ödülün hacmini büyütmeyi anlatır."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "23:14",
+      "role": "Embriyoloji ve Çift İskelet Evresi Çapası (فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا)",
+      "literal_meaning": "'Çiğnemlik dokuyu sert kemiklere (`عِظَٰمًا`) dönüştürdük, sonra da o kemiklere (`ٱلْعِظَٰمَ`) et giydirdik.'"
+    },
+    {
+      "ref": "24:15",
+      "role": "Hafif Sanılan vs Büyük Gerçeklik Çapası (وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ)",
+      "literal_meaning": "'Siz onu önemsiz ve hafif (`هَيِّنًا`) sanıyordunuz; oysa o Allah katında son derece büyük ve ağır bir sorumluluktur (`عَظِيمٌ`).'"
+    },
+    {
+      "ref": "36:78 & 75:3 & 79:11",
+      "role": "Çürümüş Kemikten Diriliş Kanıtı (مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ)",
+      "literal_meaning": "'Şu un ufak olup dağılmış kemikleri (`ٱلْعِظَٰمَ`) kim yeniden diriltecek?' ve 'çürümüş kemikler (`عِظَٰمًا نَّخِرَةً`) olduktan sonra mı?'"
+    },
+    {
+      "ref": "68:4",
+      "role": "Sarsılmaz Ahlâk Omurgası Çapası (وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ)",
+      "literal_meaning": "'Ve elbette sen sarsılmaz, kemik gibi sağlam ve yüce bir ahlâk çizgisi (`خُلُقٍ عَظِيمٍ`) üzerindesin.'"
+    },
+    {
+      "ref": "2:255 & 56:74,96",
+      "role": "Mutlak Yücelik Sıfatı Çapası (وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ)",
+      "literal_meaning": "'Göklerin ve yerin korunması O'na ağır gelmez; O Mutlak Yüce ve Eşsiz Büyüklük Sahibi'dir (`ٱلْعَظِيمُ`).'"
+    },
+    {
+      "ref": "22:30 & 22:32 & 65:5",
+      "role": "II. ve IV. Bab Furûk Çapası (مَن يُعَظِّمْ حُرُمَٰتِ / شَعَٰٓئِرَ ٱللَّهِ & وَيُعْظِمْ لَهُۥٓ أَجْرًا)",
+      "literal_meaning": "'Kim dokunulmaz sınırları ve ortak sembolleri saygıyla yüceltirse (`يُعَظِّمْ`)...' ve 'kim sorumluluk bilinci taşırsa onun ödülünü katlayıp büyütür (`وَيُعْظِمْ`).'"
+    },
+    {
+      "ref": "57:10 & 9:20",
+      "role": "Öncü Fedakârlık Üstünlüğü Çapası (أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً)",
+      "literal_meaning": "'Zorluk anında fetih öncesinde paylaşıp mücadele edenler, derece bakımından sonrakilerden çok daha büyüktür (`أَعْظَمُ دَرَجَةً`).'"
+    },
+    {
+      "ref": "19:4 & 6:146",
+      "role": "Tekil Fizikî Kemik Çapası (إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى / مَا ٱخْتَلَطَ بِعَظْمٍ)",
+      "literal_meaning": "'Rabbim! Artık bedenimdeki kemik zayıfladı (`وَهَنَ ٱلْعَظْمُ`)' ve 'kemiğe bitişen/karışan (`بِعَظْمٍ`) kısımlar hariç...'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) `ع-ظ-م` kökü Kur'an'da yalnızca 3 kez fiil olarak geçer: ikisi II. bab (`يُعَظِّمْ` `22:30,32`: değerini tanıyıp yüceltmek), biri IV. bab (`وَيُعْظِمْ` `65:5`: miktar/ödülü büyütmek); her üçü de şart cümlesi içinde meczûm muzâridir. 2) Quranic Corpus kırık çoğul `عِظَام` (`13 MP`: `2:259`, `17:49,98`, `23:14` x2, `23:35,82`, `36:78`, `37:16,53`, `56:47`, `75:3`, `79:11`) kelimesini lemma etiketi olarak `EaZiym` altında gruplasa da morfolojide hepsi `MP` olup tekili `عَظْم` (`2 N`: `6:146`, `19:4`) kelimesidir; gerçek `عَظِيم` sıfat-ismi daima `MS` (`107` kez: `104 ADJ` + `3 N`: `4:113`, `24:15`, `56:76`) gelir. 3) `أَعْظَم` (`3`: `9:20`, `57:10`, `73:20`) ism-i tafdîldir ve ardından daima temyiz mansûb (`دَرَجَةً`, `أَجْرًا`) alır. 4) Rasm-ı Osmânî'de kök yalnız `13` farklı iskeletle yazılır: `عِظَام` çoğulu `75:3`te elifli (`عِظَامَهُۥ`), `2:259`da elifli (`ٱلْعِظَامِ`), kalan `11` geçişte ise dikey/hançer elifle (`عِظَٰمًا / وَعِظَٰمًا / ٱلْعِظَٰمَ`) elifsiz yazılır!",
+  "derivatives": {
+    "عَظِيم (`107 MS`: `104 ADJ` + `3 N` `4:113`, `24:15`, `56:76`) & أَعْظَم (`3`, ism-i tafdîl)": "Mutlak Yücelik sıfatı (`2:255`), sarsılmaz ahlâk (`68:4`), büyük lütuf/başarı/yaptırım ve öncelik üstünlüğü (`9:20`, `24:15`, `57:10`, `78:2`)",
+    "عَظْم (`2 N`: `6:146`, `19:4`) & عِظَام (`13 MP`, `عَظْم` kırık çoğulu)": "İskelet ve sert kemik dokusu: embriyo inşası (`23:14` x2), yaşlanma (`19:4`) ve çürümüş kemiklerin dirilişi (`36:78`, `75:3`, `79:11`)",
+    "يُعَظِّمْ (`2 V`, II. bab `22:30,32`) & يُعْظِمْ (`1 V`, IV. bab `65:5`)": "Dokunulmaz sınır ve sembolleri saygıyla yüceltmek (`22:30,32`) ve ödül karşılığını büyütmek (`65:5`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 7,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:7",
+      "word_position": 12,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "غِشَٰوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah onların kalblerini ve kulaklarını mühürlemiştir, gözlerinde de perde vardır ve büyük azab onlar içindir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onların kalblerini ve kulaklarını mühürlemiştir, gözlerinde de perde vardır ve büyük azab onlar içindir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 49,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:49",
+      "word_position": 18,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtarmıştık; bu Rabbinizin büyük bir imtihanı idi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtarmıştık; bu Rabbinizin büyük bir imtihanı idi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 105,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:105",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, rahmetini dilediğine tahsis eder. Allah büyük nimet sahibidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden ve Allah'a eş koşanlardan gerçeğin üzerini örtenler, Rabbinizden size bir iyilik gelmesini istemezler. Allah, rahmetini dilediğine tahsis eder. Allah büyük nimet sahibidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 114,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:114",
+      "word_position": 30,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeleri gerekir. Dünyada rezillik onlaradır, ahirette büyük azab da onlaradır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeleri gerekir. Dünyada rezillik onlaradır, ahirette büyük azab da onlaradır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 255,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:255",
+      "word_position": 50,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Hükümranlığı gökleri ve yeri kaplamıştır, onların gözetilmesi O'na ağır gelmez. O yücedir, büyüktür.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, O'ndan başka sığınak mercii (ilâh) olmayan, kendisini uyuklama ve uyku tutmayan, diri, her an yaratıklarını gözetip durandır. Göklerde olan ve yerde olan ancak O'nundur. O'nun izni olmadan katında şefaat edecek kimdir? Onların işlediklerini ve işleyeceklerini bilir, dilediğinden başka ilminden hiçbir şeyi kavrayamazlar. Hükümranlığı gökleri ve yeri kaplamıştır, onların gözetilmesi O'na ağır gelmez. O yücedir, büyüktür.",
+      "contextual_meaning": "Sarsılmaz ve sınırsız yüceliğin adı (`ٱلْعَظِيمُ`): Kürsüsü bütün evreni kuşatan mutlak otorite."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 51,
+      "target_word_uthmani": "ٱلْعِظَامِ",
+      "target_word_rasm": "ٱلعظام",
+      "target_word_literal_irab": "Çürümüş iskeletin kemikleri (`ٱلْعِظَامِ`, `عَظْم` kırık çoğulu mecrûr)",
+      "context_snippet_arabic": "لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "... eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; bu ona apaçık belli olunca, \"Artık Allah'ın her şeye Kadir olduğuna güvene ermiş bulunuyorum\" dedi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? \"Allah burayı ölümünden sonra acaba nasıl diriltecek?\" dedi. Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; bu ona apaçık belli olunca, \"Artık Allah'ın her şeye Kadir olduğuna güvene ermiş bulunuyorum\" dedi.",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 3,
+      "ayah": 74,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:74",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "\"Rahmetini dilediğine tahsis eder, Allah büyük, bol nimet sahibidir\".",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rahmetini dilediğine tahsis eder, Allah büyük, bol nimet sahibidir\".",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 105,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:105",
+      "word_position": 14,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Bir takım yüzlerin ağaracağı ve bir takım yüzlerin kararacağı günde büyük azab onlaradır. Yüzleri kararanlara: ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ تَفَرَّقُوا۟ وَٱخْتَلَفُوا۟ مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْبَيِّنَٰتُ وَأُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine belgeler geldikten sonra ayrılan ve ayrılığa düşenler gibi olmayın. Bir takım yüzlerin ağaracağı ve bir takım yüzlerin kararacağı günde büyük azab onlaradır. Yüzleri kararanlara: \"güven duy sonra gerçeğin üzerini örter misiniz? gerçeğin üzerini ört dolayı tadın azabı\" denecektir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 172,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:172",
+      "word_position": 15,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Kendileri savaşta yara aldıktan sonra Allah ve elçinin çağrısına koşanlara, hele onlardan iyilik edip sakınanlara büyük ecir vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendileri savaşta yara aldıktan sonra Allah ve elçinin çağrısına koşanlara, hele onlardan iyilik edip sakınanlara büyük ecir vardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 174,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:174",
+      "word_position": 15,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu yüzden kendilerine bir fenalık dokunmadan, Allah'tan nimet ve bollukla geri döndüler; Allah'ın rızasına uydular. Allah büyük, bol nimet sahibidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu yüzden kendilerine bir fenalık dokunmadan, Allah'tan nimet ve bollukla geri döndüler; Allah'ın rızasına uydular. Allah büyük, bol nimet sahibidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 176,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:176",
+      "word_position": 22,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "ٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Küfürde yarışanlar seni üzmesin; şüphesiz onlar Allah'a bir zarar veremezler. Allah ahirette onlara bir pay vermemek istiyor; onlara büyük azab vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ إِنَّهُمْ لَن يَضُرُّوا۟ ٱللَّهَ شَيْـًٔا يُرِيدُ ٱللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّا فِى ٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Küfürde yarışanlar seni üzmesin; şüphesiz onlar Allah'a bir zarar veremezler. Allah ahirette onlara bir pay vermemek istiyor; onlara büyük azab vardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 179,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:179",
+      "word_position": 36,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Artık Allah'a ve elçilerine güvene erin; güven duy ve sakınırsanız size büyük ecir vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah güvene erenleri sizin durumunuzda bırakacak değildir, temizi pisten ayıracaktır. Allah size gaybı bildirecek değildir; fakat Allah elçilerinden dilediğini seçip, ona gaybı bildirir. Artık Allah'a ve elçilerine güvene erin; güven duy ve sakınırsanız size büyük ecir vardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 13,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:13",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "فِيهَا وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'a ve elçisine kim itaat ederse onu içlerinden ırmaklar akan esenlik bahçelerine koyacaktır, orada temellidirler, büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "تِلْكَ حُدُودُ ٱللَّهِ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar Allah'ın yasalarıdır. Allah'a ve elçisine kim itaat ederse onu içlerinden ırmaklar akan esenlik bahçelerine koyacaktır, orada temellidirler, büyük kurtuluş budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 27,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:27",
+      "word_position": 13,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Allah sizin tevbenizi kabul etmek ister, şehvetlerine uyanlar ise sizin büyük bir sapıklığa girmenizi isterler.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sizin tevbenizi kabul etmek ister, şehvetlerine uyanlar ise sizin büyük bir sapıklığa girmenizi isterler.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 40,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:40",
+      "word_position": 15,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz zerre kadar haksızlık yapmaz, zerre kadar iyilik olsa onu kat kat arttırır ve yapana büyük ecir verir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz zerre kadar haksızlık yapmaz, zerre kadar iyilik olsa onu kat kat arttırır ve yapana büyük ecir verir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 48,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:48",
+      "word_position": 20,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'a ortak koşan kimse, şüphesiz büyük bir sapma ve kusurla iftira etmiş olur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kendisine ortak koşmayı elbette bağışlamaz, bundan başkasını dilediğine bağışlar. Allah'a ortak koşan kimse, şüphesiz büyük bir sapma ve kusurla iftira etmiş olur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 54,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:54",
+      "word_position": 18,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Yoksa Allah'ın bol nimetinden verdiği kimseleri mi çekemiyorlar? Oysa İbrahim ailesine kitap ve hikmet verdik, onlara büyük hükümranlık bahşettik.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ فَقَدْ ءَاتَيْنَآ ءَالَ إِبْرَٰهِيمَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa Allah'ın bol nimetinden verdiği kimseleri mi çekemiyorlar? Oysa İbrahim ailesine kitap ve hikmet verdik, onlara büyük hükümranlık bahşettik.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 67,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:67",
+      "word_position": 6,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "مِّن لَّدُنَّآ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "O zaman onlara kendi katımızdan büyük bir ecir verir ve onları doğru yola eriştirirdik.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذًا لَّءَاتَيْنَٰهُم مِّن لَّدُنَّآ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "O zaman onlara kendi katımızdan büyük bir ecir verir ve onları doğru yola eriştirirdik.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 73,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:73",
+      "word_position": 18,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Keşki onlarla beraber olsaydım da ben de büyük bir başarı kazansaydım\" der.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَصَٰبَكُمْ فَضْلٌ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ مَوَدَّةٌ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'tan size bir nimet erişse, and olsun ki, sizinle kendi arasında bir dostluk yokmuş gibi: \"Keşki onlarla beraber olsaydım da ben de büyük bir başarı kazansaydım\" der.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 74,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:74",
+      "word_position": 21,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah yolunda savaşır, öldürülür veya galib gelirse, Biz ona büyük bir ecir vereceğiz.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "O halde, dünya hayatı yerine ahireti alanlar, Allah yolunda savaşsınlar. Kim Allah yolunda savaşır, öldürülür veya galib gelirse, Biz ona büyük bir ecir vereceğiz.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 93,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:93",
+      "word_position": 16,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Kim bir güvene ereni kasden öldürürse cezası, içinde temelli kalacağı yakıcı yıkım yurdudur. Allah ona gazabetmiş, lanetlemiş ve büyük azab hazırlamıştır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim bir güvene ereni kasden öldürürse cezası, içinde temelli kalacağı yakıcı yıkım yurdudur. Allah ona gazabetmiş, lanetlemiş ve büyük azab hazırlamıştır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 33,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 113,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:113",
+      "word_position": 33,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah sana Kitap ve hikmet indirmiş, sana bilmediğini öğretmiştir. Allah'ın sana olan nimeti ne büyüktür.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَضُرُّونَكَ مِن شَىْءٍ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer sana Allah'ın bol nimeti ve rahmeti olmasaydı, onlardan bir takımı seni sapıtmaya çalışırdı. Halbuki onlar kendilerinden başkasını saptıramazlar, sana da bir zarar vermezler. Allah sana Kitap ve hikmet indirmiş, sana bilmediğini öğretmiştir. Allah'ın sana olan nimeti ne büyüktür.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 114,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:114",
+      "word_position": 26,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 146,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:146",
+      "word_position": 18,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar güven duy beraberdirler. Allah güvene erenlere büyük ecir verecektir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak tevbe edenler, kendi benliklerini ıslah edenler, Allah'ın Kitap'ına sarılanlar ve yaşam sistemlerine Allah için candan bağlananlar müstesnadır. Onlar güven duy beraberdirler. Allah güvene erenlere büyük ecir verecektir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 156,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:156",
+      "word_position": 6,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Bu, bir de gerçeğin üzerini örtmelerinden, Meryem'e büyük bir iftirada bulunmalarından ve: \"Meryem oğlu İsa Mesih'i, Allah'ın elçisini öldürdük\" demelerinden ötürüdür. ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَٰنًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, bir de gerçeğin üzerini örtmelerinden, Meryem'e büyük bir iftirada bulunmalarından ve: \"Meryem oğlu İsa Mesih'i, Allah'ın elçisini öldürdük\" demelerinden ötürüdür. Oysa onu öldürmediler ve asmadılar, fakat onlara öyle göründü. Ayrılığa düştükleri şeyde doğrusu şüphededirler, bu husustaki bilgileri ancak sanıya uymaktan ibarettir, kesin olarak onu öldürmediler, bilakis Allah onu kendi katına yükseltti. Allah Güçlü'dür, Hakim'dir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 162,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:162",
+      "word_position": 26,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Fakat onlardan ilimde derinleşmiş olanlara, sana indirilen Kitap'a ve senden önce indirilen Kitap'a güvene eren güvene erenlere, yöneliş ve sorumluluk bağı kılanlara, arınma ve gelişme payı verenlere, Allah'a ve ahiret gününe güvene erenlere, elbette büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat onlardan ilimde derinleşmiş olanlara, sana indirilen Kitap'a ve senden önce indirilen Kitap'a güvene eren güvene erenlere, yöneliş ve sorumluluk bağı kılanlara, arınma ve gelişme payı verenlere, Allah'a ve ahiret gününe güvene erenlere, elbette büyük ecir vereceğiz.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 9,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:9",
+      "word_position": 10,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah, güvene erenlere ve yararlı işler işleyenlere mağfiret ve büyük ecir olduğunu vadetmiştir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erenlere ve yararlı işler işleyenlere mağfiret ve büyük ecir olduğunu vadetmiştir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 33,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:33",
+      "word_position": 34,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Bu onlara dünyada bir rezilliktir. Onlara ahirette büyük azab vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah ve elçisiyle savaşanların ve yeryüzünde bozgunculuğa uğraşanların cezası öldürülmek veya asılmak yahut çapraz olarak el ve ayakları kesilmek ya da yerlerinden sürülmektir. Bu onlara dünyada bir rezilliktir. Onlara ahirette büyük azab vardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 41,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:41",
+      "word_position": 67,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Dünyada rezillik onlaradır. Onlara ahirette de büyük azab vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلرَّسُولُ لَا يَحْزُنكَ ٱلَّذِينَ يُسَٰرِعُونَ فِى ٱلْكُفْرِ مِنَ ٱلَّذِينَ قَالُوٓا۟ ءَامَنَّا بِأَفْوَٰهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ وَمِنَ ٱلَّذِينَ هَادُوا۟ سَمَّٰعُونَ لِلْكَذِبِ سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ لَمْ يَأْتُوكَ يُحَرِّفُونَ ٱلْكَلِمَ مِنۢ بَعْدِ مَوَاضِعِهِۦ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَٱحْذَرُوا۟ وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُۥ فَلَن تَمْلِكَ لَهُۥ مِنَ ٱللَّهِ شَيْـًٔا أُو۟لَٰٓئِكَ ٱلَّذِينَ لَمْ يُرِدِ ٱللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kalbleri güven duy, ağızlarıyla, \"güvene erdik\" diyenler, yahudilerden yalana kulak verenler ve başka bir topluluk hesabına casusluk edenlerden gerçeğin üzerini örtmeye koşanlar seni üzmesin. Sözleri asıl yerlerinden değiştirirler de, \"Böyle bir fetva size verilirse alın, verilmezse kaçının\" derler. Allah'ın fitneye düşmesini dilediği kimse için Allah'a karşı senin elinden bir şey gelmez. İşte onlar Allah'ın, kalblerini arıtmak istemediği kimselerdir. Dünyada rezillik onlaradır. Onlara ahirette de büyük azab vardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 119,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:119",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَنْهُ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah onlardan hoşnud olmuştur, onlar da Allah'tan hoşnud olmuşlardır, bu büyük kurtuluştur\" dedi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \"Bu, doğrulara doğruluklarının fayda verdiği gündür; ebedi ve temelli kalacakları, altlarından ırmaklar akan esenlik bahçeleri onlarındır. Allah onlardan hoşnud olmuştur, onlar da Allah'tan hoşnud olmuşlardır, bu büyük kurtuluştur\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 15,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:15",
+      "word_position": 9,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "\"Ben Rabbime karşı gelirsem, büyük günün azabından korkarım\" de.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ben Rabbime karşı gelirsem, büyük günün azabından korkarım\" de.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 146,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:146",
+      "word_position": 23,
+      "target_word_uthmani": "بِعَظْمٍ",
+      "target_word_rasm": "بعظم",
+      "target_word_literal_irab": "Kemiğe bitişen / kemik (`بِعَظْمٍ`, tekil isim mecrûr)",
+      "context_snippet_arabic": "أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "... Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. ...",
+      "morphology": {
+        "lemma": "EaZom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZom|ROOT:EZm|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. Biz şüphesiz doğru sözlüyüzdür.",
+      "contextual_meaning": "Gıda hukuku ayrımı (`أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ` `6:146`): Kemiğe yapışık yağ dokusu üzerinden eski yasakların sınır tarifi."
+    },
+    {
+      "surah": 7,
+      "ayah": 59,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:59",
+      "word_position": 20,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur; doğrusu sizin için büyük günün azabından korkuyorum\" dedi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Nuh'u milletine gönderdik. \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur; doğrusu sizin için büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 116,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:116",
+      "word_position": 11,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Siz koyun\" dedi. Sihirbazlar marifetlerini ortaya koyunca insanların gözlerini sihirlediler ve onları ürküttüler, büyük bir sihir yaptılar.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ أَلْقُوا۟ فَلَمَّآ أَلْقَوْا۟ سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ وَٱسْتَرْهَبُوهُمْ وَجَآءُو بِسِحْرٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Siz koyun\" dedi. Sihirbazlar marifetlerini ortaya koyunca insanların gözlerini sihirlediler ve onları ürküttüler, büyük bir sihir yaptılar.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 141,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:141",
+      "word_position": 18,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Sizi kötü azaba sokan, kadınlarınızı sağ bırakıp oğullarınızı öldüren Firavun ailesinden kurtarmıştık. Bunda, size Rabbiniz tarafından büyük bir imtihan vardı.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi kötü azaba sokan, kadınlarınızı sağ bırakıp oğullarınızı öldüren Firavun ailesinden kurtarmıştık. Bunda, size Rabbiniz tarafından büyük bir imtihan vardı.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 28,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:28",
+      "word_position": 10,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Mallarınızın ve çocuklarınızın, aslında bir sınama olduğunu ve büyük ecrin Allah katında bulunduğunu bilin.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarınızın ve çocuklarınızın, aslında bir sınama olduğunu ve büyük ecrin Allah katında bulunduğunu bilin.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 29,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:29",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'tan sakınırsanız, O size iyiyi kötüden ayırdedecek bir anlayış verir, kötülüklerinizi örter, sizi bağışlar. Allah büyük, bol nimet sahibidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَتَّقُوا۟ ٱللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا وَيُكَفِّرْ عَنكُمْ سَيِّـَٔاتِكُمْ وَيَغْفِرْ لَكُمْ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'tan sakınırsanız, O size iyiyi kötüden ayırdedecek bir anlayış verir, kötülüklerinizi örter, sizi bağışlar. Allah büyük, bol nimet sahibidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 68,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:68",
+      "word_position": 10,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "فِيمَآ أَخَذْتُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Daha önceden Allah'tan verilmiş bir hüküm olmasaydı, aldıklarınızdan ötürü size büyük bir azab erişirdi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَّوْلَا كِتَٰبٌ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمْ فِيمَآ أَخَذْتُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Daha önceden Allah'tan verilmiş bir hüküm olmasaydı, aldıklarınızdan ötürü size büyük bir azab erişirdi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 20,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:20",
+      "word_position": 10,
+      "target_word_uthmani": "أَعْظَمُ",
+      "target_word_rasm": "أعظم",
+      "target_word_literal_irab": "Derece ve konum bakımından çok daha büyük (`أَعْظَمُ`, ism-i tafdîl merfû)",
+      "context_snippet_arabic": "ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "güvene eren, hicret eden ve Allah yolunda mallarıyla, canlarıyla cihat eden kimselere Allah katında en büyük dereceler vardır. İşte kurtulanlar onlardır.",
+      "morphology": {
+        "lemma": ">aEoZam",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aEoZam|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren, hicret eden ve Allah yolunda mallarıyla, canlarıyla cihat eden kimselere Allah katında en büyük dereceler vardır. İşte kurtulanlar onlardır.",
+      "contextual_meaning": "Öncelik ve emek karşılığının derece üstünlüğü (`أَعْظَمُ دَرَجَةً` `9:20`, `57:10`; `أَعْظَمَ أَجْرًا` `73:20`): Zamanında yapılan fedakârlığın kıyas üstünlüğü."
+    },
+    {
+      "surah": 9,
+      "ayah": 22,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:22",
+      "word_position": 8,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Rableri onlara katından bir rahmet, hoşnutluk ve içinde tükenmez nimetler bulunan esenlik bahçeleri müjdeler. Doğrusu büyük ecir Allah katındadır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَآ أَبَدًا إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Rableri onlara katından bir rahmet, hoşnutluk ve içinde tükenmez nimetler bulunan esenlik bahçeleri müjdeler. Doğrusu büyük ecir Allah katındadır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 63,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:63",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "فِيهَا ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçisine karşı koymağa kalkışana, ebedi kalacağı yakıcı yıkım yurdu ateşi bulunduğunu bilmezler mi? Büyük rezillik budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدًا فِيهَا ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine karşı koymağa kalkışana, ebedi kalacağı yakıcı yıkım yurdu ateşi bulunduğunu bilmezler mi? Büyük rezillik budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 72,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:72",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Allah güvene eren erkeklere ve güvene eren kadınlara, temelli kalacakları, içlerinden ırmaklar akan esenlik bahçeleri, Adn esenlik bahçelerinde hoş meskenler vadetmiştir. Allah'ın hoşnut olması en büyük şeydir. İşte büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَدَ ٱللَّهُ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَمَسَٰكِنَ طَيِّبَةً فِى جَنَّٰتِ عَدْنٍ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah güvene eren erkeklere ve güvene eren kadınlara, temelli kalacakları, içlerinden ırmaklar akan esenlik bahçeleri, Adn esenlik bahçelerinde hoş meskenler vadetmiştir. Allah'ın hoşnut olması en büyük şeydir. İşte büyük kurtuluş budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 89,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:89",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "فِيهَا ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Allah onlara temelli kalacakları, içlerinden ırmaklar akan esenlik bahçeleri hazırlamıştır. Büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "أَعَدَّ ٱللَّهُ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onlara temelli kalacakları, içlerinden ırmaklar akan esenlik bahçeleri hazırlamıştır. Büyük kurtuluş budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 100,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:100",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "أَبَدًا ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah onlara, içinde temelli ve ebedi kalacakları, içlerinden ırmaklar akan esenlik bahçeleri hazırlamıştır; işte büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلسَّٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَٰنٍ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّٰتٍ تَجْرِى تَحْتَهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İyilik yarışında önceliği kazanan Muhacirler ve Ensar ile, onlara güzelce uyanlardan Allah hoşnut olmuştur, onlar da Allah'tan hoşnuddurlar. Allah onlara, içinde temelli ve ebedi kalacakları, içlerinden ırmaklar akan esenlik bahçeleri hazırlamıştır; işte büyük kurtuluş budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 101,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:101",
+      "word_position": 22,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... Kendilerine iki defa azabedeceğiz; onlar sonra da büyük bir azaba uğratılırlar.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَٰفِقُونَ وَمِنْ أَهْلِ ٱلْمَدِينَةِ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ نَحْنُ نَعْلَمُهُمْ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Çevrenizdeki Bedeviler içinde ikiyüzlüler ve Medine'liler içinde de ikiyüzlülükte direnenler vardır. Onları siz değil, ancak Biz biliriz. Kendilerine iki defa azabedeceğiz; onlar sonra da büyük bir azaba uğratılırlar.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 111,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:111",
+      "word_position": 37,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Verdiği sözü Allah'tan daha çok tutan kim vardır? Öyleyse, yaptığınız alışverişe sevinin; bu büyük başarıdır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz, Allah yolunda savaşıp, öldüren ve öldürülen güvene erenlerin canlarını ve mallarını Tevrat, İncil ve Kuran'da söz verilmiş bir hak olarak esenlik bahçesine karşılık satın almıştır. Verdiği sözü Allah'tan daha çok tutan kim vardır? Öyleyse, yaptığınız alışverişe sevinin; bu büyük başarıdır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 129,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:129",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Eğer yüz çevirirlerse de ki: \"Allah bana yeter; O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güveniyorum; O büyük arşın Rabbidir.\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yüz çevirirlerse de ki: \"Allah bana yeter; O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güveniyorum; O büyük arşın Rabbidir.\"",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 15,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:15",
+      "word_position": 39,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Onu kendiliğimden değiştiremem, ben ancak, bana vahyolunana uyarım. Ben Rabbime karşı gelirsem, büyük günün azabına uğramaktan korkarım. \"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açık açık okununca, bizimle karşılaşmayı ummayanlar, \"Bundan başka bir Kuran getir veya bunu değiştir\" dediler. De ki: \"Onu kendiliğimden değiştiremem, ben ancak, bana vahyolunana uyarım. Ben Rabbime karşı gelirsem, büyük günün azabına uğramaktan korkarım.\"",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 64,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:64",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Dünya hayatında da, ahirette de müjde onlaradır. Allah'ın sözlerinde hiçbir değişme yoktur. Bu büyük başarıdır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "لَهُمُ ٱلْبُشْرَىٰ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ لَا تَبْدِيلَ لِكَلِمَٰتِ ٱللَّهِ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatında da, ahirette de müjde onlaradır. Allah'ın sözlerinde hiçbir değişme yoktur. Bu büyük başarıdır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 28,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:28",
+      "word_position": 13,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Kocası gömleğin arkadan yırtılmış olduğunu görünce, karısına hitaben \"Doğrusu bu sizin hilenizdir, siz kadınların fendi büyüktür\" dedi. Yusuf'a dönerek: ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kocası gömleğin arkadan yırtılmış olduğunu görünce, karısına hitaben \"Doğrusu bu sizin hilenizdir, siz kadınların fendi büyüktür\" dedi. Yusuf'a dönerek: \"Yusuf! Sen bundan kimseye bahsetme\"; kadına dönerek: \"Sen de sapma ve kusurunun bağışlanmasını dile, çünkü suçlulardansın\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 6,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:6",
+      "word_position": 26,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtardı; bütün bunlarda Rabbinizden size büyük bir imtihan vardır. \"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milletine dedi ki: \"Allah'ın size olan nimetlerini anın; size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtardı; bütün bunlarda Rabbinizden size büyük bir imtihan vardır.\"",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 87,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:87",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْعَظِيمَ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Eşsiz büyüklükteki yüce (`ٱلْعَظِيمَ`, marife `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, sana daima tekrarlanan yedi ayetli Fatiha'yı ve Kuran-ı Azim'i verdik.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَٰكَ سَبْعًا مِّنَ ٱلْمَثَانِى وَٱلْقُرْءَانَ ٱلْعَظِيمَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, sana daima tekrarlanan yedi ayetli Fatiha'yı ve Kuran-ı Azim'i verdik.",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 16,
+      "ayah": 94,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:94",
+      "word_position": 19,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "ٱللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolundan alıkoymanıza karşılık kötü bir azap tadarsınız ve (ahirette de) büyük bir azaba uğrarsınız.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَتَّخِذُوٓا۟ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirinizi aldatmak için bağlayıcı ahit etmeyin ki, bu yüzden sağlamca yere basmakta olan ayak sürçebilir; Allah yolundan alıkoymanıza karşılık kötü bir azap tadarsınız ve (ahirette de) büyük bir azaba uğrarsınız.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 106,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:106",
+      "word_position": 24,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Gönlü güven bağı dolu olduğu halde, zor altında olan kimse müstesna, güven duy sonra Allah'ı gerçeğin üzerini örtüp, gönlünü gerçeğin üzerini örtmeye açanlara Allah katından bir gazap vardır; büyük azap da onlar içindir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönlü güven bağı dolu olduğu halde, zor altında olan kimse müstesna, güven duy sonra Allah'ı gerçeğin üzerini örtüp, gönlünü gerçeğin üzerini örtmeye açanlara Allah katından bir gazap vardır; büyük azap da onlar içindir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 40,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:40",
+      "word_position": 11,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz oğulları size ayırdı, seçti de kendisi için kız olarak kozmik görevlileri mi edindi? Doğrusu siz büyük söz söylüyorsunuz.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَٰٓئِكَةِ إِنَٰثًا إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz oğulları size ayırdı, seçti de kendisi için kız olarak kozmik görevlileri mi edindi? Doğrusu siz büyük söz söylüyorsunuz.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 49,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:49",
+      "word_position": 4,
+      "target_word_uthmani": "عِظَٰمًا",
+      "target_word_rasm": "عظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Biz kemik ve ufalanmış toprak olduğumuz zaman, yeniden mutlaka dirilecek miyiz? derler.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Biz kemik ve ufalanmış toprak olduğumuz zaman, yeniden mutlaka dirilecek miyiz? derler.",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 17,
+      "ayah": 98,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:98",
+      "word_position": 9,
+      "target_word_uthmani": "عِظَٰمًا",
+      "target_word_rasm": "عظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bu, ayetlerimizi gerçeğin üzerini ört ve: \"Kemik ve ufalanmış toprak olduğumuzda mı yeniden dirileceğiz?\" demelerinin cezasıdır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, ayetlerimizi gerçeğin üzerini ört ve: \"Kemik ve ufalanmış toprak olduğumuzda mı yeniden dirileceğiz?\" demelerinin cezasıdır.",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 19,
+      "ayah": 4,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:4",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْعَظْمُ",
+      "target_word_rasm": "ٱلعظم",
+      "target_word_literal_irab": "İskeletin taşıyıcı kemik yapısı (`ٱلْعَظْمُ`, tekil isim merfû)",
+      "context_snippet_arabic": "رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ",
+      "context_snippet_turkish_tabula_rasa": "Şöyle demişti: \"Rabbim! Gerçekten kemiklerim zayıfladı, saçlarım ağardı. Rabbim! Sana yalvarmakla şimdiye kadar bedbaht olup bir şeyden mahrum kalmadım.\"",
+      "morphology": {
+        "lemma": "EaZom",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZom|ROOT:EZm|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle demişti: \"Rabbim! Gerçekten kemiklerim zayıfladı, saçlarım ağardı. Rabbim! Sana yalvarmakla şimdiye kadar bedbaht olup bir şeyden mahrum kalmadım.\"",
+      "contextual_meaning": "Biyolojik yaşlanma gözlemi (`وَهَنَ ٱلْعَظْمُ مِنِّى` `19:4`): Kökün fizikî temeli olan kemiğin zayıflamasıyla beden gücünün çekilmesi."
+    },
+    {
+      "surah": 19,
+      "ayah": 37,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:37",
+      "word_position": 11,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Fırkalar, kendi aralarında anlaşmazlığa düştüler. Vay o büyük günü görecek gerçeğin üzerini örtenlerin haline!",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱخْتَلَفَ ٱلْأَحْزَابُ مِنۢ بَيْنِهِمْ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Fırkalar, kendi aralarında anlaşmazlığa düştüler. Vay o büyük günü görecek gerçeğin üzerini örtenlerin haline!",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 76,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:76",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Nuh da daha önceleri Bize yalvarmıştı, onun duasını kabul edip, kendisini ve ailesini büyük sıkıntıdan kurtardık.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh da daha önceleri Bize yalvarmıştı, onun duasını kabul edip, kendisini ve ailesini büyük sıkıntıdan kurtardık.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 1,
+      "surah_name": "Hac",
+      "ayah_ref": "22:1",
+      "word_position": 9,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Rabbinizden sakının; doğrusu kıyamet gününün sarsıntısı büyük şeydir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Rabbinizden sakının; doğrusu kıyamet gününün sarsıntısı büyük şeydir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 30,
+      "surah_name": "Hac",
+      "ayah_ref": "22:30",
+      "word_position": 3,
+      "target_word_uthmani": "يُعَظِّمْ",
+      "target_word_rasm": "يعظم",
+      "target_word_literal_irab": "Saygı duyup değerini yüceltirse (`يُعَظِّمْ`, II. bab meczûm muzâri `3MS`)",
+      "context_snippet_arabic": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "İşte böyle. Kim Allah'ın yasaklarına saygı gösterirse, bu Rabbinin katında kendi iyiliğinedir. (Haram olduğu) size okunanlar dışında kalan hayvanlar, size helal...",
+      "morphology": {
+        "lemma": "yuEaZ~imo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuEaZ~imo|ROOT:EZm|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ وَأُحِلَّتْ لَكُمُ ٱلْأَنْعَٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَٰنِ وَٱجْتَنِبُوا۟ قَوْلَ ٱلزُّورِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böyle. Kim Allah'ın yasaklarına saygı gösterirse, bu Rabbinin katında kendi iyiliğinedir. (Haram olduğu) size okunanlar dışında kalan hayvanlar, size helal kılındı. O halde pis putlardan sakının; yalan sözden kaçının.",
+      "contextual_meaning": "II. bab `يُعَظِّمْ` (`22:30`, `22:32`): Dokunulmaz sınırları ve ortak sembolleri saygıyla yüceltmenin kalplerdeki duyarlılık (`تَقْوَى ٱلْقُلُوبِ`) göstergesi oluşu."
+    },
+    {
+      "surah": 22,
+      "ayah": 32,
+      "surah_name": "Hac",
+      "ayah_ref": "22:32",
+      "word_position": 3,
+      "target_word_uthmani": "يُعَظِّمْ",
+      "target_word_rasm": "يعظم",
+      "target_word_literal_irab": "Saygı duyup değerini yüceltirse (`يُعَظِّمْ`, II. bab meczûm muzâri `3MS`)",
+      "context_snippet_arabic": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا",
+      "context_snippet_turkish_tabula_rasa": "Bu böyledir; kişinin Allah'ın nişanelerine hürmet göstermesi, kalblerin Allah'a karşı gelmekten sakınmasındandır.",
+      "morphology": {
+        "lemma": "yuEaZ~imo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuEaZ~imo|ROOT:EZm|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ وَمَن يُعَظِّمْ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقْوَى ٱلْقُلُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu böyledir; kişinin Allah'ın nişanelerine hürmet göstermesi, kalblerin Allah'a karşı gelmekten sakınmasındandır.",
+      "contextual_meaning": "II. bab `يُعَظِّمْ` (`22:30`, `22:32`): Dokunulmaz sınırları ve ortak sembolleri saygıyla yüceltmenin kalplerdeki duyarlılık (`تَقْوَى ٱلْقُلُوبِ`) göstergesi oluşu."
+    },
+    {
+      "surah": 23,
+      "ayah": 14,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:14",
+      "word_position": 10,
+      "target_word_uthmani": "عِظَٰمًا",
+      "target_word_rasm": "عظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا",
+      "context_snippet_turkish_tabula_rasa": "Sonra nutfeyi kan pıhtısına çevirdik, kan pıhtısını bir çiğnemlik et yaptık, bir çiğnemlik etten kemikler yarattık, kemiklere de et giydirdik. Sonra onu başka bir yaratık yaptık: ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra nutfeyi kan pıhtısına çevirdik, kan pıhtısını bir çiğnemlik et yaptık, bir çiğnemlik etten kemikler yarattık, kemiklere de et giydirdik. Sonra onu başka bir yaratık yaptık: Biçim verenlerin en güzeli olan Allah ne uludur!",
+      "contextual_meaning": "Embriyolojik kemik-et inşa basamağı (`فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا` `23:14`): Aynı ayette çiğnemlik dokudan kemik (`عِظَٰمًا`) inşası ve üzerine et giydirilmesi!"
+    },
+    {
+      "surah": 23,
+      "ayah": 14,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:14",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْعِظَٰمَ",
+      "target_word_rasm": "ٱلعظم",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ",
+      "context_snippet_turkish_tabula_rasa": "Sonra nutfeyi kan pıhtısına çevirdik, kan pıhtısını bir çiğnemlik et yaptık, bir çiğnemlik etten kemikler yarattık, kemiklere de et giydirdik. Sonra onu başka bir yaratık yaptık: ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra nutfeyi kan pıhtısına çevirdik, kan pıhtısını bir çiğnemlik et yaptık, bir çiğnemlik etten kemikler yarattık, kemiklere de et giydirdik. Sonra onu başka bir yaratık yaptık: Biçim verenlerin en güzeli olan Allah ne uludur!",
+      "contextual_meaning": "Embriyolojik kemik-et inşa basamağı (`فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا` `23:14`): Aynı ayette çiğnemlik dokudan kemik (`عِظَٰمًا`) inşası ve üzerine et giydirilmesi!"
+    },
+    {
+      "surah": 23,
+      "ayah": 35,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:35",
+      "word_position": 7,
+      "target_word_uthmani": "وَعِظَٰمًا",
+      "target_word_rasm": "وعظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Öldüğünüz, toprak ve kemik yığını olduğunuz zaman tekrar dirilmenizle sizi tehdit mi ediyor?\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Öldüğünüz, toprak ve kemik yığını olduğunuz zaman tekrar dirilmenizle sizi tehdit mi ediyor?\"",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 23,
+      "ayah": 82,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:82",
+      "word_position": 6,
+      "target_word_uthmani": "وَعِظَٰمًا",
+      "target_word_rasm": "وعظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir\" demişlerdi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öncekiler: \"Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir\" demişlerdi.",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 23,
+      "ayah": 86,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:86",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "\"Yedi göğün de Rabbi, yüce arşın da Rabbi kimdir?\" de.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yedi göğün de Rabbi, yüce arşın da Rabbi kimdir?\" de.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 11,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:11",
+      "word_position": 28,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... O kimselerden her birine kazandığı sapma ve ağır kusur karşılığı ceza vardır; içlerinden elebaşılık yapana ise büyük azap vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ جَآءُو بِٱلْإِفْكِ عُصْبَةٌ مِّنكُمْ لَا تَحْسَبُوهُ شَرًّا لَّكُم بَلْ هُوَ خَيْرٌ لَّكُمْ لِكُلِّ ٱمْرِئٍ مِّنْهُم مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "(elçi'in eşi hakkında) o yalanı uyduranlar içinizden bir güruhtur. Bunu kendiniz için kötü sanmayın, o sizin için hayırlı olmuştur. O kimselerden her birine kazandığı sapma ve ağır kusur karşılığı ceza vardır; içlerinden elebaşılık yapana ise büyük azap vardır.",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 24,
+      "ayah": 14,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:14",
+      "word_position": 15,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın dünya ve ahirette size lütuf ve merhameti olmasaydı, o kötü sözü yaymanızdan ötürü büyük bir azaba uğrardınız.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ لَمَسَّكُمْ فِى مَآ أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın dünya ve ahirette size lütuf ve merhameti olmasaydı, o kötü sözü yaymanızdan ötürü büyük bir azaba uğrardınız.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 15,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:15",
+      "word_position": 16,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Onu dilinize dolamıştınız. Bilmediğiniz şeyleri ağzınıza alıyordunuz. Onu önemsiz bir şey sanıyordunuz, oysa Allah katında önemi büyüktü.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu dilinize dolamıştınız. Bilmediğiniz şeyleri ağzınıza alıyordunuz. Onu önemsiz bir şey sanıyordunuz, oysa Allah katında önemi büyüktü.",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 24,
+      "ayah": 16,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:16",
+      "word_position": 14,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "سُبْحَٰنَكَ هَٰذَا بُهْتَٰنٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "O'nu işittiğinizde: \"Bu konuda konuşmamız yakışık almaz; haşa, bu büyük bir iftiradır\" demeniz gerekmez miydi?",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ هَٰذَا بُهْتَٰنٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O'nu işittiğinizde: \"Bu konuda konuşmamız yakışık almaz; haşa, bu büyük bir iftiradır\" demeniz gerekmez miydi?",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 24,
+      "ayah": 23,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:23",
+      "word_position": 13,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "وَٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Kendi dilleri, elleri ve ayakları, yapmış olduklarına şahidlik ettikleri gün onlar büyük azaba uğrayacaklardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ٱلْغَٰفِلَٰتِ ٱلْمُؤْمِنَٰتِ لُعِنُوا۟ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İffetli, habersiz, güvene eren kadınlara zina isnat edenler dünya ve ahirette lanetlenmişlerdir. Kendi dilleri, elleri ve ayakları, yapmış olduklarına şahidlik ettikleri gün onlar büyük azaba uğrayacaklardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 63,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:63",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine Biz Musa'ya: \"Değneğinle denize vur\" diye vahyettik. Hemen deniz ikiye ayrıldı, her parçası yüce bir dağ gibiydi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine Biz Musa'ya: \"Değneğinle denize vur\" diye vahyettik. Hemen deniz ikiye ayrıldı, her parçası yüce bir dağ gibiydi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 135,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:135",
+      "word_position": 6,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 156,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:156",
+      "word_position": 7,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... sakın ona bir kötülük yapmayın, yoksa sizi büyük günün azabı yakalar\" dedi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Salih: \" İşte belge bu devedir. Kuyudan su içmek hakkı belirli bir gün onun ve belirli bir gün de sizindir; sakın ona bir kötülük yapmayın, yoksa sizi büyük günün azabı yakalar\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 189,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:189",
+      "word_position": 10,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Ama onu yalanladılar. Bunun üzerine onları bulutlu bir günün azabı yakaladı. Gerçekten o gün, azabı büyük bir gündü.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ إِنَّهُۥ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama onu yalanladılar. Bunun üzerine onları bulutlu bir günün azabı yakaladı. Gerçekten o gün, azabı büyük bir gündü.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 23,
+      "surah_name": "Neml",
+      "ayah_ref": "27:23",
+      "word_position": 11,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çok geçmeden Hüdhüd gelip Süleyman'a: \"Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka sığınak mercii (ilâh) yoktur\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 26,
+      "surah_name": "Neml",
+      "ayah_ref": "27:26",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Çok geçmeden Hüdhüd gelip Süleyman'a: \"Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka sığınak mercii (ilâh) yoktur\" dedi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 79,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:79",
+      "word_position": 20,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Karun'a verildiği gibi bizim de olsa; doğrusu o büyük bir varlık sahibidir\" demişlerdi.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَخَرَجَ عَلَىٰ قَوْمِهِۦ فِى زِينَتِهِۦ قَالَ ٱلَّذِينَ يُرِيدُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا يَٰلَيْتَ لَنَا مِثْلَ مَآ أُوتِىَ قَٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun, ihtişam içinde milletinin karşısına çıktı. Dünya hayatını isteyenler: \"Karun'a verildiği gibi bizim de olsa; doğrusu o büyük bir varlık sahibidir\" demişlerdi.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 13,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:13",
+      "word_position": 14,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Lokman, oğluna öğüt vererek: \"Ey oğulcuğum! Allah'a eş koşma, doğrusu eş koşmak büyük zulümdür\" demişti.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Lokman, oğluna öğüt vererek: \"Ey oğulcuğum! Allah'a eş koşma, doğrusu eş koşmak büyük zulümdür\" demişti.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 29,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:29",
+      "word_position": 14,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer Allah'ı, elçisini, ahiret yurdunu istiyorsanız bilin ki, Allah içinizden iyi davrananlara büyük ecir hazırlamıştır.\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer Allah'ı, elçisini, ahiret yurdunu istiyorsanız bilin ki, Allah içinizden iyi davrananlara büyük ecir hazırlamıştır.\"",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 35,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:35",
+      "word_position": 30,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 69,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. ...",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için de girip oturmayın. Bu haliniz elçi'i üzüyor, o da size bir şey söylemeye çekiniyordu. Allah gerçeği söylemekten çekinmez. elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. Bundan sonra ne Allah'ın elçi'ini üzmeniz ve ne de O'nuneşlerini nikahlamanız asla caiz değildir. Doğrusu bu, Allah katında büyük şeydir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 71,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:71",
+      "word_position": 14,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah'a ve elçi'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يُصْلِحْ لَكُمْ أَعْمَٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'tan sakının, dürüst söz söyleyin de Allah işlerinizi kendinize yararlı kılsın ve sapma ve kusurlarınızı size bağışlasın. Kim Allah'a ve elçi'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 78,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:78",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْعِظَٰمَ",
+      "target_word_rasm": "ٱلعظم",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 37,
+      "ayah": 16,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:16",
+      "word_position": 5,
+      "target_word_uthmani": "وَعِظَٰمًا",
+      "target_word_rasm": "وعظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Bu apaçık bir sihirdir; öldüğümüz, toprak ve kemik olduğumuz zaman, önceki babalarımız yahut biz mi dirileceğiz?\" derler.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu apaçık bir sihirdir; öldüğümüz, toprak ve kemik olduğumuz zaman, önceki babalarımız yahut biz mi dirileceğiz?\" derler.",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 37,
+      "ayah": 53,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:53",
+      "word_position": 5,
+      "target_word_uthmani": "وَعِظَٰمًا",
+      "target_word_rasm": "وعظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+      "context_snippet_turkish_tabula_rasa": "... 'Sen de mi, ölüp toprak ve kemik olduğumuz zaman dirilerek ceza göreceğimizi tasdik edenlerdensin?' derdi. \"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İçlerinden biri şöyle der: \"Benim bir dostum vardı, bana: 'Sen de mi, ölüp toprak ve kemik olduğumuz zaman dirilerek ceza göreceğimizi tasdik edenlerdensin?' derdi.\"",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 37,
+      "ayah": 60,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:60",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "هَٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "İşte büyük kurtuluş şüphesiz budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte büyük kurtuluş şüphesiz budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 76,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:76",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Onu ve ailesini büyük sıkıntıdan kurtarmıştık.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu ve ailesini büyük sıkıntıdan kurtarmıştık.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 107,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:107",
+      "word_position": 3,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Ona fidye olarak büyük bir yakınlaşma sunusu verdik.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona fidye olarak büyük bir yakınlaşma sunusu verdik.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 115,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:115",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "İkisini ve milletlerini büyük bir sıkıntıdan kurtarmıştık.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisini ve milletlerini büyük bir sıkıntıdan kurtarmıştık.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 67,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:67",
+      "word_position": 4,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Bu Kuran büyük bir haberdir, ama siz ondan yüz çeviriyorsunuz.\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Bu Kuran büyük bir haberdir, ama siz ondan yüz çeviriyorsunuz.\"",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 39,
+      "ayah": 13,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:13",
+      "word_position": 9,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Rabbime karşı gelirsem, doğrusu büyük günün azabından korkarım.\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Rabbime karşı gelirsem, doğrusu büyük günün azabından korkarım.\"",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 9,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:9",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "\"Onları kötülüklerden koru! O gün kötülüklerden kimi korursan, ona şüphesiz rahmet etmiş olursun. Bu büyük kurtuluştur.\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَقِهِمُ ٱلسَّيِّـَٔاتِ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍ فَقَدْ رَحِمْتَهُۥ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Onları kötülüklerden koru! O gün kötülüklerden kimi korursan, ona şüphesiz rahmet etmiş olursun. Bu büyük kurtuluştur.\"",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 35,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:35",
+      "word_position": 11,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "إِلَّا ذُو حَظٍّ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Bu, ancak sebat edip direnenlere vergidir; bu ancak o büyük hazzı tadanlara vergidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, ancak sebat edip direnenlere vergidir; bu ancak o büyük hazzı tadanlara vergidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 4,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:4",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "ٱلْأَرْضِ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar da, yerde olanlar da O'nundur. O, çok yücedir ve büyüktür.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar da, yerde olanlar da O'nundur. O, çok yücedir ve büyüktür.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 31,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:31",
+      "word_position": 10,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "رَجُلٍ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "\"Bu Kuran, iki şehrin birinden bir büyük adama indirilmeli değil miydi?\" dediler.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu Kuran, iki şehrin birinden bir büyük adama indirilmeli değil miydi?\" dediler.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 57,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:57",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları yakıcı yıkım yurdu azabından korumuştur. İşte büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَضْلًا مِّن رَّبِّكَ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları yakıcı yıkım yurdu azabından korumuştur. İşte büyük kurtuluş budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 45,
+      "ayah": 10,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:10",
+      "word_position": 19,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "أَوْلِيَآءَ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Kazandıkları şeyler de, Allah'ı bırakıp edindikleri dostlar da onlara bir fayda vermez. Büyük azap onlaradır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مِّن وَرَآئِهِمْ جَهَنَّمُ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimizden bir şey öğrendiğinde onu alaya alır. İşte bunlara alçaltıcı bir azap ve ardından da yakıcı yıkım yurdu vardır. Kazandıkları şeyler de, Allah'ı bırakıp edindikleri dostlar da onlara bir fayda vermez. Büyük azap onlaradır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 21,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:21",
+      "word_position": 25,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "... ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 5,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:5",
+      "word_position": 19,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "عِندَ ٱللَّهِ فَوْزًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "güvene eren erkek ve kadınları, içinde temelli kalacakları, içlerinden ırmaklar akan esenlik bahçelerine koyar, onların kötülüklerini örter. Allah katında büyük kurtuluş işte budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren erkek ve kadınları, içinde temelli kalacakları, içlerinden ırmaklar akan esenlik bahçelerine koyar, onların kötülüklerini örter. Allah katında büyük kurtuluş işte budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 10,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:10",
+      "word_position": 25,
+      "target_word_uthmani": "عَظِيمًا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Verdiği bu sözden dönen, ancak kendi aleyhine dönmüş olur. Allah'a verdiği sözü yerine getirene, Allah büyük ecir verecektir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz sana baş eğerek ellerini verenler (biat edenler), Allah'a baş eğip el vermiş sayılırlar. Allah'ın eli onların ellerinin üstündedir. Verdiği bu sözden dönen, ancak kendi aleyhine dönmüş olur. Allah'a verdiği sözü yerine getirene, Allah büyük ecir verecektir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 54,
+      "target_word_uthmani": "عَظِيمًۢا",
+      "target_word_rasm": "عظيما",
+      "target_word_literal_irab": "Çok büyük, ağır veya yüksek kıymetli (`عَظِيمًا`, nekre `فَعِيل` sıfat/isim mansûb)",
+      "context_snippet_arabic": "مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "context_snippet_turkish_tabula_rasa": "... Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 3,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:3",
+      "word_position": 17,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Seslerini elçinin yanında kısan kimseler, Allah'ın gönüllerini sorumluluk bilinci ve korunma ile sınadığı kimselerdir. Onlara mağfiret ve büyük ecir vardır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Seslerini elçinin yanında kısan kimseler, Allah'ın gönüllerini sorumluluk bilinci ve korunma ile sınadığı kimselerdir. Onlara mağfiret ve büyük ecir vardır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 56,
+      "ayah": 46,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:46",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü onlar, bundan önce, dünyada, nimet içinde bulunurlar iken, büyük sapma ve ağır kusur işlemekte direnir dururlardı.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü onlar, bundan önce, dünyada, nimet içinde bulunurlar iken, büyük sapma ve ağır kusur işlemekte direnir dururlardı.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 56,
+      "ayah": 47,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:47",
+      "word_position": 7,
+      "target_word_uthmani": "وَعِظَٰمًا",
+      "target_word_rasm": "وعظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "context_snippet_turkish_tabula_rasa": "Şöyle söylerlerdi: \"Öldüğümüzde, toprak ve kemik yığını olduğumuzda mı, biz mi tekrar dirileceğiz?\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle söylerlerdi: \"Öldüğümüzde, toprak ve kemik yığını olduğumuzda mı, biz mi tekrar dirileceğiz?\"",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 56,
+      "ayah": 74,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:74",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "contextual_meaning": "Sarsılmaz ve sınırsız yüceliğin adı (`ٱلْعَظِيمُ`): Kürsüsü bütün evreni kuşatan mutlak otorite."
+    },
+    {
+      "surah": 56,
+      "ayah": 76,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:76",
+      "word_position": 5,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Hayır; yıldızların yerleri üzerine bağlayıcı ahit ederim; ki bunun ne büyük bağlayıcı ahit olduğunu bir bilseniz!",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; yıldızların yerleri üzerine bağlayıcı ahit ederim; ki bunun ne büyük bağlayıcı ahit olduğunu bir bilseniz!",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 56,
+      "ayah": 96,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:96",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse çok büyük Rabbinin adını tesbih et.",
+      "contextual_meaning": "Sarsılmaz ve sınırsız yüceliğin adı (`ٱلْعَظِيمُ`): Kürsüsü bütün evreni kuşatan mutlak otorite."
+    },
+    {
+      "surah": 57,
+      "ayah": 10,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:10",
+      "word_position": 22,
+      "target_word_uthmani": "أَعْظَمُ",
+      "target_word_rasm": "أعظم",
+      "target_word_literal_irab": "Derece ve konum bakımından çok daha büyük (`أَعْظَمُ`, ism-i tafdîl merfû)",
+      "context_snippet_arabic": "ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin mirasçısı Allah olduğu halde, Allah yolunda siz niçin sarf etmiyorsunuz? İçinizden Mekke'nin fethinden önce dolaşıma sokup paylaştıran ve sava...",
+      "morphology": {
+        "lemma": ">aEoZam",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aEoZam|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin mirasçısı Allah olduğu halde, Allah yolunda siz niçin sarf etmiyorsunuz? İçinizden Mekke'nin fethinden önce dolaşıma sokup paylaştıran ve savaşan kimseler, daha sonra dolaşıma sokup paylaşarak savaşan kimselerle bir değildirler, öncekiler daha üstün derecededirler. Allah, hepsine esenlik bahçesini vadetmiştir. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "Öncelik ve emek karşılığının derece üstünlüğü (`أَعْظَمُ دَرَجَةً` `9:20`, `57:10`; `أَعْظَمَ أَجْرًا` `73:20`): Zamanında yapılan fedakârlığın kıyas üstünlüğü."
+    },
+    {
+      "surah": 57,
+      "ayah": 12,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:12",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... bugün içlerinden ırmaklar akan, içinde temelli kalacağınız esenlik bahçeleri sizindir. \" İşte bu büyük kurtuluştur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene ermiş erkek ve kadınları, defterleri sağdan verilmiş ve ışıkları önlerinde olarak giderken gördüğün gün onlara şöyle denecektir: \"Müjde; bugün içlerinden ırmaklar akan, içinde temelli kalacağınız esenlik bahçeleri sizindir.\" İşte bu büyük kurtuluştur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 21,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:21",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... bu Allah'ın dilediğine verdiği lütfudur. Allah, büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Rabbiniz tarafından bağışlanmaya, Allah'a ve elçisine güvene erenler için hazırlanmış, genişliği yerle göğün genişliği kadar olan esenlik bahçesine koşusun; bu Allah'ın dilediğine verdiği lütfudur. Allah, büyük lütuf sahibidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 29,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:29",
+      "word_position": 22,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 61,
+      "ayah": 12,
+      "surah_name": "Saff",
+      "ayah_ref": "61:12",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَدْنٍ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Böyle yaparsanız, Allah sapma ve kusurlarınızı size bağışlar, sizi, içlerinden ırmaklar akan esenlik bahçelerine, Adn esenlik bahçelerinde hoş yerlere koyar. Büyük kurtuluş budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَسَٰكِنَ طَيِّبَةً فِى جَنَّٰتِ عَدْنٍ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyle yaparsanız, Allah sapma ve kusurlarınızı size bağışlar, sizi, içlerinden ırmaklar akan esenlik bahçelerine, Adn esenlik bahçelerinde hoş yerlere koyar. Büyük kurtuluş budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 62,
+      "ayah": 4,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:4",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 64,
+      "ayah": 9,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:9",
+      "word_position": 27,
+      "target_word_uthmani": "ٱلْعَظِيمُ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklük ve yücelik sahibi (`ٱلْعَظِيمُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "أَبَدًا ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'a kim güvene ermiş ve yararlı iş işlemişse, Allah onun kötülüklerini örter, onu içinde temelli ve sonsuz kalacağı, içlerinden ırmaklar akan esenlik bahçelerine koyar; büyük kurtuluş işte budur.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَجْمَعُكُمْ لِيَوْمِ ٱلْجَمْعِ ذَٰلِكَ يَوْمُ ٱلتَّغَابُنِ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَٰلِحًا يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Toplanma günü için, sizi bir araya getirdiği zaman, işte o, kimin aldandığının ortaya çıkacağı gündür; Allah'a kim güvene ermiş ve yararlı iş işlemişse, Allah onun kötülüklerini örter, onu içinde temelli ve sonsuz kalacağı, içlerinden ırmaklar akan esenlik bahçelerine koyar; büyük kurtuluş işte budur.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 64,
+      "ayah": 15,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:15",
+      "word_position": 8,
+      "target_word_uthmani": "عَظِيمٌ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Çok büyük, sarsılmaz ve muazzam (`عَظِيمٌ`, nekre `فَعِيل` sıfat/isim merfû)",
+      "context_snippet_arabic": "وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır.",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    },
+    {
+      "surah": 65,
+      "ayah": 5,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:5",
+      "word_position": 12,
+      "target_word_uthmani": "وَيُعْظِمْ",
+      "target_word_rasm": "ويعظم",
+      "target_word_literal_irab": "Karşılık ve ödülünü büyütüp katlar (`وَيُعْظِمْ`, IV. bab meczûm muzâri `3MS`)",
+      "context_snippet_arabic": "يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah'ın size indirmiş olduğu buyruğudur. Kim Allah'ın buyruğuna karşı gelmekten sakınırsa, O, onun kötülüklerini örter, ecrini büyültür.",
+      "morphology": {
+        "lemma": "yuEoZimo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:yuEoZimo|ROOT:EZm|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah'ın size indirmiş olduğu buyruğudur. Kim Allah'ın buyruğuna karşı gelmekten sakınırsa, O, onun kötülüklerini örter, ecrini büyültür.",
+      "contextual_meaning": "IV. bab `وَيُعْظِمْ` (`65:5`): Kişinin sorumluluk bilinciyle hareket etmesine karşılık ödül miktarının büyütülüp genişletilmesi."
+    },
+    {
+      "surah": 68,
+      "ayah": 4,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:4",
+      "word_position": 4,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz sen büyük bir ahlaka sahipsindir.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz sen büyük bir ahlaka sahipsindir.",
+      "contextual_meaning": "Evrensel karakter standardı (`وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ` `68:4`): Çökmeyen kemik sağlamlığı gibi sarsılmaz ahlâkî omurga."
+    },
+    {
+      "surah": 69,
+      "ayah": 33,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:33",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "\"Çünkü, o, yüce Allah'a güven duy.\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّهُۥ كَانَ لَا يُؤْمِنُ بِٱللَّهِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Çünkü, o, yüce Allah'a güven duy.\"",
+      "contextual_meaning": "Sarsılmaz ve sınırsız yüceliğin adı (`ٱلْعَظِيمُ`): Kürsüsü bütün evreni kuşatan mutlak otorite."
+    },
+    {
+      "surah": 69,
+      "ayah": 52,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:52",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse çok büyük olan Rabbinin adını tesbih et.",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse çok büyük olan Rabbinin adını tesbih et.",
+      "contextual_meaning": "Sarsılmaz ve sınırsız yüceliğin adı (`ٱلْعَظِيمُ`): Kürsüsü bütün evreni kuşatan mutlak otorite."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 71,
+      "target_word_uthmani": "وَأَعْظَمَ",
+      "target_word_rasm": "وأعظم",
+      "target_word_literal_irab": "Değer ve karşılık bakımından daha büyük (`وَأَعْظَمَ`, ism-i tafdîl mansûb)",
+      "context_snippet_arabic": "ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; ...",
+      "morphology": {
+        "lemma": ">aEoZam",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aEoZam|ROOT:EZm|MS|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Öncelik ve emek karşılığının derece üstünlüğü (`أَعْظَمُ دَرَجَةً` `9:20`, `57:10`; `أَعْظَمَ أَجْرًا` `73:20`): Zamanında yapılan fedakârlığın kıyas üstünlüğü."
+    },
+    {
+      "surah": 75,
+      "ayah": 3,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:3",
+      "word_position": 5,
+      "target_word_uthmani": "عِظَامَهُۥ",
+      "target_word_rasm": "عظامه",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "İnsan, kemiklerini bir araya toplayamayız mı sanıyor?",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsan, kemiklerini bir araya toplayamayız mı sanıyor?",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 78,
+      "ayah": 2,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:2",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْعَظِيمِ",
+      "target_word_rasm": "ٱلعظيم",
+      "target_word_literal_irab": "Sarsılmaz büyüklüğün sahibi (`ٱلْعَظِيمِ`, marife `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?",
+      "contextual_meaning": "Önemli haber, ahlâkî iftira ağırlığı (`24:15,16`), vahiy bütünü (`15:87`) veya büyük tanıklık andı (`56:76`) için yapısal ağırlık ölçüsü."
+    },
+    {
+      "surah": 79,
+      "ayah": 11,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:11",
+      "word_position": 3,
+      "target_word_uthmani": "عِظَٰمًا",
+      "target_word_rasm": "عظما",
+      "target_word_literal_irab": "Sert ve dayanıklı kemikler (`عِظَٰمًا / ٱلْعِظَٰمَ / عِظَامَهُۥ`, `عَظْم` kırık çoğulu mansûb)",
+      "context_snippet_arabic": "أَءِذَا كُنَّا عِظَٰمًا نَّخِرَةً",
+      "context_snippet_turkish_tabula_rasa": "\"Ufalanmış kemik olduğumuz zaman mı?\"",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:EaZiym|ROOT:EZm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَءِذَا كُنَّا عِظَٰمًا نَّخِرَةً",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ufalanmış kemik olduğumuz zaman mı?\"",
+      "contextual_meaning": "Dağılmış/çürümüş kemiklerin yeniden inşası (`2:259`, `36:78`, `75:3`, `79:11`, `17:49`, `56:47`): Somut iskelet üzerinden diriliş kanıtlaması."
+    },
+    {
+      "surah": 83,
+      "ayah": 5,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:5",
+      "word_position": 2,
+      "target_word_uthmani": "عَظِيمٍ",
+      "target_word_rasm": "عظيم",
+      "target_word_literal_irab": "Sarsılmaz, muazzam ve yüce (`عَظِيمٍ`, nekre `فَعِيل` sıfat mecrûr)",
+      "context_snippet_arabic": "لِيَوْمٍ عَظِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?",
+      "morphology": {
+        "lemma": "EaZiym",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:EaZiym|ROOT:EZm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لِيَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?",
+      "contextual_meaning": "Büyük lütuf (`فَضْل عَظِيم`), ağır bedel (`عَذَاب عَظِيم`) veya büyük başarı (`فَوْز عَظِيم`): kökün sarsılmaz büyüklük ekseni (`2:7,105`, `4:113`, `9:72`)."
+    }
+  ]
+}

@@ -1,0 +1,2033 @@
+{
+  "root": "ق-ر-ب",
+  "root_latin": "K-R-B (qrb)",
+  "concept_name": "Karîb / Akrab / Kurbâ / Mukarrab (Yakınlaşma, Mesafe Kapatma ve Sunu-Soy Bağı)",
+  "rank": 118,
+  "total_occurrences": 96,
+  "unique_ayahs_count": 91,
+  "unified_core_mechanism": "Kökün `96` geçişlik tamamı İbn Fâris'in `(قرب)` aslına dayanır: 'Mekân, zaman, soy veya değer düzeyinde aradaki boşluğu kapatarak yakına gelmek ve yaklaştırmak'. Dört somut halkada işler: (1) Maddî ve zaman mesafesi: önüne yemek koymak (`51:27`), yakın bir açılım/zaman (`4:77`, `48:18`, `54:1`, `21:1`) ve uzaktan alınan hesap yeri (`50:41`). (2) Önleyici sınır hukuku: Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir (`لَا تَقْرَبُوا۟`) olmasıyla sınırların çevresinde koruma kuşağı oluşturmak (`2:35,187,222`, `6:151-152`, `17:32,34`). (3) Akrabalık ve toplumsal sorumluluk ağı: `قُرْبَىٰ` (`16`), `أَقْرَبُون` (`6`) ve `مَقْرَبَة` (`90:15`) ile yakın çevreden başlayarak adaleti ve paylaşımı yaymak (`4:7`, `16:90`, `4:135`). (4) Değer yakınlığı: aracı putların veya servetin değil (`39:3`, `34:37`), yalnız arı niyetin ve güzel eylemin insana yakınlık kazandırması (`5:27`, `9:99`, `56:11`, `96:19`), üstelik Yaratıcının kendisinin de insana şah damarından yakın olması (`2:186`, `50:16`, `56:85`).",
+  "physical_core": "İki nokta, zaman dilimi veya varlık arasındaki boşluk ve uzaklığı kapatarak bitişme eşiğine getirmek, mekânca-zamanca-kan bağınca yaklaştırmak (`ضِدُّ ٱلْبُعْدِ وَرَفْعُ ٱلْفَاصِلَةِ فِي ٱلْمَكَانِ وَٱلزَّمَانِ وَٱلنَّسَبِ`). İbrâhîm'in kızartılmış yemeği misafirlerin önüne sürmesi (`فَقَرَّبَهُۥٓ` `51:27`), yasaklı ağaca/sınırlara yaklaşmama emri (`2:35`, `2:187`, `17:32`), ortak kan bağı (`قُرْبَىٰ` `16` ayet; `مَقْرَبَة` `90:15`), yakınlık sunusu olarak öne getirilen takdim (`قُرْبَان` `3` ayet) ve hesabın kapıya dayanması (`ٱقْتَرَبَ` `5` ayet) hep bu 'mesafe ve ara kapatma' çekirdeğinden türer.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `kaf-ra-ba (قرب)` kökünün bütün anlamlarını tek sahih asla indirger: 'uzaklığın zıddı (`hilâfu'l-bu'd`)'. Bu tek mekân-zaman yakınlaşması kuralı hem mekân yakınlığını (`50:41`, `51:27`), hem zaman yakınlığını (`4:77`, `54:1`), hem kan/soy akrabalığını (`قُرْبَىٰ` / `أَقْرَبُون`), hem de iyiliklerle yakınlaşma mertebelerini (`قُرُبَٰتٍ` `9:99`) aynı eksende toplar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökün mekân, zaman, soy bağı ve değer-yakınlığı olmak üzere dört boyutta çalıştığını; `لَا تَقْرَبُوا۟` yasaklarının ise doğrudan yasaklı eylemi değil, daha onun çevresindeki ilk yaklaşma adımını önleyerek güvenlik çemberi kurduğunu vurgular.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) İbrâhîm'in `51:27`deki `فَقَرَّبَهُۥٓ إِلَيْهِمْ` eylemindeki maddî sunum ile `5:27` ve `3:183`teki `قُرْبَان` ('Yaratıcıya yakınlaşma vesilesi olarak takdim edilen sunu') arasındaki doğrudan köprüye dikkat çeker.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `96` geçişin tamamı 'mesafe, zaman, soy veya nitelik bakımından ara kapatıp yakına gelmek/getirmek' mekaniğiyle örülür. Böylece geleneksel dilde bağımsız bir fıkıh etiketine sıkışan `قُرْبَان` da ('adak/sunu') kendi kökündeki somut anlamını geri kazanır: Yaratıcıya yakınlık kurmak üzere öne yaklaştırılan samimi takdim (`قَرَّبَا قُرْبَانًا` `5:27`) — ki takdimin değeri şeklî araçta değil sorumluluk bilincindedir (`34:37`, `5:27`)."
+  },
+  "semitic_cognates": {
+    "akkadian": "Akadca `qerēbu(m) / qarābum` (CAD Q: 'yaklaşmak, yakına gelmek, sunulmak') ve sıfat `qarbu(m)` ('yakın, akraba'), Doğu Semitikte doğrudan aynı anlam yelpazesini taşır.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `קָרַב` (*qārab*, BDB: 'yaklaşmak, önüne getirmek'), `קָרוֹב` (*qārôb*, 'yakın — zaman/mekân/akraba') ve `קָרְבָּן` (*qorbān*, 'altara yaklaştırılan sunu/takdim') tam harf ve anlam denkliğindedir.",
+    "aramaic_syriac": "Aramca ve Süryanicede `קְרַב / ܩܪܶܒ` (*qǝrav*, CAL: 'yaklaşmak; çatışmada göğüs göğüse yakınlaşmak') canlı tarihî devamlılık gösterir; Eski Etiyopça Geez *qarba / qərba* da ('yakın olmak, yaklaşmak' — Leslau CDG) Güney Semitik halkayı tamamlar.",
+    "phonological_note": "Pan-Semitik `*√q-r-b` kökü (`Proto-Sami *q > Akadca/Arapça q, İbranice ק, Aramca ק, Geez q`; `*r = r`; `*b = b`), Doğu, Kuzeybatı, Merkezî ve Güney Semitik kollarının tamamında tek bir ünsüz kayması yaşamadan binlerce yıl boyunca anlam ve ses bütünlüğünü korumuştur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-ع-د (`وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌ مَّا تُوعَدُونَ` `21:109`; `لَوْ كَانَ عَرَضًا قَرِيبًا ... وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ` `9:42` — Mesafe ve Zamanda Yakınlık vs Uzaklık)",
+      "ج-ن-ب (`وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ` `4:36` — Kan Bağı ve Yakınlık vs Yabancılık ve Yan Durma)",
+      "ت-ر-ك / ع-ز-ل (`فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ` `2:222` — Fizikî Sınırdan Uzaklaşıp Çekilme vs Sınıra Yaklaşma)"
+    ],
+    "key_ayahs": [
+      "2:35",
+      "2:180",
+      "2:186",
+      "2:187",
+      "2:214",
+      "2:222",
+      "2:237",
+      "3:183",
+      "4:7",
+      "4:11",
+      "4:36",
+      "4:172",
+      "5:8",
+      "5:27",
+      "6:151",
+      "6:152",
+      "7:56",
+      "9:28",
+      "9:42",
+      "9:99",
+      "11:61",
+      "17:32",
+      "19:52",
+      "21:1",
+      "21:109",
+      "34:37",
+      "39:3",
+      "42:23",
+      "50:16",
+      "51:27",
+      "54:1",
+      "56:11",
+      "56:85",
+      "90:15",
+      "96:19"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ق-ر-ب` mekân, zaman, soy veya değer düzeyinde aradaki boşluğu kapatıp yakına gelmek/getirmek ise zıddı nedir?' Cevap: (1) Mekân ve zamanda uzak düşmektir (`بَعِيد` `21:109`, `بَعُدَتْ` `9:42`). (2) Kan bağı ve yakın komşulukta zıddı uzak/yabancı olmaktır (`ٱلْجَارِ ٱلْجُنُبِ` `4:36`). (3) Yasaklı sınır alanında zıddı ise ayrı durup çekilmektir (`فَٱعْتَزِلُوا۟ ... وَلَا تَقْرَبُوهُنَّ` `2:222`). Tersinden her yön kökü mühürler."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`قَرَّبَ / تُقَرِّبُكُمْ` (`Ara mesafeyi kapatarak yaklaştırmak`) vs `زُلْفَىٰ` (`Aşamalı derece ve özel yakınlık konumu`) — `34:37`, `39:3`",
+      "`قُرْبَىٰ` (`Kan bağı taşıyan akraba/hısımlık`) vs `جُنُب` (`Soy ve akrabalık bağı olmayan uzak kişi`) — `4:36`",
+      "`قَرِيب` (`Yakın zaman veya mekân`) vs `بَعِيد` (`Uzak mesafe veya vakit`) — `21:109`, `9:42`",
+      "`قُرُبَٰتٍ` (`Çoklu yakınlaşma adımları / harcamaları`) vs `قُرْبَةٌ` (`Tekil ve gerçek bir yakınlık bağı`) — `9:99`",
+      "`قُرْبَان` (`Yakınlaşmak üzere öne getirilen sunu`) vs `مَال / وَلَد` (`Kendiliğinden yakınlık sağlamayan dünya varlığı`) — `5:27` vs `34:37`"
+    ],
+    "mechanical_difference": "1) `34:37` ve `39:3`te `تُقَرِّبُكُمْ / لِيُقَرِّبُونَآ` (Form II yaklaştırma fiili) ile `زُلْفَىٰ` aynı cümlede buluşur: biri yaklaşma hareketini, diğeri ise üst derece yakınlık mertebesini bildirir. 2) `4:36`da `ق-ر-ب` iki kez geçerek önce `بِذِى ٱلْقُرْبَىٰ` (kan bağı yakını), ardından `وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ` (yakın komşu ve uzak komşu) ayrımını kurar. 3) `9:99`da aynı ayet içinde çoğul `قُرُبَٰتٍ` (yapılan harcama adımları) ve tekil `قُرْبَةٌ` (gerçekleşen yakınlık hali) birbirini tamamlar. 4) `2:237` ve `5:8`de ise bağışlamanın ve adaletin `أَقْرَبُ لِلتَّقْوَىٰ` ('sorumluluk ve korunma bilincine en yakın yol') oluşu vurgulanır."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "51:27 & 2:186 & 50:16 & 56:85 & 96:19",
+      "role": "Fizikî Sunumdan Aşkın Yakınlığa Uzanan Eksen (`فَقَرَّبَهُۥٓ` / `فَإِنِّى قَرِيبٌ` / `أَقْرَبُ مِنْ حَبْلِ ٱلْوَرِيدِ` / `وَٱقْتَرِب`)",
+      "literal_meaning": "'İbrâhîm kızartılmış buzağıyı misafirlerinin önüne yaklaştırdı (`51:27`)', 'kullarım Beni sorarsa Ben çok yakınım (`2:186`)', 'Biz insana şah damarından da yakınız (`50:16`, `56:85`)' ve 'alçal ve bilincinle yaklaş (`وَٱسْجُدْ وَٱقْتَرِب` `96:19`).'"
+    },
+    {
+      "ref": "2:35 & 2:187 & 6:151-152 & 17:32,34 & 9:28",
+      "role": "Koruyucu Sınır Çevresi Yasağı Çapası (`وَلَا تَقْرَبُوا۟` — `11` Form I Fiilinin Tamamı)",
+      "literal_meaning": "'Bu ağaca yaklaşmayın (`2:35`)', 'bunlar ilâhî sınırlardır, onlara yaklaşmayın (`2:187`)', 'açık-gizli çirkinliklere, yetimin malına ve iffetsizliğe yaklaşmayın (`6:151-152`, `17:32,34`)' — eylemi değil, ilk yaklaşma adımını yasaklayan önleyici güvenlik ilkesi."
+    },
+    {
+      "ref": "5:27 & 9:99 & 34:37 & 39:3 & 56:11",
+      "role": "Yakınlaşma Vesilesi, Sunu ve Seçkin Konum Çapası (`قُرْبَان` / `قُرُبَٰت` / `ٱلْمُقَرَّبُونَ`)",
+      "literal_meaning": "'İki kardeş sunu yaklaştırdı (`قَرَّبَا قُرْبَانًا` `5:27`)', 'harcamalarını yakınlaşma vesileleri sayanlar (`قُرُبَٰتٍ ... قُرْبَةٌ` `9:99`)', 'sizi yakına yaklaştıracak olan mal-evlat değil güven ve erdemli eylemdir (`34:37`, `39:3`)' ve 'öncüler en yakına alınmışlardır (`ٱلْمُقَرَّبُونَ` `56:11`, `83:21`).'"
+    },
+    {
+      "ref": "2:177 & 4:7,36 & 16:90 & 42:23 & 90:15",
+      "role": "Soy ve Sorumluluk Yakınlığı Çapası (`ذِى ٱلْقُرْبَىٰ` / `ٱلْأَقْرَبُونَ` / `ذَا مَقْرَبَةٍ`)",
+      "literal_meaning": "'Miras ve yardımda anne-baba ve en yakın hısımların payı (`4:7`, `2:180`, `16:90`, `17:26`, `30:38`)', 'akraba olan yetimi doyurmak (`90:15`)' ve 'yakınlık bağında sevgi beklemek (`42:23`).'"
+    },
+    {
+      "ref": "21:1,97 & 54:1 & 21:109 & 7:56 & 48:18",
+      "role": "Zaman ve Sonuç Yakınlığı Çapası (`ٱقْتَرَبَ` / `قَرِيب`)",
+      "literal_meaning": "'İnsanların hesabı iyice yaklaştı (`21:1`, `54:1`)', 'rahmet iyilik üretenlere çok yakındır (`7:56`, `11:61`)', 'yakın bir açılım (`فَتْحًا قَرِيبًا` `48:18`, `61:13`)' ve 'vadolunan yakın mı uzak mı bilmem (`21:109`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Sağlam (sâlim) fiil köklüdür ancak Kur'an'daki dağılımı olağanüstü düzenlidir: I. bab `قَرِبَ - يَقْرَبُ` (`11 V`) **istisnasız yalnız nehy-i hâzır/gâib meczûm (`لَا تَقْرَبَا / تَقْرَبُوا۟ / يَقْرَبُوا۟ / تَقْرَبُونِ`)** biçiminde geçer; olumlu yakınlaşma anlamı için yalnız II. bab (`قَرَّبَ` `5 V`: yaklaştırmak) ve VIII. bab (`ٱقْتَرَبَ` `5 V`: iyice yaklaşmak, son `96:19`da emir `وَٱقْتَرِب`) kullanılır. 2) Ayrı tekil geçişler (hapax legomena): `9:99`da aynı ayette iki ayrı türev `قُرُبَٰتٍ` (`FP`) ve `قُرْبَةٌ` (`F`), `90:15`te ise mîmli isim `مَقْرَبَةٍ` yalnız birer kez geçer. 3) İsm-i tafdîl `أَقْرَب` (`19` kez): `6` kez çoğul (`أَقْرَبُونَ / أَقْرَبِينَ` miras ve aşiret akrabaları), `13` kez tekil (`18:24` `لِأَقْرَبَ` harf-i cerr alıp gayr-ı munsarif olduğundan fethalı mecrûr okunur). 4) Rasm-ı Osmânî: `قُرْبَىٰ` (`16` kez) daima üç harften uzun maksûr isim olarak `ى` üzerine yazılır (`قربى` / `ٱلقربى`); `5` ayette ikişer kez geçer (`4:7`, `4:36`, `5:27`, `6:152`, `9:99`) ve toplam `34` farklı Rasm-ı Osmânî yazımı sunar.",
+  "derivatives": {
+    "قَرِيب (`26`: `16 N + 10 ADJ`) & أَقْرَب (`19`: `17 N + 2 ADJ`)": "Mekân/zaman yakınlığı (`2:186`, `48:18`, `21:109`), şah damarından ve başkalarından daha yakın oluş (`50:16`, `56:85`), sorumluluk bilincine yakınlık (`2:237`, `5:8`) ve en yakın hısımlar (`4:7`, `2:180`, `26:214`)",
+    "قُرْبَىٰ (`16 N`) & مَقْرَبَة (`1 N` `90:15`)": "Kan ve soy bağıyla gelen akrabalık ve yakınlık hakkı (`2:83,177`, `4:8,36`, `16:90`, `17:26`, `42:23`, `90:15`)",
+    "لَا تَقْرَبُوا۟ (`11 V` Form I hep nehiy) & ٱقْتَرَبَ (`5 V` Form VIII)": "Yasaklı sınırlara yaklaşma yasağı (`2:35,187,222`, `6:151-152`, `17:32,34`, `12:60`) ve saatin/hesabın hızla yaklaşıp (`21:1`, `54:1`) kulun bilinçle yaklaşması (`96:19`)",
+    "قَرَّبَ (`5 V` Form II), مُقَرَّبُون (`8`), قُرْبَان (`3 N`), قُرُبَٰت (`1 N`), قُرْبَة (`1 N`)": "Önüne yaklaştırmak (`51:27`, `19:52`, `39:3`), yakınlık sunusu (`5:27`, `3:183`, `46:28`), yakınlaşma adımları (`9:99`) ve en yakına alınmış seçkinler (`3:45`, `56:11`, `83:21`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 35,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:35",
+      "word_position": 13,
+      "target_word_uthmani": "تَقْرَبَا",
+      "target_word_rasm": "تقربا",
+      "target_word_literal_irab": "İkiniz yaklaşmayın (`تَقْرَبَا`, I. bab muzârî meczûm nehy, 2. ikil)",
+      "context_snippet_arabic": "حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Eşin ve sen esenlik bahçesinde kal, orada olandan istediğiniz yerde bol bol yiyin, yalnız şu ağaca yaklaşmayın; yoksa zalimlerden olursunuz\" dedik.",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2D|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Eşin ve sen esenlik bahçesinde kal, orada olandan istediğiniz yerde bol bol yiyin, yalnız şu ağaca yaklaşmayın; yoksa zalimlerden olursunuz\" dedik.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 83,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:83",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarından, \"Allah'tan başkasına kulluk etmeyin, anne babaya, yakınlara, yetimlere, düşkünlere iyilik edin, insanlarla güzel güzel konuşun, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin\" diye söz almıştık. Sonra siz pek azınız müstesna, döndünüz; ...",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarından, \"Allah'tan başkasına kulluk etmeyin, anne babaya, yakınlara, yetimlere, düşkünlere iyilik edin, insanlarla güzel güzel konuşun, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin\" diye söz almıştık. Sonra siz pek azınız müstesna, döndünüz; hala da yüz çevirip duruyorsunuz.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ",
+      "context_snippet_turkish_tabula_rasa": "... Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 180,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:180",
+      "word_position": 12,
+      "target_word_uthmani": "وَٱلْأَقْرَبِينَ",
+      "target_word_rasm": "وٱلأقربين",
+      "target_word_literal_irab": "Ve en yakın hısımlara (`وَٱلْأَقْرَبِينَ`, çoğul ism-i tafdîl mecrûr)",
+      "context_snippet_arabic": "خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقًّا عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Birinize ölüm geldiği zaman, eğer mal bırakıyorsa, ana babaya, yakınlara, uygun bir tarzda vasiyet etmesi Allah'a karşı gelmekten sakınanlara bir borç olarak size farz kılındı.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birinize ölüm geldiği zaman, eğer mal bırakıyorsa, ana babaya, yakınlara, uygun bir tarzda vasiyet etmesi Allah'a karşı gelmekten sakınanlara bir borç olarak size farz kılındı.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 186,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:186",
+      "word_position": 6,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ",
+      "context_snippet_turkish_tabula_rasa": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. ...",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. Artık onlar da davetimi kabul edip Bana güven duy ki doğru yolda yürüyenlerden olsunlar.",
+      "contextual_meaning": "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 58,
+      "target_word_uthmani": "تَقْرَبُوهَا",
+      "target_word_rasm": "تقربوها",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; ...",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 214,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:214",
+      "word_position": 30,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın yardımı ne zaman?\" diyecek kadar darlığa ve zorluğa uğramışlar ve sarsılmışlardı; iyi bilin ki Allah'ın yardımı şüphesiz yakındır.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önce gelenlerin durumu sizin başınıza gelmeden esenlik bahçesine gireceğinizi mi zannettiniz? elçi ve onunla beraber güvene erenler: \"Allah'ın yardımı ne zaman?\" diyecek kadar darlığa ve zorluğa uğramışlar ve sarsılmışlardı; iyi bilin ki Allah'ın yardımı şüphesiz yakındır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 215,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:215",
+      "word_position": 10,
+      "target_word_uthmani": "وَٱلْأَقْرَبِينَ",
+      "target_word_rasm": "وٱلأقربين",
+      "target_word_literal_irab": "Ve en yakın hısımlara (`وَٱلْأَقْرَبِينَ`, çoğul ism-i tafdîl mecrûr)",
+      "context_snippet_arabic": "مِّنْ خَيْرٍ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Sarfedeceğiniz mal, ana baba, yakınlar, yetimler, düşkünler, yolcular içindir. Yaptığınız her iyiliği Allah şüphesiz bilir\".",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, ne dolaşıma sokup paylaşacaklarını sorarlar, de ki: \"Sarfedeceğiniz mal, ana baba, yakınlar, yetimler, düşkünler, yolcular içindir. Yaptığınız her iyiliği Allah şüphesiz bilir\".",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 12,
+      "target_word_uthmani": "تَقْرَبُوهُنَّ",
+      "target_word_rasm": "تقربوهن",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا",
+      "context_snippet_turkish_tabula_rasa": "... Aybaşı halinde iken kadınlardan el çekin, temizlenmelerine kadar onlara yaklaşmayın. Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. ...",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kadınların aybaşı hali hakkında da sorarlar, de ki: \"O bir ezadır (rahatsızlıktır)\". Aybaşı halinde iken kadınlardan el çekin, temizlenmelerine kadar onlara yaklaşmayın. Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 237,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:237",
+      "word_position": 25,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "ٱلنِّكَاحِ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ وَلَا تَنسَوُا۟",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlara mehir biçer de el sürmeden onları boşarsanız, kendileri veya nikah akdi elinde olan erkeğin bağışlaması hali müstesna biçtiğinizin yarısını verin, b...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlara mehir biçer de el sürmeden onları boşarsanız, kendileri veya nikah akdi elinde olan erkeğin bağışlaması hali müstesna biçtiğinizin yarısını verin, bağışlamanız Allah'tan sakınmaya daha uygundur. Aranızdaki iyiliği unutmayın. Allah şüphesiz işlediklerinizi görür.",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 3,
+      "ayah": 45,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:45",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلْمُقَرَّبِينَ",
+      "target_word_rasm": "ٱلمقربين",
+      "target_word_literal_irab": "Yakına alınmış seçkinlerden (`ٱلْمُقَرَّبِينَ`, II. bab ism-i mef'ûl cemi müzekker sâlim mecrûr)",
+      "context_snippet_arabic": "ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey Meryem! Allah sana, Kendinden bir sözü, adı Meryem oğlu İsa olan Mesihi, dünya ve ahirette şerefli ve Allah'a yakın kılınanlardan olarak müjdeler\".",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevliler demişti ki: \"Ey Meryem! Allah sana, Kendinden bir sözü, adı Meryem oğlu İsa olan Mesihi, dünya ve ahirette şerefli ve Allah'a yakın kılınanlardan olarak müjdeler\".",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 3,
+      "ayah": 167,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:167",
+      "word_position": 21,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ يَقُولُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Eğer savaşmayı bilseydik, ardınızdan gelirdik\" dediler. O gün, onlar güven bağı çok gerçeğin üzerini örtmeye yakındılar. Kalblerinde olmayanı ağızlarıyla söylüyorlar. ...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًا لَّٱتَّبَعْنَٰكُمْ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَٰنِ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki topluluğun karşılaştığı günde başınıza gelen, Allah'ın izniyledir. Bu, güvene erenleri da, iki çıkışlı kaypaklık edenleri de belirtmesi içindir. iki çıkışlı kaypaklık edenlere: \"gelin, Allah yolunda savaşın, veya hiç olmazsa savunmada bulunun\" dendiği zaman: \"Eğer savaşmayı bilseydik, ardınızdan gelirdik\" dediler. O gün, onlar güven bağı çok gerçeğin üzerini örtmeye yakındılar. Kalblerinde olmayanı ağızlarıyla söylüyorlar. Allah gizlediklerini onlardan iyi bilir.",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 3,
+      "ayah": 183,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:183",
+      "word_position": 12,
+      "target_word_uthmani": "بِقُرْبَانٍ",
+      "target_word_rasm": "بقربان",
+      "target_word_literal_irab": "Bir yakınlaşma takdimi / sunusuyla (`بِقُرْبَانٍ`, nekre tekil eril isim mecrûr)",
+      "context_snippet_arabic": "لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu, ateşin yiyeceği bir yakınlaşma sunusu getirmedikçe hiçbir elçiye güven duy üzere Allah bize ahid verdi\" diyenlere sen, de ki: \"Benden önce elçiler size belgeler ve dediğiniz şeyi getirdi. ...",
+      "morphology": {
+        "lemma": "qurobaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaAn|ROOT:qrb|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu, ateşin yiyeceği bir yakınlaşma sunusu getirmedikçe hiçbir elçiye güven duy üzere Allah bize ahid verdi\" diyenlere sen, de ki: \"Benden önce elçiler size belgeler ve dediğiniz şeyi getirdi. Doğru sözlü iseniz niçin onları öldürdünüz?\"",
+      "contextual_meaning": "Yakınlık sağlamak için takdim edilen sunu (`قَرَّبَا قُرْبَانًا` `5:27`, `3:183`, `46:28`): Yaratıcıya veya yüce makama yaklaşmak amacıyla öne getirilen takdimin yalnız sorumluluk bilinciyle kabul görmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 7,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:7",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱلْأَقْرَبُونَ",
+      "target_word_rasm": "وٱلأقربون",
+      "target_word_literal_irab": "Ve en yakın hısımların (`وَٱلْأَقْرَبُونَ`, çoğul ism-i tafdîl merfû)",
+      "context_snippet_arabic": "مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا",
+      "context_snippet_turkish_tabula_rasa": "Ana babanın ve yakınların bıraktıklarından, erkeklere hisse vardır. Ana babanın ve yakınların bıraktıklarından kadınlara da hisse vardır. ...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَّفْرُوضًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babanın ve yakınların bıraktıklarından, erkeklere hisse vardır. Ana babanın ve yakınların bıraktıklarından kadınlara da hisse vardır. Bunlar, az veya çok, belirli bir hissedir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 7,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:7",
+      "word_position": 12,
+      "target_word_uthmani": "وَٱلْأَقْرَبُونَ",
+      "target_word_rasm": "وٱلأقربون",
+      "target_word_literal_irab": "Ve en yakın hısımların (`وَٱلْأَقْرَبُونَ`, çoğul ism-i tafdîl merfû)",
+      "context_snippet_arabic": "مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ",
+      "context_snippet_turkish_tabula_rasa": "Ana babanın ve yakınların bıraktıklarından, erkeklere hisse vardır. Ana babanın ve yakınların bıraktıklarından kadınlara da hisse vardır. ...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ نَصِيبًا مَّفْرُوضًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babanın ve yakınların bıraktıklarından, erkeklere hisse vardır. Ana babanın ve yakınların bıraktıklarından kadınlara da hisse vardır. Bunlar, az veya çok, belirli bir hissedir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 8,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:8",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم",
+      "context_snippet_turkish_tabula_rasa": "Taksimde, yakınlar, yetimler ve düşkünler bulunursa, ondan onlara da verin, güzel sözler söyleyin.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Taksimde, yakınlar, yetimler ve düşkünler bulunursa, ondan onlara da verin, güzel sözler söyleyin.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 61,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً",
+      "context_snippet_turkish_tabula_rasa": "... babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. ...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 17,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:17",
+      "word_position": 12,
+      "target_word_uthmani": "قَرِيبٍ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. Allah Bilen'dir, Hak...",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. Allah Bilen'dir, Hakim olandır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 33,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:33",
+      "word_position": 7,
+      "target_word_uthmani": "وَٱلْأَقْرَبُونَ",
+      "target_word_rasm": "وٱلأقربون",
+      "target_word_literal_irab": "Ve en yakın hısımların (`وَٱلْأَقْرَبُونَ`, çoğul ism-i tafdîl merfû)",
+      "context_snippet_arabic": "مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ana babanın ve yakınların bıraktıklarından her birine varisler kıldık. Kendileriyle karşılıklı bağlayıcı ahit kurduğunuz kimselere hisselerini veriniz. ...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَٱلَّذِينَ عَقَدَتْ أَيْمَٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babanın ve yakınların bıraktıklarından her birine varisler kıldık. Kendileriyle karşılıklı bağlayıcı ahit kurduğunuz kimselere hisselerini veriniz. Doğrusu Allah her şeye şahiddir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 36,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:36",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a kulluk edin, O'na bir şeyi ortak koşmayın. Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 36,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:36",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a kulluk edin, O'na bir şeyi ortak koşmayın. Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 43,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:43",
+      "word_position": 5,
+      "target_word_uthmani": "تَقْرَبُوا۟",
+      "target_word_rasm": "تقربوا",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sarhoşken, ne dediğinizi bilene kadar, cünübken, yolcu olan müstesna gusledene kadar irtibat bağına yaklaşmayın. Eğer hasta veya yolculukta iseniz yahut biriniz ayak yolundan gelmişseniz veya kadınlara yaklaşmışsanız ve bu durumlarda su bulamamışsanız tertemiz bir toprağa teyemmüm edin, yüzlerinize ve ellerinize sürün. ...",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sarhoşken, ne dediğinizi bilene kadar, cünübken, yolcu olan müstesna gusledene kadar irtibat bağına yaklaşmayın. Eğer hasta veya yolculukta iseniz yahut biriniz ayak yolundan gelmişseniz veya kadınlara yaklaşmışsanız ve bu durumlarda su bulamamışsanız tertemiz bir toprağa teyemmüm edin, yüzlerinize ve ellerinize sürün. Allah affeder ve bağışlar.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 77,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:77",
+      "word_position": 37,
+      "target_word_uthmani": "قَرِيبٍ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ قُلْ مَتَٰعُ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Elinizi savaştan çekin, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin\" denenleri görmedin mi? Onlara savaş farz kılındığında, içlerinden bir takımı hemen, insanlardan, Allah'tan korkar gibi, hatta daha çok korkarlar ve \"Rabbimiz! Bize savaşı niçin farz kıldın, bizi yakın bir zamana kadar tehir edemez miydin?\" derler. De ki: ...",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine: \"Elinizi savaştan çekin, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin\" denenleri görmedin mi? Onlara savaş farz kılındığında, içlerinden bir takımı hemen, insanlardan, Allah'tan korkar gibi, hatta daha çok korkarlar ve \"Rabbimiz! Bize savaşı niçin farz kıldın, bizi yakın bir zamana kadar tehir edemez miydin?\" derler. De ki: \"Dünya geçimliği azdır, ahiret, Allah'a karşı gelmekten sakınan için hayırlıdır, size zerre kadar zulmedilmez\".",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 4,
+      "ayah": 135,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:135",
+      "word_position": 14,
+      "target_word_uthmani": "وَٱلْأَقْرَبِينَ",
+      "target_word_rasm": "وٱلأقربين",
+      "target_word_literal_irab": "Ve en yakın hısımlara (`وَٱلْأَقْرَبِينَ`, çoğul ism-i tafdîl mecrûr)",
+      "context_snippet_arabic": "أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Kendiniz, ana babanız ve yakınlarınız aleyhlerine de olsa, Allah için şahit olarak adaleti gözetin; ister zengin, ister fakir olsun, Allah onlara daha yakındır. ...",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Kendiniz, ana babanız ve yakınlarınız aleyhlerine de olsa, Allah için şahit olarak adaleti gözetin; ister zengin, ister fakir olsun, Allah onlara daha yakındır. Adaletinizde heveslere uymayın. Eğer eğriltirseniz veya yüz çevirirseniz bilin ki, Allah işlediklerinizden şüphesiz haberdardır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 172,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:172",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْمُقَرَّبُونَ",
+      "target_word_rasm": "ٱلمقربون",
+      "target_word_literal_irab": "En yakına çekilmiş seçkinler (`ٱلْمُقَرَّبُونَ`, II. bab ism-i mef'ûl cemi müzekker sâlim merfû)",
+      "context_snippet_arabic": "لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ وَمَن يَسْتَنكِفْ عَنْ",
+      "context_snippet_turkish_tabula_rasa": "Mesih de, gözde kozmik görevliler de Allah'a kul olmaktan asla çekinmezler. Kim O'na kulluktan çekinir ve büyüklük taslarsa, bilsin ki, O, hepsini huzuruna topl...",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mesih de, gözde kozmik görevliler de Allah'a kul olmaktan asla çekinmezler. Kim O'na kulluktan çekinir ve büyüklük taslarsa, bilsin ki, O, hepsini huzuruna toplayacaktır.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 5,
+      "ayah": 8,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:8",
+      "word_position": 18,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... adil olun; bu, Allah'a karşı gelmekten sakınmaya daha yakındır. Allah'tan sakının, doğrusu Allah işlediklerinizden Haberdar'dır.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah için adaleti ayakta tutup gözeten şahidler olun. Bir topluluğa olan öfkeniz sizi adaletsizliğe sürüklemesin; adil olun; bu, Allah'a karşı gelmekten sakınmaya daha yakındır. Allah'tan sakının, doğrusu Allah işlediklerinizden Haberdar'dır.",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 5,
+      "ayah": 27,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:27",
+      "word_position": 8,
+      "target_word_uthmani": "قَرَّبَا",
+      "target_word_rasm": "قربا",
+      "target_word_literal_irab": "İkisi yaklaştırıp takdim ettiler (`قَرَّبَا`, II. bab mâzî, 3. ikil eril)",
+      "context_snippet_arabic": "ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "... İkisi birer yakınlaşma sunusu sunmuşlar, birininki kabul edilmiş, diğerininki edilmemişti. Kabul edilmeyen, \"And olsun seni öldüreceğim\" deyince, kardeşi: ...",
+      "morphology": {
+        "lemma": "qar~aba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qar~aba|ROOT:qrb|3MD"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, Adem'in iki oğlunun kıssasını doğru olarak anlat: İkisi birer yakınlaşma sunusu sunmuşlar, birininki kabul edilmiş, diğerininki edilmemişti. Kabul edilmeyen, \"And olsun seni öldüreceğim\" deyince, kardeşi: \"Allah ancak sakınanların takdimesini kabul eder\" demişti.",
+      "contextual_meaning": "Yakınlık sağlamak için takdim edilen sunu (`قَرَّبَا قُرْبَانًا` `5:27`, `3:183`, `46:28`): Yaratıcıya veya yüce makama yaklaşmak amacıyla öne getirilen takdimin yalnız sorumluluk bilinciyle kabul görmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 27,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:27",
+      "word_position": 9,
+      "target_word_uthmani": "قُرْبَانًا",
+      "target_word_rasm": "قربانا",
+      "target_word_literal_irab": "İki ayrı sunu / yakınlık takdimi (`قُرْبَانًا`, nekre tekil eril isim mansûb)",
+      "context_snippet_arabic": "بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا",
+      "context_snippet_turkish_tabula_rasa": "... İkisi birer yakınlaşma sunusu sunmuşlar, birininki kabul edilmiş, diğerininki edilmemişti. Kabul edilmeyen, \"And olsun seni öldüreceğim\" deyince, kardeşi: ...",
+      "morphology": {
+        "lemma": "qurobaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaAn|ROOT:qrb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱبْنَىْ ءَادَمَ بِٱلْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ ٱلْءَاخَرِ قَالَ لَأَقْتُلَنَّكَ قَالَ إِنَّمَا يَتَقَبَّلُ ٱللَّهُ مِنَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, Adem'in iki oğlunun kıssasını doğru olarak anlat: İkisi birer yakınlaşma sunusu sunmuşlar, birininki kabul edilmiş, diğerininki edilmemişti. Kabul edilmeyen, \"And olsun seni öldüreceğim\" deyince, kardeşi: \"Allah ancak sakınanların takdimesini kabul eder\" demişti.",
+      "contextual_meaning": "Yakınlık sağlamak için takdim edilen sunu (`قَرَّبَا قُرْبَانًا` `5:27`, `3:183`, `46:28`): Yaratıcıya veya yüce makama yaklaşmak amacıyla öne getirilen takdimin yalnız sorumluluk bilinciyle kabul görmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 82,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:82",
+      "word_position": 11,
+      "target_word_uthmani": "أَقْرَبَهُم",
+      "target_word_rasm": "أقربهم",
+      "target_word_literal_irab": "Daha yakın olarak (`أَقْرَبَ / وَأَقْرَبَ`, tekil eril ism-i tafdîl mansûb)",
+      "context_snippet_arabic": "وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan, güvene erenlere sevgice en yakın \"Biz hıristiyanız\" diyenleri bulursun. Bu, onların içinde bilginler ve rahibler bulunmasından ve büyüklük taslamamalarındandır.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|ACC"
+      },
+      "ayah_text_arabic_full": "لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere en şiddetli düşman olarak, insanlardan yahudileri ve Allah'a eş koşanları bulursun. Onlardan, güvene erenlere sevgice en yakın \"Biz hıristiyanız\" diyenleri bulursun. Bu, onların içinde bilginler ve rahibler bulunmasından ve büyüklük taslamamalarındandır.",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 5,
+      "ayah": 106,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:106",
+      "word_position": 43,
+      "target_word_uthmani": "قُرْبَىٰ",
+      "target_word_rasm": "قربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ",
+      "context_snippet_turkish_tabula_rasa": "... şayet yolculukta olup başınıza da ölüm musibeti gelmişse, irtibat bağından sonra alıkoyacağınız, şüpheleniyorsanız, \"Akraba bile olsa bağlayıcı ahitle hiçbir değeri değiştirmeyeceğiz, Allah'ın şahidliğini gizlemeyeceğiz, yoksa şüphesiz ağır sapmaya düşenlerden oluruz\" diye bağlayıcı ahit eden sizden olmayan iki kişiyi şahid tutun.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Ölüm birinize geldiği zaman vasiyet ederken içinizden iki adil kimseyi; şayet yolculukta olup başınıza da ölüm musibeti gelmişse, irtibat bağından sonra alıkoyacağınız, şüpheleniyorsanız, \"Akraba bile olsa bağlayıcı ahitle hiçbir değeri değiştirmeyeceğiz, Allah'ın şahidliğini gizlemeyeceğiz, yoksa şüphesiz ağır sapmaya düşenlerden oluruz\" diye bağlayıcı ahit eden sizden olmayan iki kişiyi şahid tutun.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 151,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:151",
+      "word_position": 23,
+      "target_word_uthmani": "تَقْرَبُوا۟",
+      "target_word_rasm": "تقربوا",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ",
+      "context_snippet_turkish_tabula_rasa": "... O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. Allah bunları size düşünesiniz diye buyurmaktadır. ...",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. Allah bunları size düşünesiniz diye buyurmaktadır.\"",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 152,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:152",
+      "word_position": 2,
+      "target_word_uthmani": "تَقْرَبُوا۟",
+      "target_word_rasm": "تقربوا",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Yetim malına, erginlik çağına erişene kadar en iyi şeklin dışında yaklaşmayın; ölçüyü ve tartıyı doğru yapın. ...",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yetim malına, erginlik çağına erişene kadar en iyi şeklin dışında yaklaşmayın; ölçüyü ve tartıyı doğru yapın. Biz kişiye ancak gücünün yeteceği kadar yükleriz. Konuştuğunuzda, akraba bile olsa sözünüzde adil olun. Allah'ın ahdini yerine getirin. Allah size bunları öğüt almanız için buyurmaktadır.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 152,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:152",
+      "word_position": 27,
+      "target_word_uthmani": "قُرْبَىٰ",
+      "target_word_rasm": "قربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Yetim malına, erginlik çağına erişene kadar en iyi şeklin dışında yaklaşmayın; ölçüyü ve tartıyı doğru yapın. ...",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yetim malına, erginlik çağına erişene kadar en iyi şeklin dışında yaklaşmayın; ölçüyü ve tartıyı doğru yapın. Biz kişiye ancak gücünün yeteceği kadar yükleriz. Konuştuğunuzda, akraba bile olsa sözünüzde adil olun. Allah'ın ahdini yerine getirin. Allah size bunları öğüt almanız için buyurmaktadır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 19,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:19",
+      "word_position": 11,
+      "target_word_uthmani": "تَقْرَبَا",
+      "target_word_rasm": "تقربا",
+      "target_word_literal_irab": "İkiniz yaklaşmayın (`تَقْرَبَا`, I. bab muzârî meczûm nehy, 2. ikil)",
+      "context_snippet_arabic": "حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Sen ve eşin esenlik bahçesinde kalın ve istediğiniz yerden yiyin, yalnız şu ağaca yaklaşmayın yoksa zalimlerden olursunuz.\"",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2D|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Sen ve eşin esenlik bahçesinde kalın ve istediğiniz yerden yiyin, yalnız şu ağaca yaklaşmayın yoksa zalimlerden olursunuz.\"",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 56,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:56",
+      "word_position": 13,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Düzeltilmişken, yeryüzünde bozgunculuk yapmayın. Allah'a korkarak ve umutla yalvarın. Doğrusu Allah'ın rahmeti iyi davrananlara yakındır.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzeltilmişken, yeryüzünde bozgunculuk yapmayın. Allah'a korkarak ve umutla yalvarın. Doğrusu Allah'ın rahmeti iyi davrananlara yakındır.",
+      "contextual_meaning": "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
+    },
+    {
+      "surah": 7,
+      "ayah": 114,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:114",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُقَرَّبِينَ",
+      "target_word_rasm": "ٱلمقربين",
+      "target_word_literal_irab": "Yakına alınmış seçkinlerden (`ٱلْمُقَرَّبِينَ`, II. bab ism-i mef'ûl cemi müzekker sâlim mecrûr)",
+      "context_snippet_arabic": "نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun, \"Evet, yenerseniz gözdelerden olacaksınız\" dedi.",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun, \"Evet, yenerseniz gözdelerden olacaksınız\" dedi.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 7,
+      "ayah": 185,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:185",
+      "word_position": 17,
+      "target_word_uthmani": "ٱقْتَرَبَ",
+      "target_word_rasm": "ٱقترب",
+      "target_word_literal_irab": "Yaklaştı / kapıya dayandı (`ٱقْتَرَبَ`, VIII. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "أَن يَكُونَ قَدِ ٱقْتَرَبَ أَجَلُهُمْ فَبِأَىِّ حَدِيثٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığını, Allah'ın yarattığı her şeyi ve ecellerinin yaklaşmış olması ihtimalini düşünmüyorlar mı? Bundan sonra hangi söze güven duy?",
+      "morphology": {
+        "lemma": "{qotaraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{qotaraba|ROOT:qrb|3MS"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَنظُرُوا۟ فِى مَلَكُوتِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا خَلَقَ ٱللَّهُ مِن شَىْءٍ وَأَنْ عَسَىٰٓ أَن يَكُونَ قَدِ ٱقْتَرَبَ أَجَلُهُمْ فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığını, Allah'ın yarattığı her şeyi ve ecellerinin yaklaşmış olması ihtimalini düşünmüyorlar mı? Bundan sonra hangi söze güven duy?",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 8,
+      "ayah": 41,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:41",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah'a ve hakkı batıldan ayıran o günde, iki topluluğun karşılaştığı günde kulumuza indirdiğimize güven duy, bilin ki, ele geçirdiğiniz ganimetin beşte biri Allah'ın, elçi'in ve yakınlarının, yetimlerin, düşkünlerin ve yolcularındır. Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah'a ve hakkı batıldan ayıran o günde, iki topluluğun karşılaştığı günde kulumuza indirdiğimize güven duy, bilin ki, ele geçirdiğiniz ganimetin beşte biri Allah'ın, elçi'in ve yakınlarının, yetimlerin, düşkünlerin ve yolcularındır. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 28,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:28",
+      "word_position": 8,
+      "target_word_uthmani": "يَقْرَبُوا۟",
+      "target_word_rasm": "يقربوا",
+      "target_word_literal_irab": "Yaklaşmasınlar (`يَقْرَبُوا۟`, I. bab muzârî meczûm nehy, 3. çoğul eril)",
+      "context_snippet_arabic": "ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. ...",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. Allah şüphesiz bilendir, hakimdir.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 42,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:42",
+      "word_position": 4,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ",
+      "context_snippet_turkish_tabula_rasa": "Kolay bir kazanç, normal bir yolculuk olsaydı sana uyarlardı, fakat çıkılacak yol onlara uzak geldi, kendilerini helak ederek, \"Gücümüz yetseydi sizinle beraber...",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kolay bir kazanç, normal bir yolculuk olsaydı sana uyarlardı, fakat çıkılacak yol onlara uzak geldi, kendilerini helak ederek, \"Gücümüz yetseydi sizinle beraber çıkardık\" diye Allah'a bağlayıcı ahit edeceklerdir. Allah, onların yalancı olduğunu elbette biliyor.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 9,
+      "ayah": 99,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:99",
+      "word_position": 11,
+      "target_word_uthmani": "قُرُبَٰتٍ",
+      "target_word_rasm": "قربت",
+      "target_word_literal_irab": "Yakınlaşma basamakları / vesileleri (`قُرُبَٰتٍ`, nekre cemi müennes sâlim isim — `9:99` hapaxı)",
+      "context_snippet_arabic": "وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Bedevilerden, Allah'a ve ahiret gününe güvene eren, sarfettiğini, Allah katında boyun eğme ve kulluk ve elçinin dualarına nail olmağa vesile sayanlar da vardır....",
+      "morphology": {
+        "lemma": "quruba`t",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:quruba`t|ROOT:qrb|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلْأَعْرَابِ مَن يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِۦٓ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bedevilerden, Allah'a ve ahiret gününe güvene eren, sarfettiğini, Allah katında boyun eğme ve kulluk ve elçinin dualarına nail olmağa vesile sayanlar da vardır. Bilin ki, verdikleri onlar için kulluk ve yöneliştir. Allah, onlara rahmet edecektir. Allah şüphesiz bağışlar ve merhamet eder.",
+      "contextual_meaning": "Harcamaların yakınlaşma adımlarına dönüşmesi (`قُرُبَٰتٍ ... أَلَآ إِنَّهَا قُرْبَةٌ` `9:99`): Maddi paylaşımın samimi niyetle gerçek bir yakınlık bağına (`قُرْبَة`) dönüşmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 99,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:99",
+      "word_position": 18,
+      "target_word_uthmani": "قُرْبَةٌ",
+      "target_word_rasm": "قربة",
+      "target_word_literal_irab": "Gerçek bir yakınlaşma vesilesidir (`قُرْبَةٌ`, nekre tekil dişil isim merfû — `9:99` hapaxı)",
+      "context_snippet_arabic": "ٱلرَّسُولِ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ سَيُدْخِلُهُمُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Bedevilerden, Allah'a ve ahiret gününe güvene eren, sarfettiğini, Allah katında boyun eğme ve kulluk ve elçinin dualarına nail olmağa vesile sayanlar da vardır....",
+      "morphology": {
+        "lemma": "qurobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobap|ROOT:qrb|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلْأَعْرَابِ مَن يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِۦٓ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bedevilerden, Allah'a ve ahiret gününe güvene eren, sarfettiğini, Allah katında boyun eğme ve kulluk ve elçinin dualarına nail olmağa vesile sayanlar da vardır. Bilin ki, verdikleri onlar için kulluk ve yöneliştir. Allah, onlara rahmet edecektir. Allah şüphesiz bağışlar ve merhamet eder.",
+      "contextual_meaning": "Harcamaların yakınlaşma adımlarına dönüşmesi (`قُرُبَٰتٍ ... أَلَآ إِنَّهَا قُرْبَةٌ` `9:99`): Maddi paylaşımın samimi niyetle gerçek bir yakınlık bağına (`قُرْبَة`) dönüşmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 113,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:113",
+      "word_position": 12,
+      "target_word_uthmani": "قُرْبَىٰ",
+      "target_word_rasm": "قربى",
+      "target_word_literal_irab": "Yakınlık bağı sahipleri (`قُرْبَىٰ`, tekil dişil maksûr isim — mahallen mansûb)",
+      "context_snippet_arabic": "وَلَوْ كَانُوٓا۟ أُو۟لِى قُرْبَىٰ مِنۢ بَعْدِ مَا",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehli oldukları anlaşıldıktan sonra, akraba bile olsalar, puta tapanlar için mağfiret dilemek elçi'e ve güvene erenlere yaraşmaz.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|ACC"
+      },
+      "ayah_text_arabic_full": "مَا كَانَ لِلنَّبِىِّ وَٱلَّذِينَ ءَامَنُوٓا۟ أَن يَسْتَغْفِرُوا۟ لِلْمُشْرِكِينَ وَلَوْ كَانُوٓا۟ أُو۟لِى قُرْبَىٰ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehli oldukları anlaşıldıktan sonra, akraba bile olsalar, puta tapanlar için mağfiret dilemek elçi'e ve güvene erenlere yaraşmaz.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 61,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:61",
+      "word_position": 26,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "... Öyleyse O'ndan mağfiret dileyin, sonra da O'na tevbe edin. Doğrusu Rabbim size yakın ve duaları kabul edendir\" dedi.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milletine kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin; O'ndan başka sığınak merciiniz yoktur; sizi yeryüzünde yaratıp orayı imar etmenizi dileyen O'dur. Öyleyse O'ndan mağfiret dileyin, sonra da O'na tevbe edin. Doğrusu Rabbim size yakın ve duaları kabul edendir\" dedi.",
+      "contextual_meaning": "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
+    },
+    {
+      "surah": 11,
+      "ayah": 64,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:64",
+      "word_position": 17,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Bu, size bir ayet olarak, Allah'ın devesidir. Bırakın onu, Allah'ın toprağında otlasın; ona fenalık etmeyin, yoksa siz hemen azaba uğrarsınız\"",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Bu, size bir ayet olarak, Allah'ın devesidir. Bırakın onu, Allah'ın toprağında otlasın; ona fenalık etmeyin, yoksa siz hemen azaba uğrarsınız\"",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 81,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:81",
+      "word_position": 29,
+      "target_word_uthmani": "بِقَرِيبٍ",
+      "target_word_rasm": "بقريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "context_snippet_turkish_tabula_rasa": "... Vadeleri gün doğana kadardır. Gün doğması yakın değil mi?\" dediler.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Lut! Biz Rabbinin elçileriyiz, onlar sana ilişemiyecekler; geceleyin bir ara, ailenle beraber yola çık; karının dışında kimse geri kalmasın. Doğrusu onların başına gelen onun başına da gelecektir. Vadeleri gün doğana kadardır. Gün doğması yakın değil mi?\" dediler.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 12,
+      "ayah": 60,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:60",
+      "word_position": 10,
+      "target_word_uthmani": "تَقْرَبُونِ",
+      "target_word_rasm": "تقربون",
+      "target_word_literal_irab": "Bana yaklaşmayın (`تَقْرَبُونِ`, I. bab muzârî meczûm nehy + kaynaştırma `ن` + hazifli `ى`)",
+      "context_snippet_arabic": "لَكُمْ عِندِى وَلَا تَقْرَبُونِ",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer onu bana getirmezseniz bundan böyle benden bir ölçek bile alamazsınız ve bana artık yaklaşmayın da.\"",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer onu bana getirmezseniz bundan böyle benden bir ölçek bile alamazsınız ve bana artık yaklaşmayın da.\"",
+      "contextual_meaning": "Koşullu mesafe uyarısı (`وَلَا تَقْرَبُونِ` `12:60`): Yûsuf'un küçük kardeş getirilmedikçe erzak ve görüşme yakınlığı tanımayacağını bildirmesi."
+    },
+    {
+      "surah": 13,
+      "ayah": 31,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:31",
+      "word_position": 40,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "... güvene erenlerin, \"Allah dilese bütün insanları doğru yola eriştirebilir\" gerçeğini akılları kesmedi mi? Allah'ın sözü yerine gelinceye kadar, yaptıkları işler sebebiyle gerçeğin üzerini örtenlere bir belanın dokunması veya evlerinin yakınına inmesi devam eder durur. Allah, verdiği sözden şüphesiz caymaz.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Kuran ile dağlar yürütülmüş veya yeryüzü parçalanmış yahut ölüler konuşturulmuş olsaydı, gerçeğin üzerini örtenler yine de güven duy. Oysa bütün işler Allah'a aittir. güvene erenlerin, \"Allah dilese bütün insanları doğru yola eriştirebilir\" gerçeğini akılları kesmedi mi? Allah'ın sözü yerine gelinceye kadar, yaptıkları işler sebebiyle gerçeğin üzerini örtenlere bir belanın dokunması veya evlerinin yakınına inmesi devam eder durur. Allah, verdiği sözden şüphesiz caymaz.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 14,
+      "ayah": 44,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:44",
+      "word_position": 13,
+      "target_word_uthmani": "قَرِيبٍ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, elçilere uyalım\" derler. Siz daha önce, sonunuzun gelmeyeceğine bağlayıcı ahit etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. ...",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: \"Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, elçilere uyalım\" derler. Siz daha önce, sonunuzun gelmeyeceğine bağlayıcı ahit etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. Onlara, yaptıklarımız da sizlere açıklanmıştı. Size misaller de vermiştik.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 16,
+      "ayah": 77,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:77",
+      "word_position": 13,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ إِنَّ ٱللَّهَ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin gaybı Allah'a aittir, kıyamet saatinin kopuşu bir göz kırpması kadar veya daha çabuk bir zaman içinde olur. Şüphesiz Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلَّا كَلَمْحِ ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin gaybı Allah'a aittir, kıyamet saatinin kopuşu bir göz kırpması kadar veya daha çabuk bir zaman içinde olur. Şüphesiz Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 16,
+      "ayah": 90,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:90",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Kan ve yakınlık bağı sahibinin/sahibine (`ٱلْقُرْبَىٰ / قُرْبَىٰٓ`, tekil dişil maksûr isim)",
+      "context_snippet_arabic": "وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz adaleti, iyilik yapmayı, yakınlara bakmayı emreder; hayasızlığı, fenalığı ve haddi aşmayı yasak eder. Tutasınız diye size öğüt verir.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz adaleti, iyilik yapmayı, yakınlara bakmayı emreder; hayasızlığı, fenalığı ve haddi aşmayı yasak eder. Tutasınız diye size öğüt verir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 26,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:26",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Kan ve yakınlık bağı sahibinin/sahibine (`ٱلْقُرْبَىٰ / قُرْبَىٰٓ`, tekil dişil maksûr isim)",
+      "context_snippet_arabic": "وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ",
+      "context_snippet_turkish_tabula_rasa": "Yakınına, düşküne, yolcuya hakkını ver; elindekileri saçıp savurma.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yakınına, düşküne, yolcuya hakkını ver; elindekileri saçıp savurma.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 32,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:32",
+      "word_position": 2,
+      "target_word_uthmani": "تَقْرَبُوا۟",
+      "target_word_rasm": "تقربوا",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ إِنَّهُۥ كَانَ",
+      "context_snippet_turkish_tabula_rasa": "Sakın zinaya yaklaşmayın; doğrusu bu çirkindir, kötü bir yoldur.",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ إِنَّهُۥ كَانَ فَٰحِشَةً وَسَآءَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sakın zinaya yaklaşmayın; doğrusu bu çirkindir, kötü bir yoldur.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 34,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:34",
+      "word_position": 2,
+      "target_word_uthmani": "تَقْرَبُوا۟",
+      "target_word_rasm": "تقربوا",
+      "target_word_literal_irab": "Yaklaşmayın (`تَقْرَبُوا۟ / تَقْرَبُوهَا / تَقْرَبُوهُنَّ`, I. bab muzârî meczûm nehy, 2. çoğul eril)",
+      "context_snippet_arabic": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Yetimin malına ergin çağa ulaşana kadar en güzel şeklin dışında yaklaşmayın. Ahdi de yerine getirin, doğrusu verilen ahidde sorumluluk vardır.",
+      "morphology": {
+        "lemma": "yaqorabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yaqorabu|ROOT:qrb|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimin malına ergin çağa ulaşana kadar en güzel şeklin dışında yaklaşmayın. Ahdi de yerine getirin, doğrusu verilen ahidde sorumluluk vardır.",
+      "contextual_meaning": "Sınır çevresi koruma yasağı (`لَا تَقْرَبُوا۟` `2:35,187,222`, `4:43`, `6:151-152`, `17:32,34`, `9:28`): Kur'an'daki tüm `11` I. bab fiilinin olumsuz emir gelmesiyle çirkinliklere, yetim malına ve sınırlara daha başlangıç adımında yaklaşma bile denmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 51,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:51",
+      "word_position": 25,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "عَسَىٰٓ أَن يَكُونَ قَرِيبًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Ne zamandır bu?\" derler. \"Yakında olması mümkündür\" de.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَوْ خَلْقًا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ فَسَيَقُولُونَ مَن يُعِيدُنَا قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İster taş veya demir ya da kalbinizde büyüttüğünüz başka bir yaratık olun, yine de dirileceksiniz.\" \"Bizi tekrar kim diriltir?\" derler; de ki: \"Sizi ilk defa yaratan.\" Sana başlarını sallayarak: \"Ne zamandır bu?\" derler. \"Yakında olması mümkündür\" de.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 17,
+      "ayah": 57,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:57",
+      "word_position": 9,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ",
+      "context_snippet_turkish_tabula_rasa": "Taptıkları putlar Rablerine daha yakın olmak için vesile ararlar. O'nun rahmetini umar, azabından korkarlar. Zira Rabbinin azabı korkmağa değer.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Taptıkları putlar Rablerine daha yakın olmak için vesile ararlar. O'nun rahmetini umar, azabından korkarlar. Zira Rabbinin azabı korkmağa değer.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 24,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:24",
+      "word_position": 14,
+      "target_word_uthmani": "لِأَقْرَبَ",
+      "target_word_rasm": "لأقرب",
+      "target_word_literal_irab": "Daha yakın olana (`لِأَقْرَبَ`, gayr-ı munsarif ism-i tafdîl mecrûr — fethalı)",
+      "context_snippet_arabic": "أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا",
+      "context_snippet_turkish_tabula_rasa": "... Unuttuğun zaman Rabbini an ve şöyle de: \"Umulur ki, Rabbim beni doğruya daha yakın olana eriştirir. \"",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَّآ أَن يَشَآءَ ٱللَّهُ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Herhangi bir şey için, Allah'ın dilemesi dışında: \"Ben yarın onu yapacağım\" deme. Unuttuğun zaman Rabbini an ve şöyle de: \"Umulur ki, Rabbim beni doğruya daha yakın olana eriştirir.\"",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 18,
+      "ayah": 81,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:81",
+      "word_position": 8,
+      "target_word_uthmani": "وَأَقْرَبَ",
+      "target_word_rasm": "وأقرب",
+      "target_word_literal_irab": "Daha yakın olarak (`أَقْرَبَ / وَأَقْرَبَ`, tekil eril ism-i tafdîl mansûb)",
+      "context_snippet_arabic": "خَيْرًا مِّنْهُ زَكَوٰةً وَأَقْرَبَ رُحْمًا",
+      "context_snippet_turkish_tabula_rasa": "Rablerinin o çocuktan daha temiz ve onlara daha çok merhamet eden birini vermesini istedik.\"",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَرَدْنَآ أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِّنْهُ زَكَوٰةً وَأَقْرَبَ رُحْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin o çocuktan daha temiz ve onlara daha çok merhamet eden birini vermesini istedik.\"",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 19,
+      "ayah": 52,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:52",
+      "word_position": 6,
+      "target_word_uthmani": "وَقَرَّبْنَٰهُ",
+      "target_word_rasm": "وقربنه",
+      "target_word_literal_irab": "Onu yaklaştırdık (`وَقَرَّبْنَٰهُ`, II. bab mâzî, 1. çoğul + zamir)",
+      "context_snippet_arabic": "جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Ona Tur'un sağ yanından seslenmiş ve konuşmak için onu yaklaştırmıştık.",
+      "morphology": {
+        "lemma": "qar~aba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qar~aba|ROOT:qrb|1P"
+      },
+      "ayah_text_arabic_full": "وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ona Tur'un sağ yanından seslenmiş ve konuşmak için onu yaklaştırmıştık.",
+      "contextual_meaning": "Seçkin elçiyi yakın konuşmaya çekme (`وَقَرَّبْنَٰهُ نَجِيًّا` `19:52` II. bab): Tûr'un sağ yanından seslenilen Mûsâ'nın özel sırdaş yakınlığına alınması."
+    },
+    {
+      "surah": 21,
+      "ayah": 1,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:1",
+      "word_position": 1,
+      "target_word_uthmani": "ٱقْتَرَبَ",
+      "target_word_rasm": "ٱقترب",
+      "target_word_literal_irab": "Yaklaştı / kapıya dayandı (`ٱقْتَرَبَ`, VIII. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "İnsanların hesap görme zamanı yaklaştı, fakat onlar hala habersiz, hakdan yüz çeviriyorlar.",
+      "morphology": {
+        "lemma": "{qotaraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{qotaraba|ROOT:qrb|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların hesap görme zamanı yaklaştı, fakat onlar hala habersiz, hakdan yüz çeviriyorlar.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 21,
+      "ayah": 97,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:97",
+      "word_position": 1,
+      "target_word_uthmani": "وَٱقْتَرَبَ",
+      "target_word_rasm": "وٱقترب",
+      "target_word_literal_irab": "Yaklaştı / kapıya dayandı (`ٱقْتَرَبَ`, VIII. bab mâzî, 3. tekil eril)",
+      "context_snippet_arabic": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا",
+      "context_snippet_turkish_tabula_rasa": "Gerçek vaad yaklaştığında, gerçeğin üzerini örtenlerin gözleri beleriverir: \"Vah bize! Bundan önce gaflet içindeydik, hem de zalimdik\" derler.",
+      "morphology": {
+        "lemma": "{qotaraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{qotaraba|ROOT:qrb|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçek vaad yaklaştığında, gerçeğin üzerini örtenlerin gözleri beleriverir: \"Vah bize! Bundan önce gaflet içindeydik, hem de zalimdik\" derler.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 21,
+      "ayah": 109,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:109",
+      "word_position": 9,
+      "target_word_uthmani": "أَقَرِيبٌ",
+      "target_word_rasm": "أقريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "سَوَآءٍ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌ مَّا",
+      "context_snippet_turkish_tabula_rasa": "Eğer yüz çevirirlerse, de ki: \"Size düpedüz açıkladım; tehdit olunduğunuz şeyin yakın mı uzak mı olduğunu bilmem.\"",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌ مَّا تُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yüz çevirirlerse, de ki: \"Size düpedüz açıkladım; tehdit olunduğunuz şeyin yakın mı uzak mı olduğunu bilmem.\"",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 22,
+      "ayah": 13,
+      "surah_name": "Hac",
+      "ayah_ref": "22:13",
+      "word_position": 4,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ",
+      "context_snippet_turkish_tabula_rasa": "Kendisine zararı faydasından daha yakın olana yalvarır. Yalvardığı şey ne kötü yardımcı ve ne kötü yoldaştır!",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisine zararı faydasından daha yakın olana yalvarır. Yalvardığı şey ne kötü yardımcı ve ne kötü yoldaştır!",
+      "contextual_meaning": "Nitelik ve tutumda daha yakın olma ölçüsü (`أَقْرَبُ لِلتَّقْوَىٰ` `2:237`, `5:8`, `لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا` `18:24`, `أَقْرَبَهُم مَّوَدَّةً` `5:82`): Bağışlamanın ve adaletin sorumluluk bilincine yakınlığı ile eğilim karşılaştırmaları."
+    },
+    {
+      "surah": 24,
+      "ayah": 22,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:22",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَٰكِينَ وَٱلْمُهَٰجِرِينَ فِى",
+      "context_snippet_turkish_tabula_rasa": "İçinizde lütuf ve servet sahibi olanlar, yakınlarına, düşkünlere ve Allah yolunda hicret edenlere, vermemek için bağlayıcı ahit etmesinler, affetsinler, geçsinler. Allah'ın sizi bağışlamasından hoşlanmaz mısınız? Allah bağışlayandır, merhametli olandır.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَٰكِينَ وَٱلْمُهَٰجِرِينَ فِى سَبِيلِ ٱللَّهِ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizde lütuf ve servet sahibi olanlar, yakınlarına, düşkünlere ve Allah yolunda hicret edenlere, vermemek için bağlayıcı ahit etmesinler, affetsinler, geçsinler. Allah'ın sizi bağışlamasından hoşlanmaz mısınız? Allah bağışlayandır, merhametli olandır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 42,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:42",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْمُقَرَّبِينَ",
+      "target_word_rasm": "ٱلمقربين",
+      "target_word_literal_irab": "Yakına alınmış seçkinlerden (`ٱلْمُقَرَّبِينَ`, II. bab ism-i mef'ûl cemi müzekker sâlim mecrûr)",
+      "context_snippet_arabic": "وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Firavun: \"Evet; o takdirde siz gözde kimselerden olacaksınız\" dedi.",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun: \"Evet; o takdirde siz gözde kimselerden olacaksınız\" dedi.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 26,
+      "ayah": 214,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:214",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْأَقْرَبِينَ",
+      "target_word_rasm": "ٱلأقربين",
+      "target_word_literal_irab": "En yakın olan topluluğunu (`ٱلْأَقْرَبِينَ`, çoğul ism-i tafdîl mansûb)",
+      "context_snippet_arabic": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Önce en yakın hısımlarını uyar.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>aqorab|ROOT:qrb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Önce en yakın hısımlarını uyar.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 38,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:38",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Kan ve yakınlık bağı sahibinin/sahibine (`ٱلْقُرْبَىٰ / قُرْبَىٰٓ`, tekil dişil maksûr isim)",
+      "context_snippet_arabic": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ",
+      "context_snippet_turkish_tabula_rasa": "Yakınlığı olana, yoksula, yolda kalmışa hakkını ver. Allah'ın rızasını dileyenler için bu daha hayırlıdır. İşte onlar saadete erenlerdir.",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|NOM"
+      },
+      "ayah_text_arabic_full": "فَـَٔاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ ذَٰلِكَ خَيْرٌ لِّلَّذِينَ يُرِيدُونَ وَجْهَ ٱللَّهِ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yakınlığı olana, yoksula, yolda kalmışa hakkını ver. Allah'ın rızasını dileyenler için bu daha hayırlıdır. İşte onlar saadete erenlerdir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 63,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:63",
+      "word_position": 15,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar senden kıyametin zamanını soruyorlar; de ki: \"Onun bilgisi ancak Allah katındadır; ne bilirsin, belki de zamanı yakındır.\"",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar senden kıyametin zamanını soruyorlar; de ki: \"Onun bilgisi ancak Allah katındadır; ne bilirsin, belki de zamanı yakındır.\"",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 34,
+      "ayah": 37,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:37",
+      "word_position": 6,
+      "target_word_uthmani": "تُقَرِّبُكُمْ",
+      "target_word_rasm": "تقربكم",
+      "target_word_literal_irab": "Sizi yaklaştıracak değildir (`تُقَرِّبُكُمْ`, II. bab muzârî merfû, 3. tekil dişil + zamir)",
+      "context_snippet_arabic": "وَلَآ أَوْلَٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Sizi Bana yaklaştıracak olan ne mallarınız ve ne de çocuklarınızdır; yalnız, güvene erip yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; ...",
+      "morphology": {
+        "lemma": "qar~aba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:qar~aba|ROOT:qrb|3FS"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًا فَأُو۟لَٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَٰتِ ءَامِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Sizi Bana yaklaştıracak olan ne mallarınız ve ne de çocuklarınızdır; yalnız, güvene erip yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; işte onlar, yüksek derecelerde, güven içindedirler.",
+      "contextual_meaning": "Gerçek yakınlaşma vesilesi ile sahte aracılık ayrımı (`تُقَرِّبُكُمْ / لِيُقَرِّبُونَآ ... زُلْفَىٰ` `34:37`, `39:3`): Malın, evladın ve sözde yardımcıların değil yalnız güven ve erdemli eylemin insana gerçek yakınlık sağladığı bildirilir."
+    },
+    {
+      "surah": 34,
+      "ayah": 50,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:50",
+      "word_position": 16,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "رَبِّىٓ إِنَّهُۥ سَمِيعٌ قَرِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Eğer saparsam, kendi zararıma sapmış olurum. Doğru yolda olursam, bu Rabbim'in bana vahyetmesiyledir. Doğrusu O, işitendir, yakın olandır\"",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ إِنَّهُۥ سَمِيعٌ قَرِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Eğer saparsam, kendi zararıma sapmış olurum. Doğru yolda olursam, bu Rabbim'in bana vahyetmesiyledir. Doğrusu O, işitendir, yakın olandır\"",
+      "contextual_meaning": "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
+    },
+    {
+      "surah": 34,
+      "ayah": 51,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:51",
+      "word_position": 10,
+      "target_word_uthmani": "قَرِيبٍ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "وَأُخِذُوا۟ مِن مَّكَانٍ قَرِيبٍ",
+      "context_snippet_turkish_tabula_rasa": "... artık kurtuluş yoktur, yakıcı yıkım yurduna yakın bir yerde yakalanmışlardır. O zaman, \"Allah'a güvene erdik\" derler ama, ahiret gibi uzak bir yerden güven bağı nasıl kolayca ulaşırlar?",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍ قَرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları korktukları zaman bir görsen; artık kurtuluş yoktur, yakıcı yıkım yurduna yakın bir yerde yakalanmışlardır. O zaman, \"Allah'a güvene erdik\" derler ama, ahiret gibi uzak bir yerden güven bağı nasıl kolayca ulaşırlar?",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 35,
+      "ayah": 18,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:18",
+      "word_position": 18,
+      "target_word_uthmani": "قُرْبَىٰٓ",
+      "target_word_rasm": "قربى",
+      "target_word_literal_irab": "Kan ve yakınlık bağı sahibinin/sahibine (`ٱلْقُرْبَىٰ / قُرْبَىٰٓ`, tekil dişil maksûr isim)",
+      "context_snippet_arabic": "وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "... sapma ve ağır kusur yükü ağır olan kimse, onun taşınmasını istese, yakını olsa bile, yükünden birşey taşınmaz. Sen ancak, görmediği halde Rablerinden korkanları, irtibat bağını kılanları uyarırsın. ...",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "ağır sapmaya düşen kimse diğerinin sapma ve kusurunu çekmez. sapma ve ağır kusur yükü ağır olan kimse, onun taşınmasını istese, yakını olsa bile, yükünden birşey taşınmaz. Sen ancak, görmediği halde Rablerinden korkanları, irtibat bağını kılanları uyarırsın. Kim arınırsa, ancak kendisi için arınmış olur; dönüş ancak Allah'adır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 3,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:3",
+      "word_position": 13,
+      "target_word_uthmani": "لِيُقَرِّبُونَآ",
+      "target_word_rasm": "ليقربونا",
+      "target_word_literal_irab": "Bizi yaklaştırsınlar diye (`لِيُقَرِّبُونَآ`, II. bab muzârî mansûb, 3. çoğul eril + zamir)",
+      "context_snippet_arabic": "مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "... O'nu bırakıp da putlardan dostlar edinenler: \"Onlara, bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz\" derler. Doğrusu Allah ayrılığa düştükleri şeylerde aralarında hüküm verecektir. ...",
+      "morphology": {
+        "lemma": "qar~aba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:qar~aba|ROOT:qrb|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَلَا لِلَّهِ ٱلدِّينُ ٱلْخَالِصُ وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ مَا نَعْبُدُهُمْ إِلَّا لِيُقَرِّبُونَآ إِلَى ٱللَّهِ زُلْفَىٰٓ إِنَّ ٱللَّهَ يَحْكُمُ بَيْنَهُمْ فِى مَا هُمْ فِيهِ يَخْتَلِفُونَ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ كَٰذِبٌ كَفَّارٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Dikkat edin, halis yaşam ve hesap sistemi Allah'ındır; O'nu bırakıp da putlardan dostlar edinenler: \"Onlara, bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz\" derler. Doğrusu Allah ayrılığa düştükleri şeylerde aralarında hüküm verecektir. Allah şüphesiz yalancı ve gerçeğin üzerini örten kimseyi doğru yola eriştirmez.",
+      "contextual_meaning": "Gerçek yakınlaşma vesilesi ile sahte aracılık ayrımı (`تُقَرِّبُكُمْ / لِيُقَرِّبُونَآ ... زُلْفَىٰ` `34:37`, `39:3`): Malın, evladın ve sözde yardımcıların değil yalnız güven ve erdemli eylemin insana gerçek yakınlık sağladığı bildirilir."
+    },
+    {
+      "surah": 42,
+      "ayah": 17,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:17",
+      "word_position": 11,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten Kitap'ı ve ölçüyü indiren Allah'tır. Ne bilirsin, belki de kıyamet saati yakındır.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِىٓ أَنزَلَ ٱلْكِتَٰبَ بِٱلْحَقِّ وَٱلْمِيزَانَ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ قَرِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten Kitap'ı ve ölçüyü indiren Allah'tır. Ne bilirsin, belki de kıyamet saati yakındır.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 42,
+      "ayah": 23,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:23",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem. \" Kim güzel bir iş işlerse onun güzelliğini arttırırız. ...",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erip yararlı işler işleyen kullarını bununla müjdeler. De ki: \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem.\" Kim güzel bir iş işlerse onun güzelliğini arttırırız. Doğrusu Allah bağışlayandır, nimeti açığa vurmanın karşılığını verendir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 28,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:28",
+      "word_position": 8,
+      "target_word_uthmani": "قُرْبَانًا",
+      "target_word_rasm": "قربانا",
+      "target_word_literal_irab": "Yakınlaşma aracı olarak (`قُرْبَانًا`, nekre tekil eril isim mansûb — hâl)",
+      "context_snippet_arabic": "مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ بَلْ ضَلُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "O zamanlar, Allah'ı bırakıp da O'na yakınlık peyda etmek için edindikleri sahte sığınaklar kendilerine yardım etmeli değil miydi? Ama sahte sığınakları onlardan uzaklaştılar. Bu, onların yalanı ve uydurup durdukları şeydir.",
+      "morphology": {
+        "lemma": "qurobaAn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaAn|ROOT:qrb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَوْلَا نَصَرَهُمُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ قُرْبَانًا ءَالِهَةًۢ بَلْ ضَلُّوا۟ عَنْهُمْ وَذَٰلِكَ إِفْكُهُمْ وَمَا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O zamanlar, Allah'ı bırakıp da O'na yakınlık peyda etmek için edindikleri sahte sığınaklar kendilerine yardım etmeli değil miydi? Ama sahte sığınakları onlardan uzaklaştılar. Bu, onların yalanı ve uydurup durdukları şeydir.",
+      "contextual_meaning": "Yakınlık sağlamak için takdim edilen sunu (`قَرَّبَا قُرْبَانًا` `5:27`, `3:183`, `46:28`): Yaratıcıya veya yüce makama yaklaşmak amacıyla öne getirilen takdimin yalnız sorumluluk bilinciyle kabul görmesi."
+    },
+    {
+      "surah": 48,
+      "ayah": 18,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:18",
+      "word_position": 19,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا",
+      "context_snippet_turkish_tabula_rasa": "... Gönüllerinde olanı da bilmiş, onlara güvenlik vermiş, onlara yakın bir zafer ve ele geçirecekleri bol ganimetler bahşetmiştir. Allah, güçlü olandır, Hakim olandır.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah güvene erenlerden, ağaç altında sana baş eğerek el verirlerken, and olsun ki hoşnut olmuştur. Gönüllerinde olanı da bilmiş, onlara güvenlik vermiş, onlara yakın bir zafer ve ele geçirecekleri bol ganimetler bahşetmiştir. Allah, güçlü olandır, Hakim olandır.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 48,
+      "ayah": 27,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:27",
+      "word_position": 28,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah, sizin bilmediğinizi bilir. Size, bundan başka, yakın zamanda bir zafer verecektir.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Allah, elçisinin rüyasının gerçek olduğunu tasdik eder. Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. Size, bundan başka, yakın zamanda bir zafer verecektir.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 50,
+      "ayah": 16,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:16",
+      "word_position": 10,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki insanı Biz yarattık; kendi benliğinin kendisine fısıldadıklarını biliriz; Biz ona şah damarından daha yakınız.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki insanı Biz yarattık; kendi benliğinin kendisine fısıldadıklarını biliriz; Biz ona şah damarından daha yakınız.",
+      "contextual_meaning": "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
+    },
+    {
+      "surah": 50,
+      "ayah": 41,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:41",
+      "word_position": 7,
+      "target_word_uthmani": "قَرِيبٍ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ",
+      "context_snippet_turkish_tabula_rasa": "Bir çağırıcının yakın bir yerden çağıracağı güne kulak ver.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir çağırıcının yakın bir yerden çağıracağı güne kulak ver.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 51,
+      "ayah": 27,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:27",
+      "word_position": 1,
+      "target_word_uthmani": "فَقَرَّبَهُۥٓ",
+      "target_word_rasm": "فقربه",
+      "target_word_literal_irab": "Onu (yemeği) önlerine yaklaştırdı (`فَقَرَّبَهُۥٓ`, II. bab mâzî, 3. tekil eril + zamir)",
+      "context_snippet_arabic": "فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا",
+      "context_snippet_turkish_tabula_rasa": "Hemen ailesine giderek semiz bir buzağı getirmiş, onların önüne sürüp: \"Yemez misiniz?\" demişti.",
+      "morphology": {
+        "lemma": "qar~aba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qar~aba|ROOT:qrb|3MS"
+      },
+      "ayah_text_arabic_full": "فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hemen ailesine giderek semiz bir buzağı getirmiş, onların önüne sürüp: \"Yemez misiniz?\" demişti.",
+      "contextual_meaning": "Fizikî sunum ve önüne yaklaştırma (`فَقَرَّبَهُۥٓ إِلَيْهِمْ` `51:27` II. bab): İbrâhîm'in kızartılmış yemeği bizzat misafirlerin önüne yaklaştırıp ikrama çağırması — kökün somut mekân yaklaştırması."
+    },
+    {
+      "surah": 54,
+      "ayah": 1,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:1",
+      "word_position": 1,
+      "target_word_uthmani": "ٱقْتَرَبَتِ",
+      "target_word_rasm": "ٱقتربت",
+      "target_word_literal_irab": "İyice yaklaştı (`ٱقْتَرَبَتِ`, VIII. bab mâzî, 3. tekil dişil)",
+      "context_snippet_arabic": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "context_snippet_turkish_tabula_rasa": "Kıyamet saati yaklaşır, ay yarılır; onlar bir delil görünce hala yüz çevirirler ve: \"Süregelen bir sihir\" derler.",
+      "morphology": {
+        "lemma": "{qotaraba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VIII)|LEM:{qotaraba|ROOT:qrb|3FS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kıyamet saati yaklaşır, ay yarılır; onlar bir delil görünce hala yüz çevirirler ve: \"Süregelen bir sihir\" derler.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 56,
+      "ayah": 11,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:11",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْمُقَرَّبُونَ",
+      "target_word_rasm": "ٱلمقربون",
+      "target_word_literal_irab": "En yakına çekilmiş seçkinler (`ٱلْمُقَرَّبُونَ`, II. bab ism-i mef'ûl cemi müzekker sâlim merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Naim esenlik bahçelerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır.",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Naim esenlik bahçelerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 56,
+      "ayah": 85,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:85",
+      "word_position": 2,
+      "target_word_uthmani": "أَقْرَبُ",
+      "target_word_rasm": "أقرب",
+      "target_word_literal_irab": "Daha yakındır / en yakın olanı (`أَقْرَبُ`, tekil eril ism-i tafdîl merfû)",
+      "context_snippet_arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن",
+      "context_snippet_turkish_tabula_rasa": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz.",
+      "morphology": {
+        "lemma": ">aqorab",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aqorab|ROOT:qrb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَٰكِن لَّا تُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz.",
+      "contextual_meaning": "Yaratıcının insana kuşatıcı yakınlığı (`فَإِنِّى قَرِيبٌ` `2:186`, `قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ` `7:56`, `أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ` `50:16`, `56:85`): Çağrıya anında karşılık veren ve şah damarından daha yakın olan ilâhî yakınlık."
+    },
+    {
+      "surah": 56,
+      "ayah": 88,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:88",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُقَرَّبِينَ",
+      "target_word_rasm": "ٱلمقربين",
+      "target_word_literal_irab": "Yakına alınmış seçkinlerden (`ٱلْمُقَرَّبِينَ`, II. bab ism-i mef'ûl cemi müzekker sâlim mecrûr)",
+      "context_snippet_arabic": "إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer ölen o kişi, gözdelerden ise, rahatlık, hoşluk ve nimet esenlik bahçesini onundur.",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer ölen o kişi, gözdelerden ise, rahatlık, hoşluk ve nimet esenlik bahçesini onundur.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 59,
+      "ayah": 7,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:7",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْقُرْبَىٰ",
+      "target_word_rasm": "ٱلقربى",
+      "target_word_literal_irab": "Yakınlık bağı / hısımlık (`ٱلْقُرْبَىٰ / قُرْبَىٰ`, tekil dişil maksûr isim mecrûr)",
+      "context_snippet_arabic": "فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, elçi, yakınlar, yetimler, yoksullar ve yolda kalmışlar içindir; ta ki içinizdeki zenginler arasında elden ele dolaşan bir devlet olmasın. ...",
+      "morphology": {
+        "lemma": "qurobaY`",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qurobaY`|ROOT:qrb|F|GEN"
+      },
+      "ayah_text_arabic_full": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, fethedilen memleketler halkının mallarından elçisine verdikleri; Allah, elçi, yakınlar, yetimler, yoksullar ve yolda kalmışlar içindir; ta ki içinizdeki zenginler arasında elden ele dolaşan bir devlet olmasın. elçi size ne verirse onu alın, sizi neden menederse ondan geri durun; Allah'tan sakının, doğrusu Allah'ın cezalandırması çetindir.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 15,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:15",
+      "word_position": 5,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ذَاقُوا۟ وَبَالَ أَمْرِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onların durumu, kendilerinden az zaman önce geçmiş ve işlerinin karşılığını tatmış olanların durumu gibidir. Onlara can yakıcı azap vardır.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların durumu, kendilerinden az zaman önce geçmiş ve işlerinin karşılığını tatmış olanların durumu gibidir. Onlara can yakıcı azap vardır.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 61,
+      "ayah": 13,
+      "surah_name": "Saff",
+      "ayah_ref": "61:13",
+      "word_position": 7,
+      "target_word_uthmani": "قَرِيبٌ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bundan başka, sevdiğiniz bir şey daha: Allah katından bir yardım ve yakın bir zafer vardır. güvene erenlere müjde ver.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَأُخْرَىٰ تُحِبُّونَهَا نَصْرٌ مِّنَ ٱللَّهِ وَفَتْحٌ قَرِيبٌ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan başka, sevdiğiniz bir şey daha: Allah katından bir yardım ve yakın bir zafer vardır. güvene erenlere müjde ver.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 63,
+      "ayah": 10,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:10",
+      "word_position": 17,
+      "target_word_uthmani": "قَرِيبٍ",
+      "target_word_rasm": "قريب",
+      "target_word_literal_irab": "Yakın (bir zaman/yerden) (`قَرِيبٍ / بِقَرِيبٍ`, sıfat-ı müşebbehe tekil eril mecrûr)",
+      "context_snippet_arabic": "أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Beni yakın bir süreye kadar ertelesen de, sadaka versem, iyilerden olsam\" diyeceği zaman gelmezden önce, size verdiğimiz rızıklardan dolaşıma sokup paylaşın.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birine ölüm gelip de: \"Rabbim! Beni yakın bir süreye kadar ertelesen de, sadaka versem, iyilerden olsam\" diyeceği zaman gelmezden önce, size verdiğimiz rızıklardan dolaşıma sokup paylaşın.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 70,
+      "ayah": 7,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:7",
+      "word_position": 2,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "وَنَرَىٰهُ قَرِيبًا",
+      "context_snippet_turkish_tabula_rasa": "Ama biz onu yakın görmekteyiz.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَرَىٰهُ قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ama biz onu yakın görmekteyiz.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 72,
+      "ayah": 25,
+      "surah_name": "Cin",
+      "ayah_ref": "72:25",
+      "word_position": 4,
+      "target_word_uthmani": "أَقَرِيبٌ",
+      "target_word_rasm": "أقريب",
+      "target_word_literal_irab": "Yakındır / yakın mıdır (`قَرِيبٌ / أَقَرِيبٌ`, sıfat-ı müşebbehe tekil eril merfû)",
+      "context_snippet_arabic": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: Size söz verilen yakın mıdır, yoksa Rabbim onu uzun süreli mi kılmıştır ben bilmem.\"",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qariyb|ROOT:qrb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: Size söz verilen yakın mıdır, yoksa Rabbim onu uzun süreli mi kılmıştır ben bilmem.\"",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 78,
+      "ayah": 40,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:40",
+      "word_position": 4,
+      "target_word_uthmani": "قَرِيبًا",
+      "target_word_rasm": "قريبا",
+      "target_word_literal_irab": "Yakın / pek yakında (`قَرِيبًا`, sıfat-ı müşebbehe tekil eril mansûb)",
+      "context_snippet_arabic": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ",
+      "context_snippet_turkish_tabula_rasa": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve gerçeğin üzerini örten da: \"Keşke toprak olaydım\" der.",
+      "morphology": {
+        "lemma": "qariyb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qariyb|ROOT:qrb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve gerçeğin üzerini örten da: \"Keşke toprak olaydım\" der.",
+      "contextual_meaning": "Zaman ve mekân yakınlığı (`ٱقْتَرَبَ حِسَابُهُمْ` `21:1`, `54:1`, `فَتْحًا قَرِيبًا` `48:18,27`, `61:13`, `أَقَرِيبٌ أَم بَعِيدٌ` `21:109`, `أَجَلٍ قَرِيبٍ` `4:77`, `63:10`): Hesabın, yardımın veya açılımın uzak sanılsa da kapıya dayanmışlığı."
+    },
+    {
+      "surah": 83,
+      "ayah": 21,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:21",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْمُقَرَّبُونَ",
+      "target_word_rasm": "ٱلمقربون",
+      "target_word_literal_irab": "En yakına çekilmiş seçkinler (`ٱلْمُقَرَّبُونَ`, II. bab ism-i mef'ûl cemi müzekker sâlim merfû)",
+      "context_snippet_arabic": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, gözde kozmik görevlilerin gördüğü, yazılı bir kitapdır.",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, gözde kozmik görevlilerin gördüğü, yazılı bir kitapdır.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 83,
+      "ayah": 28,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:28",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْمُقَرَّبُونَ",
+      "target_word_rasm": "ٱلمقربون",
+      "target_word_literal_irab": "En yakına çekilmiş seçkinler (`ٱلْمُقَرَّبُونَ`, II. bab ism-i mef'ûl cemi müzekker sâlim merfû)",
+      "context_snippet_arabic": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onun katkısı gözdelerin içtiği yüce kaynaktandır.",
+      "morphology": {
+        "lemma": "muqar~abuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muqar~abuwn|ROOT:qrb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onun katkısı gözdelerin içtiği yüce kaynaktandır.",
+      "contextual_meaning": "En yakına alınmış seçkinler (`ٱلْمُقَرَّبُونَ` `3:45`, `4:172`, `56:11,88`, `83:21,28` & dünyevî saray yakınlığı `7:114`, `26:42`): İleri yarışanların ve kozmik görevlilerin yüksek yakınlık makamı."
+    },
+    {
+      "surah": 90,
+      "ayah": 15,
+      "surah_name": "Beled",
+      "ayah_ref": "90:15",
+      "word_position": 3,
+      "target_word_uthmani": "مَقْرَبَةٍ",
+      "target_word_rasm": "مقربة",
+      "target_word_literal_irab": "Soy ve yakınlık bağı bulunan (`مَقْرَبَةٍ`, nekre mîmli isim mecrûr — `90:15` hapaxı)",
+      "context_snippet_arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır.",
+      "morphology": {
+        "lemma": "maqorabap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maqorabap|ROOT:qrb|F|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır.",
+      "contextual_meaning": "Kan bağı, soy ve toplumsal hısımlık yakınlığı (`ذِى ٱلْقُرْبَىٰ` `2:83,177`, `4:8,36`, `16:90`, `42:23`, `ٱلْأَقْرَبُونَ` `4:7,33`, `ذَا مَقْرَبَةٍ` `90:15`): Akraba komşular, miras önceliği, yetim koruması ve soy yakınlığında adalet sorumluluğu (`4:135`, `6:152`, `35:18`)."
+    },
+    {
+      "surah": 96,
+      "ayah": 19,
+      "surah_name": "Alak",
+      "ayah_ref": "96:19",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱقْتَرِب",
+      "target_word_rasm": "وٱقترب",
+      "target_word_literal_irab": "Yaklaş / yakınlık kur (`وَٱقْتَرِب`, VIII. bab emir, 2. tekil eril)",
+      "context_snippet_arabic": "لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "context_snippet_turkish_tabula_rasa": "Sakın ona uyma; sen boyun eğip teslim ol, Rabbine yaklaş.",
+      "morphology": {
+        "lemma": "{qotaraba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VIII)|LEM:{qotaraba|ROOT:qrb|2MS"
+      },
+      "ayah_text_arabic_full": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب",
+      "ayah_text_turkish_tabula_rasa_full": "Sakın ona uyma; sen boyun eğip teslim ol, Rabbine yaklaş.",
+      "contextual_meaning": "Bilinçle boyun eğerek yaklaşma çağrısı (`وَٱسْجُدْ وَٱقْتَرِب` `96:19` VIII. bab emir): Baskıcı zorbalara uymayıp alçalarak ve içtenlikle Yaratıcıya yaklaşma emri."
+    }
+  ]
+}

@@ -1,0 +1,2252 @@
+{
+  "root": "أ-ج-ر",
+  "root_latin": "E-C-R (Ajr)",
+  "concept_name": "Ecir / Ücret (Emeği ve Eksikliği Onaran Hak Edilmiş Denk Bedel)",
+  "rank": 105,
+  "total_occurrences": 108,
+  "unique_ayahs_count": 99,
+  "unified_core_mechanism": "Kökün `108` geçişlik bütünü İbn Fâris'in birleştirdiği onarım ve bedel ekseninde çalışır: 'Harcanan emeğin, katlanılan fedakârlığın veya kurulan hukukî sözleşmenin yarattığı yükü/kırığı telafi eden hak edilmiş denk karşılık (`جَبْرُ ٱلْكَدِّ بِٱلْعِوَضِ`)'. Dört tutarlı kolda açılır: (1) Dünya iş sözleşmesi, sulama, duvar onarımı ve emzirme emeğinin ücreti (`18:77`, `28:25-27`, `65:6`, `7:113`). (2) Nikâh akdinde kadınlara ödenmesi zorunlu sözleşme bedeli (`أُجُورَهُنَّ` `4:24,25`, `5:5`, `33:50`, `60:10`). (3) Elçilerin insanlardan ücret istemeyip karşılığı yalnız Allah'a havale etmesi (`17` ayet). (4) Yararlı eylem, hicret, sebat ve affediciliğin asla zayi edilmeyen eksiksiz ve kesintisiz karşılığı (`3:185`, `4:173`, `41:8`, `42:40`).",
+  "physical_core": "İbn Fâris'in birleştirdiği iki somut asıl: (1) 'Kırılmış bir kemiğin kaynayıp sarılarak eski bütünlüğüne kavuşması (`جَبْرُ ٱلْعَظْمِ ٱلْكَسِيرِ`)' ve (2) 'Harcanan emeğin, yorgunluğun ya da kurulan sözleşme hakkının yol açtığı eksikliği/yükü sarıp telafi eden denk bedel ve hak edilmiş karşılık (`ٱلْكِرَاءُ عَلَى ٱلْعَمَلِ`)'. Bu tek telafi ve hak ediş mekaniği; işçi kiralama (`28:25-27`), emzirme ve evlilik güvence bedeli (`4:24`, `65:6`), elçilerin tebliği ücretsiz sunması (`10:72`, `34:47`) ve emeğin tam karşılığı (`3:185`, `4:173`, `39:10`) alanlarında tek çizgide işler.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökte iki asıl sayar — (1) iş karşılığı bedel (`الكراء على العمل`), (2) kırık kemiğin sarılıp kaynaması (`جبر العظم الكسير`) — ve ikisini tek anlamda birleştirir: işçinin aldığı ücret, çektiği yorgunluk ve emeğin kırığını onarıp telafi eden karşılıktır.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلْأَجُورُ` maddesinde kemiğin kaynayarak onarılmasını (`أَجَرَتْ يَدُهُ تَأْجُرُ أُجُورًا`) asli fiziksel kök olarak kaydeder; ücret ve kira anlamları da aynı telafi mekaniğinden gelir.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): `أَجَرَ ٱلْعَظْمُ` (kemiğin kaynaması) ile `أَجْر / إِجَارَة / أُجْرَة` (emeğin veya yaralanmanın telafi bedeli, diyet ve evlilik güvence hakkı `أُجُورَهُنَّ`) arasındaki doğrudan köprüye dikkat çeker.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `أَجْر`ı 'dünyevî veya uhrevî olarak işten doğan hak edilmiş karşılık' şeklinde tanımlar; günlük sözleşme bedeline daha çok `أُجْرَة` dendiğini, Kur'an'da ise hem işçi/evlilik bedelini hem ilâhî hak edişi aynı kökle ifade ettiğini belirtir.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an `أ-ج-ر` kökünün tamamında (`108` geçiş) 'emeğin, fedakârlığın veya akdin yarattığı maliyet ve yorgunluğu onaran hak edilmiş denk karşılık' çizgisini korur. Bu yüzden geleneksel mealdeki belirsiz 'karşılık/ödül' ya da yalnızca nikâh 'mehri' ayrıştırması yerine, tüm kullanımlar 'iş ve sorumluluk karşılığı telafi edici hak ediş / ücret' çekirdeğine bağlanır."
+  },
+  "semitic_cognates": {
+    "akkadian": "agāru(m) ('işe tutmak, kiralamak — işçi, gemi, hayvan, ev'), agru(m) ('ücretli işçi') ve igru ('ücret, kira bedeli'; CAD A/1, I).",
+    "aramaic_syriac": "Aramca אֲגַר (*ʾăgar*: 'ücretle tutmak, kiralamak') ve Klasik Süryanice `ܐܰܓܪܳܐ` (*ʾagrā*: 'ücret, emeğin karşılığı, hak ediş').",
+    "hebrew": "İbranice H103 אָגַר (*ʾāgar*: 'hasadı ve azığı toplayıp biriktirmek' — Süleyman'ın Özdeyişleri 6:8, 10:5) ve H95 hapax אֲגוֹרָה (*ʾăgōrāh*: 'küçük gümüş para birimi' — 1. Samuel 2:36). Semantik açıdan BDB İbranicedeki `אָגַר` ('hasat toplamak') fiili, Akadca/Aramca/Arapçadaki 'ücretle tutmak ve bedel ödemek' anlamından ayrı bir semantik daldır.",
+    "phonological_note": "Proto-Sami `*ʾ-g-r` üçlüsü Doğu (Akadca *agāru / agru / igru*), Kuzeybatı (Aramca *ʾăgar*, Süryanice *ʾagrā*) ve Arapça (`أَجَرَ / أَجْر`) arasında düzenli ses denkliği gösterir (`g` = Arapça `ج`). Buna karşın Kitâb-ı Mukaddes İbranicesindeki `אָגַר` ('toplamak') anlamca ayrıştığından zoraki eşleme yapılmamıştır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ض-ي-ع (`لَا يُضِيعُ أَجْرَ` `3:171`, `7:170`, `9:120`, `11:115`, `12:56,90`, `18:30` — Emeğin Boşa Çıkıp Kaybolması vs Eksiksiz Korunan Hak Ediş)",
+      "ح-ب-ط / خ-س-ر (`حَبِطَ عَمَلُهُ ... مِنَ ٱلْخَٰسِرِينَ` `5:5` — Emeğin Boşa Gidip Hüsrana Düşmek vs Hak Edişe Kavuşmak)",
+      "م-غ-ر-م (`مِن مَّغْرَمٍ مُّثْقَلُونَ` `52:40`, `68:46` — Ezen Ağır Borç Yükü vs Ücretsiz Sunulan Tebliğ)",
+      "م-ن-ن (`أَجْرٌ غَيْرُ مَمْنُونٍ` `41:8`, `68:3`, `84:25`, `95:6` — Kesintiye Uğrayan/Başa Kakılan Lütuf vs Kesintisiz Tam Hak Ediş)"
+    ],
+    "key_ayahs": [
+      "3:171",
+      "3:185",
+      "5:5",
+      "18:30",
+      "41:8",
+      "52:40",
+      "68:46",
+      "84:25"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'أ-ج-ر emeğin ve fedakârlığın kırığını onaran denk hak ediş/ücret ise zıtları nedir?' Cevap: (1) `إِضَاعَة` (zayi olup boşa gitmek: Allah iyilik yapanların ecrini asla zayi etmez `7` ayet). (2) `حَبِطَ عَمَلُهُ` (amelin boşa düşüp sıfırlanması `5:5`). (3) `مَغْرَم` (ödeyeni ezen borç yükü `52:40`, `68:46`). (4) `مَمْنُون` (kesilen ve başa kakılan pay `41:8`, `68:3`, `84:25`, `95:6`). Tüm bu zıtların tersi `أ-ج-ر` çekirdeğini %100 doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أَجْر (`Emek ve sorumlulukla hak edilen denk karşılık`) vs فَضْل (`Hak edişin üstüne karşılıksız eklenen artı lütuf ve bolluk`) — `3:171`, `4:95`, `4:173`, `35:30`, `48:29`, `73:20`",
+      "أَجْر (`Yalnızca olumlu emeğin, hizmetin veya akdin onarıcı bedeli`) vs جَزَاء (`Hem iyiliğe hem kötülüğe verilen nötr karşılık`) — `3:136`, `16:96,97`, `28:25`, `39:35`, `42:40`",
+      "أَجْر (`Hizmet sunanın talep ettiği ücret`) vs مَغْرَم (`Borçluyu ezen ağır yük ve zarar`) — `52:40`, `68:46`",
+      "أَجْر (`İlâhî hak ediş`) vs مَال (`Dünyalık birikim ve servet`) — `11:29`, `47:36`",
+      "مَتَٰعُ ٱلْغُرُورِ (`Aldatıcı geçici yararlanma`) vs أُجُورَكُمْ (`Tam ödenen kalıcı hak edişleriniz`) — `3:185`"
+    ],
+    "mechanical_difference": "1) `4:173` ve `35:30`da `فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ` aynı cümlede iki kavramı ayırır: `أُجُور` emeğin denk hakkıdır, `فَضْل` o hakkın üstüne eklenen artı lütuftur. 2) `42:40`ta kötülüğün karşılığı `جَزَآؤُا۟ سَيِّئَةٍ`, affedip düzeltme emeğinin karşılığı ise `فَأَجْرُهُۥ عَلَى ٱللَّهِ` olarak ayrılarak `جَزَاء`ın çift yönlü, `أَجْر`ın ise yalnızca yapıcı emeğe özgü olduğu gösterilir. 3) `52:40` ve `68:46`da `أَجْر` ile `مَغْرَم` yan yana gelerek maddî çıkar talebi ile ezici borç arasındaki bağı kurar."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "28:25-27 & 18:77 & 65:6",
+      "role": "Somut Emek Ücreti ve Sözleşme Çapası (`تَأْجُرَنِى` / `ٱسْتَـْٔجِرْهُ` / `أَجْرَ مَا سَقَيْتَ`)",
+      "literal_meaning": "'Sana sulama emeğinin ücretini (`أَجْرَ`) ödemek için çağırıyor (`28:25`)', 'onu ücretle tut (`ٱسْتَـْٔجِرْهُ`), çünkü ücretle tuttuklarının en iyisi güçlü ve güvenilirdir (`28:26`)', 'sekiz yıl bana emekle hizmet etmen (`تَأْجُرَنِى`) şartıyla (`28:27`)' ve 'emzirme ücretlerini ödeyin (`65:6`).'"
+    },
+    {
+      "ref": "4:24,25 & 5:5 & 33:50 & 60:10",
+      "role": "Evlilik Akdinde Kadın Hakkı Çapası (`فَـَٔاتُوهُنَّ أُجُورَهُنَّ`)",
+      "literal_meaning": "'Onlarla nikâh bağıyla yararlandığınıza karşılık üzerinize düşen hak bedellerini (`أُجُورَهُنَّ`) verin' — evlilik sözleşmesinin onarıcı maddî güvencesini geleneksel fıkıh dışından doğrudan emek/akit hukukuna bağlar."
+    },
+    {
+      "ref": "10:72 & 11:29,51 & 26:109,127,145,164,180 & 34:47 & 52:40",
+      "role": "Elçilerin Ücret Reddi Çapası (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`)",
+      "literal_meaning": "'Sizden bunun için hiçbir ücret (`أَجْرًا / مِّنْ أَجْرٍ`) istemiyorum; benim hak edişim yalnızca âlemlerin Rabbine aittir' — elçiliğin ticarî çıkar aracı olmayışını `17` ayette mühürler."
+    },
+    {
+      "ref": "4:173 & 35:30 & 3:185 & 39:10",
+      "role": "Tam Ödeme ve Artı Lütuf Çapası (`يُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ`)",
+      "literal_meaning": "'Hak edilmiş karşılıkları eksiksiz ödenir (`تُوَفَّوْنَ أُجُورَكُمْ` `3:185`; sebat edenlere `بِغَيْرِ حِسَابٍ` `39:10`) ve kendi lütfundan üstüne fazlasını ekler (`4:173`, `35:30`).'"
+    },
+    {
+      "ref": "3:171 & 9:120 & 11:115 & 12:90 & 18:30",
+      "role": "Emeğin Zayi Edilmezliği Çapası (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ`)",
+      "literal_meaning": "'Susuzluk, yorgunluk, açlık, sebat ve iyilik çabasının karşılığı (`أَجْرَ`) Allah katında asla kaybolup zayi edilmez.'"
+    },
+    {
+      "ref": "41:8 & 68:3 & 84:25 & 95:6",
+      "role": "Kesintisiz Hak Ediş Çapası (`أَجْرٌ غَيْرُ مَمْنُونٍ`)",
+      "literal_meaning": "'Güvene erip yararlı işler işleyenlere kesintiye uğratılmayan, başa kakılmayan sürekli bir karşılık (`أَجْرٌ غَيْرُ مَمْنُونٍ`) vardır.'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök `108` geçişin `105`inde tek isim lemması (`أَجْر` tekil `93 N` + kırık çoğul `أُجُور` `12 N`), yalnızca `3`ünde ise (`28:26-27` Mûsâ-Şuayb kıssası) fiil olarak geçer: I. bab `تَأْجُرَنِى` (`1 V`: `28:27`) ve X. bab `ٱسْتَـْٔجِرْهُ / ٱسْتَـْٔجَرْتَ` (`2 V`: `28:26`). 2) Çoğul `أُجُور` yalnızca `12` yerde geçer ve her zaman çoğul mansûb muzâf kalıbıyla gelir (`أُجُورَكُمْ` `2`, `أُجُورَهُمْ` `4`, `أُجُورَهُنَّ` `6` — `5`i evlilik sözleşmesi bedeli, `1`i emzirme ücreti `65:6`, `6`sı ise ahiret emeği karşılıklarıdır). 3) `9` ayette çift geçer (`10:72`, `11:51`, `26:109,127,145,164,180`, `28:26`, `34:47`) — Şuarâ suresindeki `5` elçinin beşer kez tekrarladığı 'sizden ücret istemem, ecrim Allah'a aittir' nakaratı dahil. 4) `17` ayrı Rasm-ı Osmânî yazımı vardır ve `28:26`daki `ٱسْتَـْٔجِرْهُ / ٱسْتَـْٔجَرْتَ` kelimelerinde tatwîl üzeri hemze yazımı (`ٱستـجره / ٱستـجرت`) dikkat çeker.",
+  "derivatives": {
+    "أَجْر (`93` tekil `N`)": "Elçilerin reddettiği dünyevî tebliğ ücreti (`17` ayet), emek/fedakârlığın Allah katındaki karşılığı (`عِندَ رَبِّهِمْ / عَلَى ٱللَّهِ`), kesintisiz hak ediş (`غَيْرُ مَمْنُونٍ`) ve zayi olmayan ecir (`لَا يُضِيعُ`)",
+    "أُجُور (`12` kırık çoğul `MP|ACC`)": "Evlilik sözleşmesi güvence bedelleri (`4:24,25`, `5:5`, `33:50`, `60:10`), emzirme ücreti (`65:6`) ve çoklu eylemlerin eksiksiz ödenen karşılıkları (`3:57,185`, `4:152,173`, `35:30`, `47:36`)",
+    "تَأْجُرَنِى (`1 V` I. bab `28:27`) & ٱسْتَـْٔجِرْهُ / ٱسْتَـْٔجَرْتَ (`2 V` X. bab `28:26`)": "Bedel karşılığı çalışmak (I. bab) ve bedel ödeyerek güvenilir emekçi istihdam etmek (X. bab)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 62,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:62",
+      "word_position": 16,
+      "target_word_uthmani": "أَجْرُهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz, güvene erenler, Yahudi olanlar, Hıristiyanlar ve Sabiilerden Allah'a ve ahiret gününe güvene erip yararlı iş yapanların ecirleri Rablerinin katındadır. Onlar için artık korku yoktur. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz, güvene erenler, Yahudi olanlar, Hıristiyanlar ve Sabiilerden Allah'a ve ahiret gününe güvene erip yararlı iş yapanların ecirleri Rablerinin katındadır. Onlar için artık korku yoktur. Onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 112,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:112",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرُهُۥ",
+      "target_word_rasm": "أجره",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَهُوَ مُحْسِنٌ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Hayır, öyle değil; iyilik yaparak kendini Allah'a veren kimsenin ecri Rabbi'nin katındadır. Onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, öyle değil; iyilik yaparak kendini Allah'a veren kimsenin ecri Rabbi'nin katındadır. Onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 262,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:262",
+      "word_position": 16,
+      "target_word_uthmani": "أَجْرُهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَلَآ أَذًى لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Mallarını Allah yolunda dolaşıma sokup paylaşarak sonra dolaşıma sokup paylaştıkları şeyin ardından başa kakmayan ve eza etmeyenlerin ecirleri Rablerinin katındadır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّا وَلَآ أَذًى لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını Allah yolunda dolaşıma sokup paylaşarak sonra dolaşıma sokup paylaştıkları şeyin ardından başa kakmayan ve eza etmeyenlerin ecirleri Rablerinin katındadır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 274,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:274",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرُهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 277,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:277",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرُهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı işler işleyenlerin, irtibat bağını ayakta tutup, arınma ve gelişme payı verenlerin Rab'leri katında ecirleri vardır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı işler işleyenlerin, irtibat bağını ayakta tutup, arınma ve gelişme payı verenlerin Rab'leri katında ecirleri vardır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 57,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:57",
+      "word_position": 7,
+      "target_word_uthmani": "أُجُورَهُمْ",
+      "target_word_rasm": "أجورهم",
+      "target_word_literal_irab": "Hak edilmiş emek karşılıklarını (`أُجُورَهُمْ / أُجُورَكُمْ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَٱللَّهُ لَا يُحِبُّ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı iş işleyenlerin ecirleri ise tastamam verilecektir. Allah zalimleri sevmez.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı iş işleyenlerin ecirleri ise tastamam verilecektir. Allah zalimleri sevmez.",
+      "contextual_meaning": "Tam ödeme ve artı lütuf (`يُوَفِّيهِمْ أُجُورَهُمْ` `3:57,185`, `4:173`, `35:30`, `39:10`): Emeğin denk bedelinin eksiksiz verilip ayrıca Allah'ın lütfuyla (`فَضْل`) artırılması."
+    },
+    {
+      "surah": 3,
+      "ayah": 136,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:136",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرُ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا وَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onların hareketlerinin karşılığı Rablerinden bağışlanma ve altlarından ırmaklar akan, içinde temelli kalacakları esenlik bahçeleridir. İyi davrananların ne güze...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların hareketlerinin karşılığı Rablerinden bağışlanma ve altlarından ırmaklar akan, içinde temelli kalacakları esenlik bahçeleridir. İyi davrananların ne güzel ecri vardır!",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 171,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:171",
+      "word_position": 10,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar Allah'tan olan bir nimeti, bolluğu ve Allah'ın, güvene erenlerin ecrini zayi etmeyeceğini müjdelemek isterler.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Allah'tan olan bir nimeti, bolluğu ve Allah'ın, güvene erenlerin ecrini zayi etmeyeceğini müjdelemek isterler.",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 3,
+      "ayah": 172,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:172",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Kendileri savaşta yara aldıktan sonra Allah ve elçinin çağrısına koşanlara, hele onlardan iyilik edip sakınanlara büyük ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendileri savaşta yara aldıktan sonra Allah ve elçinin çağrısına koşanlara, hele onlardan iyilik edip sakınanlara büyük ecir vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 179,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:179",
+      "word_position": 35,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Artık Allah'a ve elçilerine güvene erin; güven duy ve sakınırsanız size büyük ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah güvene erenleri sizin durumunuzda bırakacak değildir, temizi pisten ayıracaktır. Allah size gaybı bildirecek değildir; fakat Allah elçilerinden dilediğini seçip, ona gaybı bildirir. Artık Allah'a ve elçilerine güvene erin; güven duy ve sakınırsanız size büyük ecir vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 185,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:185",
+      "word_position": 7,
+      "target_word_uthmani": "أُجُورَكُمْ",
+      "target_word_rasm": "أجوركم",
+      "target_word_literal_irab": "Hak edilmiş emek karşılıklarını (`أُجُورَهُمْ / أُجُورَكُمْ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "ٱلْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ فَمَن",
+      "context_snippet_turkish_tabula_rasa": "Her insan ölümü tadacaktır. Kıyamet günü, ecirleriniz size mutlaka ödenecektir. Ateşten uzaklaştırılıp esenlik bahçesine sokulan kimse artık kurtulmuştur. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Her insan ölümü tadacaktır. Kıyamet günü, ecirleriniz size mutlaka ödenecektir. Ateşten uzaklaştırılıp esenlik bahçesine sokulan kimse artık kurtulmuştur. Dünya hayatı, zaten, sadece aldatıcı bir geçinmeden ibarettir.",
+      "contextual_meaning": "Tam ödeme ve artı lütuf (`يُوَفِّيهِمْ أُجُورَهُمْ` `3:57,185`, `4:173`, `35:30`, `39:10`): Emeğin denk bedelinin eksiksiz verilip ayrıca Allah'ın lütfuyla (`فَضْل`) artırılması."
+    },
+    {
+      "surah": 3,
+      "ayah": 199,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:199",
+      "word_position": 24,
+      "target_word_uthmani": "أَجْرُهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinden Allah'a huşu duyarak güvene erip, Allah'ın ayetlerini az bir değere değişmeyenler vardır. İşte onların ecirleri Rablerinin katındadır. Şüphesiz Allah'ın hesabı çabuktur.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinden Allah'a huşu duyarak güvene erip, Allah'ın ayetlerini az bir değere değişmeyenler vardır. İşte onların ecirleri Rablerinin katındadır. Şüphesiz Allah'ın hesabı çabuktur.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 24,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:24",
+      "word_position": 27,
+      "target_word_uthmani": "أُجُورَهُنَّ",
+      "target_word_rasm": "أجورهن",
+      "target_word_literal_irab": "Evlilik akdinden doğan hak bedellerini (`أُجُورَهُنَّ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلَا جُنَاحَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan faydalandığınıza mukabil, kararlaştırılmış olan mehirlerini verin; kararlaştırılandan başka, karşılıklı hoşnud olduğunuz hususda size bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evli kadınlarla evlenmeniz de haram kılındı. Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. Bunlardan başkasını, zinadan kaçınıp, iffetli olarak, mallarınızla istemeniz size helal kılındı. Onlardan faydalandığınıza mukabil, kararlaştırılmış olan mehirlerini verin; kararlaştırılandan başka, karşılıklı hoşnud olduğunuz hususda size bir sorumluluk yoktur. Allah Bilen'dir, Hakim'dir.",
+      "contextual_meaning": "Evlilik hukuku bedeli (`أُجُورَهُنَّ` `4:24,25`, `5:5`, `33:50`, `60:10`): Nikâh akdiyle kadınlara ödenmesi farz kılınan maddî hak ve güvence bedeli."
+    },
+    {
+      "surah": 4,
+      "ayah": 25,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:25",
+      "word_position": 27,
+      "target_word_uthmani": "أُجُورَهُنَّ",
+      "target_word_rasm": "أجورهن",
+      "target_word_literal_irab": "Evlilik akdinden doğan hak bedellerini (`أُجُورَهُنَّ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlarla, zinadan kaçınmaları, iffetli olmaları ve gizli dost tutmamış olmaları halinde, velilerinin izniyle evlenin ve örfe uygun bir şekilde mehirlerini verin. Evlendiklerinde zina edecek olurlarsa, onlara, hür kadınlara edilen azabın yarısı edilir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم بَعْضُكُم مِّنۢ بَعْضٍ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden, hür güvene eren kadınlarla evlenmeye güç yetiremiyen kimse, ellerinizdeki güvene eren cariyelerinizden alsın. Allah sizin güven bağı çok iyi bilir. Birbirinizdensiniz, aynı soydansınız. Onlarla, zinadan kaçınmaları, iffetli olmaları ve gizli dost tutmamış olmaları halinde, velilerinin izniyle evlenin ve örfe uygun bir şekilde mehirlerini verin. Evlendiklerinde zina edecek olurlarsa, onlara, hür kadınlara edilen azabın yarısı edilir. Cariye ile evlenmedeki bu izin içinizden, sapma ve kusura girme korkusu olanlaradır. sebat edip direnmeniz sizin için daha hayırlıdır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Evlilik hukuku bedeli (`أُجُورَهُنَّ` `4:24,25`, `5:5`, `33:50`, `60:10`): Nikâh akdiyle kadınlara ödenmesi farz kılınan maddî hak ve güvence bedeli."
+    },
+    {
+      "surah": 4,
+      "ayah": 40,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:40",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz zerre kadar haksızlık yapmaz, zerre kadar iyilik olsa onu kat kat arttırır ve yapana büyük ecir verir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz zerre kadar haksızlık yapmaz, zerre kadar iyilik olsa onu kat kat arttırır ve yapana büyük ecir verir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 67,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:67",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "لَّءَاتَيْنَٰهُم مِّن لَّدُنَّآ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "O zaman onlara kendi katımızdan büyük bir ecir verir ve onları doğru yola eriştirirdik.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذًا لَّءَاتَيْنَٰهُم مِّن لَّدُنَّآ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "O zaman onlara kendi katımızdan büyük bir ecir verir ve onları doğru yola eriştirirdik.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 74,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:74",
+      "word_position": 20,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah yolunda savaşır, öldürülür veya galib gelirse, Biz ona büyük bir ecir vereceğiz.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلْيُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْءَاخِرَةِ وَمَن يُقَٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "O halde, dünya hayatı yerine ahireti alanlar, Allah yolunda savaşsınlar. Kim Allah yolunda savaşır, öldürülür veya galib gelirse, Biz ona büyük bir ecir vereceğiz.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 32,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 100,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:100",
+      "word_position": 25,
+      "target_word_uthmani": "أَجْرُهُۥ",
+      "target_word_rasm": "أجره",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda hicret eden kişi, yeryüzünde çok bereketli yer ve genişlik bulur. Evinden, Allah'a ve elçisine hicret ederek çıkan kimseye ölüm gelirse, onun ecri...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda hicret eden kişi, yeryüzünde çok bereketli yer ve genişlik bulur. Evinden, Allah'a ve elçisine hicret ederek çıkan kimseye ölüm gelirse, onun ecrini vermek Allah'a düşer. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 114,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:114",
+      "word_position": 25,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 146,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:146",
+      "word_position": 17,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar güven duy beraberdirler. Allah güvene erenlere büyük ecir verecektir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak tevbe edenler, kendi benliklerini ıslah edenler, Allah'ın Kitap'ına sarılanlar ve yaşam sistemlerine Allah için candan bağlananlar müstesnadır. Onlar güven duy beraberdirler. Allah güvene erenlere büyük ecir verecektir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 152,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:152",
+      "word_position": 13,
+      "target_word_uthmani": "أُجُورَهُمْ",
+      "target_word_rasm": "أجورهم",
+      "target_word_literal_irab": "Hak edilmiş emek karşılıklarını (`أُجُورَهُمْ / أُجُورَكُمْ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ وَكَانَ ٱللَّهُ غَفُورًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçilerine güvene erip, onlardan hiçbirini ayırmayanlara, işte onlara Allah ecirlerini verecektir. O, bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَمْ يُفَرِّقُوا۟ بَيْنَ أَحَدٍ مِّنْهُمْ أُو۟لَٰٓئِكَ سَوْفَ يُؤْتِيهِمْ أُجُورَهُمْ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçilerine güvene erip, onlardan hiçbirini ayırmayanlara, işte onlara Allah ecirlerini verecektir. O, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 162,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:162",
+      "word_position": 25,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلْءَاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Fakat onlardan ilimde derinleşmiş olanlara, sana indirilen Kitap'a ve senden önce indirilen Kitap'a güvene eren güvene erenlere, yöneliş ve sorumluluk bağı kılanlara, arınma ve gelişme payı verenlere, Allah'a ve ahiret gününe güvene erenlere, elbette büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat onlardan ilimde derinleşmiş olanlara, sana indirilen Kitap'a ve senden önce indirilen Kitap'a güvene eren güvene erenlere, yöneliş ve sorumluluk bağı kılanlara, arınma ve gelişme payı verenlere, Allah'a ve ahiret gününe güvene erenlere, elbette büyük ecir vereceğiz.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 173,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:173",
+      "word_position": 7,
+      "target_word_uthmani": "أُجُورَهُمْ",
+      "target_word_rasm": "أجورهم",
+      "target_word_literal_irab": "Hak edilmiş emek karşılıklarını (`أُجُورَهُمْ / أُجُورَكُمْ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere ve yararlı iş işleyenlere, ecirlerini ödeyecek, onlara olan bol nimetini daha da artıracaktır. Kulluk etmekten çekinenleri ve büyüklük taslayanları elem verici bir azaba uğratacaktır. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere ve yararlı iş işleyenlere, ecirlerini ödeyecek, onlara olan bol nimetini daha da artıracaktır. Kulluk etmekten çekinenleri ve büyüklük taslayanları elem verici bir azaba uğratacaktır. Onlar kendilerine Allah'tan başka bir dost ve yardımcı bulamazlar.",
+      "contextual_meaning": "Tam ödeme ve artı lütuf (`يُوَفِّيهِمْ أُجُورَهُمْ` `3:57,185`, `4:173`, `35:30`, `39:10`): Emeğin denk bedelinin eksiksiz verilip ayrıca Allah'ın lütfuyla (`فَضْل`) artırılması."
+    },
+    {
+      "surah": 5,
+      "ayah": 5,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:5",
+      "word_position": 26,
+      "target_word_uthmani": "أُجُورَهُنَّ",
+      "target_word_rasm": "أجورهن",
+      "target_word_literal_irab": "Evlilik akdinden doğan hak bedellerini (`أُجُورَهُنَّ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "... güvene eren hür ve iffetli kadınlar ve sizden önce kitap verilenlerin hür ve iffetli kadınları -zina etmeksizin, gizli dost tutmaksızın ve mehirlerini verdiğiniz takdirde- size helaldir. Kim güven bağı gerçeğin üzerini örterse, şüphesiz amelleri boşa gider. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bugün, size temiz olanlar helal kılındı. Kitap verilenlerin yemeği size helal, sizin yemeğiniz de onlara helaldir. güvene eren hür ve iffetli kadınlar ve sizden önce kitap verilenlerin hür ve iffetli kadınları -zina etmeksizin, gizli dost tutmaksızın ve mehirlerini verdiğiniz takdirde- size helaldir. Kim güven bağı gerçeğin üzerini örterse, şüphesiz amelleri boşa gider. O, ahirette de kaybedenlerdendir.",
+      "contextual_meaning": "Evlilik hukuku bedeli (`أُجُورَهُنَّ` `4:24,25`, `5:5`, `33:50`, `60:10`): Nikâh akdiyle kadınlara ödenmesi farz kılınan maddî hak ve güvence bedeli."
+    },
+    {
+      "surah": 5,
+      "ayah": 9,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:9",
+      "word_position": 9,
+      "target_word_uthmani": "وَأَجْرٌ",
+      "target_word_rasm": "وأجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah, güvene erenlere ve yararlı işler işleyenlere mağfiret ve büyük ecir olduğunu vadetmiştir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erenlere ve yararlı işler işleyenlere mağfiret ve büyük ecir olduğunu vadetmiştir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 90,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:90",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ هُوَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "İşte bunlar Allah'ın doğru yola eriştirdikleridir, onların yoluna uy, \"Sizden buna karşılık bir ücret istemem, bu sadece herkes için bir hatırlatmadır\" de.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ فَبِهُدَىٰهُمُ ٱقْتَدِهْ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar Allah'ın doğru yola eriştirdikleridir, onların yoluna uy, \"Sizden buna karşılık bir ücret istemem, bu sadece herkes için bir hatırlatmadır\" de.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 7,
+      "ayah": 113,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:113",
+      "word_position": 7,
+      "target_word_uthmani": "لَأَجْرًا",
+      "target_word_rasm": "لأجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ",
+      "context_snippet_turkish_tabula_rasa": "Sihirbazlar Firavun'a geldi, \"Yenecek olursak bize şüphesiz bir mükafat var değil mi?\" dediler.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sihirbazlar Firavun'a geldi, \"Yenecek olursak bize şüphesiz bir mükafat var değil mi?\" dediler.",
+      "contextual_meaning": "Çıkar beklentisi (`إِنَّ لَنَا لَأَجْرًا` `7:113`, `26:41`): Firavun'un sihirbazlarının galibiyet karşılığında peşin ücret talep etmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 170,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:170",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan, Allah'a karşı ancak gerçeği söyleyeceklerine dair Kitap üzerine söz alınmamış mıydı? Kitap'da olanları okumamışlar mıydı? Allah'a karşı gelmekten sakınanlar için, ahiret yurdu vardır, düşünmüyor musunuz? Biz, iyiliğe çalışanların ecrini elbette zayi etmeyiz.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ardlarından yerlerine gelen bir takım kötüler, Kitap'a mirasçı oldular. \"Biz nasıl olsa affedileceğiz\" diyerek Kitap'ın hükümlerini değiştirme karşılığı bu değersiz dünyanın mallarını alırlar; yine ona benzer geçici bir şey kendilerine gelince onu da kabul ederlerdi. Onlardan, Allah'a karşı ancak gerçeği söyleyeceklerine dair Kitap üzerine söz alınmamış mıydı? Kitap'da olanları okumamışlar mıydı? Allah'a karşı gelmekten sakınanlar için, ahiret yurdu vardır, düşünmüyor musunuz? Biz, iyiliğe çalışanların ecrini elbette zayi etmeyiz.",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 8,
+      "ayah": 28,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:28",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Mallarınızın ve çocuklarınızın, aslında bir sınama olduğunu ve büyük ecrin Allah katında bulunduğunu bilin.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarınızın ve çocuklarınızın, aslında bir sınama olduğunu ve büyük ecrin Allah katında bulunduğunu bilin.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 22,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:22",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Rableri onlara katından bir rahmet, hoşnutluk ve içinde tükenmez nimetler bulunan esenlik bahçeleri müjdeler. Doğrusu büyük ecir Allah katındadır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَآ أَبَدًا إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Rableri onlara katından bir rahmet, hoşnutluk ve içinde tükenmez nimetler bulunan esenlik bahçeleri müjdeler. Doğrusu büyük ecir Allah katındadır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 120,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:120",
+      "word_position": 51,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Medinelilere ve çevrelerinde bulunan Bedevilere, savaşta Allah'ın elçisinden geri kalmak, kendilerini ona tercih etmek yaraşmaz. Çünkü Allah yolunda susuzluğa, ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ وَلَا مَخْمَصَةٌ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌ صَٰلِحٌ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Medinelilere ve çevrelerinde bulunan Bedevilere, savaşta Allah'ın elçisinden geri kalmak, kendilerini ona tercih etmek yaraşmaz. Çünkü Allah yolunda susuzluğa, yorgunluğa, açlığa uğramak, gerçeğin üzerini örtenleri kızdıracak bir yeri işgal etmek ve düşmana başarı kazanmak karşılığında, onların yararlı bir iş yaptıkları mutlaka yazılır. Doğrusu Allah iyilik yapanların ecrini zayi etmez.",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 10,
+      "ayah": 72,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:72",
+      "word_position": 6,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer yüz çevirirseniz bilin ki, ben sizden bir ücret istemiyorum. Benim ecrim Allah'a aiddir. Müslimlerden olmakla emrolundum.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer yüz çevirirseniz bilin ki, ben sizden bir ücret istemiyorum. Benim ecrim Allah'a aiddir. Müslimlerden olmakla emrolundum.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 10,
+      "ayah": 72,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:72",
+      "word_position": 8,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer yüz çevirirseniz bilin ki, ben sizden bir ücret istemiyorum. Benim ecrim Allah'a aiddir. Müslimlerden olmakla emrolundum.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer yüz çevirirseniz bilin ki, ben sizden bir ücret istemiyorum. Benim ecrim Allah'a aiddir. Müslimlerden olmakla emrolundum.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 11,
+      "ayah": 11,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:11",
+      "word_position": 9,
+      "target_word_uthmani": "وَأَجْرٌ",
+      "target_word_rasm": "وأجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Bunların dışında, sebat edip direnerek iyi işler işleyen kimseler, işte onlara mağfiret ve büyük ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunların dışında, sebat edip direnerek iyi işler işleyen kimseler, işte onlara mağfiret ve büyük ecir vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 29,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:29",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "عَلَيْهِ مَالًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Buna karşılık ben sizden bir mal da istemiyorum. Benim ücretim Allah'a aittir; ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Buna karşılık ben sizden bir mal da istemiyorum. Benim ücretim Allah'a aittir; güvene erenleri da kovacak değilim; çünkü onlar Rableriyle karşılaşacaklar; fakat ben sizi cahil bir millet olarak görüyorum.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 11,
+      "ayah": 51,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:51",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Buna karşılık sizden bir ücret istemiyorum. Benim ücretim ancak beni yaratana aittir. Akletmez misiniz?\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Buna karşılık sizden bir ücret istemiyorum. Benim ücretim ancak beni yaratana aittir. Akletmez misiniz?\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 11,
+      "ayah": 51,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:51",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "عَلَيْهِ أَجْرًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Buna karşılık sizden bir ücret istemiyorum. Benim ücretim ancak beni yaratana aittir. Akletmez misiniz?\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Buna karşılık sizden bir ücret istemiyorum. Benim ücretim ancak beni yaratana aittir. Akletmez misiniz?\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 11,
+      "ayah": 115,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:115",
+      "word_position": 6,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "sebat edip diren, Allah iyi davrananların ecrini elbette zayi etmez.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip diren, Allah iyi davrananların ecrini elbette zayi etmez.",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 12,
+      "ayah": 56,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:56",
+      "word_position": 16,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf'u böylece o memlekete yerleştirdik; istediği yerlerde oturabilirdi. Rahmetimizi tıpkı bu misalde olduğu gibi istediğimize veririz; iyi davrananların ecrin...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf'u böylece o memlekete yerleştirdik; istediği yerlerde oturabilirdi. Rahmetimizi tıpkı bu misalde olduğu gibi istediğimize veririz; iyi davrananların ecrini zayi etmeyiz.",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 12,
+      "ayah": 57,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:57",
+      "word_position": 1,
+      "target_word_uthmani": "وَلَأَجْرُ",
+      "target_word_rasm": "ولأجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "وَلَأَجْرُ ٱلْءَاخِرَةِ خَيْرٌ لِّلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ama ahiret ecri, güvene erenler ve Allah'a karşı gelmekten sakınanlar için daha iyidir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَأَجْرُ ٱلْءَاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama ahiret ecri, güvene erenler ve Allah'a karşı gelmekten sakınanlar için daha iyidir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 90,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:90",
+      "word_position": 22,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Yoksa sen Yusuf musun?\" dediler. \"Ben Yusuf'um, bu da kardeşim. Allah bize iyilikte bulundu; doğrusu kim kötülükten sakınır ve sebat edip direnirse bilsin ki A...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yoksa sen Yusuf musun?\" dediler. \"Ben Yusuf'um, bu da kardeşim. Allah bize iyilikte bulundu; doğrusu kim kötülükten sakınır ve sebat edip direnirse bilsin ki Allah iyi davrananların ecrini katiyen zayi etmez\" dedi..",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 12,
+      "ayah": 104,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:104",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Oysa sen buna karşılık onlardan bir ücret de istemiyorsun. Kuran, alemler için sadece bir öğüttür.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa sen buna karşılık onlardan bir ücret de istemiyorsun. Kuran, alemler için sadece bir öğüttür.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 16,
+      "ayah": 41,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:41",
+      "word_position": 13,
+      "target_word_uthmani": "وَلَأَجْرُ",
+      "target_word_rasm": "ولأجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "فِى ٱلدُّنْيَا حَسَنَةً وَلَأَجْرُ ٱلْءَاخِرَةِ أَكْبَرُ لَوْ",
+      "context_snippet_turkish_tabula_rasa": "Haksızlığa uğratıldıktan sonra, Allah yolunda hicret eden kimseleri, and olsun ki, dünyada güzel bir yerde yerleştiririz. Ahiret ecri ise daha büyüktür, keşki b...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هَاجَرُوا۟ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ظُلِمُوا۟ لَنُبَوِّئَنَّهُمْ فِى ٱلدُّنْيَا حَسَنَةً وَلَأَجْرُ ٱلْءَاخِرَةِ أَكْبَرُ لَوْ كَانُوا۟ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Haksızlığa uğratıldıktan sonra, Allah yolunda hicret eden kimseleri, and olsun ki, dünyada güzel bir yerde yerleştiririz. Ahiret ecri ise daha büyüktür, keşki bilseler!",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 96,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:96",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرَهُم",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Sizde olanlar tükenir ama, Allah katında olanlar sonsuzdur, tükenmez. sebat edip direnenlere ecirlerini, yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَا عِندَكُمْ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٍ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizde olanlar tükenir ama, Allah katında olanlar sonsuzdur, tükenmez. sebat edip direnenlere ecirlerini, yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 97,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:97",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرَهُم",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "حَيَوٰةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Kadın, erkek, güvene ermiş olarak kim iyi iş işlerse, ona hoş bir hayat yaşatacağız. Ecirlerini yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "مَنْ عَمِلَ صَٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadın, erkek, güvene ermiş olarak kim iyi iş işlerse, ona hoş bir hayat yaşatacağız. Ecirlerini yaptıklarından daha güzeli ile ödeyeceğiz.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 9,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:9",
+      "word_position": 15,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bu Kuran en doğru yola götürür ve yararlı iş yapan güvene erenlere büyük ecir olduğunu, ahirete güven duy can yakıcı bir azap hazırladığımızı müjdeler.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bu Kuran en doğru yola götürür ve yararlı iş yapan güvene erenlere büyük ecir olduğunu, ahirete güven duy can yakıcı bir azap hazırladığımızı müjdeler.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 2,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:2",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+      "context_snippet_turkish_tabula_rasa": "Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan güvene erenlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: \"Allah çocuk edindi\" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan güvene erenlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: \"Allah çocuk edindi\" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 30,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:30",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+      "context_snippet_turkish_tabula_rasa": "... Orada altın bilezikler takınırlar, ince ve kalın ipekliden yeşil elbiseler giyerek tahtları üzerinde otururlar. Ne güzel bir mükafat ve ne güzel yaslanacak yer!",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "İyi hareket edenin ecrini zayi etmeyiz. Doğrusu, güvene erip yararlı iş yapanlara, işte onlara, içlerinden ırmaklar akan Adn esenlik bahçeleri vardır. Orada altın bilezikler takınırlar, ince ve kalın ipekliden yeşil elbiseler giyerek tahtları üzerinde otururlar. Ne güzel bir mükafat ve ne güzel yaslanacak yer!",
+      "contextual_meaning": "Zayi olmayan hak ediş (`لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ / ٱلْمُؤْمِنِينَ / ٱلْمُصْلِحِينَ`): Emek, sebat ve iyilik çabasının asla boşa çıkarılmaması."
+    },
+    {
+      "surah": 18,
+      "ayah": 77,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:77",
+      "word_position": 24,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا",
+      "context_snippet_turkish_tabula_rasa": "... İkisi, şehrin içinde yıkılmağa yüz tutan bir duvar gördüler, Musa'nın arkadaşı onu doğrultuverdi; Musa: ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yine yola koyuldular; sonunda vardıkları bir kasaba halkından yiyecek istediler. Kasaba halkı, bu ikisini misafir etmek istemedi. İkisi, şehrin içinde yıkılmağa yüz tutan bir duvar gördüler, Musa'nın arkadaşı onu doğrultuverdi; Musa: \"Dileseydin buna karşı bir ücret alabilirdin\" dedi.",
+      "contextual_meaning": "Somut hizmet ücreti (`18:77`, `28:25`, `65:6`): Duvar onarımı, suvarma işçiliği veya boşanma sonrası çocuğunu emzirme emeği karşılığı ödenen ücret (`أَجْرَ / أُجُورَهُنَّ`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 57,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:57",
+      "word_position": 6,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben buna karşı sizden bir ücret değil, ancak, Rabbine doğru bir yol tutmak dileyen kimseler olmanızı istiyorum.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben buna karşı sizden bir ücret değil, ancak, Rabbine doğru bir yol tutmak dileyen kimseler olmanızı istiyorum.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 41,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:41",
+      "word_position": 8,
+      "target_word_uthmani": "لَأَجْرًا",
+      "target_word_rasm": "لأجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ",
+      "context_snippet_turkish_tabula_rasa": "Sihirbazlar geldiklerinde, Firavun'a; \"Biz üstün gelirsek, şüphesiz bize bir ücret vardır değil mi?\" dediler.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sihirbazlar geldiklerinde, Firavun'a; \"Biz üstün gelirsek, şüphesiz bize bir ücret vardır değil mi?\" dediler.",
+      "contextual_meaning": "Çıkar beklentisi (`إِنَّ لَنَا لَأَجْرًا` `7:113`, `26:41`): Firavun'un sihirbazlarının galibiyet karşılığında peşin ücret talep etmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 109,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:109",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 109,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:109",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 127,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:127",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 127,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:127",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 145,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:145",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 145,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:145",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ",
+      "context_snippet_turkish_tabula_rasa": "... artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 164,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:164",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 164,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:164",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ",
+      "context_snippet_turkish_tabula_rasa": "... Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 180,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:180",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 26,
+      "ayah": 180,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:180",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ",
+      "context_snippet_turkish_tabula_rasa": "... Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 28,
+      "ayah": 25,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:25",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرَ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا",
+      "context_snippet_turkish_tabula_rasa": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "contextual_meaning": "Somut hizmet ücreti (`18:77`, `28:25`, `65:6`): Duvar onarımı, suvarma işçiliği veya boşanma sonrası çocuğunu emzirme emeği karşılığı ödenen ücret (`أَجْرَ / أُجُورَهُنَّ`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 26,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:26",
+      "word_position": 4,
+      "target_word_uthmani": "ٱسْتَـْٔجِرْهُ",
+      "target_word_rasm": "ٱستـجره",
+      "target_word_literal_irab": "Onu emek bedeliyle çalıştır (`ٱسْتَـْٔجِرْهُ`, X. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ إِنَّ خَيْرَ مَنِ",
+      "context_snippet_turkish_tabula_rasa": "İki kadından biri: \"Babacığım! Onu ücretli olarak tut; ücretle tuttuklarının en iyisi bu güçlü ve güvenilir adamdır\" dedi.",
+      "morphology": {
+        "lemma": "{sota_#ojaro",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(X)|LEM:{sota_#ojaro|ROOT:Ajr|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "İki kadından biri: \"Babacığım! Onu ücretli olarak tut; ücretle tuttuklarının en iyisi bu güçlü ve güvenilir adamdır\" dedi.",
+      "contextual_meaning": "İş sözleşmesi kökü (`28:26-27`): Şuayb'ın kızının 'onu bedelle istihdam et (`ٱسْتَـْٔجِرْهُ`)' önerisi ve babanın sekiz yıllık emek anlaşması (`عَلَىٰٓ أَن تَأْجُرَنِى`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 26,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:26",
+      "word_position": 8,
+      "target_word_uthmani": "ٱسْتَـْٔجَرْتَ",
+      "target_word_rasm": "ٱستـجرت",
+      "target_word_literal_irab": "Bedel karşılığı çalıştırdığın kimselerin (`ٱسْتَـْٔجَرْتَ`, X. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ",
+      "context_snippet_turkish_tabula_rasa": "İki kadından biri: \"Babacığım! Onu ücretli olarak tut; ücretle tuttuklarının en iyisi bu güçlü ve güvenilir adamdır\" dedi.",
+      "morphology": {
+        "lemma": "{sota_#ojaro",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(X)|LEM:{sota_#ojaro|ROOT:Ajr|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَتْ إِحْدَىٰهُمَا يَٰٓأَبَتِ ٱسْتَـْٔجِرْهُ إِنَّ خَيْرَ مَنِ ٱسْتَـْٔجَرْتَ ٱلْقَوِىُّ ٱلْأَمِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "İki kadından biri: \"Babacığım! Onu ücretli olarak tut; ücretle tuttuklarının en iyisi bu güçlü ve güvenilir adamdır\" dedi.",
+      "contextual_meaning": "İş sözleşmesi kökü (`28:26-27`): Şuayb'ın kızının 'onu bedelle istihdam et (`ٱسْتَـْٔجِرْهُ`)' önerisi ve babanın sekiz yıllık emek anlaşması (`عَلَىٰٓ أَن تَأْجُرَنِى`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 27,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:27",
+      "word_position": 11,
+      "target_word_uthmani": "تَأْجُرَنِى",
+      "target_word_rasm": "تأجرنى",
+      "target_word_literal_irab": "Ücret ve hak karşılığı bana çalışman (`تَأْجُرَنِى`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍ فَإِنْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bana sekiz yıl çalışmana karşılık bu iki kızımdan birini sana nikahlamak istiyorum. Eğer on yıla tamamlarsan o senden bir lütuf olur. ...",
+      "morphology": {
+        "lemma": "ta>ojura",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:ta>ojura|ROOT:Ajr|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınların babası: \"Bana sekiz yıl çalışmana karşılık bu iki kızımdan birini sana nikahlamak istiyorum. Eğer on yıla tamamlarsan o senden bir lütuf olur. Ama sana ağırlık vermek istemem. İnşallah beni iyi kimselerden bulacaksın\" dedi.",
+      "contextual_meaning": "İş sözleşmesi kökü (`28:26-27`): Şuayb'ın kızının 'onu bedelle istihdam et (`ٱسْتَـْٔجِرْهُ`)' önerisi ve babanın sekiz yıllık emek anlaşması (`عَلَىٰٓ أَن تَأْجُرَنِى`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 54,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:54",
+      "word_position": 3,
+      "target_word_uthmani": "أَجْرَهُم",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "İşte onlara, sebat ve dirençlerinden dolayı, ecirleri iki defa verilir; onlar kötülüğü iyilikle savarlar, kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ يُؤْتَوْنَ أَجْرَهُم مَّرَّتَيْنِ بِمَا صَبَرُوا۟ وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlara, sebat ve dirençlerinden dolayı, ecirleri iki defa verilir; onlar kötülüğü iyilikle savarlar, kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 27,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:27",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرَهُۥ",
+      "target_word_rasm": "أجره",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ وَءَاتَيْنَٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا وَإِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim'e İshak'ı ve Yakub'u bahşettik. Soyundan gelenlere Kitap ve elçilik görevi verdik. Onu dünyada mükafatlandırdık; doğrusu o ahirette de iyilerdendir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ وَءَاتَيْنَٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim'e İshak'ı ve Yakub'u bahşettik. Soyundan gelenlere Kitap ve elçilik görevi verdik. Onu dünyada mükafatlandırdık; doğrusu o ahirette de iyilerdendir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 58,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:58",
+      "word_position": 16,
+      "target_word_uthmani": "أَجْرُ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "خَٰلِدِينَ فِيهَا نِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı iş işleyenleri, içlerinden ırmaklar akan, içinde temelli kalacakları esenlik bahçesindeki köşklere yerleştiririz. sebat edip direnerek, Rabl...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَنُبَوِّئَنَّهُم مِّنَ ٱلْجَنَّةِ غُرَفًا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا نِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı iş işleyenleri, içlerinden ırmaklar akan, içinde temelli kalacakları esenlik bahçesindeki köşklere yerleştiririz. sebat edip direnerek, Rablerine güvenerek iş görenlerin ecri ne güzeldir!",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 29,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:29",
+      "word_position": 13,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer Allah'ı, elçisini, ahiret yurdunu istiyorsanız bilin ki, Allah içinizden iyi davrananlara büyük ecir hazırlamıştır.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer Allah'ı, elçisini, ahiret yurdunu istiyorsanız bilin ki, Allah içinizden iyi davrananlara büyük ecir hazırlamıştır.\"",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 31,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:31",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرَهَا",
+      "target_word_rasm": "أجرها",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "وَتَعْمَلْ صَٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا",
+      "context_snippet_turkish_tabula_rasa": "Sizlerden Allah'a ve elçisine boyun eğip yararlı iş işleyenlere ecrini iki kat veririz; ona cömertçe rızık hazırlamışızdır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlerden Allah'a ve elçisine boyun eğip yararlı iş işleyenlere ecrini iki kat veririz; ona cömertçe rızık hazırlamışızdır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 35,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:35",
+      "word_position": 29,
+      "target_word_uthmani": "وَأَجْرًا",
+      "target_word_rasm": "وأجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu erkek ve kadın müslümanlar, erkek ve kadın güvene erenler, boyun eğen erkekler ve kadınlar, doğru sözlü erkekler ve kadınlar, sebatlı ve dirençli erkekler ve kadınlar, gönülden bağlanan erkekler ve kadınlar, sadaka veren erkekler ve kadınlar, öz denetim ve sakınma tutan erkekler ve kadınlar iffetlerini koruyan erkekler ve kadınlar, Allah'ı çok anan erkekler ve kadınlar, işte Allah bunların hepsine mağfiret ve büyük ecir hazırlamıştır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 44,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:44",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "سَلَٰمٌ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+      "context_snippet_turkish_tabula_rasa": "O'na kavuştukları gün güvene erenlere yapılacak dirlik temennileri \"Selam\" demek olacaktır. Onlara cömertçe verilecek ecir hazırlamıştır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَٰمٌ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "O'na kavuştukları gün güvene erenlere yapılacak dirlik temennileri \"Selam\" demek olacaktır. Onlara cömertçe verilecek ecir hazırlamıştır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 50,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:50",
+      "word_position": 9,
+      "target_word_uthmani": "أُجُورَهُنَّ",
+      "target_word_rasm": "أجورهن",
+      "target_word_literal_irab": "Evlilik akdinden doğan hak bedellerini (`أُجُورَهُنَّ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ",
+      "context_snippet_turkish_tabula_rasa": "Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği cariyeleri, seninle beraber hicret eden amcanın kızlarını, halalarının kızlarını, dayının kızlarını, teyzelerinin kızlarını ve elçi nikahlanmayı dilediği takdirde güvene erenlerden ayrı, sırf sana mahsus olmak üzere kendisinin mehrini elçiye hibe eden güvene eren kadını almanı helal kılmışızdır. Bir zorluğa uğramaman için; ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiği cariyeleri, seninle beraber hicret eden amcanın kızlarını, halalarının kızlarını, dayının kızlarını, teyzelerinin kızlarını ve elçi nikahlanmayı dilediği takdirde güvene erenlerden ayrı, sırf sana mahsus olmak üzere kendisinin mehrini elçiye hibe eden güvene eren kadını almanı helal kılmışızdır. Bir zorluğa uğramaman için; güvene erenlerin eşleri ve cariyeleri hakkında onların üzerine neyi farz kılmış olduğumuzu bildirmiştik. Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Evlilik hukuku bedeli (`أُجُورَهُنَّ` `4:24,25`, `5:5`, `33:50`, `60:10`): Nikâh akdiyle kadınlara ödenmesi farz kılınan maddî hak ve güvence bedeli."
+    },
+    {
+      "surah": 34,
+      "ayah": 47,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:47",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 34,
+      "ayah": 47,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:47",
+      "word_position": 9,
+      "target_word_uthmani": "أَجْرِىَ",
+      "target_word_rasm": "أجرى",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 35,
+      "ayah": 7,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:7",
+      "word_position": 12,
+      "target_word_uthmani": "وَأَجْرٌ",
+      "target_word_rasm": "وأجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten kimselere çetin azap vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten kimselere çetin azap vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 35,
+      "ayah": 30,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:30",
+      "word_position": 2,
+      "target_word_uthmani": "أُجُورَهُمْ",
+      "target_word_rasm": "أجورهم",
+      "target_word_literal_irab": "Hak edilmiş emek karşılıklarını (`أُجُورَهُمْ / أُجُورَكُمْ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü Allah bu kimselerin ecirlerini tam verir ve lütfu ile arttırır. Doğrusu O, bağışlayandır, nimeti açığa vurmanın karşılığını bol bol verendir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü Allah bu kimselerin ecirlerini tam verir ve lütfu ile arttırır. Doğrusu O, bağışlayandır, nimeti açığa vurmanın karşılığını bol bol verendir.",
+      "contextual_meaning": "Tam ödeme ve artı lütuf (`يُوَفِّيهِمْ أُجُورَهُمْ` `3:57,185`, `4:173`, `35:30`, `39:10`): Emeğin denk bedelinin eksiksiz verilip ayrıca Allah'ın lütfuyla (`فَضْل`) artırılması."
+    },
+    {
+      "surah": 36,
+      "ayah": 11,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:11",
+      "word_position": 11,
+      "target_word_uthmani": "وَأَجْرٍ",
+      "target_word_rasm": "وأجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "بِٱلْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Sen ancak, Kuran'a uyan ve görmediği halde Rahman'dan korkan kimseyi uyarabilirsin. Artık o kimseyi, bağışlanma ve cömertçe verilecek bir ecirle müjdele.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا تُنذِرُ مَنِ ٱتَّبَعَ ٱلذِّكْرَ وَخَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ فَبَشِّرْهُ بِمَغْفِرَةٍ وَأَجْرٍ كَرِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen ancak, Kuran'a uyan ve görmediği halde Rahman'dan korkan kimseyi uyarabilirsin. Artık o kimseyi, bağışlanma ve cömertçe verilecek bir ecirle müjdele.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 21,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:21",
+      "word_position": 5,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Sizden bir ücret istemeyenlere uyun, onlar doğru yoldadırlar.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sizden bir ücret istemeyenlere uyun, onlar doğru yoldadırlar.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 38,
+      "ayah": 86,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:86",
+      "word_position": 6,
+      "target_word_uthmani": "أَجْرٍ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Herhangi bir ücret veya bedel (`أَجْرٍ / وَأَجْرٍ`, nekre tekil isim mecrûr)",
+      "context_snippet_arabic": "أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Buna karşılık sizden bir ücret istemiyorum. Kendiliğimden bir şey iddia eden kimselerden de değilim.\"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Buna karşılık sizden bir ücret istemiyorum. Kendiliğimden bir şey iddia eden kimselerden de değilim.\"",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 39,
+      "ayah": 10,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:10",
+      "word_position": 19,
+      "target_word_uthmani": "أَجْرَهُم",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın yarattığı yeryüzü geniştir. Yalnız sebat edip direnenlere, ecirleri sonsuz olarak ödenecektir. \"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ لِلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle de: \"Ey güvene eren kullarım! Rabbinize karşı gelmekten sakının; bu dünyada iyilik yapanlara iyilik vardır. Allah'ın yarattığı yeryüzü geniştir. Yalnız sebat edip direnenlere, ecirleri sonsuz olarak ödenecektir.\"",
+      "contextual_meaning": "Tam ödeme ve artı lütuf (`يُوَفِّيهِمْ أُجُورَهُمْ` `3:57,185`, `4:173`, `35:30`, `39:10`): Emeğin denk bedelinin eksiksiz verilip ayrıca Allah'ın lütfuyla (`فَضْل`) artırılması."
+    },
+    {
+      "surah": 39,
+      "ayah": 35,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:35",
+      "word_position": 8,
+      "target_word_uthmani": "أَجْرَهُم",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلَّذِى عَمِلُوا۟ وَيَجْزِيَهُمْ أَجْرَهُم بِأَحْسَنِ ٱلَّذِى كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Zira Allah, onların yaptıkları kötülükleri örter, onlara, işledikleri şeylerin en güzel karşılıklarını verir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "لِيُكَفِّرَ ٱللَّهُ عَنْهُمْ أَسْوَأَ ٱلَّذِى عَمِلُوا۟ وَيَجْزِيَهُمْ أَجْرَهُم بِأَحْسَنِ ٱلَّذِى كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zira Allah, onların yaptıkları kötülükleri örter, onlara, işledikleri şeylerin en güzel karşılıklarını verir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 74,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:74",
+      "word_position": 15,
+      "target_word_uthmani": "أَجْرُ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "حَيْثُ نَشَآءُ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar: \"Bize verdiği sözde duran ve bizi bu yere varis kılan Allah'a hamdolsun. esenlik bahçesinde istediğimiz yerde oturabiliriz. Yararlı iş işleyenlerin ecri ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Bize verdiği sözde duran ve bizi bu yere varis kılan Allah'a hamdolsun. esenlik bahçesinde istediğimiz yerde oturabiliriz. Yararlı iş işleyenlerin ecri ne güzelmiş!\" derler.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 8,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:8",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu güvene erip yararlı iş işleyenlere, onlara kesintisiz bir ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu güvene erip yararlı iş işleyenlere, onlara kesintisiz bir ecir vardır.",
+      "contextual_meaning": "Kesintisiz karşılık (`أَجْرٌ غَيْرُ مَمْنُونٍ` `41:8`, `68:3`, `84:25`, `95:6`): Kesintiye uğratılmayan, başa kakılmayan kalıcı hak ediş."
+    },
+    {
+      "surah": 42,
+      "ayah": 23,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:23",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem. \" Kim güzel bir iş işlerse onun güzelliğini arttırırız. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erip yararlı işler işleyen kullarını bununla müjdeler. De ki: \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem.\" Kim güzel bir iş işlerse onun güzelliğini arttırırız. Doğrusu Allah bağışlayandır, nimeti açığa vurmanın karşılığını verendir.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 42,
+      "ayah": 40,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:40",
+      "word_position": 8,
+      "target_word_uthmani": "فَأَجْرُهُۥ",
+      "target_word_rasm": "فأجره",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Bir kötülüğün karşılığı, aynı şekilde bir kötülüktür. Ama kim affeder ve barışırsa, onun ecri Allah'a aittir. Doğrusu O, zulmedenleri sevmez.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir kötülüğün karşılığı, aynı şekilde bir kötülüktür. Ama kim affeder ve barışırsa, onun ecri Allah'a aittir. Doğrusu O, zulmedenleri sevmez.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 36,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:36",
+      "word_position": 10,
+      "target_word_uthmani": "أُجُورَكُمْ",
+      "target_word_rasm": "أجوركم",
+      "target_word_literal_irab": "Hak edilmiş emek karşılıklarını (`أُجُورَهُمْ / أُجُورَكُمْ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer güven duy ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu dünya hayatı oyun ve oyalanmadır. Eğer güven duy ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 10,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:10",
+      "word_position": 24,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Verdiği bu sözden dönen, ancak kendi aleyhine dönmüş olur. Allah'a verdiği sözü yerine getirene, Allah büyük ecir verecektir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz sana baş eğerek ellerini verenler (biat edenler), Allah'a baş eğip el vermiş sayılırlar. Allah'ın eli onların ellerinin üstündedir. Verdiği bu sözden dönen, ancak kendi aleyhine dönmüş olur. Allah'a verdiği sözü yerine getirene, Allah büyük ecir verecektir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 16,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:16",
+      "word_position": 18,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟",
+      "context_snippet_turkish_tabula_rasa": "... eğer itaat ederseniz Allah size güzel ecir verir, ama daha önce döndüğünüz gibi yine dönecek olursanız sizi can yakan bir azaba uğratır. \"",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bedevilerden geri kalmış olanlara de ki: \"güçlü kuvvetli bir millete karşı, onlar müslüman olana kadar savaşmaya çağrılacaksanız; eğer itaat ederseniz Allah size güzel ecir verir, ama daha önce döndüğünüz gibi yine dönecek olursanız sizi can yakan bir azaba uğratır.\"",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 53,
+      "target_word_uthmani": "وَأَجْرًا",
+      "target_word_rasm": "وأجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "context_snippet_turkish_tabula_rasa": "... Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 3,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:3",
+      "word_position": 16,
+      "target_word_uthmani": "وَأَجْرٌ",
+      "target_word_rasm": "وأجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "لِلتَّقْوَىٰ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Seslerini elçinin yanında kısan kimseler, Allah'ın gönüllerini sorumluluk bilinci ve korunma ile sınadığı kimselerdir. Onlara mağfiret ve büyük ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Seslerini elçinin yanında kısan kimseler, Allah'ın gönüllerini sorumluluk bilinci ve korunma ile sınadığı kimselerdir. Onlara mağfiret ve büyük ecir vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 52,
+      "ayah": 40,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:40",
+      "word_position": 3,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ",
+      "context_snippet_turkish_tabula_rasa": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar?",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar?",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 57,
+      "ayah": 7,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:7",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "... aranızdan, güvene erip da dolaşıma sokup paylaştıran kimselere büyük ecir vardır",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ فَٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Allah'a ve elçisine güvene erin; sizi varis kıldığı şeylerden dolaşıma sokup paylaşın; aranızdan, güvene erip da dolaşıma sokup paylaştıran kimselere büyük ecir vardır",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 11,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:11",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a kim güzel bir ödünç takdiminde bulunursa, Allah karşılığını kat kat verir, ona cömertçe verilecek bir ecir de vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a kim güzel bir ödünç takdiminde bulunursa, Allah karşılığını kat kat verir, ona cömertçe verilecek bir ecir de vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 18,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:18",
+      "word_position": 11,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "يُضَٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, sadaka veren erkek ve kadınlara, Allah'a güzel bir takdimde bulunanlara kat kat karşılık verilir; onlara cömertçe verilecek bir ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُصَّدِّقِينَ وَٱلْمُصَّدِّقَٰتِ وَأَقْرَضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَٰعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, sadaka veren erkek ve kadınlara, Allah'a güzel bir takdimde bulunanlara kat kat karşılık verilir; onlara cömertçe verilecek bir ecir vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 19,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:19",
+      "word_position": 12,
+      "target_word_uthmani": "أَجْرُهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığı / ecrim (`أَجْرُ / أَجْرِىَ / أَجْرُهُمْ / وَلَأَجْرُ`, muzâf tekil isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçilerine güvene erenlere, dosdoğru olanlara ve Allah yolunda şehit düşenlere, işte onlara, Rableri katında nur ve ecir vardır. gerçeğin üzerini örtüp ayetlerimizi yalanlayanlar, işte onlar da, yakıcı yıkım yurdu ehli olanlardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçilerine güvene erenlere, dosdoğru olanlara ve Allah yolunda şehit düşenlere, işte onlara, Rableri katında nur ve ecir vardır. gerçeğin üzerini örtüp ayetlerimizi yalanlayanlar, işte onlar da, yakıcı yıkım yurdu ehli olanlardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 27,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:27",
+      "word_position": 36,
+      "target_word_uthmani": "أَجْرَهُمْ",
+      "target_word_rasm": "أجرهم",
+      "target_word_literal_irab": "Hak edilmiş karşılığını / ecrini (`أَجْرَ / أَجْرَهُم / أَجْرَهُۥ / أَجْرَهَا`, muzâf tekil isim mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... üzerlerine bizim gerekli kılmadığımız fakat kendilerinin güya Allah'ın rızasını kazanmak için ortaya attıkları ruhbaniyete bile gereği gibi riayet etmediler; içlerinde güvene ermiş olan kimselere ecirlerini verdik; ama çoğu yoldan çıkmışlardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ٱبْنِ مَرْيَمَ وَءَاتَيْنَٰهُ ٱلْإِنجِيلَ وَجَعَلْنَا فِى قُلُوبِ ٱلَّذِينَ ٱتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ٱبْتَدَعُوهَا مَا كَتَبْنَٰهَا عَلَيْهِمْ إِلَّا ٱبْتِغَآءَ رِضْوَٰنِ ٱللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا فَـَٔاتَيْنَا ٱلَّذِينَ ءَامَنُوا۟ مِنْهُمْ أَجْرَهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların izleri üzerinden elçi ard arda gönderdik; Meryem oğlu İsa'yı da ardlarından gönderdik ve ona İncil'i verdik; ona uyanların gönüllerine şefkat ve merhamet duyguları koyduk; üzerlerine bizim gerekli kılmadığımız fakat kendilerinin güya Allah'ın rızasını kazanmak için ortaya attıkları ruhbaniyete bile gereği gibi riayet etmediler; içlerinde güvene ermiş olan kimselere ecirlerini verdik; ama çoğu yoldan çıkmışlardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 60,
+      "ayah": 10,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:10",
+      "word_position": 37,
+      "target_word_uthmani": "أُجُورَهُنَّ",
+      "target_word_rasm": "أجورهن",
+      "target_word_literal_irab": "Evlilik akdinden doğan hak bedellerini (`أُجُورَهُنَّ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا۟ بِعِصَمِ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenlerin bu kadınlara verdikleri mehirleri iade edin: Bu kadınların mehirlerini kendilerine verdiğiniz zaman, onlarla evlenmenizde bir engel yoktur. ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَٰتُ مُهَٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ ٱللَّهُ أَعْلَمُ بِإِيمَٰنِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَءَاتُوهُم مَّآ أَنفَقُوا۟ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ذَٰلِكُمْ حُكْمُ ٱللَّهِ يَحْكُمُ بَيْنَكُمْ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! güvene ermiş kadınlar hicret ederek size gelirlerse onları deneyin, hicretlerinin sebebini inceleyin. Allah onların güven bağı çok iyi bilir. Onların güvene eren kadınlar olduklarını öğrenirseniz, gerçeğin üzerini örtenlere geri çevirmeyin. Bu kadınlar, o gerçeğin üzerini örtenlere helal değildir Onlar da bunlara helal olmazlar. gerçeğin üzerini örtenlerin bu kadınlara verdikleri mehirleri iade edin: Bu kadınların mehirlerini kendilerine verdiğiniz zaman, onlarla evlenmenizde bir engel yoktur. gerçeğin üzerini örten kadınları nikahınızda tutmayın; onlara verdiğiniz mehri isteyin; gerçeğin üzerini örten erkekler de hicret eden güvene eren kadınlara verdikleri mehirleri istesinler. Allah'ın hükmü budur; aranızda O hükmeder. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Evlilik hukuku bedeli (`أُجُورَهُنَّ` `4:24,25`, `5:5`, `33:50`, `60:10`): Nikâh akdiyle kadınlara ödenmesi farz kılınan maddî hak ve güvence bedeli."
+    },
+    {
+      "surah": 64,
+      "ayah": 15,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:15",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "فِتْنَةٌ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 65,
+      "ayah": 5,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:5",
+      "word_position": 14,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "context_snippet_turkish_tabula_rasa": "Bu, Allah'ın size indirmiş olduğu buyruğudur. Kim Allah'ın buyruğuna karşı gelmekten sakınırsa, O, onun kötülüklerini örter, ecrini büyültür.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, Allah'ın size indirmiş olduğu buyruğudur. Kim Allah'ın buyruğuna karşı gelmekten sakınırsa, O, onun kötülüklerini örter, ecrini büyültür.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 65,
+      "ayah": 6,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:6",
+      "word_position": 24,
+      "target_word_uthmani": "أُجُورَهُنَّ",
+      "target_word_rasm": "أجورهن",
+      "target_word_literal_irab": "Emzirme emeği ücretlerini (`أُجُورَهُنَّ`, çoğul isim mansûb)",
+      "context_snippet_arabic": "أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer hamile iseler, doğurmalarına kadar nafakalarını verin. Çocuğu sizin için emzirirlerse, onlara ücretlerini ödeyin; aranızda uygun bir şekilde anlaşın; ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ وَإِن كُنَّ أُو۟لَٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Boşadığınız, fakat iddeti dolmamış kadınları gücünüz nispetinde, kendi oturduğunuz yerde oturtun. Onları sıkıntıya sokmak için zarar vermeye kalkışmayın. Eğer hamile iseler, doğurmalarına kadar nafakalarını verin. Çocuğu sizin için emzirirlerse, onlara ücretlerini ödeyin; aranızda uygun bir şekilde anlaşın; eğer güçlükle karşılaşırsanız çocuğu başka bir kadın emzirebilir.",
+      "contextual_meaning": "Somut hizmet ücreti (`18:77`, `28:25`, `65:6`): Duvar onarımı, suvarma işçiliği veya boşanma sonrası çocuğunu emzirme emeği karşılığı ödenen ücret (`أَجْرَ / أُجُورَهُنَّ`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 12,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:12",
+      "word_position": 8,
+      "target_word_uthmani": "وَأَجْرٌ",
+      "target_word_rasm": "وأجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, görünmediği halde Rablerinden korkanlara, onlara, bağışlanma ve büyük ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, görünmediği halde Rablerinden korkanlara, onlara, bağışlanma ve büyük ecir vardır.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 3,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:3",
+      "word_position": 3,
+      "target_word_uthmani": "لَأَجْرًا",
+      "target_word_rasm": "لأجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu sana kesintisiz bir ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu sana kesintisiz bir ecir vardır.",
+      "contextual_meaning": "Kesintisiz karşılık (`أَجْرٌ غَيْرُ مَمْنُونٍ` `41:8`, `68:3`, `84:25`, `95:6`): Kesintiye uğratılmayan, başa kakılmayan kalıcı hak ediş."
+    },
+    {
+      "surah": 68,
+      "ayah": 46,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:46",
+      "word_position": 3,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, sen onlardan ücret istiyorsun da, ağır bir borç altında mı kalıyorlar? Elbette hayır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, sen onlardan ücret istiyorsun da, ağır bir borç altında mı kalıyorlar? Elbette hayır.",
+      "contextual_meaning": "Elçilerin ücret reddi (`لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا` / `إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ`): Hakikat çağrısının hiçbir maddî borç ve bedel karşılığı yapılmaması, emeğin karşılığının yalnızca Allah'a aitliği."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 72,
+      "target_word_uthmani": "أَجْرًا",
+      "target_word_rasm": "أجرا",
+      "target_word_literal_irab": "Büyük / güzel / kesintisiz bir karşılık ve ücret (`أَجْرًا / لَأَجْرًا / وَأَجْرًا`, nekre tekil isim mansûb)",
+      "context_snippet_arabic": "هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; ...",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Güvene ermenin, yararlı işlerin, hicretin, affedip düzeltmenin (`42:40`) veya sebatın (`28:54`, `33:31`) Allah katındaki onarıcı ve hak edilmiş karşılığı (`أَجْر`)."
+    },
+    {
+      "surah": 84,
+      "ayah": 25,
+      "surah_name": "İnşikāk",
+      "ayah_ref": "84:25",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Yalnız, güvene erip yararlı işler işleyenlere, onlara, kesintisiz ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalnız, güvene erip yararlı işler işleyenlere, onlara, kesintisiz ecir vardır.",
+      "contextual_meaning": "Kesintisiz karşılık (`أَجْرٌ غَيْرُ مَمْنُونٍ` `41:8`, `68:3`, `84:25`, `95:6`): Kesintiye uğratılmayan, başa kakılmayan kalıcı hak ediş."
+    },
+    {
+      "surah": 95,
+      "ayah": 6,
+      "surah_name": "Tîn",
+      "ayah_ref": "95:6",
+      "word_position": 7,
+      "target_word_uthmani": "أَجْرٌ",
+      "target_word_rasm": "أجر",
+      "target_word_literal_irab": "Büyük / kesintisiz bir hak ediş (`أَجْرٌ / وَأَجْرٌ`, nekre tekil isim merfû)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "context_snippet_turkish_tabula_rasa": "Yalnız, güvene erip yararlı iş işleyenler bunun dışındadır. Onlara kesintisiz ecir vardır.",
+      "morphology": {
+        "lemma": ">ajor",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ajor|ROOT:Ajr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalnız, güvene erip yararlı iş işleyenler bunun dışındadır. Onlara kesintisiz ecir vardır.",
+      "contextual_meaning": "Kesintisiz karşılık (`أَجْرٌ غَيْرُ مَمْنُونٍ` `41:8`, `68:3`, `84:25`, `95:6`): Kesintiye uğratılmayan, başa kakılmayan kalıcı hak ediş."
+    }
+  ]
+}

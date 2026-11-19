@@ -1,0 +1,1725 @@
+{
+  "package": "Faz 1 - İkinci 100 (Seçenek A: Mühürsüz 100 Yeni Kök)",
+  "total_unique_roots_in_quran": 1642,
+  "total_root_tokens_in_quran": 49968,
+  "already_locked_baseline_roots": 105,
+  "already_locked_baseline_tokens": 30618,
+  "already_locked_baseline_percentage": 61.28,
+  "second_100_target_count": 100,
+  "second_100_token_count": 7448,
+  "second_100_coverage_percentage": 14.91,
+  "projected_total_locked_roots": 205,
+  "projected_cumulative_tokens": 38066,
+  "projected_cumulative_percentage": 76.18,
+  "locked_in_second_100": 30,
+  "prelocked_skipped_in_range": [
+    {
+      "global_rank": 101,
+      "root_arabic": "ن-ف-ق",
+      "root_latin": "N-F-K",
+      "buckwalter": "nfq",
+      "frequency": 111,
+      "unique_ayahs": 86
+    },
+    {
+      "global_rank": 115,
+      "root_arabic": "ص-ل-و",
+      "root_latin": "S-L-W",
+      "buckwalter": "Slw",
+      "frequency": 99,
+      "unique_ayahs": 90
+    },
+    {
+      "global_rank": 123,
+      "root_arabic": "س-ج-د",
+      "root_latin": "S-C-D",
+      "buckwalter": "sjd",
+      "frequency": 92,
+      "unique_ayahs": 81
+    },
+    {
+      "global_rank": 146,
+      "root_arabic": "ش-ك-ر",
+      "root_latin": "S-K-R",
+      "buckwalter": "$kr",
+      "frequency": 75,
+      "unique_ayahs": 69
+    }
+  ],
+  "second_100_roots": [
+    {
+      "second_100_rank": 1,
+      "global_rank": 102,
+      "root_arabic": "أ-ك-ل",
+      "root_latin": "E-K-L",
+      "buckwalter": "Akl",
+      "frequency": 109,
+      "unique_ayahs": 101,
+      "concept_label": "Ekl / Ükül (Parça Parça Eksiltip Tüketme, Beslenme ve Verim Alma)",
+      "is_locked": true,
+      "sample_ayah": "2:35",
+      "top_lemmas": [
+        ">akala",
+        ">ukul",
+        ">akol"
+      ]
+    },
+    {
+      "second_100_rank": 2,
+      "global_rank": 103,
+      "root_arabic": "ح-س-ب",
+      "root_latin": "H-S-B",
+      "buckwalter": "Hsb",
+      "frequency": 109,
+      "unique_ayahs": 102,
+      "concept_label": "Hesap / Hasb / Hisâb (Sayma, Muhasebe, Tek Taraflı Sanı ve Tam Yetme)",
+      "is_locked": true,
+      "sample_ayah": "2:202",
+      "top_lemmas": [
+        "Hasiba",
+        "HisaAb",
+        "Hasob"
+      ]
+    },
+    {
+      "second_100_rank": 3,
+      "global_rank": 104,
+      "root_arabic": "ف-ع-ل",
+      "root_latin": "F-A-L",
+      "buckwalter": "fEl",
+      "frequency": 108,
+      "unique_ayahs": 102,
+      "concept_label": "Fiil / Fâil / Mef’ûl (Etki Ortaya Koyma ve Olguya Dönüştürme)",
+      "is_locked": true,
+      "sample_ayah": "2:24",
+      "top_lemmas": [
+        "faEala",
+        "faAEil",
+        "mafoEuwl"
+      ]
+    },
+    {
+      "second_100_rank": 4,
+      "global_rank": 105,
+      "root_arabic": "أ-ج-ر",
+      "root_latin": "E-C-R",
+      "buckwalter": "Ajr",
+      "frequency": 108,
+      "unique_ayahs": 99,
+      "concept_label": "Ecir / Ücret (Emeği ve Eksikliği Onaran Hak Edilmiş Denk Bedel)",
+      "is_locked": true,
+      "sample_ayah": "2:62",
+      "top_lemmas": [
+        ">ajor",
+        "{sota_#ojaro",
+        "ta>ojura"
+      ]
+    },
+    {
+      "second_100_rank": 5,
+      "global_rank": 106,
+      "root_arabic": "و-ج-د",
+      "root_latin": "W-C-D",
+      "buckwalter": "wjd",
+      "frequency": 107,
+      "unique_ayahs": 99,
+      "concept_label": "Vecd / Vücd / Bulmak (Deneyimsel Tespit ve Eldeki İmkân Genişliği)",
+      "is_locked": true,
+      "sample_ayah": "2:96",
+      "top_lemmas": [
+        "wajada",
+        "wujod"
+      ]
+    },
+    {
+      "second_100_rank": 6,
+      "global_rank": 107,
+      "root_arabic": "ع-د-و",
+      "root_latin": "A-D-W",
+      "buckwalter": "Edw",
+      "frequency": 106,
+      "unique_ayahs": 92,
+      "concept_label": "Adv / Udvân / Adûv (Sınırı Aşıp Öte Yakaya Geçmek ve Karşıt Saflaşma)",
+      "is_locked": true,
+      "sample_ayah": "2:36",
+      "top_lemmas": [
+        "Eaduw~",
+        "{EotadaY`",
+        "Eudowa`n"
+      ]
+    },
+    {
+      "second_100_rank": 7,
+      "global_rank": 108,
+      "root_arabic": "ر-ج-ع",
+      "root_latin": "R-C-A",
+      "buckwalter": "rjE",
+      "frequency": 104,
+      "unique_ayahs": 103,
+      "concept_label": "Rec / Rücû / Merci (Çıkış Kaynağına ve Hesap Merciine Geri Dönüş)",
+      "is_locked": true,
+      "sample_ayah": "2:18",
+      "top_lemmas": [
+        "rajaEa",
+        "marojiE",
+        "ra`jiEuwn"
+      ]
+    },
+    {
+      "second_100_rank": 8,
+      "global_rank": 109,
+      "root_arabic": "ف-ض-ل",
+      "root_latin": "F-D-L",
+      "buckwalter": "fDl",
+      "frequency": 104,
+      "unique_ayahs": 92,
+      "concept_label": "Fadl / Tefdîl (Taban Ölçüyü Aşan Artı Pay, İşlevsel Ayrışma ve İhsân)",
+      "is_locked": true,
+      "sample_ayah": "2:47",
+      "top_lemmas": [
+        "faDol",
+        "faD~ala",
+        "tafoDiyl"
+      ]
+    },
+    {
+      "second_100_rank": 9,
+      "global_rank": 110,
+      "root_arabic": "ص-ب-ر",
+      "root_latin": "S-B-R",
+      "buckwalter": "Sbr",
+      "frequency": 103,
+      "unique_ayahs": 93,
+      "concept_label": "Sebat / Direnç / Istibâr (Benliği Hedefe Kenetleyip Sarsılmadan Tutma)",
+      "is_locked": true,
+      "sample_ayah": "2:45",
+      "top_lemmas": [
+        "Sabara",
+        "SaAbir",
+        "Sabor"
+      ]
+    },
+    {
+      "second_100_rank": 10,
+      "global_rank": 111,
+      "root_arabic": "أ-ذ-ن",
+      "root_latin": "E-Z-N",
+      "buckwalter": "A*n",
+      "frequency": 102,
+      "unique_ayahs": 90,
+      "concept_label": "İzin / Üzün / Ezân (Kulak, İşitip Onaylama, Duyuru ve Yetki Kanalı)",
+      "is_locked": true,
+      "sample_ayah": "2:19",
+      "top_lemmas": [
+        "<i*on",
+        ">a*ina",
+        ">u*unN"
+      ]
+    },
+    {
+      "second_100_rank": 11,
+      "global_rank": 112,
+      "root_arabic": "ش-د-د",
+      "root_latin": "S-D-D",
+      "buckwalter": "$dd",
+      "frequency": 102,
+      "unique_ayahs": 99,
+      "concept_label": "Şedd / Şedîd / Eşudd (Sımsıkı Bağlama, Yapısal Sağlamlık ve Baskı Yoğunluğu)",
+      "is_locked": true,
+      "sample_ayah": "2:74",
+      "top_lemmas": [
+        "$adiyd",
+        ">a$ad~",
+        ">a$ud~"
+      ]
+    },
+    {
+      "second_100_rank": 12,
+      "global_rank": 113,
+      "root_arabic": "و-ل-د",
+      "root_latin": "W-L-D",
+      "buckwalter": "wld",
+      "frequency": 102,
+      "unique_ayahs": 80,
+      "concept_label": "Veled / Vâlid / Mevlûd / Vildân (Doğurma, Doğurulma ve Soy-Bakım Sorumluluğu)",
+      "is_locked": true,
+      "sample_ayah": "2:83",
+      "top_lemmas": [
+        "walad",
+        "waAlid",
+        "wa`liday"
+      ]
+    },
+    {
+      "second_100_rank": 13,
+      "global_rank": 114,
+      "root_arabic": "د-ي-ن",
+      "root_latin": "D-Y-N",
+      "buckwalter": "dyn",
+      "frequency": 101,
+      "unique_ayahs": 87,
+      "concept_label": "Dîn / Deyn / Medînîn (Boyun Eğme, Borç-Karşılık Bağı ve Hesap Düzeni)",
+      "is_locked": true,
+      "sample_ayah": "1:4",
+      "top_lemmas": [
+        "diyn",
+        "dayon",
+        "madiyniyn"
+      ]
+    },
+    {
+      "second_100_rank": 14,
+      "global_rank": 116,
+      "root_arabic": "ص-ح-ب",
+      "root_latin": "S-H-B",
+      "buckwalter": "SHb",
+      "frequency": 97,
+      "unique_ayahs": 89,
+      "concept_label": "Ashâb / Sâhib / Sâhibe (Yan Yanalık, Yol Arkadaşlığı ve Sürekli Birliktelik)",
+      "is_locked": true,
+      "sample_ayah": "2:39",
+      "top_lemmas": [
+        ">aSoHa`b",
+        "SaAHib",
+        "Sa`Hibap"
+      ]
+    },
+    {
+      "second_100_rank": 15,
+      "global_rank": 117,
+      "root_arabic": "أ-ن-س",
+      "root_latin": "E-N-S",
+      "buckwalter": "Ans",
+      "frequency": 97,
+      "unique_ayahs": 93,
+      "concept_label": "İns / İnsân / Înâs / Üns (Açık Algılanma, Yabancılığı Kırma ve Sosyal Ünsiyet)",
+      "is_locked": true,
+      "sample_ayah": "2:60",
+      "top_lemmas": [
+        "<insa`n",
+        "<ins",
+        "'aAnasa"
+      ]
+    },
+    {
+      "second_100_rank": 16,
+      "global_rank": 118,
+      "root_arabic": "ق-ر-ب",
+      "root_latin": "K-R-B",
+      "buckwalter": "qrb",
+      "frequency": 96,
+      "unique_ayahs": 91,
+      "concept_label": "Karîb / Akrab / Kurbâ / Mukarrab (Yakınlaşma, Mesafe Kapatma ve Sunu-Soy Bağı)",
+      "is_locked": true,
+      "sample_ayah": "2:35",
+      "top_lemmas": [
+        "qariyb",
+        ">aqorab",
+        "qurobaY`"
+      ]
+    },
+    {
+      "second_100_rank": 17,
+      "global_rank": 119,
+      "root_arabic": "ب-غ-ي",
+      "root_latin": "B-G-Y",
+      "buckwalter": "bgy",
+      "frequency": 96,
+      "unique_ayahs": 90,
+      "concept_label": "Bagy / İbtigâ / Yenbağî (Şiddetle Aramak, Yaraşmak ve Sınırı Taşıp Saldırmak)",
+      "is_locked": true,
+      "sample_ayah": "2:90",
+      "top_lemmas": [
+        "{botagaY`",
+        "bagaY`",
+        "{botigaA^'"
+      ]
+    },
+    {
+      "second_100_rank": 18,
+      "global_rank": 120,
+      "root_arabic": "أ-خ-و",
+      "root_latin": "E-H-W",
+      "buckwalter": "Axw",
+      "frequency": 96,
+      "unique_ayahs": 80,
+      "concept_label": "Eh / Uht / İhve / İhvân (Ortak Kaynak, Omuzdaşlık ve Eşdeğer Kardeşlik)",
+      "is_locked": true,
+      "sample_ayah": "2:178",
+      "top_lemmas": [
+        ">ax",
+        ">uxot",
+        "<ixowapN"
+      ]
+    },
+    {
+      "second_100_rank": 19,
+      "global_rank": 121,
+      "root_arabic": "ح-ب-ب",
+      "root_latin": "H-B-B",
+      "buckwalter": "Hbb",
+      "frequency": 95,
+      "unique_ayahs": 85,
+      "concept_label": "Hubb / Habb / Habbe / İstihbâb (Özde Sabitlenen Bağ, Tohum Çekirdeği ve Değer Tercihi)",
+      "is_locked": true,
+      "sample_ayah": "2:165",
+      "top_lemmas": [
+        ">aHobabo",
+        "Hub~",
+        "Hab~"
+      ]
+    },
+    {
+      "second_100_rank": 20,
+      "global_rank": 122,
+      "root_arabic": "س-ب-ح",
+      "root_latin": "S-B-H",
+      "buckwalter": "sbH",
+      "frequency": 92,
+      "unique_ayahs": 87,
+      "concept_label": "Sebh / Tesbîh / Sübhân (Engin Akışta Yörüngede Yüzme ve Kusursuz Aşkınlığa Uzaklaştırma)",
+      "is_locked": true,
+      "sample_ayah": "2:30",
+      "top_lemmas": [
+        "sab~aHa",
+        "suboHa`n",
+        "tasobiyH"
+      ]
+    },
+    {
+      "second_100_rank": 21,
+      "global_rank": 124,
+      "root_arabic": "ل-ي-ل",
+      "root_latin": "L-Y-L",
+      "buckwalter": "lyl",
+      "frequency": 92,
+      "unique_ayahs": 81,
+      "concept_label": "Leyl / Leyle / Leyâlî (Karanlık Örtü, Sükûnet Kuşağı ve Sayılı Vahiy Gecesi)",
+      "is_locked": true,
+      "sample_ayah": "2:51",
+      "top_lemmas": [
+        "layol",
+        "layolap"
+      ]
+    },
+    {
+      "second_100_rank": 22,
+      "global_rank": 125,
+      "root_arabic": "ل-ي-س",
+      "root_latin": "L-Y-S",
+      "buckwalter": "lys",
+      "frequency": 89,
+      "unique_ayahs": 85,
+      "concept_label": "Leyse / Leste / Lestüm (Varlık-Nispet Olumsuzlaması, Muafiyet ve Kesin İkrar)",
+      "is_locked": true,
+      "sample_ayah": "2:113",
+      "top_lemmas": [
+        "l~ayosa"
+      ]
+    },
+    {
+      "second_100_rank": 23,
+      "global_rank": 126,
+      "root_arabic": "ش-ط-ن",
+      "root_latin": "S-T-N",
+      "buckwalter": "$Tn",
+      "frequency": 88,
+      "unique_ayahs": 78,
+      "concept_label": "Şetn / Şetân / Şeyâtîn (Haktan Uzaklaşıp Bozan Taşkın Saptırıcı Güç)",
+      "is_locked": true,
+      "sample_ayah": "2:14",
+      "top_lemmas": [
+        "$ayoTa`n"
+      ]
+    },
+    {
+      "second_100_rank": 24,
+      "global_rank": 127,
+      "root_arabic": "ق-ر-أ",
+      "root_latin": "K-R-E",
+      "buckwalter": "qrA",
+      "frequency": 88,
+      "unique_ayahs": 79,
+      "concept_label": "Kur’an / Karae / Kurû’ (Dağınık Olanı Toplayıp Bütünleme, Okuma ve Döngüsel Birikim)",
+      "is_locked": true,
+      "sample_ayah": "2:185",
+      "top_lemmas": [
+        "quro'aAn",
+        "qara>a",
+        "quruw^'"
+      ]
+    },
+    {
+      "second_100_rank": 25,
+      "global_rank": 128,
+      "root_arabic": "خ-ل-د",
+      "root_latin": "H-L-D",
+      "buckwalter": "xld",
+      "frequency": 87,
+      "unique_ayahs": 86,
+      "concept_label": "Huld / Hâlid / Ahlede (Bozulmadan Sabit Kalıcılık, Yerleşme ve Yere Yapışma)",
+      "is_locked": true,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "xa`lid",
+        "xulod",
+        ">axolada"
+      ]
+    },
+    {
+      "second_100_rank": 26,
+      "global_rank": 129,
+      "root_arabic": "ت-و-ب",
+      "root_latin": "T-W-B",
+      "buckwalter": "twb",
+      "frequency": 87,
+      "unique_ayahs": 69,
+      "concept_label": "Tevbe / Tevvâb / Metâb (Yanlış İstikametten Bilinçle Geri Dönüş ve İlâhî Rahmet Kabulü)",
+      "is_locked": true,
+      "sample_ayah": "2:37",
+      "top_lemmas": [
+        "taAba",
+        "taw~aAb",
+        "tawobap"
+      ]
+    },
+    {
+      "second_100_rank": 27,
+      "global_rank": 130,
+      "root_arabic": "م-و-ل",
+      "root_latin": "M-W-L",
+      "buckwalter": "mwl",
+      "frequency": 86,
+      "unique_ayahs": 80,
+      "concept_label": "Mâl / Emvâl (Emanet Edilmiş Taşınabilir Varlık, Toplumsal Hak Ölçüsü ve Geçici Dünya Sınavı)",
+      "is_locked": true,
+      "sample_ayah": "2:155",
+      "top_lemmas": [
+        "maAl"
+      ]
+    },
+    {
+      "second_100_rank": 28,
+      "global_rank": 131,
+      "root_arabic": "أ-ح-د",
+      "root_latin": "E-H-D",
+      "buckwalter": "AHd",
+      "frequency": 85,
+      "unique_ayahs": 82,
+      "concept_label": "Ehad / İhdâ (Bölünmez Mutlak Teklik, İkiden Biri ve İstisnasız Her Tek Fert)",
+      "is_locked": true,
+      "sample_ayah": "2:96",
+      "top_lemmas": [
+        ">aHad",
+        "<iHodaY"
+      ]
+    },
+    {
+      "second_100_rank": 29,
+      "global_rank": 132,
+      "root_arabic": "ن-ج-و",
+      "root_latin": "N-C-W",
+      "buckwalter": "njw",
+      "frequency": 84,
+      "unique_ayahs": 75,
+      "concept_label": "Necât / Necvâ (Kuşatmadan Yüksek Selamete Çekip Kurtarma ve Tenhaya Çekilip Gizlice Konuşma)",
+      "is_locked": true,
+      "sample_ayah": "2:49",
+      "top_lemmas": [
+        "naj~aY`",
+        ">anjaY`",
+        "najowaY`^"
+      ]
+    },
+    {
+      "second_100_rank": 30,
+      "global_rank": 133,
+      "root_arabic": "س-و-ي",
+      "root_latin": "S-W-Y",
+      "buckwalter": "swy",
+      "frequency": 83,
+      "unique_ayahs": 80,
+      "concept_label": "Sevî / Tesviye (Pürüzsüz Düzlem, Eksiksiz Uyum ve İki Yönlü Denge/Denklik)",
+      "is_locked": true,
+      "sample_ayah": "2:6",
+      "top_lemmas": [
+        "{sotawaY`^",
+        "sawaA^'",
+        "saw~aY`"
+      ]
+    },
+    {
+      "second_100_rank": 31,
+      "global_rank": 134,
+      "root_arabic": "ك-ي-ف",
+      "root_latin": "K-Y-F",
+      "buckwalter": "kyf",
+      "frequency": 83,
+      "unique_ayahs": 83,
+      "concept_label": "Analiz Bekliyor (kayof)",
+      "is_locked": false,
+      "sample_ayah": "2:28",
+      "top_lemmas": [
+        "kayof"
+      ]
+    },
+    {
+      "second_100_rank": 32,
+      "global_rank": 135,
+      "root_arabic": "ح-ر-م",
+      "root_latin": "H-R-M",
+      "buckwalter": "Hrm",
+      "frequency": 83,
+      "unique_ayahs": 71,
+      "concept_label": "Analiz Bekliyor (Har~ama, HaraAm, muHar~am)",
+      "is_locked": false,
+      "sample_ayah": "2:85",
+      "top_lemmas": [
+        "Har~ama",
+        "HaraAm",
+        "muHar~am"
+      ]
+    },
+    {
+      "second_100_rank": 33,
+      "global_rank": 136,
+      "root_arabic": "ز-و-ج",
+      "root_latin": "Z-W-C",
+      "buckwalter": "zwj",
+      "frequency": 81,
+      "unique_ayahs": 72,
+      "concept_label": "Analiz Bekliyor (zawoj, zuw~ijato)",
+      "is_locked": false,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "zawoj",
+        "zuw~ijato"
+      ]
+    },
+    {
+      "second_100_rank": 34,
+      "global_rank": 137,
+      "root_arabic": "ع-ق-ب",
+      "root_latin": "A-K-B",
+      "buckwalter": "Eqb",
+      "frequency": 80,
+      "unique_ayahs": 74,
+      "concept_label": "Analiz Bekliyor (Ea`qibap, EiqaAb, Eaqib)",
+      "is_locked": false,
+      "sample_ayah": "2:143",
+      "top_lemmas": [
+        "Ea`qibap",
+        "EiqaAb",
+        "Eaqib"
+      ]
+    },
+    {
+      "second_100_rank": 35,
+      "global_rank": 138,
+      "root_arabic": "ع-ر-ض",
+      "root_latin": "A-R-D",
+      "buckwalter": "ErD",
+      "frequency": 79,
+      "unique_ayahs": 72,
+      "concept_label": "Analiz Bekliyor (>aEoraDa, m~uEoriDuwn, EaraDa)",
+      "is_locked": false,
+      "sample_ayah": "2:31",
+      "top_lemmas": [
+        ">aEoraDa",
+        "m~uEoriDuwn",
+        "EaraDa"
+      ]
+    },
+    {
+      "second_100_rank": 36,
+      "global_rank": 139,
+      "root_arabic": "و-ج-ه",
+      "root_latin": "W-C-H",
+      "buckwalter": "wjh",
+      "frequency": 78,
+      "unique_ayahs": 71,
+      "concept_label": "Analiz Bekliyor (wajoh, wajiyh, waj~aho)",
+      "is_locked": false,
+      "sample_ayah": "2:112",
+      "top_lemmas": [
+        "wajoh",
+        "wajiyh",
+        "waj~aho"
+      ]
+    },
+    {
+      "second_100_rank": 37,
+      "global_rank": 140,
+      "root_arabic": "و-ح-ي",
+      "root_latin": "W-H-Y",
+      "buckwalter": "wHy",
+      "frequency": 78,
+      "unique_ayahs": 70,
+      "concept_label": "Analiz Bekliyor (>awoHaY`^, waHoY)",
+      "is_locked": false,
+      "sample_ayah": "3:44",
+      "top_lemmas": [
+        ">awoHaY`^",
+        "waHoY"
+      ]
+    },
+    {
+      "second_100_rank": 38,
+      "global_rank": 141,
+      "root_arabic": "ص-و-ب",
+      "root_latin": "S-W-B",
+      "buckwalter": "Swb",
+      "frequency": 77,
+      "unique_ayahs": 56,
+      "concept_label": "Analiz Bekliyor (>aSaAba, m~uSiybap, Say~ib)",
+      "is_locked": false,
+      "sample_ayah": "2:19",
+      "top_lemmas": [
+        ">aSaAba",
+        "m~uSiybap",
+        "Say~ib"
+      ]
+    },
+    {
+      "second_100_rank": 39,
+      "global_rank": 142,
+      "root_arabic": "ب-ل-غ",
+      "root_latin": "B-L-G",
+      "buckwalter": "blg",
+      "frequency": 77,
+      "unique_ayahs": 73,
+      "concept_label": "Analiz Bekliyor (balaga, bala`g, bal~ago)",
+      "is_locked": false,
+      "sample_ayah": "2:196",
+      "top_lemmas": [
+        "balaga",
+        "bala`g",
+        "bal~ago"
+      ]
+    },
+    {
+      "second_100_rank": 40,
+      "global_rank": 143,
+      "root_arabic": "ق-ل-ل",
+      "root_latin": "K-L-L",
+      "buckwalter": "qll",
+      "frequency": 76,
+      "unique_ayahs": 74,
+      "concept_label": "Analiz Bekliyor (qaliyl, >aqal~, qaliylap)",
+      "is_locked": false,
+      "sample_ayah": "2:41",
+      "top_lemmas": [
+        "qaliyl",
+        ">aqal~",
+        "qaliylap"
+      ]
+    },
+    {
+      "second_100_rank": 41,
+      "global_rank": 144,
+      "root_arabic": "أ-ل-م",
+      "root_latin": "E-L-M",
+      "buckwalter": "Alm",
+      "frequency": 75,
+      "unique_ayahs": 73,
+      "concept_label": "Analiz Bekliyor (>aliym, ya>olamu)",
+      "is_locked": false,
+      "sample_ayah": "2:10",
+      "top_lemmas": [
+        ">aliym",
+        "ya>olamu"
+      ]
+    },
+    {
+      "second_100_rank": 42,
+      "global_rank": 145,
+      "root_arabic": "ك-ل-م",
+      "root_latin": "K-L-M",
+      "buckwalter": "klm",
+      "frequency": 75,
+      "unique_ayahs": 71,
+      "concept_label": "Analiz Bekliyor (kalimap, kal~ama, kalima`t)",
+      "is_locked": false,
+      "sample_ayah": "2:37",
+      "top_lemmas": [
+        "kalimap",
+        "kal~ama",
+        "kalima`t"
+      ]
+    },
+    {
+      "second_100_rank": 43,
+      "global_rank": 147,
+      "root_arabic": "ض-ر-ر",
+      "root_latin": "D-R-R",
+      "buckwalter": "Drr",
+      "frequency": 74,
+      "unique_ayahs": 70,
+      "concept_label": "Analiz Bekliyor (yaDur~a, Dur~, Dar~)",
+      "is_locked": false,
+      "sample_ayah": "2:102",
+      "top_lemmas": [
+        "yaDur~a",
+        "Dur~",
+        "Dar~"
+      ]
+    },
+    {
+      "second_100_rank": 44,
+      "global_rank": 148,
+      "root_arabic": "ب-أ-س",
+      "root_latin": "B-E-S",
+      "buckwalter": "bAs",
+      "frequency": 73,
+      "unique_ayahs": 70,
+      "concept_label": "Analiz Bekliyor (bi}osa, ba>os, ba>osaA^')",
+      "is_locked": false,
+      "sample_ayah": "2:90",
+      "top_lemmas": [
+        "bi}osa",
+        "ba>os",
+        "ba>osaA^'"
+      ]
+    },
+    {
+      "second_100_rank": 45,
+      "global_rank": 149,
+      "root_arabic": "ر-ض-و",
+      "root_latin": "R-D-W",
+      "buckwalter": "rDw",
+      "frequency": 73,
+      "unique_ayahs": 64,
+      "concept_label": "Analiz Bekliyor (r~aDiYa, riDowa`n, maroDaAt)",
+      "is_locked": false,
+      "sample_ayah": "2:120",
+      "top_lemmas": [
+        "r~aDiYa",
+        "riDowa`n",
+        "maroDaAt"
+      ]
+    },
+    {
+      "second_100_rank": 46,
+      "global_rank": 150,
+      "root_arabic": "ب-ي-ت",
+      "root_latin": "B-Y-T",
+      "buckwalter": "byt",
+      "frequency": 73,
+      "unique_ayahs": 54,
+      "concept_label": "Analiz Bekliyor (bayot, bay~ata, baya`t)",
+      "is_locked": false,
+      "sample_ayah": "2:125",
+      "top_lemmas": [
+        "bayot",
+        "bay~ata",
+        "baya`t"
+      ]
+    },
+    {
+      "second_100_rank": 47,
+      "global_rank": 151,
+      "root_arabic": "ر-ج-ل",
+      "root_latin": "R-C-L",
+      "buckwalter": "rjl",
+      "frequency": 73,
+      "unique_ayahs": 66,
+      "concept_label": "Analiz Bekliyor (rajul, rijaAl, rijol)",
+      "is_locked": false,
+      "sample_ayah": "2:228",
+      "top_lemmas": [
+        "rajul",
+        "rijaAl",
+        "rijol"
+      ]
+    },
+    {
+      "second_100_rank": 48,
+      "global_rank": 152,
+      "root_arabic": "غ-ن-ي",
+      "root_latin": "G-N-Y",
+      "buckwalter": "gny",
+      "frequency": 73,
+      "unique_ayahs": 72,
+      "concept_label": "Analiz Bekliyor (>agonato, ganiY~, >agonaY`)",
+      "is_locked": false,
+      "sample_ayah": "2:263",
+      "top_lemmas": [
+        ">agonato",
+        "ganiY~",
+        ">agonaY`"
+      ]
+    },
+    {
+      "second_100_rank": 49,
+      "global_rank": 153,
+      "root_arabic": "ف-ر-ق",
+      "root_latin": "F-R-K",
+      "buckwalter": "frq",
+      "frequency": 72,
+      "unique_ayahs": 66,
+      "concept_label": "Analiz Bekliyor (fariyq, far~aqu, tafar~aqa)",
+      "is_locked": false,
+      "sample_ayah": "2:50",
+      "top_lemmas": [
+        "fariyq",
+        "far~aqu",
+        "tafar~aqa"
+      ]
+    },
+    {
+      "second_100_rank": 50,
+      "global_rank": 154,
+      "root_arabic": "ي-م-ن",
+      "root_latin": "Y-M-N",
+      "buckwalter": "ymn",
+      "frequency": 71,
+      "unique_ayahs": 63,
+      "concept_label": "Analiz Bekliyor (yamiyn, >ayoman, mayomanap)",
+      "is_locked": false,
+      "sample_ayah": "2:224",
+      "top_lemmas": [
+        "yamiyn",
+        ">ayoman",
+        "mayomanap"
+      ]
+    },
+    {
+      "second_100_rank": 51,
+      "global_rank": 155,
+      "root_arabic": "م-ت-ع",
+      "root_latin": "M-T-A",
+      "buckwalter": "mtE",
+      "frequency": 70,
+      "unique_ayahs": 65,
+      "concept_label": "Analiz Bekliyor (mata`E, m~at~aEo, tamat~aEa)",
+      "is_locked": false,
+      "sample_ayah": "2:36",
+      "top_lemmas": [
+        "mata`E",
+        "m~at~aEo",
+        "tamat~aEa"
+      ]
+    },
+    {
+      "second_100_rank": 52,
+      "global_rank": 156,
+      "root_arabic": "ع-ر-ف",
+      "root_latin": "A-R-F",
+      "buckwalter": "Erf",
+      "frequency": 70,
+      "unique_ayahs": 62,
+      "concept_label": "Analiz Bekliyor (m~aEoruwf, Earafa, {Eotarafu)",
+      "is_locked": false,
+      "sample_ayah": "2:89",
+      "top_lemmas": [
+        "m~aEoruwf",
+        "Earafa",
+        "{Eotarafu"
+      ]
+    },
+    {
+      "second_100_rank": 53,
+      "global_rank": 157,
+      "root_arabic": "ع-ل-و",
+      "root_latin": "A-L-W",
+      "buckwalter": "Elw",
+      "frequency": 70,
+      "unique_ayahs": 68,
+      "concept_label": "Analiz Bekliyor (taEa`laY`, Ealiy~, >aEolaY`)",
+      "is_locked": false,
+      "sample_ayah": "2:255",
+      "top_lemmas": [
+        "taEa`laY`",
+        "Ealiy~",
+        ">aEolaY`"
+      ]
+    },
+    {
+      "second_100_rank": 54,
+      "global_rank": 158,
+      "root_arabic": "و-ك-ل",
+      "root_latin": "W-K-L",
+      "buckwalter": "wkl",
+      "frequency": 70,
+      "unique_ayahs": 61,
+      "concept_label": "Analiz Bekliyor (tawak~alo, wakiyl, mutawak~iluwn)",
+      "is_locked": false,
+      "sample_ayah": "3:122",
+      "top_lemmas": [
+        "tawak~alo",
+        "wakiyl",
+        "mutawak~iluwn"
+      ]
+    },
+    {
+      "second_100_rank": 55,
+      "global_rank": 159,
+      "root_arabic": "س-ك-ن",
+      "root_latin": "S-K-N",
+      "buckwalter": "skn",
+      "frequency": 69,
+      "unique_ayahs": 66,
+      "concept_label": "Analiz Bekliyor (misokiyn, sakana, masokan)",
+      "is_locked": false,
+      "sample_ayah": "2:35",
+      "top_lemmas": [
+        "misokiyn",
+        "sakana",
+        "masokan"
+      ]
+    },
+    {
+      "second_100_rank": 56,
+      "global_rank": 160,
+      "root_arabic": "ظ-ن-ن",
+      "root_latin": "Z-N-N",
+      "buckwalter": "Znn",
+      "frequency": 69,
+      "unique_ayahs": 57,
+      "concept_label": "Analiz Bekliyor (Zan~a, Zan~, Z~aA^n~iyn)",
+      "is_locked": false,
+      "sample_ayah": "2:46",
+      "top_lemmas": [
+        "Zan~a",
+        "Zan~",
+        "Z~aA^n~iyn"
+      ]
+    },
+    {
+      "second_100_rank": 57,
+      "global_rank": 161,
+      "root_arabic": "و-ح-د",
+      "root_latin": "W-H-D",
+      "buckwalter": "wHd",
+      "frequency": 68,
+      "unique_ayahs": 67,
+      "concept_label": "Analiz Bekliyor (wa`Hidap, wa`Hid, waHod)",
+      "is_locked": false,
+      "sample_ayah": "2:61",
+      "top_lemmas": [
+        "wa`Hidap",
+        "wa`Hid",
+        "waHod"
+      ]
+    },
+    {
+      "second_100_rank": 58,
+      "global_rank": 162,
+      "root_arabic": "ه-ل-ك",
+      "root_latin": "H-L-K",
+      "buckwalter": "hlk",
+      "frequency": 68,
+      "unique_ayahs": 63,
+      "concept_label": "Analiz Bekliyor (>aholaka, halaka, muholik)",
+      "is_locked": false,
+      "sample_ayah": "2:195",
+      "top_lemmas": [
+        ">aholaka",
+        "halaka",
+        "muholik"
+      ]
+    },
+    {
+      "second_100_rank": 59,
+      "global_rank": 163,
+      "root_arabic": "ب-ع-ث",
+      "root_latin": "B-A-S",
+      "buckwalter": "bEv",
+      "frequency": 67,
+      "unique_ayahs": 64,
+      "concept_label": "Analiz Bekliyor (baEava, m~aboEuwvuwn, baEov)",
+      "is_locked": false,
+      "sample_ayah": "2:56",
+      "top_lemmas": [
+        "baEava",
+        "m~aboEuwvuwn",
+        "baEov"
+      ]
+    },
+    {
+      "second_100_rank": 60,
+      "global_rank": 164,
+      "root_arabic": "ك-س-ب",
+      "root_latin": "K-S-B",
+      "buckwalter": "ksb",
+      "frequency": 67,
+      "unique_ayahs": 60,
+      "concept_label": "Analiz Bekliyor (kasaba, {kotasaba)",
+      "is_locked": false,
+      "sample_ayah": "2:79",
+      "top_lemmas": [
+        "kasaba",
+        "{kotasaba"
+      ]
+    },
+    {
+      "second_100_rank": 61,
+      "global_rank": 165,
+      "root_arabic": "و-ف-ي",
+      "root_latin": "W-F-Y",
+      "buckwalter": "wfy",
+      "frequency": 66,
+      "unique_ayahs": 64,
+      "concept_label": "Analiz Bekliyor (tawaf~aY`, >awofaY`, waf~aY`^)",
+      "is_locked": false,
+      "sample_ayah": "2:40",
+      "top_lemmas": [
+        "tawaf~aY`",
+        ">awofaY`",
+        "waf~aY`^"
+      ]
+    },
+    {
+      "second_100_rank": 62,
+      "global_rank": 166,
+      "root_arabic": "ج-ر-م",
+      "root_latin": "C-R-M",
+      "buckwalter": "jrm",
+      "frequency": 66,
+      "unique_ayahs": 65,
+      "concept_label": "Analiz Bekliyor (mujorim, >ajoramu, jaram)",
+      "is_locked": false,
+      "sample_ayah": "5:2",
+      "top_lemmas": [
+        "mujorim",
+        ">ajoramu",
+        "jaram"
+      ]
+    },
+    {
+      "second_100_rank": 63,
+      "global_rank": 167,
+      "root_arabic": "خ-س-ر",
+      "root_latin": "H-S-R",
+      "buckwalter": "xsr",
+      "frequency": 65,
+      "unique_ayahs": 60,
+      "concept_label": "Analiz Bekliyor (xa`siriyn, xasira, >axosariyn)",
+      "is_locked": false,
+      "sample_ayah": "2:27",
+      "top_lemmas": [
+        "xa`siriyn",
+        "xasira",
+        ">axosariyn"
+      ]
+    },
+    {
+      "second_100_rank": 64,
+      "global_rank": 168,
+      "root_arabic": "ع-ي-ن",
+      "root_latin": "A-Y-N",
+      "buckwalter": "Eyn",
+      "frequency": 65,
+      "unique_ayahs": 63,
+      "concept_label": "Analiz Bekliyor (Eayon, m~aEiyn, Eiyn)",
+      "is_locked": false,
+      "sample_ayah": "2:60",
+      "top_lemmas": [
+        "Eayon",
+        "m~aEiyn",
+        "Eiyn"
+      ]
+    },
+    {
+      "second_100_rank": 65,
+      "global_rank": 169,
+      "root_arabic": "ج-ر-ي",
+      "root_latin": "C-R-Y",
+      "buckwalter": "jry",
+      "frequency": 64,
+      "unique_ayahs": 64,
+      "concept_label": "Analiz Bekliyor (jarayo, jawaAr, jaAriyap)",
+      "is_locked": false,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "jarayo",
+        "jawaAr",
+        "jaAriyap"
+      ]
+    },
+    {
+      "second_100_rank": 66,
+      "global_rank": 170,
+      "root_arabic": "ح-م-ل",
+      "root_latin": "H-M-L",
+      "buckwalter": "Hml",
+      "frequency": 64,
+      "unique_ayahs": 50,
+      "concept_label": "Analiz Bekliyor (Hamala, Hamol, Hum~ila)",
+      "is_locked": false,
+      "sample_ayah": "2:248",
+      "top_lemmas": [
+        "Hamala",
+        "Hamol",
+        "Hum~ila"
+      ]
+    },
+    {
+      "second_100_rank": 67,
+      "global_rank": 171,
+      "root_arabic": "ح-م-د",
+      "root_latin": "H-M-D",
+      "buckwalter": "Hmd",
+      "frequency": 63,
+      "unique_ayahs": 61,
+      "concept_label": "Analiz Bekliyor (Hamod, Hamiyd, yuHomadu)",
+      "is_locked": false,
+      "sample_ayah": "1:2",
+      "top_lemmas": [
+        "Hamod",
+        "Hamiyd",
+        "yuHomadu"
+      ]
+    },
+    {
+      "second_100_rank": 68,
+      "global_rank": 172,
+      "root_arabic": "م-و-ه",
+      "root_latin": "M-W-H",
+      "buckwalter": "mwh",
+      "frequency": 63,
+      "unique_ayahs": 60,
+      "concept_label": "Analiz Bekliyor (maA^')",
+      "is_locked": false,
+      "sample_ayah": "2:22",
+      "top_lemmas": [
+        "maA^'"
+      ]
+    },
+    {
+      "second_100_rank": 69,
+      "global_rank": 173,
+      "root_arabic": "ت-ل-و",
+      "root_latin": "T-L-W",
+      "buckwalter": "tlw",
+      "frequency": 63,
+      "unique_ayahs": 61,
+      "concept_label": "Analiz Bekliyor (talaY`, tilaAwat, t~a`liya`t)",
+      "is_locked": false,
+      "sample_ayah": "2:44",
+      "top_lemmas": [
+        "talaY`",
+        "tilaAwat",
+        "t~a`liya`t"
+      ]
+    },
+    {
+      "second_100_rank": 70,
+      "global_rank": 174,
+      "root_arabic": "س-ح-ر",
+      "root_latin": "S-H-R",
+      "buckwalter": "sHr",
+      "frequency": 63,
+      "unique_ayahs": 59,
+      "concept_label": "Analiz Bekliyor (siHor, sa`Hir, m~asoHuwr)",
+      "is_locked": false,
+      "sample_ayah": "2:102",
+      "top_lemmas": [
+        "siHor",
+        "sa`Hir",
+        "m~asoHuwr"
+      ]
+    },
+    {
+      "second_100_rank": 71,
+      "global_rank": 175,
+      "root_arabic": "ق-ض-ي",
+      "root_latin": "K-D-Y",
+      "buckwalter": "qDy",
+      "frequency": 63,
+      "unique_ayahs": 59,
+      "concept_label": "Analiz Bekliyor (qaDaY`^, m~aqoDiy~, qaAD)",
+      "is_locked": false,
+      "sample_ayah": "2:117",
+      "top_lemmas": [
+        "qaDaY`^",
+        "m~aqoDiy~",
+        "qaAD"
+      ]
+    },
+    {
+      "second_100_rank": 72,
+      "global_rank": 176,
+      "root_arabic": "ع-و-د",
+      "root_latin": "A-W-D",
+      "buckwalter": "Ewd",
+      "frequency": 63,
+      "unique_ayahs": 58,
+      "concept_label": "Analiz Bekliyor (EaAd2, EaAda, >uEiydu)",
+      "is_locked": false,
+      "sample_ayah": "2:275",
+      "top_lemmas": [
+        "EaAd2",
+        "EaAda",
+        ">uEiydu"
+      ]
+    },
+    {
+      "second_100_rank": 73,
+      "global_rank": 177,
+      "root_arabic": "ذ-و-ق",
+      "root_latin": "Z-W-K",
+      "buckwalter": "*wq",
+      "frequency": 63,
+      "unique_ayahs": 61,
+      "concept_label": "Analiz Bekliyor (*aAqu, >a*aAqa, *aA^}iqap)",
+      "is_locked": false,
+      "sample_ayah": "3:106",
+      "top_lemmas": [
+        "*aAqu",
+        ">a*aAqa",
+        "*aA^}iqap"
+      ]
+    },
+    {
+      "second_100_rank": 74,
+      "global_rank": 178,
+      "root_arabic": "ز-ي-د",
+      "root_latin": "Z-Y-D",
+      "buckwalter": "zyd",
+      "frequency": 61,
+      "unique_ayahs": 59,
+      "concept_label": "Analiz Bekliyor (zaAda, {zodaAdu, ziyaAdap)",
+      "is_locked": false,
+      "sample_ayah": "2:10",
+      "top_lemmas": [
+        "zaAda",
+        "{zodaAdu",
+        "ziyaAdap"
+      ]
+    },
+    {
+      "second_100_rank": 75,
+      "global_rank": 179,
+      "root_arabic": "م-س-س",
+      "root_latin": "M-S-S",
+      "buckwalter": "mss",
+      "frequency": 61,
+      "unique_ayahs": 57,
+      "concept_label": "Analiz Bekliyor (mas~a, mas~, yatamaA^s~a)",
+      "is_locked": false,
+      "sample_ayah": "2:80",
+      "top_lemmas": [
+        "mas~a",
+        "mas~",
+        "yatamaA^s~a"
+      ]
+    },
+    {
+      "second_100_rank": 76,
+      "global_rank": 180,
+      "root_arabic": "غ-ي-ب",
+      "root_latin": "G-Y-B",
+      "buckwalter": "gyb",
+      "frequency": 60,
+      "unique_ayahs": 59,
+      "concept_label": "Analiz Bekliyor (gayob, guyuwb, gaA^}ibiyn)",
+      "is_locked": false,
+      "sample_ayah": "2:3",
+      "top_lemmas": [
+        "gayob",
+        "guyuwb",
+        "gaA^}ibiyn"
+      ]
+    },
+    {
+      "second_100_rank": 77,
+      "global_rank": 181,
+      "root_arabic": "ف-ت-ن",
+      "root_latin": "F-T-N",
+      "buckwalter": "ftn",
+      "frequency": 60,
+      "unique_ayahs": 58,
+      "concept_label": "Analiz Bekliyor (fitonap, fatanu, futuwn)",
+      "is_locked": false,
+      "sample_ayah": "2:102",
+      "top_lemmas": [
+        "fitonap",
+        "fatanu",
+        "futuwn"
+      ]
+    },
+    {
+      "second_100_rank": 78,
+      "global_rank": 182,
+      "root_arabic": "ف-ر-ي",
+      "root_latin": "F-R-Y",
+      "buckwalter": "fry",
+      "frequency": 60,
+      "unique_ayahs": 54,
+      "concept_label": "Analiz Bekliyor ({fotaraY`, {fotiraA^', mufotaruwn)",
+      "is_locked": false,
+      "sample_ayah": "3:24",
+      "top_lemmas": [
+        "{fotaraY`",
+        "{fotiraA^'",
+        "mufotaruwn"
+      ]
+    },
+    {
+      "second_100_rank": 79,
+      "global_rank": 183,
+      "root_arabic": "ز-ك-و",
+      "root_latin": "Z-K-W",
+      "buckwalter": "zkw",
+      "frequency": 59,
+      "unique_ayahs": 56,
+      "concept_label": "Analiz Bekliyor (zakaw`p, zak~aY`, tazak~aY`)",
+      "is_locked": false,
+      "sample_ayah": "2:43",
+      "top_lemmas": [
+        "zakaw`p",
+        "zak~aY`",
+        "tazak~aY`"
+      ]
+    },
+    {
+      "second_100_rank": 80,
+      "global_rank": 184,
+      "root_arabic": "ن-س-و",
+      "root_latin": "N-S-W",
+      "buckwalter": "nsw",
+      "frequency": 59,
+      "unique_ayahs": 53,
+      "concept_label": "Analiz Bekliyor (nisaA^')",
+      "is_locked": false,
+      "sample_ayah": "2:49",
+      "top_lemmas": [
+        "nisaA^'"
+      ]
+    },
+    {
+      "second_100_rank": 81,
+      "global_rank": 185,
+      "root_arabic": "ظ-ه-ر",
+      "root_latin": "Z-H-R",
+      "buckwalter": "Zhr",
+      "frequency": 59,
+      "unique_ayahs": 57,
+      "concept_label": "Analiz Bekliyor (Zahor, Zahara, Za`hir)",
+      "is_locked": false,
+      "sample_ayah": "2:85",
+      "top_lemmas": [
+        "Zahor",
+        "Zahara",
+        "Za`hir"
+      ]
+    },
+    {
+      "second_100_rank": 82,
+      "global_rank": 186,
+      "root_arabic": "ر-د-د",
+      "root_latin": "R-D-D",
+      "buckwalter": "rdd",
+      "frequency": 59,
+      "unique_ayahs": 57,
+      "concept_label": "Analiz Bekliyor (rad~a, {rotad~a, marad~)",
+      "is_locked": false,
+      "sample_ayah": "2:85",
+      "top_lemmas": [
+        "rad~a",
+        "{rotad~a",
+        "marad~"
+      ]
+    },
+    {
+      "second_100_rank": 83,
+      "global_rank": 187,
+      "root_arabic": "ض-ر-ب",
+      "root_latin": "D-R-B",
+      "buckwalter": "Drb",
+      "frequency": 58,
+      "unique_ayahs": 54,
+      "concept_label": "Analiz Bekliyor (Daraba, Darob)",
+      "is_locked": false,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        "Daraba",
+        "Darob"
+      ]
+    },
+    {
+      "second_100_rank": 84,
+      "global_rank": 188,
+      "root_arabic": "ع-د-د",
+      "root_latin": "A-D-D",
+      "buckwalter": "Edd",
+      "frequency": 57,
+      "unique_ayahs": 50,
+      "concept_label": "Analiz Bekliyor (>aEad~a, Eid~ap, Ead~a)",
+      "is_locked": false,
+      "sample_ayah": "2:24",
+      "top_lemmas": [
+        ">aEad~a",
+        "Eid~ap",
+        "Ead~a"
+      ]
+    },
+    {
+      "second_100_rank": 85,
+      "global_rank": 189,
+      "root_arabic": "ق-ر-ي",
+      "root_latin": "K-R-Y",
+      "buckwalter": "qry",
+      "frequency": 57,
+      "unique_ayahs": 54,
+      "concept_label": "Analiz Bekliyor (qaroyap)",
+      "is_locked": false,
+      "sample_ayah": "2:58",
+      "top_lemmas": [
+        "qaroyap"
+      ]
+    },
+    {
+      "second_100_rank": 86,
+      "global_rank": 190,
+      "root_arabic": "ر-و-ح",
+      "root_latin": "R-W-H",
+      "buckwalter": "rwH",
+      "frequency": 57,
+      "unique_ayahs": 52,
+      "concept_label": "Analiz Bekliyor (riyH, ruwH, r~awoH)",
+      "is_locked": false,
+      "sample_ayah": "2:87",
+      "top_lemmas": [
+        "riyH",
+        "ruwH",
+        "r~awoH"
+      ]
+    },
+    {
+      "second_100_rank": 87,
+      "global_rank": 191,
+      "root_arabic": "ذ-ه-ب",
+      "root_latin": "Z-H-B",
+      "buckwalter": "*hb",
+      "frequency": 56,
+      "unique_ayahs": 56,
+      "concept_label": "Analiz Bekliyor (*ahaba, >a*ohaba, *ahab)",
+      "is_locked": false,
+      "sample_ayah": "2:17",
+      "top_lemmas": [
+        "*ahaba",
+        ">a*ohaba",
+        "*ahab"
+      ]
+    },
+    {
+      "second_100_rank": 88,
+      "global_rank": 192,
+      "root_arabic": "ن-ه-ي",
+      "root_latin": "N-H-Y",
+      "buckwalter": "nhy",
+      "frequency": 56,
+      "unique_ayahs": 54,
+      "concept_label": "Analiz Bekliyor (nahaY`, {ntahaY`, muntahaY`)",
+      "is_locked": false,
+      "sample_ayah": "2:192",
+      "top_lemmas": [
+        "nahaY`",
+        "{ntahaY`",
+        "muntahaY`"
+      ]
+    },
+    {
+      "second_100_rank": 89,
+      "global_rank": 193,
+      "root_arabic": "أ-ج-ل",
+      "root_latin": "E-C-L",
+      "buckwalter": "Ajl",
+      "frequency": 56,
+      "unique_ayahs": 48,
+      "concept_label": "Analiz Bekliyor (>ajal, >aj~ala, m~u&aj~al)",
+      "is_locked": false,
+      "sample_ayah": "2:231",
+      "top_lemmas": [
+        ">ajal",
+        ">aj~ala",
+        "m~u&aj~al"
+      ]
+    },
+    {
+      "second_100_rank": 90,
+      "global_rank": 194,
+      "root_arabic": "د-و-ر",
+      "root_latin": "D-W-R",
+      "buckwalter": "dwr",
+      "frequency": 55,
+      "unique_ayahs": 53,
+      "concept_label": "Analiz Bekliyor (daAr, daA^}irap, tudiyru)",
+      "is_locked": false,
+      "sample_ayah": "2:84",
+      "top_lemmas": [
+        "daAr",
+        "daA^}irap",
+        "tudiyru"
+      ]
+    },
+    {
+      "second_100_rank": 91,
+      "global_rank": 195,
+      "root_arabic": "ف-س-ق",
+      "root_latin": "F-S-K",
+      "buckwalter": "fsq",
+      "frequency": 54,
+      "unique_ayahs": 54,
+      "concept_label": "Analiz Bekliyor (faAsiq, fasaqa, fusuwq)",
+      "is_locked": false,
+      "sample_ayah": "2:26",
+      "top_lemmas": [
+        "faAsiq",
+        "fasaqa",
+        "fusuwq"
+      ]
+    },
+    {
+      "second_100_rank": 92,
+      "global_rank": 196,
+      "root_arabic": "ن-د-و",
+      "root_latin": "N-D-W",
+      "buckwalter": "ndw",
+      "frequency": 53,
+      "unique_ayahs": 50,
+      "concept_label": "Analiz Bekliyor (naAdaY`, nidaA^', naAdiy)",
+      "is_locked": false,
+      "sample_ayah": "2:171",
+      "top_lemmas": [
+        "naAdaY`",
+        "nidaA^'",
+        "naAdiy"
+      ]
+    },
+    {
+      "second_100_rank": 93,
+      "global_rank": 197,
+      "root_arabic": "خ-ب-ر",
+      "root_latin": "H-B-R",
+      "buckwalter": "xbr",
+      "frequency": 52,
+      "unique_ayahs": 52,
+      "concept_label": "Analiz Bekliyor (xabiyr, >axobaAr, xubor)",
+      "is_locked": false,
+      "sample_ayah": "2:234",
+      "top_lemmas": [
+        "xabiyr",
+        ">axobaAr",
+        "xubor"
+      ]
+    },
+    {
+      "second_100_rank": 94,
+      "global_rank": 198,
+      "root_arabic": "ض-ع-ف",
+      "root_latin": "D-A-F",
+      "buckwalter": "DEf",
+      "frequency": 52,
+      "unique_ayahs": 45,
+      "concept_label": "Analiz Bekliyor (DiEof, yuDa`Eifu, DaEiyf)",
+      "is_locked": false,
+      "sample_ayah": "2:245",
+      "top_lemmas": [
+        "DiEof",
+        "yuDa`Eifu",
+        "DaEiyf"
+      ]
+    },
+    {
+      "second_100_rank": 95,
+      "global_rank": 199,
+      "root_arabic": "ت-ح-ت",
+      "root_latin": "T-H-T",
+      "buckwalter": "tHt",
+      "frequency": 51,
+      "unique_ayahs": 50,
+      "concept_label": "Analiz Bekliyor (taHot)",
+      "is_locked": false,
+      "sample_ayah": "2:25",
+      "top_lemmas": [
+        "taHot"
+      ]
+    },
+    {
+      "second_100_rank": 96,
+      "global_rank": 200,
+      "root_arabic": "ح-ل-ل",
+      "root_latin": "H-L-L",
+      "buckwalter": "Hll",
+      "frequency": 51,
+      "unique_ayahs": 43,
+      "concept_label": "Analiz Bekliyor (>aHal~a, Halalo, Hala`l)",
+      "is_locked": false,
+      "sample_ayah": "2:168",
+      "top_lemmas": [
+        ">aHal~a",
+        "Halalo",
+        "Hala`l"
+      ]
+    },
+    {
+      "second_100_rank": 97,
+      "global_rank": 201,
+      "root_arabic": "ف-س-د",
+      "root_latin": "F-S-D",
+      "buckwalter": "fsd",
+      "frequency": 50,
+      "unique_ayahs": 47,
+      "concept_label": "Analiz Bekliyor (mufosid, >afosadu, fasaAd)",
+      "is_locked": false,
+      "sample_ayah": "2:11",
+      "top_lemmas": [
+        "mufosid",
+        ">afosadu",
+        "fasaAd"
+      ]
+    },
+    {
+      "second_100_rank": 98,
+      "global_rank": 202,
+      "root_arabic": "ط-ي-ب",
+      "root_latin": "T-Y-B",
+      "buckwalter": "Tyb",
+      "frequency": 50,
+      "unique_ayahs": 46,
+      "concept_label": "Analiz Bekliyor (Tay~iba`t, Tay~ib, Tay~ibap)",
+      "is_locked": false,
+      "sample_ayah": "2:57",
+      "top_lemmas": [
+        "Tay~iba`t",
+        "Tay~ib",
+        "Tay~ibap"
+      ]
+    },
+    {
+      "second_100_rank": 99,
+      "global_rank": 203,
+      "root_arabic": "ن-ف-ع",
+      "root_latin": "N-F-A",
+      "buckwalter": "nfE",
+      "frequency": 50,
+      "unique_ayahs": 49,
+      "concept_label": "Analiz Bekliyor (nafaEa, nafoE, mana`fiE)",
+      "is_locked": false,
+      "sample_ayah": "2:102",
+      "top_lemmas": [
+        "nafaEa",
+        "nafoE",
+        "mana`fiE"
+      ]
+    },
+    {
+      "second_100_rank": 100,
+      "global_rank": 204,
+      "root_arabic": "ع-ق-ل",
+      "root_latin": "A-K-L",
+      "buckwalter": "Eql",
+      "frequency": 49,
+      "unique_ayahs": 49,
+      "concept_label": "Analiz Bekliyor (Eaqalu)",
+      "is_locked": false,
+      "sample_ayah": "2:44",
+      "top_lemmas": [
+        "Eaqalu"
+      ]
+    }
+  ]
+}

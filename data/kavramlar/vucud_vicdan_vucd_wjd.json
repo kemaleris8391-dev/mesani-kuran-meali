@@ -1,0 +1,2245 @@
+{
+  "root": "و-ج-د",
+  "root_latin": "W-C-D (wjd)",
+  "concept_name": "Vecd / Vücd / Bulmak (Deneyimsel Tespit ve Eldeki İmkân Genişliği)",
+  "rank": 106,
+  "total_occurrences": 107,
+  "unique_ayahs_count": 99,
+  "unified_core_mechanism": "Kökün `107` geçişlik tamamı İbn Fâris'in çekirdeğinde birleşir: 'Arayış, karşılaşma, gözlem veya sınama sonucunda bir şeyi, durumu, duyuyu ya da yeterlilik gücünü hazır halde bulup tespit etmek'. Kur'an'da kesinlikle sonradan üretilen felsefî 'yoktan var olma (vücûd)' anlamında kullanılmaz; tek isim formu olan `65:6`daki `وُجْد` bile 'elde mevcut maddî imkân genişliği'dir. Dört ana damarda çalışır: (1) Maddî nesne, su, binek, koku veya suç delilini bulma/bulamama (`4:43`, `9:92`, `12:75,94`, `65:6`). (2) Tarihte ataların mirasını bulma vs kendi eylemini ve Allah'ın değişmez yasasını hazır bulma (`3:30`, `5:104`, `18:49`, `35:43`). (3) Kişisel karakteri, sebatı veya dost/sığınak yokluğunu tespit etme (`4:145`, `18:69`, `38:44`, `59:9`). (4) İnsan için geçici sanıların dağılıp gerçeğin çıplak haliyle bulunması (`24:39`, `93:6-8`).",
+  "physical_core": "Arayarak, yolculukla, sınamayla veya doğrudan yüzleşmeyle somut bir nesneyi, kişiyi, duyuyu, içsel durumu, değişmez yasayı ya da eldeki maddî imkân genişliğini hazır halde bulmak / tespit edip erişmek (`ٱلْإِلْفَاءُ وَٱلْوُقُوعُ عَلَى ٱلشَّىْءِ وَٱلسَّعَةُ`). Sonradan felsefe ve kelâmda yerleşen soyut 'yoktan var olma (vücûd)' ya da tasavvufî 'ekstaz (vecd)' anlamları Kur'an'da hiç yer almaz; kök %100 deneyimsel karşılaşma, gözlem sonucu tespit ve eldeki maddî güç genişliğidir.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) kökün bütün kullanımlarını tek bir fiziksel çekirdekte birleştirir: *el-ilfâ'*, yani yitirilen ya da aranan bir şeye (`ٱلضَّالَّة`) doğrudan denk gelip onu yerinde hazır bulmak (`وَجَدْتُ ٱلضَّالَّةَ وِجْدَاناً`).",
+    "lisan_al_arab": "İbn Manzûr (*Lisânü'l-Arab*) `وَجَدَ - يَجِدُ` fiilinin 'aranan şeyi bulup elde etmek', `وُجْد / وِجْد / وَجْد` isimlerinin ise 'maddî yeterlilik, zenginlik ve güç genişliği (`ٱلْيَسَارُ وَٱلسَّعَةُ`)' anlamına geldiğini, `65:6`daki `مِن وُجْدِكُمْ` ifadesinin de bu somut güç genişliğini anlattığını vurgular.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökün beş duyudan (`12:94` Yûsuf'un kokusu), içsel duygulara (`4:65` sıkıntı hissetmeme, `59:9` gönülde çekememezlik hissetmeme) ve aklî-tecrübî tespîte (`4:82`, `24:39`) uzanan katmanlarını sistemleştirir; Allah'a nispet edildiğinde (`7:102`, `38:44`, `93:6-8`) ise duyusal organlardan bağımsız kuşatıcı tespit anlamını taşıdığını belirtir.",
+    "classical_lexicons": "Arap dil biliminin klasik tasniflerinde (`el-Halîl`, `İbn Fâris`, `el-İsfahânî`, `İbn Manzûr`) ortak payda 'imkâna/güce erişmek (`جِدَة / سَعَة`) ve bir şeye rastlayıp onu hazır halde tespit etmek (`وِجْدَان`)'tir.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `107` geçişin tamamında sonradan felsefeye giren ontolojik 'varlık/vücûd' (`أَوْجَدَ` Kur'an'da `0` kez geçer) veya tasavvufî 'vecd' anlamları temizlenir. Kökün bütün kullanımları 'arayış, gözlem veya yüzleşme sonucu somut olguyu, kişiyi, duyuyu, içsel tepkiyi, değişmez yasayı ya da eldeki maddî imkân genişliğini hazır halde bulmak' ekseninde tutulur."
+  },
+  "semitic_cognates": {
+    "akkadian": "Akadçada 'bulmak' kavramı farklı köklerle (`maḫāru`, `kâšu`, `amāru` vb.) ifade edilir; `*w-g-d` kökü Doğu Semitikte yer almaz.",
+    "aramaic_syriac": "Aramca ve Süryanicede 'bulmak' için bütünüyle ayrı olan `ש-כ-ח` (*š-k-ḥ* / *ʾaškaḥ*) kökü kullanılır; `و-ج-د` kökü Aramice mirasından geçmemiştir.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde 'bulmak' anlamı `מ-צ-א` (*m-ṣ-ʾ* — *māṣāʾ*) köküyle karşılanır; `و-ج-د` ile kökteş değildir. Eski Kuzey Arapçada (Safaî ve Dadanî yazıtları) ise doğrudan `w-g-d` (*wgd*) kökü özellikle `wgd ʾṯr` ('iz/yazıt buldu') kalıbıyla belgelenmiştir; Klasik Etiyopça Geez'de ise karşılık `r-k-b` (*rakaba*) köküdür.",
+    "phonological_note": "Karşılaştırmalı Sami dilbiliminde (Leslau / Militarev çerçevesi) 'bulmak' fiili her Sami dalında ayrışmış olup `و-ج-د` (`*w-g-d`) Merkezî ve Güney Arabistan Semitiğine (Arapça ve Eski Kuzey Arapça) özgü bir köktür. Proto-Sami ses denkliğine göre başlangıç `*w-` sesi İbranice ve Aramicede normalde `y-`'ye dönse de, bu kök o dallarda hiç yaşamadığından yapay kökteşlik kurulmaz."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-س-ب (`يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً ... لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ` `24:39` — Öznel Sanı/Serap vs Nesnel Gerçekliği Bulmak)",
+      "ض-ل-ل / ه-د-ي (`مَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا / وَلِيًّا مُّرْشِدًا` `4:88,143`, `17:97`, `18:17`; `وَوَجَدَكَ ضَآلًّا فَهَدَىٰ` `93:7` — Yitip Çaresiz Kalmak vs Yol/Rehber Bulamamak veya Onarılıp Yönlendirilmek)",
+      "ت-ب-د-ي-ل / ت-ح-و-ي-ل (`لَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا وَلَا تَحْوِيلًا` `17:77`, `33:62`, `35:43`, `48:23` — Keyfî Değişim İhtimali vs Değişmez İlâhî Yasanın Sabitliğini Bulmak)",
+      "ع-د-م / ف-م-ن ل-م ي-ج-د (`فَمَن لَّمْ يَجِدْ / فَلَمْ تَجِدُوا۟` `2:196`, `4:43,92`, `5:6,89`, `9:91-92`, `58:4,12` — İmkân ve Araç Bulamama vs Alternatif Çözüm Yükümlülüğü)"
+    ],
+    "key_ayahs": [
+      "3:30",
+      "4:64",
+      "4:82",
+      "5:82",
+      "5:104",
+      "7:44",
+      "7:102",
+      "9:92",
+      "18:49",
+      "18:86",
+      "24:39",
+      "28:23",
+      "35:43",
+      "65:6",
+      "93:6-8"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'و-ج-د deneyimsel karşılaşma sonucu bir şeyi yerinde hazır bulmak ise karşıtları nedir?' Cevap: (1) `حَسِبَ` (uzaktan serabı su sanma yanılgısı `24:39`, atalardan devraldığını yeterli sayma `5:104`). (2) `فَقْد / حَيْرَة` (su, binek, çıkış yolu, sığınak veya yardımcı bulamayıp eli boş kalmak `4:43,121`, `9:92`, `18:53,58`, `72:22`). (3) `ٱخْتِلَاف / تَبْدِيل / تَحْوِيل` (vahiyde çelişki ya da ilâhî işleyiş yasasında değişiklik bulunması ihtimali ki Kur'an ikisini de kökten reddeder `4:82`, `35:43`). Her iki yön de `و-ج-د` çekirdeğini doğrulamaktadır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "و-ج-د (`Gözlem veya karşılaşmayla bir kişi/topluluk tipini tespit etmek`) vs ث-ق-ف (`Çatışmada yakalayıp etkisiz kılarak ele geçirmek`) — `4:91`",
+      "و-ج-د (`Olay yerinde gerçeklikle yüzleşip nesnel olguyu bulmak`) vs ح-س-ب (`Dış görünüme bakarak zihinde tek taraflı sanmak`) — `24:39`, `5:104`",
+      "و-ج-د (`Arayış sonrası hazır hale erişmek`) vs ر-أ-ي (`Gözle veya zihinle müşahede etmek`) — `18:17,49,53`, `20:10`, `37:102`",
+      "و-ج-د (`Yeryüzünde yeni sığınak ve genişlik bulmak`) vs د-ر-ك (`Kaçınılmaz biçimde yetişip yakalamak`) — `4:100`, `4:145`",
+      "و-ج-د (`Eksiklik veya arayış halinde tespit edilmek`) vs ه-د-ي (`Doğru yöne yönlendirilmek`) — `93:7`, `18:17`",
+      "وُجْد (`Barındırmayı sağlayan maddî güç ve imkân genişliği`) vs س-ك-ن (`Fiziksel yerleşim ve ikamet mekânı`) — `65:6`"
+    ],
+    "mechanical_difference": "1) `24:39` serap sahnesinde susayan kişi suyu zihninde `يَحْسَبُهُ` (sanır), yanına varınca gerçeği `لَمْ يَجِدْهُ` (nesnel olarak bulamaz) ve onun yerinde hesabını eksiksiz ödeyen Allah'ı `وَوَجَدَ` (hazır bulur). 2) `4:91`de `سَتَجِدُونَ` iki yüzlü kesimleri toplumsal olarak fark edip tanımayı, devamındaki `ثَقِفْتُمُوهُمْ` ise çatışma anında fiilen yakalayıp etkisizleştirmeyi ayırır. 3) `65:6`da `مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ` ifadesi ikamet mekânı (`س-ك-ن`) ile bu barınmayı sağlayan maddî imkân genişliğini (`وُجْد`) birbirinden ayırır."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "24:39",
+      "role": "Sanı vs Gerçeklik Çapası (`يَحْسَبُهُ ... لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ`)",
+      "literal_meaning": "'Susayan kimse o serabı su sanır; nihayet yanına geldiğinde onu hiçbir şey olarak bulmaz, yanı başında doğrudan hesabını tastamam ödeyen Allah'ı bulur.'"
+    },
+    {
+      "ref": "65:6",
+      "role": "İsim Hapaxı ve Maddî İmkân Çapası (`أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ`)",
+      "literal_meaning": "'Onları kendi oturduğunuz yerden elinizdeki imkân ve güç genişliği (`وُجْدِكُمْ`) ölçüsünde barındırın' — kökün Kur'an'daki tek isim kullanımı."
+    },
+    {
+      "ref": "12:75 & 12:79 & 12:94",
+      "role": "Somut Nesne, Meçhul Fiil ve Koku Duyusu Çapası (`وُجِدَ فِى رَحْلِهِۦ` / `لَأَجِدُ رِيحَ يُوسُفَ`)",
+      "literal_meaning": "'Kimin yükünde bulunursa (`وُجِدَ` tek meçhul fiil `12:75`)', 'eşyamızı yanında bulduğumuz kimseden başkasını alıkoymayız (`12:79`)' ve 'ben elbette Yûsuf'un kokusunu duyumsuyorum (`12:94`).'"
+    },
+    {
+      "ref": "4:82 & 17:77 & 33:62 & 35:43 & 48:23",
+      "role": "Tutarlılık ve Değişmez Yasa Çapası (`لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا` / `وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا`)",
+      "literal_meaning": "'Allah katından olmasaydı onda pek çok çelişki bulurlardı (`4:82`)' ve 'Allah'ın işleyiş yasasında asla bir değişme veya yön değiştirme bulamazsın (`35:43`).'"
+    },
+    {
+      "ref": "5:104 & 7:28 & 10:78 & 21:53 & 26:74 & 31:21 & 43:22-24",
+      "role": "Kör Gelenek Sorgulaması Çapası (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`)",
+      "literal_meaning": "'Biz atalarımızı bu yol ve alışkanlık üzerinde bulduk' savunmasının akıl ve vahiy karşısında geçersizliğini `9` ayette yüzleştirir."
+    },
+    {
+      "ref": "93:6-8 & 38:44 & 18:69 & 28:27 & 37:102",
+      "role": "Bireysel Dönüşüm ve Sebat Çapası (`وَوَجَدَكَ` / `سَتَجِدُنِىٓ` / `إِنَّا وَجَدْنَٰهُ صَابِرًا`)",
+      "literal_meaning": "'Seni yetim, yolunu arar ve yoksul bulup onarmadı mı (`93:6-8`)', 'biz onu gerçekten sebatkâr ve dirençli bulduk (`38:44`)' ve 'Allah dilerse beni sebat edenlerden / dürüst kimselerden bulacaksın (`18:69`, `28:27`, `37:102`).'"
+    },
+    {
+      "ref": "2:110 & 3:30 & 18:49 & 73:20",
+      "role": "Eylemlerin Hazır Karşılığı Çapası (`تَجِدُوهُ عِندَ ٱللَّهِ` / `وَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًا`)",
+      "literal_meaning": "'Kendiniz için önden gönderdiğiniz her iyiliği Allah katında daha üstün ve büyük bir hak ediş olarak bulacaksınız' ve 'her benlik yaptığını orada hazır bulur.'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) `106` fiil geçişinin %100'ü I. bab (`وَجَدَ - يَجِدُ`) misâl-i vâvî çekimindedir; muzâri, meczûm ve mansûb formlarda ilk kök harfi `و` düzenli olarak düşer (`يَجِدُ / تَجِدُ / أَجِدُ / نَجِدُ`). 2) `1` tane mâzî meçhul (`12:75` `وُجِدَ`) ve `1` tane tekil isim (`65:6` `وُجْدِكُمْ`) hapax olarak yer alır; II, IV, V, VIII, X. bablar ve 'mevcûd/vücûd' türevleri sıfırdır. 3) `8` ayette iki kez geçerek (`5:82`, `7:44`, `7:102`, `9:92`, `18:86`, `24:39`, `28:23`, `35:43`) bir ayet içi karşıtlık ya da çift gözlem sahnesi kurar. 4) Şart/olumsuzluk kalıplarında (`فَمَن لَّمْ يَجِدْ` `2:196`, `4:92`, `5:89`, `58:4`; `فَلَمْ تَجِدُوا۟` `4:43`, `5:6`) yokluk halinde alternatif hukukî çözüme geçiş köprüsü işlevi görür.",
+  "derivatives": {
+    "وَجَدَ - يَجِدُ (`105 V` I. bab aktif)": "Yüzleşip bulmak, duymak/duyumsamak (`12:94`), tespit etmek (`18:86`, `38:44`), imkân veya yardımcı bulmak/bulamamak (`4:43`, `9:92`, `17:86`) ve değişmez yasayı görmek (`35:43`)",
+    "وُجِدَ (`1 V` I. bab meçhul mâzî `12:75`)": "Arama ve inceleme sonucunda kimin yükünün içinde somut olarak bulunursa",
+    "وُجْد (`1 N` tekil mecrûr `65:6`)": "Barındırma yükümlülüğünün dayandığı eldeki maddî güç ve imkân genişliği (`مِن وُجْدِكُمْ`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 96,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:96",
+      "word_position": 1,
+      "target_word_uthmani": "وَلَتَجِدَنَّهُمْ",
+      "target_word_rasm": "ولتجدنهم",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, onların hayata diğer insanlardan ve hatta Allah'a eş koşanlardan da daha düşkün olduklarını görürsün. Her biri ömrünün bin yıl olmasını ister. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, onların hayata diğer insanlardan ve hatta Allah'a eş koşanlardan da daha düşkün olduklarını görürsün. Her biri ömrünün bin yıl olmasını ister. Oysa uzun ömürlü olması onu azabdan uzaklaştırmaz. Allah onların yaptıklarını görür.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 2,
+      "ayah": 110,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:110",
+      "word_position": 10,
+      "target_word_uthmani": "تَجِدُوهُ",
+      "target_word_rasm": "تجدوه",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, kendiniz için önden gönderdiğiniz her hayrı Allah katında bulacaksınız. Allah yaptıklarınızı şüphesiz görür.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, kendiniz için önden gönderdiğiniz her hayrı Allah katında bulacaksınız. Allah yaptıklarınızı şüphesiz görür.",
+      "contextual_meaning": "Eylemin hazır bulunması (`تَجِدُوهُ عِندَ ٱللَّهِ`, `مُحْضَرًا / حَاضِرًا`): Yapılan her iyi ya da kötü işin sonuç anında insanın önünde somutlaşmış olarak bulunması."
+    },
+    {
+      "surah": 2,
+      "ayah": 196,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:196",
+      "word_position": 47,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ",
+      "context_snippet_turkish_tabula_rasa": "... İçinizde hasta olan veya başından rahatsız bulunan varsa fidye olarak ya öz denetim ve sakınma tutması, ya sadaka vermesi ya da yakınlaşma sunusu kesmesi gerekir. Güven içinde olursanız, büyük yöneliş toplanmasına kadar umreden faydalanabilen kimseye kolayına gelen bir yakınlaşma sunusu kesmek, bulamayana, büyük yöneliş toplanması esnasında üç gün ve döndüğünüzde yedi gün, ki o tam on gündür öz denetim ve sakınma tutmak gerekir. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Başladığınız büyük yöneliş toplanması ve umreyi Allah için tamamlayın. Alıkonursanız, kolayınıza gelen bir yakınlaşma sunusu gönderin. yakınlaşma sunusu, yerine ulaşıncaya kadar, başlarınızı tıraş etmeyin. İçinizde hasta olan veya başından rahatsız bulunan varsa fidye olarak ya öz denetim ve sakınma tutması, ya sadaka vermesi ya da yakınlaşma sunusu kesmesi gerekir. Güven içinde olursanız, büyük yöneliş toplanmasına kadar umreden faydalanabilen kimseye kolayına gelen bir yakınlaşma sunusu kesmek, bulamayana, büyük yöneliş toplanması esnasında üç gün ve döndüğünüzde yedi gün, ki o tam on gündür öz denetim ve sakınma tutmak gerekir. Bu, ailesi dokunulmaz teslimiyet odağı'da oturmayan kimseler içindir. Allah'tan sakının ve Allah'ın cezasının şiddetli olacağını bilin.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 283,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:283",
+      "word_position": 6,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَٰنٌ مَّقْبُوضَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Eğer yolculukta olup katip bulamazsanız alınan rehin yeter. Şayet birbirinize güvenirseniz, güvenilen kimse borcunu ödesin. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَٰنٌ مَّقْبُوضَةٌ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا تَكْتُمُوا۟ ٱلشَّهَٰدَةَ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer yolculukta olup katip bulamazsanız alınan rehin yeter. Şayet birbirinize güvenirseniz, güvenilen kimse borcunu ödesin. Rabbi olan Allah'tan sakınsın. Şahidliği gizlemeyin, onu kim gizlerse şüphesiz kalbi sapma ve ağır kusur işlemiş olur. Allah işlediklerinizi bilir.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 30,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:30",
+      "word_position": 2,
+      "target_word_uthmani": "تَجِدُ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Her benlik yaptığını hazır bulacaktır (`تَجِدُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا",
+      "context_snippet_turkish_tabula_rasa": "Her kişinin yaptığı iyiliği ve yaptığı kötülüğü, ki kendisiyle o kötülük arasında uzun bir mesafe olmasını diler, hazır bulacağı günü bir düşünün. Kullarına karşı şefkatli olan Allah size kendinden korkmanızı emreder.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3FS"
+      },
+      "ayah_text_arabic_full": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "Her kişinin yaptığı iyiliği ve yaptığı kötülüğü, ki kendisiyle o kötülük arasında uzun bir mesafe olmasını diler, hazır bulacağı günü bir düşünün. Kullarına karşı şefkatli olan Allah size kendinden korkmanızı emreder.",
+      "contextual_meaning": "Eylemin hazır bulunması (`تَجِدُوهُ عِندَ ٱللَّهِ`, `مُحْضَرًا / حَاضِرًا`): Yapılan her iyi ya da kötü işin sonuç anında insanın önünde somutlaşmış olarak bulunması."
+    },
+    {
+      "surah": 3,
+      "ayah": 37,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:37",
+      "word_position": 15,
+      "target_word_uthmani": "وَجَدَ",
+      "target_word_rasm": "وجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbi onu güzel bir kabulle karşıladı, güzel bir bitki gibi yetiştirdi; onu Zekeriya'nın himayesine bıraktı. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi onu güzel bir kabulle karşıladı, güzel bir bitki gibi yetiştirdi; onu Zekeriya'nın himayesine bıraktı. Zekeriya mabedde onun yanına her girişinde, yanında bir yiyecek bulurdu. \"Ey Meryem! Bu sana nereden geldi?\" demiş, o da: Bu, Allah'ın katındandır\" cevabını vermişti. Doğrusu Allah dilediğini hesapsız rızıklandırır.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 43,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:43",
+      "word_position": 36,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا",
+      "context_snippet_turkish_tabula_rasa": "... Eğer hasta veya yolculukta iseniz yahut biriniz ayak yolundan gelmişseniz veya kadınlara yaklaşmışsanız ve bu durumlarda su bulamamışsanız tertemiz bir toprağa teyemmüm edin, yüzlerinize ve ellerinize sürün. Allah affeder ve bağışlar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sarhoşken, ne dediğinizi bilene kadar, cünübken, yolcu olan müstesna gusledene kadar irtibat bağına yaklaşmayın. Eğer hasta veya yolculukta iseniz yahut biriniz ayak yolundan gelmişseniz veya kadınlara yaklaşmışsanız ve bu durumlarda su bulamamışsanız tertemiz bir toprağa teyemmüm edin, yüzlerinize ve ellerinize sürün. Allah affeder ve bağışlar.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 52,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:52",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "İşte, Allah'ın lanetledikleri onlardır. Allah'ın lanetlediği kişiye asla yardımcı bulamayacaksın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ وَمَن يَلْعَنِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte, Allah'ın lanetledikleri onlardır. Allah'ın lanetlediği kişiye asla yardımcı bulamayacaksın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 64,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:64",
+      "word_position": 20,
+      "target_word_uthmani": "لَوَجَدُوا۟",
+      "target_word_rasm": "لوجدوا",
+      "target_word_literal_irab": "Elbette bulurlardı / hazır buldular (`لَوَجَدُوا۟ / وَجَدُوا۟ / وَوَجَدُوا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًا رَّحِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, kendilerine yazık ettiklerinde, sana gelip Allah'tan mağfiret dileseler ve elçi de onlara mağfiret dileseydi, Allah'ın tevbeleri daima kabul ve merhamet eden olduğunu görürlerdi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz her elçiyi ancak, Allah'ın izniyle, itaat olunması için gönderdik. Onlar, kendilerine yazık ettiklerinde, sana gelip Allah'tan mağfiret dileseler ve elçi de onlara mağfiret dileseydi, Allah'ın tevbeleri daima kabul ve merhamet eden olduğunu görürlerdi.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 65,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:65",
+      "word_position": 12,
+      "target_word_uthmani": "يَجِدُوا۟",
+      "target_word_rasm": "يجدوا",
+      "target_word_literal_irab": "Bulamazlar / sertlik bulsunlar (`يَجِدُوا۟ / وَلْيَجِدُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا",
+      "context_snippet_turkish_tabula_rasa": "... Rabb'ine and olsun ki, aralarında çekiştikleri şeylerde seni hakem tayin edip, sonra senin verdiğin hükmü içlerinde bir sıkıntı duymadan tamamen kabul etmedikçe güvene ermiş olmazlar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; Rabb'ine and olsun ki, aralarında çekiştikleri şeylerde seni hakem tayin edip, sonra senin verdiğin hükmü içlerinde bir sıkıntı duymadan tamamen kabul etmedikçe güvene ermiş olmazlar.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 82,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:82",
+      "word_position": 10,
+      "target_word_uthmani": "لَوَجَدُوا۟",
+      "target_word_rasm": "لوجدوا",
+      "target_word_literal_irab": "Elbette bulurlardı / hazır buldular (`لَوَجَدُوا۟ / وَجَدُوا۟ / وَوَجَدُوا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı durup düşünmüyorlar mı? Eğer o Allah'tan başkasından gelseydi, onda çok aykırılıklar bulurlardı.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَٰفًا كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı durup düşünmüyorlar mı? Eğer o Allah'tan başkasından gelseydi, onda çok aykırılıklar bulurlardı.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 88,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:88",
+      "word_position": 20,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın saptırdığını siz mi yola getirmek istiyorsunuz? Allah'ın saptırdığı kimseye sen hiç yol bulamayacaksın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَمَا لَكُمْ فِى ٱلْمُنَٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey müslümanlar! iki çıkışlı kaypaklar hakkında iki fırka olmanız da niye? Allah onları, yaptıklarından dolayı başaşağı etmiştir. Allah'ın saptırdığını siz mi yola getirmek istiyorsunuz? Allah'ın saptırdığı kimseye sen hiç yol bulamayacaksın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 89,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:89",
+      "word_position": 22,
+      "target_word_uthmani": "وَجَدتُّمُوهُمْ",
+      "target_word_rasm": "وجدتموهم",
+      "target_word_literal_irab": "Buldunuz / onları nerede bulursanız (`وَجَدتُّم / وَجَدتُّمُوهُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ وَلَا تَتَّخِذُوا۟ مِنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolunda hicret etmedikçe onlardan dost edinmeyin. Eğer yüz çevirirlerse onları tutun, bulduğunuz yerde öldürün. Onlardan dost ve yardımcı edinmeyin.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَدُّوا۟ لَوْ تَكْفُرُونَ كَمَا كَفَرُوا۟ فَتَكُونُونَ سَوَآءً فَلَا تَتَّخِذُوا۟ مِنْهُمْ أَوْلِيَآءَ حَتَّىٰ يُهَاجِرُوا۟ فِى سَبِيلِ ٱللَّهِ فَإِن تَوَلَّوْا۟ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ وَجَدتُّمُوهُمْ وَلَا تَتَّخِذُوا۟ مِنْهُمْ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendileri gerçeğin üzerini ört gibi, keşki siz de gerçeğin üzerini ört de eşit olsanız isterler. Allah yolunda hicret etmedikçe onlardan dost edinmeyin. Eğer yüz çevirirlerse onları tutun, bulduğunuz yerde öldürün. Onlardan dost ve yardımcı edinmeyin.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 91,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:91",
+      "word_position": 1,
+      "target_word_uthmani": "سَتَجِدُونَ",
+      "target_word_rasm": "ستجدون",
+      "target_word_literal_irab": "Yakında başkalarını da bulacaksınız (`سَتَجِدُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن",
+      "context_snippet_turkish_tabula_rasa": "Diğerlerinin de sizden ve kendi milletlerinden güvende olmayı istediklerini göreceksiniz. Ne var ki fitneciliğe her çağırıldıklarında ona can atarlar; ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP"
+      },
+      "ayah_text_arabic_full": "سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأُو۟لَٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَٰنًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Diğerlerinin de sizden ve kendi milletlerinden güvende olmayı istediklerini göreceksiniz. Ne var ki fitneciliğe her çağırıldıklarında ona can atarlar; eğer sizden uzak durmazlar, barış teklif etmezler ve sizden el çekmezlerse onları yakalayın, bulduğunuz yerde öldürün. İşte onların aleyhlerine size apaçık ferman verdik.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 92,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:92",
+      "word_position": 50,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مُّؤْمِنَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "... Bulamayana, Allah tarafından tevbesinin kabulü için, ard arda iki ay öz denetim ve sakınma tutmak gerekir. Allah bilendir. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir güvene erenin diğer güvene ereni yanlışlık dışında öldürmesi asla caiz değildir. Bir güvene ereni yanlışlıkla öldürenin, bir güvene eren köleyi azad etmesi ve öldürülenin ailesi bağışlamadıkça, ona diyet ödemesi gerekir. Eğer o güvene eren, size düşman bir topluluktan ise güvene eren bir köleyi azad etmek gerekir. Şayet aranızda anlaşma olan bir millettense, ailesine diyet ödemek ve güvene eren bir köleyi azat etmek gerekir. Bulamayana, Allah tarafından tevbesinin kabulü için, ard arda iki ay öz denetim ve sakınma tutmak gerekir. Allah bilendir. Hakim'dir.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 100,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:100",
+      "word_position": 6,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا",
+      "context_snippet_turkish_tabula_rasa": "Allah yolunda hicret eden kişi, yeryüzünde çok bereketli yer ve genişlik bulur. Evinden, Allah'a ve elçisine hicret ederek çıkan kimseye ölüm gelirse, onun ecrini vermek Allah'a düşer. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda hicret eden kişi, yeryüzünde çok bereketli yer ve genişlik bulur. Evinden, Allah'a ve elçisine hicret ederek çıkan kimseye ölüm gelirse, onun ecrini vermek Allah'a düşer. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 110,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:110",
+      "word_position": 10,
+      "target_word_uthmani": "يَجِدِ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Kim kötülük işler veya kendine yazık eder de sonra Allah'tan bağışlanma dilerse, Allah'ı mağfiret ve merhamet sahibi olarak bulur.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim kötülük işler veya kendine yazık eder de sonra Allah'tan bağışlanma dilerse, Allah'ı mağfiret ve merhamet sahibi olarak bulur.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 121,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:121",
+      "word_position": 5,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "مَأْوَىٰهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًا",
+      "context_snippet_turkish_tabula_rasa": "İşte onların varacağı yer yakıcı yıkım yurdudur. Oradan kaçacak yer de bulamıyacaklardır.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ مَأْوَىٰهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَحِيصًا",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onların varacağı yer yakıcı yıkım yurdudur. Oradan kaçacak yer de bulamıyacaklardır.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 123,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:123",
+      "word_position": 13,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ",
+      "context_snippet_turkish_tabula_rasa": "Bu, sizin kuruntularınıza ve Kitap ehlinin kuruntularına göre değildir. Kim fenalık yaparsa cezasını görür, kendisine Allah'tan başka ne dost ve ne de yardımcı bulur.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ بِأَمَانِيِّكُمْ وَلَآ أَمَانِىِّ أَهْلِ ٱلْكِتَٰبِ مَن يَعْمَلْ سُوٓءًا يُجْزَ بِهِۦ وَلَا يَجِدْ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, sizin kuruntularınıza ve Kitap ehlinin kuruntularına göre değildir. Kim fenalık yaparsa cezasını görür, kendisine Allah'tan başka ne dost ve ne de yardımcı bulur.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 143,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:143",
+      "word_position": 14,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar irtibat bağına tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu iki çıkışlı kaypaklar Allah'ı aldatmağa çalışırlar, oysa O, onlara aldatmanın ne olduğunu gösterecektir. Onlar irtibat bağına tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 145,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:145",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu iki çıkışlı kaypaklar yakıcı yıkım yurdunun en alt tabakasındadırlar. Onlara yardımcı bulamayacaksın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُنَٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu iki çıkışlı kaypaklar yakıcı yıkım yurdunun en alt tabakasındadırlar. Onlara yardımcı bulamayacaksın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 4,
+      "ayah": 173,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:173",
+      "word_position": 19,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ",
+      "context_snippet_turkish_tabula_rasa": "... Kulluk etmekten çekinenleri ve büyüklük taslayanları elem verici bir azaba uğratacaktır. Onlar kendilerine Allah'tan başka bir dost ve yardımcı bulamazlar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ وَيَزِيدُهُم مِّن فَضْلِهِۦ وَأَمَّا ٱلَّذِينَ ٱسْتَنكَفُوا۟ وَٱسْتَكْبَرُوا۟ فَيُعَذِّبُهُمْ عَذَابًا أَلِيمًا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere ve yararlı iş işleyenlere, ecirlerini ödeyecek, onlara olan bol nimetini daha da artıracaktır. Kulluk etmekten çekinenleri ve büyüklük taslayanları elem verici bir azaba uğratacaktır. Onlar kendilerine Allah'tan başka bir dost ve yardımcı bulamazlar.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 38,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا",
+      "context_snippet_turkish_tabula_rasa": "... şayet hasta veya yolculukta iseniz veya ayak yolundan gelmişseniz yahut kadınlara yaklaşmışsanız ve su bulamamışsanız temiz bir toprağa teyemmüm edin, yüzlerinizi, ellerinizi onunla meshedin. Allah sizi zorlamak istemez, Allah sizi arıtıp üzerinize olan nimetini tamamlamak ister ki nimetin değerini bilip açığa vurasınız.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! irtibat bağına kalktığınızda yüzlerinizi, dirseklere kadar ellerinizi, -başlarınızı meshedip- topuk kemiklerine kadar ayaklarınızı yıkayın. Eğer cünüpseniz yıkanıp temizlenin; şayet hasta veya yolculukta iseniz veya ayak yolundan gelmişseniz yahut kadınlara yaklaşmışsanız ve su bulamamışsanız temiz bir toprağa teyemmüm edin, yüzlerinizi, ellerinizi onunla meshedin. Allah sizi zorlamak istemez, Allah sizi arıtıp üzerinize olan nimetini tamamlamak ister ki nimetin değerini bilip açığa vurasınız.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 82,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:82",
+      "word_position": 1,
+      "target_word_uthmani": "لَتَجِدَنَّ",
+      "target_word_rasm": "لتجدن",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere en şiddetli düşman olarak, insanlardan yahudileri ve Allah'a eş koşanları bulursun. Onlardan, güvene erenlere sevgice en yakın \"Biz hıristiyanız\" diyenleri bulursun. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere en şiddetli düşman olarak, insanlardan yahudileri ve Allah'a eş koşanları bulursun. Onlardan, güvene erenlere sevgice en yakın \"Biz hıristiyanız\" diyenleri bulursun. Bu, onların içinde bilginler ve rahibler bulunmasından ve büyüklük taslamamalarındandır.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 5,
+      "ayah": 82,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:82",
+      "word_position": 10,
+      "target_word_uthmani": "وَلَتَجِدَنَّ",
+      "target_word_rasm": "ولتجدن",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlere en şiddetli düşman olarak, insanlardan yahudileri ve Allah'a eş koşanları bulursun. Onlardan, güvene erenlere sevgice en yakın \"Biz hıristiyanız\" diyenleri bulursun. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةً لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةً لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlere en şiddetli düşman olarak, insanlardan yahudileri ve Allah'a eş koşanları bulursun. Onlardan, güvene erenlere sevgice en yakın \"Biz hıristiyanız\" diyenleri bulursun. Bu, onların içinde bilginler ve rahibler bulunmasından ve büyüklük taslamamalarındandır.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 5,
+      "ayah": 89,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:89",
+      "word_position": 28,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ",
+      "context_snippet_turkish_tabula_rasa": "... bağlayıcı ahdin keffareti, ailenize yedirdiğinizin ortalamasından on düşkünü yedirmek yahut giydirmek ya da bir köle azad etmektir. Bulamayan üç gün öz denetim ve sakınma tutmalıdır; bağlayıcı ahitlerinizin keffareti budur. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size rasgele bağlayıcı ahitlerinizden dolayı değil, bile bile ettiğiniz bağlayıcı ahitlerden ötürü hesap sorar. bağlayıcı ahdin keffareti, ailenize yedirdiğinizin ortalamasından on düşkünü yedirmek yahut giydirmek ya da bir köle azad etmektir. Bulamayan üç gün öz denetim ve sakınma tutmalıdır; bağlayıcı ahitlerinizin keffareti budur. bağlayıcı ahit ettiğinizde bağlayıcı ahitlerinizi tutun. nimetin değerini bilip açığa vurasınız diye Allah size böylece ayetlerini açıklıyor.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 104,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:104",
+      "word_position": 14,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, \"Gelin Allah'ın indirdiği Kitap'a ve elçiye uyun\" dendiğinde, \"Atalarımızı üzerinde bulduğumuz yol bize yeter\" derler; ya ataları bir şey bilmeyen ve doğru yolda olmayan kimseler idiyseler?",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 6,
+      "ayah": 145,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:145",
+      "word_position": 3,
+      "target_word_uthmani": "أَجِدُ",
+      "target_word_rasm": "أجد",
+      "target_word_literal_irab": "Buluyorum / bulamam / elbette bulurum (`أَجِدُ / لَأَجِدُ / لَأَجِدَنَّ`, I. bab muzâri 1. tekil)",
+      "context_snippet_arabic": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bana vahyolunanda, leş, akıtılmış kan, domuz eti ki pistir ve sapma ve ağır kusur işlenerek Allah'tan başkası adına kesilen hayvandan başkasını yemenin haram olduğuna dair bir emir bulamıyorum; fakat darda kalan, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere bunlardan da yiyebilir. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Bana vahyolunanda, leş, akıtılmış kan, domuz eti ki pistir ve sapma ve ağır kusur işlenerek Allah'tan başkası adına kesilen hayvandan başkasını yemenin haram olduğuna dair bir emir bulamıyorum; fakat darda kalan, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere bunlardan da yiyebilir.\" Doğrusu Rabbin bağışlar ve merhamet eder.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 7,
+      "ayah": 17,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:17",
+      "word_position": 13,
+      "target_word_uthmani": "تَجِدُ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "وَعَن شَمَآئِلِهِمْ وَلَا تَجِدُ أَكْثَرَهُمْ شَٰكِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... sonra önlerinden, ardlarından, sağ ve sollarından onlara sokulacağım; çoğunu Sana nimetin değerini bilip açığa vurur bulamayacaksın\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ لَءَاتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَٰنِهِمْ وَعَن شَمَآئِلِهِمْ وَلَا تَجِدُ أَكْثَرَهُمْ شَٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Beni azdırdığın için, and olsun ki, Senin doğru yolun üzerinde onlara karşı duracağım; sonra önlerinden, ardlarından, sağ ve sollarından onlara sokulacağım; çoğunu Sana nimetin değerini bilip açığa vurur bulamayacaksın\" dedi.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 7,
+      "ayah": 28,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:28",
+      "word_position": 5,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَعَلُوا۟ فَٰحِشَةً قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Onlar bir fenalık yaptıkları zaman, \"Babalarımızı bu yolda bulduk, Allah da bize bunu emretti\" derler. De ki: ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا فَعَلُوا۟ فَٰحِشَةً قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar bir fenalık yaptıkları zaman, \"Babalarımızı bu yolda bulduk, Allah da bize bunu emretti\" derler. De ki: \"Allah fenalığı emretmez. Bilmediğiniz şeyi Allah'a karşı mı söylüyorsunuz?\"",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 7,
+      "ayah": 44,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:44",
+      "word_position": 8,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوا۟ نَعَمْ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline: \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 7,
+      "ayah": 44,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:44",
+      "word_position": 14,
+      "target_word_uthmani": "وَجَدتُّم",
+      "target_word_rasm": "وجدتم",
+      "target_word_literal_irab": "Buldunuz / onları nerede bulursanız (`وَجَدتُّم / وَجَدتُّمُوهُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|2MP"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوا۟ نَعَمْ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline: \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 7,
+      "ayah": 102,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:102",
+      "word_position": 2,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğunda ahde bağlılık görmedik, çoğunu fasık kimseler olarak bulduk.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğunda ahde bağlılık görmedik, çoğunu fasık kimseler olarak bulduk.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 7,
+      "ayah": 102,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:102",
+      "word_position": 7,
+      "target_word_uthmani": "وَجَدْنَآ",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "مِّنْ عَهْدٍ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَٰسِقِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğunda ahde bağlılık görmedik, çoğunu fasık kimseler olarak bulduk.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğunda ahde bağlılık görmedik, çoğunu fasık kimseler olarak bulduk.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 7,
+      "ayah": 157,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:157",
+      "word_position": 7,
+      "target_word_uthmani": "يَجِدُونَهُۥ",
+      "target_word_rasm": "يجدونه",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى",
+      "context_snippet_turkish_tabula_rasa": "... bunu Allah'a karşı gelmekten sakınanlara, arınma ve gelişme payı verenlere, ayetlerimize güvene erip, yanlarındaki Tevrat ve İncil'de yazılı buldukları, okuyup yazması olmayan elçiye uyanlara yazacağız. O elçi, onlara, uygun olanı emreder ve fenalıktan meneder, temiz şeyleri helal, murdar şeyleri haram kılar, onların ağır yüklerini indirir, zor tekliflerini hafifletir. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu dünyada ve ahirette bizim için güzel olanı yaz; biz Sana yöneldik\" dedi. Allah: \"Azabıma dilediğim kimseyi uğratırım, rahmetim herşeyi kaplamıştır; bunu Allah'a karşı gelmekten sakınanlara, arınma ve gelişme payı verenlere, ayetlerimize güvene erip, yanlarındaki Tevrat ve İncil'de yazılı buldukları, okuyup yazması olmayan elçiye uyanlara yazacağız. O elçi, onlara, uygun olanı emreder ve fenalıktan meneder, temiz şeyleri helal, murdar şeyleri haram kılar, onların ağır yüklerini indirir, zor tekliflerini hafifletir. Bu elçiye güvene eren, hürmet eden, yardım eden, onunla gönderilen nura uyanlar yok mu? İşte onlar saadete erenlerdir\" dedi.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 9,
+      "ayah": 5,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:5",
+      "word_position": 8,
+      "target_word_uthmani": "وَجَدتُّمُوهُمْ",
+      "target_word_rasm": "وجدتموهم",
+      "target_word_literal_irab": "Buldunuz / onları nerede bulursanız (`وَجَدتُّم / وَجَدتُّمُوهُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hürmetli aylar çıkınca, puta tapanları bulduğunuz yerde öldürün; onları yakalayıp hapsedin; ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|2MP"
+      },
+      "ayah_text_arabic_full": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli aylar çıkınca, puta tapanları bulduğunuz yerde öldürün; onları yakalayıp hapsedin; her gözetleme yerinde onları bekleyin. Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse yollarını serbest bırakın. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 9,
+      "ayah": 57,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:57",
+      "word_position": 2,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَٰرَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Bir sığınak veya mağara yahut girecek bir yer bulmuş olsalardı, çarçabuk oraya yönelirlerdi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir sığınak veya mağara yahut girecek bir yer bulmuş olsalardı, çarçabuk oraya yönelirlerdi.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 9,
+      "ayah": 79,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:79",
+      "word_position": 10,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلصَّدَقَٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sadaka vermekte gönülden davranan güvene erenlere dil uzatan ve ancak ellerinden geldiği kadar verebilenlerle alay eden kimselere bu davranışlarının cezasını Al...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadaka vermekte gönülden davranan güvene erenlere dil uzatan ve ancak ellerinden geldiği kadar verebilenlerle alay eden kimselere bu davranışlarının cezasını Allah verir; onlara can yakıcı azab vardır.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 9,
+      "ayah": 91,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:91",
+      "word_position": 11,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ",
+      "context_snippet_turkish_tabula_rasa": "Güçsüzlere, hastalara ve dolaşıma sokup paylaşacak bir şeyi bulunmayanlara, Allah ve elçisine bağlı kaldıkları müddetçe sorumluluk yoktur. İyi davrananlara sorumluluk olmaz. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Güçsüzlere, hastalara ve dolaşıma sokup paylaşacak bir şeyi bulunmayanlara, Allah ve elçisine bağlı kaldıkları müddetçe sorumluluk yoktur. İyi davrananlara sorumluluk olmaz. Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 92,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:92",
+      "word_position": 10,
+      "target_word_uthmani": "أَجِدُ",
+      "target_word_rasm": "أجد",
+      "target_word_literal_irab": "Buluyorum / bulamam / elbette bulurum (`أَجِدُ / لَأَجِدُ / لَأَجِدَنَّ`, I. bab muzâri 1. tekil)",
+      "context_snippet_arabic": "لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Binek vermen için sana geldiklerinde, \"Size binek bulamıyorum\" dediğin zaman, dolaşıma sokup paylaşacak bir şey bulamadıkları için üzüntüden gözyaşı dökerek geri dönenlere de sorumluluk yoktur.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Binek vermen için sana geldiklerinde, \"Size binek bulamıyorum\" dediğin zaman, dolaşıma sokup paylaşacak bir şey bulamadıkları için üzüntüden gözyaşı dökerek geri dönenlere de sorumluluk yoktur.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 92,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:92",
+      "word_position": 21,
+      "target_word_uthmani": "يَجِدُوا۟",
+      "target_word_rasm": "يجدوا",
+      "target_word_literal_irab": "Bulamadıkları için / sığınak bulamazlar (`يَجِدُوا۟`, I. bab mansûb muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Binek vermen için sana geldiklerinde, \"Size binek bulamıyorum\" dediğin zaman, dolaşıma sokup paylaşacak bir şey bulamadıkları için üzüntüden gözyaşı dökerek geri dönenlere de sorumluluk yoktur.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Binek vermen için sana geldiklerinde, \"Size binek bulamıyorum\" dediğin zaman, dolaşıma sokup paylaşacak bir şey bulamadıkları için üzüntüden gözyaşı dökerek geri dönenlere de sorumluluk yoktur.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 9,
+      "ayah": 123,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:123",
+      "word_position": 9,
+      "target_word_uthmani": "وَلْيَجِدُوا۟",
+      "target_word_rasm": "وليجدوا",
+      "target_word_literal_irab": "Bulamazlar / sertlik bulsunlar (`يَجِدُوا۟ / وَلْيَجِدُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةً وَٱعْلَمُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yakınınızda bulunan gerçeğin üzerini örtenlerle savaşın; sizi kendilerine karşı sert bulsunlar. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةً وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yakınınızda bulunan gerçeğin üzerini örtenlerle savaşın; sizi kendilerine karşı sert bulsunlar. Bilin ki Allah, kendisine karşı gelmekten sakınanlarla beraberdir.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 10,
+      "ayah": 78,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:78",
+      "word_position": 5,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Siz ikiniz, bizi babalarımızı üzerinde bulduğumuz yoldan çevirmek ve yeryüzünün büyükleri olasınız diye mi geldiniz? Biz size güven duy\" dediler.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Siz ikiniz, bizi babalarımızı üzerinde bulduğumuz yoldan çevirmek ve yeryüzünün büyükleri olasınız diye mi geldiniz? Biz size güven duy\" dediler.",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 12,
+      "ayah": 65,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:65",
+      "word_position": 4,
+      "target_word_uthmani": "وَجَدُوا۟",
+      "target_word_rasm": "وجدوا",
+      "target_word_literal_irab": "Elbette bulurlardı / hazır buldular (`لَوَجَدُوا۟ / وَجَدُوا۟ / وَوَجَدُوا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; işte mallarımız da bize iade edilmiş; ailemize onunla yine yiyecek getirir, kardeşimizi de korur ve bir deve yükü de artırmış oluruz; esasen bu az bir şeydir\" dediler.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 75,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:75",
+      "word_position": 4,
+      "target_word_uthmani": "وُجِدَ",
+      "target_word_rasm": "وجد",
+      "target_word_literal_irab": "Kimin yükünde bulunursa (`وُجِدَ`, I. bab meçhul mâzî 3. tekil eril)",
+      "context_snippet_arabic": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Cezası, kimin yükünde bulunursa, ceza olarak ona el konulur; biz zalimleri böyle cezalandırırız\" dediler.",
+      "contextual_meaning": "Edilgen fiil hapaxı (`وُجِدَ فِى رَحْلِهِۦ` `12:75`): Yükler açılıp arandığında suç delilinin somut olarak birinin eşyası içinde bulunması."
+    },
+    {
+      "surah": 12,
+      "ayah": 79,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:79",
+      "word_position": 8,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ",
+      "context_snippet_turkish_tabula_rasa": "\"Maazallah! Biz, malımızı kimde bulmuşsak ancak onu alıkoruz, yoksa haksızlık etmiş oluruz\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Maazallah! Biz, malımızı kimde bulmuşsak ancak onu alıkoruz, yoksa haksızlık etmiş oluruz\" dedi.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 12,
+      "ayah": 94,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:94",
+      "word_position": 7,
+      "target_word_uthmani": "لَأَجِدُ",
+      "target_word_rasm": "لأجد",
+      "target_word_literal_irab": "Buluyorum / bulamam / elbette bulurum (`أَجِدُ / لَأَجِدُ / لَأَجِدَنَّ`, I. bab muzâri 1. tekil)",
+      "context_snippet_arabic": "قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ",
+      "context_snippet_turkish_tabula_rasa": "Kervan, memleketlerine dönmek üzere ayrıldığında, babaları: \"Doğrusu ben Yusuf'un kokusunu duyuyorum; ne olur bana bunak demeyin\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kervan, memleketlerine dönmek üzere ayrıldığında, babaları: \"Doğrusu ben Yusuf'un kokusunu duyuyorum; ne olur bana bunak demeyin\" dedi.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 17,
+      "ayah": 68,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:68",
+      "word_position": 13,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "حَاصِبًا ثُمَّ لَا تَجِدُوا۟ لَكُمْ وَكِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Onun karada da, sizi yere batırmasından veya başınıza taş yağdırmasından güvende misiniz? Sonra kendinize bir koruyucu da bulamazsınız.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَفَأَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ ٱلْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا تَجِدُوا۟ لَكُمْ وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onun karada da, sizi yere batırmasından veya başınıza taş yağdırmasından güvende misiniz? Sonra kendinize bir koruyucu da bulamazsınız.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 17,
+      "ayah": 69,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:69",
+      "word_position": 18,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "كَفَرْتُمْ ثُمَّ لَا تَجِدُوا۟ لَكُمْ عَلَيْنَا بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa sizi tekrar denize döndürüp, üzerinize ortalığı yıkan bir fırtına gönderip, gerçeğin üzerini örtmenizden ötürü sizi suda boğmasından güvende misiniz? O zaman bize soru soracak bir yardımcı da bulamazsınız.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًا مِّنَ ٱلرِّيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ ثُمَّ لَا تَجِدُوا۟ لَكُمْ عَلَيْنَا بِهِۦ تَبِيعًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa sizi tekrar denize döndürüp, üzerinize ortalığı yıkan bir fırtına gönderip, gerçeğin üzerini örtmenizden ötürü sizi suda boğmasından güvende misiniz? O zaman bize soru soracak bir yardımcı da bulamazsınız.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 17,
+      "ayah": 75,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:75",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدُ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "ٱلْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "O takdirde sana, hayatın da ölümün de, kat kat azabını tattırırdık. Sonra bize karşı bir yardımcı da bulamazdın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "إِذًا لَّأَذَقْنَٰكَ ضِعْفَ ٱلْحَيَوٰةِ وَضِعْفَ ٱلْمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيْنَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O takdirde sana, hayatın da ölümün de, kat kat azabını tattırırdık. Sonra bize karşı bir yardımcı da bulamazdın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 17,
+      "ayah": 77,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:77",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدُ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "مِن رُّسُلِنَا وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Bu, senden önce gönderdiğimiz elçilerimize de uyguladığımız yasadır. Sen bizim yasamızda değişiklik bulamazsın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "سُنَّةَ مَن قَدْ أَرْسَلْنَا قَبْلَكَ مِن رُّسُلِنَا وَلَا تَجِدُ لِسُنَّتِنَا تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, senden önce gönderdiğimiz elçilerimize de uyguladığımız yasadır. Sen bizim yasamızda değişiklik bulamazsın.",
+      "contextual_meaning": "Değişmez ilâhî yasa (`لَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا / تَحْوِيلًا`): Tarih boyunca işleyen yasalarda keyfî değişme veya sapma bulunamaması."
+    },
+    {
+      "surah": 17,
+      "ayah": 86,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:86",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدُ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَيْنَا",
+      "context_snippet_turkish_tabula_rasa": "Dileseydik and olsun ki, sana vahyettiğimizi alıp götürürdük. Sonra bize karşı duracak bir vekil de bulamazdın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن شِئْنَا لَنَذْهَبَنَّ بِٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَيْنَا وَكِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Dileseydik and olsun ki, sana vahyettiğimizi alıp götürürdük. Sonra bize karşı duracak bir vekil de bulamazdın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 17,
+      "ayah": 97,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:97",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن",
+      "context_snippet_turkish_tabula_rasa": "... Kimleri de saptırırsa, artık onlar için Allah'dan başka dostlar bulamazsın. Biz onları kıyamet günü yüzükoyun, körler, dilsizler ve sağırlar olarak haşrederiz. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا مَّأْوَىٰهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَٰهُمْ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın doğru yola eriştirdiği kimse hak yoldadır. Kimleri de saptırırsa, artık onlar için Allah'dan başka dostlar bulamazsın. Biz onları kıyamet günü yüzükoyun, körler, dilsizler ve sağırlar olarak haşrederiz. Varacakları yer yakıcı yıkım yurdudur. Onun ateşi ne zaman sönmeye yüz tutsa hemen alevini artırırız.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 18,
+      "ayah": 17,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:17",
+      "word_position": 31,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّا مُّرْشِدًا",
+      "context_snippet_turkish_tabula_rasa": "Baksaydın, güneşin mağaralarının sağ tarafından doğup meylettiğini, sol tarafından onlara dokunmadan battığını, onların da mağaranın genişçe bir yerinde bulunduğunu görürdün. Bu, Allah'ın apaçık göstergelerindendir; ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَتَرَى ٱلشَّمْسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ ٱلْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ وَهُمْ فِى فَجْوَةٍ مِّنْهُ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّا مُّرْشِدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Baksaydın, güneşin mağaralarının sağ tarafından doğup meylettiğini, sol tarafından onlara dokunmadan battığını, onların da mağaranın genişçe bir yerinde bulunduğunu görürdün. Bu, Allah'ın apaçık göstergelerindendir; Allah'ın doğru yola eriştirdiği kimse hak yoldadır. Kimi de saptırırsa artık ona, doğru yola götürecek bir rehber bulamazsın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 18,
+      "ayah": 27,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:27",
+      "word_position": 12,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin Kitap'ından sana vahyolunanı oku; O'nun sözlerini değiştirecek yoktur. O'ndan başka bir sığınılacak da bulamazsın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِن كِتَابِ رَبِّكَ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin Kitap'ından sana vahyolunanı oku; O'nun sözlerini değiştirecek yoktur. O'ndan başka bir sığınılacak da bulamazsın.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 18,
+      "ayah": 36,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:36",
+      "word_position": 9,
+      "target_word_uthmani": "لَأَجِدَنَّ",
+      "target_word_rasm": "لأجدن",
+      "target_word_literal_irab": "Buluyorum / bulamam / elbette bulurum (`أَجِدُ / لَأَجِدُ / لَأَجِدَنَّ`, I. bab muzâri 1. tekil)",
+      "context_snippet_arabic": "رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
+      "context_snippet_turkish_tabula_rasa": "... Eğer Rabbime döndürülürsem, and olsun ki orada bundan daha iyisini bulurum\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًا مِّنْهَا مُنقَلَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisine böylece yazık ederek bahçesine girerken: \"Bu bahçenin batacağını hiç zannetmem. Kıyametin kopacağını da sanmıyorum. Eğer Rabbime döndürülürsem, and olsun ki orada bundan daha iyisini bulurum\" dedi.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 18,
+      "ayah": 49,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:49",
+      "word_position": 20,
+      "target_word_uthmani": "وَوَجَدُوا۟",
+      "target_word_rasm": "ووجدوا",
+      "target_word_literal_irab": "Elbette bulurlardı / hazır buldular (`لَوَجَدُوا۟ / وَجَدُوا۟ / وَوَجَدُوا۟`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "كَبِيرَةً إِلَّآ أَحْصَىٰهَا وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًا",
+      "context_snippet_turkish_tabula_rasa": "Amel defteri ortaya konunca, suçluların, onda yazılı olanlardan korktuklarını görürsün, \"Vah bize, eyvah bize! Bu defter nasıl olmuş da küçük büyük bir şey bırakmadan hepsini saymış!\" derler. İşlediklerini hazır bulurlar. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَوُضِعَ ٱلْكِتَٰبُ فَتَرَى ٱلْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَٰوَيْلَتَنَا مَالِ هَٰذَا ٱلْكِتَٰبِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّآ أَحْصَىٰهَا وَوَجَدُوا۟ مَا عَمِلُوا۟ حَاضِرًا وَلَا يَظْلِمُ رَبُّكَ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Amel defteri ortaya konunca, suçluların, onda yazılı olanlardan korktuklarını görürsün, \"Vah bize, eyvah bize! Bu defter nasıl olmuş da küçük büyük bir şey bırakmadan hepsini saymış!\" derler. İşlediklerini hazır bulurlar. Rabbin kimseye haksızlık etmez.",
+      "contextual_meaning": "Eylemin hazır bulunması (`تَجِدُوهُ عِندَ ٱللَّهِ`, `مُحْضَرًا / حَاضِرًا`): Yapılan her iyi ya da kötü işin sonuç anında insanın önünde somutlaşmış olarak bulunması."
+    },
+    {
+      "surah": 18,
+      "ayah": 53,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:53",
+      "word_position": 8,
+      "target_word_uthmani": "يَجِدُوا۟",
+      "target_word_rasm": "يجدوا",
+      "target_word_literal_irab": "Bulamazlar / sertlik bulsunlar (`يَجِدُوا۟ / وَلْيَجِدُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا۟ عَنْهَا مَصْرِفًا",
+      "context_snippet_turkish_tabula_rasa": "Suçlular ateşi görürler ve ona düşeceklerini anlarlar, fakat ondan kaçacak yer bulamazlar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَرَءَا ٱلْمُجْرِمُونَ ٱلنَّارَ فَظَنُّوٓا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمْ يَجِدُوا۟ عَنْهَا مَصْرِفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Suçlular ateşi görürler ve ona düşeceklerini anlarlar, fakat ondan kaçacak yer bulamazlar.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 18,
+      "ayah": 58,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:58",
+      "word_position": 16,
+      "target_word_uthmani": "يَجِدُوا۟",
+      "target_word_rasm": "يجدوا",
+      "target_word_literal_irab": "Bulamadıkları için / sığınak bulamazlar (`يَجِدُوا۟`, I. bab mansûb muzâri 3. çoğul)",
+      "context_snippet_arabic": "لَّهُم مَّوْعِدٌ لَّن يَجِدُوا۟ مِن دُونِهِۦ مَوْئِلًا",
+      "context_snippet_turkish_tabula_rasa": "... Ama onların bir vadesi vardır. Ondan kaçıp sığınacak yer bulamazlar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَرَبُّكَ ٱلْغَفُورُ ذُو ٱلرَّحْمَةِ لَوْ يُؤَاخِذُهُم بِمَا كَسَبُوا۟ لَعَجَّلَ لَهُمُ ٱلْعَذَابَ بَل لَّهُم مَّوْعِدٌ لَّن يَجِدُوا۟ مِن دُونِهِۦ مَوْئِلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bununla beraber, Rabbin mağfiret ve merhamet sahibidir. Eğer onları, yaptıklarından dolayı hemen hesaba çekmek isteseydi, azaba uğratmakta acele ederdi. Ama onların bir vadesi vardır. Ondan kaçıp sığınacak yer bulamazlar.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 18,
+      "ayah": 65,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:65",
+      "word_position": 1,
+      "target_word_uthmani": "فَوَجَدَا",
+      "target_word_rasm": "فوجدا",
+      "target_word_literal_irab": "İkisi birden orada buldu (`فَوَجَدَا`, I. bab mâzî 3. ikil)",
+      "context_snippet_arabic": "فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَآ",
+      "context_snippet_turkish_tabula_rasa": "Bu arada ikisi katımızdan kendisine bir rahmet verdiğimiz ve kendisine ilim öğrettiğimiz kullarımızdan birini buldular.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MD"
+      },
+      "ayah_text_arabic_full": "فَوَجَدَا عَبْدًا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةً مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu arada ikisi katımızdan kendisine bir rahmet verdiğimiz ve kendisine ilim öğrettiğimiz kullarımızdan birini buldular.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 18,
+      "ayah": 69,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:69",
+      "word_position": 2,
+      "target_word_uthmani": "سَتَجِدُنِىٓ",
+      "target_word_rasm": "ستجدنى",
+      "target_word_literal_irab": "Yakında beni ... halde bulacaksın (`سَتَجِدُنِىٓ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "O da: \"O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O da: \"O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın\" dedi.",
+      "contextual_meaning": "Karakter ve sebat tespiti (`سَتَجِدُنِىٓ` / `إِنَّا وَجَدْنَٰهُ صَابِرًا`): Sınama ve sorumluluk anında kişinin sebatkâr, dirençli ve güvenilir olduğunun fiilen tespit edilmesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 77,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:77",
+      "word_position": 12,
+      "target_word_uthmani": "فَوَجَدَا",
+      "target_word_rasm": "فوجدا",
+      "target_word_literal_irab": "İkisi birden orada buldu (`فَوَجَدَا`, I. bab mâzî 3. ikil)",
+      "context_snippet_arabic": "فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "... İkisi, şehrin içinde yıkılmağa yüz tutan bir duvar gördüler, Musa'nın arkadaşı onu doğrultuverdi; Musa: ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MD"
+      },
+      "ayah_text_arabic_full": "فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ أَجْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yine yola koyuldular; sonunda vardıkları bir kasaba halkından yiyecek istediler. Kasaba halkı, bu ikisini misafir etmek istemedi. İkisi, şehrin içinde yıkılmağa yüz tutan bir duvar gördüler, Musa'nın arkadaşı onu doğrultuverdi; Musa: \"Dileseydin buna karşı bir ücret alabilirdin\" dedi.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 18,
+      "ayah": 86,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:86",
+      "word_position": 6,
+      "target_word_uthmani": "وَجَدَهَا",
+      "target_word_rasm": "وجدها",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda güneşin battığı yere ulaşınca onu, kara balçıklı bir suda batıyor gördü. Orada bir millete rastladı. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْمًا قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda güneşin battığı yere ulaşınca onu, kara balçıklı bir suda batıyor gördü. Orada bir millete rastladı. \"Zülkarneyn! Onlara azap da edebilirsin, iyi muamelede de bulunabilirsin\" dedik.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 18,
+      "ayah": 86,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:86",
+      "word_position": 11,
+      "target_word_uthmani": "وَوَجَدَ",
+      "target_word_rasm": "ووجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "فِى عَيْنٍ حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْمًا قُلْنَا",
+      "context_snippet_turkish_tabula_rasa": "Sonunda güneşin battığı yere ulaşınca onu, kara balçıklı bir suda batıyor gördü. Orada bir millete rastladı. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا بَلَغَ مَغْرِبَ ٱلشَّمْسِ وَجَدَهَا تَغْرُبُ فِى عَيْنٍ حَمِئَةٍ وَوَجَدَ عِندَهَا قَوْمًا قُلْنَا يَٰذَا ٱلْقَرْنَيْنِ إِمَّآ أَن تُعَذِّبَ وَإِمَّآ أَن تَتَّخِذَ فِيهِمْ حُسْنًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda güneşin battığı yere ulaşınca onu, kara balçıklı bir suda batıyor gördü. Orada bir millete rastladı. \"Zülkarneyn! Onlara azap da edebilirsin, iyi muamelede de bulunabilirsin\" dedik.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 18,
+      "ayah": 90,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:90",
+      "word_position": 6,
+      "target_word_uthmani": "وَجَدَهَا",
+      "target_word_rasm": "وجدها",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "بَلَغَ مَطْلِعَ ٱلشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda güneşin doğduğu yere ulaşınca, güneşi, kendilerini elbise, bina gibi şeylerle örtmediğimiz bir millet üzerine doğuyor buldu.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا بَلَغَ مَطْلِعَ ٱلشَّمْسِ وَجَدَهَا تَطْلُعُ عَلَىٰ قَوْمٍ لَّمْ نَجْعَل لَّهُم مِّن دُونِهَا سِتْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda güneşin doğduğu yere ulaşınca, güneşi, kendilerini elbise, bina gibi şeylerle örtmediğimiz bir millet üzerine doğuyor buldu.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 18,
+      "ayah": 93,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:93",
+      "word_position": 6,
+      "target_word_uthmani": "وَجَدَ",
+      "target_word_rasm": "وجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا",
+      "context_snippet_turkish_tabula_rasa": "Sonunda, iki dağın arasına varınca, orada nerdeyse hiç laf anlamayan bir millete rastladı.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا بَلَغَ بَيْنَ ٱلسَّدَّيْنِ وَجَدَ مِن دُونِهِمَا قَوْمًا لَّا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda, iki dağın arasına varınca, orada nerdeyse hiç laf anlamayan bir millete rastladı.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 20,
+      "ayah": 10,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:10",
+      "word_position": 15,
+      "target_word_uthmani": "أَجِدُ",
+      "target_word_rasm": "أجد",
+      "target_word_literal_irab": "Buluyorum / bulamam / elbette bulurum (`أَجِدُ / لَأَجِدُ / لَأَجِدَنَّ`, I. bab muzâri 1. tekil)",
+      "context_snippet_arabic": "مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى",
+      "context_snippet_turkish_tabula_rasa": "O, bir ateş görmüştü de, ailesine: \"Durun, ben bir ateş gördüm, ya ondan size bir kor getirir, ya da ateşin yanında bir yol gösteren bulurum\" demişti.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "إِذْ رَءَا نَارًا فَقَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِقَبَسٍ أَوْ أَجِدُ عَلَى ٱلنَّارِ هُدًى",
+      "ayah_text_turkish_tabula_rasa_full": "O, bir ateş görmüştü de, ailesine: \"Durun, ben bir ateş gördüm, ya ondan size bir kor getirir, ya da ateşin yanında bir yol gösteren bulurum\" demişti.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 20,
+      "ayah": 115,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:115",
+      "word_position": 9,
+      "target_word_uthmani": "نَجِدْ",
+      "target_word_rasm": "نجد",
+      "target_word_literal_irab": "Onda kararlı bir irade bulamadık (`نَجِدْ`, I. bab meczûm muzâri 1. çoğul)",
+      "context_snippet_arabic": "قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki daha önce \"Adem'e boyun eğip teslim olun\" demiştik; İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o çekinmişti.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1P|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ عَهِدْنَآ إِلَىٰٓ ءَادَمَ مِن قَبْلُ فَنَسِىَ وَلَمْ نَجِدْ لَهُۥ عَزْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki daha önce \"Adem'e boyun eğip teslim olun\" demiştik; İblis'ten başka hepsi boyun eğme ve teslimiyet etmiş, o çekinmişti.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 21,
+      "ayah": 53,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:53",
+      "word_position": 2,
+      "target_word_uthmani": "وَجَدْنَآ",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Babalarımızı onlara tapar bulduk\" demişlerdi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babalarımızı onlara tapar bulduk\" demişlerdi.",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 24,
+      "ayah": 28,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:28",
+      "word_position": 3,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "فَإِن لَّمْ تَجِدُوا۟ فِيهَآ أَحَدًا فَلَا",
+      "context_snippet_turkish_tabula_rasa": "Eğer evde kimseyi bulamazsanız, yine de size izin verilmedikçe içeriye girmeyiniz. Size \"Dönün\" denirse dönün. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَجِدُوا۟ فِيهَآ أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ وَإِن قِيلَ لَكُمُ ٱرْجِعُوا۟ فَٱرْجِعُوا۟ هُوَ أَزْكَىٰ لَكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer evde kimseyi bulamazsanız, yine de size izin verilmedikçe içeriye girmeyiniz. Size \"Dönün\" denirse dönün. Bu, sizi daha çok temize çıkarır. Allah yaptıklarınızı bilir.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 4,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "... Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları buna zorlarsa bilsin ki Allah hiç şüphesiz onu değil zorlanan kadınları bağışlar ve merhamet eder.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 24,
+      "ayah": 39,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:39",
+      "word_position": 13,
+      "target_word_uthmani": "يَجِدْهُ",
+      "target_word_rasm": "يجده",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin işleri engin çöllerdeki serap gibidir. Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. Allah hesabı çabuk görendir.",
+      "contextual_meaning": "Sanı vs gerçeklik çarpışması (`24:39`): Susayanın uzaktan su sandığı (`يَحْسَبُهُ`) serabın yanına varınca hiçbir şey bulamaması (`لَمْ يَجِدْهُ شَيْـًٔا`) ve hemen yanı başında hesabını eksiksiz ödeyen Allah'ı bulması (`وَوَجَدَ`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 39,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:39",
+      "word_position": 15,
+      "target_word_uthmani": "وَوَجَدَ",
+      "target_word_rasm": "ووجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ",
+      "context_snippet_turkish_tabula_rasa": "... Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin işleri engin çöllerdeki serap gibidir. Susayan kimse onu su zanneder, fakat oraya geldiğinde hiçbir şey bulamaz. Orada Allah'ı bulur ve O da hesabını görür. Allah hesabı çabuk görendir.",
+      "contextual_meaning": "Sanı vs gerçeklik çarpışması (`24:39`): Susayanın uzaktan su sandığı (`يَحْسَبُهُ`) serabın yanına varınca hiçbir şey bulamaması (`لَمْ يَجِدْهُ شَيْـًٔا`) ve hemen yanı başında hesabını eksiksiz ödeyen Allah'ı bulması (`وَوَجَدَ`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 74,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:74",
+      "word_position": 3,
+      "target_word_uthmani": "وَجَدْنَآ",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Hayır ama, babalarımızı da bu şekilde boyun eğme ve kulluk ederken bulduk\" demişlerdi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hayır ama, babalarımızı da bu şekilde boyun eğme ve kulluk ederken bulduk\" demişlerdi.",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 27,
+      "ayah": 23,
+      "surah_name": "Neml",
+      "ayah_ref": "27:23",
+      "word_position": 2,
+      "target_word_uthmani": "وَجَدتُّ",
+      "target_word_rasm": "وجدت",
+      "target_word_literal_irab": "Buldum / onu ... halde buldum (`وَجَدتُّ / وَجَدتُّهَا`, I. bab mâzî 1. tekil)",
+      "context_snippet_arabic": "إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ",
+      "context_snippet_turkish_tabula_rasa": "... Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "إِنِّى وَجَدتُّ ٱمْرَأَةً تَمْلِكُهُمْ وَأُوتِيَتْ مِن كُلِّ شَىْءٍ وَلَهَا عَرْشٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çok geçmeden Hüdhüd gelip Süleyman'a: \"Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka sığınak mercii (ilâh) yoktur\" dedi.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 27,
+      "ayah": 24,
+      "surah_name": "Neml",
+      "ayah_ref": "27:24",
+      "word_position": 1,
+      "target_word_uthmani": "وَجَدتُّهَا",
+      "target_word_rasm": "وجدتها",
+      "target_word_literal_irab": "Buldum / onu ... halde buldum (`وَجَدتُّ / وَجَدتُّهَا`, I. bab mâzî 1. tekil)",
+      "context_snippet_arabic": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ",
+      "context_snippet_turkish_tabula_rasa": "... Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1S"
+      },
+      "ayah_text_arabic_full": "وَجَدتُّهَا وَقَوْمَهَا يَسْجُدُونَ لِلشَّمْسِ مِن دُونِ ٱللَّهِ وَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَصَدَّهُمْ عَنِ ٱلسَّبِيلِ فَهُمْ لَا يَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çok geçmeden Hüdhüd gelip Süleyman'a: \"Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe boyun eğme ve teslimiyet ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a boyun eğme ve teslimiyet etmemeleri için saptırıcı yıkıcı güç, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka sığınak mercii (ilâh) yoktur\" dedi.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 15,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:15",
+      "word_position": 8,
+      "target_word_uthmani": "فَوَجَدَ",
+      "target_word_rasm": "فوجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ",
+      "context_snippet_turkish_tabula_rasa": "... Biri kendi adamlarından, diğeri de düşmanı olan iki adamı döğüşür buldu. Kendi tarafından olan kimse, düşmanına karşı ondan yardım istedi. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِن شِيعَتِهِۦ وَهَٰذَا مِنْ عَدُوِّهِۦ فَٱسْتَغَٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ قَالَ هَٰذَا مِنْ عَمَلِ ٱلشَّيْطَٰنِ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, halkının haberi olmadığı bir zamanda, şehre girdi. Biri kendi adamlarından, diğeri de düşmanı olan iki adamı döğüşür buldu. Kendi tarafından olan kimse, düşmanına karşı ondan yardım istedi. Musa, onun düşmanına bir yumruk vurdu; ölümüne sebep oldu. \"Bu saptırıcı yıkıcı gücün işidir; çünkü o apaçık, saptıran bir düşmandır\" dedi.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 23,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:23",
+      "word_position": 5,
+      "target_word_uthmani": "وَجَدَ",
+      "target_word_rasm": "وجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Medyen suyuna geldiğinde, davarlarını sulayan bir insan topluluğu buldu. Onlardan başka, hayvanlarını sudan alıkoyan iki kadın gördü. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen suyuna geldiğinde, davarlarını sulayan bir insan topluluğu buldu. Onlardan başka, hayvanlarını sudan alıkoyan iki kadın gördü. Onlara: \"Derdiniz nedir?\" dedi. \"Çobanlar ayrılana kadar biz sulamayız. Babamız çok yaşlıdır, onun için bu işi biz yapıyoruz\" dediler.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 23,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:23",
+      "word_position": 11,
+      "target_word_uthmani": "وَوَجَدَ",
+      "target_word_rasm": "ووجد",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "Medyen suyuna geldiğinde, davarlarını sulayan bir insan topluluğu buldu. Onlardan başka, hayvanlarını sudan alıkoyan iki kadın gördü. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen suyuna geldiğinde, davarlarını sulayan bir insan topluluğu buldu. Onlardan başka, hayvanlarını sudan alıkoyan iki kadın gördü. Onlara: \"Derdiniz nedir?\" dedi. \"Çobanlar ayrılana kadar biz sulamayız. Babamız çok yaşlıdır, onun için bu işi biz yapıyoruz\" dediler.",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 28,
+      "ayah": 27,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:27",
+      "word_position": 24,
+      "target_word_uthmani": "سَتَجِدُنِىٓ",
+      "target_word_rasm": "ستجدنى",
+      "target_word_literal_irab": "Yakında beni ... halde bulacaksın (`سَتَجِدُنِىٓ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Ama sana ağırlık vermek istemem. İnşallah beni iyi kimselerden bulacaksın\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınların babası: \"Bana sekiz yıl çalışmana karşılık bu iki kızımdan birini sana nikahlamak istiyorum. Eğer on yıla tamamlarsan o senden bir lütuf olur. Ama sana ağırlık vermek istemem. İnşallah beni iyi kimselerden bulacaksın\" dedi.",
+      "contextual_meaning": "Karakter ve sebat tespiti (`سَتَجِدُنِىٓ` / `إِنَّا وَجَدْنَٰهُ صَابِرًا`): Sınama ve sorumluluk anında kişinin sebatkâr, dirençli ve güvenilir olduğunun fiilen tespit edilmesi."
+    },
+    {
+      "surah": 31,
+      "ayah": 21,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:21",
+      "word_position": 12,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, \"Allah'ın indirdiğine uyun\" denince: \"Babalarımızı üzerinde bulduğumuz yola uyarız\" derler. Ya saptırıcı yıkıcı güç, babalarını alevli ateşin azabına çağırmışsa?",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, \"Allah'ın indirdiğine uyun\" denince: \"Babalarımızı üzerinde bulduğumuz yola uyarız\" derler. Ya saptırıcı yıkıcı güç, babalarını alevli ateşin azabına çağırmışsa?",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 33,
+      "ayah": 17,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:17",
+      "word_position": 17,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "بِكُمْ رَحْمَةً وَلَا يَجِدُونَ لَهُم مِّن دُونِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah size bir kötülük dilese veya bir rahmet istese, O'na karşı kim sizi koruyabilir? Allah'tan başka dost ve yardımcı da bulamazsınız.\"",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah size bir kötülük dilese veya bir rahmet istese, O'na karşı kim sizi koruyabilir? Allah'tan başka dost ve yardımcı da bulamazsınız.\"",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 33,
+      "ayah": 62,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:62",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın geçmişlere uyguladığı yasası budur ve Allah'ın yasasında bir değişme bulamazsın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın geçmişlere uyguladığı yasası budur ve Allah'ın yasasında bir değişme bulamazsın.",
+      "contextual_meaning": "Değişmez ilâhî yasa (`لَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا / تَحْوِيلًا`): Tarih boyunca işleyen yasalarda keyfî değişme veya sapma bulunamaması."
+    },
+    {
+      "surah": 33,
+      "ayah": 65,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:65",
+      "word_position": 5,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "فِيهَآ أَبَدًا لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz, gerçeğin üzerini örtenlere lanet etmiş ve onlara içinde sonsuz olarak temelli kalacakları çılgın alevli yakıcı yıkım yurdunu hazırlamıştır. Onlar bir dost ve yardımcı bulamazlar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَآ أَبَدًا لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz, gerçeğin üzerini örtenlere lanet etmiş ve onlara içinde sonsuz olarak temelli kalacakları çılgın alevli yakıcı yıkım yurdunu hazırlamıştır. Onlar bir dost ve yardımcı bulamazlar.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 35,
+      "ayah": 43,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:43",
+      "word_position": 18,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.",
+      "contextual_meaning": "Değişmez ilâhî yasa (`لَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا / تَحْوِيلًا`): Tarih boyunca işleyen yasalarda keyfî değişme veya sapma bulunamaması."
+    },
+    {
+      "surah": 35,
+      "ayah": 43,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:43",
+      "word_position": 23,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.",
+      "contextual_meaning": "Değişmez ilâhî yasa (`لَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا / تَحْوِيلًا`): Tarih boyunca işleyen yasalarda keyfî değişme veya sapma bulunamaması."
+    },
+    {
+      "surah": 37,
+      "ayah": 102,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:102",
+      "word_position": 21,
+      "target_word_uthmani": "سَتَجِدُنِىٓ",
+      "target_word_rasm": "ستجدنى",
+      "target_word_literal_irab": "Yakında beni ... halde bulacaksın (`سَتَجِدُنِىٓ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuk kendisinin yanısıra yürümeye başlayınca: \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "contextual_meaning": "Karakter ve sebat tespiti (`سَتَجِدُنِىٓ` / `إِنَّا وَجَدْنَٰهُ صَابِرًا`): Sınama ve sorumluluk anında kişinin sebatkâr, dirençli ve güvenilir olduğunun fiilen tespit edilmesi."
+    },
+    {
+      "surah": 38,
+      "ayah": 44,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:44",
+      "word_position": 9,
+      "target_word_uthmani": "وَجَدْنَٰهُ",
+      "target_word_rasm": "وجدنه",
+      "target_word_literal_irab": "Onu gerçekten ... bulduk (`وَجَدْنَٰهُ`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَلَا تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ ٱلْعَبْدُ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Eyyub! Eline bir demet sap alıp onunla vur, bağlayıcı ahdini bozma\" demiştik. Doğrusu Biz onu sebatlı ve dirençli bulmuştuk. Ne iyi kuldu, daima Allah'a yönelirdi.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ ٱلْعَبْدُ إِنَّهُۥٓ أَوَّابٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Eyyub! Eline bir demet sap alıp onunla vur, bağlayıcı ahdini bozma\" demiştik. Doğrusu Biz onu sebatlı ve dirençli bulmuştuk. Ne iyi kuldu, daima Allah'a yönelirdi.",
+      "contextual_meaning": "Karakter ve sebat tespiti (`سَتَجِدُنِىٓ` / `إِنَّا وَجَدْنَٰهُ صَابِرًا`): Sınama ve sorumluluk anında kişinin sebatkâr, dirençli ve güvenilir olduğunun fiilen tespit edilmesi."
+    },
+    {
+      "surah": 43,
+      "ayah": 22,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:22",
+      "word_position": 4,
+      "target_word_uthmani": "وَجَدْنَآ",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "Hayır; \"Doğrusu Biz babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerinden gitmekteyiz\" derler.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; \"Doğrusu Biz babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerinden gitmekteyiz\" derler.",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 43,
+      "ayah": 23,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:23",
+      "word_position": 14,
+      "target_word_uthmani": "وَجَدْنَآ",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce, herhangi bir şehre gönderdiğimiz uyarıcıya, şımarık varlıklıları sadece: \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 43,
+      "ayah": 24,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:24",
+      "word_position": 6,
+      "target_word_uthmani": "وَجَدتُّمْ",
+      "target_word_rasm": "وجدتم",
+      "target_word_literal_irab": "Buldunuz / onları nerede bulursanız (`وَجَدتُّم / وَجَدتُّمُوهُمْ`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ قَالُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "... \"Eğer size, babalarınızı üzerinde bulduğunuz yaşam sisteminden daha doğrusunu getirmiş isem de mi bana uymazsınız?\" dedi. Onlar: ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|2MP"
+      },
+      "ayah_text_arabic_full": "قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ قَالُوٓا۟ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gönderilen uyarıcı: \"Eğer size, babalarınızı üzerinde bulduğunuz yaşam sisteminden daha doğrusunu getirmiş isem de mi bana uymazsınız?\" dedi. Onlar: \"Doğrusu sizinle gönderilen şeyi gerçeğin üzerini ört\" dediler.",
+      "contextual_meaning": "Kör gelenek argümanı (`وَجَدْنَا عَلَيْهِ ءَابَآءَنَا`): Hakikat yerine ataları hangi yaşam biçimi üzerinde bulduklarını tek ölçü sayma yanılgısı."
+    },
+    {
+      "surah": 48,
+      "ayah": 22,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:22",
+      "word_position": 9,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلْأَدْبَٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler sizinle savaşsalardı yüzgeri döneceklerdi. Sonra bir dost ve yardımcı da bulamayacaklardı.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ قَٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler sizinle savaşsalardı yüzgeri döneceklerdi. Sonra bir dost ve yardımcı da bulamayacaklardı.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 48,
+      "ayah": 23,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:23",
+      "word_position": 9,
+      "target_word_uthmani": "تَجِدَ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Asla yol, yardımcı veya değişiklik bulamazsın (`تَجِدَ`, I. bab mansûb muzâri 2. tekil eril)",
+      "context_snippet_arabic": "مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın önceden gelip geçmişlere uyguladığı yasası budur. Allah'ın yasasında değişme bulamazsın.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın önceden gelip geçmişlere uyguladığı yasası budur. Allah'ın yasasında değişme bulamazsın.",
+      "contextual_meaning": "Değişmez ilâhî yasa (`لَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا / تَحْوِيلًا`): Tarih boyunca işleyen yasalarda keyfî değişme veya sapma bulunamaması."
+    },
+    {
+      "surah": 51,
+      "ayah": 36,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:36",
+      "word_position": 2,
+      "target_word_uthmani": "وَجَدْنَا",
+      "target_word_rasm": "وجدنا",
+      "target_word_literal_irab": "Üzerinde / katında ... bulduk (`وَجَدْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ",
+      "context_snippet_turkish_tabula_rasa": "Zaten orada, kendini Allah'a vermiş sadece bir tek ev halkı bulduk.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zaten orada, kendini Allah'a vermiş sadece bir tek ev halkı bulduk.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 58,
+      "ayah": 4,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:4",
+      "word_position": 3,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "Azad edecek köle bulamayanın, ailesiyle temastan önce iki ay birbiri peşinden öz denetim ve sakınma tutması gerekir. Buna gücü yetmeyen, altmış düşkünü doyurur. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتِلْكَ حُدُودُ ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Azad edecek köle bulamayanın, ailesiyle temastan önce iki ay birbiri peşinden öz denetim ve sakınma tutması gerekir. Buna gücü yetmeyen, altmış düşkünü doyurur. Bu kolaylık, Allah'a ve elçisine güvene ermiş olmanızdan ötürüdür; bunlar, Allah'ın koyduğu sınırlardır; gerçeğin üzerini örtenler için can yakıcı azap vardır.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 58,
+      "ayah": 12,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:12",
+      "word_position": 18,
+      "target_word_uthmani": "تَجِدُوا۟",
+      "target_word_rasm": "تجدوا",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَأَطْهَرُ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ",
+      "context_snippet_turkish_tabula_rasa": "... bu, sizin daha iyi ve daha temiz olmanız içindir. Eğer sadaka verecek bir şey bulamazsanız üzülmeyiniz. Allah şüphesiz bağışlayandır, acıyandır.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةً ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçiyle hususi olarak konuşacağınızda, bu konuşmanızdan önce fakirlere sadaka veriniz; bu, sizin daha iyi ve daha temiz olmanız içindir. Eğer sadaka verecek bir şey bulamazsanız üzülmeyiniz. Allah şüphesiz bağışlayandır, acıyandır.",
+      "contextual_meaning": "İmkân veya nesne yokluğunda çözüm (`فَلَمْ تَجِدُوا۟ / فَمَن لَّمْ يَجِدْ / لَا يَجِدُونَ`): Su, binek, özgürleştirilecek köle veya infak imkânı bulunamadığında hukukî ve ahlakî alternatifin devreye girmesi."
+    },
+    {
+      "surah": 58,
+      "ayah": 22,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:22",
+      "word_position": 2,
+      "target_word_uthmani": "تَجِدُ",
+      "target_word_rasm": "تجد",
+      "target_word_literal_irab": "Onları mutlaka bulursun / bulamazsın (`وَلَتَجِدَنَّهُمْ / لَتَجِدَنَّ / تَجِدُ`, I. bab muzâri 2. tekil eril)",
+      "context_snippet_arabic": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve ahiret gününe güvene eren bir milletin, babaları veya oğulları veya kardeşleri ya da akrabaları olsa bile Allah'a ve elçisine karşı gelenlere, sevgi beslediklerini görmezsin. İşte Allah, güven bağı bunların kalblerine yazmış, katından bir nur ile onları desteklemiştir. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MS"
+      },
+      "ayah_text_arabic_full": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve ahiret gününe güvene eren bir milletin, babaları veya oğulları veya kardeşleri ya da akrabaları olsa bile Allah'a ve elçisine karşı gelenlere, sevgi beslediklerini görmezsin. İşte Allah, güven bağı bunların kalblerine yazmış, katından bir nur ile onları desteklemiştir. Onları, içlerinden ırmaklar akan, içinde temelli kalacakları esenlik bahçelerine koyar. Allah onlardan hoşnut olmuştur, onlar da Allah'tan hoşnut olmuştur. İşte bunlar, Allah'tan yana olanlardır. İyi bilin ki, saadete erecek olanlar, Allah'tan yana olanlardır.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 59,
+      "ayah": 9,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:9",
+      "word_position": 12,
+      "target_word_uthmani": "يَجِدُونَ",
+      "target_word_rasm": "يجدون",
+      "target_word_literal_irab": "Bulurlar / bulamazlar (`يَجِدُونَ / يَجِدُونَهُۥ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً",
+      "context_snippet_turkish_tabula_rasa": "Daha önceden Medine'yi yurt edinmiş ve gönüllerine güven bağı yerleştirmiş olan kimseler, kendilerine hicret edip gelenleri severler; onlara verilenler karşısında içlerinde bir çekememezlik hissetmezler; kendileri zaruret içinde bulunsalar bile onları kendilerinden önde tutarlar. ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Daha önceden Medine'yi yurt edinmiş ve gönüllerine güven bağı yerleştirmiş olan kimseler, kendilerine hicret edip gelenleri severler; onlara verilenler karşısında içlerinde bir çekememezlik hissetmezler; kendileri zaruret içinde bulunsalar bile onları kendilerinden önde tutarlar. kendi benliğinin tamahkarlığından korunabilmiş kimseler, işte onlar saadete erenlerdir.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 65,
+      "ayah": 6,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:6",
+      "word_position": 6,
+      "target_word_uthmani": "وُجْدِكُمْ",
+      "target_word_rasm": "وجدكم",
+      "target_word_literal_irab": "Maddî güç ve imkân genişliğinizden (`مِن وُجْدِكُمْ`, tekil isim mecrûr)",
+      "context_snippet_arabic": "حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... aranızda uygun bir şekilde anlaşın; eğer güçlükle karşılaşırsanız çocuğu başka bir kadın emzirebilir.",
+      "morphology": {
+        "lemma": "wujod",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:wujod|ROOT:wjd|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ وَإِن كُنَّ أُو۟لَٰتِ حَمْلٍ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Boşadığınız, fakat iddeti dolmamış kadınları gücünüz nispetinde, kendi oturduğunuz yerde oturtun. Onları sıkıntıya sokmak için zarar vermeye kalkışmayın. Eğer hamile iseler, doğurmalarına kadar nafakalarını verin. Çocuğu sizin için emzirirlerse, onlara ücretlerini ödeyin; aranızda uygun bir şekilde anlaşın; eğer güçlükle karşılaşırsanız çocuğu başka bir kadın emzirebilir.",
+      "contextual_meaning": "İsim hapaxı (`مِن وُجْدِكُمْ` `65:6`): Boşanmış kadının barındırılmasında dayanak olan eldeki maddî imkân, güç ve varlık genişliği."
+    },
+    {
+      "surah": 71,
+      "ayah": 25,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:25",
+      "word_position": 7,
+      "target_word_uthmani": "يَجِدُوا۟",
+      "target_word_rasm": "يجدوا",
+      "target_word_literal_irab": "Bulamazlar / sertlik bulsunlar (`يَجِدُوا۟ / وَلْيَجِدُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, sapma ve kusurları yüzünden suda boğuldular; ateşe sokuldular, kendilerine Allah'tan başka yardımcı bulamadılar.",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, sapma ve kusurları yüzünden suda boğuldular; ateşe sokuldular, kendilerine Allah'tan başka yardımcı bulamadılar.",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 72,
+      "ayah": 8,
+      "surah_name": "Cin",
+      "ayah_ref": "72:8",
+      "word_position": 4,
+      "target_word_uthmani": "فَوَجَدْنَٰهَا",
+      "target_word_rasm": "فوجدنها",
+      "target_word_literal_irab": "Derhal onu ... dolmuş bulduk (`فَوَجَدْنَٰهَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَٰهَا مُلِئَتْ حَرَسًا شَدِيدًا",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu biz göğü yokladık; onu sert bekçiler ve kayan ateşlerle (ışınlarla) doldurulmuş bulduk.\"",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|1P"
+      },
+      "ayah_text_arabic_full": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu biz göğü yokladık; onu sert bekçiler ve kayan ateşlerle (ışınlarla) doldurulmuş bulduk.\"",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 72,
+      "ayah": 9,
+      "surah_name": "Cin",
+      "ayah_ref": "72:9",
+      "word_position": 10,
+      "target_word_uthmani": "يَجِدْ",
+      "target_word_rasm": "يجد",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "فَمَن يَسْتَمِعِ ٱلْءَانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu biz, göğün dinleyebileceğimiz bir yerinde otururduk; ama şimdi kim dinleyecek olsa, kendisini gözleyen bir ateş (ışın) buluyor.\"",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَٰعِدَ لِلسَّمْعِ فَمَن يَسْتَمِعِ ٱلْءَانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu biz, göğün dinleyebileceğimiz bir yerinde otururduk; ama şimdi kim dinleyecek olsa, kendisini gözleyen bir ateş (ışın) buluyor.\"",
+      "contextual_meaning": "Yolculuk ve duyusal karşılaşma (`فَوَجَدَ / فَوَجَدَا / لَأَجِدُ رِيحَ يُوسُفَ`): Yolda bir topluluk, duvar, ateş üstünde yol gösterici, gökte koruma veya uzaktan koku gibi doğrudan olguyu/duyuyu bulmak."
+    },
+    {
+      "surah": 72,
+      "ayah": 22,
+      "surah_name": "Cin",
+      "ayah_ref": "72:22",
+      "word_position": 9,
+      "target_word_uthmani": "أَجِدَ",
+      "target_word_rasm": "أجد",
+      "target_word_literal_irab": "Asla başka bir sığınak bulamam (`أَجِدَ`, I. bab mansûb muzâri 1. tekil)",
+      "context_snippet_arabic": "ٱللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Beni kimse Allah'a karşı savunamaz ve ben O'ndan başka bir sığınak bulamam.\"",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Beni kimse Allah'a karşı savunamaz ve ben O'ndan başka bir sığınak bulamam.\"",
+      "contextual_meaning": "Gözlem, arayış, sınama veya hesap anında bir niteliği (`4:82`, `5:82`, `59:9`), bir çıkış yolunu veya yardımcı/sığınağı (`4:88,145`, `17:97`, `18:17`, `72:22`) hazır halde bulmak ya da bulamamak."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 66,
+      "target_word_uthmani": "تَجِدُوهُ",
+      "target_word_rasm": "تجدوه",
+      "target_word_literal_irab": "Bulursunuz / bulamazsanız (`تَجِدُوا۟ / تَجِدُوهُ`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; ...",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Eylemin hazır bulunması (`تَجِدُوهُ عِندَ ٱللَّهِ`, `مُحْضَرًا / حَاضِرًا`): Yapılan her iyi ya da kötü işin sonuç anında insanın önünde somutlaşmış olarak bulunması."
+    },
+    {
+      "surah": 93,
+      "ayah": 6,
+      "surah_name": "Duhâ",
+      "ayah_ref": "93:6",
+      "word_position": 2,
+      "target_word_uthmani": "يَجِدْكَ",
+      "target_word_rasm": "يجدك",
+      "target_word_literal_irab": "Bulursa / bulamazsa / seni bulup (`يَجِدْ / يَجِدِ / يَجِدْهُ / يَجِدْكَ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Seni öksüz bulup da barındırmadı mı?",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:wajada|ROOT:wjd|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni öksüz bulup da barındırmadı mı?",
+      "contextual_meaning": "Duhâ onarım üçlüsü (`93:6-8`): Seni yetim, yolunu arar (`ضَآلًّا`) ve darlık içinde bulup (`وَوَجَدَكَ`) barındırması, yön vermesi ve zengin kılması."
+    },
+    {
+      "surah": 93,
+      "ayah": 7,
+      "surah_name": "Duhâ",
+      "ayah_ref": "93:7",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَجَدَكَ",
+      "target_word_rasm": "ووجدك",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Seni şaşırmış bulup, doğru yola eriştirmedi mi?",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni şaşırmış bulup, doğru yola eriştirmedi mi?",
+      "contextual_meaning": "Duhâ onarım üçlüsü (`93:6-8`): Seni yetim, yolunu arar (`ضَآلًّا`) ve darlık içinde bulup (`وَوَجَدَكَ`) barındırması, yön vermesi ve zengin kılması."
+    },
+    {
+      "surah": 93,
+      "ayah": 8,
+      "surah_name": "Duhâ",
+      "ayah_ref": "93:8",
+      "word_position": 1,
+      "target_word_uthmani": "وَوَجَدَكَ",
+      "target_word_rasm": "ووجدك",
+      "target_word_literal_irab": "Buldu / onu buldu / seni ... halde buldu (`وَجَدَ / وَجَدَهَا / وَوَجَدَكَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Seni fakir bulup zenginleştirmedi mi?",
+      "morphology": {
+        "lemma": "wajada",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:wajada|ROOT:wjd|3MS"
+      },
+      "ayah_text_arabic_full": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni fakir bulup zenginleştirmedi mi?",
+      "contextual_meaning": "Duhâ onarım üçlüsü (`93:6-8`): Seni yetim, yolunu arar (`ضَآلًّا`) ve darlık içinde bulup (`وَوَجَدَكَ`) barındırması, yön vermesi ve zengin kılması."
+    }
+  ]
+}

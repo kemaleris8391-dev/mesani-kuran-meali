@@ -1,0 +1,2679 @@
+{
+  "root": "س-أ-ل",
+  "root_latin": "S-E-L (sAl)",
+  "concept_name": "Suâl / Mes'ûliyet (Bilgi Öğrenmek İçin Sormak, İhtiyaç Talep Etmek ve Hesap Sorumluluğu)",
+  "rank": 86,
+  "total_occurrences": 129,
+  "unique_ayahs_count": 118,
+  "unified_core_mechanism": "Kökün 129 geçişlik ağını tek dinamik hareket birleştirir: 'Eksik olan bilgiyi, hakkı veya karşılığı yönelip talep etmek / hesap aramak'. Dört tutarlı kolda çalışır: (1) Bilgi edinme ve hakikati araştırma (`يَسْـَٔلُونَكَ`, `فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ` `16:43`, `لِّلسَّآئِلِينَ` `12:7`, gereksiz deşme yasağı `5:101`). (2) İhtiyaç ve adil pay talebi (`وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ` `93:10`, `41:10`, `51:19`, `sü'l` `20:36`, haksız talep eleştirisi `38:24`, hukukî talep `60:10`). (3) Karşılıklı soruşma ve toplum hukuku (`تَسَآءَلُونَ` `4:1`, `18:19`, `78:1`). (4) Bireysel sorumluluk ve organ/sözleşme sorgusu (`19` meçhul `سُئِلَ / يُسْـَٔلُ`, `5` `مَسْـُٔول`: `17:34,36`, `21:23`, `34:25`, `81:8`, `102:8`).",
+  "physical_core": "Ham fiziki çekirdek: İbn Fâris'e göre tek asıl `كَلِمَةٌ وَاحِدَةٌ` — eksikliğini veya bilgisizliğini gidermek amacıyla karşı taraftan bir bilgi ya da nesne/hak talep etmek (`سَأَلَ يَسْأَلُ سُؤَالًا وَمَسْأَلَةً`). 'Bir bilgi sorma' ile 'ihtiyaç duyulan bir hakkı/mali isteme' tek bir 'boşluğu doldurma talebi' mekaniğinden çıktığı için aynı kökten doğar; bu yöneltmenin karşılığı da 'hesap sormak' (`يُسْـَٔلُ / مَسْـُٔولًا`) olur.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris tek çekirdekte mutabıktır: bütün türevler 'bilgi veya hak talep etmek (`السؤال والطلب`)' merkezine döner.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): Kök bir şeyi bilmek için istelâmda bulunmak veya bir ihtiyacı istemektir; erken Arap dil geleneğinde soru bilgisizliğin (`ٱلْعِىّ`) şifası olarak görülür.",
+    "lisan_al_arab": "Lisânü'l-Arab: `تَسَاءَلُوا۟` karşılıklı birbirinden sormak veya birbirinden hak istemektir (`4:1` `تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ`); `سَآئِل` hem bilgi araştıran öğrenciyi (`12:7`) hem muhtaç kimseyi (`51:19`, `93:10`) kapsar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `ٱلسُّؤَالُ: ٱسْتِدْعَاءُ مَعْرِفَةٍ أَوْ مَا يُؤَدِّى إِلَى ٱلْمَعْرِفَةِ، وَٱسْتِدْعَاءُ مَالٍ أَوْ مَا يُؤَدِّى إِلَى ٱلْمَالِ` (bilgi veya mal/hak talep etmektir; bilgi sorusunun cevabı dille, mal talebinin cevabı ise elle verilir). `سُؤْل` (`20:36`) kişinin dil ile açıkça talep ettiği somut dilektir.",
+    "arbitration_decision": "Tahkim Kararı: Kök üç işlevi tek mekanizmada birleştirir: (1) Bilgi araştırma ve uzmanına danışma (`فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ` `16:43`, `21:7`, `لِّلسَّآئِلِينَ` `12:7`), (2) İhtiyaç ve adil hak talebi (`وَٱلسَّآئِلِينَ` `2:177`, `51:19`, `93:10`, `سُؤْلَكَ` `20:36`, `60:10`), (3) Bireysel ve organ/sözleşme düzeyinde sorguya çekilme sorumluluğu (`لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ` `21:23`, `17:34,36`, `81:8`, `102:8`). 'Dilenci' diye küçültücü çeviriden kaçınılıp bağlama göre 'bilgi veya yardım isteyen' korunmalıdır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*š-ʾ-l / *s¹-ʾ-l ('sormak, araştırmak, istemek, sorgulamak')",
+    "hebrew": "İbranice `שָׁאַל` (*šāʾal*: 'sormak, danışmak, istemek, ödünç talep etmek') ve isim `שְׁאֵלָה` (*šəʾêlāh* 'soru/dilek') Arapça ile harfiyen kökdeştir.",
+    "aramaic_syriac": "Klasik Süryanice `ܫܐܠ` (*šʾel / šōʾēl*: 'sormak, araştırmak, sorguya çekmek').",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece) yazıtlarda `𐩪𐩱𐩡` (*s¹ʾl / sʾl*: 'sormak, dilemek, ilâhî veya hukukî talepte bulunmak') ve Klasik Ge'ez'de `ሰአለ` (*säʾälä*: 'istemek, dua/rica etmek') tam paralellerdir.",
+    "akkadian_geez": "Doğu Samicede Akadca `šâlu` (*šāʾalu*: 'sormak, tahkikat/sorgulama yapmak, yargılamak') aynı kökü sürdürür.",
+    "phonological_note": "Proto-Semitik birinci ses `*š` (`*s¹`): Doğu ve Kuzeybatı Semitik dillerde (`šâlu`, `šāʾal`, `šʾel`, Ugaritçe `šʾl`) hışırtılı `š` olarak kalırken, Arapça, Sebece (`s¹ʾl`) ve Ge'ez'de (`säʾälä`) düzenli ses yasasıyla düz `s` (`س-أ-ل`) sesine karşılık gelir; orta hemze (`ʾ`) bütün ailede korunmuştur."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-ط-و / ج-و-ب (İsteyene Vermek ve Yanıtlamak vs Zorbalıkla Azarlamak `وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ` `93:10`)",
+      "ن-ه-ر (`فَلَا تَنْهَرْ` — İsteyeni Azarlamak ↔ Sorana Açık Cevap `فَإِنِّى قَرِيبٌ أُجِيبُ` — 2:186, 93:10)",
+      "م-ن-ع (`ٱلْمَحْرُوم` İstemekten Mahrum Utangaç vs `ٱلسَّآئِل` İsteyen — 51:19, 70:25)",
+      "يُسْـَٔلُ ↔ لَا يُسْـَٔلُ (`21:23`: Hesap Sormadan Sorumluya — Tek Ayette Mesânî!)"
+    ],
+    "key_ayahs": [
+      "21:23 (لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ — mutlak fail ile sorumlu varlıkların Mesânî zıtlığı)",
+      "93:10 (وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ — sormak/istemek karşısında tersleyip azarlama yasağı)",
+      "51:19 & 70:25 (لِّلسَّآئِلِ وَٱلْمَحْرُومِ — açıkça isteyen ile istemekten çekinip mahrum kalan)",
+      "17:34 & 17:36 (إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا / كُلُّ أُو۟لَٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا — sorumsuzluk vs tam sorumluluk)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'س-أ-ل bilgi-hak talep etmek ve sorumluluğu sorgulamaksa zıddı nedir?' Cevap: İhtiyaç/bilgi isteyenin yüzüne kapatıp azarlamak (`ن-ه-ر` `93:10`), isteyenin çağrısına yanıt vermek (`أُجِيبُ` `2:186`) ve istemekten yoksun kalanla karşıtlık kuran `ٱلْمَحْرُوم` (`51:19`, `70:25`); hesap düzleminde ise `لَا يُسْـَٔلُ` (`21:23`) ile mutlak sorumsuzluktur. Çift yönlü Mesânî testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "لَا يُسْـَٔلُ (`3MS` Meçhul: Mutlak Yaratıcı Sorgulanmaz) vs وَهُمْ يُسْـَٔلُونَ (`3MP` Meçhul: Bütün Kullara Hesap Sorulur) — 21:23",
+      "تُسْـَٔلُونَ (`2MP` Meçhul) vs نُسْـَٔلُ (`1P` Meçhul) — Bireysel Hesap Ayrılığı (`34:25`)",
+      "ٱلسَّآئِل (`İsteyen Muhtaç`) vs ٱلْمَحْرُوم (`İsteyemeyen Yoksun`) — 51:19 & 70:25",
+      "سَأَلْتُمُوهُنَّ (`İstediniz`) vs فَسْـَٔلُوهُنَّ (`İsteyin`) — 33:53 ve تَسْـَٔلُوا۟ (`2MP`) vs سُئِلَ (`3MS` Meçhul) — 2:108"
+    ],
+    "mechanical_difference": "1) Kur'an aynı kökün tek ayet içi çaprazlamasını `11` ayrı ayette yapar: `21:23`te tekil meçhul Mutlak Yaratıcı'yı, çoğul meçhul kulları yargı önüne çıkarır. 2) `34:25`te ('siz bizim suçumuzdan sorgulanmazsınız, biz de sizin yaptığınızdan sorgulanmayız') ve `2:134,141`de toplu kefaret veya soy miraslı hesap fikrini kökten yıkar. 3) `51:19` ve `70:25`te `ٱلسَّآئِل` (ihtiyacını açıkça isteyen) ile `ٱلْمَحْرُوم` (ihtiyacı olup gururundan isteyemeyen veya paydan yoksun bırakılan) toplumsal refah paylaşımında eşlenir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "17:34 & 17:36",
+      "role": "Sözleşme ve Duyu Sorumluluğu Çapası (إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا / كَانَ عَنْهُ مَسْـُٔولًا)",
+      "literal_meaning": "'Verdiğiniz ahdi yerine getirin; doğrusu her ahit hesabı sorulacak bir sorumluluktur (`مَسْـُٔولًا`)' ve 'işitme, görme ve gönül algısının tamamı ondan sorguya çekilecektir (`مَسْـُٔولًا`).'"
+    },
+    {
+      "ref": "21:23",
+      "role": "Mutlak Otorite vs Sorumlu Varlık Çapası (لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ)",
+      "literal_meaning": "'O yaptığından sorguya çekilmez (`لَا يُسْـَٔلُ`); oysa onların hepsi yaptıklarından hesaba çekilirler (`يُسْـَٔلُونَ`).'"
+    },
+    {
+      "ref": "16:43 & 21:7",
+      "role": "Bilgi Danışma Yasası Çapası (فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ)",
+      "literal_meaning": "'Eğer bilmiyorsanız önceki bilgi ve vahiy ehline sorun (`فَسْـَٔلُوٓا۟`)!'"
+    },
+    {
+      "ref": "93:10 & 51:19",
+      "role": "İsteyene Şefkat ve Hak Çapası (وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ / حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ)",
+      "literal_meaning": "'Bilgi veya yardım isteyeni (`ٱلسَّآئِلَ`) asla azarlama!' ve 'onların mallarında yardım isteyen (`لِّلسَّآئِلِ`) ile yoksun kalanın belirlenmiş hakkı vardır.'"
+    },
+    {
+      "ref": "81:8",
+      "role": "Masum Mağdurun Sorgusu Çapası (وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ)",
+      "literal_meaning": "'Diri diri toprağa gömülen kız çocuğuna (`ٱلْمَوْءُۥدَةُ`) hangi suçtan ötürü öldürüldüğü sorulduğunda (`سُئِلَتْ`).'"
+    },
+    {
+      "ref": "38:24",
+      "role": "Haksız Talep Eleştirisi Çapası (ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ)",
+      "literal_meaning": "'Kendi koyunlarına katmak için senin tek koyununu da istemekle (`بِسُؤَالِ`) gerçekten sana haksızlık etmiştir.'"
+    },
+    {
+      "ref": "20:36 & 2:186",
+      "role": "Doğrudan Talep ve Yakınlık Çapası (قَدْ أُوتِيتَ سُؤْلَكَ / وَإِذَا سَأَلَكَ عِبَادِى عَنِّى)",
+      "literal_meaning": "'Dilediğin tüm isteklerin (`سُؤْلَكَ`) sana verildi ey Mûsâ!' ve 'kullarım sana Benden sorunca (`سَأَلَكَ`), bilesin Ben çok yakınım.'"
+    },
+    {
+      "ref": "4:1 & 5:101",
+      "role": "Karşılıklı Hak ve Aşırı Soru Sınırı (تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ / لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ)",
+      "literal_meaning": "'Birbirinizden bir şey isterken adını andığınız Allah'a ve akrabalık haklarına karşı duyarlı olun' ve 'açıklandığında sizi zora sokacak gereksiz şeyleri sormayın!'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) I. bab `سَأَلَ` (`106 V`: `87` malûm + `19` meçhul) iki ayrı kalıpla çalışır: 'birinden bilgi sormak' (`سَأَلَ فُلَانًا عَنْ كَذَا`) ve doğrudan çift mef'ûl alarak 'bir şey istemek' (`2:108`, `60:10`, `38:24` `بِسُؤَالِ نَعْجَتِكَ`); `19` meçhul çekimi (`سُئِلَ`, `سُئِلَتْ`, `تُسْـَٔلُونَ`, `لَتُسْـَٔلُنَّ`) hesap ve ahiret sorgulamasını taşır. 2) VI. bab `تَسَآءَلَ` (`9 V`, orijinali `تَتَسَاءَلُ`) özneler arası karşılıklı sorma ve hak isteme işleşliğidir (`4:1`). 3) İsm-i fâil `سَآئِل` (`7 N`) bağlama göre soran (`12:7`, `70:1`) veya yardım isteyen (`93:10`); ism-i mef'ûl `مَسْـُٔول` (`5 N`) ise sorguya çekilip hesabı sorulacak kişi, organ (`17:36`) veya ahit/vattir (`17:34`, `25:16`, `33:15`). 4) Tek geçişli iki masdar: `سُؤْل` (`20:36` dilenen dilek) ve `سُؤَال` (`38:24` isteme eylemi). 5) Rasm-ı Osmânî'de kök tüm mushaf genelinde `63` ayrı imlâ şekli üretir: `سَلْ` (`2:211`) ve `سَلْهُمْ` (`68:40`) bağlaçsız emirlerde hem vasıl elifi hem kök hemzesi tamamen düşer; bağlaçlı emir ve muzârilerde (`فَسْـَٔلْ`, `يَسْـَٔلُونَكَ`, `مَسْـُٔولًا`) ise hemze kürsüsüz (alifsiz/vâvsız) boşluk üzerine yazılır.",
+  "derivatives": {
+    "سَأَلَ (`106 V`, I. bab: `87` malûm + `19` meçhul) & تَسَآءَلَ (`9 V`, VI. bab)": "Bilgi sormak (`16:43`, `2:186`), ihtiyaç/hak istemek (`4:1`, `60:10`) ve bireysel-evrensel hesap sorgusu (`21:23`, `34:25`, `81:8`, `102:8`)",
+    "سَآئِل (`7 N`, ism-i fâil) & سُؤْل (`1 N` `20:36`) & سُؤَال (`1 N` `38:24`)": "Bilgi araştıran, ihtiyaç isteyen, azarlanmaması gereken muhtaç (`12:7`, `51:19`, `93:10`), arzu edilen dilek (`20:36`) ve haksız talep (`38:24`)",
+    "مَسْـُٔول (`5 N`: `4` tekil + `1` çoğul)": "Ahit, kulak-göz-gönül sorumluluğu ve hesap önünde durdurulanlar (`17:34,36`, `25:16`, `33:15`, `37:24`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 61,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:61",
+      "word_position": 36,
+      "target_word_uthmani": "سَأَلْتُمْ",
+      "target_word_rasm": "سألتم",
+      "target_word_literal_irab": "Sorarsınız / istersiniz / sordunuz (`تَسْـَٔلُوا۟ / سَأَلْتُم`, I. bab `2MP`)",
+      "context_snippet_arabic": "فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin\" demiştiniz de, \"Hayırlı olanı daha düşük şeyle mi değiştirmek istiyorsunuz? Bir şehre inin, şüphesiz orada istediğiniz vardır\" demişti. Onlara yoksulluk ve düşkünlük damgası vuruldu, Allah'ın gazabına uğradılar. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Musa! Bir çeşit yemeğe dayanamayacağız, bizim için Rabbine yalvar, bize, yerin bitirdiği sebze, hıyar, sarımsak, mercimek ve soğan yetiştirsin\" demiştiniz de, \"Hayırlı olanı daha düşük şeyle mi değiştirmek istiyorsunuz? Bir şehre inin, şüphesiz orada istediğiniz vardır\" demişti. Onlara yoksulluk ve düşkünlük damgası vuruldu, Allah'ın gazabına uğradılar. Bu, Allah'ın ayetlerini gerçeğin üzerini ört ve haksız yere elçileri öldürmelerindendi; bu, karşı gelmeleri ve taşkınlık yapmalarındandı.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 108,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:108",
+      "word_position": 4,
+      "target_word_uthmani": "تَسْـَٔلُوا۟",
+      "target_word_rasm": "تسـلوا",
+      "target_word_literal_irab": "Sorarsınız / istersiniz / sordunuz (`تَسْـَٔلُوا۟ / سَأَلْتُم`, I. bab `2MP`)",
+      "context_snippet_arabic": "أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, daha önce Musa'nın sorguya çekildiği gibi, siz de elçinizi sorguya mı çekmek istiyorsunuz? güven bağı gerçeğin üzerini örterek değiştiren, şüphesiz doğru yoldan sapmış olur.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ وَمَن يَتَبَدَّلِ ٱلْكُفْرَ بِٱلْإِيمَٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, daha önce Musa'nın sorguya çekildiği gibi, siz de elçinizi sorguya mı çekmek istiyorsunuz? güven bağı gerçeğin üzerini örterek değiştiren, şüphesiz doğru yoldan sapmış olur.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 108,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:108",
+      "word_position": 7,
+      "target_word_uthmani": "سُئِلَ",
+      "target_word_rasm": "سئل",
+      "target_word_literal_irab": "Kendilerinden istendi / kendisine sorulduğu gibi (`سُئِلَ / سُئِلُوا۟`, I. bab meçhul mâzî)",
+      "context_snippet_arabic": "تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, daha önce Musa'nın sorguya çekildiği gibi, siz de elçinizi sorguya mı çekmek istiyorsunuz? güven bağı gerçeğin üzerini örterek değiştiren, şüphesiz doğru yoldan sapmış olur.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "أَمْ تُرِيدُونَ أَن تَسْـَٔلُوا۟ رَسُولَكُمْ كَمَا سُئِلَ مُوسَىٰ مِن قَبْلُ وَمَن يَتَبَدَّلِ ٱلْكُفْرَ بِٱلْإِيمَٰنِ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, daha önce Musa'nın sorguya çekildiği gibi, siz de elçinizi sorguya mı çekmek istiyorsunuz? güven bağı gerçeğin üzerini örterek değiştiren, şüphesiz doğru yoldan sapmış olur.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 119,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:119",
+      "word_position": 7,
+      "target_word_uthmani": "تُسْـَٔلُ",
+      "target_word_rasm": "تسـل",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "بَشِيرًا وَنَذِيرًا وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz, seni hak ile, müjdeci ve uyarıcı olarak göndermişizdir. Sen, yakıcı yıkım yurdu ehlinden sorumlu tutulmayacaksın.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz, seni hak ile, müjdeci ve uyarıcı olarak göndermişizdir. Sen, yakıcı yıkım yurdu ehlinden sorumlu tutulmayacaksın.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 134,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:134",
+      "word_position": 12,
+      "target_word_uthmani": "تُسْـَٔلُونَ",
+      "target_word_rasm": "تسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "مَّا كَسَبْتُمْ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "contextual_meaning": "Bireysel ve kuşaksal sorumluluk devredilemezliği (`لَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ` / `وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ`): Kimse başkasının eyleminden sorgulanmaz."
+    },
+    {
+      "surah": 2,
+      "ayah": 141,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:141",
+      "word_position": 12,
+      "target_word_uthmani": "تُسْـَٔلُونَ",
+      "target_word_rasm": "تسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "مَّا كَسَبْتُمْ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "contextual_meaning": "Bireysel ve kuşaksal sorumluluk devredilemezliği (`لَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ` / `وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ`): Kimse başkasının eyleminden sorgulanmaz."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 29,
+      "target_word_uthmani": "وَٱلسَّآئِلِينَ",
+      "target_word_rasm": "وٱلسائلين",
+      "target_word_literal_irab": "Bilgi veya ihtiyaç talep edip yardım isteyenler (`ٱلسَّآئِلَ / لِّلسَّآئِلِ / وَٱلسَّآئِلِينَ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ",
+      "context_snippet_turkish_tabula_rasa": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güve...",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "contextual_meaning": "Toplumsal paylaşım hakkı: tüm rızık arayanlar için dengeli ölçü (`سَوَآءً لِّلسَّآئِلِينَ` `41:10`) ve muhtaçların maldaki sabit hakkı (`2:177`, `51:19`, `70:25`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 186,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:186",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلَكَ",
+      "target_word_rasm": "سألك",
+      "target_word_literal_irab": "Sordu veya açıkça istedi (`سَأَلَ / سَأَلُوا۟ / سَأَلْتَهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى",
+      "context_snippet_turkish_tabula_rasa": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarım sana Beni sorarlarsa, bilsinler ki Ben, şüphesiz onlara yakınım. Benden isteyenin, dua ettiğinde duasını kabul ederim. Artık onlar da davetimi kabul edip Bana güven duy ki doğru yolda yürüyenlerden olsunlar.",
+      "contextual_meaning": "Kulların seni benden sorduğunda (`سَأَلَكَ عِبَادِى عَنِّى` `2:186`): Aracısız doğrudan yakınlık yanıtı."
+    },
+    {
+      "surah": 2,
+      "ayah": 189,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:189",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "Sana hilal halindeki ayları sorarlar. De ki: ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hilal halindeki ayları sorarlar. De ki: \"Onlar, insanların ve büyük yöneliş toplanması vakitlerinin ölçüsüdür\". Evlere arkalarından girmeniz iyilik değildir; iyi kimse kötülükten sakınan kimsedir. Evlere kapılarından girin; Allah'tan sakının ki muradınıza erersiniz.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 211,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:211",
+      "word_position": 1,
+      "target_word_uthmani": "سَلْ",
+      "target_word_rasm": "سل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "سَلْ بَنِىٓ إِسْرَٰٓءِيلَ كَمْ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarına sor; onlara apaçık nice ayetler verdik, Allah'ın nimetini, kendisine geldikten sonra kim değiştirirse, bilsin ki, Allah'ın cezası şüphesiz şiddetlidir.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "سَلْ بَنِىٓ إِسْرَٰٓءِيلَ كَمْ ءَاتَيْنَٰهُم مِّنْ ءَايَةٍۭ بَيِّنَةٍ وَمَن يُبَدِّلْ نِعْمَةَ ٱللَّهِ مِنۢ بَعْدِ مَا جَآءَتْهُ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarına sor; onlara apaçık nice ayetler verdik, Allah'ın nimetini, kendisine geldikten sonra kim değiştirirse, bilsin ki, Allah'ın cezası şüphesiz şiddetlidir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 215,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:215",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "Sana, ne dolaşıma sokup paylaşacaklarını sorarlar, de ki: \"Sarfedeceğiniz mal, ana baba, yakınlar, yetimler, düşkünler, yolcular içindir. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, ne dolaşıma sokup paylaşacaklarını sorarlar, de ki: \"Sarfedeceğiniz mal, ana baba, yakınlar, yetimler, düşkünler, yolcular içindir. Yaptığınız her iyiliği Allah şüphesiz bilir\".",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ",
+      "context_snippet_turkish_tabula_rasa": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. İşte yakıcı yıkım yurdu ehli onlardır, onlar orada temellidirler.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 219,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:219",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ",
+      "context_snippet_turkish_tabula_rasa": "Sana içki ve kumarı sorarlar, de ki: \"İkisinde hem büyük sapma ve ağır kusur ve hem insanlara bazı faydalar vardır. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana içki ve kumarı sorarlar, de ki: \"İkisinde hem büyük sapma ve ağır kusur ve hem insanlara bazı faydalar vardır. sapma ve kusurları faydasından daha büyüktür\". Ne dolaşıma sokup paylaşacaklarını sana sorarlar, de ki: \"Artanı\". Böylece Allah, dünya ve ahiret hususunda düşünesiniz diye size ayetleri açıklar.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 219,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:219",
+      "word_position": 15,
+      "target_word_uthmani": "وَيَسْـَٔلُونَكَ",
+      "target_word_rasm": "ويسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ",
+      "context_snippet_turkish_tabula_rasa": "Sana içki ve kumarı sorarlar, de ki: \"İkisinde hem büyük sapma ve ağır kusur ve hem insanlara bazı faydalar vardır. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana içki ve kumarı sorarlar, de ki: \"İkisinde hem büyük sapma ve ağır kusur ve hem insanlara bazı faydalar vardır. sapma ve kusurları faydasından daha büyüktür\". Ne dolaşıma sokup paylaşacaklarını sana sorarlar, de ki: \"Artanı\". Böylece Allah, dünya ve ahiret hususunda düşünesiniz diye size ayetleri açıklar.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 220,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:220",
+      "word_position": 4,
+      "target_word_uthmani": "وَيَسْـَٔلُونَكَ",
+      "target_word_rasm": "ويسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "Sana yetimleri sorarlar, de ki: \"Onların işlerini düzeltmek hayırlıdır\". ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ قُلْ إِصْلَاحٌ لَّهُمْ خَيْرٌ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana yetimleri sorarlar, de ki: \"Onların işlerini düzeltmek hayırlıdır\". Eğer onlarla bir arada yaşarsanız, artık onlar sizin kardeşlerinizdir. Allah düzeltenden bozanı ayırdetmesini bilir. Allah dileseydi sizi zora sokardı. Allah şüphesiz güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 1,
+      "target_word_uthmani": "وَيَسْـَٔلُونَكَ",
+      "target_word_rasm": "ويسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "Sana, kadınların aybaşı hali hakkında da sorarlar, de ki: \"O bir ezadır (rahatsızlıktır)\". ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kadınların aybaşı hali hakkında da sorarlar, de ki: \"O bir ezadır (rahatsızlıktır)\". Aybaşı halinde iken kadınlardan el çekin, temizlenmelerine kadar onlara yaklaşmayın. Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 273,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:273",
+      "word_position": 20,
+      "target_word_uthmani": "يَسْـَٔلُونَ",
+      "target_word_rasm": "يسـلون",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "تَعْرِفُهُم بِسِيمَٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا وَمَا",
+      "context_snippet_turkish_tabula_rasa": "... Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. dolaşıma sokup paylaştığınız iyi bir şeyi Allah şüphesiz bilir.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sadakalarınızı, kendilerini Allah yoluna adayıp yeryüzünde dolaşamayanlara, hayalarından dolayı, kendilerini tanımayanların zengin saydıkları yoksullara verin. Onları yüzlerinden tanırsın, insanlardan yüzsüzlük ederek bir şey istemezler. dolaşıma sokup paylaştığınız iyi bir şeyi Allah şüphesiz bilir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 1,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:1",
+      "word_position": 21,
+      "target_word_uthmani": "تَسَآءَلُونَ",
+      "target_word_rasm": "تساءلون",
+      "target_word_literal_irab": "Birbirinizden hak ve yardım istemekte kullandığınız (`تَسَآءَلُونَ`, VI. bab muzâri `2MP`)",
+      "context_snippet_arabic": "وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ey İnsanlar! Sizi bir tek tek bir candan ve özden yaratan, ondan eşini var eden ve ikisinden pek çok erkek ve kadın meydana getiren Rabb'inize hürmetsizlikten s...",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Sizi bir tek tek bir candan ve özden yaratan, ondan eşini var eden ve ikisinden pek çok erkek ve kadın meydana getiren Rabb'inize hürmetsizlikten sakının. Kendisi adına birbirinizden dilekte bulunduğunuz Allah'ın ve akrabanın haklarına riayetsizliktende sakının. Allah şüphesiz hepinizi görüp gözetmektedir.",
+      "contextual_meaning": "Sosyal dayanışma hukuku (`تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ` `4:1`): İnsanların birbirinden hak ve iyilik isterken sığındıkları Yüce Ad ve akrabalık bağları."
+    },
+    {
+      "surah": 4,
+      "ayah": 32,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:32",
+      "word_position": 18,
+      "target_word_uthmani": "وَسْـَٔلُوا۟",
+      "target_word_rasm": "وسـلوا",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "... Erkeklere, kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. Allah'tan bol nimet isteyin. Doğrusu Allah her şeyi bilir.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sizi birbirinizden üstün kıldığı şeyleri özlemeyin. Erkeklere, kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. Allah'tan bol nimet isteyin. Doğrusu Allah her şeyi bilir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 153,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:153",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُكَ",
+      "target_word_rasm": "يسـلك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve \"Bize Allah'ı apaçık göster\" demişlerdi. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve \"Bize Allah'ı apaçık göster\" demişlerdi. Zulümlerinden ötürü onları yıldırım çarpmıştı. Belgeler kendilerine geldikten sonra da, buzağıyı sığınak mercii (ilâh) olarak benimsediler, fakat bunları affettik ve Musa'ya apaçık bir hüccet verdik, söz vermelerine karşılık Tur dağını üzerlerine kaldırdık ve onlara: \"Kapıdan boyun eğme ve teslimiyet ederek girin\" dedik, \"Cumartesileri aşırı gitmeyin\" dedik, onlardan sağlam bir söz aldık.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 153,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:153",
+      "word_position": 11,
+      "target_word_uthmani": "سَأَلُوا۟",
+      "target_word_rasm": "سألوا",
+      "target_word_literal_irab": "Sordu veya açıkça istedi (`سَأَلَ / سَأَلُوا۟ / سَأَلْتَهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve \"Bize Allah'ı apaçık göster\" demişlerdi. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve \"Bize Allah'ı apaçık göster\" demişlerdi. Zulümlerinden ötürü onları yıldırım çarpmıştı. Belgeler kendilerine geldikten sonra da, buzağıyı sığınak mercii (ilâh) olarak benimsediler, fakat bunları affettik ve Musa'ya apaçık bir hüccet verdik, söz vermelerine karşılık Tur dağını üzerlerine kaldırdık ve onlara: \"Kapıdan boyun eğme ve teslimiyet ederek girin\" dedik, \"Cumartesileri aşırı gitmeyin\" dedik, onlardan sağlam bir söz aldık.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 4,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:4",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sana, kendilerine neyin helal kılındığını soruyorlar, de ki: Size temiz olanlar helal kılındı; ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kendilerine neyin helal kılındığını soruyorlar, de ki: Size temiz olanlar helal kılındı; Allah'ın size öğrettiği üzere alıştırıp yetiştirerek öğrettiğiniz avcı hayvanların sizin için tuttuklarını yiyin ve üzerine Allah'ın adını anın. Allah'tan sakının, doğrusu Allah hesabı çabuk görür.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 101,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:101",
+      "word_position": 5,
+      "target_word_uthmani": "تَسْـَٔلُوا۟",
+      "target_word_rasm": "تسـلوا",
+      "target_word_literal_irab": "Sorarsınız / istersiniz / sordunuz (`تَسْـَٔلُوا۟ / سَأَلْتُم`, I. bab `2MP`)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Size açıklanınca hoşunuza gitmeyecek şeyleri sormayın. Kuran indirilirken onları sorarsanız size açıklanır (ama üzülürsünüz). ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Size açıklanınca hoşunuza gitmeyecek şeyleri sormayın. Kuran indirilirken onları sorarsanız size açıklanır (ama üzülürsünüz). Allah sorduğunuz şeyleri affetmiştir. Allah Bağışlayan'dır, Halim'dir.",
+      "contextual_meaning": "Yıkıcı merak veya gereksiz ayrıntı dayatma uyarısı (`لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ` `5:101`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 101,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:101",
+      "word_position": 13,
+      "target_word_uthmani": "تَسْـَٔلُوا۟",
+      "target_word_rasm": "تسـلوا",
+      "target_word_literal_irab": "Sorarsınız / istersiniz / sordunuz (`تَسْـَٔلُوا۟ / سَأَلْتُم`, I. bab `2MP`)",
+      "context_snippet_arabic": "لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Size açıklanınca hoşunuza gitmeyecek şeyleri sormayın. Kuran indirilirken onları sorarsanız size açıklanır (ama üzülürsünüz). ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ غَفُورٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Size açıklanınca hoşunuza gitmeyecek şeyleri sormayın. Kuran indirilirken onları sorarsanız size açıklanır (ama üzülürsünüz). Allah sorduğunuz şeyleri affetmiştir. Allah Bağışlayan'dır, Halim'dir.",
+      "contextual_meaning": "Yıkıcı merak veya gereksiz ayrıntı dayatma uyarısı (`لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ` `5:101`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 102,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:102",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلَهَا",
+      "target_word_rasm": "سألها",
+      "target_word_literal_irab": "Sordu veya açıkça istedi (`سَأَلَ / سَأَلُوا۟ / سَأَلْتَهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "قَدْ سَأَلَهَا قَوْمٌ مِّن قَبْلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizden önce bir millet onları sormuştu, sonra da onları gerçeğin üzerini örtmüş.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "قَدْ سَأَلَهَا قَوْمٌ مِّن قَبْلِكُمْ ثُمَّ أَصْبَحُوا۟ بِهَا كَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önce bir millet onları sormuştu, sonra da onları gerçeğin üzerini örtmüş.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 90,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:90",
+      "word_position": 9,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "ٱقْتَدِهْ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ",
+      "context_snippet_turkish_tabula_rasa": "İşte bunlar Allah'ın doğru yola eriştirdikleridir, onların yoluna uy, \"Sizden buna karşılık bir ücret istemem, bu sadece herkes için bir hatırlatmadır\" de.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ فَبِهُدَىٰهُمُ ٱقْتَدِهْ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar Allah'ın doğru yola eriştirdikleridir, onların yoluna uy, \"Sizden buna karşılık bir ücret istemem, bu sadece herkes için bir hatırlatmadır\" de.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 6,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:6",
+      "word_position": 1,
+      "target_word_uthmani": "فَلَنَسْـَٔلَنَّ",
+      "target_word_rasm": "فلنسـلن",
+      "target_word_literal_irab": "Hepsini mutlaka sorguya çekip soracağız (`فَلَنَسْـَٔلَنَّ / لَنَسْـَٔلَنَّهُمْ`, I. bab `1P`)",
+      "context_snippet_arabic": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, kendilerine elçi gönderilenlere soracağız, elçilere de soracağız.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1P"
+      },
+      "ayah_text_arabic_full": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, kendilerine elçi gönderilenlere soracağız, elçilere de soracağız.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 6,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:6",
+      "word_position": 5,
+      "target_word_uthmani": "وَلَنَسْـَٔلَنَّ",
+      "target_word_rasm": "ولنسـلن",
+      "target_word_literal_irab": "Hepsini mutlaka sorguya çekip soracağız (`فَلَنَسْـَٔلَنَّ / لَنَسْـَٔلَنَّهُمْ`, I. bab `1P`)",
+      "context_snippet_arabic": "ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, kendilerine elçi gönderilenlere soracağız, elçilere de soracağız.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1P"
+      },
+      "ayah_text_arabic_full": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, kendilerine elçi gönderilenlere soracağız, elçilere de soracağız.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 163,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:163",
+      "word_position": 1,
+      "target_word_uthmani": "وَسْـَٔلْهُمْ",
+      "target_word_rasm": "وسـلهم",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Onlara, deniz kıyısındaki kasabanın durumunu sor. Cumartesi yasaklarına tecavüz ediyorlardı. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, deniz kıyısındaki kasabanın durumunu sor. Cumartesi yasaklarına tecavüz ediyorlardı. Cumartesileri balıklar sürüyle geliyor, başka günler gelmiyorlardı. Biz onları, yoldan çıkmaları sebebiyle böylece deniyorduk.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 187,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:187",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ",
+      "context_snippet_turkish_tabula_rasa": "Sana, kıyamet saatinin ne zaman gelip çatacağını soruyorlar, de ki: \"Onu ancak Rabbim bilir, onun vaktini, O'ndan başka belirtecek yoktur. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kıyamet saatinin ne zaman gelip çatacağını soruyorlar, de ki: \"Onu ancak Rabbim bilir, onun vaktini, O'ndan başka belirtecek yoktur. Göklerin ve yerin, ağırlığını kaldıramayacağı o saat, sizlere ansızın gelecektir.\" Sen sanki öğrenmişsin gibi sana soruyorlar, de ki: \"Onu bilmek ancak Allah'a mahsustur, ama insanların çoğu bu gerçeği bilmezler.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 187,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:187",
+      "word_position": 24,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "تَأْتِيكُمْ إِلَّا بَغْتَةً يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا",
+      "context_snippet_turkish_tabula_rasa": "Sana, kıyamet saatinin ne zaman gelip çatacağını soruyorlar, de ki: \"Onu ancak Rabbim bilir, onun vaktini, O'ndan başka belirtecek yoktur. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kıyamet saatinin ne zaman gelip çatacağını soruyorlar, de ki: \"Onu ancak Rabbim bilir, onun vaktini, O'ndan başka belirtecek yoktur. Göklerin ve yerin, ağırlığını kaldıramayacağı o saat, sizlere ansızın gelecektir.\" Sen sanki öğrenmişsin gibi sana soruyorlar, de ki: \"Onu bilmek ancak Allah'a mahsustur, ama insanların çoğu bu gerçeği bilmezler.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 1,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:1",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ",
+      "context_snippet_turkish_tabula_rasa": "Sana, ganimetlere dair soru sorarlar, de ki: Ganimetler Allah'ın ve elçi. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, ganimetlere dair soru sorarlar, de ki: Ganimetler Allah'ın ve elçi. güven duy Allah'tan sakının, aranızdaki münasebetleri düzeltin, Allah'a ve elçisine itaat edin.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 65,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:65",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُمْ",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا",
+      "context_snippet_turkish_tabula_rasa": "Onlara soracak olursan, \"Biz and olsun ki, eğlenip oynuyorduk\" diyecekler; De ki: \"Allah'la, ayetleriyle, elçisiyle mi alay ediyordunuz?\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara soracak olursan, \"Biz and olsun ki, eğlenip oynuyorduk\" diyecekler; De ki: \"Allah'la, ayetleriyle, elçisiyle mi alay ediyordunuz?\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 72,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:72",
+      "word_position": 4,
+      "target_word_uthmani": "سَأَلْتُكُم",
+      "target_word_rasm": "سألتكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer yüz çevirirseniz bilin ki, ben sizden bir ücret istemiyorum. Benim ecrim Allah'a aiddir. Müslimlerden olmakla emrolundum.\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer yüz çevirirseniz bilin ki, ben sizden bir ücret istemiyorum. Benim ecrim Allah'a aiddir. Müslimlerden olmakla emrolundum.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 94,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:94",
+      "word_position": 8,
+      "target_word_uthmani": "فَسْـَٔلِ",
+      "target_word_rasm": "فسـل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "Sana indirdiğimizden şüphede isen, senden önce indirdiğimiz Kitap'ları okuyanlara sor. And olsun ki, sana Rabbinden gerçek gelmiştir, sakın şüphelenenlerden olma.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "فَإِن كُنتَ فِى شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَٰبَ مِن قَبْلِكَ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana indirdiğimizden şüphede isen, senden önce indirdiğimiz Kitap'ları okuyanlara sor. And olsun ki, sana Rabbinden gerçek gelmiştir, sakın şüphelenenlerden olma.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 29,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:29",
+      "word_position": 3,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا إِنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Buna karşılık ben sizden bir mal da istemiyorum. Benim ücretim Allah'a aittir; ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Buna karşılık ben sizden bir mal da istemiyorum. Benim ücretim Allah'a aittir; güvene erenleri da kovacak değilim; çünkü onlar Rableriyle karşılaşacaklar; fakat ben sizi cahil bir millet olarak görüyorum.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 46,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:46",
+      "word_position": 12,
+      "target_word_uthmani": "تَسْـَٔلْنِ",
+      "target_word_rasm": "تسـلن",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "غَيْرُ صَٰلِحٍ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Ey Nuh! O senin ailenden sayılmaz; çünkü kötü bir iş işlemiştir; öyleyse bilmediğin şeyi Benden isteme. İşte sana öğüt, bilgisizlerden olma\" dedi.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ إِنَّهُۥ عَمَلٌ غَيْرُ صَٰلِحٍ فَلَا تَسْـَٔلْنِ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَٰهِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey Nuh! O senin ailenden sayılmaz; çünkü kötü bir iş işlemiştir; öyleyse bilmediğin şeyi Benden isteme. İşte sana öğüt, bilgisizlerden olma\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 47,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:47",
+      "word_position": 7,
+      "target_word_uthmani": "أَسْـَٔلَكَ",
+      "target_word_rasm": "أسـلك",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbim! Bilmediğim şeyi Senden istemekten Sana sığınırım. Beni bağışlamaz ve bana merhamet etmezsen kaybedenlerden olurum\" dedi.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbim! Bilmediğim şeyi Senden istemekten Sana sığınırım. Beni bağışlamaz ve bana merhamet etmezsen kaybedenlerden olurum\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 51,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:51",
+      "word_position": 3,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Buna karşılık sizden bir ücret istemiyorum. Benim ücretim ancak beni yaratana aittir. Akletmez misiniz?\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "يَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱلَّذِى فَطَرَنِىٓ أَفَلَا تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Buna karşılık sizden bir ücret istemiyorum. Benim ücretim ancak beni yaratana aittir. Akletmez misiniz?\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 7,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:7",
+      "word_position": 7,
+      "target_word_uthmani": "لِّلسَّآئِلِينَ",
+      "target_word_rasm": "للسائلين",
+      "target_word_literal_irab": "Merakla araştırıp soran / soruyu yönelten (`لِّلسَّآئِلِينَ / سَآئِلٌۢ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌ لِّلسَّآئِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Yusuf ve kardeşlerinin olayında, soranlara nice ibretler vardır.",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌ لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Yusuf ve kardeşlerinin olayında, soranlara nice ibretler vardır.",
+      "contextual_meaning": "Araştırıp bilmek isteyenler için ibret (`لِّلسَّآئِلِينَ` `12:7`) ve alayla azap isteyen sorucu (`سَآئِلٌۢ` `70:1`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 50,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:50",
+      "word_position": 12,
+      "target_word_uthmani": "فَسْـَٔلْهُ",
+      "target_word_rasm": "فسـله",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ",
+      "context_snippet_turkish_tabula_rasa": "... Yusuf'a elçi gelince, \"Efendine dön, kadınlar niçin ellerini kesmişlerdi bir sor; doğrusu Rabbim onların hilesini bilir\" dedi.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hükümdar: \"Onu bana getirin\" dedi. Yusuf'a elçi gelince, \"Efendine dön, kadınlar niçin ellerini kesmişlerdi bir sor; doğrusu Rabbim onların hilesini bilir\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 82,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:82",
+      "word_position": 1,
+      "target_word_uthmani": "وَسْـَٔلِ",
+      "target_word_rasm": "وسـل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا",
+      "context_snippet_turkish_tabula_rasa": "Onlara sırt çevirdi, \"Vah, Yusuf'a yazık oldu!\" dedi ve üzüntüden gözlerine ak düştü. Artık acısını içinde saklıyordu.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا وَإِنَّا لَصَٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara sırt çevirdi, \"Vah, Yusuf'a yazık oldu!\" dedi ve üzüntüden gözlerine ak düştü. Artık acısını içinde saklıyordu.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 104,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:104",
+      "word_position": 2,
+      "target_word_uthmani": "تَسْـَٔلُهُمْ",
+      "target_word_rasm": "تسـلهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "Oysa sen buna karşılık onlardan bir ücret de istemiyorsun. Kuran, alemler için sadece bir öğüttür.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa sen buna karşılık onlardan bir ücret de istemiyorsun. Kuran, alemler için sadece bir öğüttür.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 34,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:34",
+      "word_position": 5,
+      "target_word_uthmani": "سَأَلْتُمُوهُ",
+      "target_word_rasm": "سألتموه",
+      "target_word_literal_irab": "Sorarsınız / istersiniz / sordunuz (`تَسْـَٔلُوا۟ / سَأَلْتُم`, I. bab `2MP`)",
+      "context_snippet_arabic": "مِّن كُلِّ مَا سَأَلْتُمُوهُ وَإِن تَعُدُّوا۟ نِعْمَتَ",
+      "context_snippet_turkish_tabula_rasa": "Kendisinden isteyebileceğiniz her şeyi size vermiştir. Allah'ın nimetini sayacak olsanız bitiremezsiniz. Doğrusu insan pek zalim ve çok nankördür.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌ كَفَّارٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisinden isteyebileceğiniz her şeyi size vermiştir. Allah'ın nimetini sayacak olsanız bitiremezsiniz. Doğrusu insan pek zalim ve çok nankördür.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 92,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:92",
+      "word_position": 2,
+      "target_word_uthmani": "لَنَسْـَٔلَنَّهُمْ",
+      "target_word_rasm": "لنسـلنهم",
+      "target_word_literal_irab": "Hepsini mutlaka sorguya çekip soracağız (`فَلَنَسْـَٔلَنَّ / لَنَسْـَٔلَنَّهُمْ`, I. bab `1P`)",
+      "context_snippet_arabic": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ أَجْمَعِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına güvene erip bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1P"
+      },
+      "ayah_text_arabic_full": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına güvene erip bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 43,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:43",
+      "word_position": 9,
+      "target_word_uthmani": "فَسْـَٔلُوٓا۟",
+      "target_word_rasm": "فسـلوا",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "رِجَالًا نُّوحِىٓ إِلَيْهِمْ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu senden önce de kendilerine kitablar ve belgelerle vahyettiğimiz bir takım adamlar gönderdik. Bilmiyorsanız kitablılara sorun. Sana da, insanlara gönderileni açıklayasın diye Kuran'ı indirdik. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِمْ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu senden önce de kendilerine kitablar ve belgelerle vahyettiğimiz bir takım adamlar gönderdik. Bilmiyorsanız kitablılara sorun. Sana da, insanlara gönderileni açıklayasın diye Kuran'ı indirdik. Belki düşünürler.",
+      "contextual_meaning": "Bilgi hiyerarşisinde bilmeyenlerin uzman ve vahiy bilgisi sahiplerine danışma emri (`فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 56,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:56",
+      "word_position": 9,
+      "target_word_uthmani": "لَتُسْـَٔلُنَّ",
+      "target_word_rasm": "لتسـلن",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "مِّمَّا رَزَقْنَٰهُمْ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'a and olsun ki, uydurup durduğunuz şeylerden elbette sorguya çekileceksiniz.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَٰهُمْ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine verdiğimiz rızıktan, onların ne olduğunu bilmeyen putlara pay ayırırlar. Allah'a and olsun ki, uydurup durduğunuz şeylerden elbette sorguya çekileceksiniz.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 93,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:93",
+      "word_position": 14,
+      "target_word_uthmani": "وَلَتُسْـَٔلُنَّ",
+      "target_word_rasm": "ولتسـلن",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "وَيَهْدِى مَن يَشَآءُ وَلَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah dileseydi sizi tek bir ümmet yapardı. Ama O, istediğini saptırır, istediğini doğru yola eriştirir. İşlediklerinizden, and olsun ki, sorumlu tutulacaksınız.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَلَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dileseydi sizi tek bir ümmet yapardı. Ama O, istediğini saptırır, istediğini doğru yola eriştirir. İşlediklerinizden, and olsun ki, sorumlu tutulacaksınız.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 34,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:34",
+      "word_position": 17,
+      "target_word_uthmani": "مَسْـُٔولًا",
+      "target_word_rasm": "مسـولا",
+      "target_word_literal_irab": "Kesinlikle sorulup hesabı aranacak sorumluluk (`مَسْـُٔولًا / مَّسْـُٔولًا`, I. bab ism-i mef'ûl mansûb)",
+      "context_snippet_arabic": "إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "context_snippet_turkish_tabula_rasa": "Yetimin malına ergin çağa ulaşana kadar en güzel şeklin dışında yaklaşmayın. Ahdi de yerine getirin, doğrusu verilen ahidde sorumluluk vardır.",
+      "morphology": {
+        "lemma": "maso_#uwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maso_#uwl|ROOT:sAl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimin malına ergin çağa ulaşana kadar en güzel şeklin dışında yaklaşmayın. Ahdi de yerine getirin, doğrusu verilen ahidde sorumluluk vardır.",
+      "contextual_meaning": "Etik sorumluluk ilkesi (`17:34` verilen söz `عَهْد`, `17:36` işitme-görme-kavrama duyuları `مَسْـُٔولًا`): Sahip olunan her yetkinin hesabı sorulur."
+    },
+    {
+      "surah": 17,
+      "ayah": 36,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:36",
+      "word_position": 16,
+      "target_word_uthmani": "مَسْـُٔولًا",
+      "target_word_rasm": "مسـولا",
+      "target_word_literal_irab": "Kesinlikle sorulup hesabı aranacak sorumluluk (`مَسْـُٔولًا / مَّسْـُٔولًا`, I. bab ism-i mef'ûl mansûb)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا",
+      "context_snippet_turkish_tabula_rasa": "Bilmediğin şeyin ardına düşme; doğrusu kulak, göz ve kalp, bunların hepsi o şeyden sorumlu olur.",
+      "morphology": {
+        "lemma": "maso_#uwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maso_#uwl|ROOT:sAl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bilmediğin şeyin ardına düşme; doğrusu kulak, göz ve kalp, bunların hepsi o şeyden sorumlu olur.",
+      "contextual_meaning": "Etik sorumluluk ilkesi (`17:34` verilen söz `عَهْد`, `17:36` işitme-görme-kavrama duyuları `مَسْـُٔولًا`): Sahip olunan her yetkinin hesabı sorulur."
+    },
+    {
+      "surah": 17,
+      "ayah": 85,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:85",
+      "word_position": 1,
+      "target_word_uthmani": "وَيَسْـَٔلُونَكَ",
+      "target_word_rasm": "ويسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ قُلِ",
+      "context_snippet_turkish_tabula_rasa": "Sana canlandırıcı hayat ve vahiy özünün ne olduğunu soruyorlar, de ki: \"canlandırıcı hayat ve vahiy özü, Rabbimin emrinden ibarettir. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana canlandırıcı hayat ve vahiy özünün ne olduğunu soruyorlar, de ki: \"canlandırıcı hayat ve vahiy özü, Rabbimin emrinden ibarettir. Bu hususta size pek az bilgi verilmiştir.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 101,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:101",
+      "word_position": 7,
+      "target_word_uthmani": "فَسْـَٔلْ",
+      "target_word_rasm": "فسـل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Musa'ya dokuz tane apaçık apaçık gösterge verdik. İsrailoğullarına sor, Musa onlara geldiğinde, Firavun kendisine: \"Ey Musa! Ben seni büyülenmiş sanıyorum\" demişti.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Musa'ya dokuz tane apaçık apaçık gösterge verdik. İsrailoğullarına sor, Musa onlara geldiğinde, Firavun kendisine: \"Ey Musa! Ben seni büyülenmiş sanıyorum\" demişti.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 19,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:19",
+      "word_position": 3,
+      "target_word_uthmani": "لِيَتَسَآءَلُوا۟",
+      "target_word_rasm": "ليتساءلوا",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerine sorsunlar diye onları uyandırdık. İçlerinden biri: ...",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ بَعَثْنَٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerine sorsunlar diye onları uyandırdık. İçlerinden biri: \"Ne kadar kaldınız?\" dedi. \"Bir gün veya daha az bir müddet kaldık\" dediler. \"Ne kadar kaldığınızı Rabbiniz daha iyi bilir. Paranızla birinizi şehre gönderin, sakın sizi kimseye duyurmasın\" dediler.",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 70,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:70",
+      "word_position": 5,
+      "target_word_uthmani": "تَسْـَٔلْنِى",
+      "target_word_rasm": "تسـلنى",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "O da: \"O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın\" dedi.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "O da: \"O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 76,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:76",
+      "word_position": 3,
+      "target_word_uthmani": "سَأَلْتُكَ",
+      "target_word_rasm": "سألتك",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Bundan sonra sana bir şey sorarsam bana arkadaş olma, o zaman benim tarafımdan mazur sayılırsın\" dedi.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Bundan sonra sana bir şey sorarsam bana arkadaş olma, o zaman benim tarafımdan mazur sayılırsın\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 83,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:83",
+      "word_position": 1,
+      "target_word_uthmani": "وَيَسْـَٔلُونَكَ",
+      "target_word_rasm": "ويسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ",
+      "context_snippet_turkish_tabula_rasa": "Sana Zülkarneyn'i sorarlar, \"Onu size anlatacağım\" de.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَن ذِى ٱلْقَرْنَيْنِ قُلْ سَأَتْلُوا۟ عَلَيْكُم مِّنْهُ ذِكْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana Zülkarneyn'i sorarlar, \"Onu size anlatacağım\" de.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 36,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:36",
+      "word_position": 4,
+      "target_word_uthmani": "سُؤْلَكَ",
+      "target_word_rasm": "سؤلك",
+      "target_word_literal_irab": "İsteyip talep ettiğin her arzun (`سُؤْلَكَ`, `فُعْل` masdar-isim mansûb)",
+      "context_snippet_arabic": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَٰمُوسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Ey Musa! İstediğin sana verildi\" dedi, \"Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa...",
+      "morphology": {
+        "lemma": "su&ol",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:su&ol|ROOT:sAl|M|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ قَدْ أُوتِيتَ سُؤْلَكَ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey Musa! İstediğin sana verildi\" dedi, \"Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım.\"",
+      "contextual_meaning": "Mûsâ'nın bütün samimi istek ve ihtiyaçlarının karşılanması (`قَدْ أُوتِيتَ سُؤْلَكَ` `20:36`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 105,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:105",
+      "word_position": 1,
+      "target_word_uthmani": "وَيَسْـَٔلُونَكَ",
+      "target_word_rasm": "ويسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ",
+      "context_snippet_turkish_tabula_rasa": "Sana dağları sorarlar; de ki: ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana dağları sorarlar; de ki: \"Rabbim onları ufalayıp savuracak, yerlerini düz, kuru bir toprak haline getirecek; orada ne çukur, ne tümsek göreceksin. O gün, hiçbir tarafa sapmadan bir davetçiye uyarlar. Sesler Rahman'ın heybetinden kısılmıştır; ancak bir fısıltı işitirsin.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 132,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:132",
+      "word_position": 7,
+      "target_word_uthmani": "نَسْـَٔلُكَ",
+      "target_word_rasm": "نسـلك",
+      "target_word_literal_irab": "Hepsini mutlaka sorguya çekip soracağız (`فَلَنَسْـَٔلَنَّ / لَنَسْـَٔلَنَّهُمْ`, I. bab `1P`)",
+      "context_snippet_arabic": "وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ",
+      "context_snippet_turkish_tabula_rasa": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1P"
+      },
+      "ayah_text_arabic_full": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 7,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:7",
+      "word_position": 8,
+      "target_word_uthmani": "فَسْـَٔلُوٓا۟",
+      "target_word_rasm": "فسـلوا",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "رِجَالًا نُّوحِىٓ إِلَيْهِمْ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن",
+      "context_snippet_turkish_tabula_rasa": "Senden önce de, kendilerine vahyettiğimiz adamlar gönderdik. Bilmiyorsanız kitablılara sorun.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِمْ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce de, kendilerine vahyettiğimiz adamlar gönderdik. Bilmiyorsanız kitablılara sorun.",
+      "contextual_meaning": "Bilgi hiyerarşisinde bilmeyenlerin uzman ve vahiy bilgisi sahiplerine danışma emri (`فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 13,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:13",
+      "word_position": 10,
+      "target_word_uthmani": "تُسْـَٔلُونَ",
+      "target_word_rasm": "تسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Koşup kaçmayın; size nimet verilen yere, yurdlarınıza dönün, elbette sorguya çekileceksiniz\" dedik.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Koşup kaçmayın; size nimet verilen yere, yurdlarınıza dönün, elbette sorguya çekileceksiniz\" dedik.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 23,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:23",
+      "word_position": 2,
+      "target_word_uthmani": "يُسْـَٔلُ",
+      "target_word_rasm": "يسـل",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "O, yaptığından sorumlu değildir, onlar ise sorumlu tutulacaklardır.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, yaptığından sorumlu değildir, onlar ise sorumlu tutulacaklardır.",
+      "contextual_meaning": "Mutlak Egemen ile sorumlu varlık sınırı (`لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ` `21:23`): Aynı ayette fiilin tekili Yaratıcı'yı, çoğulu ise tüm kulları sorgu kapsamına alır."
+    },
+    {
+      "surah": 21,
+      "ayah": 23,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:23",
+      "word_position": 6,
+      "target_word_uthmani": "يُسْـَٔلُونَ",
+      "target_word_rasm": "يسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, yaptığından sorumlu değildir, onlar ise sorumlu tutulacaklardır.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, yaptığından sorumlu değildir, onlar ise sorumlu tutulacaklardır.",
+      "contextual_meaning": "Mutlak Egemen ile sorumlu varlık sınırı (`لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ` `21:23`): Aynı ayette fiilin tekili Yaratıcı'yı, çoğulu ise tüm kulları sorgu kapsamına alır."
+    },
+    {
+      "surah": 21,
+      "ayah": 63,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:63",
+      "word_position": 6,
+      "target_word_uthmani": "فَسْـَٔلُوهُمْ",
+      "target_word_rasm": "فسـلوهم",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim: \"Belki onu şu büyükleri yapmıştır, konuşabiliyorlarsa onlara sorun\" dedi.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"Belki onu şu büyükleri yapmıştır, konuşabiliyorlarsa onlara sorun\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 72,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:72",
+      "word_position": 2,
+      "target_word_uthmani": "تَسْـَٔلُهُمْ",
+      "target_word_rasm": "تسـلهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa sen onlardan bir ücret mi istiyorsun? Rabbinin ecri daha iyidir. O, rızık verenlerin en hayırlısıdır.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa sen onlardan bir ücret mi istiyorsun? Rabbinin ecri daha iyidir. O, rızık verenlerin en hayırlısıdır.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 101,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:101",
+      "word_position": 10,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sura üflendiği zaman, o gün, aralarındaki soy yakınlığı fayda vermez ve birbirlerine de birşey soramazlar.",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sura üflendiği zaman, o gün, aralarındaki soy yakınlığı fayda vermez ve birbirlerine de birşey soramazlar.",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 113,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:113",
+      "word_position": 7,
+      "target_word_uthmani": "فَسْـَٔلِ",
+      "target_word_rasm": "فسـل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Bir gün veya daha az bir süre kaldık, sayanlara sor\" derler.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bir gün veya daha az bir süre kaldık, sayanlara sor\" derler.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 16,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:16",
+      "word_position": 10,
+      "target_word_uthmani": "مَّسْـُٔولًا",
+      "target_word_rasm": "مسـولا",
+      "target_word_literal_irab": "Kesinlikle sorulup hesabı aranacak sorumluluk (`مَسْـُٔولًا / مَّسْـُٔولًا`, I. bab ism-i mef'ûl mansûb)",
+      "context_snippet_arabic": "عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا",
+      "context_snippet_turkish_tabula_rasa": "Temelli kalacakları esenlik bahçesinde diledikleri şeyleri bulurlar. Bu, Rabbinin yerine getirilmesi istenen bir vaadidir.",
+      "morphology": {
+        "lemma": "maso_#uwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maso_#uwl|ROOT:sAl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "لَّهُمْ فِيهَا مَا يَشَآءُونَ خَٰلِدِينَ كَانَ عَلَىٰ رَبِّكَ وَعْدًا مَّسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Temelli kalacakları esenlik bahçesinde diledikleri şeyleri bulurlar. Bu, Rabbinin yerine getirilmesi istenen bir vaadidir.",
+      "contextual_meaning": "Sözleşme sorumluluğu (`33:15`), durdurulup sorgulanma (`37:24`) ve yerine getirilecek kesin söz (`وَعْدًا مَّسْـُٔولًا` `25:16`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 57,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:57",
+      "word_position": 3,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben buna karşı sizden bir ücret değil, ancak, Rabbine doğru bir yol tutmak dileyen kimseler olmanızı istiyorum.\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben buna karşı sizden bir ücret değil, ancak, Rabbine doğru bir yol tutmak dileyen kimseler olmanızı istiyorum.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 59,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:59",
+      "word_position": 15,
+      "target_word_uthmani": "فَسْـَٔلْ",
+      "target_word_rasm": "فسـل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "عَلَى ٱلْعَرْشِ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, yeri ve ikisinin arasındakileri altı günde yaratan sonra da arşa hükmeden Rahman'dır. Bunu bir bilene sor.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ ٱلرَّحْمَٰنُ فَسْـَٔلْ بِهِۦ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, yeri ve ikisinin arasındakileri altı günde yaratan sonra da arşa hükmeden Rahman'dır. Bunu bir bilene sor.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 109,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:109",
+      "word_position": 2,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 127,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:127",
+      "word_position": 2,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 145,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:145",
+      "word_position": 2,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "... artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 164,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:164",
+      "word_position": 2,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "... Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 180,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:180",
+      "word_position": 2,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "... Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 66,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:66",
+      "word_position": 7,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "يَوْمَئِذٍ فَهُمْ لَا يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "O gün, haberlere karşı körleşirler, verilecek cevapları kalmaz; birbirlerine de soramazlar.",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, haberlere karşı körleşirler, verilecek cevapları kalmaz; birbirlerine de soramazlar.",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 78,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:78",
+      "word_position": 25,
+      "target_word_uthmani": "يُسْـَٔلُ",
+      "target_word_rasm": "يسـل",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "وَأَكْثَرُ جَمْعًا وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın, önceleri, ondan daha güçlü ve topladığı şey daha fazla olan nice nesilleri yok ettiğini bilmez mi? Suçluların suçları kendilerinden sorulmaz.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Karun: \"Bu servet ancak, bende mevcut bir ilimden ötürü bana verilmiştir\" demişti. Allah'ın, önceleri, ondan daha güçlü ve topladığı şey daha fazla olan nice nesilleri yok ettiğini bilmez mi? Suçluların suçları kendilerinden sorulmaz.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 13,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:13",
+      "word_position": 6,
+      "target_word_uthmani": "وَلَيُسْـَٔلُنَّ",
+      "target_word_rasm": "وليسـلن",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ عَمَّا",
+      "context_snippet_turkish_tabula_rasa": "Onlar kendi ağırlıklarını, kendi ağırlıkları yanında daha nice ağırlıkları yüklenecekler ve uydurup durdukları şeylerden kıyamet günü sorguya çekileceklerdir.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ عَمَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendi ağırlıklarını, kendi ağırlıkları yanında daha nice ağırlıkları yüklenecekler ve uydurup durdukları şeylerden kıyamet günü sorguya çekileceklerdir.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 61,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:61",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُم",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Gökleri ve yeri yaratan, güneşi, ayı buyruğu altında tutan kimdir?\" diye sorarsan, şüphesiz \"Allah'tır\" derler. Öyleyse niçin döndürülüyorlar?",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ لَيَقُولُنَّ ٱللَّهُ فَأَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki onlara: \"Gökleri ve yeri yaratan, güneşi, ayı buyruğu altında tutan kimdir?\" diye sorarsan, şüphesiz \"Allah'tır\" derler. Öyleyse niçin döndürülüyorlar?",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 63,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:63",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُم",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Gökten su indirip onunla, ölümünden sonra yeri dirilten kimdir?\" diye sorarsan, şüphesiz, \"Allah'tır\" derler. De ki: ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ مِنۢ بَعْدِ مَوْتِهَا لَيَقُولُنَّ ٱللَّهُ قُلِ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki onlara: \"Gökten su indirip onunla, ölümünden sonra yeri dirilten kimdir?\" diye sorarsan, şüphesiz, \"Allah'tır\" derler. De ki: \"Övülmek Allah içindir\", fakat çoğu bunu akletmezler.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 25,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:25",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُم",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki onlara: \"Gökleri ve yeri yaratan kimdir?\" diye sorsan, \"Allah'tır\" derler. De ki: \"Hamd Allah'a mahsustur\", ama çoğu bilmezler.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ قُلِ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki onlara: \"Gökleri ve yeri yaratan kimdir?\" diye sorsan, \"Allah'tır\" derler. De ki: \"Hamd Allah'a mahsustur\", ama çoğu bilmezler.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 8,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:8",
+      "word_position": 1,
+      "target_word_uthmani": "لِّيَسْـَٔلَ",
+      "target_word_rasm": "ليسـل",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "لِّيَسْـَٔلَ ٱلصَّٰدِقِينَ عَن صِدْقِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah, doğrulardan doğruluklarını sormak ve gerçeğin üzerini örtenlere can yakıcı azap hazırlamak için bunu yapmıştır.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيَسْـَٔلَ ٱلصَّٰدِقِينَ عَن صِدْقِهِمْ وَأَعَدَّ لِلْكَٰفِرِينَ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, doğrulardan doğruluklarını sormak ve gerçeğin üzerini örtenlere can yakıcı azap hazırlamak için bunu yapmıştır.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 14,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:14",
+      "word_position": 7,
+      "target_word_uthmani": "سُئِلُوا۟",
+      "target_word_rasm": "سئلوا",
+      "target_word_literal_irab": "Kendilerinden istendi / kendisine sorulduğu gibi (`سُئِلَ / سُئِلُوا۟`, I. bab meçhul mâzî)",
+      "context_snippet_arabic": "مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Eğer Medine'nin etrafından üzerlerine varılmış olsa, sonra da kendilerinden fitne çıkarmaları istense hemen buna girişip derhal yapmaktan geri kalmazlardı.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Medine'nin etrafından üzerlerine varılmış olsa, sonra da kendilerinden fitne çıkarmaları istense hemen buna girişip derhal yapmaktan geri kalmazlardı.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 15,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:15",
+      "word_position": 13,
+      "target_word_uthmani": "مَسْـُٔولًا",
+      "target_word_rasm": "مسـولا",
+      "target_word_literal_irab": "Kesinlikle sorulup hesabı aranacak sorumluluk (`مَسْـُٔولًا / مَّسْـُٔولًا`, I. bab ism-i mef'ûl mansûb)",
+      "context_snippet_arabic": "وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, daha önce, sırt çevirip kaçmayacaklarına dair Allah'a ahd vermişlerdi. Allah'a verilen ahd sorulacaktır.",
+      "morphology": {
+        "lemma": "maso_#uwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maso_#uwl|ROOT:sAl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَٰرَ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, daha önce, sırt çevirip kaçmayacaklarına dair Allah'a ahd vermişlerdi. Allah'a verilen ahd sorulacaktır.",
+      "contextual_meaning": "Sözleşme sorumluluğu (`33:15`), durdurulup sorgulanma (`37:24`) ve yerine getirilecek kesin söz (`وَعْدًا مَّسْـُٔولًا` `25:16`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 20,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:20",
+      "word_position": 14,
+      "target_word_uthmani": "يَسْـَٔلُونَ",
+      "target_word_rasm": "يسـلون",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ وَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "... Bu birlikler tekrar gelmiş olsalardı, kendileri çöllerde bedevilerin yanında bulunup, sadece sizin haberlerinizi sormayı dilerlerdi. Aranızda olsalar ancak pek az savaşırlardı.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ وَلَوْ كَانُوا۟ فِيكُم مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, düşman birliklerinin gitmediklerini sanıyorlardı. Bu birlikler tekrar gelmiş olsalardı, kendileri çöllerde bedevilerin yanında bulunup, sadece sizin haberlerinizi sormayı dilerlerdi. Aranızda olsalar ancak pek az savaşırlardı.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 40,
+      "target_word_uthmani": "سَأَلْتُمُوهُنَّ",
+      "target_word_rasm": "سألتموهن",
+      "target_word_literal_irab": "Sorarsınız / istersiniz / sordunuz (`تَسْـَٔلُوا۟ / سَأَلْتُم`, I. bab `2MP`)",
+      "context_snippet_arabic": "مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن",
+      "context_snippet_turkish_tabula_rasa": "... elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için de girip oturmayın. Bu haliniz elçi'i üzüyor, o da size bir şey söylemeye çekiniyordu. Allah gerçeği söylemekten çekinmez. elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. Bundan sonra ne Allah'ın elçi'ini üzmeniz ve ne de O'nuneşlerini nikahlamanız asla caiz değildir. Doğrusu bu, Allah katında büyük şeydir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 53,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:53",
+      "word_position": 42,
+      "target_word_uthmani": "فَسْـَٔلُوهُنَّ",
+      "target_word_rasm": "فسـلوهن",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ",
+      "context_snippet_turkish_tabula_rasa": "... elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçi'in evlerine, yemeğe çağırılmaksızın vakitli vakitsiz girmeyin; fakat davet edilseniz girin ve yemeği yiyince, dağılın. Sohbet etmek için de girip oturmayın. Bu haliniz elçi'i üzüyor, o da size bir şey söylemeye çekiniyordu. Allah gerçeği söylemekten çekinmez. elçi'in eşlerinden bir şey isteyeceğinizde onu perde arkasından isteyin. Bu sayede sizin gönülleriniz de, onların gönülleri de daha temiz kalır. Bundan sonra ne Allah'ın elçi'ini üzmeniz ve ne de O'nuneşlerini nikahlamanız asla caiz değildir. Doğrusu bu, Allah katında büyük şeydir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 63,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:63",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُكَ",
+      "target_word_rasm": "يسـلك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar senden kıyametin zamanını soruyorlar; de ki: \"Onun bilgisi ancak Allah katındadır; ne bilirsin, belki de zamanı yakındır.\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar senden kıyametin zamanını soruyorlar; de ki: \"Onun bilgisi ancak Allah katındadır; ne bilirsin, belki de zamanı yakındır.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 25,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:25",
+      "word_position": 3,
+      "target_word_uthmani": "تُسْـَٔلُونَ",
+      "target_word_rasm": "تسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"İşlediğimiz suçlardan siz sorumlu olmazsınız, sizin yaptıklarınızdan da biz sorumlu olmayız\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İşlediğimiz suçlardan siz sorumlu olmazsınız, sizin yaptıklarınızdan da biz sorumlu olmayız\"",
+      "contextual_meaning": "Bireysel ve kuşaksal sorumluluk devredilemezliği (`لَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ` / `وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ`): Kimse başkasının eyleminden sorgulanmaz."
+    },
+    {
+      "surah": 34,
+      "ayah": 25,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:25",
+      "word_position": 7,
+      "target_word_uthmani": "نُسْـَٔلُ",
+      "target_word_rasm": "نسـل",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"İşlediğimiz suçlardan siz sorumlu olmazsınız, sizin yaptıklarınızdan da biz sorumlu olmayız\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|1P"
+      },
+      "ayah_text_arabic_full": "قُل لَّا تُسْـَٔلُونَ عَمَّآ أَجْرَمْنَا وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İşlediğimiz suçlardan siz sorumlu olmazsınız, sizin yaptıklarınızdan da biz sorumlu olmayız\"",
+      "contextual_meaning": "Bireysel ve kuşaksal sorumluluk devredilemezliği (`لَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ` / `وَلَا نُسْـَٔلُ عَمَّا تَعْمَلُونَ`): Kimse başkasının eyleminden sorgulanmaz."
+    },
+    {
+      "surah": 34,
+      "ayah": 47,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:47",
+      "word_position": 3,
+      "target_word_uthmani": "سَأَلْتُكُم",
+      "target_word_rasm": "سألتكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir.\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben sizden bir ücret istersem, o sizin olsun; benim ecrim Allah'a aittir. O her şeye şahiddir.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 21,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:21",
+      "word_position": 4,
+      "target_word_uthmani": "يَسْـَٔلُكُمْ",
+      "target_word_rasm": "يسـلكم",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Sizden bir ücret istemeyenlere uyun, onlar doğru yoldadırlar.\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًا وَهُم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sizden bir ücret istemeyenlere uyun, onlar doğru yoldadırlar.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 24,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:24",
+      "word_position": 3,
+      "target_word_uthmani": "مَّسْـُٔولُونَ",
+      "target_word_rasm": "مسـولون",
+      "target_word_literal_irab": "Hesaba çekilip sorgulanacak olanlar (`مَّسْـُٔولُونَ`, I. bab ism-i mef'ûl çoğul merfû)",
+      "context_snippet_arabic": "وَقِفُوهُمْ إِنَّهُم مَّسْـُٔولُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Onları durdurun; çünkü kendilerinden daha da sorulacaktır.\"",
+      "morphology": {
+        "lemma": "maso_#uwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maso_#uwl|ROOT:sAl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَقِفُوهُمْ إِنَّهُم مَّسْـُٔولُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Onları durdurun; çünkü kendilerinden daha da sorulacaktır.\"",
+      "contextual_meaning": "Sözleşme sorumluluğu (`33:15`), durdurulup sorgulanma (`37:24`) ve yerine getirilecek kesin söz (`وَعْدًا مَّسْـُٔولًا` `25:16`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 27,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:27",
+      "word_position": 5,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerine dönüp soruşurlar.",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerine dönüp soruşurlar.",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 50,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:50",
+      "word_position": 5,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerine dönüp sorarlar:",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerine dönüp sorarlar:",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 24,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:24",
+      "word_position": 4,
+      "target_word_uthmani": "بِسُؤَالِ",
+      "target_word_rasm": "بسؤال",
+      "target_word_literal_irab": "Haksız yere katılmasını isteyip talep etmesi (`بِسُؤَالِ`, `فُعَال` masdarı mecrûr)",
+      "context_snippet_arabic": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. ...",
+      "morphology": {
+        "lemma": "su&aAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:su&aAl|ROOT:sAl|M|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "ayah_text_turkish_tabula_rasa_full": "Davud: \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. güvene erip yararlı iş işleyenler bunun dışındadır ki sayıları da ne kadar azdır!\" demişti. Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "contextual_meaning": "Mevcut imkânla yetinmeyip başkasının tek varlığını da kendi payına katma talebinin haksızlığı (`بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ` `38:24`)."
+    },
+    {
+      "surah": 38,
+      "ayah": 86,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:86",
+      "word_position": 3,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Buna karşılık sizden bir ücret istemiyorum. Kendiliğimden bir şey iddia eden kimselerden de değilim.\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ مَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ وَمَآ أَنَا۠ مِنَ ٱلْمُتَكَلِّفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Buna karşılık sizden bir ücret istemiyorum. Kendiliğimden bir şey iddia eden kimselerden de değilim.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 38,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:38",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُم",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, onlara, \"Gökleri ve yeri yaratan kimdir?\" diye sorsan: \"Allah'tır\" derler. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَٰشِفَٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَٰتُ رَحْمَتِهِۦ قُلْ حَسْبِىَ ٱللَّهُ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, onlara, \"Gökleri ve yeri yaratan kimdir?\" diye sorsan: \"Allah'tır\" derler. De ki: \"Öyleyse bana bildirin, Allah bana bir zarar vermek isterse, Allah'ı bırakıp da taptıklarınız, O'nun verdiği zararı giderebilir mi? Yahut bana bir rahmetdilerse, O'nun rahmetini önleyebilir mi?\" De ki: \"Allah bana yeter; güvenenler O'na güvenir.\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 10,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:10",
+      "word_position": 15,
+      "target_word_uthmani": "لِّلسَّآئِلِينَ",
+      "target_word_rasm": "للسائلين",
+      "target_word_literal_irab": "Bilgi veya ihtiyaç talep edip yardım isteyenler (`ٱلسَّآئِلَ / لِّلسَّآئِلِ / وَٱلسَّآئِلِينَ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "... arayıp soranlar için gıdalarını tam (toplam) dört gün içinde yetiştirmesi kanununu koydu (takdir etti).",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzüne üstünden ağır baskılar (dağlar) yerleştirdi, onu bereketli kıldı; arayıp soranlar için gıdalarını tam (toplam) dört gün içinde yetiştirmesi kanununu koydu (takdir etti).",
+      "contextual_meaning": "Toplumsal paylaşım hakkı: tüm rızık arayanlar için dengeli ölçü (`سَوَآءً لِّلسَّآئِلِينَ` `41:10`) ve muhtaçların maldaki sabit hakkı (`2:177`, `51:19`, `70:25`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 23,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:23",
+      "word_position": 12,
+      "target_word_uthmani": "أَسْـَٔلُكُمْ",
+      "target_word_rasm": "أسـلكم",
+      "target_word_literal_irab": "Sizden istemiyorum / size sordum (`أَسْـَٔلُكُم / سَأَلْتُكُم`, I. bab `1S`)",
+      "context_snippet_arabic": "ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem. \" Kim güzel bir iş işlerse onun güzelliğini arttırırız. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|1S"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ ٱلَّذِى يُبَشِّرُ ٱللَّهُ عِبَادَهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا إِلَّا ٱلْمَوَدَّةَ فِى ٱلْقُرْبَىٰ وَمَن يَقْتَرِفْ حَسَنَةً نَّزِدْ لَهُۥ فِيهَا حُسْنًا إِنَّ ٱللَّهَ غَفُورٌ شَكُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güvene erip yararlı işler işleyen kullarını bununla müjdeler. De ki: \"Ben sizden buna karşı yakınlara sevgiden (veya Allah'a yaklaşmaktan) başka bir ücret istemem.\" Kim güzel bir iş işlerse onun güzelliğini arttırırız. Doğrusu Allah bağışlayandır, nimeti açığa vurmanın karşılığını verendir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 9,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:9",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُم",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki onlara: \"Gökleri ve yeri kim yarattı?\" diye sorsan, \"Onları güçlü olan, her şeyi bilen yaratmıştır\" derler.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki onlara: \"Gökleri ve yeri kim yarattı?\" diye sorsan, \"Onları güçlü olan, her şeyi bilen yaratmıştır\" derler.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 19,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:19",
+      "word_position": 12,
+      "target_word_uthmani": "وَيُسْـَٔلُونَ",
+      "target_word_rasm": "ويسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "خَلْقَهُمْ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Yaratılışlarını mı görmüşler? Onların bu şahidlikleri yazılacak ve sorguya çekileceklerdir.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا أَشَهِدُوا۟ خَلْقَهُمْ سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rahman olan Allah'ın kulları kozmik görevlileri de dişi saydılar. Yaratılışlarını mı görmüşler? Onların bu şahidlikleri yazılacak ve sorguya çekileceklerdir.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 44,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:44",
+      "word_position": 6,
+      "target_word_uthmani": "تُسْـَٔلُونَ",
+      "target_word_rasm": "تسـلون",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "لَّكَ وَلِقَوْمِكَ وَسَوْفَ تُسْـَٔلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bu Kuran sana ve ümmetine bir öğüttür, ondan sorumlu tutulacaksınız.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ وَسَوْفَ تُسْـَٔلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bu Kuran sana ve ümmetine bir öğüttür, ondan sorumlu tutulacaksınız.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 45,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:45",
+      "word_position": 1,
+      "target_word_uthmani": "وَسْـَٔلْ",
+      "target_word_rasm": "وسـل",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن",
+      "context_snippet_turkish_tabula_rasa": "Senden önce gönderdiğimiz elçilerimizden sor; Biz, Rahman olan Allah'tan başka, kulluk edilecek sahte sığınaklar meşru kılmış mıyız?",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَسْـَٔلْ مَنْ أَرْسَلْنَا مِن قَبْلِكَ مِن رُّسُلِنَآ أَجَعَلْنَا مِن دُونِ ٱلرَّحْمَٰنِ ءَالِهَةً يُعْبَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce gönderdiğimiz elçilerimizden sor; Biz, Rahman olan Allah'tan başka, kulluk edilecek sahte sığınaklar meşru kılmış mıyız?",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 87,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:87",
+      "word_position": 2,
+      "target_word_uthmani": "سَأَلْتَهُم",
+      "target_word_rasm": "سألتهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, onlara kendilerini kimin yarattığını sorsan: \"Allah\" derler. Öyleyken nasıl da aldatılıp döndürülüyorlar?",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَهُمْ لَيَقُولُنَّ ٱللَّهُ فَأَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, onlara kendilerini kimin yarattığını sorsan: \"Allah\" derler. Öyleyken nasıl da aldatılıp döndürülüyorlar?",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 36,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:36",
+      "word_position": 12,
+      "target_word_uthmani": "يَسْـَٔلْكُمْ",
+      "target_word_rasm": "يسـلكم",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer güven duy ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu dünya hayatı oyun ve oyalanmadır. Eğer güven duy ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 37,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:37",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْـَٔلْكُمُوهَا",
+      "target_word_rasm": "يسـلكموها",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ",
+      "context_snippet_turkish_tabula_rasa": "Eğer sizden onları isteyip de sizi zorlarsa, cimrilik edecektiniz, O da kinlerinizi ortaya çıkaracaktı.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَٰنَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer sizden onları isteyip de sizi zorlarsa, cimrilik edecektiniz, O da kinlerinizi ortaya çıkaracaktı.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 51,
+      "ayah": 12,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:12",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَ",
+      "target_word_rasm": "يسـلون",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ",
+      "context_snippet_turkish_tabula_rasa": "İşlerin karşılık göreceği günün zamanını sorarlar.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَ أَيَّانَ يَوْمُ ٱلدِّينِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşlerin karşılık göreceği günün zamanını sorarlar.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 51,
+      "ayah": 19,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:19",
+      "word_position": 4,
+      "target_word_uthmani": "لِّلسَّآئِلِ",
+      "target_word_rasm": "للسائل",
+      "target_word_literal_irab": "Bilgi veya ihtiyaç talep edip yardım isteyenler (`ٱلسَّآئِلَ / لِّلسَّآئِلِ / وَٱلسَّآئِلِينَ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "context_snippet_turkish_tabula_rasa": "Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.",
+      "contextual_meaning": "Toplumsal paylaşım hakkı: tüm rızık arayanlar için dengeli ölçü (`سَوَآءً لِّلسَّآئِلِينَ` `41:10`) ve muhtaçların maldaki sabit hakkı (`2:177`, `51:19`, `70:25`)."
+    },
+    {
+      "surah": 52,
+      "ayah": 25,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:25",
+      "word_position": 5,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerine dönüp soruşurlar:",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerine dönüp soruşurlar:",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 52,
+      "ayah": 40,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:40",
+      "word_position": 2,
+      "target_word_uthmani": "تَسْـَٔلُهُمْ",
+      "target_word_rasm": "تسـلهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar?",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar?",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 55,
+      "ayah": 29,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:29",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُهُۥ",
+      "target_word_rasm": "يسـله",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olan kimseler her şeyi O'ndan isterler; O her an kainata tasarruf etmektedir.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olan kimseler her şeyi O'ndan isterler; O her an kainata tasarruf etmektedir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 55,
+      "ayah": 39,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:39",
+      "word_position": 3,
+      "target_word_uthmani": "يُسْـَٔلُ",
+      "target_word_rasm": "يسـل",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ",
+      "context_snippet_turkish_tabula_rasa": "O gün ne insana ve ne görünmeyen varlığa suçu sorulur.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün ne insana ve ne görünmeyen varlığa suçu sorulur.",
+      "contextual_meaning": "Uydurmalar ve verilen emanetler hakkında kaçınılmaz hesap sorgusu (`لَتُسْـَٔلُنَّ` `16:56,93`, `29:13`, `43:19,44`, `55:39`, `2:119`)."
+    },
+    {
+      "surah": 60,
+      "ayah": 10,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:10",
+      "word_position": 42,
+      "target_word_uthmani": "وَسْـَٔلُوا۟",
+      "target_word_rasm": "وسـلوا",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örten kadınları nikahınızda tutmayın; onlara verdiğiniz mehri isteyin; gerçeğin üzerini örten erkekler de hicret eden güvene eren kadınlara verdikleri mehirleri istesinler. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَٰتُ مُهَٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ ٱللَّهُ أَعْلَمُ بِإِيمَٰنِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَءَاتُوهُم مَّآ أَنفَقُوا۟ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ذَٰلِكُمْ حُكْمُ ٱللَّهِ يَحْكُمُ بَيْنَكُمْ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! güvene ermiş kadınlar hicret ederek size gelirlerse onları deneyin, hicretlerinin sebebini inceleyin. Allah onların güven bağı çok iyi bilir. Onların güvene eren kadınlar olduklarını öğrenirseniz, gerçeğin üzerini örtenlere geri çevirmeyin. Bu kadınlar, o gerçeğin üzerini örtenlere helal değildir Onlar da bunlara helal olmazlar. gerçeğin üzerini örtenlerin bu kadınlara verdikleri mehirleri iade edin: Bu kadınların mehirlerini kendilerine verdiğiniz zaman, onlarla evlenmenizde bir engel yoktur. gerçeğin üzerini örten kadınları nikahınızda tutmayın; onlara verdiğiniz mehri isteyin; gerçeğin üzerini örten erkekler de hicret eden güvene eren kadınlara verdikleri mehirleri istesinler. Allah'ın hükmü budur; aranızda O hükmeder. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 60,
+      "ayah": 10,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:10",
+      "word_position": 45,
+      "target_word_uthmani": "وَلْيَسْـَٔلُوا۟",
+      "target_word_rasm": "وليسـلوا",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ذَٰلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örten kadınları nikahınızda tutmayın; onlara verdiğiniz mehri isteyin; gerçeğin üzerini örten erkekler de hicret eden güvene eren kadınlara verdikleri mehirleri istesinler. ...",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَٰتُ مُهَٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ ٱللَّهُ أَعْلَمُ بِإِيمَٰنِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَءَاتُوهُم مَّآ أَنفَقُوا۟ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ذَٰلِكُمْ حُكْمُ ٱللَّهِ يَحْكُمُ بَيْنَكُمْ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! güvene ermiş kadınlar hicret ederek size gelirlerse onları deneyin, hicretlerinin sebebini inceleyin. Allah onların güven bağı çok iyi bilir. Onların güvene eren kadınlar olduklarını öğrenirseniz, gerçeğin üzerini örtenlere geri çevirmeyin. Bu kadınlar, o gerçeğin üzerini örtenlere helal değildir Onlar da bunlara helal olmazlar. gerçeğin üzerini örtenlerin bu kadınlara verdikleri mehirleri iade edin: Bu kadınların mehirlerini kendilerine verdiğiniz zaman, onlarla evlenmenizde bir engel yoktur. gerçeğin üzerini örten kadınları nikahınızda tutmayın; onlara verdiğiniz mehri isteyin; gerçeğin üzerini örten erkekler de hicret eden güvene eren kadınlara verdikleri mehirleri istesinler. Allah'ın hükmü budur; aranızda O hükmeder. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 8,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:8",
+      "word_position": 9,
+      "target_word_uthmani": "سَأَلَهُمْ",
+      "target_word_rasm": "سألهم",
+      "target_word_literal_irab": "Sordu veya açıkça istedi (`سَأَلَ / سَأَلُوا۟ / سَأَلْتَهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Nerede ise öfkesinden paralanacak! İçine her bir topluluğun atılmasında, bekçileri onlara: \"Size bir uyarıcı gelmemiş miydi?\" diye sorarlar.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Nerede ise öfkesinden paralanacak! İçine her bir topluluğun atılmasında, bekçileri onlara: \"Size bir uyarıcı gelmemiş miydi?\" diye sorarlar.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 40,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:40",
+      "word_position": 1,
+      "target_word_uthmani": "سَلْهُمْ",
+      "target_word_rasm": "سلهم",
+      "target_word_literal_irab": "Sorup öğren veya ihtiyacını iste (`سَلْ / فَسْـَٔلْ / فَسْـَٔلُوٓا۟ / وَسْـَٔلُوا۟`, I. bab emir)",
+      "context_snippet_arabic": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Sor onlara: \"Bunu kim üzerine alır?\"",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sor onlara: \"Bunu kim üzerine alır?\"",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 46,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:46",
+      "word_position": 2,
+      "target_word_uthmani": "تَسْـَٔلُهُمْ",
+      "target_word_rasm": "تسـلهم",
+      "target_word_literal_irab": "Sorma veya istedin (`تَسْـَٔلْنِى / سَأَلْتَ`, I. bab `2MS`)",
+      "context_snippet_arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, sen onlardan ücret istiyorsun da, ağır bir borç altında mı kalıyorlar? Elbette hayır.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|2MS"
+      },
+      "ayah_text_arabic_full": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, sen onlardan ücret istiyorsun da, ağır bir borç altında mı kalıyorlar? Elbette hayır.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 1,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:1",
+      "word_position": 1,
+      "target_word_uthmani": "سَأَلَ",
+      "target_word_rasm": "سأل",
+      "target_word_literal_irab": "Sordu veya açıkça istedi (`سَأَلَ / سَأَلُوا۟ / سَأَلْتَهُم`, I. bab mâzî)",
+      "context_snippet_arabic": "سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "context_snippet_turkish_tabula_rasa": "Birisi, yüksek derecelere sahip olan Allah katından, gerçeğin üzerini örtenlere gelecek ve savunulması imkansız olacak azabı soruyor.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Birisi, yüksek derecelere sahip olan Allah katından, gerçeğin üzerini örtenlere gelecek ve savunulması imkansız olacak azabı soruyor.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 1,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:1",
+      "word_position": 2,
+      "target_word_uthmani": "سَآئِلٌۢ",
+      "target_word_rasm": "سائل",
+      "target_word_literal_irab": "Merakla araştırıp soran / soruyu yönelten (`لِّلسَّآئِلِينَ / سَآئِلٌۢ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "context_snippet_turkish_tabula_rasa": "Birisi, yüksek derecelere sahip olan Allah katından, gerçeğin üzerini örtenlere gelecek ve savunulması imkansız olacak azabı soruyor.",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Birisi, yüksek derecelere sahip olan Allah katından, gerçeğin üzerini örtenlere gelecek ve savunulması imkansız olacak azabı soruyor.",
+      "contextual_meaning": "Araştırıp bilmek isteyenler için ibret (`لِّلسَّآئِلِينَ` `12:7`) ve alayla azap isteyen sorucu (`سَآئِلٌۢ` `70:1`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 10,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:10",
+      "word_position": 2,
+      "target_word_uthmani": "يَسْـَٔلُ",
+      "target_word_rasm": "يسـل",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Hiç bir dost diğer bir dostunu sormaz.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Hiç bir dost diğer bir dostunu sormaz.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 25,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:25",
+      "word_position": 1,
+      "target_word_uthmani": "لِّلسَّآئِلِ",
+      "target_word_rasm": "للسائل",
+      "target_word_literal_irab": "Bilgi veya ihtiyaç talep edip yardım isteyenler (`ٱلسَّآئِلَ / لِّلسَّآئِلِ / وَٱلسَّآئِلِينَ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "context_snippet_turkish_tabula_rasa": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "contextual_meaning": "Toplumsal paylaşım hakkı: tüm rızık arayanlar için dengeli ölçü (`سَوَآءً لِّلسَّآئِلِينَ` `41:10`) ve muhtaçların maldaki sabit hakkı (`2:177`, `51:19`, `70:25`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 40,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:40",
+      "word_position": 3,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "فِى جَنَّٰتٍ يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ancak, defteri sağdan verilenler böyle değildir; onlar esenlik bahçesindedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar.",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "فِى جَنَّٰتٍ يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak, defteri sağdan verilenler böyle değildir; onlar esenlik bahçesindedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar.",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 6,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:6",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُ",
+      "target_word_rasm": "يسـل",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ",
+      "context_snippet_turkish_tabula_rasa": "Ama, insanoğlu gelecekte de suç işlemek ister de: \"Kıyamet günü ne zamanmış! \" der.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MS"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama, insanoğlu gelecekte de suç işlemek ister de: \"Kıyamet günü ne zamanmış! \" der.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 78,
+      "ayah": 1,
+      "surah_name": "Nebe'",
+      "ayah_ref": "78:1",
+      "word_position": 2,
+      "target_word_uthmani": "يَتَسَآءَلُونَ",
+      "target_word_rasm": "يتساءلون",
+      "target_word_literal_irab": "Birbirlerine sorup duruyorlar / karşılıklı soruşurlar (`يَتَسَآءَلُونَ / لِيَتَسَآءَلُوا۟`, VI. bab muzâri `3MP`)",
+      "context_snippet_arabic": "عَمَّ يَتَسَآءَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Neyi soruşturuyorlar?",
+      "morphology": {
+        "lemma": "yatasaA^'alu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:yatasaA^'alu|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Neyi soruşturuyorlar?",
+      "contextual_meaning": "Karşılıklı soruşup sorgulama (`يَتَسَآءَلُونَ` `18:19`, `23:101`, `28:66`, `37:27,50`, `52:25`, `74:40`, `78:1`)."
+    },
+    {
+      "surah": 79,
+      "ayah": 42,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:42",
+      "word_position": 1,
+      "target_word_uthmani": "يَسْـَٔلُونَكَ",
+      "target_word_rasm": "يسـلونك",
+      "target_word_literal_irab": "Sana soruyorlar / istiyor / haklarını sorarlar (`يَسْـَٔلُونَكَ / يَسْـَٔلُ`, I. bab muzâri)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ",
+      "context_snippet_turkish_tabula_rasa": "Senden kıyametin ne zaman gelip çatacağını sorarlar.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:sa>ala|ROOT:sAl|3MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Senden kıyametin ne zaman gelip çatacağını sorarlar.",
+      "contextual_meaning": "Elçinin karşılık talep etmeyişi (`لَآ أَسْـَٔلُكُمْ أَجْرًا`), toplumsal sorular (`يَسْـَٔلُونَكَ`), tarihî bilgiyi araştırma emri (`سَلْ / فَسْـَٔلْ`) veya adil mehir iadesi (`60:10`)."
+    },
+    {
+      "surah": 81,
+      "ayah": 8,
+      "surah_name": "Tekvîr",
+      "ayah_ref": "81:8",
+      "word_position": 3,
+      "target_word_uthmani": "سُئِلَتْ",
+      "target_word_rasm": "سئلت",
+      "target_word_literal_irab": "Hangi suçla öldürüldüğü sorulduğunda (`سُئِلَتْ`, I. bab meçhul mâzî `3FS`)",
+      "context_snippet_arabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "context_snippet_turkish_tabula_rasa": "Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman;",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:sa>ala|ROOT:sAl|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "ayah_text_turkish_tabula_rasa_full": "Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman;",
+      "contextual_meaning": "Diri diri gömülen kız çocuğunun tanıklığı (`وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ` `81:8`): Mazluma hangi suçtan öldürüldüğünün sorulması."
+    },
+    {
+      "surah": 93,
+      "ayah": 10,
+      "surah_name": "Duhâ",
+      "ayah_ref": "93:10",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلسَّآئِلَ",
+      "target_word_rasm": "ٱلسائل",
+      "target_word_literal_irab": "Bilgi veya ihtiyaç talep edip yardım isteyenler (`ٱلسَّآئِلَ / لِّلسَّآئِلِ / وَٱلسَّآئِلِينَ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "context_snippet_turkish_tabula_rasa": "Ve sakın bir şey isteyeni azarlama;",
+      "morphology": {
+        "lemma": "saA^}il",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:saA^}il|ROOT:sAl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve sakın bir şey isteyeni azarlama;",
+      "contextual_meaning": "Hem maddi ihtiyaç sahibini hem bilgi soranı kırıp azarlamama ilkesi (`وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ` `93:10`)."
+    },
+    {
+      "surah": 102,
+      "ayah": 8,
+      "surah_name": "Tekâsür",
+      "ayah_ref": "102:8",
+      "word_position": 2,
+      "target_word_uthmani": "لَتُسْـَٔلُنَّ",
+      "target_word_rasm": "لتسـلن",
+      "target_word_literal_irab": "Yaptıklarınızdan / yapıp ettiklerinden kesinlikle sorguya çekilirsiniz (`تُسْـَٔلُونَ / يُسْـَٔلُ / لَتُسْـَٔلُنَّ`, I. bab meçhul)",
+      "context_snippet_arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Sonra o gün, size verilmiş olan her nimetten sorguya çekileceksiniz.",
+      "morphology": {
+        "lemma": "sa>ala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:sa>ala|ROOT:sAl|2MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra o gün, size verilmiş olan her nimetten sorguya çekileceksiniz.",
+      "contextual_meaning": "Verilmiş olan her türlü nimetten hesap sorulması (`لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ` `102:8`)."
+    }
+  ]
+}

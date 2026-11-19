@@ -1,0 +1,2262 @@
+{
+  "root": "ف-ع-ل",
+  "root_latin": "F-A-L (fEl)",
+  "concept_name": "Fiil / Fâil / Mef’ûl (Etki Ortaya Koyma ve Olguya Dönüştürme)",
+  "rank": 104,
+  "total_occurrences": 108,
+  "unique_ayahs_count": 102,
+  "unified_core_mechanism": "Kökün `108` geçişlik ağı tek kırılmaz çekirdekte kilitlenir: 'İradeyi, sözü, planı veya etkiyi dış dünyada somut olgu ve eyleme dönüştürmek (`إِحْدَاثُ شَيْءٍ`)'. Bu çekirdek üç yönde çalışır: (1) İnsanın tekil somut eylemi ve davranışı (`فَعَلَ / فَعْلَة` `26:19`, `21:59`, `2:234`, `61:2`, `23:4`), bunun acizlik veya ihmal sınırı (`2:24`, `5:67`, `58:13`) ve edilgen başa gelen durum (`34:54`, `46:9`, `75:25`). (2) Yaratıcı Kudret'in irade ve buyruğunun engellenemez biçimde olguya dönüşmesi (`فَعَّالٌ لِّمَا يُرِيدُ` `11:107`, `85:16`; `مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`) ile tarihsel müdaheleler (`89:6`, `105:1`). (3) `عَمَل` (sürekli emek) ve `صُنْع` (ustalık işçiliği) kavramlarından ayrılan en genel eylem çatısı (`27:88`, `39:70`).",
+  "physical_core": "Ham fiziki çekirdek: 'Varlık alanında somut bir etki, hareket veya olgu ortaya çıkarmak; düşünceyi, sözü ya da iradeyi dış dünyada gerçekliğe dönüştürmek (`إِحْدَاثُ شَيْءٍ` / `التَّأْثِيرُ مِنْ جِهَةِ مُؤَثِّرٍ`)'. Bu yüzden Arap dilbilimi bütün fiil kalıplarının ölçü şablonu olarak doğrudan `ف-ع-ل` kökünü seçmiştir. Kur'an'da en geniş eylem çatısı olarak hem ilâhî iradenin olguya dönüşmesini (`مَفْعُولًا`, `فَعَّالٌ لِّمَا يُرِيدُ`), hem insan eylemini (`فَعَلْتَ فَعْلَتَكَ`), hem de edilgen başa gelen olguyu (`فُعِلَ / يُفْعَلُ`) tek kökten yürütür.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökte tek sağlam asıl tespit eder: 'bir işten veya başka bir etkiden ötürü bir şey/olgu meydana getirmek (`إِحْدَاثُ شَيْءٍ`)'. Tekil etki `فَعْلَة` (`26:19`) ve iyilik/cömertlik fiilleri `فَعَال` bu tek asıldan çıkar.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ف-ع-ل` kökünü bütün türeyen eylem kalıplarının genel ölçü terazisi ve geçişli-geçişsiz tüm hareketlerin kapsayıcı adı olarak işler.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): `الفِعْل: كِنَايَةٌ عَنْ كُلِّ عَمَلٍ مُتَعَدٍّ أَوْ غَيْرِ مُتَعَدٍّ` diyerek kökün ister nesneye geçsin ister öznede kalsın her türlü iş ve etkiyi kapsayan en geniş eylem kökü olduğunu tesciller.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): Kur'an içi en keskin Furûk kuralını koyar: `فِعْل` en genel etki alanıdır (`التَّأْثِيرُ مِنْ جِهَةِ مُؤَثِّرٍ` — kasıtlı, kasıtsız, ilâhî, insanî her gerçekleştirmeyi kapsar); `عَمَل` bilinçli canlıların emek ve süreç gerektiren işidir; `صُنْع` ise en dar ve en yüksek basamakta ustalıkla, özenle ve kusursuz biçimde üretmektir (`27:88`).",
+    "arbitration_decision": "Tahkim Kararı: Bütün sözlükler ve Sami arkeolojisi (*p-ʿ-l*) tam uyum içindedir. Râgıb ve İbn Fâris'in 'en genel etki/gerçekleştirme' çekirdeği, Kur'an'daki `108` geçişin tamamında — özellikle `فَعَّالٌ لِّمَا يُرِيدُ` (`11:107`, `85:16`), `كَانَ أَمْرُ ٱللَّهِ مَفْعُولًا` (`4:47`, `8:42,44`, `33:37`), `فِعْلَ ٱلْخَيْرَٰتِ` (`21:73`), `فَعَلْتَ فَعْلَتَكَ` (`26:19`) ve `لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ` (`61:2`) ayetlerinde — tek çelişkisiz merkez olarak çalışır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*p-ʿ-l ('yapmak, işlemek, üretmek, etki ortaya koymak'; Proto-Sami dudaksıl `*p` ünsüzü Arapça ve Sebecede `f` [`ف`], İbranice, Aramice, Fenikece ve Ugaritçede `p` [`פ/ܦ`] olarak düzenli korunur).",
+    "hebrew": "פָּעַל / pāʿal (Strong's H6466 / BDB: 'yapmak, işlemek, icra etmek, sistematik biçimde gerçekleştirmek; genellikle `ʿāśāh` köküne paralel şiirsel yüksek üslupta').",
+    "aramaic_syriac": "Aramca `פְּעַל` (*pəʿal*) ve Klasik Süryanice `ܦ݁ܥܰܠ` (*pʿal*: 'yapmak, çalışmak, eylemde bulunmak').",
+    "phoenician_ugaritic": "Fenikece `p-ʿ-l` (`𐤐𐤏𐤋`: inşa etmek, yapmak) ve Ugaritçe `p-ʿ-l` ('yapmak, şekillendirmek').",
+    "south_semitic_sabaic": "Epigrafik Güney Arapça / Sebece `f-ʿ-l` ('yapmak, icra etmek, gerçekleştirmek').",
+    "akkadian": "Doğu Samicede (Akadca) *p-ʿ-l* kökü yerli fiil olarak kullanılmaz; bunun yerine Akadca `epēšu` ('yapmak, inşa etmek') kökünü tercih eder.",
+    "phonological_note": "Proto-Sami `*p > f` (Arapça/Sebece) ve `*p > p` (İbranice/Aramice/Fenikece) ses yasası `ف-ع-ل` <-> `פ-ע-ל` çiftinde ders kitabı netliğinde işler. Ayrıca Sami gramer geleneğinde en yalın üçlü fiil kalıbının İbranice-Aramicede de *Paʿal / Peʿal* (`פָּעַל`), Arapçada *Faʿale* (`فَعَلَ`) adıyla şablon seçilmesi bu kökün saf 'etki ve gerçekleştirme' statüsünü gösterir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ق-و-ل (`لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ` `61:2,3`, `يَقُولُونَ مَا لَا يَفْعَلُونَ` `26:226` — Boş Söz Üretimi vs Eyleme Dönüştürme)",
+      "ت-ر-ك (`أَن نَّتْرُكَ ... أَوْ أَن نَّفْعَلَ` `11:87` — Bırakıp Terk Etme / Eylemsizlik vs Aktif Tasarruf ve İş Yapma)",
+      "لَمْ يَفْعَلُوا / لَن تَفْعَلُوا ↔ فَٱفْعَلُوا۟ (`2:24`, `3:188`, `5:67`, `58:13` vs `2:68`, `16:50`, `22:77`, `37:102`, `66:6` — İhmalkârlık/Acizlik vs Buyrulanı Eksiksiz İcra)",
+      "نَهْي / إِمْسَاك ↔ فِعْل (`5:79` `لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ` — Kötülüğü Durdurup Engelleme vs Kötü Eylemi Yapıp Sürdürme)"
+    ],
+    "key_ayahs": [
+      "2:24",
+      "2:68",
+      "5:79",
+      "11:87",
+      "26:226",
+      "61:2",
+      "61:3",
+      "66:6"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ف-ع-ل iradeyi veya sözü dış dünyada somut olguya dönüştürmek ise zıtları nedir?' Cevap: (1) Sadece dilde kalan söz (`قَوْل` `61:2-3`, `26:226` — eyleme dönüşmeyen sözün tersi dış dünyada fiilen gerçekleşen `فِعْل`dir). (2) Bırakıp el çekmek (`تَرْك` `11:87`) ile aciz kalıp yapamamak (`وَلَن تَفْعَلُوا۟` `2:24`) — bunların tersi etki ortaya koyup işi gerçekleştirmektir. (3) Erteleme/boş bırakma yerine Allah'ın emrini (`مَفْعُولًا` `8:42`, `33:37`, `73:18`) fiilî gerçekliğe çevirmektir. Çift yönlü test %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "فَعَلَ (`Dış dünyada herhangi bir etki/olgu meydana getirmek — en genel çatı`) vs عَمِلَ (`Bilinçli, emek ve süreç gerektiren sorumluluk işi`) — `2:85`, `2:234`, `22:14`, `39:70`, `58:13`",
+      "صُنْع (`Ustaca, kusursuz ve sanatlı biçimde işleyip donatmak`) vs فِعْل (`İcra edilen somut fiil ve etki`) — `27:88`",
+      "قَوْل (`Dilden çıkan söz ve iddia`) vs فِعْل (`Sözün dış dünyadaki fiilî karşılığı`) — `26:226`, `61:2-3`, `18:23`",
+      "شَاءَ / أَرَادَ (`İçsel irade, yönelim ve seçme`) vs فَعَلَ (`İradenin dış dünyada fiilen icra edilmesi`) — `2:253`, `3:40`, `11:107`, `14:27`, `22:14,18`, `85:16`",
+      "خَلَقَ (`Ölçüp biçerek var etmek`) vs فَعَلَ (`Varlık alanında somut bir fiil ve müdahale gerçekleştirmek`) — `21:104`, `30:40`"
+    ],
+    "mechanical_difference": "1) `27:88`de aynı ayette hem `صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ` (Allah'ın her şeyi kusursuz işleyen sanatı) hem `خَبِيرٌۢ بِمَا تَفْعَلُونَ` (insanların yaptığı fiillerden haberdar olması) yan yana durur: `صُنْع` yüksek ustalığı, `فِعْل` ise genel insan eylemini ayırır. 2) `2:85`, `2:234`, `22:14`, `39:70` ve `58:13`te `فَعَلَ` ve `عَمِلَ` aynı ayette birlikte gelir: `فَعَلَ` belirli tekil eylemi/vakayı (`مَن يَفْعَلُ ذَٰلِكَ`, `فِيمَا فَعَلْنَ`, `فَإِذْ لَمْ تَفْعَلُوا۟`), `عَمِلَ` ise süreklilik taşıyan amel ve sorumluluk birikimini (`بِمَا تَعْمَلُونَ`, `مَّا عَمِلَتْ`) karşılar. 3) `61:2-3` ve `26:226`da `قَوْل` ile `فِعْل` söz-eylem bütünlüğü turnusolüdür."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "61:2-3 & 26:226 & 18:23",
+      "role": "Söz-Eylem Tutarlılığı Çapası (`لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ` / `فَاعِلٌ ذَٰلِكَ غَدًا`)",
+      "literal_meaning": "'Ey güvene erenler! Yapmayacağınız şeyi niçin söylüyorsunuz? (`61:2`)', 'onlar yapmadıkları şeyi söylerler (`26:226`)' ve 'inşallah demeden hiçbir şey için yarın bunu yapıcıyım (`فَاعِلٌ`) deme (`18:23`).'"
+    },
+    {
+      "ref": "26:19-20 & 21:59-63",
+      "role": "Somut Olay ve Merre Masdarı Çapası (`وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ` / `مَن فَعَلَ هَٰذَا`)",
+      "literal_meaning": "'Yaptığın o tek eylemini (`فَعْلَتَكَ` — bir Kıptî'ye vurup ölümüne yol açma vakası) işledin (`26:19`)' ve 'sahte sığınaklarımıza bunu kim yaptı? ... belki şu büyükleri yapmıştır (`21:59-63`).'"
+    },
+    {
+      "ref": "4:47 & 8:42,44 & 17:5,108 & 33:37 & 73:18",
+      "role": "Kesin Gerçekleşen İrade (`مَفْعُولًا`) Çapası (7 Geçiş)",
+      "literal_meaning": "'Allah'ın karar ve düzeni elbette gerçekleşip olguya dönüşendir (`كَانَ أَمْرُ ٱللَّهِ مَفْعُولًا` `4:47`, `33:37`; `لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا` `8:42,44`; `وَكَانَ وَعْدًا مَّفْعُولًا` `17:5,108`, `73:18`).'"
+    },
+    {
+      "ref": "11:107 & 85:16 & 21:23",
+      "role": "Mutlak Egemen İcra (`فَعَّالٌ لِّمَا يُرِيدُ`) Çapası",
+      "literal_meaning": "'Rabbin her istediğini eksiksiz eyleme geçirendir (`فَعَّالٌ لِّمَا يُرِيدُ` `11:107`, `85:16`)' ve 'O yaptığından sorumlu tutulmaz, onlar ise sorumlu tutulurlar (`21:23`).'"
+    },
+    {
+      "ref": "21:73 & 22:77 & 23:4",
+      "role": "İyiliklerin ve Paylaşımın Fiilî İcrası Çapası (`فِعْلَ ٱلْخَيْرَٰتِ` / `لِلزَّكَوٰةِ فَٰعِلُونَ`)",
+      "literal_meaning": "'Onlara hayırları fiilen yapmayı (`فِعْلَ ٱلْخَيْرَٰتِ`) vahyettik (`21:73`)', 'iyiliği fiilen yapın (`وَٱفْعَلُوا۟ ٱلْخَيْرَ` `22:77`)' ve 'onlar arınma payını sözde değil fiilen icra edenlerdir (`لِلزَّكَوٰةِ فَٰعِلُونَ` `23:4`).'"
+    },
+    {
+      "ref": "2:24 & 39:70 & 27:88",
+      "role": "Acizlik Kanıtı ve `فِعْل / عَمَل / صُنْع` Furûk Çapası",
+      "literal_meaning": "'Eğer yapamazsanız — ki asla yapamayacaksınız (`فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟` `2:24`)' ile tek ayette `عَمَل / فِعْل` (`39:70`) ve `صُنْع / فِعْل` (`27:88`) ayrımı."
+    },
+    {
+      "ref": "34:54 & 46:9 & 75:25 & 89:6 & 105:1",
+      "role": "Edilgen ve Tarihsel Müdahale (`فُعِلَ بِـ / فَعَلَ رَبُّكَ بِـ`) Çapası",
+      "literal_meaning": "'Daha önce benzerlerine yapıldığı gibi (`كَمَا فُعِلَ بِأَشْيَاعِهِم` `34:54`)', 'bana ve size ne yapılacağını bilmem (`مَا يُفْعَلُ بِى` `46:9`)' ve 'Rabbinin Âd ile Fil sahiplerine nasıl müdahale ettiğini görmedin mi? (`89:6`, `105:1`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök bütün Kur'an'da yalnızca I. bab fiil (`فَعَلَ - يَفْعَلُ`, `88 V`: `59` muzâri [2'si meçhul `46:9`, `75:25`], `26` mâzî [1'i meçhul `34:54`], `3` emir `2:68`, `22:77`, `37:102`) ve `5` isim/sıfat lemması üretir (`20 N`): `فَاعِل` (`9 N`: `6` mensûb `فَٰعِلِينَ`, `3` merfû), `مَفْعُول` (`7 N`: daima mansûb nekre `مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`), `فَعَّال` (`2 N`: yalnızca Allah'a mahsus `11:107`, `85:16`), `فِعْل` (`1 N` hapax `21:73` `فِعْلَ ٱلْخَيْرَٰتِ`) ve `فَعْلَة` (`1 N` hapax binâ-yı merre `26:19` `فَعْلَتَكَ`). 2) `فعل` tekil veya genel nesnede doğrudan geçişli (`فَعَلْتُهَآ`), etki yöneltilen tarafta ise daima `بِـ` harf-i ceriyle (`فَعَلَ بِعَادٍ`, `مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ`, `مَا يُفْعَلُ بِى`) bağlanır. 3) `23:4`te `لِلزَّكَوٰةِ فَٰعِلُونَ` ve `11:107` / `85:16`da `فَعَّالٌ لِّمَا يُرِيدُ` isim türevleri nesneye takviye `لِـ` harf-i ceriyle bağlanır. 4) `5` ayette birden fazla geçer (`26:19` x3; `2:24`, `3:135`, `4:66`, `5:79` x2) ve `33` ayrı Rasm-ı Osmânî yazımına sahiptir.",
+  "derivatives": {
+    "فَعَلَ - يَفْعَلُ (`88 V` I. bab, `3` meçhul dahil)": "Sözü/emri eyleme dökme (`2:68`, `16:50`, `61:2`, `66:6`), somut müdahale (`12:89`, `21:59`, `89:6`, `105:1`), acizlik sınırı (`2:24`) ve başa gelen edilgen olgu (`34:54`, `46:9`, `75:25`)",
+    "فَاعِل / فَاعِلُونَ (`9 N` ism-i fâil)": "Bir işi fiilen gerçekleştirmeye yönelmiş fail (`12:10,61`, `15:71`, `18:23`, `21:17,68,79,104`, `23:4`)",
+    "مَفْعُولًا (`7 N` ism-i mef'ûl)": "Kesinlikle icra edilip olguya dönüştürülen ilâhî emir ve vaat (`4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`)",
+    "فَعَّال (`2 N` mübalağa `11:107`, `85:16`)": "Her dilediğini kesintisiz ve eksiksiz gerçekleştiren Mutlak İrade (`فَعَّالٌ لِّمَا يُرِيدُ`)",
+    "فِعْل (`1 N` `21:73`) & فَعْلَة (`1 N` `26:19`)": "Hayırlı işleri fiilen icra (`فِعْلَ ٱلْخَيْرَٰتِ`) ve tekil vaka anlamlı binâ-yı merre (`فَعْلَتَكَ`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 24,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:24",
+      "word_position": 3,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Yapamazsanız ki yapamayacaksınız o takdirde, gerçeğin üzerini örtenler için hazırlanan ve yakıtı insanlarla taş olan ateşten sakının.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yapamazsanız ki yapamayacaksınız o takdirde, gerçeğin üzerini örtenler için hazırlanan ve yakıtı insanlarla taş olan ateşten sakının.",
+      "contextual_meaning": "Acizlik veya yükümlülük koşulu (`2:24,279`, `5:67`, `8:73`): İstenen eylemi yapamama (`فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟`) veya yapmama halinde doğacak sistemik sonuçlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 24,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:24",
+      "word_position": 5,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Asla yapamayacaksınız / yapmanız (`تَفْعَلُوا۟ / تَفْعَلُوهُ / تَفْعَلُوٓا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Yapamazsanız ki yapamayacaksınız o takdirde, gerçeğin üzerini örtenler için hazırlanan ve yakıtı insanlarla taş olan ateşten sakının.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yapamazsanız ki yapamayacaksınız o takdirde, gerçeğin üzerini örtenler için hazırlanan ve yakıtı insanlarla taş olan ateşten sakının.",
+      "contextual_meaning": "Acizlik veya yükümlülük koşulu (`2:24,279`, `5:67`, `8:73`): İstenen eylemi yapamama (`فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟`) veya yapmama halinde doğacak sistemik sonuçlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 68,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:68",
+      "word_position": 21,
+      "target_word_uthmani": "فَٱفْعَلُوا۟",
+      "target_word_rasm": "فٱفعلوا",
+      "target_word_literal_irab": "Emrolunanı / iyiliği fiilen yapın (`فَٱفْعَلُوا۟ / وَٱفْعَلُوا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "عَوَانٌۢ بَيْنَ ذَٰلِكَ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbine bizim adımıza yalvar da onun mahiyetini bize bildirsin\" dediler, \"O, onun ne pek kart, ne pek körpe, ikisi ortası bir sığır olduğunu söylüyor, size emrolunanı yapın\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbine bizim adımıza yalvar da onun mahiyetini bize bildirsin\" dediler, \"O, onun ne pek kart, ne pek körpe, ikisi ortası bir sığır olduğunu söylüyor, size emrolunanı yapın\" dedi.",
+      "contextual_meaning": "Buyruğu fiilen uygulama (`فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ / ٱفْعَلْ مَا تُؤْمَرُ / وَٱفْعَلُوا۟ ٱلْخَيْرَ`): Talimatı tartışıp ertelemeden doğrudan eyleme dökme."
+    },
+    {
+      "surah": 2,
+      "ayah": 71,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:71",
+      "word_position": 24,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Yeri sürüp, ekini sulayarak boyunduruk altında ezilmemiş, kusursuz, alacasız bir sığır olduğunu söylüyor\" dedi. \"Şimdi gerçeği bildirdin\" deyip sığırı boğazladılar; ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yeri sürüp, ekini sulayarak boyunduruk altında ezilmemiş, kusursuz, alacasız bir sığır olduğunu söylüyor\" dedi. \"Şimdi gerçeği bildirdin\" deyip sığırı boğazladılar; az kalsın bunu yapmayacaklardı.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 85,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:85",
+      "word_position": 31,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Sonra siz, birbirinizi öldüren, aranızdan bir takımı memleketlerinden süren, onlara karşı sapma ve ağır kusur ve düşmanlıkta birleşen, onları çıkarmak haramken size esir olarak geldiklerinde fidyelerini vermeye kalkan kimselersiniz. Kitabın bir kısmına güvene erip, bir kısmını gerçeğin üzerini örtme mı ediyorsunuz? Aranızda böyle yapanın cezası ancak dünya hayatında rezil olmaktır. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra siz, birbirinizi öldüren, aranızdan bir takımı memleketlerinden süren, onlara karşı sapma ve ağır kusur ve düşmanlıkta birleşen, onları çıkarmak haramken size esir olarak geldiklerinde fidyelerini vermeye kalkan kimselersiniz. Kitabın bir kısmına güvene erip, bir kısmını gerçeğin üzerini örtme mı ediyorsunuz? Aranızda böyle yapanın cezası ancak dünya hayatında rezil olmaktır. Ahiret gününde de azabın en şiddetlisine onlar uğratılırlar. Allah yaptıklarınızdan gafil değildir.",
+      "contextual_meaning": "Furûk eşleşmesi (`2:85,234`, `22:14`, `27:88`, `39:70`, `58:13`): Aynı ayette `فِعْل` (tekil somut vaka/etki) ile `عَمَل` (sürekli sorumluluk işi) veya `صُنْع` (kusursuz ustalık) ayrımının görülmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 197,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:197",
+      "word_position": 17,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanması bilinen aylardadır. O aylarda büyük yöneliş toplanmasına girişen kimse bilmelidir ki, büyük yöneliş toplanmasında kadına yaklaşmak, sövüşmek, dövüşmek yoktur. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanması bilinen aylardadır. O aylarda büyük yöneliş toplanmasına girişen kimse bilmelidir ki, büyük yöneliş toplanmasında kadına yaklaşmak, sövüşmek, dövüşmek yoktur. Ne iyilik yaparsanız Allah onu bilir. Kendinize azık edinin, şüphe yok ki azığın en iyisi Allah korkusudur. Ey akıl sahibleri! Benden korkun.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 215,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:215",
+      "word_position": 16,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَٱبْنِ ٱلسَّبِيلِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Sarfedeceğiniz mal, ana baba, yakınlar, yetimler, düşkünler, yolcular içindir. Yaptığınız her iyiliği Allah şüphesiz bilir\".",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلْ مَآ أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, ne dolaşıma sokup paylaşacaklarını sorarlar, de ki: \"Sarfedeceğiniz mal, ana baba, yakınlar, yetimler, düşkünler, yolcular içindir. Yaptığınız her iyiliği Allah şüphesiz bilir\".",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 231,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:231",
+      "word_position": 16,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ضِرَارًا لِّتَعْتَدُوا۟ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ",
+      "context_snippet_turkish_tabula_rasa": "Kadınları boşadığınızda, müddetleri sona ererken, onları güzellikle tutun, ya da güzellikle bırakın, haklarına tecavüz etmek için onlara zararlı olacak şekilde tutmayın; böyle yapan şüphesiz kendisine yazık etmiş olur. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ وَلَا تَتَّخِذُوٓا۟ ءَايَٰتِ ٱللَّهِ هُزُوًا وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınları boşadığınızda, müddetleri sona ererken, onları güzellikle tutun, ya da güzellikle bırakın, haklarına tecavüz etmek için onlara zararlı olacak şekilde tutmayın; böyle yapan şüphesiz kendisine yazık etmiş olur. Allah'ın ayetlerini de alaya almayın; Allah'ın üzerinize olan nimetini, öğüt vermek üzere size indirdiği Kitap ve hikmeti anın, Allah'tan sakının, Allah'ın her şeyi bildiğini bilin.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 234,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:234",
+      "word_position": 18,
+      "target_word_uthmani": "فَعَلْنَ",
+      "target_word_rasm": "فعلن",
+      "target_word_literal_irab": "Kendi haklarında yaptıklarında (`فَعَلْنَ`, I. bab mâzî 3. çoğul dişil)",
+      "context_snippet_arabic": "جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ",
+      "context_snippet_turkish_tabula_rasa": "... müddetleri sona erdiğinde, onların kendi haklarında uygun şekilde yaptıklarından dolayı size sorumluluk yoktur. Allah işlediklerinizden haberdardır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3FP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden ölenlerin bırakmış olduğu eşler kendi kendilerine dört ay on gün beklerler; müddetleri sona erdiğinde, onların kendi haklarında uygun şekilde yaptıklarından dolayı size sorumluluk yoktur. Allah işlediklerinizden haberdardır.",
+      "contextual_meaning": "Furûk eşleşmesi (`2:85,234`, `22:14`, `27:88`, `39:70`, `58:13`): Aynı ayette `فِعْل` (tekil somut vaka/etki) ile `عَمَل` (sürekli sorumluluk işi) veya `صُنْع` (kusursuz ustalık) ayrımının görülmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 240,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:240",
+      "word_position": 20,
+      "target_word_uthmani": "فَعَلْنَ",
+      "target_word_rasm": "فعلن",
+      "target_word_literal_irab": "Kendi haklarında yaptıklarında (`فَعَلْنَ`, I. bab mâzî 3. çoğul dişil)",
+      "context_snippet_arabic": "عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن",
+      "context_snippet_turkish_tabula_rasa": "İçinizden ölüp, eşler bırakacak olanlar, evlerinden çıkarılmaksızın, senesine kadar eşlerinin geçimini sağlayacak şeyi vasiyet etsinler; eğer çıkarlarsa kendilerinin meşru olarak yaptıklarından dolayı size sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3FP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا وَصِيَّةً لِّأَزْوَٰجِهِم مَّتَٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden ölüp, eşler bırakacak olanlar, evlerinden çıkarılmaksızın, senesine kadar eşlerinin geçimini sağlayacak şeyi vasiyet etsinler; eğer çıkarlarsa kendilerinin meşru olarak yaptıklarından dolayı size sorumluluk yoktur. Allah güçlüdür, Hakim'dir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 253,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:253",
+      "word_position": 50,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ٱقْتَتَلُوا۟ وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan Allah'ın kendilerine hitabettiği, derecelerle yükselttikleri vardır. Meryem oğlu İsa'ya belgeler verdik, onu arındırıcı ilahi güç ve vahiy özü'le destekledik. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ دَرَجَٰتٍ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ وَلَٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bu elçilerden bir kısmını diğerlerinden üstün kıldık. Onlardan Allah'ın kendilerine hitabettiği, derecelerle yükselttikleri vardır. Meryem oğlu İsa'ya belgeler verdik, onu arındırıcı ilahi güç ve vahiy özü'le destekledik. Allah dileseydi, belgeler kendilerine geldikten sonra, elçilerin ardından birbirlerini öldürmezlerdi. Fakat ayrılığa düştüler, kimi güven duy, kimi gerçeğin üzerini örttü. Allah dileseydi birbirlerini öldürmezlerdi, lakin Allah istediğini yapar.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 2,
+      "ayah": 279,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:279",
+      "word_position": 3,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Böyle yapmazsanız, bunun Allah'a ve elçisine karşı açılmış bir savaş olduğunu bilin. Eğer tevbe ederseniz sermayeniz sizindir. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyle yapmazsanız, bunun Allah'a ve elçisine karşı açılmış bir savaş olduğunu bilin. Eğer tevbe ederseniz sermayeniz sizindir. Böylece haksızlık etmemiş ve haksızlığa uğramamış olursunuz.",
+      "contextual_meaning": "Acizlik veya yükümlülük koşulu (`2:24,279`, `5:67`, `8:73`): İstenen eylemi yapamama (`فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟`) veya yapmama halinde doğacak sistemik sonuçlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 282,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:282",
+      "word_position": 117,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... katip onu Allah'ın kendisine öğrettiği gibi yazmaktan çekinmesin, yazsın. Borçlu olan da yazdırsın, Rabbi olan Allah'tan sakınsın, ondan bir şey eksiltmesin. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَيُعَلِّمُكُمُ ٱللَّهُ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Birbirinize belirli bir süre için borçlandığınız zaman onu yazınız. İçinizden bir katip doğru olarak yazsın; katip onu Allah'ın kendisine öğrettiği gibi yazmaktan çekinmesin, yazsın. Borçlu olan da yazdırsın, Rabbi olan Allah'tan sakınsın, ondan bir şey eksiltmesin. Eğer borçlu, aptal veya aciz, ya da yazdıramıyacak durumda ise, velisi, doğru olarak yazdırsın. Erkeklerinizden iki şahid tutun; eğer iki erkek bulunmazsa, şahidlerden razı olacağınız bir erkek, biri unuttuğunda diğeri ona hatırlatacak iki kadın olabilir. Şahidler çağırıldıklarında çekinmesinler. Borç büyük veya küçük olsun, onu süresiyle beraber yazmaya üşenmeyin; bu, Allah katında en doğru, şahidlik için en sağlam ve şüphelenmenizden en uzak olandır. Ancak aranızdaki alışveriş peşin olursa, onu yazmamanızda size bir sorumluluk yoktur. Alışveriş yaptığınızda şahid tutun. Katibe de şahide de zarar verilmesin; eğer zarar verirseniz, o zaman doğru yoldan çıkmış olursunuz. Allah'tan sakının, Allah size öğretiyor; Allah her şeyi bilir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 28,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:28",
+      "word_position": 10,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "دُونِ ٱلْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "... kim böyle yaparsa Allah katında bir değeri yoktur, ancak, onlardan sakınmanız hali müstesnadır. Allah sizi Kendisiyle korkutur, dönüş Allah'adır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler, güvene erenleri bırakıp gerçeğin üzerini örtenleri dost edinmesinler; kim böyle yaparsa Allah katında bir değeri yoktur, ancak, onlardan sakınmanız hali müstesnadır. Allah sizi Kendisiyle korkutur, dönüş Allah'adır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 40,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:40",
+      "word_position": 15,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "\"Ya Rabbi! Ben artık iyice kocamış, karım da kısırken nasıl oğlum olabilir?\" dedi. Allah: \"Böyledir, Allah dilediğini yapar\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ya Rabbi! Ben artık iyice kocamış, karım da kısırken nasıl oğlum olabilir?\" dedi. Allah: \"Böyledir, Allah dilediğini yapar\" dedi.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 3,
+      "ayah": 115,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:115",
+      "word_position": 2,
+      "target_word_uthmani": "يَفْعَلُوا۟",
+      "target_word_rasm": "يفعلوا",
+      "target_word_literal_irab": "Yapacakları her iyilik / yapmadıkları (`يَفْعَلُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍ فَلَن",
+      "context_snippet_turkish_tabula_rasa": "Ne iyilik yaparlarsa, karşılığını bulacaklardır. Allah sakınanları bilir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَا يَفْعَلُوا۟ مِنْ خَيْرٍ فَلَن يُكْفَرُوهُ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ne iyilik yaparlarsa, karşılığını bulacaklardır. Allah sakınanları bilir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 135,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:135",
+      "word_position": 3,
+      "target_word_uthmani": "فَعَلُوا۟",
+      "target_word_rasm": "فعلوا",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَٰحِشَةً أَوْ ظَلَمُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlar fena bir şey yaptıklarında veya kendilerine zulmettiklerinde Allah'ı anarlar, sapma ve kusurlarının bağışlanmasını dilerler. sapma ve kusurları Allah'tan başka bağışlayan kim vardır? Onlar, yaptıklarında bile bile direnmezler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar fena bir şey yaptıklarında veya kendilerine zulmettiklerinde Allah'ı anarlar, sapma ve kusurlarının bağışlanmasını dilerler. sapma ve kusurları Allah'tan başka bağışlayan kim vardır? Onlar, yaptıklarında bile bile direnmezler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 135,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:135",
+      "word_position": 21,
+      "target_word_uthmani": "فَعَلُوا۟",
+      "target_word_rasm": "فعلوا",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar fena bir şey yaptıklarında veya kendilerine zulmettiklerinde Allah'ı anarlar, sapma ve kusurlarının bağışlanmasını dilerler. sapma ve kusurları Allah'tan başka bağışlayan kim vardır? Onlar, yaptıklarında bile bile direnmezler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar fena bir şey yaptıklarında veya kendilerine zulmettiklerinde Allah'ı anarlar, sapma ve kusurlarının bağışlanmasını dilerler. sapma ve kusurları Allah'tan başka bağışlayan kim vardır? Onlar, yaptıklarında bile bile direnmezler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 3,
+      "ayah": 188,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:188",
+      "word_position": 12,
+      "target_word_uthmani": "يَفْعَلُوا۟",
+      "target_word_rasm": "يفعلوا",
+      "target_word_literal_irab": "Yapacakları her iyilik / yapmadıkları (`يَفْعَلُوا۟`, I. bab meczûm muzâri 3. çoğul)",
+      "context_snippet_arabic": "يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَا تَحْسَبَنَّ ٱلَّذِينَ يَفْرَحُونَ بِمَآ أَتَوا۟ وَّيُحِبُّونَ أَن يُحْمَدُوا۟ بِمَا لَمْ يَفْعَلُوا۟ فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ ٱلْعَذَابِ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ettiklerine sevinen ve yapmadıklarıyla övülmekten hoşlananların, sakın onların azabdan kurtulacaklarını sanma; elem verici azab onlaradır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 30,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:30",
+      "word_position": 2,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا",
+      "context_snippet_turkish_tabula_rasa": "Bunu kim aşırı giderek haksızlıkla yaparsa, onu ateşe sokacağız. Bu, Allah'a kolaydır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunu kim aşırı giderek haksızlıkla yaparsa, onu ateşe sokacağız. Bu, Allah'a kolaydır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 47,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:47",
+      "word_position": 28,
+      "target_word_uthmani": "مَفْعُولًا",
+      "target_word_rasm": "مفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "context_snippet_turkish_tabula_rasa": "Ey Kitap verilenler! Yüzleri silip arkaya çevirerek enseler gibi dümdüz yapmadan, yahut cumartesi güncüleri lanetlediğimiz gibi lanetlemeden önce, yanınızdakini tasdik ederek indirdiğimiz Kuran'a güvene erin; Allah'ın emri daima yapılagelmiştir.",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Kitap verilenler! Yüzleri silip arkaya çevirerek enseler gibi dümdüz yapmadan, yahut cumartesi güncüleri lanetlediğimiz gibi lanetlemeden önce, yanınızdakini tasdik ederek indirdiğimiz Kuran'a güvene erin; Allah'ın emri daima yapılagelmiştir.",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 66,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:66",
+      "word_position": 13,
+      "target_word_uthmani": "فَعَلُوهُ",
+      "target_word_rasm": "فعلوه",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şayet onlara \"Kendinizi öldürün\" yahut \"Memleketinizden çıkın\" diye emretmiş olsaydık, pek azından başkaları bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirmiş olsalardı onlar için daha iyi ve daha sağlam olurdu.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًا لَّهُمْ وَأَشَدَّ تَثْبِيتًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şayet onlara \"Kendinizi öldürün\" yahut \"Memleketinizden çıkın\" diye emretmiş olsaydık, pek azından başkaları bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirmiş olsalardı onlar için daha iyi ve daha sağlam olurdu.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 66,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:66",
+      "word_position": 19,
+      "target_word_uthmani": "فَعَلُوا۟",
+      "target_word_rasm": "فعلوا",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Şayet onlara \"Kendinizi öldürün\" yahut \"Memleketinizden çıkın\" diye emretmiş olsaydık, pek azından başkaları bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirmiş olsalardı onlar için daha iyi ve daha sağlam olurdu.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًا لَّهُمْ وَأَشَدَّ تَثْبِيتًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şayet onlara \"Kendinizi öldürün\" yahut \"Memleketinizden çıkın\" diye emretmiş olsaydık, pek azından başkaları bunu yapmazlardı. Kendilerine verilen öğüdü yerine getirmiş olsalardı onlar için daha iyi ve daha sağlam olurdu.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 114,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:114",
+      "word_position": 18,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ",
+      "context_snippet_turkish_tabula_rasa": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 127,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:127",
+      "word_position": 33,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "لِلْيَتَٰمَىٰ بِٱلْقِسْطِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Kadınlar hakkında senden fetva isterler, de ki: \"Onlar hakkında fetvayı size Allah veriyor: ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlar hakkında senden fetva isterler, de ki: \"Onlar hakkında fetvayı size Allah veriyor: \"Bu fetva, kendilerine yazılan şeyi vermeyip kendileriyle evlenmeyi arzuladığınız yetim kadınlara ve bir de zavallı çocuklara ve yetimlere doğrulukla bakmanız hususunda Kitap'da size okunandır\". Ne iyilik yaparsaniz Allah onu şüphesiz bilir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 147,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:147",
+      "word_position": 2,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن",
+      "context_snippet_turkish_tabula_rasa": "nimetin değerini bilip açığa vurur ve güven duy, Allah size niçin azabetsin? Allah nimeti açığa vurmanın karşılığını verir ve bilir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "مَّا يَفْعَلُ ٱللَّهُ بِعَذَابِكُمْ إِن شَكَرْتُمْ وَءَامَنتُمْ وَكَانَ ٱللَّهُ شَاكِرًا عَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "nimetin değerini bilip açığa vurur ve güven duy, Allah size niçin azabetsin? Allah nimeti açığa vurmanın karşılığını verir ve bilir.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 5,
+      "ayah": 67,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:67",
+      "word_position": 11,
+      "target_word_uthmani": "تَفْعَلْ",
+      "target_word_rasm": "تفعل",
+      "target_word_literal_irab": "Eğer bunu yapmazsan (`تَفْعَلْ`, I. bab meczûm muzâri 2. tekil eril)",
+      "context_snippet_arabic": "رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi! Rabbinden sana indirileni tebliğ et, eğer bunu yapmazsan O'nun elçiliğini yapmamış olursun. Allah seni insanlardan korur. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi! Rabbinden sana indirileni tebliğ et, eğer bunu yapmazsan O'nun elçiliğini yapmamış olursun. Allah seni insanlardan korur. Doğrusu Allah gerçeğin üzerini örtenlere yol göstermez.",
+      "contextual_meaning": "Acizlik veya yükümlülük koşulu (`2:24,279`, `5:67`, `8:73`): İstenen eylemi yapamama (`فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟`) veya yapmama halinde doğacak sistemik sonuçlar."
+    },
+    {
+      "surah": 5,
+      "ayah": 79,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:79",
+      "word_position": 6,
+      "target_word_uthmani": "فَعَلُوهُ",
+      "target_word_rasm": "فعلوه",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerinin yaptıkları fenalıklara mani olmuyorlardı. Yapmakta oldukları ne kötü idi!",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerinin yaptıkları fenalıklara mani olmuyorlardı. Yapmakta oldukları ne kötü idi!",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 5,
+      "ayah": 79,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:79",
+      "word_position": 10,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Birbirlerinin yaptıkları fenalıklara mani olmuyorlardı. Yapmakta oldukları ne kötü idi!",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Birbirlerinin yaptıkları fenalıklara mani olmuyorlardı. Yapmakta oldukları ne kötü idi!",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 112,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:112",
+      "word_position": 20,
+      "target_word_uthmani": "فَعَلُوهُ",
+      "target_word_rasm": "فعلوه",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "شَآءَ رَبُّكَ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Aldatmak için birbirlerine cazip sözler fısıldayan görünmeyen bilinçli varlık ve insan saptırıcı önderlerini her elçiye düşman yaptık. Bu saptırıcı yıkıcı güçler ahirete güven duy kalblerinin o sözlere yönelmesi, ondan hoşnut olması ve kendilerinin işledikleri suçları işlemeleri için böyle yaparlar. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aldatmak için birbirlerine cazip sözler fısıldayan görünmeyen bilinçli varlık ve insan saptırıcı önderlerini her elçiye düşman yaptık. Bu saptırıcı yıkıcı güçler ahirete güven duy kalblerinin o sözlere yönelmesi, ondan hoşnut olması ve kendilerinin işledikleri suçları işlemeleri için böyle yaparlar. Rabbin dileseydi bunu yapamazlardı, sen onları iftiraları ile başbaşa bırak;",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 137,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:137",
+      "word_position": 17,
+      "target_word_uthmani": "فَعَلُوهُ",
+      "target_word_rasm": "فعلوه",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Böylece, putlara hizmet edenler, puta tapanların çoğunu helake sürüklemek, yaşam sistemlerini karma karışık etmek için çocuklarını öldürmelerini onlara iyi göstermişlerdir. Allah dileseydi bunu yapamazlardı. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece, putlara hizmet edenler, puta tapanların çoğunu helake sürüklemek, yaşam sistemlerini karma karışık etmek için çocuklarını öldürmelerini onlara iyi göstermişlerdir. Allah dileseydi bunu yapamazlardı. Sen onları ve iftiralarını bir tarafa bırak.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 6,
+      "ayah": 159,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:159",
+      "word_position": 19,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "يُنَبِّئُهُم بِمَا كَانُوا۟ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Fırka fırka olup yaşam sistemlerini parçalayanlarla senin hiçbir ilişiğin olamaz. Onların işi Allah'a kalmıştır, yaptıklarını onlara sonra bildirecektir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا لَّسْتَ مِنْهُمْ فِى شَىْءٍ إِنَّمَآ أَمْرُهُمْ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُوا۟ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fırka fırka olup yaşam sistemlerini parçalayanlarla senin hiçbir ilişiğin olamaz. Onların işi Allah'a kalmıştır, yaptıklarını onlara sonra bildirecektir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 28,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:28",
+      "word_position": 2,
+      "target_word_uthmani": "فَعَلُوا۟",
+      "target_word_rasm": "فعلوا",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَإِذَا فَعَلُوا۟ فَٰحِشَةً قَالُوا۟ وَجَدْنَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar bir fenalık yaptıkları zaman, \"Babalarımızı bu yolda bulduk, Allah da bize bunu emretti\" derler. De ki: ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا فَعَلُوا۟ فَٰحِشَةً قَالُوا۟ وَجَدْنَا عَلَيْهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَا قُلْ إِنَّ ٱللَّهَ لَا يَأْمُرُ بِٱلْفَحْشَآءِ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar bir fenalık yaptıkları zaman, \"Babalarımızı bu yolda bulduk, Allah da bize bunu emretti\" derler. De ki: \"Allah fenalığı emretmez. Bilmediğiniz şeyi Allah'a karşı mı söylüyorsunuz?\"",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 155,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:155",
+      "word_position": 20,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "Musa, tayin ettiğimiz müddette milletinden yetmiş kişi seçti; onları sarsıntı tutunca dedi ki: ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, tayin ettiğimiz müddette milletinden yetmiş kişi seçti; onları sarsıntı tutunca dedi ki: \"Rabbim! Dileseydin daha önce beni ve onları yok ederdin, aramızdaki beyinsizlerin yaptıklarından ötürü bizi yok eder misin? Bu, Senin imtihanından başka birşey değildir, bununla dilediğini saptırır, dilediğini doğru yola iletirsin; bizim dostumuz Sensin; bizi bağışla, bize merhamet et. Sen bağışlayanların en iyisisin.\"",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 173,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:173",
+      "word_position": 14,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin, insanoğlunun sulbünden soyunu alıp devam ettirmiş, onlara: \"Ben sizin Rabbiniz değil miyim\" demiş ve buna kendilerini şahit tutmuştu. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin, insanoğlunun sulbünden soyunu alıp devam ettirmiş, onlara: \"Ben sizin Rabbiniz değil miyim\" demiş ve buna kendilerini şahit tutmuştu. Onlar da: \"Evet şahidiz\" demişlerdi. Bu, kıyamet günü, \"Bizim bundan haberimiz yoktu\" dersiniz veya \"Daha önce babalarımız Allah'a ortak koşmuşlardı, biz de onlardan sonra gelen bir soyuz, bizi, boşa çalışanların yaptıklarından ötürü yok eder misin?\" dersiniz diyedir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 8,
+      "ayah": 42,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:42",
+      "word_position": 21,
+      "target_word_uthmani": "مَفْعُولًا",
+      "target_word_rasm": "مفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ",
+      "context_snippet_turkish_tabula_rasa": "... fakat Allah mahvolan, apaçık belgeden ötürü mahvolsun, yaşayan da apaçık belgeden ötürü yaşasın diye olacak işi yaptı. Doğrusu Allah işitir ve bilir.",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ وَلَوْ تَوَاعَدتُّمْ لَٱخْتَلَفْتُمْ فِى ٱلْمِيعَٰدِ وَلَٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz vadiye en yakın ve onlar da en uzak yamaçta idiler; kervanın süvarileri sizden daha aşağıdaydı. Savaş için buluşmak üzere sözleşmeye kalksaydınız, vaktini tayinde anlaşmazlığa düşerdiniz; fakat Allah mahvolan, apaçık belgeden ötürü mahvolsun, yaşayan da apaçık belgeden ötürü yaşasın diye olacak işi yaptı. Doğrusu Allah işitir ve bilir.",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 8,
+      "ayah": 44,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:44",
+      "word_position": 15,
+      "target_word_uthmani": "مَفْعُولًا",
+      "target_word_rasm": "مفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا وَإِلَى ٱللَّهِ تُرْجَعُ",
+      "context_snippet_turkish_tabula_rasa": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ يُرِيكُمُوهُمْ إِذِ ٱلْتَقَيْتُمْ فِىٓ أَعْيُنِكُمْ قَلِيلًا وَيُقَلِّلُكُمْ فِىٓ أَعْيُنِهِمْ لِيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Karşılaştığınızda, olacak işi oldurmak için, onları gözlerinize az gösteriyor ve sizi de onların gözünde azaltıyordu. Bütün işler dönüp Allah'a varır.",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 8,
+      "ayah": 73,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:73",
+      "word_position": 7,
+      "target_word_uthmani": "تَفْعَلُوهُ",
+      "target_word_rasm": "تفعلوه",
+      "target_word_literal_irab": "Asla yapamayacaksınız / yapmanız (`تَفْعَلُوا۟ / تَفْعَلُوهُ / تَفْعَلُوٓا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "أَوْلِيَآءُ بَعْضٍ إِلَّا تَفْعَلُوهُ تَكُن فِتْنَةٌ فِى",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler birbirlerinin dostlarıdır. Eğer siz aranızda dost olmazsanız yeryüzünde kargaşalık, fitne ve büyük bozgun çıkar.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ إِلَّا تَفْعَلُوهُ تَكُن فِتْنَةٌ فِى ٱلْأَرْضِ وَفَسَادٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler birbirlerinin dostlarıdır. Eğer siz aranızda dost olmazsanız yeryüzünde kargaşalık, fitne ve büyük bozgun çıkar.",
+      "contextual_meaning": "Acizlik veya yükümlülük koşulu (`2:24,279`, `5:67`, `8:73`): İstenen eylemi yapamama (`فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟`) veya yapmama halinde doğacak sistemik sonuçlar."
+    },
+    {
+      "surah": 10,
+      "ayah": 36,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:36",
+      "word_position": 17,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların çoğu zanna uyarlar; gerçekte ise zan, hakikat karşısında bir şey ifade etmez. Allah, yaptıklarını şüphesiz bilir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların çoğu zanna uyarlar; gerçekte ise zan, hakikat karşısında bir şey ifade etmez. Allah, yaptıklarını şüphesiz bilir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 46,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:46",
+      "word_position": 15,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara, söz verdiğimiz azabın bir kısmını ya dünyada sana gösteririz, veya senin can ve hayat özünü alırız da nasıl olsa onların dönüşü Bizedir; (ahirette görürsün) Allah onların yaptıklarına şahiddir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا مَرْجِعُهُمْ ثُمَّ ٱللَّهُ شَهِيدٌ عَلَىٰ مَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, söz verdiğimiz azabın bir kısmını ya dünyada sana gösteririz, veya senin can ve hayat özünü alırız da nasıl olsa onların dönüşü Bizedir; (ahirette görürsün) Allah onların yaptıklarına şahiddir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 10,
+      "ayah": 106,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:106",
+      "word_position": 12,
+      "target_word_uthmani": "فَعَلْتَ",
+      "target_word_rasm": "فعلت",
+      "target_word_literal_irab": "Bunu sen mi yaptın / yaptıysan (`فَعَلْتَ / وَفَعَلْتَ`, I. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "وَلَا يَضُرُّكَ فَإِن فَعَلْتَ فَإِنَّكَ إِذًا مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "(Muhammed'e) \"Yüzünü, doğruya yönelmiş olarak yaşam sistemine çevir, sakın ortak koşanlardan olma; sana fayda da zarar da veremeyecek, Allah'tan başkasına yalvarma; ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ فَإِن فَعَلْتَ فَإِنَّكَ إِذًا مِّنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "(Muhammed'e) \"Yüzünü, doğruya yönelmiş olarak yaşam sistemine çevir, sakın ortak koşanlardan olma; sana fayda da zarar da veremeyecek, Allah'tan başkasına yalvarma; öyle yaparsan şüphesiz, zalimlerden olursun\" denildi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 36,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:36",
+      "word_position": 17,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Nuh'a, \"Senin milletinden, güvene ermiş olanlardan başkası güven duy; onların yapageldiklerine üzülme; ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh'a, \"Senin milletinden, güvene ermiş olanlardan başkası güven duy; onların yapageldiklerine üzülme; nezaretimiz altında, sana bildirdiğimiz gibi gemiyi yap. Haksızlık yapanlar için Bana baş vurma, çünkü onlar suda boğulacaklardır\" diye Allah tarafından vahyolundu.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 87,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:87",
+      "word_position": 12,
+      "target_word_uthmani": "نَّفْعَلَ",
+      "target_word_rasm": "نفعل",
+      "target_word_literal_irab": "İstediğimizi yapmamızı (`نَّفْعَلَ`, I. bab mansûb muzâri 1. çoğul)",
+      "context_snippet_arabic": "ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başı...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 107,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:107",
+      "word_position": 13,
+      "target_word_uthmani": "فَعَّالٌ",
+      "target_word_rasm": "فعال",
+      "target_word_literal_irab": "Dilediğini kesintisiz ve mutlaka yapandır (`فَعَّالٌ`, mübalağa sıfat/isim nekre merfû)",
+      "context_snippet_arabic": "رَبُّكَ إِنَّ رَبَّكَ فَعَّالٌ لِّمَا يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin dilemesi bir yana, gökler ve yer durdukça, orada temelli kalacaklardır. Rabbin, şüphesiz, her istediğini yapar.",
+      "morphology": {
+        "lemma": "faE~aAl",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faE~aAl|ROOT:fEl|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ إِنَّ رَبَّكَ فَعَّالٌ لِّمَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin dilemesi bir yana, gökler ve yer durdukça, orada temelli kalacaklardır. Rabbin, şüphesiz, her istediğini yapar.",
+      "contextual_meaning": "Mutlak İrade'nin eylem sıfatı (`فَعَّالٌ لِّمَا يُرِيدُ` `11:107`, `85:16`): İstediği şeyi arada hiçbir engel olmadan kesintisiz olguya dönüştüren."
+    },
+    {
+      "surah": 12,
+      "ayah": 10,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:10",
+      "word_position": 16,
+      "target_word_uthmani": "فَٰعِلِينَ",
+      "target_word_rasm": "فعلين",
+      "target_word_literal_irab": "Eğer gerçekten yapacak kimselerseniz / yapanlar (`فَٰعِلِينَ`, ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "İçlerinden biri: \"Yusuf'u öldürmeyin, onu bir kuyunun derinliklerine bırakın. Böyle yaparsanız yolculardan onu bulup alan olur\" dedi.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İçlerinden biri: \"Yusuf'u öldürmeyin, onu bir kuyunun derinliklerine bırakın. Böyle yaparsanız yolculardan onu bulup alan olur\" dedi.",
+      "contextual_meaning": "Bir eylemi fiilen gerçekleştirmeye yönelme (`فَٰعِلِينَ` `12:10,61`, `15:71`, `21:17,68`): Kararlılık veya niyet sınaması."
+    },
+    {
+      "surah": 12,
+      "ayah": 32,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:32",
+      "word_position": 13,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "فَٱسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"İşte sözünü edip beni yerdiğiniz budur. And olsun ki onun olmak istedim, fakat o iffetinden dolayı çekindi. Emrimi yine yapmazsa, and olsun ki hapse tıkılacak ve kahre uğrayanlardan olacak. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّٰغِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Vezirin karısı: \"İşte sözünü edip beni yerdiğiniz budur. And olsun ki onun olmak istedim, fakat o iffetinden dolayı çekindi. Emrimi yine yapmazsa, and olsun ki hapse tıkılacak ve kahre uğrayanlardan olacak.\"",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 61,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:61",
+      "word_position": 6,
+      "target_word_uthmani": "لَفَٰعِلُونَ",
+      "target_word_rasm": "لفعلون",
+      "target_word_literal_irab": "Elbette yapacak / fiilen uygulayanlardır (`فَٰعِلُونَ / لَفَٰعِلُونَ`, ism-i fâil çoğul merfû)",
+      "context_snippet_arabic": "عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri: \"Babasını ikna etmeye çalışacağız ve her halde bunu yaparız\" dediler.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri: \"Babasını ikna etmeye çalışacağız ve her halde bunu yaparız\" dediler.",
+      "contextual_meaning": "Bir eylemi fiilen gerçekleştirmeye yönelme (`فَٰعِلِينَ` `12:10,61`, `15:71`, `21:17,68`): Kararlılık veya niyet sınaması."
+    },
+    {
+      "surah": 12,
+      "ayah": 89,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:89",
+      "word_position": 5,
+      "target_word_uthmani": "فَعَلْتُم",
+      "target_word_rasm": "فعلتم",
+      "target_word_literal_irab": "Ne yaptığınızı (`فَعَلْتُمْ / فَعَلْتُم`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ",
+      "context_snippet_turkish_tabula_rasa": "\"Siz, Yusuf ve kardeşine bilmeden neler yaptığınızın farkında mısınız?\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Siz, Yusuf ve kardeşine bilmeden neler yaptığınızın farkında mısınız?\" dedi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 14,
+      "ayah": 27,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:27",
+      "word_position": 15,
+      "target_word_uthmani": "وَيَفْعَلُ",
+      "target_word_rasm": "ويفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Allah güvene erenleri, dünya hayatında ve ahirette sağlam bir söz üzerinde tutar; zalimleri de saptırır. Allah dilediğini yapar.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ بِٱلْقَوْلِ ٱلثَّابِتِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَفِى ٱلْءَاخِرَةِ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَ وَيَفْعَلُ ٱللَّهُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah güvene erenleri, dünya hayatında ve ahirette sağlam bir söz üzerinde tutar; zalimleri de saptırır. Allah dilediğini yapar.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 14,
+      "ayah": 45,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:45",
+      "word_position": 10,
+      "target_word_uthmani": "فَعَلْنَا",
+      "target_word_rasm": "فعلنا",
+      "target_word_literal_irab": "Onlara nasıl yaptık (`فَعَلْنَا`, I. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ",
+      "context_snippet_turkish_tabula_rasa": "... Siz daha önce, sonunuzun gelmeyeceğine bağlayıcı ahit etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. Onlara, yaptıklarımız da sizlere açıklanmıştı. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|1P"
+      },
+      "ayah_text_arabic_full": "وَسَكَنتُمْ فِى مَسَٰكِنِ ٱلَّذِينَ ظَلَمُوٓا۟ أَنفُسَهُمْ وَتَبَيَّنَ لَكُمْ كَيْفَ فَعَلْنَا بِهِمْ وَضَرَبْنَا لَكُمُ ٱلْأَمْثَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: \"Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, elçilere uyalım\" derler. Siz daha önce, sonunuzun gelmeyeceğine bağlayıcı ahit etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. Onlara, yaptıklarımız da sizlere açıklanmıştı. Size misaller de vermiştik.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 15,
+      "ayah": 71,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:71",
+      "word_position": 6,
+      "target_word_uthmani": "فَٰعِلِينَ",
+      "target_word_rasm": "فعلين",
+      "target_word_literal_irab": "Eğer gerçekten yapacak kimselerseniz / yapanlar (`فَٰعِلِينَ`, ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Lut: \"Alacaksanız, işte benim kızlarım\" dedi.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Lut: \"Alacaksanız, işte benim kızlarım\" dedi.",
+      "contextual_meaning": "Bir eylemi fiilen gerçekleştirmeye yönelme (`فَٰعِلِينَ` `12:10,61`, `15:71`, `21:17,68`): Kararlılık veya niyet sınaması."
+    },
+    {
+      "surah": 16,
+      "ayah": 33,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:33",
+      "word_position": 12,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَمْرُ رَبِّكَ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar kendilerine yalnız kozmik görevlilerin veya senin Rabbinin buyruğunun gelmesini mi bekliyorlar? Onlardan öncekiler de böyle yapmışlardı. Allah onlara zulmetmemişti, ama onlar kendilerine yazık ediyorlardı.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ أَمْرُ رَبِّكَ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar kendilerine yalnız kozmik görevlilerin veya senin Rabbinin buyruğunun gelmesini mi bekliyorlar? Onlardan öncekiler de böyle yapmışlardı. Allah onlara zulmetmemişti, ama onlar kendilerine yazık ediyorlardı.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 16,
+      "ayah": 35,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:35",
+      "word_position": 23,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "مِن شَىْءٍ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "... O'nun buyruğu olmaksızın hiçbir şeyi haram kılmazdık\" dediler. Kendilerinden öncekiler de böyle yapmıştı. elçilere apaçık tebliğden başka ne vazife düşer?",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a eş koşanlar: \"Allah dileseydi O'ndan başka hiçbir şeye ne biz ve ne de babalarımız tapardı. O'nun buyruğu olmaksızın hiçbir şeyi haram kılmazdık\" dediler. Kendilerinden öncekiler de böyle yapmıştı. elçilere apaçık tebliğden başka ne vazife düşer?",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 16,
+      "ayah": 50,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:50",
+      "word_position": 5,
+      "target_word_uthmani": "وَيَفْعَلُونَ",
+      "target_word_rasm": "ويفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Üstün olan Rablerinden korkarlar ve emrolundukları şeyleri yaparlar.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Üstün olan Rablerinden korkarlar ve emrolundukları şeyleri yaparlar.",
+      "contextual_meaning": "Buyruğu fiilen uygulama (`فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ / ٱفْعَلْ مَا تُؤْمَرُ / وَٱفْعَلُوا۟ ٱلْخَيْرَ`): Talimatı tartışıp ertelemeden doğrudan eyleme dökme."
+    },
+    {
+      "surah": 16,
+      "ayah": 91,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:91",
+      "word_position": 20,
+      "target_word_uthmani": "تَفْعَلُونَ",
+      "target_word_rasm": "تفعلون",
+      "target_word_literal_irab": "Yapmıyorsunuz / yaptıklarınız (`تَفْعَلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ahitleştiğiniz zaman Allah'ın ahdini yerine getirin. Allah'ı kendinize kefil kılarak sağlama bağladığınız bağlayıcı ahitleri bozmayın. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ahitleştiğiniz zaman Allah'ın ahdini yerine getirin. Allah'ı kendinize kefil kılarak sağlama bağladığınız bağlayıcı ahitleri bozmayın. Allah yaptıklarınızı şüphesiz bilir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 5,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:5",
+      "word_position": 17,
+      "target_word_uthmani": "مَّفْعُولًا",
+      "target_word_rasm": "مفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا",
+      "context_snippet_turkish_tabula_rasa": "\"Bu ikiden birincisinin vakti gelince, üzerinize pek güçlü olan kullarımızı salacağız. Onlar memleketlerinizde her köşeyi kontrollerine alacaklar. Bu, yerine gelecek bir vaaddir. ...",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu ikiden birincisinin vakti gelince, üzerinize pek güçlü olan kullarımızı salacağız. Onlar memleketlerinizde her köşeyi kontrollerine alacaklar. Bu, yerine gelecek bir vaaddir.\"",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 108,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:108",
+      "word_position": 8,
+      "target_word_uthmani": "لَمَفْعُولًا",
+      "target_word_rasm": "لمفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. ...",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kuran'a ister güvene erin, isten güven duy, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine boyun eğmeye varırlar\" ve \"Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir\" derler.",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 23,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:23",
+      "word_position": 5,
+      "target_word_uthmani": "فَاعِلٌ",
+      "target_word_rasm": "فاعل",
+      "target_word_literal_irab": "Yarın bunu yapacak olan (`فَاعِلٌ`, ism-i fâil nekre tekil merfû)",
+      "context_snippet_arabic": "تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا",
+      "context_snippet_turkish_tabula_rasa": "Herhangi bir şey için, Allah'ın dilemesi dışında: \"Ben yarın onu yapacağım\" deme. Unuttuğun zaman Rabbini an ve şöyle de: ...",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Herhangi bir şey için, Allah'ın dilemesi dışında: \"Ben yarın onu yapacağım\" deme. Unuttuğun zaman Rabbini an ve şöyle de: \"Umulur ki, Rabbim beni doğruya daha yakın olana eriştirir.\"",
+      "contextual_meaning": "Gelecek eylem iddiası sınırı (`إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا` `18:23`): İnsanın Allah'ın dilemesine bağlamadan 'yarın kesin yapacağım' dememesi."
+    },
+    {
+      "surah": 18,
+      "ayah": 82,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:82",
+      "word_position": 26,
+      "target_word_uthmani": "فَعَلْتُهُۥ",
+      "target_word_rasm": "فعلته",
+      "target_word_literal_irab": "Onu yaptım (`فَعَلْتُهَآ / فَعَلْتُهُۥ`, I. bab mâzî 1. tekil)",
+      "context_snippet_arabic": "مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "\"Duvar ise, şehirde iki yetim erkek çocuğa aitti. Duvarın altında onların bir hazinesi vardı; ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|1S"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع عَّلَيْهِ صَبْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Duvar ise, şehirde iki yetim erkek çocuğa aitti. Duvarın altında onların bir hazinesi vardı; babaları da iyi bir kimseydi. Rabbin onların erginlik çağına ulaşmasını ve Rabbinden bir rahmet olarak hazinelerini çıkarmalarını istedi. Ben bunları kendiliğimden yapmadım. İşte dayanamadığın işlerin içyüzleri budur.\"",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 17,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:17",
+      "word_position": 11,
+      "target_word_uthmani": "فَٰعِلِينَ",
+      "target_word_rasm": "فعلين",
+      "target_word_literal_irab": "Eğer gerçekten yapacak kimselerseniz / yapanlar (`فَٰعِلِينَ`, ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eğlenme dileseydik, bunu yapacak olsaydık, şanımıza uygun şekilde yapardık; ama yapmayız.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًا لَّٱتَّخَذْنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğlenme dileseydik, bunu yapacak olsaydık, şanımıza uygun şekilde yapardık; ama yapmayız.",
+      "contextual_meaning": "Bir eylemi fiilen gerçekleştirmeye yönelme (`فَٰعِلِينَ` `12:10,61`, `15:71`, `21:17,68`): Kararlılık veya niyet sınaması."
+    },
+    {
+      "surah": 21,
+      "ayah": 23,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:23",
+      "word_position": 4,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+      "context_snippet_turkish_tabula_rasa": "O, yaptığından sorumlu değildir, onlar ise sorumlu tutulacaklardır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, yaptığından sorumlu değildir, onlar ise sorumlu tutulacaklardır.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 21,
+      "ayah": 59,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:59",
+      "word_position": 3,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Milleti: \"sahte sığınaklarımıza bunu kim yaptı? Doğrusu o zalimlerden biridir\" dediler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milleti: \"sahte sığınaklarımıza bunu kim yaptı? Doğrusu o zalimlerden biridir\" dediler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 62,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:62",
+      "word_position": 3,
+      "target_word_uthmani": "فَعَلْتَ",
+      "target_word_rasm": "فعلت",
+      "target_word_literal_irab": "Bunu sen mi yaptın / yaptıysan (`فَعَلْتَ / وَفَعَلْتَ`, I. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim gelince, ona: \"Ey İbrahim, bunu sahte sığınaklarımıza sen mi yaptın?\" dediler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|2MS"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim gelince, ona: \"Ey İbrahim, bunu sahte sığınaklarımıza sen mi yaptın?\" dediler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 63,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:63",
+      "word_position": 3,
+      "target_word_uthmani": "فَعَلَهُۥ",
+      "target_word_rasm": "فعله",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim: \"Belki onu şu büyükleri yapmıştır, konuşabiliyorlarsa onlara sorun\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"Belki onu şu büyükleri yapmıştır, konuşabiliyorlarsa onlara sorun\" dedi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 68,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:68",
+      "word_position": 7,
+      "target_word_uthmani": "فَٰعِلِينَ",
+      "target_word_rasm": "فعلين",
+      "target_word_literal_irab": "Eğer gerçekten yapacak kimselerseniz / yapanlar (`فَٰعِلِينَ`, ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar: \"Bir şey yapacaksanız, şunu yakın da sahte sığınaklarınıza yardım edin\" dediler.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Bir şey yapacaksanız, şunu yakın da sahte sığınaklarınıza yardım edin\" dediler.",
+      "contextual_meaning": "Bir eylemi fiilen gerçekleştirmeye yönelme (`فَٰعِلِينَ` `12:10,61`, `15:71`, `21:17,68`): Kararlılık veya niyet sınaması."
+    },
+    {
+      "surah": 21,
+      "ayah": 73,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:73",
+      "word_position": 7,
+      "target_word_uthmani": "فِعْلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Hayırları fiilen yapmayı / icra etmeyi (`فِعْلَ`, I. bab masdar mansûb muzâf)",
+      "context_snippet_arabic": "بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ",
+      "context_snippet_turkish_tabula_rasa": "Onları, buyruğumuz altında insanları doğru yola götüren önderler yaptık; onlara, iyi işler yapmayı, yöneliş ve sorumluluk bağı kılmayı, arınma ve gelişme payı vermeyi vahyettik. ...",
+      "morphology": {
+        "lemma": "fiEol",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:fiEol|ROOT:fEl|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ وَكَانُوا۟ لَنَا عَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, buyruğumuz altında insanları doğru yola götüren önderler yaptık; onlara, iyi işler yapmayı, yöneliş ve sorumluluk bağı kılmayı, arınma ve gelişme payı vermeyi vahyettik. Onlar, bize kulluk eden kimselerdi.",
+      "contextual_meaning": "Masdar hapaxı (`فِعْلَ ٱلْخَيْرَٰتِ` `21:73`): Hayırları yalnızca niyet ya da söz olarak bırakmayıp dış dünyada fiilen icra etme sorumluluğu."
+    },
+    {
+      "surah": 21,
+      "ayah": 79,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:79",
+      "word_position": 14,
+      "target_word_uthmani": "فَٰعِلِينَ",
+      "target_word_rasm": "فعلين",
+      "target_word_literal_irab": "Eğer gerçekten yapacak kimselerseniz / yapanlar (`فَٰعِلِينَ`, ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman'a bu meselenin hükmünü bildirmiştik; her birine hüküm ve ilim verdik. ...",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman'a bu meselenin hükmünü bildirmiştik; her birine hüküm ve ilim verdik. Davud ile beraber tesbih etsinler diye dağları ve kuşları buyruk altına aldık. Bunları Biz yapmıştık.",
+      "contextual_meaning": "Kozmik ve tarihsel icra beyanı (`وَكُنَّا فَٰعِلِينَ / إِنَّا كُنَّا فَٰعِلِينَ` `21:79,104`): Yaratıcı Kudret'in dağları-kuşları buyruk altına almayı ve ilk yaratılışı geri çevirmeyi bizzat gerçekleştirmesi."
+    },
+    {
+      "surah": 21,
+      "ayah": 104,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:104",
+      "word_position": 16,
+      "target_word_uthmani": "فَٰعِلِينَ",
+      "target_word_rasm": "فعلين",
+      "target_word_literal_irab": "Eğer gerçekten yapacak kimselerseniz / yapanlar (`فَٰعِلِينَ`, ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "عَلَيْنَآ إِنَّا كُنَّا فَٰعِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Göğü, kitap dürer gibi dürdüğümüz zaman, yaratmaya ilk başladığımız gibi katımızdan verilmiş bir söz olarak onu tekrar var edeceğiz. Doğrusu Biz yaparız.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍ نُّعِيدُهُۥ وَعْدًا عَلَيْنَآ إِنَّا كُنَّا فَٰعِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göğü, kitap dürer gibi dürdüğümüz zaman, yaratmaya ilk başladığımız gibi katımızdan verilmiş bir söz olarak onu tekrar var edeceğiz. Doğrusu Biz yaparız.",
+      "contextual_meaning": "Kozmik ve tarihsel icra beyanı (`وَكُنَّا فَٰعِلِينَ / إِنَّا كُنَّا فَٰعِلِينَ` `21:79,104`): Yaratıcı Kudret'in dağları-kuşları buyruk altına almayı ve ilk yaratılışı geri çevirmeyi bizzat gerçekleştirmesi."
+    },
+    {
+      "surah": 22,
+      "ayah": 14,
+      "surah_name": "Hac",
+      "ayah_ref": "22:14",
+      "word_position": 15,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ٱلْأَنْهَٰرُ إِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Allah, güvene erenleri ve yararlı işler işleyenleri, içlerinden ırmaklar akan esenlik bahçelerine koyar. Allah, şüphesiz, istediğini yapar.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ إِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Allah, güvene erenleri ve yararlı işler işleyenleri, içlerinden ırmaklar akan esenlik bahçelerine koyar. Allah, şüphesiz, istediğini yapar.",
+      "contextual_meaning": "Furûk eşleşmesi (`2:85,234`, `22:14`, `27:88`, `39:70`, `58:13`): Aynı ayette `فِعْل` (tekil somut vaka/etki) ile `عَمَل` (sürekli sorumluluk işi) veya `صُنْع` (kusursuz ustalık) ayrımının görülmesi."
+    },
+    {
+      "surah": 22,
+      "ayah": 18,
+      "surah_name": "Hac",
+      "ayah_ref": "22:18",
+      "word_position": 35,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olanların, güneş, ay, yıldızlar, dağlar, ağaçlar, hayvanların ve insanların birçoğunun Allah'a boyun eğme ve teslimiyet ettiklerini görmüyor musun? İnsanların birçoğu da azabı hak etmiştir. Allah'ın alçalttığı kimseyi yükseltebilecek yoktur. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olanların, güneş, ay, yıldızlar, dağlar, ağaçlar, hayvanların ve insanların birçoğunun Allah'a boyun eğme ve teslimiyet ettiklerini görmüyor musun? İnsanların birçoğu da azabı hak etmiştir. Allah'ın alçalttığı kimseyi yükseltebilecek yoktur. Doğrusu Allah ne dilerse yapar.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 22,
+      "ayah": 77,
+      "surah_name": "Hac",
+      "ayah_ref": "22:77",
+      "word_position": 8,
+      "target_word_uthmani": "وَٱفْعَلُوا۟",
+      "target_word_rasm": "وٱفعلوا",
+      "target_word_literal_irab": "Emrolunanı / iyiliği fiilen yapın (`فَٱفْعَلُوا۟ / وَٱفْعَلُوا۟`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! boyun büküp esneyin, boyun eğmeye varın, Rabbiniz'e kulluk edin, iyilik yapın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! boyun büküp esneyin, boyun eğmeye varın, Rabbiniz'e kulluk edin, iyilik yapın ki saadete erişesiniz.",
+      "contextual_meaning": "Buyruğu fiilen uygulama (`فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ / ٱفْعَلْ مَا تُؤْمَرُ / وَٱفْعَلُوا۟ ٱلْخَيْرَ`): Talimatı tartışıp ertelemeden doğrudan eyleme dökme."
+    },
+    {
+      "surah": 23,
+      "ayah": 4,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:4",
+      "word_position": 4,
+      "target_word_uthmani": "فَٰعِلُونَ",
+      "target_word_rasm": "فعلون",
+      "target_word_literal_irab": "Elbette yapacak / fiilen uygulayanlardır (`فَٰعِلُونَ / لَفَٰعِلُونَ`, ism-i fâil çoğul merfû)",
+      "context_snippet_arabic": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَٰعِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar arınma ve gelişme paylarını verirler.",
+      "morphology": {
+        "lemma": "faAEil",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faAEil|ROOT:fEl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَٰعِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar arınma ve gelişme paylarını verirler.",
+      "contextual_meaning": "Paylaşımı eyleme geçirme (`لِلزَّكَوٰةِ فَٰعِلُونَ` `23:4`): Arınma ve gelişme payını sözde bırakmayıp fiilen yerine getirenler."
+    },
+    {
+      "surah": 24,
+      "ayah": 41,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:41",
+      "word_position": 21,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 25,
+      "ayah": 68,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:68",
+      "word_position": 19,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın haram kıldığı cana haksız yere kıymazlar. Zina etmezler. Bunları yapan sapma ve kusura girmiş olur.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Allah'ın yanında başka sığınak mercii (ilâh) tutup ona yalvarmazlar. Allah'ın haram kıldığı cana haksız yere kıymazlar. Zina etmezler. Bunları yapan sapma ve kusura girmiş olur.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 19,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:19",
+      "word_position": 1,
+      "target_word_uthmani": "وَفَعَلْتَ",
+      "target_word_rasm": "وفعلت",
+      "target_word_literal_irab": "Bunu sen mi yaptın / yaptıysan (`فَعَلْتَ / وَفَعَلْتَ`, I. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|2MS"
+      },
+      "ayah_text_arabic_full": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun Musa'ya: \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 19,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:19",
+      "word_position": 2,
+      "target_word_uthmani": "فَعْلَتَكَ",
+      "target_word_rasm": "فعلتك",
+      "target_word_literal_irab": "Yaptığın o tekil eylemini (`فَعْلَتَكَ`, binâ-yı merre masdar mef'ûl-i mutlak)",
+      "context_snippet_arabic": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi.",
+      "morphology": {
+        "lemma": "faEolat",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:faEolat|ROOT:fEl|NOM"
+      },
+      "ayah_text_arabic_full": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun Musa'ya: \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi.",
+      "contextual_meaning": "Binâ-yı merre hapaxı (`وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ` `26:19`): Tek ayette üç kez kökü tekrarlayarak Mûsâ'nın geçmişteki tekil somut olayını vurgulaması."
+    },
+    {
+      "surah": 26,
+      "ayah": 19,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:19",
+      "word_position": 4,
+      "target_word_uthmani": "فَعَلْتَ",
+      "target_word_rasm": "فعلت",
+      "target_word_literal_irab": "Bunu sen mi yaptın / yaptıysan (`فَعَلْتَ / وَفَعَلْتَ`, I. bab mâzî 2. tekil eril)",
+      "context_snippet_arabic": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|2MS"
+      },
+      "ayah_text_arabic_full": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun Musa'ya: \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 20,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:20",
+      "word_position": 2,
+      "target_word_uthmani": "فَعَلْتُهَآ",
+      "target_word_rasm": "فعلتها",
+      "target_word_literal_irab": "Onu yaptım (`فَعَلْتُهَآ / فَعَلْتُهُۥ`, I. bab mâzî 1. tekil)",
+      "context_snippet_arabic": "قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni elçi yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür\" dedi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 74,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:74",
+      "word_position": 6,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Hayır ama, babalarımızı da bu şekilde boyun eğme ve kulluk ederken bulduk\" demişlerdi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Hayır ama, babalarımızı da bu şekilde boyun eğme ve kulluk ederken bulduk\" demişlerdi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 226,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:226",
+      "word_position": 5,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "يَقُولُونَ مَا لَا يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onların her vadide şaşkın şaşkın dolaştıklarını ve yapmadıklarını yaptık dediklerini görmez misin?",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların her vadide şaşkın şaşkın dolaştıklarını ve yapmadıklarını yaptık dediklerini görmez misin?",
+      "contextual_meaning": "Söz-eylem tutarlılığı turnusolü (`61:2-3`, `26:226`): Dille söylenen (`قَوْل`) ile dış dünyada fiilen gerçekleştirilen (`فِعْل`) arasındaki çelişkinin reddi."
+    },
+    {
+      "surah": 27,
+      "ayah": 34,
+      "surah_name": "Neml",
+      "ayah_ref": "27:34",
+      "word_position": 13,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "أَهْلِهَآ أَذِلَّةً وَكَذَٰلِكَ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Doğrusu hükümdarlar bir şehre girdikleri zaman orasını bozarlar, onurlu kimselerini aşağılık yaparlar. İşte böyle davranırlar. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "قَالَتْ إِنَّ ٱلْمُلُوكَ إِذَا دَخَلُوا۟ قَرْيَةً أَفْسَدُوهَا وَجَعَلُوٓا۟ أَعِزَّةَ أَهْلِهَآ أَذِلَّةً وَكَذَٰلِكَ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Melike: \"Doğrusu hükümdarlar bir şehre girdikleri zaman orasını bozarlar, onurlu kimselerini aşağılık yaparlar. İşte böyle davranırlar. Ben onlara bir hediye göndereyim de, elçilerin ne ile döneceklerine bakayım\" dedi.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 27,
+      "ayah": 88,
+      "surah_name": "Neml",
+      "ayah_ref": "27:88",
+      "word_position": 18,
+      "target_word_uthmani": "تَفْعَلُونَ",
+      "target_word_rasm": "تفعلون",
+      "target_word_literal_irab": "Yapmıyorsunuz / yaptıklarınız (`تَفْعَلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dağları yerinde donmuş gibi durur görürsün, oysa onlar bulutlar gibi geçerler. Bu her şeyi sağlam tutan Allah'ın işidir. Doğrusu O, yaptıklarınızdan haberdardır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dağları yerinde donmuş gibi durur görürsün, oysa onlar bulutlar gibi geçerler. Bu her şeyi sağlam tutan Allah'ın işidir. Doğrusu O, yaptıklarınızdan haberdardır.",
+      "contextual_meaning": "Furûk eşleşmesi (`2:85,234`, `22:14`, `27:88`, `39:70`, `58:13`): Aynı ayette `فِعْل` (tekil somut vaka/etki) ile `عَمَل` (sürekli sorumluluk işi) veya `صُنْع` (kusursuz ustalık) ayrımının görülmesi."
+    },
+    {
+      "surah": 30,
+      "ayah": 40,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:40",
+      "word_position": 14,
+      "target_word_uthmani": "يَفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Yapar / dilediğini gerçekleştirir (`يَفْعَلُ / وَيَفْعَلُ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن",
+      "context_snippet_turkish_tabula_rasa": "... O'na koştuğunuz ortaklarınızdan böyle bir şey yapan var mıdır? Allah onların ortak koştukları şeylerden münezzehtir, yücedir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ هَلْ مِن شُرَكَآئِكُم مَّن يَفْعَلُ مِن ذَٰلِكُم مِّن شَىْءٍ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi yaratan, sonra rızıklandıran, sonra öldüren, daha sonra da dirilten Allah'tır. O'na koştuğunuz ortaklarınızdan böyle bir şey yapan var mıdır? Allah onların ortak koştukları şeylerden münezzehtir, yücedir.",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 33,
+      "ayah": 6,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:6",
+      "word_position": 21,
+      "target_word_uthmani": "تَفْعَلُوٓا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Asla yapamayacaksınız / yapmanız (`تَفْعَلُوا۟ / تَفْعَلُوهُ / تَفْعَلُوٓا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَٱلْمُهَٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا",
+      "context_snippet_turkish_tabula_rasa": "... akraba olanlar, miras hususunda, Allah'ın Kitap'ında birbirlerine güvene erenler ve muhacirlerden daha yakındırlar. Dostlarınıza yapacağınız uygun bir vasiyet bunun dışındadır. Bu Kitap'ta yazılı bulunmaktadır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا كَانَ ذَٰلِكَ فِى ٱلْكِتَٰبِ مَسْطُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerin, elçiyi kendi kendi benliklerinden çok sevmeleri gerekir; onun eşleri onların anneleridir; akraba olanlar, miras hususunda, Allah'ın Kitap'ında birbirlerine güvene erenler ve muhacirlerden daha yakındırlar. Dostlarınıza yapacağınız uygun bir vasiyet bunun dışındadır. Bu Kitap'ta yazılı bulunmaktadır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 37,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:37",
+      "word_position": 48,
+      "target_word_uthmani": "مَفْعُولًا",
+      "target_word_rasm": "مفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. ...",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın nimet verdiği ve senin de nimetlendirdiğin kimseye: \"Eşini bırakma, Allah'tan sakın\" diyor, Allah'ın açığa vuracağı şeyi içinde saklıyordun. İnsanlardan çekiniyordun; oysa Allah'tan çekinmen daha uygundu. Sonunda Zeyd eşiyle ilgisini kestiğinde onu seninle evlendirdik, ki evlatlıkları eşleriyle ilgilerini kestiklerinde onlarla evlenmek konusunda güvene erenlere bir sorumluluk olmadığı bilinsin. Allah'ın buyruğu yerine gelecektir.",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 54,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:54",
+      "word_position": 7,
+      "target_word_uthmani": "فُعِلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Benzerlerine yapıldığı gibi (`فُعِلَ`, I. bab meçhul mâzî 3. tekil eril)",
+      "context_snippet_arabic": "مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ",
+      "context_snippet_turkish_tabula_rasa": "Kendileriyle, arzuladıkları şeyler arasına artık engel konur; nitekim, daha önce, kendilerine benzeyenlere de aynı şey yapılmıştı. Çünkü onlar şüphe ve endişe içindeydiler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ إِنَّهُمْ كَانُوا۟ فِى شَكٍّ مُّرِيبٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendileriyle, arzuladıkları şeyler arasına artık engel konur; nitekim, daha önce, kendilerine benzeyenlere de aynı şey yapılmıştı. Çünkü onlar şüphe ve endişe içindeydiler.",
+      "contextual_meaning": "Edilgen eylem ve sonuç (`34:54`, `46:9`, `75:25`): Geçmiş benzerlerine yapılan müdahale (`فُعِلَ`), gelecekte başa gelecek belirsiz durum (`مَا يُفْعَلُ بِى`) veya belkemiğini kıran yıkım olgusu (`يُفْعَلَ`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 34,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:34",
+      "word_position": 3,
+      "target_word_uthmani": "نَفْعَلُ",
+      "target_word_rasm": "نفعل",
+      "target_word_literal_irab": "İşte böyle yaparız (`نَفْعَلُ`, I. bab muzâri 1. çoğul)",
+      "context_snippet_arabic": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu suçlulara böyle yaparız.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu suçlulara böyle yaparız.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 37,
+      "ayah": 102,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:102",
+      "word_position": 18,
+      "target_word_uthmani": "ٱفْعَلْ",
+      "target_word_rasm": "ٱفعل",
+      "target_word_literal_irab": "Emrolunduğunu fiilen yap (`ٱفْعَلْ`, I. bab emir 2. tekil eril)",
+      "context_snippet_arabic": "تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:faEala|ROOT:fEl|2MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuk kendisinin yanısıra yürümeye başlayınca: \"Ey oğulcuğum! Doğrusu ben uykuda iken seni boğazladığımı görüyorum, bir düşün, ne dersin?\" dedi. \"Ey babacığım! Ne ile emrolundunsa yap, Allah dilerse, sebat edip direnenlerden olduğumu göreceksin\" dedi.",
+      "contextual_meaning": "Buyruğu fiilen uygulama (`فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ / ٱفْعَلْ مَا تُؤْمَرُ / وَٱفْعَلُوا۟ ٱلْخَيْرَ`): Talimatı tartışıp ertelemeden doğrudan eyleme dökme."
+    },
+    {
+      "surah": 39,
+      "ayah": 70,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:70",
+      "word_position": 9,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Her kişiye işlediği ödenir. Esasen Allah onların yaptıklarını en iyi bilendir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا عَمِلَتْ وَهُوَ أَعْلَمُ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her kişiye işlediği ödenir. Esasen Allah onların yaptıklarını en iyi bilendir.",
+      "contextual_meaning": "Furûk eşleşmesi (`2:85,234`, `22:14`, `27:88`, `39:70`, `58:13`): Aynı ayette `فِعْل` (tekil somut vaka/etki) ile `عَمَل` (sürekli sorumluluk işi) veya `صُنْع` (kusursuz ustalık) ayrımının görülmesi."
+    },
+    {
+      "surah": 42,
+      "ayah": 25,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:25",
+      "word_position": 12,
+      "target_word_uthmani": "تَفْعَلُونَ",
+      "target_word_rasm": "تفعلون",
+      "target_word_literal_irab": "Yapmıyorsunuz / yaptıklarınız (`تَفْعَلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, güvene erip yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, gerçeğin üzerini örtenler için çetin azap vardır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, güvene erip yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, gerçeğin üzerini örtenler için çetin azap vardır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 46,
+      "ayah": 9,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:9",
+      "word_position": 10,
+      "target_word_uthmani": "يُفْعَلُ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Bana ve size ne yapılacağını (`يُفْعَلُ`, I. bab meçhul muzâri 3. tekil eril)",
+      "context_snippet_arabic": "وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben elçilerin ilki değilim; benim ve sizin başınıza gelecekleri bilmem; ben ancak bana vahyolunana uymaktayım; ben sadece apaçık bir uyarıcıyım.\"",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben elçilerin ilki değilim; benim ve sizin başınıza gelecekleri bilmem; ben ancak bana vahyolunana uymaktayım; ben sadece apaçık bir uyarıcıyım.\"",
+      "contextual_meaning": "Edilgen eylem ve sonuç (`34:54`, `46:9`, `75:25`): Geçmiş benzerlerine yapılan müdahale (`فُعِلَ`), gelecekte başa gelecek belirsiz durum (`مَا يُفْعَلُ بِى`) veya belkemiğini kıran yıkım olgusu (`يُفْعَلَ`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 6,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:6",
+      "word_position": 16,
+      "target_word_uthmani": "فَعَلْتُمْ",
+      "target_word_rasm": "فعلتم",
+      "target_word_literal_irab": "Ne yaptığınızı (`فَعَلْتُمْ / فَعَلْتُم`, I. bab mâzî 2. çoğul)",
+      "context_snippet_arabic": "فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Eğer yoldan çıkmışın biri size bir haber getirirse, onun iç yüzünü araştırın, yoksa bilmeden bir millete fenalık edersiniz de sonra ettiğinize pişman olursunuz.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Eğer yoldan çıkmışın biri size bir haber getirirse, onun iç yüzünü araştırın, yoksa bilmeden bir millete fenalık edersiniz de sonra ettiğinize pişman olursunuz.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 54,
+      "ayah": 52,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:52",
+      "word_position": 3,
+      "target_word_uthmani": "فَعَلُوهُ",
+      "target_word_rasm": "فعلوه",
+      "target_word_literal_irab": "Onlar bunu yaptılar / onu yaptılar (`فَعَلُوا۟ / فَعَلُوهُ`, I. bab mâzî 3. çoğul)",
+      "context_snippet_arabic": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+      "context_snippet_turkish_tabula_rasa": "İnsanların yaptıkları her şey kitablarda kayıtlıdır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların yaptıkları her şey kitablarda kayıtlıdır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 58,
+      "ayah": 13,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:13",
+      "word_position": 10,
+      "target_word_uthmani": "تَفْعَلُوا۟",
+      "target_word_rasm": "تفعلوا",
+      "target_word_literal_irab": "Yapmazsanız / yapacağınız her iyilik (`تَفْعَلُوا۟`, I. bab meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "صَدَقَٰتٍ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. ...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَٰتٍ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "Furûk eşleşmesi (`2:85,234`, `22:14`, `27:88`, `39:70`, `58:13`): Aynı ayette `فِعْل` (tekil somut vaka/etki) ile `عَمَل` (sürekli sorumluluk işi) veya `صُنْع` (kusursuz ustalık) ayrımının görülmesi."
+    },
+    {
+      "surah": 60,
+      "ayah": 1,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:1",
+      "word_position": 43,
+      "target_word_uthmani": "يَفْعَلْهُ",
+      "target_word_rasm": "يفعله",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "وَمَآ أَعْلَنتُمْ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Benim de düşmanım, sizin de düşmanınız olanları dost edinmeyin. Onlar, size gelen gerçeği gerçeğin üzerini örtmüş, onlara sevgi gösteriyorsun...",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Benim de düşmanım, sizin de düşmanınız olanları dost edinmeyin. Onlar, size gelen gerçeği gerçeğin üzerini örtmüş, onlara sevgi gösteriyorsunuz; oysa onlar, Rabbiniz olan Allah'a güven duy ötürü sizi ve elçiyi yurdunuzdan çıkarıyorlar. Eğer sizler Benim yolumda savaşmak ve rızamı kazanmak için çıkmışsanız onlara nasıl sevgi gösterirsiniz? Ben, sizin gizlediğinizi de, açığa vurduğunuzu da bilirim. İçinizden onlara sevgi gösteren kimse, şüphesiz doğru yoldan sapmıştır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 61,
+      "ayah": 2,
+      "surah_name": "Saff",
+      "ayah_ref": "61:2",
+      "word_position": 8,
+      "target_word_uthmani": "تَفْعَلُونَ",
+      "target_word_rasm": "تفعلون",
+      "target_word_literal_irab": "Yapmıyorsunuz / yaptıklarınız (`تَفْعَلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yapmayacağınız şeyi niçin söylersiniz?",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yapmayacağınız şeyi niçin söylersiniz?",
+      "contextual_meaning": "Söz-eylem tutarlılığı turnusolü (`61:2-3`, `26:226`): Dille söylenen (`قَوْل`) ile dış dünyada fiilen gerçekleştirilen (`فِعْل`) arasındaki çelişkinin reddi."
+    },
+    {
+      "surah": 61,
+      "ayah": 3,
+      "surah_name": "Saff",
+      "ayah_ref": "61:3",
+      "word_position": 9,
+      "target_word_uthmani": "تَفْعَلُونَ",
+      "target_word_rasm": "تفعلون",
+      "target_word_literal_irab": "Yapmıyorsunuz / yaptıklarınız (`تَفْعَلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yapmayacağınız şeyi söylemeniz, Allah katında büyük gazaba sebep olur.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yapmayacağınız şeyi söylemeniz, Allah katında büyük gazaba sebep olur.",
+      "contextual_meaning": "Söz-eylem tutarlılığı turnusolü (`61:2-3`, `26:226`): Dille söylenen (`قَوْل`) ile dış dünyada fiilen gerçekleştirilen (`فِعْل`) arasındaki çelişkinin reddi."
+    },
+    {
+      "surah": 63,
+      "ayah": 9,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:9",
+      "word_position": 13,
+      "target_word_uthmani": "يَفْعَلْ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kim bunu yaparsa / yapmazsa (`يَفْعَلْ / يَفْعَلْهُ`, I. bab meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "ذِكْرِ ٱللَّهِ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sizi, mallarınız ve çocuklarınız Allah'ı anmaktan alıkoymasın; böyle olanlar hüsrana uğrayanlardır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sizi, mallarınız ve çocuklarınız Allah'ı anmaktan alıkoymasın; böyle olanlar hüsrana uğrayanlardır.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 66,
+      "ayah": 6,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:6",
+      "word_position": 20,
+      "target_word_uthmani": "وَيَفْعَلُونَ",
+      "target_word_rasm": "ويفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "context_snippet_turkish_tabula_rasa": "... görevlileri, Allah'ın kendilerine verdiği emirlere baş kaldırmayan, kendilerine buyrulanları yerine getiren pek haşin kozmik görevlilerdir.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Kendinizi ve çoluk çocuğunuzu yakıcı yıkım yurdu ateşinden koruyun; onun yakıtı, insanlar ve taşlardır; görevlileri, Allah'ın kendilerine verdiği emirlere baş kaldırmayan, kendilerine buyrulanları yerine getiren pek haşin kozmik görevlilerdir.",
+      "contextual_meaning": "Buyruğu fiilen uygulama (`فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ / ٱفْعَلْ مَا تُؤْمَرُ / وَٱفْعَلُوا۟ ٱلْخَيْرَ`): Talimatı tartışıp ertelemeden doğrudan eyleme dökme."
+    },
+    {
+      "surah": 73,
+      "ayah": 18,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:18",
+      "word_position": 6,
+      "target_word_uthmani": "مَفْعُولًا",
+      "target_word_rasm": "مفعولا",
+      "target_word_literal_irab": "Kesinlikle yapılmış / gerçekleşip olguya dönüşmüş olan (`مَفْعُولًا / لَمَفْعُولًا`, ism-i mef'ûl nekre mansûb)",
+      "context_snippet_arabic": "بِهِۦ كَانَ وَعْدُهُۥ مَفْعُولًا",
+      "context_snippet_turkish_tabula_rasa": "O günün şiddetiyle gök bile parçalanır. O'nun sözü yerine gelir.",
+      "morphology": {
+        "lemma": "mafoEuwl",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:mafoEuwl|ROOT:fEl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ كَانَ وَعْدُهُۥ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "O günün şiddetiyle gök bile parçalanır. O'nun sözü yerine gelir.",
+      "contextual_meaning": "Kesin gerçekleşme sıfatı (`مَفْعُولًا` `4:47`, `8:42,44`, `17:5,108`, `33:37`, `73:18`): Verilmiş kararın veya sözün mutlaka fiilî gerçekliğe dönüşmesi."
+    },
+    {
+      "surah": 75,
+      "ayah": 25,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:25",
+      "word_position": 3,
+      "target_word_uthmani": "يُفْعَلَ",
+      "target_word_rasm": "يفعل",
+      "target_word_literal_irab": "Kendisine ... yapılacağını (`يُفْعَلَ`, I. bab meçhul mansûb muzâri 3. tekil eril)",
+      "context_snippet_arabic": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Kendisinin belkemiğinin kırılacağını sanır.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|PASS|LEM:faEala|ROOT:fEl|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisinin belkemiğinin kırılacağını sanır.",
+      "contextual_meaning": "Edilgen eylem ve sonuç (`34:54`, `46:9`, `75:25`): Geçmiş benzerlerine yapılan müdahale (`فُعِلَ`), gelecekte başa gelecek belirsiz durum (`مَا يُفْعَلُ بِى`) veya belkemiğini kıran yıkım olgusu (`يُفْعَلَ`)."
+    },
+    {
+      "surah": 77,
+      "ayah": 18,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:18",
+      "word_position": 2,
+      "target_word_uthmani": "نَفْعَلُ",
+      "target_word_rasm": "نفعل",
+      "target_word_literal_irab": "İşte böyle yaparız (`نَفْعَلُ`, I. bab muzâri 1. çoğul)",
+      "context_snippet_arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Suçlulara böyle yaparız.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|1P"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Suçlulara böyle yaparız.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 82,
+      "ayah": 12,
+      "surah_name": "İnfitâr",
+      "ayah_ref": "82:12",
+      "word_position": 3,
+      "target_word_uthmani": "تَفْعَلُونَ",
+      "target_word_rasm": "تفعلون",
+      "target_word_literal_irab": "Yapmıyorsunuz / yaptıklarınız (`تَفْعَلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|2MP"
+      },
+      "ayah_text_arabic_full": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 83,
+      "ayah": 36,
+      "surah_name": "Mutaffifîn",
+      "ayah_ref": "83:36",
+      "word_position": 6,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Tahtlar üzerinde, gerçeğin üzerini örtenlerin yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler.",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tahtlar üzerinde, gerçeğin üzerini örtenlerin yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler.",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 85,
+      "ayah": 7,
+      "surah_name": "Bürûc",
+      "ayah_ref": "85:7",
+      "word_position": 4,
+      "target_word_uthmani": "يَفْعَلُونَ",
+      "target_word_rasm": "يفعلون",
+      "target_word_literal_irab": "Yaparlar / yaptıkları (`يَفْعَلُونَ / وَيَفْعَلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "context_snippet_turkish_tabula_rasa": "Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, güvene ermiş kimselere yaşam sistemlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:faEala|ROOT:fEl|3MP"
+      },
+      "ayah_text_arabic_full": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, güvene ermiş kimselere yaşam sistemlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!",
+      "contextual_meaning": "İnsanın bireysel, hukukî, ahlakî veya toplumsal alanda yaptığı somut eylem ve davranış (`فَعَلَ - يَفْعَلُ`), sonuçta her yaptığının tam kayda alınıp bilinmesi."
+    },
+    {
+      "surah": 85,
+      "ayah": 16,
+      "surah_name": "Bürûc",
+      "ayah_ref": "85:16",
+      "word_position": 1,
+      "target_word_uthmani": "فَعَّالٌ",
+      "target_word_rasm": "فعال",
+      "target_word_literal_irab": "Dilediğini kesintisiz ve mutlaka yapandır (`فَعَّالٌ`, mübalağa sıfat/isim nekre merfû)",
+      "context_snippet_arabic": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "Her dilediğini mutlaka yapandır.",
+      "morphology": {
+        "lemma": "faE~aAl",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:faE~aAl|ROOT:fEl|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "Her dilediğini mutlaka yapandır.",
+      "contextual_meaning": "Mutlak İrade'nin eylem sıfatı (`فَعَّالٌ لِّمَا يُرِيدُ` `11:107`, `85:16`): İstediği şeyi arada hiçbir engel olmadan kesintisiz olguya dönüştüren."
+    },
+    {
+      "surah": 89,
+      "ayah": 6,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:6",
+      "word_position": 4,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    },
+    {
+      "surah": 105,
+      "ayah": 1,
+      "surah_name": "Fîl",
+      "ayah_ref": "105:1",
+      "word_position": 4,
+      "target_word_uthmani": "فَعَلَ",
+      "target_word_rasm": "فعل",
+      "target_word_literal_irab": "Yaptı / nasıl müdahale etti (`فَعَلَ / فَعَلَهُۥ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+      "morphology": {
+        "lemma": "faEala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:faEala|ROOT:fEl|3MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+      "contextual_meaning": "Yaratıcı Kudret'in fiilî tasarrufu (`يَفْعَلُ مَا يَشَآءُ / يُرِيدُ`, `لَا يُسْـَٔلُ عَمَّا يَفْعَلُ`, `كَيْفَ فَعَلَ رَبُّكَ`): İradesini engelsiz gerçekleştirme ve tarihsel müdahaleler."
+    }
+  ]
+}

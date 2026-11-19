@@ -1,0 +1,1864 @@
+{
+  "root": "م-و-ل",
+  "root_latin": "M-W-L (mwl)",
+  "concept_name": "Mâl / Emvâl (Emanet Edilmiş Taşınabilir Varlık, Toplumsal Hak Ölçüsü ve Geçici Dünya Sınavı)",
+  "rank": 130,
+  "total_occurrences": 86,
+  "unique_ayahs_count": 80,
+  "unified_core_mechanism": "`م-و-ل` kökünün Kur'an'daki `86` isminin tamamı ('taşınabilir maddî mülkiyet ve servet') çift yüzlü bir sınav dinamiği kurar: Allah tarafından emanet edilip canla paralel konulan mal (`24:33`, `49:15`), yetim hakkı gözetildiğinde (`4:2,6`), ribâdan ve bâtıl sömürüden arındırıldığında (`2:188,279`, `4:29`) ve yoksul payı (`51:19`, `70:24`, `92:18`) aktarıldığında kişiyi arındıran bir araca dönüşür. Buna karşılık övünme (`18:34`, `34:35`, `57:20`), zikir ve sorumluluktan alıkonulma (`48:11`, `63:9`) ve yığılarak ölümsüzlük aracı sanılma (`104:2-3`) noktasına çekildiğinde, hesap gününde sahibine zerre kadar dokunulmazlık sağlayamayan (`26:88`, `69:28`, `92:11`, `111:2`) boş bir kabuğa dönüşür.",
+  "physical_core": "İnsanın elinde biriktirdiği, sayıca çoğaltabildiği ve elden ele devredilebilen taşınabilir maddî varlık, sermaye ve mülkiyet birikimi (`مَا يُتَمَوَّلُ وَيُتَمَلَّكُ مِنَ ٱلْأَعْيَانِ`). Erken Arap pastoral yaşamında sürüleri, develeri ve hareketli geçim kaynaklarını anlatan kelime, Kur'an'da insanın canıyla ve soyuyla beraber en büyük dünyevî sınav aracını, geçici emaneti ve toplumsal adalet ölçüsünü ifade eder.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `mim-vav-lam (مول)` kökünü tek sahih eksende toplar: 'mülk ve varlık edinmek, onu çoğaltmak (`اتخاذ المال وكثرته`)'. Önemli metodolojik ayrım olarak İbn Fâris, 'eğilmek/sapmak (`الانحراف والعدول`)' anlamındaki `م-ي-ل` kökünü tamamen ayrı bir madde olarak işler; dolayısıyla `م-و-ل`'ü doğrudan `م-ي-ل`'den türetmez.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) `المال`'ı 'insanın mülk edindiği her türlü somut değer (`ما يُمتلَك من الأعيان`)' olarak tanımlar ve çöl Araplarında kökün öncelikle deve ve sürüler (`الإبل والنَّعَم`), ardından ticaret eşyası ve para birikimi için kullanıldığını vurgular. Ayrıca mülkiyetin hakikî sahibinin Allah olduğunu, insandaki birikimin geçici bir emanet ve imtihan aracı sayıldığını belirtir (`24:33` `مِن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ`).",
+    "lisan_al_arab": "Klasik sözlük (*Lisânü'l-Arab*) kelime için `مَالٌ يَمُولُ` ve `تَمَوَّلَ` çekimlerini kaydederek başlangıçta hayvancılık temelli taşınabilir servet anlamını koruduğunu aktarır. Sonraki edebî yorumlarda insan tabiatının ona meyilli oluşuna atıf yapılsa da bu retorik bir benzetmedir; kökün aslî yapısı `m-w-l` olarak sabitlenir.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `86` geçişin tamamı fiilsiz olarak tek `maAl` (`مَال` / `أَمْوَٰل`) isminde toplanır ve iki kutuplu işlev görür: (1) İnsan mülkiyetine girdiğinde emanet, dayanışma ve hakikî borç ödeme (`51:19`, `70:24`, `2:177,261`, `24:33`); (2) Amaçlaştırılıp putlaştırıldığında ise kişiyi oyalayan (`63:9`), azgınlaştıran (`104:2-3`) ve hesap gününde tamamen işlevsiz kalan (`26:88`, `69:28`, `111:2`) geçici araç."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "Klasik Süryanice ve Eski Aramcada yerli ortak sözcük olarak bulunmaz (`kespā / neksē` kullanılır); CAL sözlüğünde geç dönem Yahudi/İmparatorluk sonrası Aramca metinlerinde geçen `māl` biçimi Arapçadan geçmiş bir ödünçleme olarak değerlendirilir.",
+    "hebrew_and_east_semitic": "Kitâb-ı Mukaddes İbranicesi (`hôn / kesef / nekhasim`, BDB) ve Doğu Samicesi olan Akadçada (`makkūru / būšu`, CAD) `m-w-l` kökü yer almaz. Ge'ez dilinde (Wolf Leslau CDG) de yerli `māl` sözcüğü kaydedilmez.",
+    "arabian_innovation": "Eski Güney Arapça (Saba/Epigrafik Güney Arapça) yazıtlarında görülen `m-w-l` ('varlık, mülk') ile Arapça `مَال`, Orta/Güney Samiceye özgü pastoral kökenli bir yeniliktir.",
+    "phonological_note": "Karşılaştırmalı Semitik dürüstlük ilkesi gereği `م-و-ل` Ana-Samice (*Proto-Semitic*) dönemden miras bir ortak kök sayılmaz; aksine Arap yarımadası merkezli pastoral ekonominin 'sürü/taşınabilir varlık' üzerinden ürettiği bölgesel bir mülkiyet terimidir. Ayrıca `18:49`, `25:7` ve `70:36`da geçen `مَالِ هَٰذَا` şekli kök olarak `م-و-ل` değil, soru edatı `مَا` + harf-i cerr `لِـ` bileşimidir (yalancı eşyazımlı homograf)."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ز-ك-و / أ-ت-ي / ن-ف-ق (`يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ` `92:18` & `2:261` vs `جَمَعَ مَالًا وَعَدَّدَهُۥ` `104:2-3` — Malı Arındırıcı Paylaşıma Akıtmak vs Sayıp Yığarak Ölümsüzlük Sanmak)",
+      "ٱلْبَٰطِل (`لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ` `2:188`, `4:29,161`, `9:34` vs `تِجَٰرَةً عَن تَرَاضٍ` `4:29` — Haksız Yeme ve Ribâ vs Karşılıklı Rızaya Dayalı Meşru Ticaret)",
+      "ٱلْأَعْمَالُ ٱلصَّٰلِحَة (`مَآ أَغْنَىٰ عَنِّى مَالِيَهْ` `69:28`, `18:46`, `26:88` vs `وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ` `18:46`, `34:37` — Dünya Süsü Olarak Fâni Mal vs Kalıcı Erdemli Eylem)"
+    ],
+    "key_ayahs": [
+      "2:155",
+      "2:177",
+      "2:188",
+      "2:247",
+      "2:261",
+      "2:264",
+      "2:279",
+      "3:10",
+      "3:186",
+      "4:2",
+      "4:5",
+      "4:6",
+      "4:10",
+      "4:24",
+      "4:29",
+      "4:34",
+      "4:38",
+      "4:95",
+      "4:161",
+      "6:152",
+      "8:28",
+      "8:36",
+      "9:20",
+      "9:24",
+      "9:34",
+      "9:55",
+      "9:103",
+      "9:111",
+      "10:88",
+      "11:29",
+      "11:87",
+      "17:6",
+      "17:34",
+      "17:64",
+      "18:34",
+      "18:46",
+      "19:77",
+      "23:55",
+      "24:33",
+      "26:88",
+      "27:36",
+      "30:39",
+      "33:27",
+      "34:35",
+      "34:37",
+      "47:36",
+      "48:11",
+      "49:15",
+      "51:19",
+      "57:20",
+      "58:17",
+      "59:8",
+      "61:11",
+      "63:9",
+      "64:15",
+      "68:14",
+      "69:28",
+      "70:24",
+      "71:12",
+      "71:21",
+      "74:12",
+      "89:20",
+      "90:6",
+      "92:11",
+      "92:18",
+      "104:2",
+      "104:3",
+      "111:2"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`م-و-ل` mülk edinilen ve sınama aracı olan taşınabilir varlık ise, Kur'an onu neyin zıddına ve hangi ölçüye yerleştirir?' Cevap: (1) Tek başına tutulduğunda veya bâtıl yollarla tüketildiğinde (`2:188`, `4:10,29`, `104:2-3`) insanı oyalayan bir körlüğe dönüşürken, zıddı malı rıza ticaretiyle (`4:29`), yetim emanetini koruyarak (`4:2,6`, `6:152`, `17:34`) ve yoksul hakkı bilinciyle (`51:19`, `70:24`, `92:18`) dağıtmaktır. (2) Kalıcılık iddiasının zıddı ise bizzat kıyamette ortaya çıkar: dünyada övünme vesilesi sanılan mal (`18:34`, `34:35`, `104:3`), ahirette 'malım bana yetmedi (`69:28 مَالِيَهْ`)' çığlığıyla tamamen sıfırlanır (`26:88`, `92:11`, `111:2`)."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`مِن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ` (`24:33`: Aslî mülk sahibi Allah'tır; insandaki birikim verilen emanettir)",
+      "`أَمْوَٰل` (`Varlık/sermaye` — `51` kez canla birlikte `بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ`) vs `أَنْفُس` (`Can/özbenlik` `2:155`, `3:186`, `4:95`, `9:20,111`, `49:15`, `61:11`)",
+      "`أَمْوَٰل` (`Maddî birikim`) vs `أَوْلَٰد / بَنِين` (`Soy ve evlat gücü` — `21` ayette dünyada imtihan/ziynet, hesap gününde ise kurtarıcı olamayan iki eksen `18:46`, `26:88`, `57:20`, `64:15`)",
+      "`بِٱلْبَٰطِلِ` (`Bâtıl ve sömürüyle tüketme` `2:188`, `4:29,161`, `9:34`) vs `عَن تَرَاضٍ` (`Karşılıklı rıza ticareti` `4:29`) & `رُءُوسُ أَمْوَٰلِكُمْ` (`Faizsiz ana sermaye` `2:279`)",
+      "`جَمَعَ مَالًا وَعَدَّدَهُۥ` (`Sayarak yığma ve ölümsüzlük vehmi` `104:2-3`) vs `يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ` (`Arınmak amacıyla verme` `92:18`, `51:19`, `70:24`)"
+    ],
+    "mechanical_difference": "1) `2:279`daki `رُءُوسُ أَمْوَٰلِكُمْ` ('ana sermayeleriniz') kalıbı üretim ve borç hukukunu temellendirir: kişi öz sermayesine sahip çıkabilir, ancak `30:39`daki gibi başkasının varlığı sırtından faizle yapay şişirme Yaratıcı katında büyümez. 2) `4:2`, `4:5`, `4:6` ve `4:10` pasajları aynı sure içinde `أَمْوَٰل` sözcüğünü dört farklı koruma katmanıyla çerçeveler: temiz malı kötüsüyle değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğundan önce teslim etmeme (`4:5-6`), olgunluk sınavıyla teslim etme (`4:6`) ve haksız yiyenlerin kendi karnına ateş yuttuğunu bilme (`4:10`). 3) `51:19` ve `70:24`teki `حَقٌّ` ('onların mallarında muhtaç ve yoksul için yerleşik bir hak vardır') ifadesi paylaşımı bir lütuf değil doğrudan mülkiyetin içindeki borç olarak kodlar."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "2:155,177,261 & 3:186 & 24:33",
+      "role": "Emanet Mülkiyet, Sevilen Maldan Verme ve Sınanma Çapası (`مِن مَّالِ ٱللَّهِ`)",
+      "literal_meaning": "'Sizi korku, açlık, mallardan, canlardan ve ürünlerden eksiltmeyle sınarız (`2:155`, `3:186`)', 'erdemli duruş malı sevmesine rağmen onu akrabaya, yetimlere ve yoksullara vermektir (`2:177`)', 'Allah yolunda harcayanların örneği yedi başak veren tanedir (`2:261`)' ve 'Allah'ın size verdiği kendi malından onlara verin (`24:33`).'"
+    },
+    {
+      "ref": "2:188,279 & 4:2,5,6,10,29,161 & 30:39",
+      "role": "Yetim Koruması, Rıza Ticareti ve Bâtıl/Ribâ Yasağı Çapası (`رُءُوسُ أَمْوَٰلِكُمْ` / `بِٱلْبَٰطِلِ`)",
+      "literal_meaning": "'Mallarınızı aranızda bâtıl yollarla yemeyin (`2:188`, `4:29`)', 'ribâyı bırakırsanız ana sermayeniz sizindir (`2:279`, `30:39`)', 'yetimlerin mallarını verin; iyiyi kötüyle değiştirmeyin; rüşde erdiklerini gördüğünüzde kendilerine teslim edin (`4:2,6`)', 'onların mallarını zulümle yiyenler karınlarına ancak ateş yer (`4:10`).'"
+    },
+    {
+      "ref": "18:34,46 & 34:35,37 & 57:20 & 64:15 & 104:2-3",
+      "role": "Dünya Zîneti ve Çoğalma Yanılsaması Çapası (`زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا`)",
+      "literal_meaning": "'Mal ve oğullar dünya hayatının geçici süsüdür; kalıcı olanlar ise yararlı işlerdir (`18:46`)', 'malca senden çoğum diyerek övünür (`18:34`, `34:35`)', 'sizi katımıza yaklaştıracak olan mallarınız ve çocuklarınız değildir (`34:37`)', 'mallarınız ve çocuklarınız ancak bir sınavdır (`64:15`)' ve 'mal yığıp sayarak malının kendisini ölümsüz kılacağını sanır (`104:2-3`).'"
+    },
+    {
+      "ref": "51:19 & 70:24 & 92:18 & 49:15 & 9:103,111",
+      "role": "Mülkiyetteki Ortak Hak, Arındırma ve Can-Mal Fedakârlığı Çapası (`حَقٌّ` / `يَتَزَكَّىٰ`)",
+      "literal_meaning": "'Onların mallarında isteyen ve yoksun olan için belirli bir hak vardır (`51:19`, `70:24`)', 'arınmak için malını veren (`92:18`)', 'mallarından kendilerini temizleyip arındıracağın paylaşım al (`9:103`)', 'mallarıyla ve canlarıyla Allah yolunda mücadele edenler (`49:15`, `9:20,111`).'"
+    },
+    {
+      "ref": "26:88 & 69:28 & 92:11 & 111:2",
+      "role": "Hesap Gününde Malın Tam İşlevsizliği Çapası (`مَآ أَغْنَىٰ عَنِّى مَالِيَهْ`)",
+      "literal_meaning": "'O gün ne mal fayda verir ne de oğullar (`26:88`)', 'malım bana hiçbir fayda sağlamadı (`69:28`)', 'ateşe yuvarlandığı zaman malı onu kurtarmaz (`92:11`)' ve 'malı da kazandığı da kendisine yarar sağlamadı (`111:2`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'daki tüm `86` geçiş istisnasız isim (`N`) ve tek lemma (`maAl`) altındadır; kökün fiil çekimi (`تَمَوَّلَ / مَالَ`) Kur'an metninde yer almaz. 2) Çok çarpıcı %100 tutarlı Rasm-ı Osmânî yazım kanunu (`18` ayrı kelime formu): Tüm `25` tekil biçimde orta med elifi **mutlaka yazılır** (`مال`, `مالا`, `ماله`, `ماليه`, `بمال`, `ٱلمال`), buna karşılık tüm `61` kırık çoğul biçimde (`أَفْعَال` -> `أَمْوَٰل`) `و` harfinden sonraki med elifi **istisnasız hazfedilir** (`أمول`, `أمولا`, `أمولكم`, `أمولنا`, `أمولهم`, `بأمول`, `بأمولكم`, `بأمولهم`, `وأمول`, `وأمولا`, `وأمولهم`, `ٱلأمول`)! 3) `69:28` (`مَآ أَغْنَىٰ عَنِّى مَالِيَهْ`) kelimesinin sonundaki `ـهْ` vakıf ve mushaf imlasında korunan *hâ-i sekt*'tir (`هاء السكت`); Hafs 'an Âsım rivayetinde `69:29` (`هَلَكَ`) kelimesine geçilirken tercih edilen ana vecih nefes almadan hafifçe duraklamaktır (*sekt* ~`2` hareke), ikincil Şâtıbiyye rivayetinde ise iki `ه` arasında idğâm (`مَالِيَهْهَلَكَ`) okunur. 4) Sözde eşyazımlı homograf uyarısı: `18:49`, `25:7` ve `70:36`da görülen `مَالِ` (`مَا لِهَٰذَا / مَالِ ٱلَّذِينَ`), `م-و-ل` kökünden değil, soru edatı `مَا` + cer harfi `لِـ`'nin bitişik yazımıdır. 5) `5` ayette çift veya üçlü tekrarlıdır (`2:188` x2, `4:2` x3, `4:6` x2, `4:95` x2, `10:88` x2).",
+  "derivatives": {
+    "مَال (`25 N` — med elifli tekil `مَال` / `مَالًا` / `مَالٍ` / `ٱلْمَالَ` / `مَالُهُۥ` / `مَالِيَهْ`)": "Bireysel birikim ve servet (`2:247`, `11:29`, `18:34,46`, `26:88`, `27:36`, `68:14`, `74:12`, `89:20`, `90:6`, `92:11,18`, `104:2,3`, `111:2`) ve hesap anında *hâ-i sekt* ile haykırılan `مَالِيَهْ` (`69:28`)",
+    "أَمْوَٰل (`61 N` — %100 elif-hazifli kırık çoğul `أَمْوَٰل` / `ٱلْأَمْوَٰل` / `بِأَمْوَٰلِهِمْ`)": "Toplumsal sermaye, yetim emaneti, ticaret-ribâ hukuku (`2:188,279`, `4:2,5,6,10,29,161`, `9:34`, `30:39`), can-mal mücadelesi (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,88,111`, `49:15`, `61:11`) ve muhtaç hakkı (`51:19`, `70:24`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 155,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:155",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْأَمْوَٰلِ",
+      "target_word_rasm": "ٱلأمول",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ وَبَشِّرِ",
+      "context_snippet_turkish_tabula_rasa": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sebat edip direnenleri müjdele.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sebat edip direnenleri müjdele.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلْمَالَ",
+      "target_word_rasm": "ٱلمال",
+      "target_word_literal_irab": "Malı / onun malını (`مَالَهُۥ / مَالَ`, mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى",
+      "context_snippet_turkish_tabula_rasa": "... Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 188,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:188",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلَكُم",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 188,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:188",
+      "word_position": 13,
+      "target_word_uthmani": "أَمْوَٰلِ",
+      "target_word_rasm": "أمول",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 247,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:247",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلْمَالِ",
+      "target_word_rasm": "ٱلمال",
+      "target_word_literal_irab": "Maldan (`ٱلْمَالِ / مَالِ ٱللَّهِ`, mecrûr tekil isim — `مِنَ` harf-i cerriyle)",
+      "context_snippet_arabic": "يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ قَالَ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz hükümdarlığa ondan layık iken ve ona malca da bir bolluk verilmemişken bize hükümdar olmağa o nasıl layık olabilir?\" dediler, \"Doğrusu Allah size onu seçti, bilgice ve vücutça gücünü artırdı\" dedi. Allah mülkü dilediğine verir. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "elçileri onlara \"Allah size şüphesiz, Talut'u hükümdar olarak gönderdi\" dedi. \"Biz hükümdarlığa ondan layık iken ve ona malca da bir bolluk verilmemişken bize hükümdar olmağa o nasıl layık olabilir?\" dediler, \"Doğrusu Allah size onu seçti, bilgice ve vücutça gücünü artırdı\" dedi. Allah mülkü dilediğine verir. Allah her şeyi kaplar ve bilir.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 261,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:261",
+      "word_position": 4,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını Allah yolunda dolaşıma sokup paylaştıranların durumu, her başağında yüz tane olmak üzere yedi başak veren tanenin durumu gibidir. Allah dilediğine kat kat verir. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını Allah yolunda dolaşıma sokup paylaştıranların durumu, her başağında yüz tane olmak üzere yedi başak veren tanenin durumu gibidir. Allah dilediğine kat kat verir. Allah'ın lütfü geniştir, O her şeyi bilendir.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 262,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:262",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını Allah yolunda dolaşıma sokup paylaşarak sonra dolaşıma sokup paylaştıkları şeyin ardından başa kakmayan ve eza etmeyenlerin ecirleri Rablerinin katındadır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّا وَلَآ أَذًى لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını Allah yolunda dolaşıma sokup paylaşarak sonra dolaşıma sokup paylaştıkları şeyin ardından başa kakmayan ve eza etmeyenlerin ecirleri Rablerinin katındadır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 264,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:264",
+      "word_position": 11,
+      "target_word_uthmani": "مَالَهُۥ",
+      "target_word_rasm": "ماله",
+      "target_word_literal_irab": "Malı / onun malını (`مَالَهُۥ / مَالَ`, mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'a ve ahiret gününe güven duy, insanlara gösteriş için malını dolaşıma sokup paylaştıran kimse gibi, sadakalarınızı başa kakma ve eza etmekle boşa çıkarmayın. Onun durumu, üzerinde toprak bulunan kayanın durumu gibidir, üzerine bol yağmur yağdığındaonu cascavlak bırakır. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا كَسَبُوا۟ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a ve ahiret gününe güven duy, insanlara gösteriş için malını dolaşıma sokup paylaştıran kimse gibi, sadakalarınızı başa kakma ve eza etmekle boşa çıkarmayın. Onun durumu, üzerinde toprak bulunan kayanın durumu gibidir, üzerine bol yağmur yağdığındaonu cascavlak bırakır. Kazandıklarından hiçbir şey elde edemezler. Allah gerçeğin üzerini örten kimseleri doğru yola eriştirmez.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 265,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:265",
+      "word_position": 4,
+      "target_word_uthmani": "أَمْوَٰلَهُمُ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rızasını kazanmak ve kalblerini sağlamlaştırmak için mallarını dolaşıma sokup paylaştıranların durumu, yüksekçe bir tepede bulunan, bol yağmur aldığında yemişlerini iki kat veren, bol yağmur yağmasa bile çisentisi düşen bir bahçenin durumu gibidir. Allah işlediklerinizi görür.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rızasını kazanmak ve kalblerini sağlamlaştırmak için mallarını dolaşıma sokup paylaştıranların durumu, yüksekçe bir tepede bulunan, bol yağmur aldığında yemişlerini iki kat veren, bol yağmur yağmasa bile çisentisi düşen bir bahçenin durumu gibidir. Allah işlediklerinizi görür.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 274,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:274",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلَهُم",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا",
+      "context_snippet_turkish_tabula_rasa": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 279,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:279",
+      "word_position": 13,
+      "target_word_uthmani": "أَمْوَٰلِكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Böyle yapmazsanız, bunun Allah'a ve elçisine karşı açılmış bir savaş olduğunu bilin. Eğer tevbe ederseniz sermayeniz sizindir. Böylece haksızlık etmemiş ve haksızlığa uğramamış olursunuz.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyle yapmazsanız, bunun Allah'a ve elçisine karşı açılmış bir savaş olduğunu bilin. Eğer tevbe ederseniz sermayeniz sizindir. Böylece haksızlık etmemiş ve haksızlığa uğramamış olursunuz.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 10,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:10",
+      "word_position": 7,
+      "target_word_uthmani": "أَمْوَٰلُهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlerin malları ve çocukları, Allah'a karşı onlara bir şey sağlamaz. İşte onlar ateşin yakıtlarıdır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin malları ve çocukları, Allah'a karşı onlara bir şey sağlamaz. İşte onlar ateşin yakıtlarıdır.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 116,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:116",
+      "word_position": 7,
+      "target_word_uthmani": "أَمْوَٰلُهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten kimselerin malları ve çocukları, Allah'tan yana, onlara bir fayda vermeyecektir. İşte onlar yakıcı yıkım yurdu ehlidirler, onlar orada temellidirler.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten kimselerin malları ve çocukları, Allah'tan yana, onlara bir fayda vermeyecektir. İşte onlar yakıcı yıkım yurdu ehlidirler, onlar orada temellidirler.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 186,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:186",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلِكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki mallarınız ve canlarınızla sınanacaksınız; hiç şüphesiz, sizden önce Kitap verilenlerden ve Allah'a eş koşanlardan çok üzücü sözler işiteceksiniz. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki mallarınız ve canlarınızla sınanacaksınız; hiç şüphesiz, sizden önce Kitap verilenlerden ve Allah'a eş koşanlardan çok üzücü sözler işiteceksiniz. sebat edip direnir ve Allah'a karşı gelmekten sakınırsanız bilin ki, bu üzerinde sebat edilecek işlerdendir.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 4,
+      "ayah": 2,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:2",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ",
+      "context_snippet_turkish_tabula_rasa": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 2,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:2",
+      "word_position": 10,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 2,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:2",
+      "word_position": 12,
+      "target_word_uthmani": "أَمْوَٰلِكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا",
+      "context_snippet_turkish_tabula_rasa": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 5,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:5",
+      "word_position": 4,
+      "target_word_uthmani": "أَمْوَٰلَكُمُ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın sizi koruyucu kılmış olduğu mallarınızı, beyinsizlere vermeyin, kendilerini bunların geliriyle rızıklandırıp giydirin ve onlara güzel söz söyleyin.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تُؤْتُوا۟ ٱلسُّفَهَآءَ أَمْوَٰلَكُمُ ٱلَّتِى جَعَلَ ٱللَّهُ لَكُمْ قِيَٰمًا وَٱرْزُقُوهُمْ فِيهَا وَٱكْسُوهُمْ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sizi koruyucu kılmış olduğu mallarınızı, beyinsizlere vermeyin, kendilerini bunların geliriyle rızıklandırıp giydirin ve onlara güzel söz söyleyin.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 13,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا",
+      "context_snippet_turkish_tabula_rasa": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; büyüyecekler de geri alacaklar diye onları israf ederek ve tez elden yemeyin. Zengin olan, iffetli olmağa çalışsın, yoksul olan uygun bir şekilde yesin. Mallarını kendilerine verdiğiniz zaman, yanlarında şahid bulundurun. Hesap sormak için Allah yeter.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 32,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; büyüyecekler de geri alacaklar diye onları israf ederek ve tez elden yemeyin. Zengin olan, iffetli olmağa çalışsın, yoksul olan uygun bir şekilde yesin. Mallarını kendilerine verdiğiniz zaman, yanlarında şahid bulundurun. Hesap sormak için Allah yeter.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 10,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:10",
+      "word_position": 4,
+      "target_word_uthmani": "أَمْوَٰلَ",
+      "target_word_rasm": "أمول",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar, zaten onlar çılgın aleve atılacaklardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar, zaten onlar çılgın aleve atılacaklardır.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 24,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:24",
+      "word_position": 18,
+      "target_word_uthmani": "بِأَمْوَٰلِكُم",
+      "target_word_rasm": "بأمولكم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. Bunlardan başkasını, zinadan kaçınıp, iffetli olarak, mallarınızla istemeniz size helal kılındı. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evli kadınlarla evlenmeniz de haram kılındı. Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. Bunlardan başkasını, zinadan kaçınıp, iffetli olarak, mallarınızla istemeniz size helal kılındı. Onlardan faydalandığınıza mukabil, kararlaştırılmış olan mehirlerini verin; kararlaştırılandan başka, karşılıklı hoşnud olduğunuz hususda size bir sorumluluk yoktur. Allah Bilen'dir, Hakim'dir.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 29,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:29",
+      "word_position": 6,
+      "target_word_uthmani": "أَمْوَٰلَكُم",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Mallarınızı aranızda haksızlıkla değil, karşılıklı rıza ile yapılan ticaretle yeyin, haram ile kendi benliğinizi mahvetmeyin. Allah şüphesiz ki size merhamet eder.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Mallarınızı aranızda haksızlıkla değil, karşılıklı rıza ile yapılan ticaretle yeyin, haram ile kendi benliğinizi mahvetmeyin. Allah şüphesiz ki size merhamet eder.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 34,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:34",
+      "word_position": 14,
+      "target_word_uthmani": "أَمْوَٰلِهِمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 38,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:38",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Mallarını insanlara gösteriş için dolaşıma sokup paylaşarak, Allah'a ve ahiret gününe güven duy da Allah sevmez. saptırıcı yıkıcı gücün arkadaş olduğu kimsenin ne fena arkadaşı vardır!",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَمَن يَكُنِ ٱلشَّيْطَٰنُ لَهُۥ قَرِينًا فَسَآءَ قَرِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını insanlara gösteriş için dolaşıma sokup paylaşarak, Allah'a ve ahiret gününe güven duy da Allah sevmez. saptırıcı yıkıcı gücün arkadaş olduğu kimsenin ne fena arkadaşı vardır!",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 13,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 4,
+      "ayah": 95,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:95",
+      "word_position": 18,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerden, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de esenlik bahçesini vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 4,
+      "ayah": 161,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:161",
+      "word_position": 7,
+      "target_word_uthmani": "أَمْوَٰلَ",
+      "target_word_rasm": "أمول",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَأَعْتَدْنَا",
+      "context_snippet_turkish_tabula_rasa": "Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan gerçeğin üzerini örtenlere, elem verici azab hazırladık.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَأَعْتَدْنَا لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan gerçeğin üzerini örtenlere, elem verici azab hazırladık.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 152,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:152",
+      "word_position": 3,
+      "target_word_uthmani": "مَالَ",
+      "target_word_rasm": "مال",
+      "target_word_literal_irab": "Malı / onun malını (`مَالَهُۥ / مَالَ`, mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Yetim malına, erginlik çağına erişene kadar en iyi şeklin dışında yaklaşmayın; ölçüyü ve tartıyı doğru yapın. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yetim malına, erginlik çağına erişene kadar en iyi şeklin dışında yaklaşmayın; ölçüyü ve tartıyı doğru yapın. Biz kişiye ancak gücünün yeteceği kadar yükleriz. Konuştuğunuzda, akraba bile olsa sözünüzde adil olun. Allah'ın ahdini yerine getirin. Allah size bunları öğüt almanız için buyurmaktadır.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 28,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:28",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلُكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Mallarınızın ve çocuklarınızın, aslında bir sınama olduğunu ve büyük ecrin Allah katında bulunduğunu bilin.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarınızın ve çocuklarınızın, aslında bir sınama olduğunu ve büyük ecrin Allah katında bulunduğunu bilin.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 36,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:36",
+      "word_position": 5,
+      "target_word_uthmani": "أَمْوَٰلَهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu gerçeğin üzerini örtenler mallarını Allah'ın yolundan insanları alıkoymak için dolaşıma sokup paylaştırırlar ve daha da dolaşıma sokup paylaşacaklardır; ama sonra içleri yanacak, hem de mağlup olacaklardır. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ ٱللَّهِ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةً ثُمَّ يُغْلَبُونَ وَٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu gerçeğin üzerini örtenler mallarını Allah'ın yolundan insanları alıkoymak için dolaşıma sokup paylaştırırlar ve daha da dolaşıma sokup paylaşacaklardır; ama sonra içleri yanacak, hem de mağlup olacaklardır. Bu, Allah'ın, temizi murdardan ayırması ve murdarları üstüste koyup hepsini yığarak yakıcı yıkım yurduna yerleştirmesi içindir; gerçeğin üzerini örtenler yakıcı yıkım yurduna toplanacaklardır. İşte onlar mahvolanlardır.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 72,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:72",
+      "word_position": 6,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu güvene erip hicret edenler, Allah yolunda mallarıyla canlarıyla cihat edenler ve muhacirleri barındırıp onlara yardım edenler, işte bunlar birbirinin dostudurlar. güvene erip hicret etmeyenlerle, hicret edene kadar sizin dostluğunuz yoktur. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَٰٓئِكَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ وَٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يُهَاجِرُوا۟ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَىْءٍ حَتَّىٰ يُهَاجِرُوا۟ وَإِنِ ٱسْتَنصَرُوكُمْ فِى ٱلدِّينِ فَعَلَيْكُمُ ٱلنَّصْرُ إِلَّا عَلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu güvene erip hicret edenler, Allah yolunda mallarıyla canlarıyla cihat edenler ve muhacirleri barındırıp onlara yardım edenler, işte bunlar birbirinin dostudurlar. güvene erip hicret etmeyenlerle, hicret edene kadar sizin dostluğunuz yoktur. Fakat yaşam ve hesap sistemi uğrunda yardım isterlerse, aranızda anlaşma olmayan topluluktan başkasına karşı onlara yardım etmeniz gerekir. Allah işlediklerinizi görür.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 9,
+      "ayah": 20,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:20",
+      "word_position": 8,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً",
+      "context_snippet_turkish_tabula_rasa": "güvene eren, hicret eden ve Allah yolunda mallarıyla, canlarıyla cihat eden kimselere Allah katında en büyük dereceler vardır. İşte kurtulanlar onlardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren, hicret eden ve Allah yolunda mallarıyla, canlarıyla cihat eden kimselere Allah katında en büyük dereceler vardır. İşte kurtulanlar onlardır.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 9,
+      "ayah": 24,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:24",
+      "word_position": 9,
+      "target_word_uthmani": "وَأَمْوَٰلٌ",
+      "target_word_rasm": "وأمول",
+      "target_word_literal_irab": "Mallar (`أَمْوَٰلٌ`, nekre merfû kırık çoğul `أَفْعَال` ismi — tüm kırık çoğullarda olduğu gibi `و` sonrası med elifi Rasm'da hazfedilir)",
+      "context_snippet_arabic": "وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez.\"",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 34,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:34",
+      "word_position": 10,
+      "target_word_uthmani": "أَمْوَٰلَ",
+      "target_word_rasm": "أمول",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Hahamlar ve rahiplerin çoğu, insanların mallarını haksızlıkla yerler. Allah yolundan alıkoyarlar. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Hahamlar ve rahiplerin çoğu, insanların mallarını haksızlıkla yerler. Allah yolundan alıkoyarlar. Altın ve gümüşü biriktirip Allah yolunda dolaşıma sokup paylaşmayanlara can yakıcı bir azabı müjdele.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 41,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:41",
+      "word_position": 5,
+      "target_word_uthmani": "بِأَمْوَٰلِكُمْ",
+      "target_word_rasm": "بأمولكم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "خِفَافًا وَثِقَالًا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "İsteyen, istemeyen, hepiniz savaşa çıkın. Allah yolunda mallarınızla, canlarınızla cihat edin. Bilirseniz bu sizin için hayırlıdır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsteyen, istemeyen, hepiniz savaşa çıkın. Allah yolunda mallarınızla, canlarınızla cihat edin. Bilirseniz bu sizin için hayırlıdır.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 9,
+      "ayah": 44,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:44",
+      "word_position": 10,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ٱلْءَاخِرِ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ وَٱللَّهُ عَلِيمٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve ahiret gününe güvene erenler, mallariyle, canlariyle savaşmak istediklerinden ötürü geri kalmak için senden izin istemezler. Allah sakınanları bilir.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve ahiret gününe güvene erenler, mallariyle, canlariyle savaşmak istediklerinden ötürü geri kalmak için senden izin istemezler. Allah sakınanları bilir.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 9,
+      "ayah": 55,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:55",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلُهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُمْ إِنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "Artık onların malları ve çocukları seni imrendirmesin. Allah bunlarla onlara dünya hayatında azabetmek ve canlarının gerçeğin üzerini örten olarak çıkmasını ister.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُمْ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُعَذِّبَهُم بِهَا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Artık onların malları ve çocukları seni imrendirmesin. Allah bunlarla onlara dünya hayatında azabetmek ve canlarının gerçeğin üzerini örten olarak çıkmasını ister.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 69,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:69",
+      "word_position": 9,
+      "target_word_uthmani": "أَمْوَٰلًا",
+      "target_word_rasm": "أمولا",
+      "target_word_literal_irab": "Mallar / malları (`أَمْوَٰلًا`, nekre mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَٰدًا فَٱسْتَمْتَعُوا۟ بِخَلَٰقِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey ikiyüzlüler! Siz, sizden önce daha kuvvetli, malları ve çocukları daha çok olup, hisselerince bunlardan faydalanan kimseler gibisiniz. Sizden öncekiler, hisselerince faydalandıkları gibi siz de hissenizce faydalandınız ve onların batıla daldıklarıgibi siz de daldınız. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَٰدًا فَٱسْتَمْتَعُوا۟ بِخَلَٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُم بِخَلَٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ أُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey ikiyüzlüler! Siz, sizden önce daha kuvvetli, malları ve çocukları daha çok olup, hisselerince bunlardan faydalanan kimseler gibisiniz. Sizden öncekiler, hisselerince faydalandıkları gibi siz de hissenizce faydalandınız ve onların batıla daldıklarıgibi siz de daldınız. İşte bunlar dünyada ve ahirette işleri boşa çıkanlardır, işte bunlar mahvolanlardır.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 81,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:81",
+      "word_position": 10,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın elçisinin hilafına geri kalanlar, oturup kalmalarına sevindiler. Allah yolunda mallariyle ve canlariyle cihat hoşlarına gitmedi. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا لَّوْ كَانُوا۟ يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın elçisinin hilafına geri kalanlar, oturup kalmalarına sevindiler. Allah yolunda mallariyle ve canlariyle cihat hoşlarına gitmedi. \"Sıcakta savaşa çıkmayın\" dediler. De ki: \"yakıcı yıkım yurdu ateşi daha sıcaktır.\" Keşke bilseydiler!",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 9,
+      "ayah": 85,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:85",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلُهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَٰدُهُمْ إِنَّمَا يُرِيدُ",
+      "context_snippet_turkish_tabula_rasa": "Malları ve çocukları seni hayrete düşürmesin; Allah bunlarla onlara dünyada azabetmek ve canlarının gerçeğin üzerini örten olarak çıkmasını ister.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَٰدُهُمْ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Malları ve çocukları seni hayrete düşürmesin; Allah bunlarla onlara dünyada azabetmek ve canlarının gerçeğin üzerini örten olarak çıkmasını ister.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 88,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:88",
+      "word_position": 7,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ءَامَنُوا۟ مَعَهُۥ جَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ وَأُو۟لَٰٓئِكَ لَهُمُ",
+      "context_snippet_turkish_tabula_rasa": "Ama elçi ve onunla beraber bulunan güvene erenler, mallariyle ve canlariyle savaştılar. İşte iyilikler onlaradır, saadete erişenler de onlardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ جَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ وَأُو۟لَٰٓئِكَ لَهُمُ ٱلْخَيْرَٰتُ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama elçi ve onunla beraber bulunan güvene erenler, mallariyle ve canlariyle savaştılar. İşte iyilikler onlaradır, saadete erişenler de onlardır.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 9,
+      "ayah": 103,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:103",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلِهِمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم",
+      "context_snippet_turkish_tabula_rasa": "Mallarının bir kısmını, kendilerini temizleyip arıtacak sadaka olarak al, onlara dua et; senin duan onlar için bir güvendir. Allah işitir ve bilir.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarının bir kısmını, kendilerini temizleyip arıtacak sadaka olarak al, onlara dua et; senin duan onlar için bir güvendir. Allah işitir ve bilir.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 111,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:111",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَمْوَٰلَهُم",
+      "target_word_rasm": "وأمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ",
+      "context_snippet_turkish_tabula_rasa": "Allah şüphesiz, Allah yolunda savaşıp, öldüren ve öldürülen güvene erenlerin canlarını ve mallarını Tevrat, İncil ve Kuran'da söz verilmiş bir hak olarak esenlik bahçesine karşılık satın almıştır. Verdiği sözü Allah'tan daha çok tutan kim vardır? Öyleyse, yaptığınız alışverişe sevinin; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah şüphesiz, Allah yolunda savaşıp, öldüren ve öldürülen güvene erenlerin canlarını ve mallarını Tevrat, İncil ve Kuran'da söz verilmiş bir hak olarak esenlik bahçesine karşılık satın almıştır. Verdiği sözü Allah'tan daha çok tutan kim vardır? Öyleyse, yaptığınız alışverişe sevinin; bu büyük başarıdır.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 10,
+      "ayah": 88,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:88",
+      "word_position": 9,
+      "target_word_uthmani": "وَأَمْوَٰلًا",
+      "target_word_rasm": "وأمولا",
+      "target_word_literal_irab": "Mallar / malları (`أَمْوَٰلًا`, nekre mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbimiz! Doğrusu sen Firavun'a ve erkanına ziynetler ve dünya hayatında mallar verdin. Rabbimiz! Senin yolundan şaşırtmaları için mi? Rabbimiz! Mallarını yok et, kalblerini sık; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbimiz! Doğrusu sen Firavun'a ve erkanına ziynetler ve dünya hayatında mallar verdin. Rabbimiz! Senin yolundan şaşırtmaları için mi? Rabbimiz! Mallarını yok et, kalblerini sık; çünkü onlar can yakıcı azabı görmedikçe güven duyup teslim olmazlar\" dedi.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 88,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:88",
+      "word_position": 20,
+      "target_word_uthmani": "أَمْوَٰلِهِمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbimiz! Doğrusu sen Firavun'a ve erkanına ziynetler ve dünya hayatında mallar verdin. Rabbimiz! Senin yolundan şaşırtmaları için mi? Rabbimiz! Mallarını yok et, kalblerini sık; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbimiz! Doğrusu sen Firavun'a ve erkanına ziynetler ve dünya hayatında mallar verdin. Rabbimiz! Senin yolundan şaşırtmaları için mi? Rabbimiz! Mallarını yok et, kalblerini sık; çünkü onlar can yakıcı azabı görmedikçe güven duyup teslim olmazlar\" dedi.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 29,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:29",
+      "word_position": 5,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا إِنْ أَجْرِىَ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Buna karşılık ben sizden bir mal da istemiyorum. Benim ücretim Allah'a aittir; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ لَآ أَسْـَٔلُكُمْ عَلَيْهِ مَالًا إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَمَآ أَنَا۠ بِطَارِدِ ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّهُم مُّلَٰقُوا۟ رَبِّهِمْ وَلَٰكِنِّىٓ أَرَىٰكُمْ قَوْمًا تَجْهَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Buna karşılık ben sizden bir mal da istemiyorum. Benim ücretim Allah'a aittir; güvene erenleri da kovacak değilim; çünkü onlar Rableriyle karşılaşacaklar; fakat ben sizi cahil bir millet olarak görüyorum.\"",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 87,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:87",
+      "word_position": 14,
+      "target_word_uthmani": "أَمْوَٰلِنَا",
+      "target_word_rasm": "أمولنا",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ إِنَّكَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 6,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:6",
+      "word_position": 7,
+      "target_word_uthmani": "بِأَمْوَٰلٍ",
+      "target_word_rasm": "بأمول",
+      "target_word_literal_irab": "Mallarla (`بِأَمْوَٰلٍ`, nekre mecrûr kırık çoğul isim — `بِـ` harf-i cerriyle; elif-hazifli Rasm)",
+      "context_snippet_arabic": "ٱلْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَٰكُم بِأَمْوَٰلٍ وَبَنِينَ وَجَعَلْنَٰكُمْ أَكْثَرَ",
+      "context_snippet_turkish_tabula_rasa": "\"Bunun ardından sizi onlara galip getireceğiz; mallar ve oğullarla size yardım edecek ve sizin sayınızı artıracağız.\"",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ثُمَّ رَدَدْنَا لَكُمُ ٱلْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَٰكُم بِأَمْوَٰلٍ وَبَنِينَ وَجَعَلْنَٰكُمْ أَكْثَرَ نَفِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bunun ardından sizi onlara galip getireceğiz; mallar ve oğullarla size yardım edecek ve sizin sayınızı artıracağız.\"",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 34,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:34",
+      "word_position": 3,
+      "target_word_uthmani": "مَالَ",
+      "target_word_rasm": "مال",
+      "target_word_literal_irab": "Malı / onun malını (`مَالَهُۥ / مَالَ`, mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Yetimin malına ergin çağa ulaşana kadar en güzel şeklin dışında yaklaşmayın. Ahdi de yerine getirin, doğrusu verilen ahidde sorumluluk vardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimin malına ergin çağa ulaşana kadar en güzel şeklin dışında yaklaşmayın. Ahdi de yerine getirin, doğrusu verilen ahidde sorumluluk vardır.",
+      "contextual_meaning": "Yetimlerin ve korumasızların mallarını muhafaza hukuku (`4:2,5,6,10`, `6:152`, `17:34`): Yetimin temiz malını kendi değersiz malıyla değiştirmeme (`4:2`), yönetemeyecek akıl olgunluğu öncesinde koruyup (`4:5`) rüşde ulaşınca şahitlerle eksiksiz teslim etme (`4:6`), yetim malını zulümle yiyenlerin kendi karınlarına ateş doldurduğu (`4:10`) ve yalnız en güzel koruma amacıyla yaklaşma buyruğu (`6:152`, `17:34`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 64,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:64",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْأَمْوَٰلِ",
+      "target_word_rasm": "ٱلأمول",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "\"Sesinle, gücünün yettiğini yerinden oynat, onlara karşı yaya ve atlılarınla haykırarak yürü, mallarına ve çocuklarına ortak ol, onlara vaadlerde bulun ama saptırıcı yıkıcı güç sadece onları aldatmak için vaadeder.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ وَعِدْهُمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sesinle, gücünün yettiğini yerinden oynat, onlara karşı yaya ve atlılarınla haykırarak yürü, mallarına ve çocuklarına ortak ol, onlara vaadlerde bulun ama saptırıcı yıkıcı güç sadece onları aldatmak için vaadeder.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 34,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:34",
+      "word_position": 11,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "أَنَا۠ أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
+      "context_snippet_turkish_tabula_rasa": "Onun gelirleri de vardı. Bu yüzden, arkadaşiyle konuşurken: \"Ben malca senden zengin, nüfusça da senden daha itibarlıyım\" dedi.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَانَ لَهُۥ ثَمَرٌ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onun gelirleri de vardı. Bu yüzden, arkadaşiyle konuşurken: \"Ben malca senden zengin, nüfusça da senden daha itibarlıyım\" dedi.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 39,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:39",
+      "word_position": 18,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "أَنَا۠ أَقَلَّ مِنكَ مَالًا وَوَلَدًا",
+      "context_snippet_turkish_tabula_rasa": "... Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًا وَوَلَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın\" dedi.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 46,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:46",
+      "word_position": 1,
+      "target_word_uthmani": "ٱلْمَالُ",
+      "target_word_rasm": "ٱلمال",
+      "target_word_literal_irab": "Mal / onun malı (`ٱلْمَالُ / مَالُهُۥ`, merfû tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ",
+      "context_snippet_turkish_tabula_rasa": "Mal ve oğullar, dünya hayatının süsüdür. Ama baki kalacak yararlı işler, eylem karşılığı olarak da, emel olarak da, Rabbinin katında daha hayırlıdır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Mal ve oğullar, dünya hayatının süsüdür. Ama baki kalacak yararlı işler, eylem karşılığı olarak da, emel olarak da, Rabbinin katında daha hayırlıdır.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 77,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:77",
+      "word_position": 7,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimizi gerçeğin üzerini örten ve \"bana elbette mal ve çocuk verilecektir\" diyeni gördün mu?",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًا وَوَلَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimizi gerçeğin üzerini örten ve \"bana elbette mal ve çocuk verilecektir\" diyeni gördün mu?",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 55,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:55",
+      "word_position": 6,
+      "target_word_uthmani": "مَّالٍ",
+      "target_word_rasm": "مال",
+      "target_word_literal_irab": "Bir mal / malla (`بِمَالٍ / مَالٍ`, nekre mecrûr tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 33,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:33",
+      "word_position": 24,
+      "target_word_uthmani": "مَّالِ",
+      "target_word_rasm": "مال",
+      "target_word_literal_irab": "Maldan (`ٱلْمَالِ / مَالِ ٱللَّهِ`, mecrûr tekil isim — `مِنَ` harf-i cerriyle)",
+      "context_snippet_arabic": "خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Evlenemeyenler, Allah kendilerini lütfü ile zenginleştirene kadar iffetli davransınlar. Kölelerinizden hür olmak için bedel vermek isteyenlerin, onlarda bir iyilik görürseniz, bedel vermelerini kabul edin. Onlara Allah'ın size verdiği maldan verin. Dünya hayatının geçici menfaatini elde etmek için, iffetli olmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları buna zorlarsa bilsin ki Allah hiç şüphesiz onu değil zorlanan kadınları bağışlar ve merhamet eder.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 88,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:88",
+      "word_position": 4,
+      "target_word_uthmani": "مَالٌ",
+      "target_word_rasm": "مال",
+      "target_word_literal_irab": "Herhangi bir mal (`مَالٌ`, nekre merfû tekil isim — `لَا يَنفَعُ` öznesi; tekilde med elifi yazılır)",
+      "context_snippet_arabic": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet esenlik bahçesine varis olanlardan kıl. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet esenlik bahçesine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 36,
+      "surah_name": "Neml",
+      "ayah_ref": "27:36",
+      "word_position": 6,
+      "target_word_uthmani": "بِمَالٍ",
+      "target_word_rasm": "بمال",
+      "target_word_literal_irab": "Bir mal / malla (`بِمَالٍ / مَالٍ`, nekre mecrûr tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "سُلَيْمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bana mal ile yardım etmek mi istiyorsunuz? Allah'ın bana verdiği size verdiğinden daha iyidir. Ama belki de siz hediyenizle sevinirsiniz. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَ سُلَيْمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman'a geldiklerinde: \"Bana mal ile yardım etmek mi istiyorsunuz? Allah'ın bana verdiği size verdiğinden daha iyidir. Ama belki de siz hediyenizle sevinirsiniz. Onlara dön! And olsun ki, güç yetiremeyecekleri bir ordu ile gelir onları oradan alçalmış ve küçük düşmüş olarak çıkarırız\" dedi.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 30,
+      "ayah": 39,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:39",
+      "word_position": 7,
+      "target_word_uthmani": "أَمْوَٰلِ",
+      "target_word_rasm": "أمول",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟",
+      "context_snippet_turkish_tabula_rasa": "İnsanların malları içinde artsın diye verdiğiniz her hangi bir faiz Allah katında artmaz; fakat, Allah'ın rızasını dileyerek verdiğiniz herhangi bir sadaka (arınma ve gelişme payı) böyle değildir. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ ءَاتَيْتُم مِّن رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanların malları içinde artsın diye verdiğiniz her hangi bir faiz Allah katında artmaz; fakat, Allah'ın rızasını dileyerek verdiğiniz herhangi bir sadaka (arınma ve gelişme payı) böyle değildir. İşte onlar eylem karşılıklarını kat kat artıranlardır.",
+      "contextual_meaning": "Bâtıl sömürü ve ribâ yasağı, meşru rıza ticareti (`2:188,279`, `4:29,161`, `9:34`, `30:39`): Malları haksız yollarla ve yargı rüşvetiyle yememe (`2:188`), karşılıklı rızaya dayalı ticareti esas alma (`4:29`), ribâyı terk halinde ana sermayeyi (`رُءُوسُ أَمْوَٰلِكُمْ`) güvenceye alma (`2:279`), halkın mallarını sömürenleri kınama (`4:161`, `9:34`) ve çıkar amaçlı artışın Allah katında bereketlenmeyeceğini bildirme (`30:39`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 27,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:27",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَمْوَٰلَهُمْ",
+      "target_word_rasm": "وأمولهم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا",
+      "context_snippet_turkish_tabula_rasa": "Yerlerini, yurtlarını, mallarını ve henüz ayağınızı dahi basmadığınız yerleri Allah size miras olarak verdi. Allah her şeye Kadir olandır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yerlerini, yurtlarını, mallarını ve henüz ayağınızı dahi basmadığınız yerleri Allah size miras olarak verdi. Allah her şeye Kadir olandır.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 35,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:35",
+      "word_position": 4,
+      "target_word_uthmani": "أَمْوَٰلًا",
+      "target_word_rasm": "أمولا",
+      "target_word_literal_irab": "Mallar / malları (`أَمْوَٰلًا`, nekre mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَٰدًا وَمَا نَحْنُ",
+      "context_snippet_turkish_tabula_rasa": "Ve dediler ki: \"Malları ve çocukları en çok olan bizleriz, azaba uğratılacak da değiliz\"",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ve dediler ki: \"Malları ve çocukları en çok olan bizleriz, azaba uğratılacak da değiliz\"",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 37,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:37",
+      "word_position": 2,
+      "target_word_uthmani": "أَمْوَٰلُكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُم بِٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Ey insanlar! Sizi Bana yaklaştıracak olan ne mallarınız ve ne de çocuklarınızdır; yalnız, güvene erip yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًا فَأُو۟لَٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَٰتِ ءَامِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanlar! Sizi Bana yaklaştıracak olan ne mallarınız ve ne de çocuklarınızdır; yalnız, güvene erip yararlı iş işleyen kimselerin, işte onların yaptıklarına karşılık mükafatları kat kattır; işte onlar, yüksek derecelerde, güven içindedirler.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 47,
+      "ayah": 36,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:36",
+      "word_position": 13,
+      "target_word_uthmani": "أَمْوَٰلَكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınızı (`أَمْوَٰلَهُمْ / أَمْوَٰلَكُمْ / أَمْوَٰلَ`, mansûb kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer güven duy ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ يُؤْتِكُمْ أُجُورَكُمْ وَلَا يَسْـَٔلْكُمْ أَمْوَٰلَكُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu dünya hayatı oyun ve oyalanmadır. Eğer güven duy ve Allah'a karşı gelmekten sakınırsanız, O, size ecirlerinizi verir; O, sizin mallarınızı tamamen sarfetmenizi istemez.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 48,
+      "ayah": 11,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:11",
+      "word_position": 7,
+      "target_word_uthmani": "أَمْوَٰلُنَا",
+      "target_word_rasm": "أمولنا",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا",
+      "context_snippet_turkish_tabula_rasa": "Bedevilerin savaştan geri kalmış olanları, sana: \"Bizi mallarımız ve ailelerimiz alıkoydu. Allah'tan bizim bağışlanmamızı dile\" diyecekler. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Bedevilerin savaştan geri kalmış olanları, sana: \"Bizi mallarımız ve ailelerimiz alıkoydu. Allah'tan bizim bağışlanmamızı dile\" diyecekler. Dilleriyle, gönüllerinde bulunmayanı söylerler; de ki: \"Allah size bir zarar gelmesini dilerse, yahut bir fayda elde etmenizi dilerse, O'na karşı kimin gücü bir şeye yeter? Kaldı ki, Allah yaptıklarınızdan haberdardır.\"",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 49,
+      "ayah": 15,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:15",
+      "word_position": 11,
+      "target_word_uthmani": "بِأَمْوَٰلِهِمْ",
+      "target_word_rasm": "بأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "\"güvene erenler, ancak Allah'a ve elçisine güvene ermiş, sonra şüpheye düşmemiş; Allah uğrunda mallarıyla, canlarıyla cihat etmiş olanlardır. İşte onlar doğru olanlardır. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"güvene erenler, ancak Allah'a ve elçisine güvene ermiş, sonra şüpheye düşmemiş; Allah uğrunda mallarıyla, canlarıyla cihat etmiş olanlardır. İşte onlar doğru olanlardır.\"",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 51,
+      "ayah": 19,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:19",
+      "word_position": 2,
+      "target_word_uthmani": "أَمْوَٰلِهِمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "context_snippet_turkish_tabula_rasa": "Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 20,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:20",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْأَمْوَٰلِ",
+      "target_word_rasm": "ٱلأمول",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ",
+      "context_snippet_turkish_tabula_rasa": "Bilin ki, dünya hayatı oyun, oyalanma, süslenme, aranızda övünme ve daha çok mal ve çocuk sahibi olmaktan ibarettir. Bu, yağmurun bitirdiği, tohumu toprağa gömüp örten çiftçilerin de hoşuna giden bir bitkiye benzer; ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْءَاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bilin ki, dünya hayatı oyun, oyalanma, süslenme, aranızda övünme ve daha çok mal ve çocuk sahibi olmaktan ibarettir. Bu, yağmurun bitirdiği, tohumu toprağa gömüp örten çiftçilerin de hoşuna giden bir bitkiye benzer; sonra kurur, sapsarı olduğu görülür, sonra çerçöp olur. Ahirette çetin azap da vardır. Allah'ın hoşnudluğu ve bağışlaması da vardır; dünya hayatı ise sadece aldatıcı bir geçinmedir.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 17,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:17",
+      "word_position": 4,
+      "target_word_uthmani": "أَمْوَٰلُهُمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "لَّن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Malları ve çocukları, onlara, Allah katında bir fayda sağlamaz. Onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَّن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Malları ve çocukları, onlara, Allah katında bir fayda sağlamaz. Onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 8,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:8",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَمْوَٰلِهِمْ",
+      "target_word_rasm": "وأمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın verdiği bu ganimet malları bilhassa; yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın yaşam sistemine ve elçisine yardım eden muhacir fakirlerindir. ...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın verdiği bu ganimet malları bilhassa; yurtlarından ve mallarından edilmiş olan, Allah'tan bir lütuf ve rıza dileyen, Allah'ın yaşam sistemine ve elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar bunlardır.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 61,
+      "ayah": 11,
+      "surah_name": "Saff",
+      "ayah_ref": "61:11",
+      "word_position": 8,
+      "target_word_uthmani": "بِأَمْوَٰلِكُمْ",
+      "target_word_rasm": "بأمولكم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ذَٰلِكُمْ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve elçisine güven duy; Allah yolunda canlarınızla, mallarınızla cihat edersiniz; bilseniz, bu sizin için en iyi yoldur.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçisine güven duy; Allah yolunda canlarınızla, mallarınızla cihat edersiniz; bilseniz, bu sizin için en iyi yoldur.",
+      "contextual_meaning": "Can ve mal bütünlüğünde sınanma ve mücadele (`2:155`, `3:186`, `4:95`, `8:72`, `9:20,41,44,81,88,111`, `47:36`, `48:11`, `49:15`, `59:8`, `61:11`): Yaratıcı insanları mallardan ve canlardan eksiltmeyle sınar (`2:155`, `3:186`), mallarının tamamını talep etmez (`47:36`), yurtlarından ve mallarından çıkarılmış muhacirleri (`59:8`) ve canlarıyla mallarını Allah yolunda seferber edenleri (`4:95`, `9:20,111`, `49:15`, `61:11`) bahane üretip geri duranlardan (`9:44,81,88`, `48:11`) ayırır."
+    },
+    {
+      "surah": 63,
+      "ayah": 9,
+      "surah_name": "Münâfikūn",
+      "ayah_ref": "63:9",
+      "word_position": 6,
+      "target_word_uthmani": "أَمْوَٰلُكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sizi, mallarınız ve çocuklarınız Allah'ı anmaktan alıkoymasın; böyle olanlar hüsrana uğrayanlardır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sizi, mallarınız ve çocuklarınız Allah'ı anmaktan alıkoymasın; böyle olanlar hüsrana uğrayanlardır.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 64,
+      "ayah": 15,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:15",
+      "word_position": 2,
+      "target_word_uthmani": "أَمْوَٰلُكُمْ",
+      "target_word_rasm": "أمولكم",
+      "target_word_literal_irab": "Malları / mallarınız (`أَمْوَٰلُهُمْ / أَمْوَٰلُكُمْ / أَمْوَٰلُنَا`, merfû kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَٱللَّهُ عِندَهُۥٓ أَجْرٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu mallarınız ve çocuklarınız bir imtihandır. Büyük ecir ise Allah katındadır.",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 68,
+      "ayah": 14,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:14",
+      "word_position": 4,
+      "target_word_uthmani": "مَالٍ",
+      "target_word_rasm": "مال",
+      "target_word_literal_irab": "Bir mal / malla (`بِمَالٍ / مَالٍ`, nekre mecrûr tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok bağlayıcı ahit eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَن كَانَ ذَا مَالٍ وَبَنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok bağlayıcı ahit eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 69,
+      "ayah": 28,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:28",
+      "word_position": 4,
+      "target_word_uthmani": "مَالِيَهْ",
+      "target_word_rasm": "ماليه",
+      "target_word_literal_irab": "Benim malım (`مَالِيَهْ`, hâ-i sekt ile sonlanan izâfetli merfû tekil isim — tekilde med elifi korunur; `69:29`a geçişte Hafs'ta öncelikle hafif sekt okunur)",
+      "context_snippet_arabic": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ",
+      "context_snippet_turkish_tabula_rasa": "... bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|NOM"
+      },
+      "ayah_text_arabic_full": "مَآ أَغْنَىٰ عَنِّى مَالِيَهْ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat kitabı kendisine solundan verilen kimse: \"Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı\" der.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 24,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:24",
+      "word_position": 3,
+      "target_word_uthmani": "أَمْوَٰلِهِمْ",
+      "target_word_rasm": "أمولهم",
+      "target_word_literal_irab": "Mallarından / mallarıyla (`بِأَمْوَٰلِهِمْ / مِنْ أَمْوَٰلِهِمْ / ٱلْأَمْوَٰلِ / أَمْوَٰلِكُمْ`, mecrûr kırık çoğul isim — elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+      "context_snippet_turkish_tabula_rasa": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azab...",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 71,
+      "ayah": 12,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:12",
+      "word_position": 2,
+      "target_word_uthmani": "بِأَمْوَٰلٍ",
+      "target_word_rasm": "بأمول",
+      "target_word_literal_irab": "Mallarla (`بِأَمْوَٰلٍ`, nekre mecrûr kırık çoğul isim — `بِـ` harf-i cerriyle; elif-hazifli Rasm)",
+      "context_snippet_arabic": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"Sizi, mallar ve oğullarla desteklesin; sizin için bahçeler var etsin, ırmaklar akıtsın.\"",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَيُمْدِدْكُم بِأَمْوَٰلٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّٰتٍ وَيَجْعَل لَّكُمْ أَنْهَٰرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sizi, mallar ve oğullarla desteklesin; sizin için bahçeler var etsin, ırmaklar akıtsın.\"",
+      "contextual_meaning": "Dünya süsü olarak mal ve soyun sınama boyutu (`2:247`, `8:28`, `9:24,55,69,85`, `10:88`, `11:29,87`, `17:6,64`, `18:34,39,46`, `23:55`, `27:36`, `33:27`, `34:35,37`, `57:20`, `63:9`, `64:15`, `71:12`): Mal çokluğunu üstünlük veya yakınlık ölçüsü sanma (`2:247`, `18:34,39,46`, `34:35,37`, `57:20`), elçilerin mal karşılığı istememesi ve Süleyman'ın mal teklifini reddi (`11:29`, `27:36`), mal ve çocukların yalnız bir sınav/ziynet oluşu (`8:28`, `9:24,55,69,85`, `10:88`, `63:9`, `64:15`) ve saptırıcı gücün ortaklık aradığı bir alan (`17:64`) olması yanında şükür ve yöneliş karşılığında maddî destek verilmesi (`17:6`, `33:27`, `71:12`, `23:55`)."
+    },
+    {
+      "surah": 71,
+      "ayah": 21,
+      "surah_name": "Nûh",
+      "ayah_ref": "71:21",
+      "word_position": 10,
+      "target_word_uthmani": "مَالُهُۥ",
+      "target_word_rasm": "ماله",
+      "target_word_literal_irab": "Mal / onun malı (`ٱلْمَالُ / مَالُهُۥ`, merfû tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "context_snippet_turkish_tabula_rasa": "Nuh: \"Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular\" dedi.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh: \"Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular\" dedi.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 12,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:12",
+      "word_position": 3,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+      "context_snippet_turkish_tabula_rasa": "Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 89,
+      "ayah": 20,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:20",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْمَالَ",
+      "target_word_rasm": "ٱلمال",
+      "target_word_literal_irab": "Malı (`ٱلْمَالَ`, marife mansûb tekil isim — `تُحِبُّونَ` mef'ûlü)",
+      "context_snippet_arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "context_snippet_turkish_tabula_rasa": "Malı pek çok seviyorsunuz.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Malı pek çok seviyorsunuz.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 90,
+      "ayah": 6,
+      "surah_name": "Beled",
+      "ayah_ref": "90:6",
+      "word_position": 3,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "context_snippet_turkish_tabula_rasa": "\"Yığın yığın mal tüketmişimdir\" diyor.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yığın yığın mal tüketmişimdir\" diyor.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 92,
+      "ayah": 11,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:11",
+      "word_position": 4,
+      "target_word_uthmani": "مَالُهُۥٓ",
+      "target_word_rasm": "ماله",
+      "target_word_literal_irab": "Mal / onun malı (`ٱلْمَالُ / مَالُهُۥ`, merfû tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "O kimse ölüp ateşe yuvarlandığı zaman, malı ona fayda vermez.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "O kimse ölüp ateşe yuvarlandığı zaman, malı ona fayda vermez.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 92,
+      "ayah": 18,
+      "surah_name": "Leyl",
+      "ayah_ref": "92:18",
+      "word_position": 3,
+      "target_word_uthmani": "مَالَهُۥ",
+      "target_word_rasm": "ماله",
+      "target_word_literal_irab": "Malı / onun malını (`مَالَهُۥ / مَالَ`, mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Arınmak için malını veren, en çok sakınan kimse ise ondan uzak tutulur.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Arınmak için malını veren, en çok sakınan kimse ise ondan uzak tutulur.",
+      "contextual_meaning": "Emanet bilinciyle paylaşım, aile sorumluluğu ve arındırma (`2:177,261-265,274`, `4:24,34,38`, `9:103`, `24:33`, `51:19`, `70:24`, `92:18`): Sevilen malı yoksullara verme (`2:177`), başa kakmadan ve gösterişsiz karşılıksız paylaşma (`2:261-265,274`, `4:38`), arındırıcı pay alma (`9:103`, `92:18`), eşleşme ve aile geçim sorumluluğu (`4:24,34`), Allah'ın verdiği kendi malından özgürlük sözleşmesine destek (`24:33`) ve muhtaçla yoksulun maldaki yerleşik hakkı (`51:19`, `70:24`)."
+    },
+    {
+      "surah": 104,
+      "ayah": 2,
+      "surah_name": "Hümeze",
+      "ayah_ref": "104:2",
+      "word_position": 3,
+      "target_word_uthmani": "مَالًا",
+      "target_word_rasm": "مالا",
+      "target_word_literal_irab": "Mal / bolca mal (`مَالًا`, tenvinli nekre mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 104,
+      "ayah": 3,
+      "surah_name": "Hümeze",
+      "ayah_ref": "104:3",
+      "word_position": 3,
+      "target_word_uthmani": "مَالَهُۥٓ",
+      "target_word_rasm": "ماله",
+      "target_word_literal_irab": "Malı / onun malını (`مَالَهُۥ / مَالَ`, mansûb tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Malının kendisini ölümsüz kılacağını sanır.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Malının kendisini ölümsüz kılacağını sanır.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    },
+    {
+      "surah": 111,
+      "ayah": 2,
+      "surah_name": "Mesed",
+      "ayah_ref": "111:2",
+      "word_position": 4,
+      "target_word_uthmani": "مَالُهُۥ",
+      "target_word_rasm": "ماله",
+      "target_word_literal_irab": "Mal / onun malı (`ٱلْمَالُ / مَالُهُۥ`, merfû tekil isim — tekilde med elifi yazılır)",
+      "context_snippet_arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "context_snippet_turkish_tabula_rasa": "Malı ve kazandığı kendisine fayda vermedi.",
+      "morphology": {
+        "lemma": "maAl",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:maAl|ROOT:mwl|M|NOM"
+      },
+      "ayah_text_arabic_full": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "ayah_text_turkish_tabula_rasa_full": "Malı ve kazandığı kendisine fayda vermedi.",
+      "contextual_meaning": "Tutkulu yığma, hak yoldan alıkoyma ve hesap gününde malın işlevsizliği (`3:10,116`, `8:36`, `19:77`, `26:88`, `58:17`, `68:14`, `69:28`, `71:21`, `74:12`, `89:20`, `90:6`, `92:11`, `104:2,3`, `111:2`): Malı aşırı sevip yığınla övünme (`68:14`, `74:12`, `89:20`, `90:6`, `104:2`), ölümsüzlük sanısı (`104:3`), hak yoldan engellemeye harcama (`8:36`) ve son durakta 'malım bana fayda vermedi (`69:28 مَالِيَهْ`)' çığlığıyla malın tam çaresizliği (`3:10,116`, `26:88`, `58:17`, `71:21`, `92:11`, `111:2`)."
+    }
+  ]
+}

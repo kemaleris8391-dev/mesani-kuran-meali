@@ -1,0 +1,317 @@
+{
+  "root": "ر-ك-ع",
+  "root_latin": "R-K-A",
+  "concept_name": "Rükû (Tevazu ile Öne Eğilme ve Ortak İradeye Katılma)",
+  "rank": null,
+  "total_occurrences": 13,
+  "unique_ayahs_count": 10,
+  "unified_core_mechanism": "Küstah ve inatçı bir dikleşmeyi terk ederek; hakikat, adalet ve birlik çağrısı karşısında saygıyla öne eğilme, boyun bükme ve esneklik gösterme eylemi.",
+  "physical_core": "İnsanda veya nesnede öne doğru eğilmek, bükülmek. Yaşlılıktan beli bükülen ihtiyarlara 'meşâyihu rukka'' denir. Kaskatı dikleşmenin zıddı olarak boyun büküp esnemek.",
+  "dictionary_arbitration": {
+    "ibn_faris": "Bir tarafa eğilmek, başı öne eğmek.",
+    "lisan_al_arab": "Namazda öne eğilmek, fakir düşüp boyun bükmek, tevazu göstermek.",
+    "ragib_mufredat": "Tevazu ile boyun eğme; ortak ilahi iradeye boyun bükerek katılma.",
+    "arbitration_decision": "Mürselât 77:48'de \"erkau\" emrine direnenlerin \"ebâ / atâ\" (kibirle direnip reddetme) zıtlığı; rükûun tek başına bireysel duruş değil, ilahi çağrıya kibirlenmeksizin eğilip boyun bükerek ortak eyleme katılma olduğunu doğrular."
+  },
+  "semitic_cognates": {
+    "hebrew_aramaic_hypothesis": "kāraʿ / כָּרַע (diz çökmek, boyun eğmek)",
+    "philological_note": "Arapça r-k-ʿ (ر-ك-ع) dizilimi Güney Sami havzasında öne eğilme anlamıyla korunmuştur. İbranice ve Aramicedeki כָּרַע (k-r-ʿ) kökünün bir metatez (ünsüz yer değiştirmesi) ikizi olduğu ileri sürülür; ancak Arapçada bağımsız bir ك-ر-ع (bacak/ayak bileği) kökü de bulunduğundan, bu metatez kesin bir eşkökenlilikten ziyade ihtiyatlı bir filolojik hipotez olarak kaydedilmelidir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-ت-و (Utuvv - Haddini aşıp dikleşmek, boyun bükmemek)",
+      "أ-ب-ي (İbâ - İnatla direnmek, reddetmek)"
+    ],
+    "key_ayahs": [
+      "77:48",
+      "38:24",
+      "25:21"
+    ],
+    "reverse_stress_test": "Kur'an'da 77:48'de 'وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ' (Onlara eğilin/boyun bükün dendiğinde eğilmezler) ifadesi; hakikat karşısında inatla direnen, boyun bükmeyen ve dikleşen inkarcıların tavrıdır. 38:24'te ise Davud hatasını fark edince kibrini sıfırlayıp 'خَرَّ رَاكِعًا وَأَنَابَ' (eğilerek yere kapanmış ve yönelmiştir). Zıt kutup olan küstahça dikleşme (utuvv/ibâ) tersine çevrildiğinde; rükûnun yalnızca şekilsel 90 derece bükülme değil, hakikat karşısında boyun büküp esneme ve alçalma olduğu doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "Secde",
+      "Kıyâm",
+      "Rükû"
+    ],
+    "mechanical_difference": "Secde: Yere kadar tamamen kapanmak, mutlak teslimiyet | Kıyâm: Dimdik ayakta durmak | Rükû: Tam yere kapanmadan önceki esneme eşiği: Kaskatı dikleşmeyi bırakıp hakkı teslim ederek öne doğru eğilmek, boyun bükmek ve yumuşamak (38:24'te yere doğru eğilmeyi de kapsar)",
+    "term_comparisons": {
+      "Secde": "Yere kadar tamamen kapanmak, mutlak teslimiyet",
+      "Kıyâm": "Dimdik ayakta durmak",
+      "Rükû": "Tam yere kapanmadan önceki esneme eşiği: Kaskatı dikleşmeyi bırakıp hakkı teslim ederek öne doğru eğilmek, boyun bükmek ve yumuşamak (38:24'te yere doğru eğilmeyi de kapsar)"
+    }
+  },
+  "anchor_ayahs": [
+    "77:48 (Dikleşmenin zıddı olarak boyun bükme emri)",
+    "38:24 (Davud'un kibrini kırıp boyun bükerek yönelmesi)"
+  ],
+  "grammar_and_branch_rules": "Yalnızca Form I (raka'a) fiili ve ismi fâil/çoğul türevleriyle (râki', rukka') kullanılır. Tek başına veya 'مع' (birlikte, 2:43) ile kaskatı dikleşmeyi bırakıp tevazu ile boyun bükmeyi ifade eder.",
+  "derivatives": {
+    "ركع (Reka'a)": "Öne doğru eğildi, boyun büktü, esnedi",
+    "راكع / راكعين (Râki' / Râki'în)": "Hakikat karşısında boyun bükenler, eğilip hizaya girenler",
+    "ركع (Rukka')": "Eğilenler (çoğul)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 43,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:43",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱرْكَعُوا۟",
+      "target_word_rasm": "وٱركعوا",
+      "target_word_literal_irab": "Kibir yapmayıp boyun bükün, tevazu ile katılın (Form I emir fiil)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, boyun bükenlerle birlikte boyun büküp esneyin.",
+      "morphology": {
+        "lemma": "yarokaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:yarokaEu|ROOT:rkE|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, boyun bükenlerle birlikte boyun büküp esneyin.",
+      "contextual_meaning": "Kibir yapmayıp ortak iradeye boyun bükerek katıldı, tevazu gösterdi."
+    },
+    {
+      "surah": 2,
+      "ayah": 43,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:43",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلرَّٰكِعِينَ",
+      "target_word_rasm": "ٱلركعين",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, boyun bükenlerle birlikte boyun büküp esneyin.",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, boyun bükenlerle birlikte boyun büküp esneyin.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 2,
+      "ayah": 125,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:125",
+      "word_position": 21,
+      "target_word_uthmani": "وَٱلرُّكَّعِ",
+      "target_word_rasm": "وٱلركع",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "... Evimi ziyaret edenler, kendini kulluk ve yönelişe verenler, tevazu ile öne eğilme ve boyun eğenler için temiz tutun diye İbrahim ve İsmail'e ahd verdik.",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kabeyi, insanlar için toplanma ve güven yeri kılmıştık. İbrahim'in makamını yöneliş ve sorumluluk bağı yeri edinin, dedik. Evimi ziyaret edenler, kendini kulluk ve yönelişe verenler, tevazu ile öne eğilme ve boyun eğenler için temiz tutun diye İbrahim ve İsmail'e ahd verdik.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 3,
+      "ayah": 43,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:43",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱرْكَعِى",
+      "target_word_rasm": "وٱركعى",
+      "target_word_literal_irab": "Kibir yapmayıp boyun bükün, tevazu ile katılın (Form I emir fiil)",
+      "context_snippet_arabic": "ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Meryem! Rabbine gönülden boyun eğ, boyun eğip teslim ol, boyun bükenlerle birlikte tevazu ile öne eğilme et.\"",
+      "morphology": {
+        "lemma": "yarokaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:yarokaEu|ROOT:rkE|2FS"
+      },
+      "ayah_text_arabic_full": "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Meryem! Rabbine gönülden boyun eğ, boyun eğip teslim ol, boyun bükenlerle birlikte tevazu ile öne eğilme et.\"",
+      "contextual_meaning": "Kibir yapmayıp ortak iradeye boyun bükerek katıldı, tevazu gösterdi."
+    },
+    {
+      "surah": 3,
+      "ayah": 43,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:43",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلرَّٰكِعِينَ",
+      "target_word_rasm": "ٱلركعين",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Meryem! Rabbine gönülden boyun eğ, boyun eğip teslim ol, boyun bükenlerle birlikte tevazu ile öne eğilme et.\"",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Meryem! Rabbine gönülden boyun eğ, boyun eğip teslim ol, boyun bükenlerle birlikte tevazu ile öne eğilme et.\"",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 5,
+      "ayah": 55,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:55",
+      "word_position": 13,
+      "target_word_uthmani": "رَٰكِعُونَ",
+      "target_word_rasm": "ركعون",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sizin dostunuz ancak Allah, O'nun elçiyi ve irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve tevazu ile öne eğilme eden güvene erenlerdir.",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin dostunuz ancak Allah, O'nun elçiyi ve irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve tevazu ile öne eğilme eden güvene erenlerdir.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 9,
+      "ayah": 112,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:112",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلرَّٰكِعُونَ",
+      "target_word_rasm": "ٱلركعون",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "ٱلْعَٰبِدُونَ ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلْءَامِرُونَ بِٱلْمَعْرُوفِ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a tevbe eden, kullukta bulunan, O'nu öven, O'nun uğrunda gezen, tevazu ile öne eğilme ve boyun eğme ve teslimiyet eden, uygun olanı buyurup fenalığı yasak eden ve Allah'ın yasalarını koruyan güvene erenlere de müjdele.",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلتَّٰٓئِبُونَ ٱلْعَٰبِدُونَ ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلْءَامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَٰفِظُونَ لِحُدُودِ ٱللَّهِ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a tevbe eden, kullukta bulunan, O'nu öven, O'nun uğrunda gezen, tevazu ile öne eğilme ve boyun eğme ve teslimiyet eden, uygun olanı buyurup fenalığı yasak eden ve Allah'ın yasalarını koruyan güvene erenlere de müjdele.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 22,
+      "ayah": 26,
+      "surah_name": "Hac",
+      "ayah_ref": "22:26",
+      "word_position": 15,
+      "target_word_uthmani": "وَٱلرُّكَّعِ",
+      "target_word_rasm": "وٱلركع",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "context_snippet_turkish_tabula_rasa": "... tavaf edenler, orada kıyama duranlar, boyun bükenler ve boyun eğmeye varanlar için Evimi temiz tut\" diye İbrahim'i Kabe'nin yerine yerleştirmiştik.",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bana hiçbir şeyi ortak koşma; tavaf edenler, orada kıyama duranlar, boyun bükenler ve boyun eğmeye varanlar için Evimi temiz tut\" diye İbrahim'i Kabe'nin yerine yerleştirmiştik.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 22,
+      "ayah": 77,
+      "surah_name": "Hac",
+      "ayah_ref": "22:77",
+      "word_position": 4,
+      "target_word_uthmani": "ٱرْكَعُوا۟",
+      "target_word_rasm": "ٱركعوا",
+      "target_word_literal_irab": "Kibir yapmayıp boyun bükün, tevazu ile katılın (Form I emir fiil)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! boyun büküp esneyin, boyun eğmeye varın, Rabbiniz'e kulluk edin, iyilik yapın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "yarokaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:yarokaEu|ROOT:rkE|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! boyun büküp esneyin, boyun eğmeye varın, Rabbiniz'e kulluk edin, iyilik yapın ki saadete erişesiniz.",
+      "contextual_meaning": "Kibir yapmayıp ortak iradeye boyun bükerek katıldı, tevazu gösterdi."
+    },
+    {
+      "surah": 38,
+      "ayah": 24,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:24",
+      "word_position": 31,
+      "target_word_uthmani": "رَاكِعًا",
+      "target_word_rasm": "راكعا",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "context_snippet_turkish_tabula_rasa": "... Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ",
+      "ayah_text_turkish_tabula_rasa_full": "Davud: \"And olsun ki, senin dişi koyununu kendi dişi koyunlarına katmak istemekle sana haksızlıkta bulunmuştur. Doğrusu ortakçıların çoğu birbirlerinin haklarına tecavüz ederler. güvene erip yararlı iş işleyenler bunun dışındadır ki sayıları da ne kadar azdır!\" demişti. Davud, Kendisini denediğimizi sanmıştı da, Rabbinden mağfiret dileyerek eğilip boyun eğmeye kapanmış, tevbe etmiş, Allah'a yönelmişti.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 48,
+      "ayah": 29,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:29",
+      "word_position": 12,
+      "target_word_uthmani": "رُكَّعًا",
+      "target_word_rasm": "ركعا",
+      "target_word_literal_irab": "Bireysel kibrini kırıp hakikate boyun bükenler, tevazu ile katılanlar (ismi fâil)",
+      "context_snippet_arabic": "رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا",
+      "context_snippet_turkish_tabula_rasa": "... Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. ...",
+      "morphology": {
+        "lemma": "raAkiE",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:raAkiE|ROOT:rkE|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Muhammed Allah'ın elçisidir. Onun beraberinde bulunanlar, gerçeğin üzerini örtenlere karşı sert, birbirlerine merhametlidirler. Onları boyun bükmeye varırken, boyun eğme ve teslimiyet ederken, Allah'tan lütuf ve hoşnudluk dilerken görürsün. Onlar, yüzlerindeki boyun eğme ve teslimiyet izi ile tanınırlar. İşte bu, onların Tevrat'ta anlatılan vasıflarıdır. İncil'de de şöyle vasıflandırılmışlardı: Filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ekincilerin hoşuna giden ekin gibidirler. Allah böylece bunları çoğaltıp kuvvetlendirmekle gerçeğin üzerini örtenleri öfkelendirir. Allah, güvene erip yararlı işler işleyenlere, bağışlama ve büyük ecir vadetmiştir.",
+      "contextual_meaning": "Bireysel kibrini kırıp hakikate boyun eğerek ortak eyleme ve yönelişe katılanlar."
+    },
+    {
+      "surah": 77,
+      "ayah": 48,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:48",
+      "word_position": 4,
+      "target_word_uthmani": "ٱرْكَعُوا۟",
+      "target_word_rasm": "ٱركعوا",
+      "target_word_literal_irab": "Kibir yapmayıp boyun bükün, tevazu ile katılın (Form I emir fiil)",
+      "context_snippet_arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara \"boyun büküp esneyin\" denildiğinde boyun büküp eğilmezler.",
+      "morphology": {
+        "lemma": "yarokaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:yarokaEu|ROOT:rkE|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara \"boyun büküp esneyin\" denildiğinde boyun büküp eğilmezler.",
+      "contextual_meaning": "Çağrıya kibirlenmeksizin boyun büküp eğilme emri (ve buna kibirle direnenlerin zıtlığı)."
+    },
+    {
+      "surah": 77,
+      "ayah": 48,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:48",
+      "word_position": 6,
+      "target_word_uthmani": "يَرْكَعُونَ",
+      "target_word_rasm": "يركعون",
+      "target_word_literal_irab": "Boyun bükerler, tevazu gösterirler (Form I muzâri fiil)",
+      "context_snippet_arabic": "لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlara \"boyun büküp esneyin\" denildiğinde boyun büküp eğilmezler.",
+      "morphology": {
+        "lemma": "yarokaEu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yarokaEu|ROOT:rkE|3MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara \"boyun büküp esneyin\" denildiğinde boyun büküp eğilmezler.",
+      "contextual_meaning": "Çağrıya kibirlenmeksizin boyun büküp eğilme emri (ve buna kibirle direnenlerin zıtlığı)."
+    }
+  ]
+}

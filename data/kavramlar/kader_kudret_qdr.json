@@ -1,0 +1,2739 @@
+{
+  "root": "ق-د-ر",
+  "root_latin": "K-D-R (qdr)",
+  "concept_name": "Kader / Kudret / Miktar (Ölçü Belirleme, Orantılı Planlama, Kapasite ve Güç)",
+  "rank": 82,
+  "total_occurrences": 132,
+  "unique_ayahs_count": 121,
+  "unified_core_mechanism": "Kökün 132 geçişi tek bir bilimsel ve yapısal çekirdek etrafında döner: 'Ölçmek, orantılı sınır koymak, miktar/kapasite belirlemek ve belirlenen ölçüyü uygulamaya güç yetirmek'. Beş kolda çalışır: (1) Kozmik ve biyolojik orantı yasası (`قَدَّرَ` `16 V`, `تَقْدِير` `5 N`, `قَدَر` `11 N`, `مِقْدَار` `3 N`, `مَقْدُور` `1 N`, `قَدِير/قَدْر` `97:1-3`): güneş-ay yörüngesi, yağmur miktarı, insan embriyosu (`77:22-23`, `80:19`), zaman ölçekleri (`32:5`, `70:4`). (2) Somut fizikî kap ve zanaat ölçüsü: büyük kazanlar (`قُدُور` `34:13`) ve zırh halkası ayarı (`34:11`). (3) Rızık ve imkân sınırlaması (`قَدَرَ عَلَى` `11` kez `ب-س-ط` karşıtı: ölçüyü daraltmak). (4) Zihinsel değerlendirme ve kurgu (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ` `3`, `74:18-20`). (5) Ölçüsüne hâkim tam kapasite ve güç (`قَدِير` `45`, `قَادِر` `14`, `مُقْتَدِر` `4`, `قَدَرَ` güç yetirme `11`).",
+  "physical_core": "Ham fiziki çekirdek: İbn Fâris'e göre `مَبْلَغُ ٱلشَّيْءِ وَكُنْهُهُ وَنِهَايَتُهُ` — bir nesnenin kapladığı hacim, ulaştığı son sınır, kesin ölçek, tartı ve kapasite (`وَقَدِّرْ فِى ٱلسَّرْدِ` zırh halkalarını ölçülü örmek `34:11`, `فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا` vadinin taşıma hacmi ölçüsünce sel `13:17`, `قُدُور` sabit büyük hacim kazanları `34:13`). Rızkı sınırlı ölçüde vermek (`يَقْدِرُ` 'daraltmak'), kozmik yörüngeleri hesaplamak (`تَقْدِير`) ve ölçüp gerçekleştirmeye yeten kudret (`قُدْرَة / قَدِير`) bu tek ölçü ekseninden çıkar.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris tek çekirdek verir: `مَبْلَغُ ٱلشَّيْءِ وَكُنْهُهُ وَنِهَايَتُهُ` (bir şeyin tam sınırı, ölçüsü ve kapasitesi). `يَقْدِرُ` fiilinin 'daraltmak' anlamı dahi 'kısıtlı bir ölçü (`قَدَر يسير`) vermek' yasasına bağlıdır.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `قَدَرُ ٱلشَّيْءِ` bir varlığın sınırını, ağırlığını veya boyutunu belirlemek; `قَدْر` ise kıymet, değer ve kapasitedir. `قِدْر` (çoğulu `قُدُور`) içine konulanı tutan pişirme kabıdır.",
+    "lisan_al_arab": "Lisânü'l-Arab: `ٱلْقَدْر` ve `ٱلْقَدَر` ölçü, sınır ve kıymet demektir (`2:236` `عَلَى ٱلْمُوسِعِ قَدَرُهُۥ`: varlıklının malî kapasitesi ölçüsü); `قَدَرْتُ عَلَيْهِ` ona bütünüyle yetebilme ve sınırını yönetme gücüdür.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `ٱلتَّقْدِيرُ: ٱلتَّرْوِيَةُ وَٱلتَّفْكِيرُ فِى تَسْوِيَةِ أَمْرٍ وَتَهْيِئَتِهِ` (bir işi dengeli ve ölçülü biçimde kurgulayıp tasarlamak — `74:18-20`deki zihinsel kurgu dahil). İlahî `تَقْدِير` evrendeki her varlığa şaşmaz ölçü, süre ve kapasite yasaları (`54:49` `خَلَقْنَٰهُ بِقَدَرٍ`) koymaktır; determinist kadercilik değil yasalı ölçüdür.",
+    "arbitration_decision": "Tahkim Kararı: Kökü insan iradesini ezen kör 'alın yazısı/fatalizm' diye çevirmek Tabula Rasa ilkelerine kökten aykırıdır. Tek çekirdek: 'Ölçü, miktar, orantılı planlama, kapasite sınırı ve o ölçüyü kurmaya yeten güç'. I. bab `يَقْدِرُ` (`9` ayette `يَبْسُطُ` zıddı) tam da 'ölçüyü dar tutma/kısma' fiziğiyle çalışır."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*q-d-r ('ölçü kabı, hacim/sınır koymak; koyulaşmak/sınırlandırmak')",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `קָדַר` (*qādar*) ağırlıklı olarak 'kararmak, tozlanıp koyulaşmak/yas tutmak' anlamıyla özelleşmiştir; öte yandan hacim ve kap kökü (`כַּד` *kad* testi/ölçek kabı) ile Arapça `قِدْر / قُدُور` ('kazan/ölçü kabı') etimolojik literatürde birlikte tartışılır.",
+    "aramaic_syriac": "Klasik Aramice/Süryanicede eski tabaka koyuluk/ağırlık eğilimi yanında Neo-Aramice lehçelerde ve Arapça temas katmanında *qdr* ('güç yetirmek, ölçmek') belirgindir.",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece) yazıtlarda `q-d-r` kökünün güç, değer/paye, hüküm ölçüsü ve pay belirleme anlam alanlarıyla Arapça ile paralel kullanım katmanları bulunur.",
+    "akkadian_geez": "Doğu Samicede (Akadca) doğrudan `qadāru` biçimi Arapçadaki 'gücü yetmek / matematiksel ölçülendirmek' anlamında standart fiil olarak yer almaz (Akadcada ölçü için `madādu` vb. kullanılır; `qidru`/`kudūru` türü kap-sınır isimleriyle uzak temas tartışılır).",
+    "phonological_note": "Somut 'ölçek/pişirme kabı' (`قِدْر / قُدُور` `34:13`) ile soyut 'ölçü belirleme (`قَدَر / مِقْدَار`) ve ölçüsüne güç yetirme (`قُدْرَة / قَدِير`)' arasındaki geçiş, Semitik dillerde 'kap -> ölçü birimi -> sınır kontrolü/kudret' zinciriyle açıklanır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ب-س-ط (`يَبْسُطُ ٱلرِّزْقَ ↔ وَيَقْدِرُ` — 13:26, 17:30, 28:82, 29:62, 30:37, 34:36,39, 39:52, 42:12)",
+      "ن-ع-م (`فَأَكْرَمَهُۥ وَنَعَّمَهُۥ ↔ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ` — 89:15-16)",
+      "ع-ج-ز (Aciz Kalma vs Mutlak Ölçü-Kudret `قَدِير` `16:75`, `35:44`)"
+    ],
+    "key_ayahs": [
+      "13:26 & 17:30 & 28:82 & 29:62 & 30:37 & 34:36,39 & 39:52 & 42:12 (يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ — 9 ayette açma `بَسْط` ile kısma `قَدْر` Mesânî çifti)",
+      "89:15-16 (وَنَعَّمَهُۥ ↔ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ — konforu bollaştırma ile rızkı daraltma sınaması)",
+      "6:91 & 22:74 & 39:67 (وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ — hakkıyla kıymet ölçme zıddı küçültme)",
+      "13:8 & 54:49 (وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ / إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ — kaosa karşı ölçülü yasa)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'ق-د-ر belli bir ölçü ve sınır koymak/daraltmak/ölçüyü uygulamaya güç yetirmekse zıddı nedir?' Cevap: `ب-س-ط` (`9` ayette `يَبْسُطُ ٱلرِّزْقَ ↔ وَيَقْدِرُ` — ölçüyü genişçe açıp yaymak), `ن-ع-م` (`89:15-16`) ve `ع-ج-ز` (`35:44` aciz kalmak)tır. Bir tek kökten çıkan hem 'daraltma' hem 'ölçülü yaratma' hem 'kudret' anlamlarının tümü `ب-س-ط` ve `ع-ج-ز` kutuplarıyla çift yönlü doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "مَا قَدَرُوا۟ (`قَدَرَ` Fiil: Değerini Ölçüp Kavrama) vs حَقَّ قَدْرِهِۦ (`قَدْر` İsim: Gerçek Değer/Yücelik Ölçüsü) — 6:91, 22:74, 39:67",
+      "وَقَدَرَ (`2:236`: `عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ` — Kapasite Farklılığı) vs ق-ت-ر (`ٱلْمُقْتِر` Eli Dar)",
+      "قَدَرًا (`قَدَر` Belirlenmiş Düzen) vs مَّقْدُورًا (`مَقْدُور` Ölçüsü Çizilip Kesinleşmiş) — 33:38",
+      "فَقَدَرْنَا (`I. Bab`) vs ٱلْقَٰدِرُونَ (`İsm-i Fâil`) — 77:23 ve قَدَّرَ (`II. Bab`) vs تَقْدِيرًا (`Masdar`) — 25:2, 76:16"
+    ],
+    "mechanical_difference": "1) Kur'an'da aynı ayet içinde I. bab `قَدَرَ` hem 'daraltmak' (`13:26`), hem 'gücü yetmek' (`77:23`), hem de `قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ` kalıbında 'kıymet ve sınırını hakkıyla tanımak' olarak işler. 2) `2:236`da `ٱلْمُوسِع` (imkânı geniş) ile `ٱلْمُقْتِر` (imkânı dar) için aynı `قَدَرُهُۥ` kelimesi iki kez tekrarlanarak sorumluluğun herkesin kendi kapasitesi ölçüsünde olduğu yasalaştırılır. 3) `34:11` (`وَقَدِّرْ فِى ٱلسَّرْدِ`) ile `34:13` (`وَقُدُورٍ رَّاسِيَٰتٍ`) Davud-Süleyman kıssasında art arda zanaat ölçüsü ve dev kazanlar üzerinden kökün somut temelini görünür kılar."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "54:49 & 13:8",
+      "role": "Evrensel Ölçü ve Miktar Yasası (بِقَدَرٍ / بِمِقْدَارٍ)",
+      "literal_meaning": "'Doğrusu Biz her şeyi kesin bir ölçü ve orantıyla (`بِقَدَرٍ`) yarattık' ve 'O'nun katında her şey bir ölçek iledir (`بِمِقْدَارٍ`).'"
+    },
+    {
+      "ref": "13:26 & 17:30 & 42:12",
+      "role": "بَسَطَ ↔ قَدَرَ Mesânî Çapası (يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ)",
+      "literal_meaning": "'Rızkı dilediği kimseye genişçe açar (`يَبْسُطُ`) ve ölçüsünü daraltır/kısar (`وَيَقْدِرُ`).'"
+    },
+    {
+      "ref": "34:11 & 34:13",
+      "role": "Somut Zanaat ve Kazan Çapası (وَقَدِّرْ فِى ٱلسَّرْدِ / وَقُدُورٍ رَّاسِيَٰتٍ)",
+      "literal_meaning": "'Zırh dokumasında halkaların ölçüsünü tam ayarla (`وَقَدِّرْ`)' ve 'yerinden kalkmayan sabit büyük kazanlar (`وَقُدُورٍ`).'"
+    },
+    {
+      "ref": "25:2 & 36:38-39 & 87:3",
+      "role": "Kozmik Orantı ve Yörünge Çapası (فَقَدَّرَهُۥ تَقْدِيرًا / قَدَّرَ فَهَدَىٰ)",
+      "literal_meaning": "'Her şeyi yaratıp ona kusursuz ölçü ve orantı (`فَقَدَّرَهُۥ تَقْدِيرًا`) verdi', 'Güneş'in akışı... ölçülendirmedir (`تَقْدِيرُ`)' ve 'her varlığı ölçülendirip yön gösteren (`قَدَّرَ فَهَدَىٰ`).'"
+    },
+    {
+      "ref": "6:91 & 22:74 & 39:67",
+      "role": "Kıymet ve Ölçü Takdiri Çapası (وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ)",
+      "literal_meaning": "'Allah'ın değerini ve yüceliğini gerçek ölçüsüyle (`حَقَّ قَدْرِهِۦ`) takdir edip kavrayamadılar.'"
+    },
+    {
+      "ref": "74:18-20",
+      "role": "Bilişsel Kurgu Çapası (إِنَّهُۥ فَكَّرَ وَقَدَّرَ)",
+      "literal_meaning": "'Çünkü o düşündü ve zihninde ölçüp biçti (`وَقَدَّرَ`); kahrolası ne biçim ölçüp biçti (`قَدَّرَ`)!'"
+    },
+    {
+      "ref": "32:5 & 70:4",
+      "role": "Zaman Göreceliği Ölçeği (مِقْدَارُهُۥ أَلْفَ / خَمْسِينَ أَلْفَ سَنَةٍ)",
+      "literal_meaning": "'Ölçüsü (`مِقْدَارُهُۥ`) sizin saymakta olduğunuzdan bin yıl / elli bin yıl olan bir gün.'"
+    },
+    {
+      "ref": "97:1-3 & 2:236",
+      "role": "Değer Gecesi ve İmkân Adaleti Çapası (لَيْلَةِ ٱلْقَدْرِ / عَلَى ٱلْمُوسِعِ قَدَرُهُۥ)",
+      "literal_meaning": "'Biz onu Ölçü ve Kıymet gecesinde (`لَيْلَةِ ٱلْقَدْرِ`) indirdik' ve 'imkânı genişe kendi kapasitesi ölçüsünce (`قَدَرُهُۥ`), darda olana da kendi kapasitesi ölçüsünce...'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Hareke değişimi ince anlam doğurur: fethalı `قَدَر` (`11 N`: somut miktar, oran, kapasite `2:236` x2, `13:17`, `54:49`), cezimli `قَدْر` (`7 N`: değer/kıymet ve ölçü gecesi `6:91`, `22:74`, `39:67`, `65:3`, `97:1-3`), ötreli kırık çoğul `قُدُور` (`1 N` `34:13`: tekili `قِدْر`, pişirme kazanları). 2) I. bab `قَدَرَ` (`25 V`) üç bağlamı ayırır: mef'ûlsüz veya `عَلَى` ile 'rızkı kısmak' (`11` yer), 'hakkıyla kıymet bilmek' (`3` yer), `عَلَى` / mastarla 'gücü yetmek' (`11` yer; `54:12` ve `65:7`de meçhul `قُدِرَ`). 3) II. bab `قَدَّرَ` (`16 V`, masdarı `تَقْدِير` `5`) daima tef'îl ölçülendirmesidir; aynı ayette mastar pekiştirmesi `25:2` ve `76:16`da görülür. 4) VIII. bab ism-i fâil `مُقْتَدِر` (`4 N` `18:45`, `43:42`, `54:42,55`) `قَادِر` ve `قَدِير` ile birlikte güç-kapasitenin süreklilik ve tam hâkimiyet katmanını tamamlar. 5) `قَدِير` (`45` kez) yalnız `4:149`da `ADJ` ve `30:54`te marife (`ٱلْقَدِيرُ`) gelir; kalan `43` geçişi nekre isimdir. 6) Rasm-ı Osmânî'de `42` ayrı imlâ iskeleti görülür (`قَٰدِرُون` / `قَٰدِرِينَ` hançer elifle elifsiz, `لَقَادِرٌ` `86:8` ve `ٱلْقَادِرُ` `6:65` ise elifli yazılır!).",
+  "derivatives": {
+    "قَدِير (`45`: `44 N` + `1 ADJ` `4:149`) & قَادِر (`14 N`) & مُقْتَدِر (`4 N`, VIII. bab)": "Her şeye karşı kusursuz ölçüye, kapasiteye ve uygulama gücüne sahip olan (`2:20`, `4:149`, `30:54`, `54:55`, `75:40`)",
+    "قَدَرَ (`25 V`, I. bab: `23` malûm + `2` meçhul) & مَقْدُور (`1 N` `33:38`)": "Ölçüyü/rızkı daraltmak (`بَسَطَ` zıddı `13:26`, `89:16`), kıymet takdir etmek (`6:91`, `39:67`) ve güç yetirmek (`5:34`, `77:23`)",
+    "قَدَّرَ (`16 V`, II. bab) & تَقْدِير (`5 N`, II. bab masdar)": "Kozmik yörünge, rızık, zaman ve zanaatı (`34:11`) hassas hesapla ölçülendirmek ve zihinde kurgulamak (`25:2`, `36:38-39`, `74:18-20`, `87:3`)",
+    "قَدَر (`11 N`, fethalı dâl) & قَدْر (`7 N`, cezimli dâl) & مِقْدَار (`3 N`, ölçü ölçeği) & قُدُور (`1 N`, `34:13`)": "Kapasite ve hassas oran (`2:236`, `54:49`), değer/kıymet ve Kadir gecesi (`39:67`, `97:1-3`), zaman ölçeği (`13:8`, `70:4`) ve sabit büyük kazanlar (`34:13`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 20,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:20",
+      "word_position": 25,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Şimşeğin çakması neredeyse gözlerini alır; onları aydınlattıkça ışığında yürürler ve üzerlerine karanlık basınca durakalırlar. Allah dileseydi işitme ve görmele...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَٰرَهُمْ كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَٰرِهِمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şimşeğin çakması neredeyse gözlerini alır; onları aydınlattıkça ışığında yürürler ve üzerlerine karanlık basınca durakalırlar. Allah dileseydi işitme ve görmelerini giderirdi. Doğrusu Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 2,
+      "ayah": 106,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:106",
+      "word_position": 19,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Herhangi bir ayetin hükmünü yürürlükten kaldırır veya unutturursak, onun yerine daha hayırlısını veya onun benzerini getiririz. Allah'ın her şeye kadir olduğunu...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ أَوْ مِثْلِهَآ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Herhangi bir ayetin hükmünü yürürlükten kaldırır veya unutturursak, onun yerine daha hayırlısını veya onun benzerini getiririz. Allah'ın her şeye kadir olduğunu bilmez misin?",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 2,
+      "ayah": 109,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:109",
+      "word_position": 33,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehlinin çoğu, hak kendilerine apaçık belli olduktan sonra, içlerindeki çekememezlikten ötürü, sizi, güven duy sonra küfre döndürmeyi isterler. Allah'ın em...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَدَّ كَثِيرٌ مِّنْ أَهْلِ ٱلْكِتَٰبِ لَوْ يَرُدُّونَكُم مِّنۢ بَعْدِ إِيمَٰنِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْحَقُّ فَٱعْفُوا۟ وَٱصْفَحُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦٓ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin çoğu, hak kendilerine apaçık belli olduktan sonra, içlerindeki çekememezlikten ötürü, sizi, güven duy sonra küfre döndürmeyi isterler. Allah'ın emri gelene kadar onları affedin, geçin. Allah muhakkak her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 2,
+      "ayah": 148,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:148",
+      "word_position": 19,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Herkesin yöneldiği bir yön vardır. Hayırlı işlerde birbirinizle yarışın. Nerede olursanız olun Allah sizi bir araya toplar, Allah şüphesiz her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ أَيْنَ مَا تَكُونُوا۟ يَأْتِ بِكُمُ ٱللَّهُ جَمِيعًا إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Herkesin yöneldiği bir yön vardır. Hayırlı işlerde birbirinizle yarışın. Nerede olursanız olun Allah sizi bir araya toplar, Allah şüphesiz her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 2,
+      "ayah": 236,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:236",
+      "word_position": 17,
+      "target_word_uthmani": "قَدَرُهُۥ",
+      "target_word_rasm": "قدره",
+      "target_word_literal_irab": "Mâlî imkânı, gücü ve kapasitesi ölçüsü (`قَدَرُهُۥ`, fethalı dâl `قَدَر` merfû)",
+      "context_snippet_arabic": "وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Kadınlara el sürmeden ve mehirlerini biçmeden onları boşarsanız size sorumluluk yoktur. Onları zengin kendi çapına, fakir kendi çapına uygun bir şekilde faydala...",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَٰعًۢا بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlara el sürmeden ve mehirlerini biçmeden onları boşarsanız size sorumluluk yoktur. Onları zengin kendi çapına, fakir kendi çapına uygun bir şekilde faydalandırın. Bu iyi davrananların şanına yakışır bir borçtur.",
+      "contextual_meaning": "Hukukî-ekonomik eşitlik değil orantılı hakkaniyet ilkesi (`عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ` `2:236`): Herkesin kendi mâlî kapasitesi ölçüsünde sorumluluğu."
+    },
+    {
+      "surah": 2,
+      "ayah": 236,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:236",
+      "word_position": 20,
+      "target_word_uthmani": "قَدَرُهُۥ",
+      "target_word_rasm": "قدره",
+      "target_word_literal_irab": "Mâlî imkânı, gücü ve kapasitesi ölçüsü (`قَدَرُهُۥ`, fethalı dâl `قَدَر` merfû)",
+      "context_snippet_arabic": "قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَٰعًۢا بِٱلْمَعْرُوفِ حَقًّا",
+      "context_snippet_turkish_tabula_rasa": "Kadınlara el sürmeden ve mehirlerini biçmeden onları boşarsanız size sorumluluk yoktur. Onları zengin kendi çapına, fakir kendi çapına uygun bir şekilde faydala...",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَٰعًۢا بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlara el sürmeden ve mehirlerini biçmeden onları boşarsanız size sorumluluk yoktur. Onları zengin kendi çapına, fakir kendi çapına uygun bir şekilde faydalandırın. Bu iyi davrananların şanına yakışır bir borçtur.",
+      "contextual_meaning": "Hukukî-ekonomik eşitlik değil orantılı hakkaniyet ilkesi (`عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ` `2:236`): Herkesin kendi mâlî kapasitesi ölçüsünde sorumluluğu."
+    },
+    {
+      "surah": 2,
+      "ayah": 259,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:259",
+      "word_position": 67,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? \"Allah burayı ölümünden sonra acaba nasıl diriltecek?\" dedi. Bunun üzerine Allah onu yüz yıl ...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut altı üstüne gelmiş bir kasabaya uğrayan kimseyi görmedin mi? \"Allah burayı ölümünden sonra acaba nasıl diriltecek?\" dedi. Bunun üzerine Allah onu yüz yıl ölü bıraktı, sonra diriltti, \"Ne kadar kaldın?\" dedi, \"Bir gün veya bir günden az kaldım\" dedi, \"Hayır yüz yıl kaldın, yiyeceğine içeceğine bak, bozulmamış; eşeğine bak ve hem seni insanlar için bir ibret kılacağız, kemiklere bak, onları nasıl birleştirip, sonra onlara et giydiriyoruz\" dedi; bu ona apaçık belli olunca, \"Artık Allah'ın her şeye Kadir olduğuna güvene ermiş bulunuyorum\" dedi.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 2,
+      "ayah": 264,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:264",
+      "word_position": 29,
+      "target_word_uthmani": "يَقْدِرُونَ",
+      "target_word_rasm": "يقدرون",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "فَتَرَكَهُۥ صَلْدًا لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا",
+      "context_snippet_turkish_tabula_rasa": "... Onun durumu, üzerinde toprak bulunan kayanın durumu gibidir, üzerine bol yağmur yağdığındaonu cascavlak bırakır. Kazandıklarından hiçbir şey elde edemezler. Allah gerçeğin üzerini örten kimseleri doğru yola eriştirmez.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا كَسَبُوا۟ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'a ve ahiret gününe güven duy, insanlara gösteriş için malını dolaşıma sokup paylaştıran kimse gibi, sadakalarınızı başa kakma ve eza etmekle boşa çıkarmayın. Onun durumu, üzerinde toprak bulunan kayanın durumu gibidir, üzerine bol yağmur yağdığındaonu cascavlak bırakır. Kazandıklarından hiçbir şey elde edemezler. Allah gerçeğin üzerini örten kimseleri doğru yola eriştirmez.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 284,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:284",
+      "word_position": 28,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olanlar Allah'ındır. İçinizdekini açıklasanız da gizleseniz de Allah sizi onunla hesaba çeker ve dilediğini bağışlar, dilediğine azabeder. All...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olanlar Allah'ındır. İçinizdekini açıklasanız da gizleseniz de Allah sizi onunla hesaba çeker ve dilediğini bağışlar, dilediğine azabeder. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 3,
+      "ayah": 26,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:26",
+      "word_position": 25,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Mülkün sahibi olan Allah'ım! Mülkü dilediğine verirsin; dilediğinden çekip alırsın; dilediğini aziz kılar, dilediğini alçaltırsın; iyilik elindedir. Doğ...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Mülkün sahibi olan Allah'ım! Mülkü dilediğine verirsin; dilediğinden çekip alırsın; dilediğini aziz kılar, dilediğini alçaltırsın; iyilik elindedir. Doğrusu Sen, her şeye Kadir'sin.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 3,
+      "ayah": 29,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:29",
+      "word_position": 22,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"İçinizde olanı gizleseniz de açıklasanız da Allah onu bilir. Göklerde olanları da, yerde olanları da bilir. Allah her şeye Kadir'dir\".",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İçinizde olanı gizleseniz de açıklasanız da Allah onu bilir. Göklerde olanları da, yerde olanları da bilir. Allah her şeye Kadir'dir\".",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 3,
+      "ayah": 165,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:165",
+      "word_position": 20,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Başkalarını iki misline uğrattığınız bir musibete kendiniz uğrayınca mı: \"Bu nereden?\" dersiniz? De ki: \"O, kendi tarafınızdandır\". Doğrusu Allah her şeye Kadir...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا قُلْ هُوَ مِنْ عِندِ أَنفُسِكُمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Başkalarını iki misline uğrattığınız bir musibete kendiniz uğrayınca mı: \"Bu nereden?\" dersiniz? De ki: \"O, kendi tarafınızdandır\". Doğrusu Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 3,
+      "ayah": 189,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:189",
+      "word_position": 9,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığı Allah'ındır. Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığı Allah'ındır. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 4,
+      "ayah": 133,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:133",
+      "word_position": 12,
+      "target_word_uthmani": "قَدِيرًا",
+      "target_word_rasm": "قديرا",
+      "target_word_literal_irab": "Her şeye gücü ve kapasitesi eksiksiz yeten (`قَدِيرًا`, `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Ey İnsanlar! Allah dilerse sizi yok eder, başkalarını getirir, O, buna Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا ٱلنَّاسُ وَيَأْتِ بِـَٔاخَرِينَ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Allah dilerse sizi yok eder, başkalarını getirir, O, buna Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 4,
+      "ayah": 149,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:149",
+      "word_position": 14,
+      "target_word_uthmani": "قَدِيرًا",
+      "target_word_rasm": "قديرا",
+      "target_word_literal_irab": "Her şeye gücü ve kapasitesi eksiksiz yeten (`قَدِيرًا`, `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Bir iyiliği açığa vurur veya gizler yahut bir kötülüğü affederseniz, bilin ki Allah da Affeden'dir, Güçlü Olan'dır.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:qadiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِن تُبْدُوا۟ خَيْرًا أَوْ تُخْفُوهُ أَوْ تَعْفُوا۟ عَن سُوٓءٍ فَإِنَّ ٱللَّهَ كَانَ عَفُوًّا قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir iyiliği açığa vurur veya gizler yahut bir kötülüğü affederseniz, bilin ki Allah da Affeden'dir, Güçlü Olan'dır.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 5,
+      "ayah": 17,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:17",
+      "word_position": 42,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah ancak Meryem oğlu Mesih'tir\" diyenler and olsun ki gerçeğin üzerini örten olmuşlardır. De ki: \"Allah Meryem oğlu Mesih'i, anasını ve yeryüzünde olanların...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا يَخْلُقُ مَا يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah ancak Meryem oğlu Mesih'tir\" diyenler and olsun ki gerçeğin üzerini örten olmuşlardır. De ki: \"Allah Meryem oğlu Mesih'i, anasını ve yeryüzünde olanların hepsini yok etmeyi dilerse kim O'na karşı koyabilir?\" Göklerin, yerin ve arasındakilerin hükümranlığı Allah'ındır, dilediğini yaratır. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 5,
+      "ayah": 19,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:19",
+      "word_position": 28,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey Kitap ehli! elçilerin arası kesildiğinde, \"Bize müjdeci ve uyarıcı gelmedi\" dersiniz diye, size açıkça anlatacak elçimiz geldi. Şüphesiz O, size müjdeci ve u...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَهْلَ ٱلْكِتَٰبِ قَدْ جَآءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِّنَ ٱلرُّسُلِ أَن تَقُولُوا۟ مَا جَآءَنَا مِنۢ بَشِيرٍ وَلَا نَذِيرٍ فَقَدْ جَآءَكُم بَشِيرٌ وَنَذِيرٌ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Kitap ehli! elçilerin arası kesildiğinde, \"Bize müjdeci ve uyarıcı gelmedi\" dersiniz diye, size açıkça anlatacak elçimiz geldi. Şüphesiz O, size müjdeci ve uyarıcı olarak gelmiştir. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 5,
+      "ayah": 34,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:34",
+      "word_position": 7,
+      "target_word_uthmani": "تَقْدِرُوا۟",
+      "target_word_rasm": "تقدروا",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ فَٱعْلَمُوٓا۟ أَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ancak, onları yakalamanızdan önce tevbe edenler bunun dışındadır. Biliniz ki Allah, bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak, onları yakalamanızdan önce tevbe edenler bunun dışındadır. Biliniz ki Allah, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 40,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:40",
+      "word_position": 19,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığının Allah'ın olduğunu bilmiyor musun? Dilediğine azabeder, dilediğini bağışlar. Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُعَذِّبُ مَن يَشَآءُ وَيَغْفِرُ لِمَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığının Allah'ın olduğunu bilmiyor musun? Dilediğine azabeder, dilediğini bağışlar. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 5,
+      "ayah": 120,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:120",
+      "word_position": 11,
+      "target_word_uthmani": "قَدِيرٌۢ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin, yerin ve onlarda bulunanların hükümranlığı Allah'ındır, Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا فِيهِنَّ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin, yerin ve onlarda bulunanların hükümranlığı Allah'ındır, Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 6,
+      "ayah": 17,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:17",
+      "word_position": 17,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah sana bir sıkıntı verirse, O'ndan başkası gideremez. Sana bir iyilik verirse başkası onu engelleyemez. O, her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ وَإِن يَمْسَسْكَ بِخَيْرٍ فَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sana bir sıkıntı verirse, O'ndan başkası gideremez. Sana bir iyilik verirse başkası onu engelleyemez. O, her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 6,
+      "ayah": 37,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:37",
+      "word_position": 11,
+      "target_word_uthmani": "قَادِرٌ",
+      "target_word_rasm": "قادر",
+      "target_word_literal_irab": "Ölçüsüyle yaratıp yeniden diriltmeye tamamen gücü yeten (`قَادِرٌ / بِقَٰدِرٍ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbinden ona (Muhammed'e) bir belge indirilseydi ya\" dediler. De ki: \"Doğrusu Allah bir belge indirmeye Kadir'dir, fakat çoğu bilmezler.\"",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْلَا نُزِّلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦ قُلْ إِنَّ ٱللَّهَ قَادِرٌ عَلَىٰٓ أَن يُنَزِّلَ ءَايَةً وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbinden ona (Muhammed'e) bir belge indirilseydi ya\" dediler. De ki: \"Doğrusu Allah bir belge indirmeye Kadir'dir, fakat çoğu bilmezler.\"",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 65,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:65",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقَادِرُ",
+      "target_word_rasm": "ٱلقادر",
+      "target_word_literal_irab": "Üstten, alttan ve toplum içinden sarsıntı indirmeye gücü yeten (`ٱلْقَادِرُ`, I. bab marife ism-i fâil merfû)",
+      "context_snippet_arabic": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Üstünüzden ve altınızdan size azab göndermeğe, sizi fırka fırka yapıp kiminize kiminizin hıncını tattırmağa Kadir olan O'dur.\" Anlasınlar diye ayetleri ...",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْءَايَٰتِ لَعَلَّهُمْ يَفْقَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Üstünüzden ve altınızdan size azab göndermeğe, sizi fırka fırka yapıp kiminize kiminizin hıncını tattırmağa Kadir olan O'dur.\" Anlasınlar diye ayetleri nasıl yerli yerince açıkladığımıza bak.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 91,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:91",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَرُوا۟",
+      "target_word_rasm": "قدروا",
+      "target_word_literal_irab": "Kıymetini, ölçüsünü ve yüceliğini hakkıyla takdir ettiler (`قَدَرُوا۟`, I. bab mâzî `3MP`)",
+      "context_snippet_arabic": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah hiçbir insana bir şey indirmemiştir\" demekle Allah'ı gereği gibi değerlendiremediler. De ki: ...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qadara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ قُلِ ٱللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah hiçbir insana bir şey indirmemiştir\" demekle Allah'ı gereği gibi değerlendiremediler. De ki: \"Musa'nın insanlara nur ve yol gösterici olarak getirdiği Kitap'ı kim indirdi? Ki siz onu kağıtlara yazıp bir kısmını gösterip çoğunu gizlersiniz, atalarınızın ve sizin bilmediğiniz size onunla öğretilmiştir.\" \"Allah\" de, sonra da onları daldıkları sapıklıkta bırak, oynasınlar.",
+      "contextual_meaning": "Allah'ın evrensel büyüklüğünü hakkıyla ölçüp kavrayamama eleştirisi (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 91,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:91",
+      "word_position": 5,
+      "target_word_uthmani": "قَدْرِهِۦٓ",
+      "target_word_rasm": "قدره",
+      "target_word_literal_irab": "Gerçek değeri, kıymeti ve kudret ölçüsü (`قَدْرِهِۦ`, cezimli dâl `قَدْر` mecrûr)",
+      "context_snippet_arabic": "قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah hiçbir insana bir şey indirmemiştir\" demekle Allah'ı gereği gibi değerlendiremediler. De ki: ...",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ قُلِ ٱللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah hiçbir insana bir şey indirmemiştir\" demekle Allah'ı gereği gibi değerlendiremediler. De ki: \"Musa'nın insanlara nur ve yol gösterici olarak getirdiği Kitap'ı kim indirdi? Ki siz onu kağıtlara yazıp bir kısmını gösterip çoğunu gizlersiniz, atalarınızın ve sizin bilmediğiniz size onunla öğretilmiştir.\" \"Allah\" de, sonra da onları daldıkları sapıklıkta bırak, oynasınlar.",
+      "contextual_meaning": "Aynı ayette fiil + isim uyarısı (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ`): Tek Yaratıcı'yı dar insanî/putperest kalıplara sığdırıp değerini küçültme yanılgısı."
+    },
+    {
+      "surah": 6,
+      "ayah": 96,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:96",
+      "word_position": 10,
+      "target_word_uthmani": "تَقْدِيرُ",
+      "target_word_rasm": "تقدير",
+      "target_word_literal_irab": "İnce hesaplı kozmik ölçülendirme ve düzenlemesi (`تَقْدِيرُ`, II. bab masdar merfû)",
+      "context_snippet_arabic": "وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Tanyerini ağartan, geceyi dinlenme zamanı, güneş ve ayı vakit ölçüsü kılandır. Bu, Güçlü olan'ın, Bilen'in nizamıdır.",
+      "morphology": {
+        "lemma": "taqodiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taqodiyr|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Tanyerini ağartan, geceyi dinlenme zamanı, güneş ve ayı vakit ölçüsü kılandır. Bu, Güçlü olan'ın, Bilen'in nizamıdır.",
+      "contextual_meaning": "Güneş, ay, yedi gök ve evrenin hassas matematiksel hesapla işleyişi (`تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ` `6:96`, `36:38`, `41:12`, `25:2`, `76:16`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 41,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:41",
+      "word_position": 33,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah'a ve hakkı batıldan ayıran o günde, iki topluluğun karşılaştığı günde kulumuza indirdiğimize güven duy, bilin ki, ele geçirdiğiniz ganimetin beşte bi...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah'a ve hakkı batıldan ayıran o günde, iki topluluğun karşılaştığı günde kulumuza indirdiğimize güven duy, bilin ki, ele geçirdiğiniz ganimetin beşte biri Allah'ın, elçi'in ve yakınlarının, yetimlerin, düşkünlerin ve yolcularındır. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 9,
+      "ayah": 39,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:39",
+      "word_position": 16,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Çıkmazsanız Allah size can yakıcı azabla azabeder ve yerinize başka bir millet getirir. O'na bir şey de yapamazsınız. Allah her şeye kadirdir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًٔا وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Çıkmazsanız Allah size can yakıcı azabla azabeder ve yerinize başka bir millet getirir. O'na bir şey de yapamazsınız. Allah her şeye kadirdir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 10,
+      "ayah": 5,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:5",
+      "word_position": 8,
+      "target_word_uthmani": "وَقَدَّرَهُۥ",
+      "target_word_rasm": "وقدره",
+      "target_word_literal_irab": "Ölçülü biçti, yörünge/kapsam ve orantı belirledi (`قَدَّرَ`, II. bab mâzî `3MS`)",
+      "context_snippet_arabic": "ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ",
+      "context_snippet_turkish_tabula_rasa": "Güneşi ışıklı ve ayı nurlu yapan; yılların sayısını ve hesabı bilmeniz için, aya konak yerleri düzenleyen O'dur. Allah bunları ancak gerçeğe göre yaratmıştır; b...",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Güneşi ışıklı ve ayı nurlu yapan; yılların sayısını ve hesabı bilmeniz için, aya konak yerleri düzenleyen O'dur. Allah bunları ancak gerçeğe göre yaratmıştır; bilen millete ayetleri uzun uzadıya açıklıyor.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 24,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:24",
+      "word_position": 26,
+      "target_word_uthmani": "قَٰدِرُونَ",
+      "target_word_rasm": "قدرون",
+      "target_word_literal_irab": "Yeniden var etmeye ve hesabı gerçekleştirmeye kesin gücü yetenler (`قَٰدِرُونَ / لَقَٰدِرُونَ`, I. bab ism-i fâil merfû)",
+      "context_snippet_arabic": "وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا",
+      "context_snippet_turkish_tabula_rasa": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve ye...",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve yerin sahiplerinin bütün bunlara malik olduklarını sandıkları sırada, gece veya gündüz buyruğumuz o yere gelmiş ve orayı hiçbir şey bitirmemişe çevirmişiz; bir gün önce birşey yokmuş gibi olmuştur. Düşünen millet için ayetleri böylece uzun açıklıyoruz.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 4,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:4",
+      "word_position": 8,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Dönüşünüz ancak Allah'adır. O her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَى ٱللَّهِ مَرْجِعُكُمْ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Dönüşünüz ancak Allah'adır. O her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 13,
+      "ayah": 8,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:8",
+      "word_position": 15,
+      "target_word_uthmani": "بِمِقْدَارٍ",
+      "target_word_rasm": "بمقدار",
+      "target_word_literal_irab": "Kesin bir ölçek ve belirlenmiş ölçü ile (`بِمِقْدَارٍ`, `مِفْعَال` ölçü ismi mecrûr)",
+      "context_snippet_arabic": "وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ",
+      "context_snippet_turkish_tabula_rasa": "Allah her dişinin rahminde taşıdığını, rahimlerin düşürdüğünü ve alıkoyduğunu bilir. O'nun katında her şey bir ölçüye göredir.",
+      "morphology": {
+        "lemma": "miqodaAr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miqodaAr|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلْأَرْحَامُ وَمَا تَزْدَادُ وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah her dişinin rahminde taşıdığını, rahimlerin düşürdüğünü ve alıkoyduğunu bilir. O'nun katında her şey bir ölçüye göredir.",
+      "contextual_meaning": "Evrendeki her varlık ve olayın şaşmaz matematiksel ölçekle bulunması (`وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ` `13:8`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 17,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:17",
+      "word_position": 7,
+      "target_word_uthmani": "بِقَدَرِهَا",
+      "target_word_rasm": "بقدرها",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا",
+      "context_snippet_turkish_tabula_rasa": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de bu...",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah gökten su indirir, dereler onunla dolar taşar. Sel, üste çıkan köpüğü alır götürür. Süslenmek veya faydalanmak için ateşte erittiklerinizin üzerinde de buna benzer bir köpük vardır. Allah, hak ve batıl için şöyle misal verir: Köpük uçup gider, insanlara fayda veren ise yerde kalır. Allah bunun gibi daha nice misaller verir.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 13,
+      "ayah": 26,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:26",
+      "word_position": 6,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Allah dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. Dünya hayatıyla övünenler bilsinler ki dünyadaki hayat ahiret yanında sadece bir geçimlikten ibarettir.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا مَتَٰعٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. Dünya hayatıyla övünenler bilsinler ki dünyadaki hayat ahiret yanında sadece bir geçimlikten ibarettir.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 14,
+      "ayah": 18,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:18",
+      "word_position": 14,
+      "target_word_uthmani": "يَقْدِرُونَ",
+      "target_word_rasm": "يقدرون",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "يَوْمٍ عَاصِفٍ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Rablerini gerçeğin üzerini örtenlerin işleri, fırtınalı bir günde, rüzgarın şiddetle savurduğu küle benzer; yaptıklarından hiçbir şey elde edemezler. İşte bu uz...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ أَعْمَٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerini gerçeğin üzerini örtenlerin işleri, fırtınalı bir günde, rüzgarın şiddetle savurduğu küle benzer; yaptıklarından hiçbir şey elde edemezler. İşte bu uzak sapıklıktır.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 21,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:21",
+      "word_position": 10,
+      "target_word_uthmani": "بِقَدَرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ",
+      "context_snippet_turkish_tabula_rasa": "Hazinesi Bizim katımızda olmayan hiçbir şey yoktur. Biz onu ancak belli bir ölçüye göre indiririz.",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Hazinesi Bizim katımızda olmayan hiçbir şey yoktur. Biz onu ancak belli bir ölçüye göre indiririz.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 60,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:60",
+      "word_position": 3,
+      "target_word_uthmani": "قَدَّرْنَآ",
+      "target_word_rasm": "قدرنا",
+      "target_word_literal_irab": "Ölçüsünü, menzilini veya akıbetini hesaplayıp belirledik (`قَدَّرْنَا`, II. bab mâzî `1P`)",
+      "context_snippet_arabic": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Şöyle cevap vermişlerdi: \"Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanl...",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|1P"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle cevap vermişlerdi: \"Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk.\"",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 70,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:70",
+      "word_position": 20,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ عَلِيمٌ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah sizi yaratmıştır, sonra öldürecektir, içinizden bir kısmı da ömrünün en fena zamanına ulaştırılır ki, bilirken bilmez olurlar. Doğrusu Allah bilendir, her...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍ شَيْـًٔا إِنَّ ٱللَّهَ عَلِيمٌ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sizi yaratmıştır, sonra öldürecektir, içinizden bir kısmı da ömrünün en fena zamanına ulaştırılır ki, bilirken bilmez olurlar. Doğrusu Allah bilendir, her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 16,
+      "ayah": 75,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:75",
+      "word_position": 7,
+      "target_word_uthmani": "يَقْدِرُ",
+      "target_word_rasm": "يقدر",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن",
+      "context_snippet_turkish_tabula_rasa": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا هَلْ يَسْتَوُۥنَ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel nimetlerden gizlice ve açıkça dolaşıma sokup paylaştıran kimseyi misal gösterir: Hiç bunlar eşit olur mu? Övülmeğe layık olan Allah'tır, fakat çoğu bilmezler.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 76,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:76",
+      "word_position": 8,
+      "target_word_uthmani": "يَقْدِرُ",
+      "target_word_rasm": "يقدر",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ",
+      "context_snippet_turkish_tabula_rasa": "... Biri hiçbir şeye gücü yetmeyen bir dilsiz ki efendisine yüktür, nereye gönderse bir hayır çıkmaz; bu, doğru yolda olan, adaletle emreden kimse ile bir olabilir mi?",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah iki adamı misal veriyor: Biri hiçbir şeye gücü yetmeyen bir dilsiz ki efendisine yüktür, nereye gönderse bir hayır çıkmaz; bu, doğru yolda olan, adaletle emreden kimse ile bir olabilir mi?",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 77,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:77",
+      "word_position": 19,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin gaybı Allah'a aittir, kıyamet saatinin kopuşu bir göz kırpması kadar veya daha çabuk bir zaman içinde olur. Şüphesiz Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلِلَّهِ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلَّا كَلَمْحِ ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin gaybı Allah'a aittir, kıyamet saatinin kopuşu bir göz kırpması kadar veya daha çabuk bir zaman içinde olur. Şüphesiz Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 17,
+      "ayah": 30,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:30",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ كَانَ بِعِبَادِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu senin Rabbin dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. O kullarını gören ve haberdar olandır.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu senin Rabbin dilediği kimsenin rızkını genişletir ve bir ölçüye göre verir. O kullarını gören ve haberdar olandır.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 17,
+      "ayah": 99,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:99",
+      "word_position": 9,
+      "target_word_uthmani": "قَادِرٌ",
+      "target_word_rasm": "قادر",
+      "target_word_literal_irab": "Ölçüsüyle yaratıp yeniden diriltmeye tamamen gücü yeten (`قَادِرٌ / بِقَٰدِرٍ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri yaratan Allah'ın, onların benzerlerini de tekrar yaratmaya Kadir olduğunu görmezler mi? Onlar için şüphe götürmeyen bir süre tayin etmiştir. Öyl...",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّٰلِمُونَ إِلَّا كُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri yaratan Allah'ın, onların benzerlerini de tekrar yaratmaya Kadir olduğunu görmezler mi? Onlar için şüphe götürmeyen bir süre tayin etmiştir. Öyleyken, zalimler, gerçeğin üzerini örtmede hala direnirler.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 45,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:45",
+      "word_position": 23,
+      "target_word_uthmani": "مُّقْتَدِرًا",
+      "target_word_rasm": "مقتدرا",
+      "target_word_literal_irab": "Her şey üzerinde mutlak kudret ve tasarruf sahibi (`مُّقْتَدِرًا`, VIII. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ مُّقْتَدِرًا",
+      "context_snippet_turkish_tabula_rasa": "Onlara, dünya hayatı misalinin tıpkı şöyle olduğunu anlat: Gökten indirdiğimiz su ile yeryüzünde yetişen bitkiler birbirine karışır, ama sonunda rüzgarın savura...",
+      "morphology": {
+        "lemma": "m~uqotadir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:m~uqotadir|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ مُّقْتَدِرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara, dünya hayatı misalinin tıpkı şöyle olduğunu anlat: Gökten indirdiğimiz su ile yeryüzünde yetişen bitkiler birbirine karışır, ama sonunda rüzgarın savuracağı çerçöpe döner. Allah her şeyin üstünde bir kudrete sahip olandır.",
+      "contextual_meaning": "Yaratılış döngüsünün ve tarihî hesaplaşmanın tam hâkimi (`مُّقْتَدِر` `18:45`, `43:42`, `54:42,55`): Büyüklük tasarrufunu elinde tutan otorite."
+    },
+    {
+      "surah": 20,
+      "ayah": 40,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:40",
+      "word_position": 33,
+      "target_word_uthmani": "قَدَرٍ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kızkardeşin Firavun'un sarayına giderek: \"Ona bakacak birini size göstereyim mi?\" diyordu. Böylece, annen üzülmesin, sevinsin diye, seni ona iade etmiştik. Sen ...",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kızkardeşin Firavun'un sarayına giderek: \"Ona bakacak birini size göstereyim mi?\" diyordu. Böylece, annen üzülmesin, sevinsin diye, seni ona iade etmiştik. Sen bir cana kıymıştın, seni üzüntüden kurtarmış ve seni birçok musibetlerle denemiştik. Bunun için, Medyen halkı arasında yıllarca kalmıştın. Sonra, ey Musa, elçilik görevi görevini yüklenecek bir yaşa gelince dönüp geldin.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 87,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:87",
+      "word_position": 9,
+      "target_word_uthmani": "نَّقْدِرَ",
+      "target_word_rasm": "نقدر",
+      "target_word_literal_irab": "Kendisine darlık ve sıkıştırma ölçüsü uygulamayacağımızı sandı (`نَّقْدِرَ`, I. bab mansûb muzâri `1P`)",
+      "context_snippet_arabic": "فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى",
+      "context_snippet_turkish_tabula_rasa": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar için...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zünnun (Balık Sahibi; Yunus) hakkında söylediğimizi de an. O, öfkelenerek giderken, kendisini sıkıntıya sokmayacağımızı sanmıştı; fakat sonunda karanlıklar içinde: \"Senden başka sığınak mercii (ilâh) yoktur, Sen münezzehsin, doğrusu ben haksızlık edenlerdenim\" diye seslenmişti.",
+      "contextual_meaning": "Yûnus'un (Balık kıssası) daraldığında Yaratıcı'nın üzerine darlık sıkmayacağını (`نَّقْدِرَ عَلَيْهِ`) sanıp ardından derinlikten yönelişi (`21:87`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 6,
+      "surah_name": "Hac",
+      "ayah_ref": "22:6",
+      "word_position": 13,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Bunlar, yalnız Allah'ın gerçek olduğunu, ölüleri dirilttiğini, gücünün herşeye yettiğini, şüphe götürmeyen kıyamet saatinin geleceğini, Allah'ın kabirlerde olan...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّهُۥ يُحْىِ ٱلْمَوْتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, yalnız Allah'ın gerçek olduğunu, ölüleri dirilttiğini, gücünün herşeye yettiğini, şüphe götürmeyen kıyamet saatinin geleceğini, Allah'ın kabirlerde olanı dirilteceğini gösterir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 22,
+      "ayah": 39,
+      "surah_name": "Hac",
+      "ayah_ref": "22:39",
+      "word_position": 10,
+      "target_word_uthmani": "لَقَدِيرٌ",
+      "target_word_rasm": "لقدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Haksızlığa uğratılarak kendilerine savaş açılan kimselerin karşı koyup savaşmasına izin verilmiştir. Allah onlara yardım etmeğe elbette Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Haksızlığa uğratılarak kendilerine savaş açılan kimselerin karşı koyup savaşmasına izin verilmiştir. Allah onlara yardım etmeğe elbette Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 22,
+      "ayah": 74,
+      "surah_name": "Hac",
+      "ayah_ref": "22:74",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَرُوا۟",
+      "target_word_rasm": "قدروا",
+      "target_word_literal_irab": "Kıymetini, ölçüsünü ve yüceliğini hakkıyla takdir ettiler (`قَدَرُوا۟`, I. bab mâzî `3MP`)",
+      "context_snippet_arabic": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı gereği gibi değerlendiremediler. Doğrusu Allah kuvvetlidir, güçlüdür.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qadara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı gereği gibi değerlendiremediler. Doğrusu Allah kuvvetlidir, güçlüdür.",
+      "contextual_meaning": "Allah'ın evrensel büyüklüğünü hakkıyla ölçüp kavrayamama eleştirisi (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ`)."
+    },
+    {
+      "surah": 22,
+      "ayah": 74,
+      "surah_name": "Hac",
+      "ayah_ref": "22:74",
+      "word_position": 5,
+      "target_word_uthmani": "قَدْرِهِۦٓ",
+      "target_word_rasm": "قدره",
+      "target_word_literal_irab": "Gerçek değeri, kıymeti ve kudret ölçüsü (`قَدْرِهِۦ`, cezimli dâl `قَدْر` mecrûr)",
+      "context_snippet_arabic": "قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِنَّ ٱللَّهَ لَقَوِىٌّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ı gereği gibi değerlendiremediler. Doğrusu Allah kuvvetlidir, güçlüdür.",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ı gereği gibi değerlendiremediler. Doğrusu Allah kuvvetlidir, güçlüdür.",
+      "contextual_meaning": "Aynı ayette fiil + isim uyarısı (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ`): Tek Yaratıcı'yı dar insanî/putperest kalıplara sığdırıp değerini küçültme yanılgısı."
+    },
+    {
+      "surah": 23,
+      "ayah": 18,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:18",
+      "word_position": 5,
+      "target_word_uthmani": "بِقَدَرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّٰهُ فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Gökten suyu ölçülü indirdik de, onu yerde durdurduk. Şüphesiz onu gidermeye de kadiriz.",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّٰهُ فِى ٱلْأَرْضِ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَٰدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökten suyu ölçülü indirdik de, onu yerde durdurduk. Şüphesiz onu gidermeye de kadiriz.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 18,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:18",
+      "word_position": 13,
+      "target_word_uthmani": "لَقَٰدِرُونَ",
+      "target_word_rasm": "لقدرون",
+      "target_word_literal_irab": "Yeniden var etmeye ve hesabı gerçekleştirmeye kesin gücü yetenler (`قَٰدِرُونَ / لَقَٰدِرُونَ`, I. bab ism-i fâil merfû)",
+      "context_snippet_arabic": "عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَٰدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Gökten suyu ölçülü indirdik de, onu yerde durdurduk. Şüphesiz onu gidermeye de kadiriz.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّٰهُ فِى ٱلْأَرْضِ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَٰدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökten suyu ölçülü indirdik de, onu yerde durdurduk. Şüphesiz onu gidermeye de kadiriz.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 95,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:95",
+      "word_position": 7,
+      "target_word_uthmani": "لَقَٰدِرُونَ",
+      "target_word_rasm": "لقدرون",
+      "target_word_literal_irab": "Yeniden var etmeye ve hesabı gerçekleştirmeye kesin gücü yetenler (`قَٰدِرُونَ / لَقَٰدِرُونَ`, I. bab ism-i fâil merfû)",
+      "context_snippet_arabic": "نُّرِيَكَ مَا نَعِدُهُمْ لَقَٰدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Biz onlara vadettiğimizi sana elbette gösterebiliriz.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَٰدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onlara vadettiğimizi sana elbette gösterebiliriz.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 45,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:45",
+      "word_position": 31,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah bütün canlıları sudan yaratmıştır. Kimi karnı üzerinde sürünür, kimi iki ayakla yürür, kimi dört ayakla yürür. Allah dilediğini yaratır, Allah şüphesiz he...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah bütün canlıları sudan yaratmıştır. Kimi karnı üzerinde sürünür, kimi iki ayakla yürür, kimi dört ayakla yürür. Allah dilediğini yaratır, Allah şüphesiz herşeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 25,
+      "ayah": 2,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:2",
+      "word_position": 18,
+      "target_word_uthmani": "فَقَدَّرَهُۥ",
+      "target_word_rasm": "فقدره",
+      "target_word_literal_irab": "Ölçülü biçti, yörünge/kapsam ve orantı belirledi (`قَدَّرَ`, II. bab mâzî `3MS`)",
+      "context_snippet_arabic": "وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 2,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:2",
+      "word_position": 19,
+      "target_word_uthmani": "تَقْدِيرًا",
+      "target_word_rasm": "تقديرا",
+      "target_word_literal_irab": "Kusursuzca ölçülendirip oranlayarak (`تَقْدِيرًا`, II. bab mef'ûl-i mutlak masdar mansûb)",
+      "context_snippet_arabic": "كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.",
+      "morphology": {
+        "lemma": "taqodiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taqodiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.",
+      "contextual_meaning": "Güneş, ay, yedi gök ve evrenin hassas matematiksel hesapla işleyişi (`تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ` `6:96`, `36:38`, `41:12`, `25:2`, `76:16`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 54,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:54",
+      "word_position": 12,
+      "target_word_uthmani": "قَدِيرًا",
+      "target_word_rasm": "قديرا",
+      "target_word_literal_irab": "Her şeye gücü ve kapasitesi eksiksiz yeten (`قَدِيرًا`, `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "وَصِهْرًا وَكَانَ رَبُّكَ قَدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "İnsanı sudan yaratarak, ona soy sop veren O'dur. Rabbin herşeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًا فَجَعَلَهُۥ نَسَبًا وَصِهْرًا وَكَانَ رَبُّكَ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanı sudan yaratarak, ona soy sop veren O'dur. Rabbin herşeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 27,
+      "ayah": 57,
+      "surah_name": "Neml",
+      "ayah_ref": "27:57",
+      "word_position": 5,
+      "target_word_uthmani": "قَدَّرْنَٰهَا",
+      "target_word_rasm": "قدرنها",
+      "target_word_literal_irab": "Ölçüsünü, menzilini veya akıbetini hesaplayıp belirledik (`قَدَّرْنَا`, II. bab mâzî `1P`)",
+      "context_snippet_arabic": "وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine onu ve ailesini kurtardık, yalnız karısının geride kalanlardan olmasını gerekli bulduk.",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine onu ve ailesini kurtardık, yalnız karısının geride kalanlardan olmasını gerekli bulduk.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 82,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:82",
+      "word_position": 15,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَوْلَآ أَن مَّنَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Demek Allah kullarından dilediğinin rızkını genişletip bir ölçüye göre veriyor. Eğer Allah bize lütfetmiş olmasaydı, bizi de yerin dibine geçirirdi. ...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَصْبَحَ ٱلَّذِينَ تَمَنَّوْا۟ مَكَانَهُۥ بِٱلْأَمْسِ يَقُولُونَ وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَوْلَآ أَن مَّنَّ ٱللَّهُ عَلَيْنَا لَخَسَفَ بِنَا وَيْكَأَنَّهُۥ لَا يُفْلِحُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Daha dün onun yerinde olmayı dileyenler: \"Demek Allah kullarından dilediğinin rızkını genişletip bir ölçüye göre veriyor. Eğer Allah bize lütfetmiş olmasaydı, bizi de yerin dibine geçirirdi. Demek ki gerçeğin üzerini örtenler başarıya eremezler\" demeye başladılar.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 29,
+      "ayah": 20,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:20",
+      "word_position": 19,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Yeryüzünde dolaşın; Allah'ın yaratmaya nasıl başladığını bir görün. İşte Allah aynı şekilde ahiret yaratmasını da yapacaktır. Doğrusu Allah her şeye Kad...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْءَاخِرَةَ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Yeryüzünde dolaşın; Allah'ın yaratmaya nasıl başladığını bir görün. İşte Allah aynı şekilde ahiret yaratmasını da yapacaktır. Doğrusu Allah her şeye Kadir'dir. Dilediğine azabeder, dilediğine merhamet eder. O'na çevrileceksiniz.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 29,
+      "ayah": 62,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:62",
+      "word_position": 8,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kullarından dilediğine rızkı bol ve ölçüye göre verir. Doğrusu Allah her şeyi bilendir.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kullarından dilediğine rızkı bol ve ölçüye göre verir. Doğrusu Allah her şeyi bilendir.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 30,
+      "ayah": 37,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:37",
+      "word_position": 9,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّ فِى ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, rızkı dilediğine yayıp bir ölçüye göre verdiğini görmezler mi? Doğrusu bunda, güvene erenler için dersler vardır.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, rızkı dilediğine yayıp bir ölçüye göre verdiğini görmezler mi? Doğrusu bunda, güvene erenler için dersler vardır.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 30,
+      "ayah": 50,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:50",
+      "word_position": 19,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rahmetinin belirtilerine bir bak, yeryüzünü ölümünden sonra nasıl diriltiyor? Şüphesiz ölüleri O diriltir. O her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rahmetinin belirtilerine bir bak, yeryüzünü ölümünden sonra nasıl diriltiyor? Şüphesiz ölüleri O diriltir. O her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 30,
+      "ayah": 54,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:54",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْقَدِيرُ",
+      "target_word_rasm": "ٱلقدير",
+      "target_word_literal_irab": "Her aşamayı ölçüsüyle kuran mutlak kudret sahibi (`ٱلْقَدِيرُ`, marife `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "يَشَآءُ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+      "context_snippet_turkish_tabula_rasa": "Sizi güçsüz olarak yaratan, güçsüzlükten sonra kuvvetli kılan, sonra da kuvvetliliğin ardından güçsüz ve ihtiyar yapan Allah'tır. O, dilediğini yaratır; ...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً يَخْلُقُ مَا يَشَآءُ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi güçsüz olarak yaratan, güçsüzlükten sonra kuvvetli kılan, sonra da kuvvetliliğin ardından güçsüz ve ihtiyar yapan Allah'tır. O, dilediğini yaratır; bilendir, Kadir olandır.",
+      "contextual_meaning": "Güçsüzlük-güç-yaşlılık döngüsünü ölçülü kılan tek marife `ٱلْقَدِيرُ` (`30:54`): İnsanın biyolojik evrelerindeki hassas kudret dengesi."
+    },
+    {
+      "surah": 32,
+      "ayah": 5,
+      "surah_name": "Secde",
+      "ayah_ref": "32:5",
+      "word_position": 13,
+      "target_word_uthmani": "مِقْدَارُهُۥٓ",
+      "target_word_rasm": "مقداره",
+      "target_word_literal_irab": "Zaman ve süreç ölçeği / ölçüsü (`مِقْدَارُهُۥ`, `مِفْعَال` ölçü ismi merfû)",
+      "context_snippet_arabic": "فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا",
+      "context_snippet_turkish_tabula_rasa": "Gökten yere kadar, olan bütün işleri Allah düzenler, sonra, işler sizin hesabınıza göre bin yıl kadar tutan bir gün içinde O'na yükselir.",
+      "morphology": {
+        "lemma": "miqodaAr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miqodaAr|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökten yere kadar, olan bütün işleri Allah düzenler, sonra, işler sizin hesabınıza göre bin yıl kadar tutan bir gün içinde O'na yükselir.",
+      "contextual_meaning": "Kozmik ve hesaba dönük göreceli zaman ölçeği (`مِقْدَارُهُۥ` `32:5` bin yıl; `70:4` elli bin yıl)."
+    },
+    {
+      "surah": 33,
+      "ayah": 27,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:27",
+      "word_position": 13,
+      "target_word_uthmani": "قَدِيرًا",
+      "target_word_rasm": "قديرا",
+      "target_word_literal_irab": "Her şeye gücü ve kapasitesi eksiksiz yeten (`قَدِيرًا`, `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Yerlerini, yurtlarını, mallarını ve henüz ayağınızı dahi basmadığınız yerleri Allah size miras olarak verdi. Allah her şeye Kadir olandır.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yerlerini, yurtlarını, mallarını ve henüz ayağınızı dahi basmadığınız yerleri Allah size miras olarak verdi. Allah her şeye Kadir olandır.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 33,
+      "ayah": 38,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:38",
+      "word_position": 21,
+      "target_word_uthmani": "قَدَرًا",
+      "target_word_rasm": "قدرا",
+      "target_word_literal_irab": "Kesin belirlenmiş ölçü ve düzenleme olarak (`قَدَرًا`, fethalı dâl `قَدَر` mansûb)",
+      "context_snippet_arabic": "وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın elçi'e farz kıldığı şeylerde ona bir güçlük yoktur. Bu, Allah'ın öteden beri, gelmiş geçmişlere uyguladığı yasasıdır. ...",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın elçi'e farz kıldığı şeylerde ona bir güçlük yoktur. Bu, Allah'ın öteden beri, gelmiş geçmişlere uyguladığı yasasıdır. Allah'ın emri şüphesiz gereği gibi yerine gelecektir.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 38,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:38",
+      "word_position": 22,
+      "target_word_uthmani": "مَّقْدُورًا",
+      "target_word_rasm": "مقدورا",
+      "target_word_literal_irab": "Ölçüsü, sınırları ve planı kesinleşmiş olan (`مَّقْدُورًا`, I. bab ism-i mef'ûl mansûb)",
+      "context_snippet_arabic": "أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın elçi'e farz kıldığı şeylerde ona bir güçlük yoktur. Bu, Allah'ın öteden beri, gelmiş geçmişlere uyguladığı yasasıdır. ...",
+      "morphology": {
+        "lemma": "m~aqoduwr",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:m~aqoduwr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın elçi'e farz kıldığı şeylerde ona bir güçlük yoktur. Bu, Allah'ın öteden beri, gelmiş geçmişlere uyguladığı yasasıdır. Allah'ın emri şüphesiz gereği gibi yerine gelecektir.",
+      "contextual_meaning": "İnsanî sorumluluk ve elçilik görevi içinde yeri ve sınırları netleştirilmiş düzen (`قَدَرًا مَّقْدُورًا` `33:38`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 11,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:11",
+      "word_position": 4,
+      "target_word_uthmani": "وَقَدِّرْ",
+      "target_word_rasm": "وقدر",
+      "target_word_literal_irab": "Halkaların aralığını ve dengesini tam ölçüsünde ayarla (`وَقَدِّرْ`, II. bab emir `2MS`)",
+      "context_snippet_arabic": "أَنِ ٱعْمَلْ سَٰبِغَٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ وَٱعْمَلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "\"Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın\" diyerek and olsun ki, ona katımızdan lütufta bulunduk; \"geniş zırhlar yap, dokumasını sağlam ...",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:qad~ara|ROOT:qdr|2MS"
+      },
+      "ayah_text_arabic_full": "أَنِ ٱعْمَلْ سَٰبِغَٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ وَٱعْمَلُوا۟ صَٰلِحًا إِنِّى بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın\" diyerek and olsun ki, ona katımızdan lütufta bulunduk; \"geniş zırhlar yap, dokumasını sağlam tut\" diye ona demiri yumuşak kıldık. Yararlı iş işleyin; doğrusu Ben yaptıklarınızı görenim.",
+      "contextual_meaning": "Zanaatta milimetrik mühendislik (`وَقَدِّرْ فِى ٱلسَّرْدِ` `34:11`): Zırh halkalarının ölçüsünü ve dengesini hassas ayarlama ilkesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 13,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:13",
+      "word_position": 10,
+      "target_word_uthmani": "وَقُدُورٍ",
+      "target_word_rasm": "وقدور",
+      "target_word_literal_irab": "Yerinden kıpırdamayan büyük pişirme kazanları (`وَقُدُورٍ`, `قِدْر` kırık çoğulu mecrûr)",
+      "context_snippet_arabic": "وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır. ...",
+      "morphology": {
+        "lemma": "quduwr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:quduwr|ROOT:qdr|MP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman için, o ne dilerse, mabedler, heykeller, büyük havuzlara benzer çanaklar ve taşınması güç kazanlar yaparlardı. \"Ey Davud ailesi, nimetin değerini bilip açığa vurun! Kullarımdan nimetin değerini bilip açığa vuranlar pek azdır.\"",
+      "contextual_meaning": "Zanaat ve kapasite sembolü (`وَقُدُورٍ رَّاسِيَٰتٍ` `34:13`): Süleyman'ın yerleşik büyük kazanları; Semitik dilde 'ölçü kabı / hacim' köküyle somut paralellik."
+    },
+    {
+      "surah": 34,
+      "ayah": 18,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:18",
+      "word_position": 10,
+      "target_word_uthmani": "وَقَدَّرْنَا",
+      "target_word_rasm": "وقدرنا",
+      "target_word_literal_irab": "Ölçüsünü, menzilini veya akıbetini hesaplayıp belirledik (`قَدَّرْنَا`, II. bab mâzî `1P`)",
+      "context_snippet_arabic": "فِيهَا قُرًى ظَٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ سِيرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlarla, kutlu kıldığımız şehirler arasında, karşıdan karşıya görünen kasabalar var etmiş, oraları gezilecek belirli konak yerleri yapmıştık, \"Oralarda geceleri...",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|1P"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًى ظَٰهِرَةً وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlarla, kutlu kıldığımız şehirler arasında, karşıdan karşıya görünen kasabalar var etmiş, oraları gezilecek belirli konak yerleri yapmıştık, \"Oralarda geceleri ve gündüzleri güven içinde gezin\" demiştik.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 36,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:36",
+      "word_position": 8,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Şüphesiz Rabbim rızkı dilediğine genişletir ve bir ölçüye göre verir, fakat insanların çoğu bilmezler.\"",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Şüphesiz Rabbim rızkı dilediğine genişletir ve bir ölçüye göre verir, fakat insanların çoğu bilmezler.\"",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 34,
+      "ayah": 39,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:39",
+      "word_position": 10,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ وَمَآ أَنفَقْتُم",
+      "context_snippet_turkish_tabula_rasa": "... \"Doğrusu Rabbim, kullarından dilediğinin rızkını hem genişletir ve hem de ona daraltıp bir ölçüye göre verir; dolaşıma sokup paylaştığınız herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır. ...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ وَمَآ أَنفَقْتُم مِّن شَىْءٍ فَهُوَ يُخْلِفُهُۥ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Doğrusu Rabbim, kullarından dilediğinin rızkını hem genişletir ve hem de ona daraltıp bir ölçüye göre verir; dolaşıma sokup paylaştığınız herhangi bir şeyin yerine O daha iyisini koyar, çünkü O rızık verenlerin en hayırlısıdır.\"",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 35,
+      "ayah": 1,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:1",
+      "word_position": 24,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Hamd, gökleri ve yeri yaratan, kozmik görevlileri ikişer, üçer, dörder kanatlı elçiler kılan Allah'a mahsustur. Yaratmada dilediğini artırır. Doğrusu Allah, her...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hamd, gökleri ve yeri yaratan, kozmik görevlileri ikişer, üçer, dörder kanatlı elçiler kılan Allah'a mahsustur. Yaratmada dilediğini artırır. Doğrusu Allah, her şeye Kadir olandır.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 35,
+      "ayah": 44,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:44",
+      "word_position": 30,
+      "target_word_uthmani": "قَدِيرًا",
+      "target_word_rasm": "قديرا",
+      "target_word_literal_irab": "Her şeye gücü ve kapasitesi eksiksiz yeten (`قَدِيرًا`, `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "إِنَّهُۥ كَانَ عَلِيمًا قَدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde gezip, kendilerinden öncekilerin sonlarının nasıl olduğunu görmezler mi? Onlar, kendilerinden daha kuvvetliydiler. Göklerde ve yerde Allah'ı aciz bır...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ إِنَّهُۥ كَانَ عَلِيمًا قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde gezip, kendilerinden öncekilerin sonlarının nasıl olduğunu görmezler mi? Onlar, kendilerinden daha kuvvetliydiler. Göklerde ve yerde Allah'ı aciz bırakabilecek yoktur. Şüphesiz O bilendir, Kadir olandır.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 36,
+      "ayah": 38,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:38",
+      "word_position": 6,
+      "target_word_uthmani": "تَقْدِيرُ",
+      "target_word_rasm": "تقدير",
+      "target_word_literal_irab": "İnce hesaplı kozmik ölçülendirme ve düzenlemesi (`تَقْدِيرُ`, II. bab masdar merfû)",
+      "context_snippet_arabic": "لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Güneş de yörüngesinde yürüyüp gitmektedir. Bu, güçlü ve bilgin olan Allah'ın kanunudur.",
+      "morphology": {
+        "lemma": "taqodiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taqodiyr|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Güneş de yörüngesinde yürüyüp gitmektedir. Bu, güçlü ve bilgin olan Allah'ın kanunudur.",
+      "contextual_meaning": "Güneş, ay, yedi gök ve evrenin hassas matematiksel hesapla işleyişi (`تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ` `6:96`, `36:38`, `41:12`, `25:2`, `76:16`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 39,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:39",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَّرْنَٰهُ",
+      "target_word_rasm": "قدرنه",
+      "target_word_literal_irab": "Ölçüsünü, menzilini veya akıbetini hesaplayıp belirledik (`قَدَّرْنَا`, II. bab mâzî `1P`)",
+      "context_snippet_arabic": "وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ",
+      "context_snippet_turkish_tabula_rasa": "Ay için de sonunda kuru bir hurma dalına döneceği konaklar tayin etmişizdir.",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|1P"
+      },
+      "ayah_text_arabic_full": "وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ay için de sonunda kuru bir hurma dalına döneceği konaklar tayin etmişizdir.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 81,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:81",
+      "word_position": 6,
+      "target_word_uthmani": "بِقَٰدِرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Ölçüsüyle yaratıp yeniden diriltmeye tamamen gücü yeten (`قَادِرٌ / بِقَٰدِرٍ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri ve yeri yaratan, kendilerinin benzerini yaratmaya kadir olmaz mı? Elbette olur; çünkü O, yaratan ve bilendir.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم بَلَىٰ وَهُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri ve yeri yaratan, kendilerinin benzerini yaratmaya kadir olmaz mı? Elbette olur; çünkü O, yaratan ve bilendir.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 52,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:52",
+      "word_position": 9,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّ فِى ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rızkı dilediğine yaydığını ve kısıp bir ölçüye göre verdiğini bilmezler mi? Doğrusu bunda, güvene eren kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rızkı dilediğine yaydığını ve kısıp bir ölçüye göre verdiğini bilmezler mi? Doğrusu bunda, güvene eren kimseler için dersler vardır.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 39,
+      "ayah": 67,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:67",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَرُوا۟",
+      "target_word_rasm": "قدروا",
+      "target_word_literal_irab": "Kıymetini, ölçüsünü ve yüceliğini hakkıyla takdir ettiler (`قَدَرُوا۟`, I. bab mâzî `3MP`)",
+      "context_snippet_arabic": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; ...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qadara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; gökler O'nun kudretiyle dürülmüş olacaktır. O, putperestlerin ortak koşmalarından yüce ve münezzehtir.",
+      "contextual_meaning": "Allah'ın evrensel büyüklüğünü hakkıyla ölçüp kavrayamama eleştirisi (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 67,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:67",
+      "word_position": 5,
+      "target_word_uthmani": "قَدْرِهِۦ",
+      "target_word_rasm": "قدره",
+      "target_word_literal_irab": "Gerçek değeri, kıymeti ve kudret ölçüsü (`قَدْرِهِۦ`, cezimli dâl `قَدْر` mecrûr)",
+      "context_snippet_arabic": "قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; ...",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; gökler O'nun kudretiyle dürülmüş olacaktır. O, putperestlerin ortak koşmalarından yüce ve münezzehtir.",
+      "contextual_meaning": "Aynı ayette fiil + isim uyarısı (`مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ`): Tek Yaratıcı'yı dar insanî/putperest kalıplara sığdırıp değerini küçültme yanılgısı."
+    },
+    {
+      "surah": 41,
+      "ayah": 10,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:10",
+      "word_position": 8,
+      "target_word_uthmani": "وَقَدَّرَ",
+      "target_word_rasm": "وقدر",
+      "target_word_literal_irab": "Ölçülü biçti, yörünge/kapsam ve orantı belirledi (`قَدَّرَ`, II. bab mâzî `3MS`)",
+      "context_snippet_arabic": "فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzüne üstünden ağır baskılar (dağlar) yerleştirdi, onu bereketli kıldı; arayıp soranlar için gıdalarını tam (toplam) dört gün içinde yetiştirmesi kanununu k...",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzüne üstünden ağır baskılar (dağlar) yerleştirdi, onu bereketli kıldı; arayıp soranlar için gıdalarını tam (toplam) dört gün içinde yetiştirmesi kanununu koydu (takdir etti).",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 12,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:12",
+      "word_position": 17,
+      "target_word_uthmani": "تَقْدِيرُ",
+      "target_word_rasm": "تقدير",
+      "target_word_literal_irab": "İnce hesaplı kozmik ölçülendirme ve düzenlemesi (`تَقْدِيرُ`, II. bab masdar merfû)",
+      "context_snippet_arabic": "بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... Yakın göğü ışıklarla donattık ve bozulmaktan koruduk. İşte bu, bilen, güçlü olan Allah'ın kanunudur.",
+      "morphology": {
+        "lemma": "taqodiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taqodiyr|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece onları, iki gün içinde yedi göğe tamamladı ve her göğün işini kendisine bildirdi. Yakın göğü ışıklarla donattık ve bozulmaktan koruduk. İşte bu, bilen, güçlü olan Allah'ın kanunudur.",
+      "contextual_meaning": "Güneş, ay, yedi gök ve evrenin hassas matematiksel hesapla işleyişi (`تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ` `6:96`, `36:38`, `41:12`, `25:2`, `76:16`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 39,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:39",
+      "word_position": 22,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Kupkuru gördüğün yeryüzünün, Biz ona su indirdiğimiz zaman harekete geçmesi, kabarması, Allah'ın varlığının belgelerindendir. Ona can veren Allah şüphesiz ölüle...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَٰشِعَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kupkuru gördüğün yeryüzünün, Biz ona su indirdiğimiz zaman harekete geçmesi, kabarması, Allah'ın varlığının belgelerindendir. Ona can veren Allah şüphesiz ölüleri de diriltir. Doğrusu O her şeye kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 42,
+      "ayah": 9,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:9",
+      "word_position": 16,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Demek onlar Allah'tan başka dostlar edindiler? Oysa dost, ancak Allah'tır. O, ölüleri diriltir. Her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Demek onlar Allah'tan başka dostlar edindiler? Oysa dost, ancak Allah'tır. O, ölüleri diriltir. Her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 42,
+      "ayah": 12,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:12",
+      "word_position": 9,
+      "target_word_uthmani": "وَيَقْدِرُ",
+      "target_word_rasm": "ويقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ بِكُلِّ شَىْءٍ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin kilitleri O'nundur. Dilediğine rızkı yayar ve isterse kısar, bir ölçüye göre verir. Doğrusu O herşeyi bilendir.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ إِنَّهُۥ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin kilitleri O'nundur. Dilediğine rızkı yayar ve isterse kısar, bir ölçüye göre verir. Doğrusu O herşeyi bilendir.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 42,
+      "ayah": 27,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:27",
+      "word_position": 11,
+      "target_word_uthmani": "بِقَدَرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ إِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Allah rızkı kullarının hepsine bol bol verseydi, yeryüzünde azgınlık ederlerdi. Ama O, dilediğini bir ölçüye göre indirir. Doğrusu O, kullarından haberdardır, onları görendir.",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Allah rızkı kullarının hepsine bol bol verseydi, yeryüzünde azgınlık ederlerdi. Ama O, dilediğini bir ölçüye göre indirir. Doğrusu O, kullarından haberdardır, onları görendir.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 29,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:29",
+      "word_position": 16,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, yeri ve ikisinde yaydığı canlıları yaratması varlığının delillerindendir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, yeri ve ikisinde yaydığı canlıları yaratması varlığının delillerindendir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 42,
+      "ayah": 50,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:50",
+      "word_position": 11,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَقِيمًا إِنَّهُۥ عَلِيمٌ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Yahut hem kız hem erkek çocuk verir, dilediğini de kısır kılar. O, bilendir, her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا إِنَّهُۥ عَلِيمٌ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahut hem kız hem erkek çocuk verir, dilediğini de kısır kılar. O, bilendir, her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 43,
+      "ayah": 11,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:11",
+      "word_position": 6,
+      "target_word_uthmani": "بِقَدَرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَنشَرْنَا بِهِۦ بَلْدَةً",
+      "context_snippet_turkish_tabula_rasa": "O, suyu gökten bir ölçüye göre indirir. Biz onunla ölü memleketi diriltiriz. İşte siz de böyle diriltileceksiniz.",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِى نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَنشَرْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ تُخْرَجُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O, suyu gökten bir ölçüye göre indirir. Biz onunla ölü memleketi diriltiriz. İşte siz de böyle diriltileceksiniz.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 42,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:42",
+      "word_position": 7,
+      "target_word_uthmani": "مُّقْتَدِرُونَ",
+      "target_word_rasm": "مقتدرون",
+      "target_word_literal_irab": "Kesin tasarruf ve uygulama gücünü elinde tutan (`مُّقْتَدِرُونَ`, VIII. bab ism-i fâil çoğul merfû)",
+      "context_snippet_arabic": "وَعَدْنَٰهُمْ فَإِنَّا عَلَيْهِم مُّقْتَدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Seni onlardan uzaklaştırsak bile doğrusu Biz kendilerinden öç alırız; yahut onlara vadettiğimizi sana gösteririz. Çünkü onlara karşı gücü yetenleriz.",
+      "morphology": {
+        "lemma": "m~uqotadir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:m~uqotadir|ROOT:qdr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَوْ نُرِيَنَّكَ ٱلَّذِى وَعَدْنَٰهُمْ فَإِنَّا عَلَيْهِم مُّقْتَدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni onlardan uzaklaştırsak bile doğrusu Biz kendilerinden öç alırız; yahut onlara vadettiğimizi sana gösteririz. Çünkü onlara karşı gücü yetenleriz.",
+      "contextual_meaning": "Yaratılış döngüsünün ve tarihî hesaplaşmanın tam hâkimi (`مُّقْتَدِر` `18:45`, `43:42`, `54:42,55`): Büyüklük tasarrufunu elinde tutan otorite."
+    },
+    {
+      "surah": 46,
+      "ayah": 33,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:33",
+      "word_position": 12,
+      "target_word_uthmani": "بِقَٰدِرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Ölçüsüyle yaratıp yeniden diriltmeye tamamen gücü yeten (`قَادِرٌ / بِقَٰدِرٍ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, yeri yaratan ve onları yaratmaktan yorulmayan Allah'ın, ölüleri diriltmeye de kadir olduğunu görmezler mi? Evet; O her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, yeri yaratan ve onları yaratmaktan yorulmayan Allah'ın, ölüleri diriltmeye de kadir olduğunu görmezler mi? Evet; O her şeye Kadir'dir.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 33,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:33",
+      "word_position": 22,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Gökleri, yeri yaratan ve onları yaratmaktan yorulmayan Allah'ın, ölüleri diriltmeye de kadir olduğunu görmezler mi? Evet; O her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gökleri, yeri yaratan ve onları yaratmaktan yorulmayan Allah'ın, ölüleri diriltmeye de kadir olduğunu görmezler mi? Evet; O her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 48,
+      "ayah": 21,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:21",
+      "word_position": 3,
+      "target_word_uthmani": "تَقْدِرُوا۟",
+      "target_word_rasm": "تقدروا",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ",
+      "context_snippet_turkish_tabula_rasa": "Bundan başka, sizin gücünüzün yetmediği fakat Allah'ın sizin için sakladığı ganimetler de vardır. Allah her şeye Kadir olandır.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan başka, sizin gücünüzün yetmediği fakat Allah'ın sizin için sakladığı ganimetler de vardır. Allah her şeye Kadir olandır.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 48,
+      "ayah": 21,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:21",
+      "word_position": 14,
+      "target_word_uthmani": "قَدِيرًا",
+      "target_word_rasm": "قديرا",
+      "target_word_literal_irab": "Her şeye gücü ve kapasitesi eksiksiz yeten (`قَدِيرًا`, `فَعِيل` sıfat mansûb)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Bundan başka, sizin gücünüzün yetmediği fakat Allah'ın sizin için sakladığı ganimetler de vardır. Allah her şeye Kadir olandır.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bundan başka, sizin gücünüzün yetmediği fakat Allah'ın sizin için sakladığı ganimetler de vardır. Allah her şeye Kadir olandır.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 54,
+      "ayah": 12,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:12",
+      "word_position": 9,
+      "target_word_uthmani": "قُدِرَ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Önceden ölçüsü ve vakti belirlenmişti (`قُدِرَ`, I. bab meçhul mâzî `3MS`)",
+      "context_snippet_arabic": "عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde kaynaklar fışkırttık; her iki su, takdir edilen bir ölçüye göre birleşti.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde kaynaklar fışkırttık; her iki su, takdir edilen bir ölçüye göre birleşti.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 42,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:42",
+      "word_position": 7,
+      "target_word_uthmani": "مُّقْتَدِرٍ",
+      "target_word_rasm": "مقتدر",
+      "target_word_literal_irab": "Mutlak güç, kapasite ve hüküm sahibi (`مُّقْتَدِرٍ`, VIII. bab ism-i fâil mecrûr)",
+      "context_snippet_arabic": "فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+      "context_snippet_turkish_tabula_rasa": "apaçık göstergelerimizin hepsini yalanladılar. Bunun üzerine onları güç ve kuvvet sahibi olana yakışır bir şekilde yakaladık.",
+      "morphology": {
+        "lemma": "m~uqotadir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:m~uqotadir|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَّبُوا۟ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "apaçık göstergelerimizin hepsini yalanladılar. Bunun üzerine onları güç ve kuvvet sahibi olana yakışır bir şekilde yakaladık.",
+      "contextual_meaning": "Yaratılış döngüsünün ve tarihî hesaplaşmanın tam hâkimi (`مُّقْتَدِر` `18:45`, `43:42`, `54:42,55`): Büyüklük tasarrufunu elinde tutan otorite."
+    },
+    {
+      "surah": 54,
+      "ayah": 49,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:49",
+      "word_position": 5,
+      "target_word_uthmani": "بِقَدَرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Biz her şeyi bir ölçüye göre yaratmışızdır.",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Biz her şeyi bir ölçüye göre yaratmışızdır.",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 55,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:55",
+      "word_position": 6,
+      "target_word_uthmani": "مُّقْتَدِرٍۭ",
+      "target_word_rasm": "مقتدر",
+      "target_word_literal_irab": "Mutlak güç, kapasite ve hüküm sahibi (`مُّقْتَدِرٍ`, VIII. bab ism-i fâil mecrûr)",
+      "context_snippet_arabic": "صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı gelmekten sakınanlar, güçlü hükümdarın katında, yüksek bir derecede, esenlik bahçelerinde ferahlık ve aydınlık içindedirler.",
+      "morphology": {
+        "lemma": "m~uqotadir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(VIII)|LEM:m~uqotadir|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı gelmekten sakınanlar, güçlü hükümdarın katında, yüksek bir derecede, esenlik bahçelerinde ferahlık ve aydınlık içindedirler.",
+      "contextual_meaning": "Yaratılış döngüsünün ve tarihî hesaplaşmanın tam hâkimi (`مُّقْتَدِر` `18:45`, `43:42`, `54:42,55`): Büyüklük tasarrufunu elinde tutan otorite."
+    },
+    {
+      "surah": 56,
+      "ayah": 60,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:60",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَّرْنَا",
+      "target_word_rasm": "قدرنا",
+      "target_word_literal_irab": "Ölçüsünü, menzilini veya akıbetini hesaplayıp belirledik (`قَدَّرْنَا`, II. bab mâzî `1P`)",
+      "context_snippet_arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Ölümü aranızda Biz tayin ettik; sizi ortadan kaldırıp benzerlerinizi yerinize getirmeyi, sizi bilmediğiniz şekilde var etmeyi dilesek kimse önümüze geçemez.",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|1P"
+      },
+      "ayah_text_arabic_full": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ölümü aranızda Biz tayin ettik; sizi ortadan kaldırıp benzerlerinizi yerinize getirmeyi, sizi bilmediğiniz şekilde var etmeyi dilesek kimse önümüze geçemez.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 57,
+      "ayah": 2,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:2",
+      "word_position": 11,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Göklerin ve yerin hükümranlığı O'nundur; diriltir, öldürür. O, her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerin ve yerin hükümranlığı O'nundur; diriltir, öldürür. O, her şeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 57,
+      "ayah": 29,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:29",
+      "word_position": 6,
+      "target_word_uthmani": "يَقْدِرُونَ",
+      "target_word_rasm": "يقدرون",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük ...",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "لِّئَلَّا يَعْلَمَ أَهْلُ ٱلْكِتَٰبِ أَلَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّن فَضْلِ ٱللَّهِ وَأَنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli bilsinler ki, Allah'ın lütfundan hiçbir şey elde edemezler (bu lütfa malik değillerdir); lütuf Allah'ın elindedir, onu dilediğine verir; Allah büyük lütuf sahibidir.",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 59,
+      "ayah": 6,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:6",
+      "word_position": 25,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Onların mallarından, Allah'ın elçisine verdiği şeyler için siz ne at ve ne de deve sürdünüz; fakat Allah elçilerine, dilediği kimselere karşı...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Onların mallarından, Allah'ın elçisine verdiği şeyler için siz ne at ve ne de deve sürdünüz; fakat Allah elçilerine, dilediği kimselere karşı üstünlük verir. Allah herşeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 60,
+      "ayah": 7,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:7",
+      "word_position": 12,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "مِّنْهُم مَّوَدَّةً وَٱللَّهُ قَدِيرٌ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın sizinle, düşmanlık gösterdiğiniz kimseler arasında bir sevgi yaratması umulur; Allah Kadir'dir, Allah bağışlayandır, acıyandır.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً وَٱللَّهُ قَدِيرٌ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın sizinle, düşmanlık gösterdiğiniz kimseler arasında bir sevgi yaratması umulur; Allah Kadir'dir, Allah bağışlayandır, acıyandır.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 64,
+      "ayah": 1,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:1",
+      "word_position": 17,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanlar ve yerde bulunanlar Allah'ı tesbih ederler. Hükümranlık O'nundur, Övülmek O'na mahsustur. O herşeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ لَهُ ٱلْمُلْكُ وَلَهُ ٱلْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar ve yerde bulunanlar Allah'ı tesbih ederler. Hükümranlık O'nundur, Övülmek O'na mahsustur. O herşeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 65,
+      "ayah": 3,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:3",
+      "word_position": 21,
+      "target_word_uthmani": "قَدْرًا",
+      "target_word_rasm": "قدرا",
+      "target_word_literal_irab": "Belirli bir ölçü, sınır ve zaman aralığı (`قَدْرًا`, cezimli dâl `قَدْر` mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "context_snippet_turkish_tabula_rasa": "... Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe güvene eren kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.",
+      "contextual_meaning": "Her şeye biçilmiş zaman, sınır ve ölçü yasası (`قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا` `65:3`)."
+    },
+    {
+      "surah": 65,
+      "ayah": 7,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:7",
+      "word_position": 7,
+      "target_word_uthmani": "قُدِرَ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "مِّن سَعَتِهِۦ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah kimseye, verdiği rızkı aşan bir yük yüklemez. Allah, güçlükten sonra kolaylık verir.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Varlıklı olan kimse, nafakayı varlığına göre versin; rızkı ancak kendisine yetecek kadar verilmiş olan kimse, Allah'ın kendisine verdiğinden versin; Allah kimseye, verdiği rızkı aşan bir yük yüklemez. Allah, güçlükten sonra kolaylık verir.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 65,
+      "ayah": 12,
+      "surah_name": "Talâk",
+      "ayah_ref": "65:12",
+      "word_position": 18,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ",
+      "context_snippet_turkish_tabula_rasa": "Yedi göğü ve yerden de bir o kadarını yaratan Allah'tır, Allah'ın herşeye Kadir olduğunu ve Allah'ın ilminin herşeyi kuşattığını bilmeniz için Allah'ın buyruğu ...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Yedi göğü ve yerden de bir o kadarını yaratan Allah'tır, Allah'ın herşeye Kadir olduğunu ve Allah'ın ilminin herşeyi kuşattığını bilmeniz için Allah'ın buyruğu bunlar arasında iner durur.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 66,
+      "ayah": 8,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:8",
+      "word_position": 45,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan esenlik bahçelerine koysun. Allah'ın ...",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan esenlik bahçelerine koysun. Allah'ın elçisini ve onunla beraber olan güvene erenleri utandırmayacağı o gün, ışıkları önlerinde ve defterleri sağlarından verilmiş olarak yürürler ve: \"Rabbimiz! Işığımızı tamamla, bizi bağışla, doğrusu Sen herşeye Kadir'sin\" derler.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 67,
+      "ayah": 1,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:1",
+      "word_position": 9,
+      "target_word_uthmani": "قَدِيرٌ",
+      "target_word_rasm": "قدير",
+      "target_word_literal_irab": "Her şeye karşı kusursuz ölçü ve tam güç sahibi olan (`قَدِيرٌ`, `فَعِيل` sıfat merfû)",
+      "context_snippet_arabic": "عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Hükümranlık elinde olan Allah yücedir ve O herşeye Kadir'dir.",
+      "morphology": {
+        "lemma": "qadiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadiyr|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hükümranlık elinde olan Allah yücedir ve O herşeye Kadir'dir.",
+      "contextual_meaning": "Evrendeki hiçbir olayın sınır dışında kalmadığını bildiren küllî ölçü ve imkân yasası (`عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ`): `2:20,106,284`, `3:26,189`, `4:149`, `5:120`, `35:44`, `42:9`."
+    },
+    {
+      "surah": 68,
+      "ayah": 25,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:25",
+      "word_position": 4,
+      "target_word_uthmani": "قَٰدِرِينَ",
+      "target_word_rasm": "قدرين",
+      "target_word_literal_irab": "İşlerini diledikleri gibi yürütmeye kesin gücü yetenler sanısıyla (`قَٰدِرِينَ`, I. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksullara yardım etmeye güçleri yeterken böyle konuşarak erkenden gittiler.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَٰدِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksullara yardım etmeye güçleri yeterken böyle konuşarak erkenden gittiler.",
+      "contextual_meaning": "Yoksulları dışlayarak 'ürünü kendi gücümüzle kesin toplarız (`قَٰدِرِينَ` `68:25`)' yanılgısına düşen bahçe sahiplerinin çöküşü."
+    },
+    {
+      "surah": 70,
+      "ayah": 4,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:4",
+      "word_position": 8,
+      "target_word_uthmani": "مِقْدَارُهُۥ",
+      "target_word_rasm": "مقداره",
+      "target_word_literal_irab": "Zaman ve süreç ölçeği / ölçüsü (`مِقْدَارُهُۥ`, `مِفْعَال` ölçü ismi merfû)",
+      "context_snippet_arabic": "فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "context_snippet_turkish_tabula_rasa": "kozmik görevliler ve Cebrail o derecelere, miktarı elli bin yıl olan bir günde yükselirler.",
+      "morphology": {
+        "lemma": "miqodaAr",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:miqodaAr|ROOT:qdr|M|NOM"
+      },
+      "ayah_text_arabic_full": "تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "ayah_text_turkish_tabula_rasa_full": "kozmik görevliler ve Cebrail o derecelere, miktarı elli bin yıl olan bir günde yükselirler.",
+      "contextual_meaning": "Kozmik ve hesaba dönük göreceli zaman ölçeği (`مِقْدَارُهُۥ` `32:5` bin yıl; `70:4` elli bin yıl)."
+    },
+    {
+      "surah": 70,
+      "ayah": 40,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:40",
+      "word_position": 7,
+      "target_word_uthmani": "لَقَٰدِرُونَ",
+      "target_word_rasm": "لقدرون",
+      "target_word_literal_irab": "Yeniden var etmeye ve hesabı gerçekleştirmeye kesin gücü yetenler (`قَٰدِرُونَ / لَقَٰدِرُونَ`, I. bab ism-i fâil merfû)",
+      "context_snippet_arabic": "ٱلْمَشَٰرِقِ وَٱلْمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Doğuların ve batıların Rabbine bağlayıcı ahit ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَٰرِقِ وَٱلْمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğuların ve batıların Rabbine bağlayıcı ahit ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 17,
+      "target_word_uthmani": "يُقَدِّرُ",
+      "target_word_rasm": "يقدر",
+      "target_word_literal_irab": "Ölçüsünü dengeli biçimde ayarlar (`يُقَدِّرُ`, II. bab muzâri `3MS`)",
+      "context_snippet_arabic": "ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. ...",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 74,
+      "ayah": 18,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:18",
+      "word_position": 3,
+      "target_word_uthmani": "وَقَدَّرَ",
+      "target_word_rasm": "وقدر",
+      "target_word_literal_irab": "Zihninde kurgulayıp ölçüp biçti (`قَدَّرَ`, II. bab mâzî fiil `3MS`)",
+      "context_snippet_arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Çünkü o, düşündü, ölçtü biçti;",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çünkü o, düşündü, ölçtü biçti;",
+      "contextual_meaning": "Hakikate karşı bahaneler üreten zihnin iç kurgusu (`فَقُتِلَ كَيْفَ قَدَّرَ` `74:18-20`): İnsanın önyargıyla kendi kendine ölçüp biçmesi."
+    },
+    {
+      "surah": 74,
+      "ayah": 19,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:19",
+      "word_position": 3,
+      "target_word_uthmani": "قَدَّرَ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Zihninde kurgulayıp ölçüp biçti (`قَدَّرَ`, II. bab mâzî fiil `3MS`)",
+      "context_snippet_arabic": "فَقُتِلَ كَيْفَ قَدَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Canı çıkası, ne biçim ölçüp biçti!",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "فَقُتِلَ كَيْفَ قَدَّرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Canı çıkası, ne biçim ölçüp biçti!",
+      "contextual_meaning": "Hakikate karşı bahaneler üreten zihnin iç kurgusu (`فَقُتِلَ كَيْفَ قَدَّرَ` `74:18-20`): İnsanın önyargıyla kendi kendine ölçüp biçmesi."
+    },
+    {
+      "surah": 74,
+      "ayah": 20,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:20",
+      "word_position": 4,
+      "target_word_uthmani": "قَدَّرَ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Zihninde kurgulayıp ölçüp biçti (`قَدَّرَ`, II. bab mâzî fiil `3MS`)",
+      "context_snippet_arabic": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+      "context_snippet_turkish_tabula_rasa": "Canı çıkası; sonra yine ne biçim ölçüp biçti!",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Canı çıkası; sonra yine ne biçim ölçüp biçti!",
+      "contextual_meaning": "Hakikate karşı bahaneler üreten zihnin iç kurgusu (`فَقُتِلَ كَيْفَ قَدَّرَ` `74:18-20`): İnsanın önyargıyla kendi kendine ölçüp biçmesi."
+    },
+    {
+      "surah": 75,
+      "ayah": 4,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:4",
+      "word_position": 2,
+      "target_word_uthmani": "قَٰدِرِينَ",
+      "target_word_rasm": "قدرين",
+      "target_word_literal_irab": "İşlerini diledikleri gibi yürütmeye kesin gücü yetenler sanısıyla (`قَٰدِرِينَ`, I. bab ism-i fâil mansûb)",
+      "context_snippet_arabic": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ",
+      "context_snippet_turkish_tabula_rasa": "Evet, Biz onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|ACC"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Evet, Biz onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 75,
+      "ayah": 40,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:40",
+      "word_position": 3,
+      "target_word_uthmani": "بِقَٰدِرٍ",
+      "target_word_rasm": "بقدر",
+      "target_word_literal_irab": "Ölçüsüyle yaratıp yeniden diriltmeye tamamen gücü yeten (`قَادِرٌ / بِقَٰدِرٍ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ",
+      "context_snippet_turkish_tabula_rasa": "Bunları yapan Allah'ın ölüleri diriltmeye gücü yetmez mi? Elbette yeter.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunları yapan Allah'ın ölüleri diriltmeye gücü yetmez mi? Elbette yeter.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 76,
+      "ayah": 16,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:16",
+      "word_position": 4,
+      "target_word_uthmani": "قَدَّرُوهَا",
+      "target_word_rasm": "قدروها",
+      "target_word_literal_irab": "Ölçüsünü gümüş kapta tam ayarladılar (`قَدَّرُوهَا`, II. bab mâzî `3MP`)",
+      "context_snippet_arabic": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Billurları gümüş gibi parlaktır, onları ölçüp ölçüp dağıtırlar.",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MP"
+      },
+      "ayah_text_arabic_full": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Billurları gümüş gibi parlaktır, onları ölçüp ölçüp dağıtırlar.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 76,
+      "ayah": 16,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:16",
+      "word_position": 5,
+      "target_word_uthmani": "تَقْدِيرًا",
+      "target_word_rasm": "تقديرا",
+      "target_word_literal_irab": "Kusursuzca ölçülendirip oranlayarak (`تَقْدِيرًا`, II. bab mef'ûl-i mutlak masdar mansûb)",
+      "context_snippet_arabic": "مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "context_snippet_turkish_tabula_rasa": "Billurları gümüş gibi parlaktır, onları ölçüp ölçüp dağıtırlar.",
+      "morphology": {
+        "lemma": "taqodiyr",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taqodiyr|ROOT:qdr|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قَوَارِيرَا۟ مِن فِضَّةٍ قَدَّرُوهَا تَقْدِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Billurları gümüş gibi parlaktır, onları ölçüp ölçüp dağıtırlar.",
+      "contextual_meaning": "Güneş, ay, yedi gök ve evrenin hassas matematiksel hesapla işleyişi (`تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ` `6:96`, `36:38`, `41:12`, `25:2`, `76:16`)."
+    },
+    {
+      "surah": 77,
+      "ayah": 22,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:22",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَرٍ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Hassas miktar, taşıma kapasitesi ve ölçülü oran (`بِقَدَرٍ / بَقَدَرِهَا / قَدَرٍ`, fethalı dâl `قَدَر` mecrûr)",
+      "context_snippet_arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "context_snippet_turkish_tabula_rasa": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?",
+      "morphology": {
+        "lemma": "qadar",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qadar|ROOT:qdr|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?",
+      "contextual_meaning": "Yağmurun, sel vadilerinin, rızıkların ve insan yaratılışının kaostan uzak kesin miktar ve kapasiteyle indirilmesi (`13:17`, `15:21`, `23:18`, `42:27`, `43:11`, `54:49`, `77:22`)."
+    },
+    {
+      "surah": 77,
+      "ayah": 23,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:23",
+      "word_position": 1,
+      "target_word_uthmani": "فَقَدَرْنَا",
+      "target_word_rasm": "فقدرنا",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Buna gücümüz yeter; Biz ne güzel güç yetireniz!",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qadara|ROOT:qdr|1P"
+      },
+      "ayah_text_arabic_full": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Buna gücümüz yeter; Biz ne güzel güç yetireniz!",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 77,
+      "ayah": 23,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:23",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلْقَٰدِرُونَ",
+      "target_word_rasm": "ٱلقدرون",
+      "target_word_literal_irab": "Yeniden var etmeye ve hesabı gerçekleştirmeye kesin gücü yetenler (`قَٰدِرُونَ / لَقَٰدِرُونَ`, I. bab ism-i fâil merfû)",
+      "context_snippet_arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Buna gücümüz yeter; Biz ne güzel güç yetireniz!",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Buna gücümüz yeter; Biz ne güzel güç yetireniz!",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 80,
+      "ayah": 19,
+      "surah_name": "Abese",
+      "ayah_ref": "80:19",
+      "word_position": 4,
+      "target_word_uthmani": "فَقَدَّرَهُۥ",
+      "target_word_rasm": "فقدره",
+      "target_word_literal_irab": "Ölçülü biçti, yörünge/kapsam ve orantı belirledi (`قَدَّرَ`, II. bab mâzî `3MS`)",
+      "context_snippet_arabic": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Onu meniden yaratıp merhalelerden geçirerek ona şekil vermiş;",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu meniden yaratıp merhalelerden geçirerek ona şekil vermiş;",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 86,
+      "ayah": 8,
+      "surah_name": "Târık",
+      "ayah_ref": "86:8",
+      "word_position": 4,
+      "target_word_uthmani": "لَقَادِرٌ",
+      "target_word_rasm": "لقادر",
+      "target_word_literal_irab": "Ölçüsüyle yaratıp yeniden diriltmeye tamamen gücü yeten (`قَادِرٌ / بِقَٰدِرٍ`, I. bab ism-i fâil)",
+      "context_snippet_arabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir.",
+      "morphology": {
+        "lemma": "qaAdir",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:qaAdir|ROOT:qdr|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir.",
+      "contextual_meaning": "İlk yaratılışı ve yağmuru kuran aklın, çöküş sonrası insanı parmak uçlarına kadar (`75:4`) yeniden kurmaya da gücü yetmesi (`6:37,65`, `36:81`, `46:33`, `86:8`)."
+    },
+    {
+      "surah": 87,
+      "ayah": 3,
+      "surah_name": "A'lâ",
+      "ayah_ref": "87:3",
+      "word_position": 2,
+      "target_word_uthmani": "قَدَّرَ",
+      "target_word_rasm": "قدر",
+      "target_word_literal_irab": "Ölçülü biçti, yörünge/kapsam ve orantı belirledi (`قَدَّرَ`, II. bab mâzî `3MS`)",
+      "context_snippet_arabic": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "O, her şeyi ölçüyle yapıp doğru yolu göstermiştir.",
+      "morphology": {
+        "lemma": "qad~ara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:qad~ara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "O, her şeyi ölçüyle yapıp doğru yolu göstermiştir.",
+      "contextual_meaning": "Ayın evrelerinden yeryüzünün rızıklarına ve gecenin paylaşımına dek evrensel orantı-plan (`10:5`, `25:2`, `36:39`, `41:10`, `73:20`, `80:19`, `87:3`)."
+    },
+    {
+      "surah": 89,
+      "ayah": 16,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:16",
+      "word_position": 5,
+      "target_word_uthmani": "فَقَدَرَ",
+      "target_word_rasm": "فقدر",
+      "target_word_literal_irab": "Ölçüyü daraltır, rızkı belli bir sınıra kısar (`يَقْدِرُ / قُدِرَ / فَقَدَرَ`, I. bab `3MS`)",
+      "context_snippet_arabic": "إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ",
+      "context_snippet_turkish_tabula_rasa": "Ama onu sınamak için rızkını daraltıp bir ölçüye göre verdiği zaman: \"Rabbim bana hor baktı\" der.",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:qadara|ROOT:qdr|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama onu sınamak için rızkını daraltıp bir ölçüye göre verdiği zaman: \"Rabbim bana hor baktı\" der.",
+      "contextual_meaning": "Ekonomik rızkın açılması (`بَسَطَ`) ile kısılıp daraltılması (`قَدَرَ`) arasındaki Mesânî dengesi: bolluk da darlık da sınama ölçüsüdür."
+    },
+    {
+      "surah": 90,
+      "ayah": 5,
+      "surah_name": "Beled",
+      "ayah_ref": "90:5",
+      "word_position": 4,
+      "target_word_uthmani": "يَقْدِرَ",
+      "target_word_rasm": "يقدر",
+      "target_word_literal_irab": "Ölçüsüne güç yetirebilir / hâkimiyet kurabilir (`يَقْدِرُ / تَقْدِرُوا۟ / فَقَدَرْنَا`, I. bab fiil)",
+      "context_snippet_arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "context_snippet_turkish_tabula_rasa": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?",
+      "morphology": {
+        "lemma": "qadara",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:qadara|ROOT:qdr|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?",
+      "contextual_meaning": "Çabanın boşa gitmesi ya da hiçbir yetki ortağının/kibirlinin güç yetiremeyişi (`2:264`, `14:18`, `16:75,76`, `57:29`, `77:23`, `90:5`)."
+    },
+    {
+      "surah": 97,
+      "ayah": 1,
+      "surah_name": "Kadir",
+      "ayah_ref": "97:1",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقَدْرِ",
+      "target_word_rasm": "ٱلقدر",
+      "target_word_literal_irab": "Ölçü, değer ve hüküm gecesi (`ٱلْقَدْرِ`, marife isim mecrûr)",
+      "context_snippet_arabic": "أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.",
+      "contextual_meaning": "Vahyin inişiyle kıymet ve ölçü kazanan tarihî dönüm noktası (`لَيْلَةِ ٱلْقَدْرِ` `97:1-3`): Bin aydan daha verimli ve değerli gece."
+    },
+    {
+      "surah": 97,
+      "ayah": 2,
+      "surah_name": "Kadir",
+      "ayah_ref": "97:2",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْقَدْرِ",
+      "target_word_rasm": "ٱلقدر",
+      "target_word_literal_irab": "Ölçü, değer ve hüküm gecesi (`ٱلْقَدْرِ`, marife isim mecrûr)",
+      "context_snippet_arabic": "أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "context_snippet_turkish_tabula_rasa": "Kadir gecesinin ne olduğunu sen bilir misin?",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadir gecesinin ne olduğunu sen bilir misin?",
+      "contextual_meaning": "Vahyin inişiyle kıymet ve ölçü kazanan tarihî dönüm noktası (`لَيْلَةِ ٱلْقَدْرِ` `97:1-3`): Bin aydan daha verimli ve değerli gece."
+    },
+    {
+      "surah": 97,
+      "ayah": 3,
+      "surah_name": "Kadir",
+      "ayah_ref": "97:3",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْقَدْرِ",
+      "target_word_rasm": "ٱلقدر",
+      "target_word_literal_irab": "Ölçü, değer ve hüküm gecesi (`ٱلْقَدْرِ`, marife isim mecrûr)",
+      "context_snippet_arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ",
+      "context_snippet_turkish_tabula_rasa": "Kadir gecesi bin aydan hayırlıdır.",
+      "morphology": {
+        "lemma": "qador",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:qador|ROOT:qdr|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadir gecesi bin aydan hayırlıdır.",
+      "contextual_meaning": "Vahyin inişiyle kıymet ve ölçü kazanan tarihî dönüm noktası (`لَيْلَةِ ٱلْقَدْرِ` `97:1-3`): Bin aydan daha verimli ve değerli gece."
+    }
+  ]
+}

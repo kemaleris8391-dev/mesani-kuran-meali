@@ -1,0 +1,1865 @@
+{
+  "root": "ت-و-ب",
+  "root_latin": "T-W-B (twb)",
+  "concept_name": "Tevbe / Tevvâb / Metâb (Yanlış İstikametten Bilinçle Geri Dönüş ve İlâhî Rahmet Kabulü)",
+  "rank": 129,
+  "total_occurrences": 87,
+  "unique_ayahs_count": 69,
+  "unified_core_mechanism": "Kökün `87` geçişlik tamamı 'yanlış rotadan geri dönme (`İbn Fâris: er-rucû`)' ekseninde döner ve üç katmanda işler: (1) İrade katmanı: insanın `تَابَ إِلَى ٱللَّهِ` diyerek yönünü değiştirmesi, `4:17`deki gibi körlüğü fark ettiği an hemen dönmesi ve `66:8`deki gibi geçmişle bağı kesen katışıksız (`نَّصُوحًا`) karara varması; (2) Eylem katmanı: dönüşü yalnız söze değil `وَأَصْلَحُوا۟` ('zararı onarma') ve `وَبَيَّنُوا۟` ('gizlenen hakkı açıklama' `2:160`, `25:70-71`) adımlarına bağlaması; (3) İlâhî karşılık katmanı: Allah'ın `تَابَ عَلَيْهِمْ` ile kulunun üzerine rahmet, kolaylık (`2:187`, `73:20`) ve kötülükleri iyiliğe dönüştüren kabulle (`25:70`, `9:104`, `40:3`) geri dönmesi.",
+  "physical_core": "Gidilen yanlış istikametten bilinçli bir kararlılıkla yüz seksen derece geri dönmek ve karşı taraftan da yumuşaklık, kolaylaştırma ve kabulle karşılık bulmak (`ٱلرُّجُوعُ عَنِ ٱلذَّنْبِ وَإِقْبَالُ ٱلرَّحْمَةِ وَٱلتَّيْسِيرِ`). Kur'an bu kökü tek taraflı bir pişmanlık cümlesi olmaktan çıkarır ve iki yönlü bir 'dönüş buluşması'na dönüştürür: kul yanlış doğrultudan vazgeçip Yaratıcıya doğru (`إِلَى ٱللَّهِ`) döndüğünde, Yaratıcı da rahmeti ve bağışlamasıyla kulunun üzerine (`تَابَ عَلَيْهِ`) döner; hatta `9:118`deki `ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟` ifadesinde ilâhî yöneliş kulun dönüşünü mümkün kılan öncü kolaylaştırmadır (`2:187`, `58:13`, `73:20`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `te-vav-ba (توب)` kökünü tek sahih kelime ve eksende kilitler: 'geri dönmek (`er-rucû`)'. İster fiil (`تَابَ`), ister birim mastar (`تَوْبَة`), isterse `40:3`teki soyut cins mastar (`ٱلتَّوْب`) ve `13:30` ile `25:71`deki `مَتَاب` olsun hepsi aynı yön değiştirip dönme aslına dayanır.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) kökün en temiz mazeret biçimi olduğunu vurgular ve dönüşün yalnızca iç çekme değil dört somut aşamalı eylem olduğunu koyar: çirkinliğinden ötürü sapmayı terk, geçmişe pişmanlık, bir daha dönmeme kararı ve bozulmuş hakları mümkün olduğunca onarıp telafi (`إِصْلَاح` — örn. `2:160`, `5:39`, `25:71`).",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `تَوَّاب` (`فَعَّال`) sıfatının ilginç çift yönlü kullanımına dikkat çeker: insan için 'sık sık hatasından Allah'a dönen' (`إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ` `2:222`), Allah için ise 'kulların her dönüşüne rahmetle karşılık veren' (`ٱلتَّوَّابُ ٱلرَّحِيمُ` `11` kez) demektir.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `87` geçiş edat simetrisiyle kusursuz bir mekanik kurar: (1) İnsan fail olduğunda daima `إِلَى ٱللَّهِ` ('Allah'a doğru yönelmek' — `11:3,52,61,90`, `24:31`, `66:8`) gelir ve çoğunlukla `وَأَصْلَحُوا۟` ile pekişir (`2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `24:5`); (2) Yaratıcı fail olduğunda ise istisnasız `عَلَى` ('üzerine rahmet ve hafifletmeyle dönmek' — `2:37`, `9:117-118`, `73:20`) edatını alır."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "Aramca ve Süryanicede `תּוּב / ܬܘܒ` (*tūb*, CAL: 'geri dönmek, yeniden yapmak, tevbe etmek') ve Süryanice *taybūtā* / Yahudi Aramcası *teyūbtā* ('dönüş, tövbe') Arapça `ت-و-ب` kökünün tam ses ve anlam eşleniğidir.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `שׁוּב` (*šūb*, BDB: 'geri dönmek, yolundan dönmek, yön değiştirmek') aynı pan-Semitik kökten gelir ve Eski Ahit'te dinî-ahlakî dönüşün temel fiilidir.",
+    "arab_doublet_and_phonology": "Arapçanın yerli söz varlığında aynı Proto-Sami `*ṯ-w-b` ('geri dönmek, iade olmak') kökü düzenli `*ṯ > ث` kanunuyla **`ث-و-ب`** (`ثَوَاب`: eylemin geri dönen karşılığı; `مَثَابَة`: toplanıp dönülen merkez `2:125`; `ثِيَاب`: bedene geri dönüp sarılan giysi) olarak yaşamaya devam etmiştir!",
+    "phonological_note": "Karşılaştırmalı Semitik sesbilimin en seçkin çiftlerinden (*lexical doublet*) biri burada görülür: Proto-Sami peltek `*ṯ` ünsüzü Kenan-İbranicede `שׁ` (`šūb` — `*ṯ > š`), Aramcada `ת` (`tūb` — `*ṯ > t`), Arapçada ise `ث` (`ṯawāb / maṯāba` — `*ṯ > ث`) olur. Ancak Arapça Aramca kültürel temasla (`t-w-b`) eşköklü ikiz biçimi `ت-و-ب` (*tāba / tawba*) olarak da almış ve Kur'an iki kökü birbirinden şaşmaz bir uzmanlaşmayla ayırmıştır: `ث-و-ب` maddi-nesnel karşılık ve giysi alanında kalırken, `ت-و-ب` bütünüyle ahlakî yön değişikliği ve ilâhî kabul dönüşüne tahsis edilmiştir (Jeffery, CAL, BDB)."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ت-و-ل (`فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَوَلَّيْتُمْ ...` `9:3`, `9:74`, `11:3`, `11:52` — Hatalı Yoldan Gerçeğe Geri Dönmek `تَابَ` vs Sırt Çevirip Uzaklaşmak `تَوَلَّى`)",
+      "إ-ص-ر (`ثُمَّ تَابُوا۟` vs `كَفَرُوا۟ بَعْدَ إِيمَٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا` `3:90` & `ثُمَّ لَمْ يَتُوبُوا۟` `85:10` & `مَن لَّمْ يَتُبْ` `49:11` — Yanlıştan Vazgeçip Onarmak vs Hatada Israr ve İnat)",
+      "ح-ض-ر ٱلْمَوْت (`يَتُوبُونَ مِن قَرِيبٍ` `4:17` vs `حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ` `4:18` — İrade Açıkken Vaktinde Dönüş vs Kapılar Kapanırken Yapılan Çaresiz İtiraf)"
+    ],
+    "key_ayahs": [
+      "2:37",
+      "2:54",
+      "2:128",
+      "2:160",
+      "2:187",
+      "2:222",
+      "2:279",
+      "3:89",
+      "3:90",
+      "4:16",
+      "4:17",
+      "4:18",
+      "4:27",
+      "4:64",
+      "4:92",
+      "4:146",
+      "5:39",
+      "5:74",
+      "6:54",
+      "7:143",
+      "9:3",
+      "9:11",
+      "9:102",
+      "9:104",
+      "9:112",
+      "9:117",
+      "9:118",
+      "11:3",
+      "11:52",
+      "11:90",
+      "11:112",
+      "13:30",
+      "16:119",
+      "20:122",
+      "24:31",
+      "25:70",
+      "25:71",
+      "40:3",
+      "42:25",
+      "46:15",
+      "49:11",
+      "58:13",
+      "66:4",
+      "66:8",
+      "73:20",
+      "85:10",
+      "110:3"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ت-و-ب` yanlış istikametten iradeyle geri dönüp ilişkileri onarmak ise zıddı nedir?' Cevap: (1) Kur'an bizzat aynı ayetlerde zıt kavramı `تَوَلَّى` ('sırt çevirip kaçınmak' `9:3`, `9:74`, `11:3`, `11:52`) ve `تَطْغَوْا۟` ('ölçüyü aşıp azgınlaşmak' `11:112`) olarak verir. (2) Aklî ve zamanlı dönüş (`مِن قَرِيبٍ` `4:17`) ile karşıtlaşan geçersizlik ise hatada artarak diretme (`ٱزْدَادُوا۟ كُفْرًا` `3:90`), dönmeyenlerin zulümde kilitlenmesi (`وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ` `49:11`) ve ölüm anında yapılan sıkışmış beyandır (`4:18`)."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ` (`Kulun Yaratana yönelip dönmesi` `إِلَى`) vs `فَتَابَ عَلَيْكُمْ` (`Yaratanın rahmetiyle kula dönüp kabulü` `عَلَى`) — `2:54`, `9:118`",
+      "`تَابَ عَلَيْهِمْ` (`İlâhî destek ve kalbi açan öncü rahmet dönüşü`) vs `لِيَتُوبُوٓا۟` (`Kulların kendi yönelişlerini tamamlaması`) — `9:118`",
+      "`تَابُوا۟` (`İçsel yön değiştirme`) vs `وَأَصْلَحُوا۟` (`Bozulan hak ve düzeni somut olarak onarma`) & `وَبَيَّنُوا۟` (`Gizlenen gerçeği açığa vurma` `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`)",
+      "`ٱسْتَغْفِرُوا۟` (`Geçmiş lekenin örtülüp silinmesini dileme`) vs `تُوبُوٓا۟ إِلَيْهِ` (`Geleceğe doğru yeni rotaya dönüş`) — `11:3,52,61,90`, `5:74`",
+      "`تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَٰلِحًا` (`Dönüşün geçmiş kötülükleri iyiliklere dönüştüren kimyası` — `يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَٰتٍ` `25:70`, `25:71`)"
+    ],
+    "mechanical_difference": "1) `9:118`de aynı kökten iki fiil birbirini besleyen nedensellikle dizilir: `ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟` — önce ilâhî rahmet dönüşü (`تَابَ عَلَيْهِمْ`), kulun içsel dönüşünü (`لِيَتُوبُوٓا۟`) ayağa kaldırır. 2) `4:17` ile `4:18` peş peşe `لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ` ('bilmeden sürçüp yakın vakitte dönenlere kabul vaadi') ile `وَلَيْسَتِ ٱلتَّوْبَةُ` ('ölüm kapıyı çalınca sıkışıp dönene kabul yok') arasındaki iradî çizgiyi çizer. 3) `2:187`, `58:13` ve `73:20` (`عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ`) ayetleri `تَابَ عَلَى` kalıbının 'önce ağır yüklenip sonra kulunun taşıyacağı sınıra kolaylıkla geri dönmek' anlamını gün yüzüne çıkarır. 4) `2:222`de Allah'ın sevdiği `ٱلتَّوَّٰبِينَ` ('sık sık doğruluğa dönen kullar') ile `ٱلْمُتَطَهِّرِينَ` ('arınanlar') iç-dış temizlik olarak eşleştirilir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "2:37,54,160 & 9:117-118 & 73:20",
+      "role": "Karşılıklı Dönüş (`إِلَى` vs `عَلَى`) ve Kolaylaştırma Çapası (`فَتَابَ عَلَيْهِ` / `لِيَتُوبُوٓا۟`)",
+      "literal_meaning": "'Âdem Rabbinden kelimeler aldı da Rabbi onun üzerine rahmetiyle döndü (`2:37`, `20:122`)', 'Yaratıcınıza dönün ki O da üzerinize dönsün (`2:54`)', 'önce üzerlerine rahmetle döndü ki onlar da dönebilsinler (`9:118`)' ve 'vakitleri hesaplayamayacağınızı bildiğinden üzerinize kolaylıkla döndü (`73:20`, `2:187`, `58:13`).'"
+    },
+    {
+      "ref": "4:17-18 & 3:90 & 49:11 & 85:10",
+      "role": "Vaktinde Dönüş Şartı ve Son Nefes Sınırı Çapası (`مِن قَرِيبٍ` vs `حَضَرَ ٱلْمَوْتُ`)",
+      "literal_meaning": "'Dönüş kabulü bilgisizce kötülük yapıp hemen dönenler üzerinedir (`4:17`)', 'ölüm gelince şimdi döndüm diyene dönüş yoktur (`4:18`, `3:90`)' ve 'kim yanlıştan dönmezse işte zalimler onlardır (`49:11`, `85:10`).'"
+    },
+    {
+      "ref": "25:70-71 & 2:160 & 5:39 & 6:54 & 16:119",
+      "role": "Dönüşün Onarım ve İyiliğe Çevrilme Çapası (`وَأَصْلَحُوا۟` / `يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَٰتٍ`)",
+      "literal_meaning": "'Kim dönüp güvenir ve erdemli eylem yaparsa Allah onun kötülüklerini iyiliklere çevirir ve o Allah'a gerçek dönüşle (`مَتَابًا`) dönmüş olur (`25:70-71`)' ve 'dönüp işlerini ve kendilerini düzeltenleri (`وَأَصْلَحُوا۟`) Rabbin bağışlar (`2:160`, `3:89`, `5:39`, `6:54`).'"
+    },
+    {
+      "ref": "11:3,52,61,90 & 24:31 & 66:8 & 2:222",
+      "role": "Toplumsal-Bireysel Katışıksız Dönüş ve Arınma Çapası (`تَوْبَةً نَّصُوحًا` / `ٱلتَّوَّٰبِينَ`)",
+      "literal_meaning": "'Bağışlanma dileyin ve O'na dönün (`11:3,52,61,90`)', 'ey güvenenler hepiniz Allah'a dönün ki kurtuluşa eresiniz (`24:31`)', 'yürekten dürüst bir dönüşle (`تَوْبَةً نَّصُوحًا`) dönün (`66:8`)' ve 'Allah sürekli dönenleri ve arınanları sever (`2:222`).'"
+    },
+    {
+      "ref": "9:104 & 40:3 & 42:25 & 13:30 & 110:3",
+      "role": "Kullardan Kabul (`عَنْ`) ve Nihâî Dönüş Yeri (`مَتَابِ`) Çapası (`وَقَابِلِ ٱلتَّوْبِ`)",
+      "literal_meaning": "'Kullarından dönüşü bizzat kabul eden O'dur (`9:104`, `42:25`)', 'kusuru bağışlayan ve dönüşü kabul edendir (`40:3` `ٱلتَّوْبِ`)', 'benim dönüş yerim de Yalnız O'nadır (`13:30` `مَتَابِ`)' ve 'O'ndan bağışlama dile çünkü O daima dönüşü kabul edendir (`110:3`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Ortası illetli (`و`) ecvef-i vâvî `تَابَ - يَتُوبُ` fiilinde `تُبْتُ`, `تُبْتُمْ`, `وَتُبْ` (`2:128` tekil emir), `لَمْ يَتُبْ` (`49:11` meczûm) biçimlerinde iki sâkin buluşması sebebiyle orta `و` düşer ve birinci harf aslî vâv'a işaret etmek için ötre (`تُـ`) alır (`تَبْتُ` değil `تُبْتُ`)! 2) Dikkate değer Rasm-ı Osmânî yazımları (`31` ayrı form): (a) `13:30`daki `وَإِلَيْهِ مَتَابِ` sözcüğünde 1. tekil şahıs yâ'sı (`متابي`) ayet sonu uyumu (*fâsıla*) gereği yazıda düşürülüp yalnız kesra ile bırakılır (Ya'kûb hem vakıfta hem vaslda yâ'yı açık okurken cumhur ikisinde de düşürür). (b) `40:3` (`وَقَابِلِ ٱلتَّوْبِ`) müennes tâ'sız bare mastardır. (c) `2:222`deki `ٱلتَّوَّٰبِينَ` çoğulu cem-i müzekker sâlim kuralıyla elifsiz (`ٱلتوبين`) yazılırken tekil `ٱلتَّوَّابُ` (`11` kez) elifli yazılır; `9:112` (`ٱلتئبون`) ve `66:5` (`تئبت`) kelimelerinde de `ت` sonrası elif hazfedilir. 3) Kıraat inceliği: `66:8` (`تَوْبَةً نَّصُوحًا`) kelimesinde Âsım râvîsi Şu'be (Ebû Bekir) zamme ile `نُصُوحًا` (*fu'ûl* mastar), diğer kurrâ ise fetha ile `نَصُوحًا` (*fa'ûl* mübâlağa) okur. 4) `13` ayette tekrarlı geçer (`2:54`, `2:160`, `4:17`, `9:118`, `25:71`'de `3`'er kez).",
+  "derivatives": {
+    "تَابَ - يَتُوبُ (`63 V` Form I ecvef-i vâvî)": "İnsanın `إِلَى ٱللَّهِ` dönüp onarması (`2:54,160`, `5:39`, `11:3`, `25:70-71`, `66:8`) ve Allah'ın `عَلَى` ile rahmet ve kolaylık içinde geri dönmesi (`2:37,187`, `9:117-118`, `73:20`)",
+    "تَوَّاب / تَوَّٰبِينَ (`12`: `11 N + 1 ADJ`)": "`11` yerde daima dönüşleri kabul eden İlâhî sıfat (`ٱلتَّوَّابُ ٱلرَّحِيمُ` `2:37`, `9:104`, `110:3`), `2:222`de ise çokça dönen insanlar (`ٱلتَّوَّٰبِينَ`)",
+    "تَوْبَة (`7 N`), تَوْب (`1 N` `40:3`), مَتَاب (`2 N` `13:30`, `25:71`)": "Birim dönüş (`4:17-18`, `66:8`), mutlak dönüş cinsi (`40:3`) ve nihâî dönüş mercii/biçimi (`13:30`, `25:71`)",
+    "ٱلتَّٰٓئِبُونَ (`1 N` `9:112`) & تَٰٓئِبَٰتٍ (`1 ADJ` `66:5`)": "Hatalarından bilinçle geri dönen erkek ve kadın topluluk nitelikleri"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 37,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:37",
+      "word_position": 6,
+      "target_word_uthmani": "فَتَابَ",
+      "target_word_rasm": "فتاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "مِن رَّبِّهِۦ كَلِمَٰتٍ فَتَابَ عَلَيْهِ إِنَّهُۥ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "... onları yerine getirdi. Rabb'i de bunun üzerine tevbesini kabul etti. Şüphesiz o tevbeleri daima kabul edendir, merhametli olandır.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍ فَتَابَ عَلَيْهِ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Adem, Rabbi'nden emirler aldı; onları yerine getirdi. Rabb'i de bunun üzerine tevbesini kabul etti. Şüphesiz o tevbeleri daima kabul edendir, merhametli olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 37,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:37",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلتَّوَّابُ",
+      "target_word_rasm": "ٱلتواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "عَلَيْهِ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... onları yerine getirdi. Rabb'i de bunun üzerine tevbesini kabul etti. Şüphesiz o tevbeleri daima kabul edendir, merhametli olandır.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَٰتٍ فَتَابَ عَلَيْهِ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Adem, Rabbi'nden emirler aldı; onları yerine getirdi. Rabb'i de bunun üzerine tevbesini kabul etti. Şüphesiz o tevbeleri daima kabul edendir, merhametli olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 54,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:54",
+      "word_position": 11,
+      "target_word_uthmani": "فَتُوبُوٓا۟",
+      "target_word_rasm": "فتوبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "... Yaratanınıza tevbe edin ve kendi benliklerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbeleri kabul ve merhamet eden olduğu için tevbenizikabul eder\" demişti.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa milletine \"Ey milletim! Buzağıyı sığınak mercii (ilâh) olarak benimsemekle kendinize yazık ettiniz. Yaratanınıza tevbe edin ve kendi benliklerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbeleri kabul ve merhamet eden olduğu için tevbenizikabul eder\" demişti.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 54,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:54",
+      "word_position": 21,
+      "target_word_uthmani": "فَتَابَ",
+      "target_word_rasm": "فتاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "... Yaratanınıza tevbe edin ve kendi benliklerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbeleri kabul ve merhamet eden olduğu için tevbenizikabul eder\" demişti.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa milletine \"Ey milletim! Buzağıyı sığınak mercii (ilâh) olarak benimsemekle kendinize yazık ettiniz. Yaratanınıza tevbe edin ve kendi benliklerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbeleri kabul ve merhamet eden olduğu için tevbenizikabul eder\" demişti.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 54,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:54",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلتَّوَّابُ",
+      "target_word_rasm": "ٱلتواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Yaratanınıza tevbe edin ve kendi benliklerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbeleri kabul ve merhamet eden olduğu için tevbenizikabul eder\" demişti.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa milletine \"Ey milletim! Buzağıyı sığınak mercii (ilâh) olarak benimsemekle kendinize yazık ettiniz. Yaratanınıza tevbe edin ve kendi benliklerinizi öldürün, bu Yaratanınız katında sizin için hayırlı olur; O daima tevbeleri kabul ve merhamet eden olduğu için tevbenizikabul eder\" demişti.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 128,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:128",
+      "word_position": 12,
+      "target_word_uthmani": "وَتُبْ",
+      "target_word_rasm": "وتب",
+      "target_word_literal_irab": "Bize rahmetle dönüp kabul et (`وَتُبْ`, I. bab emir 2. tekil eril — orta `و` düşmüş, `عَلَى` ile)",
+      "context_snippet_arabic": "لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ",
+      "context_snippet_turkish_tabula_rasa": "... Bize boyun eğme ve kulluk yollarımızı göster, tevbemizi kabul buyur, çünkü tevbeleri daima kabul eden, merhametli olan ancak Sensin\".",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MS"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! İkimizi Sana teslim olanlardan kıl, soyumuzdan da Sana teslim olanlardan bir ümmet yetiştir. Bize boyun eğme ve kulluk yollarımızı göster, tevbemizi kabul buyur, çünkü tevbeleri daima kabul eden, merhametli olan ancak Sensin\".",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 128,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:128",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلتَّوَّابُ",
+      "target_word_rasm": "ٱلتواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "عَلَيْنَآ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "context_snippet_turkish_tabula_rasa": "... Bize boyun eğme ve kulluk yollarımızı göster, tevbemizi kabul buyur, çünkü tevbeleri daima kabul eden, merhametli olan ancak Sensin\".",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! İkimizi Sana teslim olanlardan kıl, soyumuzdan da Sana teslim olanlardan bir ümmet yetiştir. Bize boyun eğme ve kulluk yollarımızı göster, tevbemizi kabul buyur, çünkü tevbeleri daima kabul eden, merhametli olan ancak Sensin\".",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 160,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:160",
+      "word_position": 3,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. Ben, tevbeleri daima kabul ve merhamet edenim.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 2,
+      "ayah": 160,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:160",
+      "word_position": 7,
+      "target_word_uthmani": "أَتُوبُ",
+      "target_word_rasm": "أتوب",
+      "target_word_literal_irab": "Rahmetimle dönüşlerini kabul ederim (`أَتُوبُ`, I. bab muzârî merfû 1. tekil — `عَلَى` ile)",
+      "context_snippet_arabic": "وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ وَأَنَا ٱلتَّوَّابُ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|1S"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. Ben, tevbeleri daima kabul ve merhamet edenim.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 2,
+      "ayah": 160,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:160",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلتَّوَّابُ",
+      "target_word_rasm": "ٱلتواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "أَتُوبُ عَلَيْهِمْ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "context_snippet_turkish_tabula_rasa": "İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. ...",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَٰٓئِكَ أَتُوبُ عَلَيْهِمْ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. Ben, tevbeleri daima kabul ve merhamet edenim.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 20,
+      "target_word_uthmani": "فَتَابَ",
+      "target_word_rasm": "فتاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 222,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:222",
+      "word_position": 25,
+      "target_word_uthmani": "ٱلتَّوَّٰبِينَ",
+      "target_word_rasm": "ٱلتوبين",
+      "target_word_literal_irab": "Sık sık doğruluk yoluna dönenleri (`ٱلتَّوَّٰبِينَ`, mübâlağa ism-i fâil çoğul mansûb, elif hazifli)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kadınların aybaşı hali hakkında da sorarlar, de ki: \"O bir ezadır (rahatsızlıktır)\". Aybaşı halinde iken kadınlardan el çekin, temizlenmelerine kadar onlara yaklaşmayın. Temizlendikleri zaman, Allah'ın size buyurduğu yoldan yaklaşın. Allah şüphesiz daima tevbe edenleri sever, temizlenenleri de sever.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 279,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:279",
+      "word_position": 10,
+      "target_word_uthmani": "تُبْتُمْ",
+      "target_word_rasm": "تبتم",
+      "target_word_literal_irab": "Eğer dönerseniz (`تُبْتُمْ`, I. bab mâzî 2. çoğul eril — orta `و` düşmüş)",
+      "context_snippet_arabic": "ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Böyle yapmazsanız, bunun Allah'a ve elçisine karşı açılmış bir savaş olduğunu bilin. Eğer tevbe ederseniz sermayeniz sizindir. Böylece haksızlık etmemiş ve haksızlığa uğramamış olursunuz.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böyle yapmazsanız, bunun Allah'a ve elçisine karşı açılmış bir savaş olduğunu bilin. Eğer tevbe ederseniz sermayeniz sizindir. Böylece haksızlık etmemiş ve haksızlığa uğramamış olursunuz.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 89,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:89",
+      "word_position": 3,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Ancak bunun ardından tevbe edip düzelenler müstesnadır. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak bunun ardından tevbe edip düzelenler müstesnadır. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 3,
+      "ayah": 90,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:90",
+      "word_position": 11,
+      "target_word_uthmani": "تَوْبَتُهُمْ",
+      "target_word_rasm": "توبتهم",
+      "target_word_literal_irab": "Dönüş (kabulü) (`ٱلتَّوْبَةُ / تَوْبَتُهُمْ`, birim mastar dişil merfû)",
+      "context_snippet_arabic": "كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+      "context_snippet_turkish_tabula_rasa": "güven duy sonra gerçeğin üzerini örtüp, gerçeğin üzerini örtmede aşırı gidenler var ya, onların tevbeleri kabul edilmeyecektir. İşte sapıklar onlardır.",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|F|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ بَعْدَ إِيمَٰنِهِمْ ثُمَّ ٱزْدَادُوا۟ كُفْرًا لَّن تُقْبَلَ تَوْبَتُهُمْ وَأُو۟لَٰٓئِكَ هُمُ ٱلضَّآلُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güven duy sonra gerçeğin üzerini örtüp, gerçeğin üzerini örtmede aşırı gidenler var ya, onların tevbeleri kabul edilmeyecektir. İşte sapıklar onlardır.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 128,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:128",
+      "word_position": 7,
+      "target_word_uthmani": "يَتُوبَ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle dönüp kabul etmesi (`يَتُوبَ / وَيَتُوبَ`, I. bab muzârî mansûb 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, onların tevbelerini kabul veya onlara azab etmesi işiyle senin bir ilişiğin yoktur; çünkü onlar zalimlerdir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, onların tevbelerini kabul veya onlara azab etmesi işiyle senin bir ilişiğin yoktur; çünkü onlar zalimlerdir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 16,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:16",
+      "word_position": 6,
+      "target_word_uthmani": "تَابَا",
+      "target_word_rasm": "تابا",
+      "target_word_literal_irab": "İkisi dönüp düzeltirse (`تَابَا`, I. bab mâzî 3. ikil eril)",
+      "context_snippet_arabic": "مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ",
+      "context_snippet_turkish_tabula_rasa": "İçinizden zina eden iki kimseye eziyet edin, tevbe edip düzeltirlerse onları bırakın. Doğrusu Allah tevbeleri daima kabul ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MD"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ إِنَّ ٱللَّهَ كَانَ تَوَّابًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden zina eden iki kimseye eziyet edin, tevbe edip düzeltirlerse onları bırakın. Doğrusu Allah tevbeleri daima kabul ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 4,
+      "ayah": 16,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:16",
+      "word_position": 13,
+      "target_word_uthmani": "تَوَّابًا",
+      "target_word_rasm": "توابا",
+      "target_word_literal_irab": "Dönüşleri daima kabul edendir (`تَوَّابًا / تَوَّابًۢا`, mübâlağa ism-i fâil mansûb)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ كَانَ تَوَّابًا رَّحِيمًا",
+      "context_snippet_turkish_tabula_rasa": "İçinizden zina eden iki kimseye eziyet edin, tevbe edip düzeltirlerse onları bırakın. Doğrusu Allah tevbeleri daima kabul ve merhamet eder.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ إِنَّ ٱللَّهَ كَانَ تَوَّابًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizden zina eden iki kimseye eziyet edin, tevbe edip düzeltirlerse onları bırakın. Doğrusu Allah tevbeleri daima kabul ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 4,
+      "ayah": 17,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:17",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلتَّوْبَةُ",
+      "target_word_rasm": "ٱلتوبة",
+      "target_word_literal_irab": "Dönüş (kabulü) (`ٱلتَّوْبَةُ / تَوْبَتُهُمْ`, birim mastar dişil merfû)",
+      "context_snippet_arabic": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. ...",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|F|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. Allah Bilen'dir, Hakim olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 17,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:17",
+      "word_position": 10,
+      "target_word_uthmani": "يَتُوبُونَ",
+      "target_word_rasm": "يتوبون",
+      "target_word_literal_irab": "Dönerler (`يَتُوبُونَ`, I. bab muzârî merfû 3. çoğul eril)",
+      "context_snippet_arabic": "ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. Allah Bilen'dir, Hakim olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 17,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:17",
+      "word_position": 14,
+      "target_word_uthmani": "يَتُوبُ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle döner / dönüşü kabul eder (`يَتُوبُ / وَيَتُوبُ`, I. bab muzârî merfû 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah kötülüğü bilmeyerek yapıp da, hemen tevbe edenlerin tevbesini kabul etmeyi üzerine almıştır. Allah işte onların tevbesini kabul eder. Allah Bilen'dir, Hakim olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 18,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:18",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلتَّوْبَةُ",
+      "target_word_rasm": "ٱلتوبة",
+      "target_word_literal_irab": "Dönüş (kabulü) (`ٱلتَّوْبَةُ / تَوْبَتُهُمْ`, birim mastar dişil merfû)",
+      "context_snippet_arabic": "وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ",
+      "context_snippet_turkish_tabula_rasa": "... \"şimdi tevbe ettim\" diyenler ile gerçeğin üzerini örten olarak ölenlerin tevbesi makbul değildir. İşte onlara elem verici azab hazırlamışızdır.",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülükleri işleyip dururken, ölüm kendisine geldiği zaman; \"şimdi tevbe ettim\" diyenler ile gerçeğin üzerini örten olarak ölenlerin tevbesi makbul değildir. İşte onlara elem verici azab hazırlamışızdır.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 18,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:18",
+      "word_position": 13,
+      "target_word_uthmani": "تُبْتُ",
+      "target_word_rasm": "تبت",
+      "target_word_literal_irab": "Döndüm (`تُبْتُ`, I. bab mâzî 1. tekil — orta `و` düşmüş)",
+      "context_snippet_arabic": "ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"şimdi tevbe ettim\" diyenler ile gerçeğin üzerini örten olarak ölenlerin tevbesi makbul değildir. İşte onlara elem verici azab hazırlamışızdır.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|1S"
+      },
+      "ayah_text_arabic_full": "وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülükleri işleyip dururken, ölüm kendisine geldiği zaman; \"şimdi tevbe ettim\" diyenler ile gerçeğin üzerini örten olarak ölenlerin tevbesi makbul değildir. İşte onlara elem verici azab hazırlamışızdır.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 26,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:26",
+      "word_position": 10,
+      "target_word_uthmani": "وَيَتُوبَ",
+      "target_word_rasm": "ويتوب",
+      "target_word_literal_irab": "Rahmetiyle dönüp kabul etmesi (`يَتُوبَ / وَيَتُوبَ`, I. bab muzârî mansûb 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ وَٱللَّهُ عَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah size açıklamak ve sizden öncekilerin yollarını göstermek ve tevbenizi kabul etmek ister. Allah Bilen'dir, Hakim'dir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ ٱلَّذِينَ مِن قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size açıklamak ve sizden öncekilerin yollarını göstermek ve tevbenizi kabul etmek ister. Allah Bilen'dir, Hakim'dir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 27,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:27",
+      "word_position": 4,
+      "target_word_uthmani": "يَتُوبَ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle dönüp kabul etmesi (`يَتُوبَ / وَيَتُوبَ`, I. bab muzârî mansûb 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah sizin tevbenizi kabul etmek ister, şehvetlerine uyanlar ise sizin büyük bir sapıklığa girmenizi isterler.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَٰتِ أَن تَمِيلُوا۟ مَيْلًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sizin tevbenizi kabul etmek ister, şehvetlerine uyanlar ise sizin büyük bir sapıklığa girmenizi isterler.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 64,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:64",
+      "word_position": 22,
+      "target_word_uthmani": "تَوَّابًا",
+      "target_word_rasm": "توابا",
+      "target_word_literal_irab": "Dönüşleri daima kabul edendir (`تَوَّابًا / تَوَّابًۢا`, mübâlağa ism-i fâil mansûb)",
+      "context_snippet_arabic": "ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًا رَّحِيمًا",
+      "context_snippet_turkish_tabula_rasa": "... Onlar, kendilerine yazık ettiklerinde, sana gelip Allah'tan mağfiret dileseler ve elçi de onlara mağfiret dileseydi, Allah'ın tevbeleri daima kabul ve merhamet eden olduğunu görürlerdi.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Biz her elçiyi ancak, Allah'ın izniyle, itaat olunması için gönderdik. Onlar, kendilerine yazık ettiklerinde, sana gelip Allah'tan mağfiret dileseler ve elçi de onlara mağfiret dileseydi, Allah'ın tevbeleri daima kabul ve merhamet eden olduğunu görürlerdi.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 92,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:92",
+      "word_position": 54,
+      "target_word_uthmani": "تَوْبَةً",
+      "target_word_rasm": "توبة",
+      "target_word_literal_irab": "Bir dönüş / katışıksız dönüşle (`تَوْبَةً`, birim mastar belirsiz mansûb)",
+      "context_snippet_arabic": "فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ وَكَانَ",
+      "context_snippet_turkish_tabula_rasa": "... Bir güvene ereni yanlışlıkla öldürenin, bir güvene eren köleyi azad etmesi ve öldürülenin ailesi bağışlamadıkça, ona diyet ödemesi gerekir. Eğer o güvene eren, size düşman bir topluluktan ise güvene eren bir köleyi azad etmek gerekir. ...",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir güvene erenin diğer güvene ereni yanlışlık dışında öldürmesi asla caiz değildir. Bir güvene ereni yanlışlıkla öldürenin, bir güvene eren köleyi azad etmesi ve öldürülenin ailesi bağışlamadıkça, ona diyet ödemesi gerekir. Eğer o güvene eren, size düşman bir topluluktan ise güvene eren bir köleyi azad etmek gerekir. Şayet aranızda anlaşma olan bir millettense, ailesine diyet ödemek ve güvene eren bir köleyi azat etmek gerekir. Bulamayana, Allah tarafından tevbesinin kabulü için, ard arda iki ay öz denetim ve sakınma tutmak gerekir. Allah bilendir. Hakim'dir.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 146,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:146",
+      "word_position": 3,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Ancak tevbe edenler, kendi benliklerini ıslah edenler, Allah'ın Kitap'ına sarılanlar ve yaşam sistemlerine Allah için candan bağlananlar müstesnadır. Onlar güven duy beraberdirler. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak tevbe edenler, kendi benliklerini ıslah edenler, Allah'ın Kitap'ına sarılanlar ve yaşam sistemlerine Allah için candan bağlananlar müstesnadır. Onlar güven duy beraberdirler. Allah güvene erenlere büyük ecir verecektir.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 5,
+      "ayah": 34,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:34",
+      "word_position": 3,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن",
+      "context_snippet_turkish_tabula_rasa": "Ancak, onları yakalamanızdan önce tevbe edenler bunun dışındadır. Biliniz ki Allah, bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak, onları yakalamanızdan önce tevbe edenler bunun dışındadır. Biliniz ki Allah, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 5,
+      "ayah": 39,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:39",
+      "word_position": 2,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Ettiği zulümden sonra tevbe edip düzelen kimse, bilsin ki Allah onun tevbesini kabul eder. Allah şüphesiz Bağışlayan'dır, merhametli olandır.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ettiği zulümden sonra tevbe edip düzelen kimse, bilsin ki Allah onun tevbesini kabul eder. Allah şüphesiz Bağışlayan'dır, merhametli olandır.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 5,
+      "ayah": 39,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:39",
+      "word_position": 9,
+      "target_word_uthmani": "يَتُوبُ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle döner / dönüşü kabul eder (`يَتُوبُ / وَيَتُوبُ`, I. bab muzârî merfû 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Ettiği zulümden sonra tevbe edip düzelen kimse, bilsin ki Allah onun tevbesini kabul eder. Allah şüphesiz Bağışlayan'dır, merhametli olandır.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "فَمَن تَابَ مِنۢ بَعْدِ ظُلْمِهِۦ وَأَصْلَحَ فَإِنَّ ٱللَّهَ يَتُوبُ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ettiği zulümden sonra tevbe edip düzelen kimse, bilsin ki Allah onun tevbesini kabul eder. Allah şüphesiz Bağışlayan'dır, merhametli olandır.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 5,
+      "ayah": 71,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:71",
+      "word_position": 8,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "... sonra Allah tevbelerini kabul etti, yine de çoğu körleştiler ve sağırlaştılar. Allah, işlediklerini görür.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌ مِّنْهُمْ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir fitne kopmayacağını sandılar, körleştiler, sağırlaştılar; sonra Allah tevbelerini kabul etti, yine de çoğu körleştiler ve sağırlaştılar. Allah, işlediklerini görür.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 74,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:74",
+      "word_position": 2,
+      "target_word_uthmani": "يَتُوبُونَ",
+      "target_word_rasm": "يتوبون",
+      "target_word_literal_irab": "Dönerler (`يَتُوبُونَ`, I. bab muzârî merfû 3. çoğul eril)",
+      "context_snippet_arabic": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسْتَغْفِرُونَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a tevbe etmezler, O'ndan mağfiret dilemezler mi? Oysa Allah Bağışlayan'dır, merhamet edendir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسْتَغْفِرُونَهُۥ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a tevbe etmezler, O'ndan mağfiret dilemezler mi? Oysa Allah Bağışlayan'dır, merhamet edendir.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 54,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:54",
+      "word_position": 21,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "سُوٓءًۢا بِجَهَٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ",
+      "context_snippet_turkish_tabula_rasa": "... Rabbiniz, sizden kim bilmeyerek fenalık işler de arkasından tövbe eder ve kendi benliğini düzeltirse, ona rahmet etmeyi kendi üzerine almıştır. O, bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤْمِنُونَ بِـَٔايَٰتِنَا فَقُلْ سَلَٰمٌ عَلَيْكُمْ كَتَبَ رَبُّكُمْ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ أَنَّهُۥ مَنْ عَمِلَ مِنكُمْ سُوٓءًۢا بِجَهَٰلَةٍ ثُمَّ تَابَ مِنۢ بَعْدِهِۦ وَأَصْلَحَ فَأَنَّهُۥ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimize güvene erenler sana gelince: \"Size selam olsun\" de. Rabbiniz, sizden kim bilmeyerek fenalık işler de arkasından tövbe eder ve kendi benliğini düzeltirse, ona rahmet etmeyi kendi üzerine almıştır. O, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 7,
+      "ayah": 143,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:143",
+      "word_position": 37,
+      "target_word_uthmani": "تُبْتُ",
+      "target_word_rasm": "تبت",
+      "target_word_literal_irab": "Döndüm (`تُبْتُ`, I. bab mâzî 1. tekil — orta `و` düşmüş)",
+      "context_snippet_arabic": "أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Yarabbi, münezzehsin, Sana tevbe ettim, ben güvene erenlerin ilkiyim\" dedi.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|1S"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, tayin ettiğimiz vakitte gelip Rabbi onunla konuşunca, Musa: \"Rabbim! Bana Kendini göster, Sana bakayım\" dedi. Allah: \"Sen Beni göremezsin ama dağa bak, eğer o yerinde kalırsa sen de Beni göreceksin\" buyurdu. Rabbi dağa tecelli edince onu yerlebir etti ve Musa da baygın düştü; ayılınca: \"Yarabbi, münezzehsin, Sana tevbe ettim, ben güvene erenlerin ilkiyim\" dedi.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 153,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:153",
+      "word_position": 5,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Kötülük işleyip ardından tevbe edenler ve güvene erenler bilsinler ki Rabbin, bu hareketlerinin ardından onları şüphesiz bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük işleyip ardından tevbe edenler ve güvene erenler bilsinler ki Rabbin, bu hareketlerinin ardından onları şüphesiz bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 9,
+      "ayah": 3,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:3",
+      "word_position": 17,
+      "target_word_uthmani": "تُبْتُمْ",
+      "target_word_rasm": "تبتم",
+      "target_word_literal_irab": "Eğer dönerseniz (`تُبْتُمْ`, I. bab mâzî 2. çoğul eril — orta `و` düşmüş)",
+      "context_snippet_arabic": "ٱلْمُشْرِكِينَ وَرَسُولُهُۥ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ve elçisinin, ortak koşanlardan uzak olduğunu, büyük büyük yöneliş toplanması günü, Allah ve elçiyi insanlara ilan eder. Eğer tevbe ederseniz, bu sizin için daha hayırlı olur, yüz çevirirseniz, bilin ki siz Allah'ı aciz bırakamazsınız. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ وَرَسُولُهُۥ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ve elçisinin, ortak koşanlardan uzak olduğunu, büyük büyük yöneliş toplanması günü, Allah ve elçiyi insanlara ilan eder. Eğer tevbe ederseniz, bu sizin için daha hayırlı olur, yüz çevirirseniz, bilin ki siz Allah'ı aciz bırakamazsınız. gerçeğin üzerini örtenlere can yakıcı azabı müjdele.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 5,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:5",
+      "word_position": 16,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟",
+      "context_snippet_turkish_tabula_rasa": "... Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse yollarını serbest bırakın. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli aylar çıkınca, puta tapanları bulduğunuz yerde öldürün; onları yakalayıp hapsedin; her gözetleme yerinde onları bekleyin. Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse yollarını serbest bırakın. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 11,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:11",
+      "word_position": 2,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟",
+      "context_snippet_turkish_tabula_rasa": "Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse, sizin yaşam ve hesap sistemi kardeşiniz olurlar. Bilen kimseler için ayetleri uzun uzadıya açıklıyoruz.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَنُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse, sizin yaşam ve hesap sistemi kardeşiniz olurlar. Bilen kimseler için ayetleri uzun uzadıya açıklıyoruz.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 15,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:15",
+      "word_position": 4,
+      "target_word_uthmani": "وَيَتُوبُ",
+      "target_word_rasm": "ويتوب",
+      "target_word_literal_irab": "Rahmetiyle döner / dönüşü kabul eder (`يَتُوبُ / وَيَتُوبُ`, I. bab muzârî merfû 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن",
+      "context_snippet_turkish_tabula_rasa": "Onlarla savaşın ki Allah sizin elinizle onları azablandırsın, rezil etsin ve sizi üstün getirsin de güvene erenlerin gönüllerini ferahlandırsın, kalblerindeki öfkeyi gidersin. Allah dilediğinin tevbesini kabul eder. Allah Bilendir, Hakimdir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlarla savaşın ki Allah sizin elinizle onları azablandırsın, rezil etsin ve sizi üstün getirsin de güvene erenlerin gönüllerini ferahlandırsın, kalblerindeki öfkeyi gidersin. Allah dilediğinin tevbesini kabul eder. Allah Bilendir, Hakimdir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 27,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:27",
+      "word_position": 2,
+      "target_word_uthmani": "يَتُوبُ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle döner / dönüşü kabul eder (`يَتُوبُ / وَيَتُوبُ`, I. bab muzârî merfû 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعْدِ",
+      "context_snippet_turkish_tabula_rasa": "Allah bundan sonra da dilediğinin tevbesini kabul eder. Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعْدِ ذَٰلِكَ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah bundan sonra da dilediğinin tevbesini kabul eder. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 74,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:74",
+      "word_position": 26,
+      "target_word_uthmani": "يَتُوبُوا۟",
+      "target_word_rasm": "يتوبوا",
+      "target_word_literal_irab": "Dönsünler diye / dönerlerse (`لِيَتُوبُوٓا۟ / يَتُوبُوا۟`, I. bab muzârî mansûb/meczûm 3. çoğul eril)",
+      "context_snippet_arabic": "مِن فَضْلِهِۦ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah ve elçiyi bol nimetinden onları zenginleştirdi ve öç almaya kalktılar. Eğer tevbe ederlerse iyiliklerine olur; şayet yüz çevirirlerse, Allah onları dünya ve ahirette can yakıcı azaba uğratır. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّ وَلَا نَصِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, müslüman olduktan sonra gerçeğin üzerini örtüp küfür sözünü söylemişler iken, söylemedik diye Allah'a bağlayıcı ahit ettiler, başaramayacakları bir şeye giriştiler; Allah ve elçiyi bol nimetinden onları zenginleştirdi ve öç almaya kalktılar. Eğer tevbe ederlerse iyiliklerine olur; şayet yüz çevirirlerse, Allah onları dünya ve ahirette can yakıcı azaba uğratır. Yeryüzünde bir dost ve yardımcıları yoktur.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 102,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:102",
+      "word_position": 12,
+      "target_word_uthmani": "يَتُوبَ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle dönüp kabul etmesi (`يَتُوبَ / وَيَتُوبَ`, I. bab muzârî mansûb 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlar iyi işi kötüyle karıştırmışlardı. Allah'ın onların tevbesini kabul etmesi umulur; çünkü O bağışlayandır, merhamet edendir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Savaştan geri kalanların bir kısmı da, suçlarını itiraf ettiler. Onlar iyi işi kötüyle karıştırmışlardı. Allah'ın onların tevbesini kabul etmesi umulur; çünkü O bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 104,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:104",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلتَّوْبَةَ",
+      "target_word_rasm": "ٱلتوبة",
+      "target_word_literal_irab": "Dönüşü (`ٱلتَّوْبَةَ`, birim mastar mansûb mef'ûl)",
+      "context_snippet_arabic": "ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, kullarının tevbesini kabul ettiğini, sadakalar aldığını, Allah'ın tevbeleri kabul ve merhamet eden olduğunu bilmiyorlar mı?",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|F|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, kullarının tevbesini kabul ettiğini, sadakalar aldığını, Allah'ın tevbeleri kabul ve merhamet eden olduğunu bilmiyorlar mı?",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 104,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:104",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلتَّوَّابُ",
+      "target_word_rasm": "ٱلتواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın, kullarının tevbesini kabul ettiğini, sadakalar aldığını, Allah'ın tevbeleri kabul ve merhamet eden olduğunu bilmiyorlar mı?",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, kullarının tevbesini kabul ettiğini, sadakalar aldığını, Allah'ın tevbeleri kabul ve merhamet eden olduğunu bilmiyorlar mı?",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 106,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:106",
+      "word_position": 8,
+      "target_word_uthmani": "يَتُوبُ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle döner / dönüşü kabul eder (`يَتُوبُ / وَيَتُوبُ`, I. bab muzârî merfû 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ وَٱللَّهُ عَلِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Savaştan geri kalanların bir kısmının işi de Allah'ın buyruğuna kalmıştır. Allah onlara ya azabeder, ya da tevbelerini kabul eder. O bilendir, hakimdir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Savaştan geri kalanların bir kısmının işi de Allah'ın buyruğuna kalmıştır. Allah onlara ya azabeder, ya da tevbelerini kabul eder. O bilendir, hakimdir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 112,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:112",
+      "word_position": 1,
+      "target_word_uthmani": "ٱلتَّٰٓئِبُونَ",
+      "target_word_rasm": "ٱلتئبون",
+      "target_word_literal_irab": "Yanlıştan dönüp yönelenler (`ٱلتَّٰٓئِبُونَ`, I. bab ism-i fâil çoğul merfû, elif hazifli)",
+      "context_snippet_arabic": "ٱلتَّٰٓئِبُونَ ٱلْعَٰبِدُونَ ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a tevbe eden, kullukta bulunan, O'nu öven, O'nun uğrunda gezen, tevazu ile öne eğilme ve boyun eğme ve teslimiyet eden, uygun olanı buyurup fenalığı yasak eden ve Allah'ın yasalarını koruyan güvene erenlere de müjdele.",
+      "morphology": {
+        "lemma": "t~a`^}ibuwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:t~a`^}ibuwn|ROOT:twb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلتَّٰٓئِبُونَ ٱلْعَٰبِدُونَ ٱلْحَٰمِدُونَ ٱلسَّٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّٰجِدُونَ ٱلْءَامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَٰفِظُونَ لِحُدُودِ ٱللَّهِ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a tevbe eden, kullukta bulunan, O'nu öven, O'nun uğrunda gezen, tevazu ile öne eğilme ve boyun eğme ve teslimiyet eden, uygun olanı buyurup fenalığı yasak eden ve Allah'ın yasalarını koruyan güvene erenlere de müjdele.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 117,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:117",
+      "word_position": 2,
+      "target_word_uthmani": "تَّابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Allah, sıkıntılı bir zamanda bir kısmının kalbleri kaymak üzere iken elçi'e uyan Muhacirlerle Ensarın ve elçinin tevbelerini kabul etti. Tevbelerini, onlara karşı şefkatli ve merhametli olduğu için kabul etmiştir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُۥ بِهِمْ رَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Allah, sıkıntılı bir zamanda bir kısmının kalbleri kaymak üzere iken elçi'e uyan Muhacirlerle Ensarın ve elçinin tevbelerini kabul etti. Tevbelerini, onlara karşı şefkatli ve merhametli olduğu için kabul etmiştir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 117,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:117",
+      "word_position": 22,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُۥ بِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Allah, sıkıntılı bir zamanda bir kısmının kalbleri kaymak üzere iken elçi'e uyan Muhacirlerle Ensarın ve elçinin tevbelerini kabul etti. Tevbelerini, onlara karşı şefkatli ve merhametli olduğu için kabul etmiştir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ إِنَّهُۥ بِهِمْ رَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Allah, sıkıntılı bir zamanda bir kısmının kalbleri kaymak üzere iken elçi'e uyan Muhacirlerle Ensarın ve elçinin tevbelerini kabul etti. Tevbelerini, onlara karşı şefkatli ve merhametli olduğu için kabul etmiştir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 118,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:118",
+      "word_position": 24,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. Çünkü O tevbeleri kabul eden, merhametli olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 118,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:118",
+      "word_position": 26,
+      "target_word_uthmani": "لِيَتُوبُوٓا۟",
+      "target_word_rasm": "ليتوبوا",
+      "target_word_literal_irab": "Dönsünler diye / dönerlerse (`لِيَتُوبُوٓا۟ / يَتُوبُوا۟`, I. bab muzârî mansûb/meczûm 3. çoğul eril)",
+      "context_snippet_arabic": "ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. Çünkü O tevbeleri kabul eden, merhametli olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 118,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:118",
+      "word_position": 30,
+      "target_word_uthmani": "ٱلتَّوَّابُ",
+      "target_word_rasm": "ٱلتواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "context_snippet_turkish_tabula_rasa": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. ...",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bütün genişliğine rağmen yer onlara dar gelerek benlikleri kendilerini sıkıştırıp, Allah'tan başka sığınacak kimse olmadığını anlayan, savaştan geri kalmış üç kişinin tevbesini de kabul etti. Allah, tevbe ettikleri için onların tevbesini kabul etmiştir. Çünkü O tevbeleri kabul eden, merhametli olandır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 126,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:126",
+      "word_position": 13,
+      "target_word_uthmani": "يَتُوبُونَ",
+      "target_word_rasm": "يتوبون",
+      "target_word_literal_irab": "Dönerler (`يَتُوبُونَ`, I. bab muzârî merfû 3. çoğul eril)",
+      "context_snippet_arabic": "مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, yılda bir iki defa belaya uğratılıp imtihana çekildiklerini görmüyorlar mı? Böyleyken yine tevbe etmiyorlar, ibret de almıyorlar.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, yılda bir iki defa belaya uğratılıp imtihana çekildiklerini görmüyorlar mı? Böyleyken yine tevbe etmiyorlar, ibret de almıyorlar.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 3,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:3",
+      "word_position": 5,
+      "target_word_uthmani": "تُوبُوٓا۟",
+      "target_word_rasm": "توبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا",
+      "context_snippet_turkish_tabula_rasa": "... Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 52,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:52",
+      "word_position": 5,
+      "target_word_uthmani": "تُوبُوٓا۟",
+      "target_word_rasm": "توبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Rabbinizden mağfiret dileyin, sonra O'na tevbe edin ki size gökten bol bol yağmur göndersin, kuvvetinize kuvvet katsın; suçlular olarak yüz çevirmeyin. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Rabbinizden mağfiret dileyin, sonra O'na tevbe edin ki size gökten bol bol yağmur göndersin, kuvvetinize kuvvet katsın; suçlular olarak yüz çevirmeyin.\"",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 61,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:61",
+      "word_position": 22,
+      "target_word_uthmani": "تُوبُوٓا۟",
+      "target_word_rasm": "توبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "... sizi yeryüzünde yaratıp orayı imar etmenizi dileyen O'dur. Öyleyse O'ndan mağfiret dileyin, sonra da O'na tevbe edin. Doğrusu Rabbim size yakın ve duaları kabul edendir\" dedi.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milletine kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin; O'ndan başka sığınak merciiniz yoktur; sizi yeryüzünde yaratıp orayı imar etmenizi dileyen O'dur. Öyleyse O'ndan mağfiret dileyin, sonra da O'na tevbe edin. Doğrusu Rabbim size yakın ve duaları kabul edendir\" dedi.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 90,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:90",
+      "word_position": 4,
+      "target_word_uthmani": "تُوبُوٓا۟",
+      "target_word_rasm": "توبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbinizden mağfiret dileyin; O'na tevbe edin; doğrusu Rabbim merhamet eder ve çok sever.\"",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى رَحِيمٌ وَدُودٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbinizden mağfiret dileyin; O'na tevbe edin; doğrusu Rabbim merhamet eder ve çok sever.\"",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 112,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:112",
+      "word_position": 5,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا۟",
+      "context_snippet_turkish_tabula_rasa": "Sen, beraberindeki tevbe edenlerle birlikte emrolunduğun gibi dosdoğru ol. Aşırı gitmeyin, doğrusu Allah yaptıklarınızı görür.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَقِمْ كَمَآ أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا۟ إِنَّهُۥ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen, beraberindeki tevbe edenlerle birlikte emrolunduğun gibi dosdoğru ol. Aşırı gitmeyin, doğrusu Allah yaptıklarınızı görür.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 13,
+      "ayah": 30,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:30",
+      "word_position": 28,
+      "target_word_uthmani": "مَتَابِ",
+      "target_word_rasm": "متاب",
+      "target_word_literal_irab": "Benim dönüş yerim / merciim (`مَتَابِ`, mîmli mastar/mekân mecrûr — yâ-i mütekellim hazifli Rasm)",
+      "context_snippet_arabic": "عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+      "context_snippet_turkish_tabula_rasa": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; de ki: ...",
+      "morphology": {
+        "lemma": "mataAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mataAb|ROOT:twb|M|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; de ki: \"O benim Rabbim'dir, O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güvenirim, dönüşüm de O'nadır.\"",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 119,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:119",
+      "word_position": 9,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra doğrusu Rabbin, bilmeyerek kötülük işleyip ardından tevbe eden ve ıslah olanlardan yanadır. Rabbin bundan sonra da bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra doğrusu Rabbin, bilmeyerek kötülük işleyip ardından tevbe eden ve ıslah olanlardan yanadır. Rabbin bundan sonra da bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 19,
+      "ayah": 60,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:60",
+      "word_position": 3,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًا",
+      "context_snippet_turkish_tabula_rasa": "Ancak tevbe eden, güvene erip yararlı iş yapanlar bunun dışındadır. Bunlar hiçbir haksızlığa uğratılmadan, Rahman'ın kullarına gaybde vadettiği esenlik bahçesine, Adn esenlik bahçelerine gireceklerdir. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًا فَأُو۟لَٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ شَيْـًٔا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak tevbe eden, güvene erip yararlı iş yapanlar bunun dışındadır. Bunlar hiçbir haksızlığa uğratılmadan, Rahman'ın kullarına gaybde vadettiği esenlik bahçesine, Adn esenlik bahçelerine gireceklerdir. Şüphesiz, O'nun sözü yerini bulacaktır.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 20,
+      "ayah": 82,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:82",
+      "word_position": 4,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Ben, tevbe edeni, güvene erip yararlı iş işleyerek doğru yola gireni bağışlarım.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِنِّى لَغَفَّارٌ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًا ثُمَّ ٱهْتَدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Ben, tevbe edeni, güvene erip yararlı iş işleyerek doğru yola gireni bağışlarım.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 20,
+      "ayah": 122,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:122",
+      "word_position": 4,
+      "target_word_uthmani": "فَتَابَ",
+      "target_word_rasm": "فتاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "ثُمَّ ٱجْتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Rabbi yine de onu seçip tevbesini kabul etti, ona doğru yolu gösterdi.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ ٱجْتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi yine de onu seçip tevbesini kabul etti, ona doğru yolu gösterdi.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 5,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:5",
+      "word_position": 3,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Ama bundan sonra, tevbe edip düzelenler bunun dışındadır. Şüphesiz Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلَّذِينَ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama bundan sonra, tevbe edip düzelenler bunun dışındadır. Şüphesiz Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 24,
+      "ayah": 10,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:10",
+      "word_position": 8,
+      "target_word_uthmani": "تَوَّابٌ",
+      "target_word_rasm": "تواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul eden (`ٱلتَّوَّابُ / تَوَّابٌ`, mübâlağa ism-i fâil merfû)",
+      "context_snippet_arabic": "وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ حَكِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın size nimet ve rahmeti bulunmasa ve Allah tevbeleri kabul eden ve Hakim olmasaydı suçlunun hemen cezasını verirdi.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ تَوَّابٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın size nimet ve rahmeti bulunmasa ve Allah tevbeleri kabul eden ve Hakim olmasaydı suçlunun hemen cezasını verirdi.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 71,
+      "target_word_uthmani": "وَتُوبُوٓا۟",
+      "target_word_rasm": "وتوبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا",
+      "context_snippet_turkish_tabula_rasa": "... Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 70,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:70",
+      "word_position": 3,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا",
+      "context_snippet_turkish_tabula_rasa": "Ancak tevbe eden, güvene erip yararlı iş işleyenlerin, işte Allah onların kötülüklerini iyiliklere çevirir. Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَٰلِحًا فَأُو۟لَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ حَسَنَٰتٍ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak tevbe eden, güvene erip yararlı iş işleyenlerin, işte Allah onların kötülüklerini iyiliklere çevirir. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 25,
+      "ayah": 71,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:71",
+      "word_position": 2,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَمَن تَابَ وَعَمِلَ صَٰلِحًا فَإِنَّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Kim tevbe edip yararlı iş işlerse, şüphesiz o, Allah'a gereği gibi yönelmiş olur.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَن تَابَ وَعَمِلَ صَٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim tevbe edip yararlı iş işlerse, şüphesiz o, Allah'a gereği gibi yönelmiş olur.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 25,
+      "ayah": 71,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:71",
+      "word_position": 6,
+      "target_word_uthmani": "يَتُوبُ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Allah'a yönelip döner (`يَتُوبُ`, I. bab muzârî merfû 3. tekil eril — `إِلَى` ile)",
+      "context_snippet_arabic": "وَعَمِلَ صَٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا",
+      "context_snippet_turkish_tabula_rasa": "Kim tevbe edip yararlı iş işlerse, şüphesiz o, Allah'a gereği gibi yönelmiş olur.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَن تَابَ وَعَمِلَ صَٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim tevbe edip yararlı iş işlerse, şüphesiz o, Allah'a gereği gibi yönelmiş olur.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 25,
+      "ayah": 71,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:71",
+      "word_position": 9,
+      "target_word_uthmani": "مَتَابًا",
+      "target_word_rasm": "متابا",
+      "target_word_literal_irab": "Gerçek ve tam bir dönüşle (`مَتَابًا`, mîmli mastar mef'ûl-i mutlak mansûb)",
+      "context_snippet_arabic": "يَتُوبُ إِلَى ٱللَّهِ مَتَابًا",
+      "context_snippet_turkish_tabula_rasa": "Kim tevbe edip yararlı iş işlerse, şüphesiz o, Allah'a gereği gibi yönelmiş olur.",
+      "morphology": {
+        "lemma": "mataAb",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:mataAb|ROOT:twb|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَن تَابَ وَعَمِلَ صَٰلِحًا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kim tevbe edip yararlı iş işlerse, şüphesiz o, Allah'a gereği gibi yönelmiş olur.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 28,
+      "ayah": 67,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:67",
+      "word_position": 3,
+      "target_word_uthmani": "تَابَ",
+      "target_word_rasm": "تاب",
+      "target_word_literal_irab": "Yanlıştan dönüp yöneldi (`تَابَ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًا",
+      "context_snippet_turkish_tabula_rasa": "Fakat, tevbe eden, güvene erip yararlı iş işleyen kimsenin, kurtuluşa erenler arasında bulunması umulur.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "فَأَمَّا مَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحًا فَعَسَىٰٓ أَن يَكُونَ مِنَ ٱلْمُفْلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat, tevbe eden, güvene erip yararlı iş işleyen kimsenin, kurtuluşa erenler arasında bulunması umulur.",
+      "contextual_meaning": "Dönüş ve onarım bütünlüğü (`تَابَ وَأَصْلَحَ` / `عَمِلَ صَٰلِحًا`: `2:160`, `3:89`, `4:16,146`, `5:39`, `6:54`, `16:119`, `19:60`, `20:82`, `24:5`, `25:70-71`, `28:67`): Sözlü pişmanlıkla yetinmeyip bozulanı düzeltme, gizleneni açıklama (`2:160`) ve kötülüklerin iyiliğe dönüştürülmesi (`25:70`) şartları."
+    },
+    {
+      "surah": 33,
+      "ayah": 24,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:24",
+      "word_position": 10,
+      "target_word_uthmani": "يَتُوبَ",
+      "target_word_rasm": "يتوب",
+      "target_word_literal_irab": "Rahmetiyle dönüp kabul etmesi (`يَتُوبَ / وَيَتُوبَ`, I. bab muzârî mansûb 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Bu sebeple Allah, doğruları doğrulukları ile mükafatlandırır; ikiyüzlüleri de dilerse azablandırır veya tevbelerini kabul eder. Şüphesiz Allah bağışlayandır, merhamet edendir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu sebeple Allah, doğruları doğrulukları ile mükafatlandırır; ikiyüzlüleri de dilerse azablandırır veya tevbelerini kabul eder. Şüphesiz Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 73,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:73",
+      "word_position": 7,
+      "target_word_uthmani": "وَيَتُوبَ",
+      "target_word_rasm": "ويتوب",
+      "target_word_literal_irab": "Rahmetiyle dönüp kabul etmesi (`يَتُوبَ / وَيَتُوبَ`, I. bab muzârî mansûb 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun sonucu olarak, Allah, ikiyüzlü erkek ve kadınlara, Allah'a ortak koşan erkek ve kadınlara azap verecektir. Allah güvene eren erkek ve kadınların tevbelerini kabul buyuracaktır. Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun sonucu olarak, Allah, ikiyüzlü erkek ve kadınlara, Allah'a ortak koşan erkek ve kadınlara azap verecektir. Allah güvene eren erkek ve kadınların tevbelerini kabul buyuracaktır. Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 3,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:3",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلتَّوْبِ",
+      "target_word_rasm": "ٱلتوب",
+      "target_word_literal_irab": "Dönüşü / yönelişi (`ٱلتَّوْبِ`, I. bab soyut cins mastar mecrûr muzâfun ileyh — Kur'an'da tek örnek)",
+      "context_snippet_arabic": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى",
+      "context_snippet_turkish_tabula_rasa": "O, sapma ve kusuru bağışlayan, tevbeyi kabul eden, cezası şiddetli, lütfu bol olandır. O'ndan başka sığınak mercii (ilâh) yoktur, dönüş O'nadır.",
+      "morphology": {
+        "lemma": "t~awob",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:t~awob|ROOT:twb|M|GEN"
+      },
+      "ayah_text_arabic_full": "غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ لَآ إِلَٰهَ إِلَّا هُوَ إِلَيْهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "O, sapma ve kusuru bağışlayan, tevbeyi kabul eden, cezası şiddetli, lütfu bol olandır. O'ndan başka sığınak mercii (ilâh) yoktur, dönüş O'nadır.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 7,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:7",
+      "word_position": 22,
+      "target_word_uthmani": "تَابُوا۟",
+      "target_word_rasm": "تابوا",
+      "target_word_literal_irab": "Döndüler / yön değiştirdiler (`تَابُوا۟`, I. bab mâzî 3. çoğul eril)",
+      "context_snippet_arabic": "وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbimiz! İlmin ve rahmetin herşeyi içine almıştır. Tevbe edip Senin yoluna uyanları bağışla; onları yakıcı yıkım yurdunun azabından koru\" diye bağışlanma dilerler.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Arşı yüklenen ve çevresinde bulunanlar, Rablerini överek tesbih ederler; O'na güven duyup emin olurlar. güvene erenler için: \"Rabbimiz! İlmin ve rahmetin herşeyi içine almıştır. Tevbe edip Senin yoluna uyanları bağışla; onları yakıcı yıkım yurdunun azabından koru\" diye bağışlanma dilerler.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 42,
+      "ayah": 25,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:25",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلتَّوْبَةَ",
+      "target_word_rasm": "ٱلتوبة",
+      "target_word_literal_irab": "Dönüşü (`ٱلتَّوْبَةَ`, birim mastar mansûb mef'ûl)",
+      "context_snippet_arabic": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, güvene erip yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, gerçeğin üzerini örtenler için çetin azap vardır.",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَعْفُوا۟ عَنِ ٱلسَّيِّـَٔاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, güvene erip yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, gerçeğin üzerini örtenler için çetin azap vardır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 15,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:15",
+      "word_position": 41,
+      "target_word_uthmani": "تُبْتُ",
+      "target_word_rasm": "تبت",
+      "target_word_literal_irab": "Döndüm (`تُبْتُ`, I. bab mâzî 1. tekil — orta `و` düşmüş)",
+      "context_snippet_arabic": "فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ",
+      "context_snippet_turkish_tabula_rasa": "... doğrusu Sana yöneldim, ben, kendini Sana verenlerdenim\" demesi gerekir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|1S"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz insana, anne ve babasına karşı iyi davranmasını tavsiye etmişizdir; zira annesi, onu, karnında, zorluğa uğrayarak taşımış; onu güçlükle doğurmuştur. Taşınması ve sütten kesilmesi otuz ay sürer. Sonunda erginlik çağına erince ve kırk yaşına varınca: \"Rabbim! Bana ve anne babama verdiğin nimete nimetin değerini bilip açığa vurmamı ve benim hoşnut olacağın yararlı bir işi yapmamı sağla; bana verdiğin gibi soyuma da salah ver; doğrusu Sana yöneldim, ben, kendini Sana verenlerdenim\" demesi gerekir.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 11,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:11",
+      "word_position": 36,
+      "target_word_uthmani": "يَتُبْ",
+      "target_word_rasm": "يتب",
+      "target_word_literal_irab": "Kim dönmezse (`يَتُبْ`, I. bab muzârî meczûm 3. tekil eril — orta `و` düşmüş)",
+      "context_snippet_arabic": "ٱلْإِيمَٰنِ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "... güven duy sonra yoldan çıkmış olmak ne kötü bir addır. Tevbe etmeyenler, işte onlar zalimlerdir.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Bir topluluk bir diğerini alaya almasın, belki de onlar kendilerinden daha iyidirler. Kadınlar da başka kadınları alaya almasınlar, belki onlar kendilerinden daha iyidirler. Kendi kendinizi ayıplamayın; birbirinizi kötü lakaplarla çağırmayın; güven duy sonra yoldan çıkmış olmak ne kötü bir addır. Tevbe etmeyenler, işte onlar zalimlerdir.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 30,
+      "target_word_uthmani": "تَوَّابٌ",
+      "target_word_rasm": "تواب",
+      "target_word_literal_irab": "Dönüşleri çokça kabul edendir (`تَوَّابٌ`, mübâlağa sıfat merfû)",
+      "context_snippet_arabic": "ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 13,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:13",
+      "word_position": 11,
+      "target_word_uthmani": "وَتَابَ",
+      "target_word_rasm": "وتاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَٰتٍ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 66,
+      "ayah": 4,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:4",
+      "word_position": 2,
+      "target_word_uthmani": "تَتُوبَآ",
+      "target_word_rasm": "تتوبا",
+      "target_word_literal_irab": "İkiniz Allah'a dönerseniz (`تَتُوبَآ`, I. bab muzârî meczûm 2. ikil — `إِلَى` ile)",
+      "context_snippet_arabic": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ",
+      "context_snippet_turkish_tabula_rasa": "Ey elçi'in eşleri! Eğer ikiniz de Allah'a tevbe ederseniz, kaymış olan kalpleriniz düzelmiş olur. Eğer eşinizin aleyhinde yardımlaşarak bir şey yapmağa kalkarsanız, bilin ki Allah onun dostu, bundan başka Cebrail, iyi güvene erenler ve kozmik görevliler de yardımcısıdır.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|2D|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن تَظَٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَٰلِحُ ٱلْمُؤْمِنِينَ وَٱلْمَلَٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi'in eşleri! Eğer ikiniz de Allah'a tevbe ederseniz, kaymış olan kalpleriniz düzelmiş olur. Eğer eşinizin aleyhinde yardımlaşarak bir şey yapmağa kalkarsanız, bilin ki Allah onun dostu, bundan başka Cebrail, iyi güvene erenler ve kozmik görevliler de yardımcısıdır.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 66,
+      "ayah": 5,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:5",
+      "word_position": 13,
+      "target_word_uthmani": "تَٰٓئِبَٰتٍ",
+      "target_word_rasm": "تئبت",
+      "target_word_literal_irab": "Dönüp yönelen kadınlar (`تَٰٓئِبَٰتٍ`, I. bab ism-i fâil dişil çoğul mansûb, elif hazifli)",
+      "context_snippet_arabic": "مُسْلِمَٰتٍ مُّؤْمِنَٰتٍ قَٰنِتَٰتٍ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍ سَٰٓئِحَٰتٍ ثَيِّبَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "... sizden daha iyi olan, kendini Allah'a veren, güvene eren, boyun eğen, tevbe eden, kulluk eden, öz denetim ve sakınma tutan, dul ve bakire eşler verebilir.",
+      "morphology": {
+        "lemma": "ta`^}iba`t",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:ta`^}iba`t|ROOT:twb|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَٰتٍ مُّؤْمِنَٰتٍ قَٰنِتَٰتٍ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍ سَٰٓئِحَٰتٍ ثَيِّبَٰتٍ وَأَبْكَارًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçi'in eşleri! Eğer o sizi boşarsa, Rabbi ona; sizden daha iyi olan, kendini Allah'a veren, güvene eren, boyun eğen, tevbe eden, kulluk eden, öz denetim ve sakınma tutan, dul ve bakire eşler verebilir.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 66,
+      "ayah": 8,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:8",
+      "word_position": 4,
+      "target_word_uthmani": "تُوبُوٓا۟",
+      "target_word_rasm": "توبوا",
+      "target_word_literal_irab": "Yaratıcınıza dönün (`تُوبُوٓا۟ / فَتُوبُوٓا۟ / وَتُوبُوٓا۟`, I. bab emir 2. çoğul eril, `إِلَى` ile)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan esenlik bahçelerine koysun. Allah'ın elçisini ve onunla beraber olan güvene erenleri utandırmayacağı o gün, ışıkları önlerinde ve defterleri sağlarından verilmiş olarak yürürler ve: ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:taAba|ROOT:twb|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan esenlik bahçelerine koysun. Allah'ın elçisini ve onunla beraber olan güvene erenleri utandırmayacağı o gün, ışıkları önlerinde ve defterleri sağlarından verilmiş olarak yürürler ve: \"Rabbimiz! Işığımızı tamamla, bizi bağışla, doğrusu Sen herşeye Kadir'sin\" derler.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 66,
+      "ayah": 8,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:8",
+      "word_position": 7,
+      "target_word_uthmani": "تَوْبَةً",
+      "target_word_rasm": "توبة",
+      "target_word_literal_irab": "Bir dönüş / katışıksız dönüşle (`تَوْبَةً`, birim mastar belirsiz mansûb)",
+      "context_snippet_arabic": "تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan esenlik bahçelerine koysun. Allah'ın elçisini ve onunla beraber olan güvene erenleri utandırmayacağı o gün, ışıkları önlerinde ve defterleri sağlarından verilmiş olarak yürürler ve: ...",
+      "morphology": {
+        "lemma": "tawobap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:tawobap|ROOT:twb|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi örtsün, sizi, içlerinden ırmaklar akan esenlik bahçelerine koysun. Allah'ın elçisini ve onunla beraber olan güvene erenleri utandırmayacağı o gün, ışıkları önlerinde ve defterleri sağlarından verilmiş olarak yürürler ve: \"Rabbimiz! Işığımızı tamamla, bizi bağışla, doğrusu Sen herşeye Kadir'sin\" derler.",
+      "contextual_meaning": "Elçilerin çağrısı, katışıksız yöneliş ve arınma (`تُوبُوٓا۟ إِلَى ٱللَّهِ`: `2:54,222,279`, `7:143`, `9:112`, `11:3,52,61,90`, `13:30`, `24:31`, `40:3,7`, `46:15`, `66:4-8`): Bağışlanma dileğinin ardından Yaratıcıya dönmek, sürekli dönenlerin sevilmesi (`2:222`), `تَوْبَةً نَّصُوحًا` (`66:8`) ve `وَقَابِلِ ٱلتَّوْبِ` (`40:3`)."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 24,
+      "target_word_uthmani": "فَتَابَ",
+      "target_word_rasm": "فتاب",
+      "target_word_literal_irab": "Rahmet ve kolaylaştırmayla kuluna geri döndü (`تَابَ / فَتَابَ / وَتَابَ / تَّابَ`, I. bab mâzî 3. tekil eril — `عَلَى` ile)",
+      "context_snippet_arabic": "أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا",
+      "context_snippet_turkish_tabula_rasa": "... sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; ...",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:taAba|ROOT:twb|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    },
+    {
+      "surah": 85,
+      "ayah": 10,
+      "surah_name": "Bürûc",
+      "ayah_ref": "85:10",
+      "word_position": 8,
+      "target_word_uthmani": "يَتُوبُوا۟",
+      "target_word_rasm": "يتوبوا",
+      "target_word_literal_irab": "Dönmezlerse (`يَتُوبُوا۟`, I. bab muzârî meczûm 3. çoğul eril)",
+      "context_snippet_arabic": "وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ",
+      "context_snippet_turkish_tabula_rasa": "Ama güvene ermiş erkek ve kadınlara işkence ederek onları yaşam sistemlerinden çevirmeğe uğraşanlar, eğer tevbe etmezlerse, onlara yakıcı yıkım yurdu azabı vardır. Yakıcı azap da onlaradır.",
+      "morphology": {
+        "lemma": "taAba",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:taAba|ROOT:twb|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama güvene ermiş erkek ve kadınlara işkence ederek onları yaşam sistemlerinden çevirmeğe uğraşanlar, eğer tevbe etmezlerse, onlara yakıcı yıkım yurdu azabı vardır. Yakıcı azap da onlaradır.",
+      "contextual_meaning": "Dönüşün reddi, geç kalmış pişmanlık ve dönmemenin sonucu (`3:90`, `4:18`, `9:74,126`, `49:11`, `85:10`): Ölüm kapıyı çalınca yapılan sözde dönüşün geçersizliği (`4:18`), sapmada inat (`3:90`), sınanmalardan ders almama (`9:126`) ve dönmeyenlerin zulümde kalması (`49:11`, `85:10`)."
+    },
+    {
+      "surah": 110,
+      "ayah": 3,
+      "surah_name": "Nasr",
+      "ayah_ref": "110:3",
+      "word_position": 7,
+      "target_word_uthmani": "تَوَّابًۢا",
+      "target_word_rasm": "توابا",
+      "target_word_literal_irab": "Dönüşleri daima kabul edendir (`تَوَّابًا / تَوَّابًۢا`, mübâlağa ism-i fâil mansûb)",
+      "context_snippet_arabic": "وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın yaşam sistemine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir.",
+      "morphology": {
+        "lemma": "taw~aAb",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:taw~aAb|ROOT:twb|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın yaşam sistemine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir.",
+      "contextual_meaning": "İlâhî rahmet dönüşü, kabul ve kolaylaştırma (`تَابَ عَلَى`: `2:37,128,187`, `4:17,26-27`, `9:104,117-118`, `20:122`, `42:25`, `58:13`, `73:20`, `110:3`): Âdem ve toplulukların dönüşüne karşılık verilmesi, `9:118`de önce ilâhî dönmenin insanın dönmesine yol açması (`تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟`) ve gece-infak-eş ilişkisinde yükün hafifletilmesi (`2:187`, `58:13`, `73:20`)."
+    }
+  ]
+}

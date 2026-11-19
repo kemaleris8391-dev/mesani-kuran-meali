@@ -1,0 +1,2285 @@
+{
+  "root": "أ-ك-ل",
+  "root_latin": "E-K-L (Akl)",
+  "concept_name": "Ekl / Ükül (Parça Parça Eksiltip Tüketme, Beslenme ve Verim Alma)",
+  "rank": 102,
+  "total_occurrences": 109,
+  "unique_ayahs_count": 101,
+  "unified_core_mechanism": "Kökün 109 geçişlik ağını tek kırılmaz eksiltme ve içe katıp tüketme mekaniği taşır: 'Bir bütünden parça parça eksilterek kendi bünyesine, hesabına veya etki alanına katıp tüketmek (`التَّنَقُّصُ`)'. Bu tek çekirdek; özne insan/hayvan olduğunda biyolojik beslenmeyi (`2:60`, `7:73`, `16:14,69`), özne ateş/kuraklık/kurtçuk olduğunda maddeyi ve birikimi yakıp aşındırarak bitirmeyi (`3:183`, `12:48`, `34:14`, `105:5`), nesne başkasının hakkı/faiz/miras olduğunda haksız sömürüp eritmeyi (`2:188`, `3:130`, `4:2,10`, `89:19`), nesne gıybet olduğunda kardeşin onurunu kemirmeyi (`49:12`), isim `أُكُل` olduğunda ise tüketilmeye sunulan olgun verim ve tadı (`2:265`, `13:4,35`, `14:25`) tek çelişkisiz mekanizmada üretir.",
+  "physical_core": "Ham fiziki çekirdek: 'Bütünden parça parça eksilterek kendi bünyesine, hesabına veya etki alanına katıp tüketmek; aşındırıp bitirmek (`التَّنَقُّصُ`)'. Bu tek eksiltme ve tüketme mekaniği dört somut kolda açılır: (1) Canlıların katı gıdayı çiğneyip sindirerek besin tüketmesi (`2:60`, `16:14,69`, `21:8`, `25:20`). (2) Ateşin sunuyu (`3:183`), kuraklığın birikimi (`12:48`), kurdun ahşap asayı (`34:14`) ve haşerat/sürünün ekini (`105:5`) aşındırıp yok etmesi. (3) Başkasının malını, faizi veya mirası haksızca kendi hesabına katıp eritmek (`2:188`, `3:130`, `4:2,10`, `5:42`, `89:19`) ve gıybetle onuru kemirmek (`49:12`). (4) Ağaç ve bahçelerin yenilip tüketilmeye sunulan olgun verim ve tadı (`أُكُل`: `2:265`, `13:4,35`, `14:25`, `18:33`, `34:16`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (Mekâyîsü'l-Luğa), `أ-ك-ل` maddesinde çok sayıda türev bulunmasına rağmen hepsinin tek asıl olan 'et-tenakkus' (eksiltmek, parça parça tüketmek) anlamına döndüğünü tespit eder.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): tek yeme eylemini (`ekle`), lokma/payı (`ükle`), ağacın veya organın içten aşınıp çürümesini (`ükâl`), yalnızca kesilip yenmek üzere beslenen davarı (`ekûle`) ve kurdun parçaladığı avı (`ekîletü'z-zi'b`) bu çekirdekte toplar.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): Fiziksel anlamın gıdayı parçalayıp çiğneyip yutmak olduğunu, buradan ateşin odunu yiyip bitirmesi, ömrün/malın tükenmesi ve haksızca tüketip yutma kullanımlarının doğduğunu belgeler.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): Yiyecek tüketimi yanında ateşin yakınlaşma sunusunu (`قُرْبَان`) tüketmesini (`3:183`), bahçe verimi/meyveyi (`أُكُل` `13:35`, `34:16`) ve kişinin dünyadaki rızık payını bitirmesini ayrı dallar olarak açıklar.",
+    "arbitration_decision": "Tahkim Kararı: İbn Fâris'in 'et-tenakkus' (eksiltip tüketme) tespiti, dörtlü filtreden %100 geçer. Yalnızca biyolojik yemeyi değil; ateşin sunuyu tüketmesini (`3:183`), yer kurdunun Süleyman'ın asasını kemirmesini (`34:14`), kuraklığın stoku tüketmesini (`12:48`), rüşvet ve faizle mal eritmeyi (`4:2`, `5:42`), gıybetle kardeş eti kemirmeyi (`49:12`) ve içi boşaltılmış ekin yaprağını (`105:5`) zorlamasız tek merkezde birleştirir."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*ʾakal- ('yemek, tüketmek, aşındırmak') / *ʾakl- ('yiyecek, tahıl, besin').",
+    "akkadian": "akālu ('yemek, tüketmek, bitirmek, kendine almak; hastalık/kederin içten kemirmesi') ve akalu ('ekmek, gıda'; CAD A / CDA).",
+    "ugaritic": "ʾkl / *ʾakala ('yemek, tüketmek').",
+    "hebrew": "אָכַל / ʾāḵal (Strong's H398 / BDB: 'yemek, yiyip bitirmek, ateşin sunuyu tüketmesi, kılıcın/kıtlığın tüketmesi, halkı sömürmek') ve isim אֹכֶל / ʾōḵel ('yiyecek').",
+    "aramaic_syriac": "Yahudi Aramcası אֲכַל (ʾăḵal: 'yemek, tüketmek') ve אּוכְלָא / Klasik Süryanice ܐܽܘܟܠܳܐ (ʾuḵlā: 'yiyecek, besin').",
+    "south_semitic_sabaic_geez": "Epigrafik Güney Arapça (Sebece `ʾ-k-l`: 'yemek, tahıl ve tarım istihkakını tüketmek') ve Ge'ez `ʾəkəl` ('tahıl, ürün, besin').",
+    "phonological_note": "Proto-Sami *ʾ-k-l üçlüsü Doğu, Kuzeybatı ve Güney Sami kollarının tamamında ses değişimi olmadan korunmuştur. Özellikle BDB H398 İbranicesi ve Akadca akālu'daki 'ateşin tüketmesi / hastalığın kemirmesi / başkasının hakkını yiyip bitirmesi' katmanlarının Kur'an'daki `3:183`, `34:14`, `4:10` ve `49:12` kullanımlarıyla birebir örtüşmesi kökün tek çekirdeğini tesciller."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ط-ع-م (`أَطْعَمَ`: kendisi tüketmek yerine başkasını doyurup paylaşmak — `22:28`, `22:36`)",
+      "ص-و-م (`ٱلصِّيَام`: serbest tüketimden öz denetim ve sakınma ile kendini tutmak — `2:187`)",
+      "ع-ف-ف (`فَلْيَسْتَعْفِفْ`: başkasının malını tüketmekten el çekip iffetli durmak — `4:6`)",
+      "ذ-خ-ر / ح-ص-ن (`تَدَّخِرُونَ / تُحْصِنُونَ`: tüketip bitirmek yerine saklayıp korumak — `3:49`, `12:48`)",
+      "أ-ت-ي / ن-ف-ق (`وَءَاتُوا۟ حَقَّهُۥ / يُنفِقُونَهَا`: haksızca yiyip yığmak yerine hakkını dışarı vermek — `6:141`, `9:34`)"
+    ],
+    "key_ayahs": [
+      "2:187",
+      "3:49",
+      "4:6",
+      "6:141",
+      "9:34",
+      "12:47-48",
+      "22:28",
+      "22:36"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'أ-ك-ل bütünden eksilterek kendine katıp tüketmek ise zıddı nedir?' Cevap: Kendisi tüketmek yerine başkasını doyurmak (`وَأَطْعِمُوا۟` `22:28,36`), tüketimi durdurup öz denetimle kendini tutmak (`ٱلصِّيَام` `2:187`), el çekip dokunmamak (`فَلْيَسْتَعْفِفْ` `4:6`) ve tüketmeyip koruyarak saklamak (`تَدَّخِرُونَ` `3:49`, `تُحْصِنُونَ` `12:48`). Tüm bu zıt kavramların tersi alındığında ortaya çıkan anlam أ-ك-ل tanımını %100 doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أَكَلَ (`Katı olanı parçalayıp eksilterek tüketmek`) vs شَرِبَ (`Sıvıyı parçalamadan akışkan biçimde içe çekmek`) — `2:60`, `2:187`, `7:31`, `19:26`, `23:33`, `52:19`, `69:24`, `77:43`",
+      "أَكَلَ (`Tüketip eritme eylemi`) vs طَعِمَ / طَعَام / أَطْعَمَ (`Tat alınarak besleyen yiyecek maddesi ve başkasına yedirme`) — `5:75`, `21:8`, `22:28,36`, `25:7,20`",
+      "أُكُل (`Yenilebilir lezzet ve ürün verimi`) vs ثَمَر (`Bitkinin dışarı çıkardığı olgun meyve`) — `6:141`",
+      "أَكْل (`Ölçülü meşru tüketim`) vs إِسْرَاف (`Sınırı aşıp ölçüsüzce tüketip savurma`) — `4:6`, `6:141`, `7:31`",
+      "أَكَلَ (`İnsanların ürün tüketmesi`) vs رَعَىٰ (`Hayvanların merayı otlaması`) — `20:54`",
+      "أَكَلَ (`Maddi tüketim`) vs تَمَتَّعَ (`Geçici haz ve keyif sürme`) — `15:3`, `47:12`, `77:46`",
+      "تَأْكُلُونَ (`Tüketip eksilttikleriniz`) vs تَدَّخِرُونَ (`Evde biriktirip sakladıklarınız`) — `3:49`"
+    ],
+    "mechanical_difference": "1) `أَكْل` ve `شُرْب` aynı ayette yan yana geldiğinde (`2:60`, `2:187`, `7:31`, `19:26`, `23:33`) ilki katı maddeyi parçalayıp eksiltmeyi, ikincisi sıvıyı kesintisiz içe çekmeyi ayırır. 2) `5:75`, `21:8` ve `25:7,20`deki `يَأْكُلُ ٱلطَّعَامَ` kalıbı tat veren besin maddesini (`طَعَام`) onu bünyede eriten eylemden (`أَكْل`) ayırır; `22:28,36` ise öz tüketim (`كُلُوا`) ile paylaşım (`أَطْعِمُوا`) dengesini kurar. 3) `6:141`de `أُكُل` lezzet/verim kalitesini, `ثَمَر` meyvenin kendisini belirtir; `وَلَا تُسْرِفُوٓا۟` ise tüketim sınırını çizer."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "3:183 & 34:14 & 105:5",
+      "role": "İnsan Dışı Fiziksel Aşındırma ve Tüketme Çapası (`تَأْكُلُهُ ٱلنَّارُ` / `تَأْكُلُ مِنسَأَتَهُۥ` / `مَّأْكُولٍۭ`)",
+      "literal_meaning": "'Ateşin yakıp tüketeceği (`تَأْكُلُهُ ٱلنَّارُ`) bir yakınlaşma sunusu', 'yer kurdunun Süleyman'ın asasını kemirip aşındırması (`تَأْكُلُ مِنسَأَتَهُۥ`)' ve 'yenilip içi boşaltılmış ekin yaprağı (`كَعَصْفٍ مَّأْكُولٍۭ`)': kökün salt boğazdan geçmek değil 'eksiltip yok etmek' olduğunu kanıtlar."
+    },
+    {
+      "ref": "4:2 & 4:6 & 4:10 & 2:188",
+      "role": "Hukukî-Ekonomik Gasp ve Karın İçi Ateş Çapası (`وَلَا تَأْكُلُوٓا۟ ... إِلَىٰٓ أَمْوَٰلِكُمْ` / `فِى بُطُونِهِمْ نَارًا`)",
+      "literal_meaning": "'Yetimlerin mallarını kendi mallarınıza katarak eritip tüketmeyin (`4:2`)', 'aranızda mallarınızı asılsız/haksız yolla yemeyin (`2:188`, `4:29`)' ve 'haksızca yetim malı yiyenler karınlarına ancak ateş tıkınmış olurlar (`4:10`, `2:174`).'"
+    },
+    {
+      "ref": "12:43-48",
+      "role": "Kıtlığın Birikimi Tüketmesi Çapası (`يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ` / `يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ`)",
+      "literal_meaning": "'Yedi cılız ineğin yedi semiz ineği yemesi' ve ardından 'yedi zorlu kurak yılın, önceden hazırlayıp biriktirdiklerinizi yiyip tüketmesi (`يَأْكُلْنَ`); yalnızca koruduğunuz az bir tohumluğun kalması (`تُحْصِنُونَ`).'"
+    },
+    {
+      "ref": "49:12 & 5:42 & 89:19",
+      "role": "Sosyal Onuru Kemirme ve Oburca Sömürü Çapası (`يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا` / `أَكَّٰلُونَ لِلسُّحْتِ` / `أَكْلًا لَّمًّا`)",
+      "literal_meaning": "'Hanginiz ölü kardeşinin etini yemeyi (`يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا`) sever?' (gıybetle insan onurunu gizlice kemirme), 'haram kazancı oburca yutanlar (`أَكَّٰلُونَ لِلسُّحْتِ`)' ve 'mirası toptan süpürürcesine yiyenler (`أَكْلًا لَّمًّا`).'"
+    },
+    {
+      "ref": "2:187 & 22:28 & 22:36",
+      "role": "Çift Yönlü Mesânî Dengesi Çapası (`وَكُلُوا۟ ... ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ` / `فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟`)",
+      "literal_meaning": "'Fecir aydınlığı ayrılana dek yiyip için, sonra öz denetimi geceye dek tamamlayın (`2:187`)' ve 'onlardan kendiniz de yiyin, çaresiz yoksulu ve isteyeni de doyurun (`22:28,36`).'"
+    },
+    {
+      "ref": "2:265 & 6:141 & 13:4 & 13:35 & 14:25 & 18:33 & 34:16",
+      "role": "Verim ve Lezzet İsmi `أُكُل` Çapası (7 Geçiş)",
+      "literal_meaning": "'Aynı suyla sulandığı halde lezzet/ürün veriminde (`فِى ٱلْأُكُلِ` `13:4`) farklılık', 'verimini iki kat sunan bahçe (`2:265`)', 'kesintisiz ürün/verim (`أُكُلُهَا دَآئِمٌ` `13:35`)', 'her dönem verim veren ağaç (`14:25`)' ve 'buruk yemiş (`أُكُلٍ خَمْطٍ` `34:16`).'"
+    },
+    {
+      "ref": "5:75 & 21:8 & 25:7,20 & 37:91",
+      "role": "Ölümlü İnsan Doğa Kanıtı ve Sahte İlâh Testi Çapası (`كَانَا يَأْكُلَانِ ٱلطَّعَامَ` / `أَلَا تَأْكُلُونَ`)",
+      "literal_meaning": "'Meryem oğlu Mesih ve annesi ikisi de yiyecek yerlerdi (`5:75`)', 'senden önceki elçiler de yemek yer, çarşılarda yürürdü (`25:20`, `21:8`)' ve İbrâhim'in putlara yönelttiği soru: 'Önünüze konanı yemiyor musunuz? (`37:91`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'da tüm fiiller yalnızca I. bab `أَكَلَ - يَأْكُلُ` kalıbından gelir (`93 V`: `32` emir `IMPV`, `56` muzâri `IMPF`, `5` mâzî `PERF`); meçhul fiil veya türemiş bab (II/III/IV/VIII/X) kullanılmaz. 2) İsim ve sıfatlar `16` geçişte `5` lemmaya ayrılır: meyve/verim ismi `أُكُل` (`7 N`: `2:265`, `6:141`, `13:4,35`, `14:25`, `18:33`, `34:16`), tüketme masdarı `أَكْل` (`4 N`: `4:161`, `5:62,63`, `89:19`), ism-i fâil çoğulu `ءَاكِلُون` (`3 N`: `23:20`, `37:66`, `56:52`), mübalağa sîgası `أَكَّالُون` (`1 N` hapax `5:42`) ve ism-i mef'ûl `مَأْكُول` (`1 ADJ` hapax `105:5`). 3) `4:2`de `وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ` tazmîn sanatıyla 'kendi malınıza katıp ekleyerek tüketmeyin' anlamı taşır. 4) `5:42`de mübalağa sıfat `أَكَّٰلُونَ` zayıf geçişlilik yerine `لِلسُّحْتِ` şeklinde `لِـ` takviyesi alır. 5) `89:19`da `أَكْلًا لَّمًّا` mef'ûl-i mutlak ile toptan süpürüp yutmayı vurgular. 6) `8` ayette çift geçer (`2:188`, `4:6,10`, `6:141`, `23:33`, `24:61`, `47:12`, `89:19`) ve `41` ayrı Rasm-ı Osmânî yazımı üretir.",
+  "derivatives": {
+    "أَكَلَ - يَأْكُلُ (`93 V`: `32` emir, `56` muzâri, `5` mâzî)": "Helal ve temiz rızıktan beslenme (`2:168,172`, `5:88`), haksız mal/faiz/yetim hakkı eritme yasağı (`2:188,275`, `3:130`, `4:2,6,10,29`), ateş/kurtçuk/kuraklık tüketmesi (`3:183`, `12:48`, `34:14`) ve gıybet (`49:12`)",
+    "أُكُل (`7 N`)": "Ağaçların ve bahçelerin yenilebilir olgun meyvesi, tadı ve sürekli ürün verimi (`2:265`, `6:141`, `13:4,35`, `14:25`, `18:33`, `34:16`)",
+    "أَكْل (`4 N` masdar)": "İnsanların mallarını haksız yolla ve haram kazançla tüketme (`4:161`, `5:62,63`) ve mirası toptan süpürüp yutma (`89:19` `أَكْلًا لَّمًّا`)",
+    "ءَاكِلُون (`3 N` ism-i fâil) & أَكَّالُون (`1 N` mübalağa)": "Zeytin yağından yararlanan yiyiciler (`23:20`), Zakkum ağacından yiyecek olanlar (`37:66`, `56:52`) ve haram kazancı oburca sömürenler (`5:42` `أَكَّٰلُونَ لِلسُّحْتِ`)",
+    "مَأْكُول (`1 ADJ` ism-i mef'ûl hapax `105:5`)": "Kemirilip içi boşaltılmış, yenilmiş ekin yaprağı/saman (`كَعَصْفٍ مَّأْكُولٍۭ`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 35,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:35",
+      "word_position": 7,
+      "target_word_uthmani": "وَكُلَا",
+      "target_word_rasm": "وكلا",
+      "target_word_literal_irab": "İkiniz de bol bol yiyip faydalanın (`وَكُلَا / فَكُلَا`, I. bab emir ikil)",
+      "context_snippet_arabic": "أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Eşin ve sen esenlik bahçesinde kal, orada olandan istediğiniz yerde bol bol yiyin, yalnız şu ağaca yaklaşmayın; yoksa zalimlerden olursunuz\" dedik.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2D"
+      },
+      "ayah_text_arabic_full": "وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Eşin ve sen esenlik bahçesinde kal, orada olandan istediğiniz yerde bol bol yiyin, yalnız şu ağaca yaklaşmayın; yoksa zalimlerden olursunuz\" dedik.",
+      "contextual_meaning": "İlk insan çiftinin sınavı (`2:35`, `7:19`, `20:121`): Geniş nimet alanından serbestçe yeme izni karşısında yasak ağaca yaklaşma sınırının aşılması (`فَأَكَلَا مِنْهَا`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 57,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:57",
+      "word_position": 8,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Bulutla sizi gölgelendirdik, kudret helvası ve bıldırcın indirdik, \"Verdiğimiz rızıkların iyi ve güzel olanlarından yiyin\" dedik. Onlar Bize değil, fakat kendilerine yazık ediyorlardı.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bulutla sizi gölgelendirdik, kudret helvası ve bıldırcın indirdik, \"Verdiğimiz rızıkların iyi ve güzel olanlarından yiyin\" dedik. Onlar Bize değil, fakat kendilerine yazık ediyorlardı.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 58,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:58",
+      "word_position": 6,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, boyun eğme ve teslimiyet ederek kapısından girin, \"bağışla!\" deyin, Biz de yanılmalarınızı bağışlarız, iyilere daha da artırırız\" demiştik.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا ٱدْخُلُوا۟ هَٰذِهِ ٱلْقَرْيَةَ فَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُولُوا۟ حِطَّةٌ نَّغْفِرْ لَكُمْ خَطَٰيَٰكُمْ وَسَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şu şehre girin, orada dilediğiniz gibi, bol bol yiyin, boyun eğme ve teslimiyet ederek kapısından girin, \"bağışla!\" deyin, Biz de yanılmalarınızı bağışlarız, iyilere daha da artırırız\" demiştik.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 60,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:60",
+      "word_position": 19,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Asanla taşa vur\" dedik; ondan on iki pınar fışkırdı, herkes içeceği yeri bildi. Allah'ın rızkından yiyin, için, yalnız yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milleti için su aramıştı; \"Asanla taşa vur\" dedik; ondan on iki pınar fışkırdı, herkes içeceği yeri bildi. Allah'ın rızkından yiyin, için, yalnız yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 168,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:168",
+      "word_position": 3,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Ey İnsanlar! Yeryüzündeki temiz ve helal şeylerden yiyin, saptırıcı yıkıcı güce ayak uydurmayın, zira o sizin için apaçık bir düşmandır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَٰلًا طَيِّبًا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İnsanlar! Yeryüzündeki temiz ve helal şeylerden yiyin, saptırıcı yıkıcı güce ayak uydurmayın, zira o sizin için apaçık bir düşmandır.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 172,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:172",
+      "word_position": 4,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَٰتِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sizi rızıklandırdığımızın temizlerinden yiyin; yalnız Allah'a kulluk ediyorsanız, O'na nimetin değerini bilip açığa vurun.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sizi rızıklandırdığımızın temizlerinden yiyin; yalnız Allah'a kulluk ediyorsanız, O'na nimetin değerini bilip açığa vurun.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 174,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:174",
+      "word_position": 15,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "قَلِيلًا أُو۟لَٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Gerçekten, Allah'ın indirdiği Kitap'tan bir şeyi gizlemede bulunup onu az bir değere değişenler var ya, onların karınlarına tıkındıkları ancak ateştir. Allah kı...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا أُو۟لَٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Gerçekten, Allah'ın indirdiği Kitap'tan bir şeyi gizlemede bulunup onu az bir değere değişenler var ya, onların karınlarına tıkındıkları ancak ateştir. Allah kıyamet günü onlarla konuşmaz ve onları sapma ve kusurlardan arıtmaz. Onlara elem verici azab vardır.",
+      "contextual_meaning": "Karın içi ateş mecazı (`يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا` `2:174`, `4:10`): Vahyi gizleme veya yetim malı yeme karşılığında kişinin kendi içine yakıcı yıkım ateşini doldurması."
+    },
+    {
+      "surah": 2,
+      "ayah": 187,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:187",
+      "word_position": 31,
+      "target_word_uthmani": "وَكُلُوا۟",
+      "target_word_rasm": "وكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "öz denetim ve sakınma tuttuğunuz günlerin gecesi kadınlarınıza yaklaşmanız size helal kılındı, onlar sizin örtünüz, siz de onların örtülerisiniz. Allah, kendi benliğinize güvenemiyeceğinizi biliyordu, bu sebeple tevbenizi kabul edip sizi affetti; artık onlara yaklaşabilirsiniz. Allah'ın sizin için takdir ettiğini dileyin. Tan yerinde, beyaz iplik siyah iplikten sizce ayırdedilinceye kadar, yiyin için, sonra öz denetim ve sakınmayı geceye kadar tamamlayın. boyun eğme ve teslimiyet odaklarında itikafa çekildiğinizde kadınlarınıza yaklaşmayın. Allah insanlara yasaklardan sakınsınlar diye ayetlerini böylece apaçık bildirir.",
+      "contextual_meaning": "Öz denetim öncesi serbestlik sınırı (`وَكُلُوا۟ وَٱشْرَبُوا۟` `2:187`): Fecir çizgisi ayrılana dek yiyip içme ve ardından geceye kadar tüketimden kendini tutma (`صِيَام`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 188,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:188",
+      "word_position": 2,
+      "target_word_uthmani": "تَأْكُلُوٓا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeyin / tüketmeyin (`تَأْكُلُوا۟ / تَأْكُلُوهَآ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ",
+      "context_snippet_turkish_tabula_rasa": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "contextual_meaning": "Haksız ekonomik tüketim yasağı (`2:188`, `2:275`, `3:130`, `4:29`, `9:34`): Karşılıklı rıza ve üretim olmadan faizle veya asılsız yöntemlerle (`بِٱلْبَٰطِلِ`) başkalarının emeğini eksiltip sömürme."
+    },
+    {
+      "surah": 2,
+      "ayah": 188,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:188",
+      "word_position": 10,
+      "target_word_uthmani": "لِتَأْكُلُوا۟",
+      "target_word_rasm": "لتأكلوا",
+      "target_word_literal_irab": "Yemeniz / yemek için (`لِتَأْكُلُوا۟ / تَأْكُلُوا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ",
+      "context_snippet_turkish_tabula_rasa": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aranızda mallarınızı haksızlıkla yemeyin; bildiğiniz halde sapma ve kusura girerek insanların mallarından bir kısmını yemek için onu hakimlere aktarmayın.",
+      "contextual_meaning": "Haksız ekonomik tüketim yasağı (`2:188`, `2:275`, `3:130`, `4:29`, `9:34`): Karşılıklı rıza ve üretim olmadan faizle veya asılsız yöntemlerle (`بِٱلْبَٰطِلِ`) başkalarının emeğini eksiltip sömürme."
+    },
+    {
+      "surah": 2,
+      "ayah": 265,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:265",
+      "word_position": 17,
+      "target_word_uthmani": "أُكُلَهَا",
+      "target_word_rasm": "أكلها",
+      "target_word_literal_irab": "Yenilebilir ürününü / meyve verimini (`أُكُلَهَا`, isim mansûb)",
+      "context_snippet_arabic": "أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın rızasını kazanmak ve kalblerini sağlamlaştırmak için mallarını dolaşıma sokup paylaştıranların durumu, yüksekçe bir tepede bulunan, bol yağmur aldığında yemişlerini iki kat veren, bol yağmur yağmasa bile çisentisi düşen bir bahçenin durumu gibidir. Allah işlediklerinizi görür.",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın rızasını kazanmak ve kalblerini sağlamlaştırmak için mallarını dolaşıma sokup paylaştıranların durumu, yüksekçe bir tepede bulunan, bol yağmur aldığında yemişlerini iki kat veren, bol yağmur yağmasa bile çisentisi düşen bir bahçenin durumu gibidir. Allah işlediklerinizi görür.",
+      "contextual_meaning": "Ağaç ve bahçenin olgun verimi (`أُكُل` `2:265`, `6:141`, `13:35`, `14:25`, `18:33`): Emek veya rahmet sonucu eksiksiz ortaya çıkan yenilebilir ürün."
+    },
+    {
+      "surah": 2,
+      "ayah": 275,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:275",
+      "word_position": 2,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ",
+      "context_snippet_turkish_tabula_rasa": "Faiz yiyenler mahşerde ancak saptırıcı yıkıcı gücün çarptığı kimsenin kalktığı gibi kalkarlar. Bu, onların, \"Zaten alışveriş de faiz gibidir\" demelerindendir. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Faiz yiyenler mahşerde ancak saptırıcı yıkıcı gücün çarptığı kimsenin kalktığı gibi kalkarlar. Bu, onların, \"Zaten alışveriş de faiz gibidir\" demelerindendir. Oysa Allah alışverişi helal, faizi haram kıldı. Kime Rabb'inden bir öğüt gelir de faizcilikten geri durursa, geçmişi kendisinedir, onun işi Allah'a aittir. Kim faizciliğe dönerse, işte onlar yakıcı yıkım yurdu ehlidir, onlar orada temelli kalacaklardır.",
+      "contextual_meaning": "Haksız ekonomik tüketim yasağı (`2:188`, `2:275`, `3:130`, `4:29`, `9:34`): Karşılıklı rıza ve üretim olmadan faizle veya asılsız yöntemlerle (`بِٱلْبَٰطِلِ`) başkalarının emeğini eksiltip sömürme."
+    },
+    {
+      "surah": 3,
+      "ayah": 49,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:49",
+      "word_position": 33,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına şöyle diyen bir elçi kılacak: \"Ben size Rabbinizden bir ayet getirdim. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına şöyle diyen bir elçi kılacak: \"Ben size Rabbinizden bir ayet getirdim. Ben size çamurdan kuş gibi bir şey yapıp ona üfleyeceğim, Allah'ın izniyle, hemen kuş olacaktır; anadan doğma körleri, alacalıları iyi edeceğim; Allah'ın izniyle, ölüleri dirilteceğim; yediklerinizi ve evlerinizde sakladıklarınızı da size haber vereceğim. güven duy bunda size delil vardır\".",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 130,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:130",
+      "word_position": 5,
+      "target_word_uthmani": "تَأْكُلُوا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeyin / tüketmeyin (`تَأْكُلُوا۟ / تَأْكُلُوهَآ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَٰفًا مُّضَٰعَفَةً",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Faizi kat kat alarak yemeyin. Allah'tan sakının ki başarıya erişesiniz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوا۟ ٱلرِّبَوٰٓا۟ أَضْعَٰفًا مُّضَٰعَفَةً وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Faizi kat kat alarak yemeyin. Allah'tan sakının ki başarıya erişesiniz.",
+      "contextual_meaning": "Haksız ekonomik tüketim yasağı (`2:188`, `2:275`, `3:130`, `4:29`, `9:34`): Karşılıklı rıza ve üretim olmadan faizle veya asılsız yöntemlerle (`بِٱلْبَٰطِلِ`) başkalarının emeğini eksiltip sömürme."
+    },
+    {
+      "surah": 3,
+      "ayah": 183,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:183",
+      "word_position": 13,
+      "target_word_uthmani": "تَأْكُلُهُ",
+      "target_word_rasm": "تأكله",
+      "target_word_literal_irab": "Yer / yakıp tüketir / kemirip aşındırır (`تَأْكُلُ / فَتَأْكُلُ / تَأْكُلُهُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu, ateşin yiyeceği bir yakınlaşma sunusu getirmedikçe hiçbir elçiye güven duy üzere Allah bize ahid verdi\" diyenlere sen, de ki: \"Benden önce elçiler size belgeler ve dediğiniz şeyi getirdi. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu, ateşin yiyeceği bir yakınlaşma sunusu getirmedikçe hiçbir elçiye güven duy üzere Allah bize ahid verdi\" diyenlere sen, de ki: \"Benden önce elçiler size belgeler ve dediğiniz şeyi getirdi. Doğru sözlü iseniz niçin onları öldürdünüz?\"",
+      "contextual_meaning": "Ateşin tüketmesi (`قُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ` `3:183`): Ateşin, sunulan nesneyi yakıp kül ederek maddesini eksiltip yok etmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 2,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:2",
+      "word_position": 9,
+      "target_word_uthmani": "تَأْكُلُوٓا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeyin / tüketmeyin (`تَأْكُلُوا۟ / تَأْكُلُوهَآ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlere mallarını verin. Temizi murdara değişmeyin, onların mallariyle kendi mallarınızı karıştırarak yemeyin, çünkü bu büyük bir suçtur.",
+      "contextual_meaning": "Tazmîn sanatıyla mal birleştirme yasağı (`وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ` `4:2`): Yetimlerin mallarını kendi mallarınıza katıp eriterek tüketmeyin."
+    },
+    {
+      "surah": 4,
+      "ayah": 4,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:4",
+      "word_position": 12,
+      "target_word_uthmani": "فَكُلُوهُ",
+      "target_word_rasm": "فكلوه",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا",
+      "context_snippet_turkish_tabula_rasa": "Kadınlara mehirlerini cömertçe verin, eğer ondan gönül hoşluğu ile size bir şey bağışlarlarsa onu afiyetle yiyin.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlara mehirlerini cömertçe verin, eğer ondan gönül hoşluğu ile size bir şey bağışlarlarsa onu afiyetle yiyin.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 15,
+      "target_word_uthmani": "تَأْكُلُوهَآ",
+      "target_word_rasm": "تأكلوها",
+      "target_word_literal_irab": "Yemeyin / tüketmeyin (`تَأْكُلُوا۟ / تَأْكُلُوهَآ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن",
+      "context_snippet_turkish_tabula_rasa": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; büyüyecekler de geri alacaklar diye onları israf ederek ve tez elden yemeyin. Zengin olan, iffetli olmağa çalışsın, yoksul olan uygun bir şekilde yesin. Mallarını kendilerine verdiğiniz zaman, yanlarında şahid bulundurun. Hesap sormak için Allah yeter.",
+      "contextual_meaning": "Yetim malı sınır dengesi (`4:6`): Acele ve savurganlıkla (`إِسْرَافًا وَبِدَارًا`) tüketme yasağına karşılık, muhtaç vasinin örfe uygun (`بِٱلْمَعْرُوفِ`) ölçülü pay alması."
+    },
+    {
+      "surah": 4,
+      "ayah": 6,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:6",
+      "word_position": 27,
+      "target_word_uthmani": "فَلْيَأْكُلْ",
+      "target_word_rasm": "فليأكل",
+      "target_word_literal_irab": "Ölçüsünce yesin (`فَلْيَأْكُلْ`, emir lâm'lı meczûm muzâri 3. tekil eril)",
+      "context_snippet_arabic": "وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimleri, evlenme çağına gelene kadar deneyin; onlarda olgunlaşma görürseniz mallarını kendilerine verin; büyüyecekler de geri alacaklar diye onları israf ederek ve tez elden yemeyin. Zengin olan, iffetli olmağa çalışsın, yoksul olan uygun bir şekilde yesin. Mallarını kendilerine verdiğiniz zaman, yanlarında şahid bulundurun. Hesap sormak için Allah yeter.",
+      "contextual_meaning": "Yetim malı sınır dengesi (`4:6`): Acele ve savurganlıkla (`إِسْرَافًا وَبِدَارًا`) tüketme yasağına karşılık, muhtaç vasinin örfe uygun (`بِٱلْمَعْرُوفِ`) ölçülü pay alması."
+    },
+    {
+      "surah": 4,
+      "ayah": 10,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:10",
+      "word_position": 3,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا",
+      "context_snippet_turkish_tabula_rasa": "Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar, zaten onlar çılgın aleve atılacaklardır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar, zaten onlar çılgın aleve atılacaklardır.",
+      "contextual_meaning": "Karın içi ateş mecazı (`يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا` `2:174`, `4:10`): Vahyi gizleme veya yetim malı yeme karşılığında kişinin kendi içine yakıcı yıkım ateşini doldurması."
+    },
+    {
+      "surah": 4,
+      "ayah": 10,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:10",
+      "word_position": 8,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا",
+      "context_snippet_turkish_tabula_rasa": "Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar, zaten onlar çılgın aleve atılacaklardır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yetimlerin mallarını haksız yere yiyenler, karınlarına ancak ateş tıkınmış olurlar, zaten onlar çılgın aleve atılacaklardır.",
+      "contextual_meaning": "Karın içi ateş mecazı (`يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا` `2:174`, `4:10`): Vahyi gizleme veya yetim malı yeme karşılığında kişinin kendi içine yakıcı yıkım ateşini doldurması."
+    },
+    {
+      "surah": 4,
+      "ayah": 29,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:29",
+      "word_position": 5,
+      "target_word_uthmani": "تَأْكُلُوٓا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeyin / tüketmeyin (`تَأْكُلُوا۟ / تَأْكُلُوهَآ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Mallarınızı aranızda haksızlıkla değil, karşılıklı rıza ile yapılan ticaretle yeyin, haram ile kendi benliğinizi mahvetmeyin. Allah şüphesiz ki size merhamet eder.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ رَحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Mallarınızı aranızda haksızlıkla değil, karşılıklı rıza ile yapılan ticaretle yeyin, haram ile kendi benliğinizi mahvetmeyin. Allah şüphesiz ki size merhamet eder.",
+      "contextual_meaning": "Haksız ekonomik tüketim yasağı (`2:188`, `2:275`, `3:130`, `4:29`, `9:34`): Karşılıklı rıza ve üretim olmadan faizle veya asılsız yöntemlerle (`بِٱلْبَٰطِلِ`) başkalarının emeğini eksiltip sömürme."
+    },
+    {
+      "surah": 4,
+      "ayah": 161,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:161",
+      "word_position": 6,
+      "target_word_uthmani": "وَأَكْلِهِمْ",
+      "target_word_rasm": "وأكلهم",
+      "target_word_literal_irab": "Haksızca yiyip tüketmeleri (`وَأَكْلِهِمْ`, masdar mecrûr)",
+      "context_snippet_arabic": "وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ",
+      "context_snippet_turkish_tabula_rasa": "Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan gerçeğin üzerini örtenlere, elem verici azab hazırladık.",
+      "morphology": {
+        "lemma": ">akol",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:>akol|ROOT:Akl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَأَعْتَدْنَا لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan gerçeğin üzerini örtenlere, elem verici azab hazırladık.",
+      "contextual_meaning": "Masdar halinde ekonomik gasp (`4:161`, `5:62`, `5:63`): Asılsız yoldan başkalarının malını (`أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ`) veya haram kazancı (`ٱلسُّحْتَ`) yiyip eritme."
+    },
+    {
+      "surah": 5,
+      "ayah": 3,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:3",
+      "word_position": 17,
+      "target_word_uthmani": "أَكَلَ",
+      "target_word_rasm": "أكل",
+      "target_word_literal_irab": "Yedi / parçalayıp tüketti (`أَكَلَ / أَكَلَهُ / فَأَكَلَهُ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا",
+      "context_snippet_turkish_tabula_rasa": "Leş, kan, domuz eti, Allah'tan başkası adına kesilenler, -canları çıkmadan önce kesmemişseniz, boğulmuş, bir yerine vurularak öldürülmüş, düşüp yuvarlanmış, başka bir hayvan tarafından süsülmüş, yırtıcı hayvan tarafından yenmiş olanları- dikili taşlar üzerine boğazlananlar ile fal oklarıyla kısmet aramanız size haram kılındı; bunlar fasıklıktır. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Leş, kan, domuz eti, Allah'tan başkası adına kesilenler, -canları çıkmadan önce kesmemişseniz, boğulmuş, bir yerine vurularak öldürülmüş, düşüp yuvarlanmış, başka bir hayvan tarafından süsülmüş, yırtıcı hayvan tarafından yenmiş olanları- dikili taşlar üzerine boğazlananlar ile fal oklarıyla kısmet aramanız size haram kılındı; bunlar fasıklıktır. Bugün, gerçeğin üzerini örtenler sizi yaşam sisteminizden etmekten umutlarını kesmişlerdir, onlardan korkmayın, Benden korkun. Bugün, size yaşam sisteminizi bütünledim, üzerinize olan nimetimi tamamladım, yaşam ve hesap sistemi olarak sizin için İslam'ı beğendim. Açlıktan darda kalan, sapma ve kusura kaymaksızın yiyebilir. Doğrusu Allah Bağışlayan'dır, merhametli olandır.",
+      "contextual_meaning": "Helal-haram beslenme bilinci (`5:3`, `6:118,119,121`): Yalnızca temiz ve Allah'ın adı anılarak meşrulaştırılan gıdaların tüketilmesi, darda kalma istisnası."
+    },
+    {
+      "surah": 5,
+      "ayah": 4,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:4",
+      "word_position": 18,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın size öğrettiği üzere alıştırıp yetiştirerek öğrettiğiniz avcı hayvanların sizin için tuttuklarını yiyin ve üzerine Allah'ın adını anın. Allah'tan sakının, doğrusu Allah hesabı çabuk görür.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana, kendilerine neyin helal kılındığını soruyorlar, de ki: Size temiz olanlar helal kılındı; Allah'ın size öğrettiği üzere alıştırıp yetiştirerek öğrettiğiniz avcı hayvanların sizin için tuttuklarını yiyin ve üzerine Allah'ın adını anın. Allah'tan sakının, doğrusu Allah hesabı çabuk görür.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 42,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:42",
+      "word_position": 3,
+      "target_word_uthmani": "أَكَّٰلُونَ",
+      "target_word_rasm": "أكلون",
+      "target_word_literal_irab": "Oburca ve sürekli yiyip sömürenler (`أَكَّٰلُونَ`, mübalağa ism-i fâil çoğul merfû)",
+      "context_snippet_arabic": "سَمَّٰعُونَ لِلْكَذِبِ أَكَّٰلُونَ لِلسُّحْتِ فَإِن جَآءُوكَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar yalana kulak verirler, haram yerler. Eğer sana gelirlerse aralarında hükmet, yahut onlardan yüz çevir; ...",
+      "morphology": {
+        "lemma": ">ak~a`luwn",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ak~a`luwn|ROOT:Akl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "سَمَّٰعُونَ لِلْكَذِبِ أَكَّٰلُونَ لِلسُّحْتِ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar yalana kulak verirler, haram yerler. Eğer sana gelirlerse aralarında hükmet, yahut onlardan yüz çevir; yüz çevirirsen sana bir zarar veremezler. Eğer hükmedersen aralarında adaletle hüküm ver. Allah adil olanları sever.",
+      "contextual_meaning": "Mübalağa sıfatı hapax (`أَكَّٰلُونَ لِلسُّحْتِ` `5:42`): Haram kazancı ve rüşveti tek seferlik değil, alışkanlık halinde oburca yutup sömürenler."
+    },
+    {
+      "surah": 5,
+      "ayah": 62,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:62",
+      "word_position": 8,
+      "target_word_uthmani": "وَأَكْلِهِمُ",
+      "target_word_rasm": "وأكلهم",
+      "target_word_literal_irab": "Haksızca yiyip tüketmeleri (`وَأَكْلِهِمْ`, masdar mecrûr)",
+      "context_snippet_arabic": "فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Onlardan çoğunun sapma ve kusura, haksızlığa ve haram yemeğe koşuştuklarını görürsün. Yaptıkları ne kötüdür!",
+      "morphology": {
+        "lemma": ">akol",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:>akol|ROOT:Akl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَرَىٰ كَثِيرًا مِّنْهُمْ يُسَٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan çoğunun sapma ve kusura, haksızlığa ve haram yemeğe koşuştuklarını görürsün. Yaptıkları ne kötüdür!",
+      "contextual_meaning": "Masdar halinde ekonomik gasp (`4:161`, `5:62`, `5:63`): Asılsız yoldan başkalarının malını (`أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ`) veya haram kazancı (`ٱلسُّحْتَ`) yiyip eritme."
+    },
+    {
+      "surah": 5,
+      "ayah": 63,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:63",
+      "word_position": 8,
+      "target_word_uthmani": "وَأَكْلِهِمُ",
+      "target_word_rasm": "وأكلهم",
+      "target_word_literal_irab": "Haksızca yiyip tüketmeleri (`وَأَكْلِهِمْ`, masdar mecrûr)",
+      "context_snippet_arabic": "عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ مَا",
+      "context_snippet_turkish_tabula_rasa": "Rabbe kul olanlar ve bilginlerin onlara sapma ve ağır kusur söz söylemeyi ve haram yemeyi yasak etmeleri gerekmez miydi? Yapmakta oldukları ne kötüdür!",
+      "morphology": {
+        "lemma": ">akol",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:>akol|ROOT:Akl|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbe kul olanlar ve bilginlerin onlara sapma ve ağır kusur söz söylemeyi ve haram yemeyi yasak etmeleri gerekmez miydi? Yapmakta oldukları ne kötüdür!",
+      "contextual_meaning": "Masdar halinde ekonomik gasp (`4:161`, `5:62`, `5:63`): Asılsız yoldan başkalarının malını (`أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ`) veya haram kazancı (`ٱلسُّحْتَ`) yiyip eritme."
+    },
+    {
+      "surah": 5,
+      "ayah": 66,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:66",
+      "word_position": 11,
+      "target_word_uthmani": "لَأَكَلُوا۟",
+      "target_word_rasm": "لأكلوا",
+      "target_word_literal_irab": "Elbette her yönden yer ve bolluğa ererlerdi (`لَأَكَلُوا۟`, I. bab cevap lâm'lı mâzî 3. çoğul)",
+      "context_snippet_arabic": "إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlar Tevrat'ı, İncil'i ve Rablerinden kendilerine indirilen Kuran'ı gereğince uygulasalardı, her yönden nimete ermiş olurlardı. İçlerinde orta yolu tutan ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlar Tevrat'ı, İncil'i ve Rablerinden kendilerine indirilen Kuran'ı gereğince uygulasalardı, her yönden nimete ermiş olurlardı. İçlerinde orta yolu tutan bir zümre vardı, çoğunun işledikleri ise kötü idi.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 75,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:75",
+      "word_position": 15,
+      "target_word_uthmani": "يَأْكُلَانِ",
+      "target_word_rasm": "يأكلان",
+      "target_word_literal_irab": "İkisi de yiyecek yerlerdi (`يَأْكُلَانِ`, I. bab muzâri 3. ikil eril)",
+      "context_snippet_arabic": "وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ",
+      "context_snippet_turkish_tabula_rasa": "Meryem oğlu Mesih sadece elçidir, -ondan önce de elçiler geçmiştir- onun annesi dosdoğrudur, her ikisi de yemek yerlerdi. Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MD"
+      },
+      "ayah_text_arabic_full": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu Mesih sadece elçidir, -ondan önce de elçiler geçmiştir- onun annesi dosdoğrudur, her ikisi de yemek yerlerdi. Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "contextual_meaning": "Elçilerin biyolojik insanlığı (`يَأْكُلُ ٱلطَّعَامَ` `5:75`, `21:8`, `23:33`, `25:7,20`): Bütün elçilerin besin alıp tüketen ölümlü insanlar olduğunun ilanı."
+    },
+    {
+      "surah": 5,
+      "ayah": 88,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:88",
+      "word_position": 1,
+      "target_word_uthmani": "وَكُلُوا۟",
+      "target_word_rasm": "وكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın size verdiği rızıktan temiz ve helal olarak yiyin. güven duy Allah'tan sakının.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın size verdiği rızıktan temiz ve helal olarak yiyin. güven duy Allah'tan sakının.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 5,
+      "ayah": 113,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:113",
+      "word_position": 4,
+      "target_word_uthmani": "نَّأْكُلَ",
+      "target_word_rasm": "نأكل",
+      "target_word_literal_irab": "Ondan yemeyi (`نَّأْكُلَ`, I. bab mansûb muzâri 1. çoğul)",
+      "context_snippet_arabic": "قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ondan yemeyi, kalblerimizin kanmasını ve senin bize doğru söylediğini bilmeyi, ona şahid olmayı istiyoruz\" dediler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|1P|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ نُرِيدُ أَن نَّأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَن قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ ٱلشَّٰهِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ondan yemeyi, kalblerimizin kanmasını ve senin bize doğru söylediğini bilmeyi, ona şahid olmayı istiyoruz\" dediler.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 118,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:118",
+      "word_position": 1,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın ayetlerine güven duy, üzerine Allah'ın adı anılmış olan şeyden yiyin.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "فَكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ إِن كُنتُم بِـَٔايَٰتِهِۦ مُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın ayetlerine güven duy, üzerine Allah'ın adı anılmış olan şeyden yiyin.",
+      "contextual_meaning": "Helal-haram beslenme bilinci (`5:3`, `6:118,119,121`): Yalnızca temiz ve Allah'ın adı anılarak meşrulaştırılan gıdaların tüketilmesi, darda kalma istisnası."
+    },
+    {
+      "surah": 6,
+      "ayah": 119,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:119",
+      "word_position": 4,
+      "target_word_uthmani": "تَأْكُلُوا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeniz / yemek için (`لِتَأْكُلُوا۟ / تَأْكُلُوا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ",
+      "context_snippet_turkish_tabula_rasa": "Size ne oluyor ki, Allah size darda kalmanızın dışında, haram olanları genişçe anlatmışken adının üzerine anıldığı şeyden yemiyorsunuz? Doğrusu çoğunluk, heva ve heveslerine uyarak, bilmeden sapıtıyorlar. Aşırı gidenleri en iyi bilen Rabbindir.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ وَإِنَّ كَثِيرًا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size ne oluyor ki, Allah size darda kalmanızın dışında, haram olanları genişçe anlatmışken adının üzerine anıldığı şeyden yemiyorsunuz? Doğrusu çoğunluk, heva ve heveslerine uyarak, bilmeden sapıtıyorlar. Aşırı gidenleri en iyi bilen Rabbindir.",
+      "contextual_meaning": "Helal-haram beslenme bilinci (`5:3`, `6:118,119,121`): Yalnızca temiz ve Allah'ın adı anılarak meşrulaştırılan gıdaların tüketilmesi, darda kalma istisnası."
+    },
+    {
+      "surah": 6,
+      "ayah": 121,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:121",
+      "word_position": 2,
+      "target_word_uthmani": "تَأْكُلُوا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeyin / tüketmeyin (`تَأْكُلُوا۟ / تَأْكُلُوهَآ`, I. bab nehiy meczûm muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ",
+      "context_snippet_turkish_tabula_rasa": "Üzerine Allah'ın adının anılmadığı kesilmiş hayvanları yemeyin, bunu yapmak Allah'ın yolundan çıkmaktır. Doğrusu saptırıcı yıkıcı güçler sizinle tartışmaları için dostlarına fısıldarlar, eğer onlara itaat ederseniz şüphesiz siz otoriteyi bölüşüp ortak koşan olursunuz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَٰدِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Üzerine Allah'ın adının anılmadığı kesilmiş hayvanları yemeyin, bunu yapmak Allah'ın yolundan çıkmaktır. Doğrusu saptırıcı yıkıcı güçler sizinle tartışmaları için dostlarına fısıldarlar, eğer onlara itaat ederseniz şüphesiz siz otoriteyi bölüşüp ortak koşan olursunuz.",
+      "contextual_meaning": "Helal-haram beslenme bilinci (`5:3`, `6:118,119,121`): Yalnızca temiz ve Allah'ın adı anılarak meşrulaştırılan gıdaların tüketilmesi, darda kalma istisnası."
+    },
+    {
+      "surah": 6,
+      "ayah": 141,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:141",
+      "word_position": 11,
+      "target_word_uthmani": "أُكُلُهُۥ",
+      "target_word_rasm": "أكله",
+      "target_word_literal_irab": "Yenilebilir ürünü / kesintisiz verimi (`أُكُلُهُۥ / أُكُلُهَا`, isim merfû)",
+      "context_snippet_arabic": "وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا",
+      "context_snippet_turkish_tabula_rasa": "... Ürün verdiği zaman ürününden yiyin, devşirildiği ve biçildiği gün hakkını verin; israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|NOM"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çardaklı ve çardaksız bağları inşa eden Allah'tır. Tadları çeşitli ekin ve hurmaları, zeytin ve narı birbirine benzer ve benzemez şekilde yaratan O'dur. Ürün verdiği zaman ürününden yiyin, devşirildiği ve biçildiği gün hakkını verin; israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "contextual_meaning": "Ağaç ve bahçenin olgun verimi (`أُكُل` `2:265`, `6:141`, `13:35`, `14:25`, `18:33`): Emek veya rahmet sonucu eksiksiz ortaya çıkan yenilebilir ürün."
+    },
+    {
+      "surah": 6,
+      "ayah": 141,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:141",
+      "word_position": 17,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ",
+      "context_snippet_turkish_tabula_rasa": "... Ürün verdiği zaman ürününden yiyin, devşirildiği ve biçildiği gün hakkını verin; israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çardaklı ve çardaksız bağları inşa eden Allah'tır. Tadları çeşitli ekin ve hurmaları, zeytin ve narı birbirine benzer ve benzemez şekilde yaratan O'dur. Ürün verdiği zaman ürününden yiyin, devşirildiği ve biçildiği gün hakkını verin; israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "contextual_meaning": "Hasat hukuku ve israf sınırı (`6:141`): Meyveden yiyip aynı gün hakkını vermeyi emreden ve ölçüsüz tüketimi (`وَلَا تُسْرِفُوٓا۟`) yasaklayan ilke."
+    },
+    {
+      "surah": 6,
+      "ayah": 142,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:142",
+      "word_position": 5,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "ٱلْأَنْعَٰمِ حَمُولَةً وَفَرْشًا كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Hayvanları da yük ve kesim için yaratan Allah'tır. Allah'ın size verdiği rızıktan yiyin, saptırıcı yıkıcı güce ayak uydurmayın, o size apaçık bir düşmandır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلْأَنْعَٰمِ حَمُولَةً وَفَرْشًا كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayvanları da yük ve kesim için yaratan Allah'tır. Allah'ın size verdiği rızıktan yiyin, saptırıcı yıkıcı güce ayak uydurmayın, o size apaçık bir düşmandır.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 19,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:19",
+      "word_position": 6,
+      "target_word_uthmani": "فَكُلَا",
+      "target_word_rasm": "فكلا",
+      "target_word_literal_irab": "İkiniz de bol bol yiyip faydalanın (`وَكُلَا / فَكُلَا`, I. bab emir ikil)",
+      "context_snippet_arabic": "أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Adem! Sen ve eşin esenlik bahçesinde kalın ve istediğiniz yerden yiyin, yalnız şu ağaca yaklaşmayın yoksa zalimlerden olursunuz.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MD"
+      },
+      "ayah_text_arabic_full": "وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Adem! Sen ve eşin esenlik bahçesinde kalın ve istediğiniz yerden yiyin, yalnız şu ağaca yaklaşmayın yoksa zalimlerden olursunuz.\"",
+      "contextual_meaning": "İlk insan çiftinin sınavı (`2:35`, `7:19`, `20:121`): Geniş nimet alanından serbestçe yeme izni karşısında yasak ağaca yaklaşma sınırının aşılması (`فَأَكَلَا مِنْهَا`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 31,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:31",
+      "word_position": 8,
+      "target_word_uthmani": "وَكُلُوا۟",
+      "target_word_rasm": "وكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey Ademoğulları! Her mescide güzel elbiselerinizi giyinerek gidin; yiyin için fakat israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Ademoğulları! Her mescide güzel elbiselerinizi giyinerek gidin; yiyin için fakat israf etmeyin, çünkü Allah müsrifleri sevmez.",
+      "contextual_meaning": "Ölçülü yaşam kuralı (`وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟` `7:31`): Beslenme özgürlüğünü israf yasağıyla dengeleyen evrensel ölçü."
+    },
+    {
+      "surah": 7,
+      "ayah": 73,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:73",
+      "word_position": 25,
+      "target_word_uthmani": "تَأْكُلْ",
+      "target_word_rasm": "تأكل",
+      "target_word_literal_irab": "Otlasın / yiyip beslensin (`تَأْكُلْ`, I. bab meczûm muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın bu dişi devesi size bir delildir, onu bırakın, Allah'ın toprağında otlasın; ona kötülük etmeyin, yoksa can yakıcı azaba uğrarsınız.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milletine de kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur. Rabbinizden size bir belge geldi: Allah'ın bu dişi devesi size bir delildir, onu bırakın, Allah'ın toprağında otlasın; ona kötülük etmeyin, yoksa can yakıcı azaba uğrarsınız.",
+      "contextual_meaning": "Sâlih'in devesinin yaşama hakkı (`فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ` `7:73`, `11:64`): İşaret niteliğindeki canlının Allah'ın toprağında serbestçe otlama hakkı."
+    },
+    {
+      "surah": 7,
+      "ayah": 160,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:160",
+      "word_position": 33,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا",
+      "context_snippet_turkish_tabula_rasa": "... Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz İsrailoğullarını oymaklar halinde on iki topluluğa ayırdık. Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı. Herkes içeceği yeri öğrendi. Bulutla üzerlerine gölge yaptık, onlara kudret helvası ve bıldırcın indirdik, \"Size verdiğimiz rızıkların temiz olanlarından yiyin\" dedik. Onlar, karşı gelmekle, Bize değil kendilerine zulmediyorlardı.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 161,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:161",
+      "word_position": 7,
+      "target_word_uthmani": "وَكُلُوا۟",
+      "target_word_rasm": "وكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Şu şehirde oturun, dilediğiniz gibi yiyip için, \"affet!\" deyin ve boyun eğme ve teslimiyet ederek kapısından girin; Biz de yanılmalarınızı bağışlarız. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟ حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara: \"Şu şehirde oturun, dilediğiniz gibi yiyip için, \"affet!\" deyin ve boyun eğme ve teslimiyet ederek kapısından girin; Biz de yanılmalarınızı bağışlarız. İyi davrananlara daha da artıracağız\" denmişti.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 8,
+      "ayah": 69,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:69",
+      "word_position": 1,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًا",
+      "context_snippet_turkish_tabula_rasa": "Elde ettiğiniz ganimetleri temiz ve helal olarak yiyin; Allah'tan sakının, doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Elde ettiğiniz ganimetleri temiz ve helal olarak yiyin; Allah'tan sakının, doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 34,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:34",
+      "word_position": 9,
+      "target_word_uthmani": "لَيَأْكُلُونَ",
+      "target_word_rasm": "ليأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Hahamlar ve rahiplerin çoğu, insanların mallarını haksızlıkla yerler. Allah yolundan alıkoyarlar. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Hahamlar ve rahiplerin çoğu, insanların mallarını haksızlıkla yerler. Allah yolundan alıkoyarlar. Altın ve gümüşü biriktirip Allah yolunda dolaşıma sokup paylaşmayanlara can yakıcı bir azabı müjdele.",
+      "contextual_meaning": "Haksız ekonomik tüketim yasağı (`2:188`, `2:275`, `3:130`, `4:29`, `9:34`): Karşılıklı rıza ve üretim olmadan faizle veya asılsız yöntemlerle (`بِٱلْبَٰطِلِ`) başkalarının emeğini eksiltip sömürme."
+    },
+    {
+      "surah": 10,
+      "ayah": 24,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:24",
+      "word_position": 14,
+      "target_word_uthmani": "يَأْكُلُ",
+      "target_word_rasm": "يأكل",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve yerin sahiplerinin bütün bunlara malik olduklarını sandıkları sırada, gece veya gündüz buyruğumuz o yere gelmiş ve orayı hiçbir şey bitirmemişe çevirmişiz; ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dünya hayatı gökten indirdiğimiz su gibidir ki, onunla insan ve hayvanların yiyeceği bitkiler yetişip birbirine karışmıştır. Yeryüzünün süslenip bezendiği ve yerin sahiplerinin bütün bunlara malik olduklarını sandıkları sırada, gece veya gündüz buyruğumuz o yere gelmiş ve orayı hiçbir şey bitirmemişe çevirmişiz; bir gün önce birşey yokmuş gibi olmuştur. Düşünen millet için ayetleri böylece uzun açıklıyoruz.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 64,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:64",
+      "word_position": 8,
+      "target_word_uthmani": "تَأْكُلْ",
+      "target_word_rasm": "تأكل",
+      "target_word_literal_irab": "Otlasın / yiyip beslensin (`تَأْكُلْ`, I. bab meczûm muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Bu, size bir ayet olarak, Allah'ın devesidir. Bırakın onu, Allah'ın toprağında otlasın; ona fenalık etmeyin, yoksa siz hemen azaba uğrarsınız\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Bu, size bir ayet olarak, Allah'ın devesidir. Bırakın onu, Allah'ın toprağında otlasın; ona fenalık etmeyin, yoksa siz hemen azaba uğrarsınız\"",
+      "contextual_meaning": "Sâlih'in devesinin yaşama hakkı (`فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ` `7:73`, `11:64`): İşaret niteliğindeki canlının Allah'ın toprağında serbestçe otlama hakkı."
+    },
+    {
+      "surah": 12,
+      "ayah": 13,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:13",
+      "word_position": 9,
+      "target_word_uthmani": "يَأْكُلَهُ",
+      "target_word_rasm": "يأكله",
+      "target_word_literal_irab": "Yemesini / yemesinden (`يَأْكُلَهُ / يَأْكُلَ`, mansûb muzâri 3. tekil eril)",
+      "context_snippet_arabic": "بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ",
+      "context_snippet_turkish_tabula_rasa": "Babaları, \"Onu götürmeniz beni üzüyor; siz farkına varmadan onu kurdun yemesinden korkarım\" dedi.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babaları, \"Onu götürmeniz beni üzüyor; siz farkına varmadan onu kurdun yemesinden korkarım\" dedi.",
+      "contextual_meaning": "Yûsuf kıssasında yırtıcı/kuş tüketimi (`12:13,14,17,36,41`): Kurdun veya kuşların canlıyı ya da ekmeği parçalayıp yemesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 14,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:14",
+      "word_position": 3,
+      "target_word_uthmani": "أَكَلَهُ",
+      "target_word_rasm": "أكله",
+      "target_word_literal_irab": "Yedi / parçalayıp tüketti (`أَكَلَ / أَكَلَهُ / فَأَكَلَهُ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ",
+      "context_snippet_turkish_tabula_rasa": "\"And olsun ki, biz kuvvetli bir toplulukken kurt onu yerse, biz aciz sayılırız\" dediler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًا لَّخَٰسِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"And olsun ki, biz kuvvetli bir toplulukken kurt onu yerse, biz aciz sayılırız\" dediler.",
+      "contextual_meaning": "Yûsuf kıssasında yırtıcı/kuş tüketimi (`12:13,14,17,36,41`): Kurdun veya kuşların canlıyı ya da ekmeği parçalayıp yemesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 17,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:17",
+      "word_position": 10,
+      "target_word_uthmani": "فَأَكَلَهُ",
+      "target_word_rasm": "فأكله",
+      "target_word_literal_irab": "Yedi / parçalayıp tüketti (`أَكَلَ / أَكَلَهُ / فَأَكَلَهُ`, I. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ وَمَآ أَنتَ",
+      "context_snippet_turkish_tabula_rasa": "... Yusuf'u eşyamızın yanına bırakmıştık; bir kurt onu yedi. Her ne kadar doğru söylüyorsak da sen bize güven duy\" dediler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Akşam üstü ağlayarak babalarına geldiklerinde: \"Ey babamız! güven duy olsun biz yarış yapıyorduk; Yusuf'u eşyamızın yanına bırakmıştık; bir kurt onu yedi. Her ne kadar doğru söylüyorsak da sen bize güven duy\" dediler.",
+      "contextual_meaning": "Yûsuf kıssasında yırtıcı/kuş tüketimi (`12:13,14,17,36,41`): Kurdun veya kuşların canlıyı ya da ekmeği parçalayıp yemesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 36,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:36",
+      "word_position": 19,
+      "target_word_uthmani": "تَأْكُلُ",
+      "target_word_rasm": "تأكل",
+      "target_word_literal_irab": "Yer / yakıp tüketir / kemirip aşındırır (`تَأْكُلُ / فَتَأْكُلُ / تَأْكُلُهُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا",
+      "context_snippet_turkish_tabula_rasa": "... diğeri \"Başımın üzerinde, kuşların yediği bir ekmek taşıdığımı gördüm\" dedi. \"Bize bunu yorumla; ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS"
+      },
+      "ayah_text_arabic_full": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hapse, onunla beraber, iki genç daha girdi. Biri, \"Rüyamda şaraplık üzüm sıktığımı gördüm\" dedi; diğeri \"Başımın üzerinde, kuşların yediği bir ekmek taşıdığımı gördüm\" dedi. \"Bize bunu yorumla; senin iyi bir kimse olduğunu görüyoruz\"",
+      "contextual_meaning": "Yûsuf kıssasında yırtıcı/kuş tüketimi (`12:13,14,17,36,41`): Kurdun veya kuşların canlıyı ya da ekmeği parçalayıp yemesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 41,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:41",
+      "word_position": 11,
+      "target_word_uthmani": "فَتَأْكُلُ",
+      "target_word_rasm": "فتأكل",
+      "target_word_literal_irab": "Yer / yakıp tüketir / kemirip aşındırır (`تَأْكُلُ / فَتَأْكُلُ / تَأْكُلُهُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey mahpus arkadaşlarım! Biriniz efendinize şarap sunacak, diğeri asılacak ve kuşlar başından yiyecektir. Sorduğunuz iş işte böylece kesinleşmiştir.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS"
+      },
+      "ayah_text_arabic_full": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey mahpus arkadaşlarım! Biriniz efendinize şarap sunacak, diğeri asılacak ve kuşlar başından yiyecektir. Sorduğunuz iş işte böylece kesinleşmiştir.\"",
+      "contextual_meaning": "Yûsuf kıssasında yırtıcı/kuş tüketimi (`12:13,14,17,36,41`): Kurdun veya kuşların canlıyı ya da ekmeği parçalayıp yemesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 43,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:43",
+      "word_position": 8,
+      "target_word_uthmani": "يَأْكُلُهُنَّ",
+      "target_word_rasm": "يأكلهن",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ",
+      "context_snippet_turkish_tabula_rasa": "Hükümdar: \"Ben, yedi semiz ineği yedi zayıf ineğin yediğini; yedi yeşil başak ve bir o kadar da kurumuş başak görüyorum. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hükümdar: \"Ben, yedi semiz ineği yedi zayıf ineğin yediğini; yedi yeşil başak ve bir o kadar da kurumuş başak görüyorum. Ey ileri gelenler! Eğer rüya yormasını biliyorsanız rüyamı söyleyiniz.\" dedi.",
+      "contextual_meaning": "Kıtlık ekonomisi ve stok erimesi (`12:43-48`): Cılız ineklerin semizleri yemesi rüyası üzerinden yedi kurak yılın, önceki birikimi (`يَأْكُلْنَ مَا قَدَّمْتُمْ`) tüketip bitirmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 46,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:46",
+      "word_position": 9,
+      "target_word_uthmani": "يَأْكُلُهُنَّ",
+      "target_word_rasm": "يأكلهن",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ",
+      "context_snippet_turkish_tabula_rasa": "Hapishaneye varıp: \"Ey doğru sözlü Yusuf! Rüyada görülen yedi semiz ineği yedi zayıf ineğin yemesi; ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hapishaneye varıp: \"Ey doğru sözlü Yusuf! Rüyada görülen yedi semiz ineği yedi zayıf ineğin yemesi; yedi yeşil başak ve bir o kadar kuru başak nedir? Bize yorumla, ben de insanlara ulaştırayım da bilsinler\" dedi.",
+      "contextual_meaning": "Kıtlık ekonomisi ve stok erimesi (`12:43-48`): Cılız ineklerin semizleri yemesi rüyası üzerinden yedi kurak yılın, önceki birikimi (`يَأْكُلْنَ مَا قَدَّمْتُمْ`) tüketip bitirmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 47,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:47",
+      "word_position": 14,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf: \"Devamlı yedi sene ekin ekip, biçtiğiniz ekinin yediğinizden artanını başağında bırakın.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf: \"Devamlı yedi sene ekin ekip, biçtiğiniz ekinin yediğinizden artanını başağında bırakın.\"",
+      "contextual_meaning": "Kıtlık ekonomisi ve stok erimesi (`12:43-48`): Cılız ineklerin semizleri yemesi rüyası üzerinden yedi kurak yılın, önceki birikimi (`يَأْكُلْنَ مَا قَدَّمْتُمْ`) tüketip bitirmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 48,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:48",
+      "word_position": 8,
+      "target_word_uthmani": "يَأْكُلْنَ",
+      "target_word_rasm": "يأكلن",
+      "target_word_literal_irab": "Yiyip tüketirler (`يَأْكُلْنَ`, I. bab muzâri 3. çoğul dişil)",
+      "context_snippet_arabic": "ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "\"Sonra bunun ardından yedi kurak yıl gelir, bütün biriktirdiğinizi yer, yalnız az bir miktar saklarsınız.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FP"
+      },
+      "ayah_text_arabic_full": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Sonra bunun ardından yedi kurak yıl gelir, bütün biriktirdiğinizi yer, yalnız az bir miktar saklarsınız.\"",
+      "contextual_meaning": "Kıtlık ekonomisi ve stok erimesi (`12:43-48`): Cılız ineklerin semizleri yemesi rüyası üzerinden yedi kurak yılın, önceki birikimi (`يَأْكُلْنَ مَا قَدَّمْتُمْ`) tüketip bitirmesi."
+    },
+    {
+      "surah": 13,
+      "ayah": 4,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:4",
+      "word_position": 21,
+      "target_word_uthmani": "ٱلْأُكُلِ",
+      "target_word_rasm": "ٱلأكل",
+      "target_word_literal_irab": "Yenilebilir tat ve ürün verimi bakımından (`فِى ٱلْأُكُلِ`, marife isim mecrûr)",
+      "context_snippet_arabic": "عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ إِنَّ فِى ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde, hepsi de aynı su ile sulanan, birbirine komşu toprak parçaları, tek ve çok köklü üzüm bağları, ekinler, hurma ağaçları vardır. Fakat onları şekil ve lezzetçe birbirinden farklı kılmışızdır. ...",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَفِى ٱلْأَرْضِ قِطَعٌ مُّتَجَٰوِرَٰتٌ وَجَنَّٰتٌ مِّنْ أَعْنَٰبٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde, hepsi de aynı su ile sulanan, birbirine komşu toprak parçaları, tek ve çok köklü üzüm bağları, ekinler, hurma ağaçları vardır. Fakat onları şekil ve lezzetçe birbirinden farklı kılmışızdır. Düşünen kimseler için bunda ibretler vardır.",
+      "contextual_meaning": "Doğal çeşitlilik kanıtı (`13:4`): Aynı suyla sulanan bitkilerin yenilebilir tat ve ürün veriminde (`فِى ٱلْأُكُلِ`) birbirinden farklı kılınması."
+    },
+    {
+      "surah": 13,
+      "ayah": 35,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:35",
+      "word_position": 10,
+      "target_word_uthmani": "أُكُلُهَا",
+      "target_word_rasm": "أكلها",
+      "target_word_literal_irab": "Yenilebilir ürünü / kesintisiz verimi (`أُكُلُهُۥ / أُكُلُهَا`, isim merfû)",
+      "context_snippet_arabic": "مِن تَحْتِهَا ٱلْأَنْهَٰرُ أُكُلُهَا دَآئِمٌ وَظِلُّهَا تِلْكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a karşı gelmekten sakınanlara vadedilen esenlik bahçesinin altından ırmaklar akar; oranın yiyecekleri ve gölgeleri devamlıdır. Bu, sakınanların elde edeceği sonuçtur, gerçeğin üzerini örtenlerin varacağı sonuç ise ateştir.",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|NOM"
+      },
+      "ayah_text_arabic_full": "مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ أُكُلُهَا دَآئِمٌ وَظِلُّهَا تِلْكَ عُقْبَى ٱلَّذِينَ ٱتَّقَوا۟ وَّعُقْبَى ٱلْكَٰفِرِينَ ٱلنَّارُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a karşı gelmekten sakınanlara vadedilen esenlik bahçesinin altından ırmaklar akar; oranın yiyecekleri ve gölgeleri devamlıdır. Bu, sakınanların elde edeceği sonuçtur, gerçeğin üzerini örtenlerin varacağı sonuç ise ateştir.",
+      "contextual_meaning": "Ağaç ve bahçenin olgun verimi (`أُكُل` `2:265`, `6:141`, `13:35`, `14:25`, `18:33`): Emek veya rahmet sonucu eksiksiz ortaya çıkan yenilebilir ürün."
+    },
+    {
+      "surah": 14,
+      "ayah": 25,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:25",
+      "word_position": 2,
+      "target_word_uthmani": "أُكُلَهَا",
+      "target_word_rasm": "أكلها",
+      "target_word_literal_irab": "Yenilebilir ürününü / meyve verimini (`أُكُلَهَا`, isim mansûb)",
+      "context_snippet_arabic": "تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ",
+      "context_snippet_turkish_tabula_rasa": "... kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor musun? İnsanlar ibret alsın diye Allah onlara misal gösteriyor.",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|ACC"
+      },
+      "ayah_text_arabic_full": "تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor musun? İnsanlar ibret alsın diye Allah onlara misal gösteriyor.",
+      "contextual_meaning": "Ağaç ve bahçenin olgun verimi (`أُكُل` `2:265`, `6:141`, `13:35`, `14:25`, `18:33`): Emek veya rahmet sonucu eksiksiz ortaya çıkan yenilebilir ürün."
+    },
+    {
+      "surah": 15,
+      "ayah": 3,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:3",
+      "word_position": 2,
+      "target_word_uthmani": "يَأْكُلُوا۟",
+      "target_word_rasm": "يأكلوا",
+      "target_word_literal_irab": "Yesinler / yemeleri için (`يَأْكُلُوا۟ / لِيَأْكُلُوا۟`, I. bab mansûb muzâri 3. çoğul)",
+      "context_snippet_arabic": "ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ",
+      "context_snippet_turkish_tabula_rasa": "Bırak onları yesinler, zevk alsınlar; ümit onları avundursun; ilerde öğrenecekler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ذَرْهُمْ يَأْكُلُوا۟ وَيَتَمَتَّعُوا۟ وَيُلْهِهِمُ ٱلْأَمَلُ فَسَوْفَ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bırak onları yesinler, zevk alsınlar; ümit onları avundursun; ilerde öğrenecekler.",
+      "contextual_meaning": "Hesapsız dünya tüketimi uyarısı (`15:3`, `47:12`, `77:46`): Gerçeği örtenlerin amaçsızca hayvanlar gibi yiyip geçici haz sürmesinin geçiciliği."
+    },
+    {
+      "surah": 16,
+      "ayah": 5,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:5",
+      "word_position": 8,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "دِفْءٌ وَمَنَٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hayvanları da yaratmıştır. Onlarda sizi ısıtacak şeyler ve birçok faydalar vardır. Onların etlerini de yersiniz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱلْأَنْعَٰمَ خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayvanları da yaratmıştır. Onlarda sizi ısıtacak şeyler ve birçok faydalar vardır. Onların etlerini de yersiniz.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 14,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:14",
+      "word_position": 5,
+      "target_word_uthmani": "لِتَأْكُلُوا۟",
+      "target_word_rasm": "لتأكلوا",
+      "target_word_literal_irab": "Yemeniz / yemek için (`لِتَأْكُلُوا۟ / تَأْكُلُوا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinden faydalanmanız için denize -ki gemilerin onu yara yara gittiğini görürsün- boyun eğdiren de O'dur. Artık belki nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 16,
+      "ayah": 69,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:69",
+      "word_position": 2,
+      "target_word_uthmani": "كُلِى",
+      "target_word_rasm": "كلى",
+      "target_word_literal_irab": "Ye ve beslen (`كُلِى / فَكُلِى`, I. bab emir 2. tekil dişil)",
+      "context_snippet_arabic": "ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Dağlarda, ağaçlarda ve hazırlanmış kovanlarda yuva edin; sonra her çeşit üründen ye; sonra da Rabbinin işlemen için gösterdiği yollardan yürü\" diye öğretti. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2FS"
+      },
+      "ayah_text_arabic_full": "ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin bal arısına: \"Dağlarda, ağaçlarda ve hazırlanmış kovanlarda yuva edin; sonra her çeşit üründen ye; sonra da Rabbinin işlemen için gösterdiği yollardan yürü\" diye öğretti. Karınlarından insanlara şifa olan çeşitli renklerde bal çıkar. Düşünen bir millet için bunda ibret vardır.",
+      "contextual_meaning": "Bal arısının doğa görevi (`ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ` `16:69`): Arının her tür meyve/çiçek özünden beslenerek şifalı bala dönüştürmesi."
+    },
+    {
+      "surah": 16,
+      "ayah": 114,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:114",
+      "word_position": 1,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Yalnız Allah'a kulluk ediyorsanız, Allah'ın size helal ve temiz olarak verdiği rızıklardan yiyin, O'nun nimetine nimetin değerini bilip açığa vurun.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yalnız Allah'a kulluk ediyorsanız, Allah'ın size helal ve temiz olarak verdiği rızıklardan yiyin, O'nun nimetine nimetin değerini bilip açığa vurun.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 18,
+      "ayah": 33,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:33",
+      "word_position": 4,
+      "target_word_uthmani": "أُكُلَهَا",
+      "target_word_rasm": "أكلها",
+      "target_word_literal_irab": "Yenilebilir ürününü / meyve verimini (`أُكُلَهَا`, isim mansûb)",
+      "context_snippet_arabic": "كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ",
+      "context_snippet_turkish_tabula_rasa": "Her iki bahçe de ürünlerini vermişlerdi, hiçbir şeyi de eksik bırakmamışlardı. İkisinin arasından bir de ırmak akıtmıştık.",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|ACC"
+      },
+      "ayah_text_arabic_full": "كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًٔا وَفَجَّرْنَا خِلَٰلَهُمَا نَهَرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Her iki bahçe de ürünlerini vermişlerdi, hiçbir şeyi de eksik bırakmamışlardı. İkisinin arasından bir de ırmak akıtmıştık.",
+      "contextual_meaning": "Ağaç ve bahçenin olgun verimi (`أُكُل` `2:265`, `6:141`, `13:35`, `14:25`, `18:33`): Emek veya rahmet sonucu eksiksiz ortaya çıkan yenilebilir ürün."
+    },
+    {
+      "surah": 19,
+      "ayah": 26,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:26",
+      "word_position": 1,
+      "target_word_uthmani": "فَكُلِى",
+      "target_word_rasm": "فكلى",
+      "target_word_literal_irab": "Ye ve beslen (`كُلِى / فَكُلِى`, I. bab emir 2. tekil dişil)",
+      "context_snippet_arabic": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا",
+      "context_snippet_turkish_tabula_rasa": "Ye iç, gözün aydın olsun. İnsanlardan birini görecek olursan 'Ben Rahman için öz denetim ve sakınma adadım, bugün hiçbir insanla konuşmayacağım' de.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2FS"
+      },
+      "ayah_text_arabic_full": "فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ye iç, gözün aydın olsun. İnsanlardan birini görecek olursan 'Ben Rahman için öz denetim ve sakınma adadım, bugün hiçbir insanla konuşmayacağım' de.\"",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 54,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:54",
+      "word_position": 1,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُوا۟ وَٱرْعَوْا۟ أَنْعَٰمَكُمْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "İster yiyin, ister hayvanlarınızı otlatın, onlarda akıl sahipleri için şüphesiz dersler vardır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ وَٱرْعَوْا۟ أَنْعَٰمَكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّأُو۟لِى ٱلنُّهَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "İster yiyin, ister hayvanlarınızı otlatın, onlarda akıl sahipleri için şüphesiz dersler vardır.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 81,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:81",
+      "word_position": 1,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُوا۟ مِن طَيِّبَٰتِ مَا",
+      "context_snippet_turkish_tabula_rasa": "Size verdiğimiz rızıkların temizlerinden yiyin, bunda aşırı gitmeyin ki gazabımı haketmeyesiniz. Gazabımı hakeden kimse muhakkak mahvolur.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Size verdiğimiz rızıkların temizlerinden yiyin, bunda aşırı gitmeyin ki gazabımı haketmeyesiniz. Gazabımı hakeden kimse muhakkak mahvolur.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 121,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:121",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَكَلَا",
+      "target_word_rasm": "فأكلا",
+      "target_word_literal_irab": "İkisi de ondan yedi (`فَأَكَلَا`, I. bab mâzî 3. ikil eril)",
+      "context_snippet_arabic": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine ikisi de o ağacın meyvesinden yedi, ayıp yerleri görünüverdi. esenlik bahçesi yapraklarıyla örtünmeye koyuldular. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:>akala|ROOT:Akl|3MD"
+      },
+      "ayah_text_arabic_full": "فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine ikisi de o ağacın meyvesinden yedi, ayıp yerleri görünüverdi. esenlik bahçesi yapraklarıyla örtünmeye koyuldular. Adem, Rabbine baş kaldırdı ve yolunu şaşırdı.",
+      "contextual_meaning": "İlk insan çiftinin sınavı (`2:35`, `7:19`, `20:121`): Geniş nimet alanından serbestçe yeme izni karşısında yasak ağaca yaklaşma sınırının aşılması (`فَأَكَلَا مِنْهَا`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 8,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:8",
+      "word_position": 5,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "جَعَلْنَٰهُمْ جَسَدًا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Biz onları yemek yemez birer ceset kılmadık ve onlar ölümsüz de değillerdi.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَا جَعَلْنَٰهُمْ جَسَدًا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَٰلِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onları yemek yemez birer ceset kılmadık ve onlar ölümsüz de değillerdi.",
+      "contextual_meaning": "Elçilerin biyolojik insanlığı (`يَأْكُلُ ٱلطَّعَامَ` `5:75`, `21:8`, `23:33`, `25:7,20`): Bütün elçilerin besin alıp tüketen ölümlü insanlar olduğunun ilanı."
+    },
+    {
+      "surah": 22,
+      "ayah": 28,
+      "surah_name": "Hac",
+      "ayah_ref": "22:28",
+      "word_position": 16,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın onlara rızık olarak verdiği hayvanları belli günlerde yakınlaşma sunusu ederken O'nun adını ansınlar. Siz de bunlardan yiyin, çaresiz kalmış yoksulu da doyurun.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Taki kendi menfaatlerine şahid olsunlar; Allah'ın onlara rızık olarak verdiği hayvanları belli günlerde yakınlaşma sunusu ederken O'nun adını ansınlar. Siz de bunlardan yiyin, çaresiz kalmış yoksulu da doyurun.",
+      "contextual_meaning": "Paylaşımlı rızık dengesi (`فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟` `22:28,36`): Kendi payından yerken çaresiz yoksulu ve isteyeni de doyurma ilkesi."
+    },
+    {
+      "surah": 22,
+      "ayah": 36,
+      "surah_name": "Hac",
+      "ayah_ref": "22:36",
+      "word_position": 18,
+      "target_word_uthmani": "فَكُلُوا۟",
+      "target_word_rasm": "فكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ",
+      "context_snippet_turkish_tabula_rasa": "... Yan üstü düşüp ölünce onlardan yiyin, isteyene de istemeyene de verin. nimetin değerini bilip açığa vurursunuz diye onları böylece sizin buyruğunuza verdik.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte yakınlaşma sunusu deve ve sığırları Allah'ın size olan nişanelerinden kıldık. Onlarda sizin için hayır vardır. Bağlı halde keserken üzerlerine Allah'ın adını anın. Yan üstü düşüp ölünce onlardan yiyin, isteyene de istemeyene de verin. nimetin değerini bilip açığa vurursunuz diye onları böylece sizin buyruğunuza verdik.",
+      "contextual_meaning": "Paylaşımlı rızık dengesi (`فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟` `22:28,36`): Kendi payından yerken çaresiz yoksulu ve isteyeni de doyurma ilkesi."
+    },
+    {
+      "surah": 23,
+      "ayah": 19,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:19",
+      "word_position": 13,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "فَأَنشَأْنَا لَكُم بِهِۦ جَنَّٰتٍ مِّن نَّخِيلٍ وَأَعْنَٰبٍ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 20,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:20",
+      "word_position": 9,
+      "target_word_uthmani": "لِّلْءَاكِلِينَ",
+      "target_word_rasm": "للءاكلين",
+      "target_word_literal_irab": "Yiyenler ve katık edinenler için (`لِّلْءَاكِلِينَ`, ism-i fâil çoğul mecrûr)",
+      "context_snippet_arabic": "تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْءَاكِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.",
+      "morphology": {
+        "lemma": "'aAkiluwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:'aAkiluwn|ROOT:Akl|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْءَاكِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.",
+      "contextual_meaning": "Zeytin ağacının besin değeri (`صِبْغٍ لِّلْءَاكِلِينَ` `23:20`): Yiyenler için yağ ve ekmeğe batırılan katık üretmesi."
+    },
+    {
+      "surah": 23,
+      "ayah": 21,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:21",
+      "word_position": 15,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "مَنَٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ehli hayvanlarda size ders vardır; onlardan çıkan sütten size içiririz; onlarda daha birçok menfaatiniz vardır. Onlardan yersiniz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَٰمِ لَعِبْرَةً نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ehli hayvanlarda size ders vardır; onlardan çıkan sütten size içiririz; onlarda daha birçok menfaatiniz vardır. Onlardan yersiniz.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 33,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:33",
+      "word_position": 19,
+      "target_word_uthmani": "يَأْكُلُ",
+      "target_word_rasm": "يأكل",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu, yediğinizden yiyen, içtiğinizden içen sizin gibi bir insandan başka birşey değildir. \"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْءَاخِرَةِ وَأَتْرَفْنَٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onun, gerçeğin üzerini örten ve ahirete kavuşmayı yalanlayan milletinin ileri gelenleri ki Biz onlara bu dünya hayatında nimet vermiştik şöyle dediler: \"Bu, yediğinizden yiyen, içtiğinizden içen sizin gibi bir insandan başka birşey değildir.\"",
+      "contextual_meaning": "Elçilerin biyolojik insanlığı (`يَأْكُلُ ٱلطَّعَامَ` `5:75`, `21:8`, `23:33`, `25:7,20`): Bütün elçilerin besin alıp tüketen ölümlü insanlar olduğunun ilanı."
+    },
+    {
+      "surah": 23,
+      "ayah": 33,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:33",
+      "word_position": 21,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu, yediğinizden yiyen, içtiğinizden içen sizin gibi bir insandan başka birşey değildir. \"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْءَاخِرَةِ وَأَتْرَفْنَٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onun, gerçeğin üzerini örten ve ahirete kavuşmayı yalanlayan milletinin ileri gelenleri ki Biz onlara bu dünya hayatında nimet vermiştik şöyle dediler: \"Bu, yediğinizden yiyen, içtiğinizden içen sizin gibi bir insandan başka birşey değildir.\"",
+      "contextual_meaning": "Elçilerin biyolojik insanlığı (`يَأْكُلُ ٱلطَّعَامَ` `5:75`, `21:8`, `23:33`, `25:7,20`): Bütün elçilerin besin alıp tüketen ölümlü insanlar olduğunun ilanı."
+    },
+    {
+      "surah": 23,
+      "ayah": 51,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:51",
+      "word_position": 3,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَٰتِ وَٱعْمَلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey elçiler! Temiz şeylerden yiyin, yararlı iş işleyin; doğrusu Ben, yaptığınızı bilirim.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَٰتِ وَٱعْمَلُوا۟ صَٰلِحًا إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey elçiler! Temiz şeylerden yiyin, yararlı iş işleyin; doğrusu Ben, yaptığınızı bilirim.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 17,
+      "target_word_uthmani": "تَأْكُلُوا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeniz / yemek için (`لِتَأْكُلُوا۟ / تَأْكُلُوا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "... Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör için bir sorumluluk yoktur. Topal için bir sorumluluk yoktur. Hastaya da bir sorumluluk yoktur. Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. Evlere girdiğiniz zaman, kendinize ehlinize Allah katından bereket, esenlik ve güzellik dileyerek selam verin. Allah size ayetleri, düşünesiniz diye böylece açıklar.",
+      "contextual_meaning": "Toplumsal güven ve sofra hukuku (`24:61`): Yakın akraba ve dost evlerinde veya topluca/ayrı ayrı yemek yemenin sorumluluk darlığından çıkarılması."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 54,
+      "target_word_uthmani": "تَأْكُلُوا۟",
+      "target_word_rasm": "تأكلوا",
+      "target_word_literal_irab": "Yemeniz / yemek için (`لِتَأْكُلُوا۟ / تَأْكُلُوا۟`, mansûb muzâri 2. çoğul)",
+      "context_snippet_arabic": "عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا",
+      "context_snippet_turkish_tabula_rasa": "... Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör için bir sorumluluk yoktur. Topal için bir sorumluluk yoktur. Hastaya da bir sorumluluk yoktur. Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. Evlere girdiğiniz zaman, kendinize ehlinize Allah katından bereket, esenlik ve güzellik dileyerek selam verin. Allah size ayetleri, düşünesiniz diye böylece açıklar.",
+      "contextual_meaning": "Toplumsal güven ve sofra hukuku (`24:61`): Yakın akraba ve dost evlerinde veya topluca/ayrı ayrı yemek yemenin sorumluluk darlığından çıkarılması."
+    },
+    {
+      "surah": 25,
+      "ayah": 7,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:7",
+      "word_position": 5,
+      "target_word_uthmani": "يَأْكُلُ",
+      "target_word_rasm": "يأكل",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu ne biçim elçi ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir kozmik görevli indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!\" Bu zalimler, güvene erenlere: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَالِ هَٰذَا ٱلرَّسُولِ يَأْكُلُ ٱلطَّعَامَ وَيَمْشِى فِى ٱلْأَسْوَاقِ لَوْلَآ أُنزِلَ إِلَيْهِ مَلَكٌ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle dediler: \"Bu ne biçim elçi ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir kozmik görevli indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!\" Bu zalimler, güvene erenlere: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediler.",
+      "contextual_meaning": "Elçilerin biyolojik insanlığı (`يَأْكُلُ ٱلطَّعَامَ` `5:75`, `21:8`, `23:33`, `25:7,20`): Bütün elçilerin besin alıp tüketen ölümlü insanlar olduğunun ilanı."
+    },
+    {
+      "surah": 25,
+      "ayah": 8,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:8",
+      "word_position": 9,
+      "target_word_uthmani": "يَأْكُلُ",
+      "target_word_rasm": "يأكل",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "تَكُونُ لَهُۥ جَنَّةٌ يَأْكُلُ مِنْهَا وَقَالَ ٱلظَّٰلِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bu ne biçim elçi ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir kozmik görevli indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!\" Bu zalimler, güvene erenlere: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "أَوْ يُلْقَىٰٓ إِلَيْهِ كَنزٌ أَوْ تَكُونُ لَهُۥ جَنَّةٌ يَأْكُلُ مِنْهَا وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle dediler: \"Bu ne biçim elçi ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir kozmik görevli indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!\" Bu zalimler, güvene erenlere: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediler.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 25,
+      "ayah": 20,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:20",
+      "word_position": 8,
+      "target_word_uthmani": "لَيَأْكُلُونَ",
+      "target_word_rasm": "ليأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Senden önce gönderdiğimiz bütün elçiler de, şüphesiz, yemek yerler, sokaklarda gezerlerdi. Ey insanlar! sebat edip direnir misiniz diye sizi birbirinizle sınarız. ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "وَمَآ أَرْسَلْنَا قَبْلَكَ مِنَ ٱلْمُرْسَلِينَ إِلَّآ إِنَّهُمْ لَيَأْكُلُونَ ٱلطَّعَامَ وَيَمْشُونَ فِى ٱلْأَسْوَاقِ وَجَعَلْنَا بَعْضَكُمْ لِبَعْضٍ فِتْنَةً أَتَصْبِرُونَ وَكَانَ رَبُّكَ بَصِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce gönderdiğimiz bütün elçiler de, şüphesiz, yemek yerler, sokaklarda gezerlerdi. Ey insanlar! sebat edip direnir misiniz diye sizi birbirinizle sınarız. Rabbin her şeyi görür.",
+      "contextual_meaning": "Elçilerin biyolojik insanlığı (`يَأْكُلُ ٱلطَّعَامَ` `5:75`, `21:8`, `23:33`, `25:7,20`): Bütün elçilerin besin alıp tüketen ölümlü insanlar olduğunun ilanı."
+    },
+    {
+      "surah": 32,
+      "ayah": 27,
+      "surah_name": "Secde",
+      "ayah_ref": "32:27",
+      "word_position": 12,
+      "target_word_uthmani": "تَأْكُلُ",
+      "target_word_rasm": "تأكل",
+      "target_word_literal_irab": "Yer / yakıp tüketir / kemirip aşındırır (`تَأْكُلُ / فَتَأْكُلُ / تَأْكُلُهُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "فَنُخْرِجُ بِهِۦ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَٰمُهُمْ وَأَنفُسُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kuru yerlere suyu gönderip onunla hayvanlarının ve kendilerinin yedikleri ekinleri çıkardığımızı görmezler mi? Görmüyorlar mı?",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَٰمُهُمْ وَأَنفُسُهُمْ أَفَلَا يُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuru yerlere suyu gönderip onunla hayvanlarının ve kendilerinin yedikleri ekinleri çıkardığımızı görmezler mi? Görmüyorlar mı?",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 14,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:14",
+      "word_position": 12,
+      "target_word_uthmani": "تَأْكُلُ",
+      "target_word_rasm": "تأكل",
+      "target_word_literal_irab": "Yer / yakıp tüketir / kemirip aşındırır (`تَأْكُلُ / فَتَأْكُلُ / تَأْكُلُهُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ",
+      "context_snippet_turkish_tabula_rasa": "Süleyman'ın ölümüne hükmettiğimiz zaman, ancak değneğini yiyen kurt onun ölümünü görünmeyen bilinçli varlıklara farkettirdi. O, ölü olarak yere düşünce, ortaya çıktı ki, şayet görünmeyen bilinçli varlıklar görülmeyeni bilmiş olsalardı alçak düşüren bir azap içinde kalmazlardı.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Süleyman'ın ölümüne hükmettiğimiz zaman, ancak değneğini yiyen kurt onun ölümünü görünmeyen bilinçli varlıklara farkettirdi. O, ölü olarak yere düşünce, ortaya çıktı ki, şayet görünmeyen bilinçli varlıklar görülmeyeni bilmiş olsalardı alçak düşüren bir azap içinde kalmazlardı.",
+      "contextual_meaning": "Kurdun kemirmesi (`دَآبَّةُ ٱلْأَرْضِ تَأْكُلُ مِنسَأَتَهُۥ` `34:14`): Yer kurdunun Süleyman'ın ahşap asasını içten içe aşındırıp tüketerek devirmesini sağlaması."
+    },
+    {
+      "surah": 34,
+      "ayah": 15,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:15",
+      "word_position": 11,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "عَن يَمِينٍ وَشِمَالٍ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbinizin verdiği rızıktan yiyin ve O'na nimetin değerini bilip açığa vurun. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "لَقَدْ كَانَ لِسَبَإٍ فِى مَسْكَنِهِمْ ءَايَةٌ جَنَّتَانِ عَن يَمِينٍ وَشِمَالٍ كُلُوا۟ مِن رِّزْقِ رَبِّكُمْ وَٱشْكُرُوا۟ لَهُۥ بَلْدَةٌ طَيِّبَةٌ وَرَبٌّ غَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sebelilerin yurtlarında Allah'ın kudretine bir işaret vardır: Sağlı sollu iki bahçe vardı. Onlara: \"Rabbinizin verdiği rızıktan yiyin ve O'na nimetin değerini bilip açığa vurun. İşte hoş bir şehir ve bağışlayan bir Rab\" denmişti.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 34,
+      "ayah": 16,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:16",
+      "word_position": 10,
+      "target_word_uthmani": "أُكُلٍ",
+      "target_word_rasm": "أكل",
+      "target_word_literal_irab": "Buruk ve kekre bir ürün/yemiş (`أُكُلٍ`, nekre isim mecrûr)",
+      "context_snippet_arabic": "بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ",
+      "context_snippet_turkish_tabula_rasa": "... bunun için Biz de üzerlerine Arim selini gönderdik, onların bahçelerini, buruk yemişli, ılgınlık ve içinde biraz da sedir ağacı bulunan iki bahçeye çevirdik.",
+      "morphology": {
+        "lemma": ">ukul",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ukul|ROOT:Akl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat onlar yüz çevirdiler; bunun için Biz de üzerlerine Arim selini gönderdik, onların bahçelerini, buruk yemişli, ılgınlık ve içinde biraz da sedir ağacı bulunan iki bahçeye çevirdik.",
+      "contextual_meaning": "Ekolojik dönüşüm (`جَنَّتَيْنِ ذَوَاتَىْ أُكُلٍ خَمْطٍ` `34:16`): Şükürden yüz çevirme sonrası verimli bahçelerin buruk ve acı yemişli bitkilere dönüşmesi."
+    },
+    {
+      "surah": 35,
+      "ayah": 12,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:12",
+      "word_position": 14,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ",
+      "context_snippet_turkish_tabula_rasa": "... diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; ...",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki deniz bir değildir. Birinin suyu tatlı ve kolay içimlidir; diğeri tuzlu ve acıdır. Her birinden taze balık eti yersiniz; takındığınız süsler çıkarırsınız; Allah'ın lütfuyla rızık aramanız için gemilerin onu yararak gittiğini görürsün. Belki artık nimetin değerini bilip açığa vurursunuz.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 33,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:33",
+      "word_position": 10,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "İşte onlara bir delil: Ölü yeri diriltir ve oradan taneler çıkarırız da ondan yerler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlara bir delil: Ölü yeri diriltir ve oradan taneler çıkarırız da ondan yerler.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 35,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:35",
+      "word_position": 1,
+      "target_word_uthmani": "لِيَأْكُلُوا۟",
+      "target_word_rasm": "ليأكلوا",
+      "target_word_literal_irab": "Yesinler / yemeleri için (`يَأْكُلُوا۟ / لِيَأْكُلُوا۟`, I. bab mansûb muzâri 3. çoğul)",
+      "context_snippet_arabic": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Onun ve elleriyle yaptıklarının ürünlerini yesinler; nimetin değerini bilip açığa vurmazlar mi?",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ أَفَلَا يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onun ve elleriyle yaptıklarının ürünlerini yesinler; nimetin değerini bilip açığa vurmazlar mi?",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 36,
+      "ayah": 72,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:72",
+      "word_position": 6,
+      "target_word_uthmani": "يَأْكُلُونَ",
+      "target_word_rasm": "يأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onları kendilerinin buyruğuna verdik; bindikleri de, etini yedikleri de vardır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "وَذَلَّلْنَٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları kendilerinin buyruğuna verdik; bindikleri de, etini yedikleri de vardır.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 66,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:66",
+      "word_position": 2,
+      "target_word_uthmani": "لَءَاكِلُونَ",
+      "target_word_rasm": "لءاكلون",
+      "target_word_literal_irab": "Elbette yiyecek olanlardır (`لَءَاكِلُونَ`, tekit lâm'lı ism-i fâil çoğul merfû)",
+      "context_snippet_arabic": "فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا",
+      "context_snippet_turkish_tabula_rasa": "İşte yakıcı yıkım yurdu ehli bundan yerler, karınlarını onunla doldururlar.",
+      "morphology": {
+        "lemma": "'aAkiluwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:'aAkiluwn|ROOT:Akl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte yakıcı yıkım yurdu ehli bundan yerler, karınlarını onunla doldururlar.",
+      "contextual_meaning": "Yakıcı yıkım yurdu beslenmesi (`37:66`, `56:52`): Karın dolduran ama beslemeyen zakkum ağacından zorunlu olarak yiyecek olanlar (`لَءَاكِلُونَ`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 91,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:91",
+      "word_position": 6,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "O da onların sahte sığınaklarına gizlice yönelip: \"Sundukları yiyecekleri yemiyor musunuz? Ne o, konuşmuyor musunuz?\" dedi.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O da onların sahte sığınaklarına gizlice yönelip: \"Sundukları yiyecekleri yemiyor musunuz? Ne o, konuşmuyor musunuz?\" dedi.",
+      "contextual_meaning": "Sahte sığınakların acizliği (`أَلَا تَأْكُلُونَ` `37:91`): İbrâhim'in, önlerine konan yiyeceği bile tüketip eksiltemeyen cansız putlara yönelttiği mantık sorgusu."
+    },
+    {
+      "surah": 40,
+      "ayah": 79,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:79",
+      "word_position": 9,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "لِتَرْكَبُوا۟ مِنْهَا وَمِنْهَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Binek olarak kullanmanız ve yemeniz için hayvanları sizin için yaratan Allah'tır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَنْعَٰمَ لِتَرْكَبُوا۟ مِنْهَا وَمِنْهَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Binek olarak kullanmanız ve yemeniz için hayvanları sizin için yaratan Allah'tır.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 73,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:73",
+      "word_position": 6,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "فَٰكِهَةٌ كَثِيرَةٌ مِّنْهَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Orada sizin için bol yemiş vardır, onlardan yersiniz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "لَكُمْ فِيهَا فَٰكِهَةٌ كَثِيرَةٌ مِّنْهَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Orada sizin için bol yemiş vardır, onlardan yersiniz.",
+      "contextual_meaning": "Esenlik yurdunda emek karşılığı sofra (`كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا` `43:73`, `52:19`, `69:24`, `77:43`): Geçmişte işlenen yararlı eylemlere karşılık afiyet ve bollukla beslenme."
+    },
+    {
+      "surah": 47,
+      "ayah": 12,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:12",
+      "word_position": 16,
+      "target_word_uthmani": "وَيَأْكُلُونَ",
+      "target_word_rasm": "ويأكلون",
+      "target_word_literal_irab": "Yerler / tüketirler (`يَأْكُلُونَ / لَيَأْكُلُونَ / وَيَأْكُلُونَ`, I. bab muzâri 3. çoğul)",
+      "context_snippet_arabic": "وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Allah, güvene erip yararlı işler işleyenleri içlerinden ırmaklar akan esenlik bahçelerine koyar. Durakları ateş olduğu halde gerçeğin üzerini örtenler, zevklenirler ve hayvanlar gibi yerler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Allah, güvene erip yararlı işler işleyenleri içlerinden ırmaklar akan esenlik bahçelerine koyar. Durakları ateş olduğu halde gerçeğin üzerini örtenler, zevklenirler ve hayvanlar gibi yerler.",
+      "contextual_meaning": "Hesapsız dünya tüketimi uyarısı (`15:3`, `47:12`, `77:46`): Gerçeği örtenlerin amaçsızca hayvanlar gibi yiyip geçici haz sürmesinin geçiciliği."
+    },
+    {
+      "surah": 47,
+      "ayah": 12,
+      "surah_name": "Muhammed",
+      "ayah_ref": "47:12",
+      "word_position": 18,
+      "target_word_uthmani": "تَأْكُلُ",
+      "target_word_rasm": "تأكل",
+      "target_word_literal_irab": "Yer / yakıp tüketir / kemirip aşındırır (`تَأْكُلُ / فَتَأْكُلُ / تَأْكُلُهُ`, I. bab muzâri 3. tekil dişil)",
+      "context_snippet_arabic": "يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ وَٱلنَّارُ مَثْوًى",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Allah, güvene erip yararlı işler işleyenleri içlerinden ırmaklar akan esenlik bahçelerine koyar. Durakları ateş olduğu halde gerçeğin üzerini örtenler, zevklenirler ve hayvanlar gibi yerler.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3FS"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ وَٱلنَّارُ مَثْوًى لَّهُمْ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Allah, güvene erip yararlı işler işleyenleri içlerinden ırmaklar akan esenlik bahçelerine koyar. Durakları ateş olduğu halde gerçeğin üzerini örtenler, zevklenirler ve hayvanlar gibi yerler.",
+      "contextual_meaning": "Hesapsız dünya tüketimi uyarısı (`15:3`, `47:12`, `77:46`): Gerçeği örtenlerin amaçsızca hayvanlar gibi yiyip geçici haz sürmesinin geçiciliği."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 21,
+      "target_word_uthmani": "يَأْكُلَ",
+      "target_word_rasm": "يأكل",
+      "target_word_literal_irab": "Yemesini / yemesinden (`يَأْكُلَهُ / يَأْكُلَ`, mansûb muzâri 3. tekil eril)",
+      "context_snippet_arabic": "أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا",
+      "context_snippet_turkish_tabula_rasa": "... hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "contextual_meaning": "Sosyal onuru kemirme benzetmesi (`أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا` `49:12`): Arkadan çekiştirme/gıybetin, savunmasız ölü kardeşin etini parça parça koparıp kemirmek gibi tiksindirici bir tüketme olması."
+    },
+    {
+      "surah": 51,
+      "ayah": 27,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:27",
+      "word_position": 5,
+      "target_word_uthmani": "تَأْكُلُونَ",
+      "target_word_rasm": "تأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hemen ailesine giderek semiz bir buzağı getirmiş, onların önüne sürüp: \"Yemez misiniz?\" demişti.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "فَقَرَّبَهُۥٓ إِلَيْهِمْ قَالَ أَلَا تَأْكُلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hemen ailesine giderek semiz bir buzağı getirmiş, onların önüne sürüp: \"Yemez misiniz?\" demişti.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 52,
+      "ayah": 19,
+      "surah_name": "Tûr",
+      "ayah_ref": "52:19",
+      "word_position": 1,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz.",
+      "contextual_meaning": "Esenlik yurdunda emek karşılığı sofra (`كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا` `43:73`, `52:19`, `69:24`, `77:43`): Geçmişte işlenen yararlı eylemlere karşılık afiyet ve bollukla beslenme."
+    },
+    {
+      "surah": 56,
+      "ayah": 52,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:52",
+      "word_position": 1,
+      "target_word_uthmani": "لَءَاكِلُونَ",
+      "target_word_rasm": "لءاكلون",
+      "target_word_literal_irab": "Elbette yiyecek olanlardır (`لَءَاكِلُونَ`, tekit lâm'lı ism-i fâil çoğul merfû)",
+      "context_snippet_arabic": "لَءَاكِلُونَ مِن شَجَرٍ مِّن",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bir zakkum ağacından yiyeceksiniz.",
+      "morphology": {
+        "lemma": "'aAkiluwn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:'aAkiluwn|ROOT:Akl|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَءَاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bir zakkum ağacından yiyeceksiniz.",
+      "contextual_meaning": "Yakıcı yıkım yurdu beslenmesi (`37:66`, `56:52`): Karın dolduran ama beslemeyen zakkum ağacından zorunlu olarak yiyecek olanlar (`لَءَاكِلُونَ`)."
+    },
+    {
+      "surah": 67,
+      "ayah": 15,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:15",
+      "word_position": 10,
+      "target_word_uthmani": "وَكُلُوا۟",
+      "target_word_rasm": "وكلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünü, size boyun eğdiren O'dur; öyleyse yerin sırtlarında dolaşın, Allah'ın verdiği rızıktan yiyin; sonunda dönüş O'nadır.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ وَإِلَيْهِ ٱلنُّشُورُ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünü, size boyun eğdiren O'dur; öyleyse yerin sırtlarında dolaşın, Allah'ın verdiği rızıktan yiyin; sonunda dönüş O'nadır.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 69,
+      "ayah": 24,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:24",
+      "word_position": 1,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ",
+      "context_snippet_turkish_tabula_rasa": "Onlara şöyle denir: \"Geçmiş günlerde, peşinen işlediklerinize karşılık afiyetle yiyiniz içiniz.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara şöyle denir: \"Geçmiş günlerde, peşinen işlediklerinize karşılık afiyetle yiyiniz içiniz.\"",
+      "contextual_meaning": "Esenlik yurdunda emek karşılığı sofra (`كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا` `43:73`, `52:19`, `69:24`, `77:43`): Geçmişte işlenen yararlı eylemlere karşılık afiyet ve bollukla beslenme."
+    },
+    {
+      "surah": 69,
+      "ayah": 37,
+      "surah_name": "Hâkka",
+      "ayah_ref": "69:37",
+      "word_position": 2,
+      "target_word_uthmani": "يَأْكُلُهُۥٓ",
+      "target_word_rasm": "يأكله",
+      "target_word_literal_irab": "Yer / tüketir (`يَأْكُلُ / يَأْكُلُهُنَّ / يَأْكُلُهُۥٓ`, I. bab muzâri 3. tekil eril)",
+      "context_snippet_arabic": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ",
+      "context_snippet_turkish_tabula_rasa": "\"ağır sapmaya düşenlerin yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|3MS"
+      },
+      "ayah_text_arabic_full": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"ağır sapmaya düşenlerin yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur.\"",
+      "contextual_meaning": "Sorumsuzluğun acı sonucu (`لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ` `69:37`): Ağır sapmaya düşenlerin besini olan yakıcı yıkım artığı."
+    },
+    {
+      "surah": 77,
+      "ayah": 43,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:43",
+      "word_position": 1,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Onlara denir ki: \"İşlediklerinize karşılık afiyetle yiyiniz, içiniz.\"",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara denir ki: \"İşlediklerinize karşılık afiyetle yiyiniz, içiniz.\"",
+      "contextual_meaning": "Esenlik yurdunda emek karşılığı sofra (`كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا` `43:73`, `52:19`, `69:24`, `77:43`): Geçmişte işlenen yararlı eylemlere karşılık afiyet ve bollukla beslenme."
+    },
+    {
+      "surah": 77,
+      "ayah": 46,
+      "surah_name": "Mürselât",
+      "ayah_ref": "77:46",
+      "word_position": 1,
+      "target_word_uthmani": "كُلُوا۟",
+      "target_word_rasm": "كلوا",
+      "target_word_literal_irab": "Yiyin, helal ve temiz verimden faydalanıp tüketin (`كُلُوا۟ / فَكُلُوا۟ / وَكُلُوا۟ / فَكُلُوهُ`, I. bab emir 2. çoğul)",
+      "context_snippet_arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم",
+      "context_snippet_turkish_tabula_rasa": "Yiyiniz, biraz zevkleniniz bakalım, doğrusu sizler suçlularsınız.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yiyiniz, biraz zevkleniniz bakalım, doğrusu sizler suçlularsınız.",
+      "contextual_meaning": "Hesapsız dünya tüketimi uyarısı (`15:3`, `47:12`, `77:46`): Gerçeği örtenlerin amaçsızca hayvanlar gibi yiyip geçici haz sürmesinin geçiciliği."
+    },
+    {
+      "surah": 89,
+      "ayah": 19,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:19",
+      "word_position": 1,
+      "target_word_uthmani": "وَتَأْكُلُونَ",
+      "target_word_rasm": "وتأكلون",
+      "target_word_literal_irab": "Yiyorsunuz / yersiniz (`تَأْكُلُونَ / وَتَأْكُلُونَ`, I. bab muzâri 2. çoğul)",
+      "context_snippet_arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "context_snippet_turkish_tabula_rasa": "Size kalan mirası hak gözetmeden yiyorsunuz.",
+      "morphology": {
+        "lemma": ">akala",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:>akala|ROOT:Akl|2MP"
+      },
+      "ayah_text_arabic_full": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Size kalan mirası hak gözetmeden yiyorsunuz.",
+      "contextual_meaning": "Yeryüzü, deniz, tarım ve hayvan nimetlerinden temiz ve helal olanı (`حَلَٰلًا طَيِّبًا`) şükür ve ölçüyle tüketip beslenme (`2:57,58,60,168,172`, `5:4,66,88,113`, `6:142`, `8:69`, `10:24`, `16:5,14,114`, `19:26`, `20:54,81`, `23:19,21,33,51`, `32:27`, `34:15`, `35:12`, `36:33,35,72`, `40:79`, `51:27`, `67:15`)."
+    },
+    {
+      "surah": 89,
+      "ayah": 19,
+      "surah_name": "Fecr",
+      "ayah_ref": "89:19",
+      "word_position": 3,
+      "target_word_uthmani": "أَكْلًا",
+      "target_word_rasm": "أكلا",
+      "target_word_literal_irab": "Toptan süpürürcesine bir tüketişle (`أَكْلًا`, mef'ûl-i mutlak masdar mansûb)",
+      "context_snippet_arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "context_snippet_turkish_tabula_rasa": "Size kalan mirası hak gözetmeden yiyorsunuz.",
+      "morphology": {
+        "lemma": ">akol",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|LEM:>akol|ROOT:Akl|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Size kalan mirası hak gözetmeden yiyorsunuz.",
+      "contextual_meaning": "Mef'ûl-i mutlak pekiştirmesi (`وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا` `89:19`): Zayıfların miras payını kendi payına katıp toptan süpürürcesine tüketme."
+    },
+    {
+      "surah": 105,
+      "ayah": 5,
+      "surah_name": "Fîl",
+      "ayah_ref": "105:5",
+      "word_position": 3,
+      "target_word_uthmani": "مَّأْكُولٍۭ",
+      "target_word_rasm": "مأكول",
+      "target_word_literal_irab": "Yenilip tüketilmiş, içi kemirilmiş (`مَّأْكُولٍۭ`, ism-i mef'ûl nekre sıfat mecrûr)",
+      "context_snippet_arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Sonunda onları, yenilmiş ekin gibi yaptı.",
+      "morphology": {
+        "lemma": "m~a>okuwl",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|PASS|PCPL|LEM:m~a>okuwl|ROOT:Akl|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonunda onları, yenilmiş ekin gibi yaptı.",
+      "contextual_meaning": "Fiziksel aşındırma hapaxı (`كَعَصْفٍ مَّأْكُولٍۭ` `105:5`): İçi kemirilip boşaltılmış, yenilip posası kalmış ekin yaprağı/saman haline dönüştürülme."
+    }
+  ]
+}

@@ -1,0 +1,2031 @@
+{
+  "root": "أ-خ-و",
+  "root_latin": "E-H-W (Axw)",
+  "concept_name": "Eh / Uht / İhve / İhvân (Ortak Kaynak, Omuzdaşlık ve Eşdeğer Kardeşlik)",
+  "rank": 120,
+  "total_occurrences": 96,
+  "unique_ayahs_count": 80,
+  "unified_core_mechanism": "Kökün `96` geçişlik tamamı İbn Fâris'in işaret ettiği 'aynı kaynağa veya düzene ortaklıkla yan yana duran eşdeğer omuzdaş' çekirdeğinde toplanır. Dört halkayı bağlar: (1) Biyolojik-hukukî aile halkası: miras paylaşımı (`4:11-12,176`), evlilik-mahremiyet sınırı (`4:23`, `24:31,61`, `33:55`) ve kan kardeşler arası imtihan (`5:30-31`, `12:5-100`). (2) Pazu desteği ve omuzdaşlık: Mûsâ'nın Hârûn'la güçlendirilmesi (`28:35`, `19:53`) ve toplumun kendi içinden çıkan soydaş elçiler (`أَخَاهُمْ / أَخُوهُمْ` `13` ayet). (3) İlke ve karakter eşdeğerliği: aynı huyu paylaşan topluluk veya belirtiler (`7:38`, `43:48`, `17:27`) ve kinlerin silindiği toplum kardeşliği (`3:103`, `49:10`, `15:47`, `59:10`). (4) Değer önceliği sınırı: hakikat çiğnendiğinde (`9:23`, `58:22`) yahut hesap gününün dehşetinde (`80:34`, `70:12`) beşerî kardeşlik bağının dahi aşılması.",
+  "physical_core": "Aynı kökene/kaynağa ortaklık sebebiyle yan yana duran, birbirinin eşi, dengi veya kolu-omuzdaşı olan varlık (`ٱلْمُشَارَكَةُ فِي ٱلْوِلَادَةِ أَوْ فِي ٱلْغَايَةِ وَٱلْمُمَاثَلَةِ`). Öz anne-baba bir kan kardeşliği (`4:11-23`, `12:5-100`, `5:30-31`, `20:40`), elçinin aynı halktan yetişmiş soydaşı olması (`7:65`, `26:106`), aynı karakteri paylaşan denk belirti/topluluk (`أُخْتَهَا / أُخْتِهَا` `7:38`, `43:48`; `إِخْوَٰنَ ٱلشَّيَٰطِينِ` `17:27`) ve kalp birliğiyle kurulan sarsılmaz toplum kardeşliği (`3:103`, `49:10`) hep bu 'ortak kaynak ve eşdeğer yan yanalık' çekirdeğinden türer.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `أ-خ-و` maddesinde kökün fonolojik yapısına işaret ederek hemzenin köken bakımından vava dayandığını not eder ve kardeşliğin çekirdeğini 'ortak bir bağa ve kazığa (`آخِيَّة`) yan yana tutunma/ortaklık' mecazıyla ilişkilendirir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) `أَخ` kökünün aslî noktasının aynı anne-babadan veya birinden doğuma ortaklık olduğunu; ardından aynı hedefe, aynı düzene, aynı kavme (`7:65`) veya benzer niteliğe ortak olan her eşdeğer varlığa (`7:38`, `43:48`, `17:27`) ödünçlendiğini açıklar.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `أَخ` sözcüğünün 'Esmâ-i Sitte/Hamse' içinde ref'te `و` (`أَخُوكَ`), nasbda `ا` (`أَخَاهُ`), cerrde `ى` (`أَخِيهِ`) aldığını; `إِخْوَة` çoğulunun daha ziyade nesep ve sarsılmaz çekirdek kardeşlikte, `إِخْوَٰن` çoğulunun ise yaygın sosyal/yol arkadaşlığı ve dostlukta kullanıldığını kaydeder.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `96` geçişin tamamı 'ortak kaynaktan gelip eşdeğer yan yanalık kurmak' ekseninde toplanır. Özellikle `49:10`da toplum birliğini anlatmak için `إِخْوَٰن` yerine biyolojik kardeşlik kelimesi olan `إِخْوَة` seçilmesi, aynı ilkeye bağlanan insanların birbirine kan kardeşliği sıkılığında sorumlu olduğunu gösterir."
+  },
+  "semitic_cognates": {
+    "akkadian": "Akadca `aḫu(m)` (CAD A/1, ss. 195 vd.: 'erkek kardeş; ayrıca yan/kol!') ve `aḫātu(m)` ('kız kardeş'), `aḫḫūtu` ('kardeşlik/ortaklık') — Doğu Semitikteki 'hem kardeş hem kol/yan' çift anlamı fizikî çekirdeği doğrudan belgeler.",
+    "hebrew": "Kitâb-ı Mukaddes İbranicesinde `אָח` (*ʾāḥ*, 'erkek kardeş, soy/aşiret yakını, müttefik' — örn. Tekvin 13:8) ve `אָחוֹת` (*ʾāḥôt*, 'kız kardeş, benzeri/eşi' — BDB) tam paraleldir.",
+    "aramaic_syriac": "Aramca ve Süryanicede `אֲחָא / ܐܰܚܳܐ` (*ʾăḥā*, pl. `aḥḥē`) ve `aḥātā` (*CAL*: 'erkek/kız kardeş, eşdeğer yakın'); Eski Etiyopça Geez'de de arkaik Güney Semitik taban (*Leslau CDG*) bu temel akrabalık kökünü izler.",
+    "phonological_note": "Proto-Sami iki ünsüzlü/üçüncü harfi zayıf `*ʔaḫ(w)-` (dişil `*ʔaḫawat-`) kökü tüm Semitik kollarda en korunaklı temel akrabalık sözcüklerinden biridir (`Akad. aḫum / aḫātu`, `İbr. ʾāḥ / ʾāḥôt`, `Aram. ʾăḥā`, `Arap. أَخ / أَخَوَات / أُخْت`). Özellikle Akadcada `aḫu` sözcüğünün hem 'kardeş' hem de insanın yanını destekleyen 'kol/kanat' anlamına gelmesi, Kur'an'daki `سَنَشُدُّ عَضُدَكَ بِأَخِيكَ` ('pazunu kardeşinle sımsıkı güçlendireceğiz' `28:35`) ifadesiyle birebir tarihsel köprü kurar."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ع-د-و (`إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا` `3:103`; `وَلَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ` `9:23`; `58:22` — Kalpleri Birleştiren Kardeşlik vs Bölücü Düşmanlık `أَعْدَآء`)",
+      "ف-ر-ق / غ-ل-ل (`وَلَا تَفَرَّقُوا۟ ... فَأَصْبَحْتُم ... إِخْوَٰنًا` `3:103`; `وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا` `15:47`; `59:10` — Kin ve Tefrika Olmaksızın Birleşmek vs Kalpte Kin ve Bölünme)",
+      "ف-ر-ر (`يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ` `80:34`; `70:12`; `5:30` — Yakın Koruma ve Omuzdaşlık `28:35` vs Hesap Günü Kaçışı ve Kardeş Cinayeti `5:30`)"
+    ],
+    "key_ayahs": [
+      "2:178",
+      "2:220",
+      "3:103",
+      "4:11",
+      "4:12",
+      "4:23",
+      "4:176",
+      "5:30",
+      "7:38",
+      "7:65",
+      "7:150",
+      "9:11",
+      "9:23",
+      "12:5",
+      "12:69",
+      "15:47",
+      "17:27",
+      "19:28",
+      "19:53",
+      "20:30",
+      "20:40",
+      "24:31",
+      "24:61",
+      "26:106",
+      "28:11",
+      "28:35",
+      "33:5",
+      "38:23",
+      "43:48",
+      "49:10",
+      "49:12",
+      "58:22",
+      "59:10",
+      "80:34"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`أ-خ-و` ortak kaynaktan beslenip pazu desteği ve gönül yakınlığı kuran eşdeğer kardeşlik ise zıddı nedir?' Cevap: (1) `3:103`teki doğrudan Mesânî kutbu: birbirinin düşmanı olup (`أَعْدَآءً`) tefrikaya düşmek (`تَفَرَّقُوا۟`). (2) `15:47` ve `59:10`da iç dünyanın zıddı göğüsteki gizli kin ve hasettir (`غِلٍّ`). (3) `9:23` ve `58:22`de hakikat sınırı çiğnendiğinde kan kardeşliğinin dahi üstüne çıkan ilke ayrımıdır; `80:34` ve `70:12`de ise hesap korkusuyla kardeşten bile kaçıştır (`يَفِرُّ`)."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`إِخْوَةٌ` (`Kan kardeşliği sıkılığındaki sarsılmaz çekirdek kardeşlik` `49:10`, `4:11`, `12:5`) vs `أَخَوَيْكُمْ` (`Aynı ayette çatışan iki kesim veya iki kardeş` `49:10`)",
+      "`إِخْوَةٌ` (`Doğrudan ana-baba bir veya organik sıkı kardeşlik`) vs `إِخْوَٰن` (`Sosyal çevre, yol, karakter veya halkdaşlık kardeşliği` `3:103`, `9:11`, `17:27`, `33:5,55`)",
+      "`أُخْتَهَا / أُخْتِهَا` (`Aynı nitelik veya silsilede önceki/sonraki eşdeğer benzeri` `7:38`, `43:48`) vs `أُخْرَىٰهُمْ / أُولَىٰهُمْ` (`Sıralı ilk ve son topluluklar` `7:38`)",
+      "`أَخِيهِ` (`Öz kan kardeşi veya toplum bireyi`) vs `غَيْر / أَعْدَآء` (`Dış hasım veya yabancı` `49:12`, `3:103`, `7:150`)"
+    ],
+    "mechanical_difference": "1) `49:10` ayeti tek cümlede iki farklı çoğul/ikil formu buluşturur: `إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ` — burada yaygın `إِخْوَٰن` yerine biyolojik çekirdek kardeşlik formu olan `إِخْوَة` seçilerek toplumsal dayanışmanın kan bağı kadar bağlayıcı olduğu vurgulanır. 2) `4:23` ayetinde tek bir listede `أَخَوَٰتُكُمْ` (öz kız kardeş), `بَنَاتُ ٱلْأَخِ` (erkek kardeşin kızı), `بَنَاتُ ٱلْأُخْتِ` (kız kardeşin kızı), `أَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ` (süt kız kardeş) ve `بَيْنَ ٱلْأُخْتَيْنِ` (iki kız kardeşi aynı nikâhta birleştirme) üzere kök tam `5` kez ayrı hukuk halkalarını çizmek için kullanılır. 3) `33:5`te ise kan babası bilinmeyen kimselerin hukukî soy karıştırılmadan `فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ` ilkesiyle toplumsal kardeşliğe alınması netleştirilir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "49:10 & 3:103 & 15:47 & 49:12 & 59:10",
+      "role": "Gönül Birliği, Onarım ve Saygı Çapası (`إِخْوَةٌ` / `إِخْوَٰنًا` / `لَحْمَ أَخِيهِ`)",
+      "literal_meaning": "'Güvene erenler ancak sıkı kardeşlerdir; öyleyse iki kardeşinizin arasını düzeltin (`49:10`)', 'düşman iken kalplerinizi birleştirip kardeşler kıldı (`3:103`)', 'göğüslerindeki kini söküp attık, karşılıklı kardeşler oldular (`15:47`)' ve 'kardeşinin etini ölü iken yemekten tiksinirsiniz (`49:12`).'"
+    },
+    {
+      "ref": "28:34-35 & 19:53 & 20:30,42 & 7:150-151",
+      "role": "Omuzdaşlık ve Destekçi Kardeş Çapası (`سَنَشُدُّ عَضُدَكَ بِأَخِيكَ`)",
+      "literal_meaning": "'Kardeşim Hârûn dilce benden daha akıcıdır, onu bana destek gönder (`28:34`, `20:30`)', 'pazunu kardeşinle sımsıkı güçlendireceğiz (`28:35`)' ve 'kardeşimle birlikte beni bağışla (`7:151`).'"
+    },
+    {
+      "ref": "4:11-12,23,176 & 24:31,61 & 33:55",
+      "role": "Miras, Evlilik Sınırları ve Aile İçi Güvenlik Çapası (`4:23` x5 & `أُخْت / إِخْوَة`)",
+      "literal_meaning": "Kelâle mirasında erkek ve kız kardeş payları (`4:12,176`), evlilik yasağı ve süt kardeşlik sınırları (`4:23` x5) ve ev mahremiyeti ile serbest yeme-içme güvenliği alanı (`24:31,61`, `33:55`)."
+    },
+    {
+      "ref": "12:5-100 (11 Ayet) & 5:30-31 & 20:40 & 28:11",
+      "role": "Kıskançlıktan Affa Kardeşlik Sınavı Çapası (`إِخْوَةُ يُوسُفَ` & `سَوْءَةَ أَخِى`)",
+      "literal_meaning": "Habil'in kardeşini öldürme pişmanlığı (`5:30-31`), Mûsâ'nın ablasının iz sürmesi (`20:40`, `28:11`) ve Yûsuf kıssasında kıskanan kardeşlerden (`إِخْوَتِكَ` `12:5`) öz kardeşi koruyup (`أَخَاهُ / أَخُوكَ` `12:69`) bütün kardeşleri bağışlayan dönüşüm (`12:100`)."
+    },
+    {
+      "ref": "7:65,73,85 & 7:38 & 17:27 & 43:48 & 58:22",
+      "role": "Soydaş Elçi, Benzerlik Mecazı ve İlke Önceliği Çapası",
+      "literal_meaning": "'Âd, Semûd ve Medyen'e kendi içlerinden soydaş kardeşleri Hûd, Sâlih ve Şuayb'ı gönderdik (`7:65,73,85`)', 'her belirti kendi eşdeğer benzerinden büyüktü (`43:48`, `7:38`)', 'saçıp savuranlar azgın saptırıcıların yoldaş kardeşleridir (`17:27`)' ve 'hakka düşmanlık eden kendi kardeşleri bile olsa yakınlık kurmazlar (`58:22`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'da `أ-خ-و` kökünden hiç fiil kullanılmaz; `96` geçişin tamamı isimdir (`96 N`). Son harfi düşen klasik `أَخ` ve `أُخْت` yapıları üçüncü kök harfi olan `و`'yi ikil (`أَخَوَيْكُمْ` `49:10`), dişil çoğul (`أَخَوَٰت` `5` kez), kırık çoğul (`إِخْوَة` `7`, `إِخْوَٰن` `22`) ve tamlama hallerinde geri açığa çıkarır. 2) Esmâ-i Hamse çekim kuralı: zamire veya başka bir isme muzâf olduğunda merfû halde `و` (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ` `7`), mansûb halde `ا` (`أَخَاهُ / أَخَاهُمْ / أَخَانَا / أَخَا` `18`), mecrûr halde `ى` (`أَخِيهِ / بِأَخِيكَ / لِأَخِيهِ` `15`) alır; 1. tekil `ى` (`أَخِى`) bitişince gizli harekeyle çekilir (`6`). (Not: Quranic Corpus etiketlemesinde `11:50` vd. `أَخَاهُمْ / أَخَانَا` gibi bazı mansûb formlar `MS|NOM` etiketiyle gruplanmıştır.) 3) Çarpıcı Rasm-ı Osmânî kuralı: `إِخْوَٰن` (`22` kez, nekre `إِخْوَٰنًا` dahil!) ve `أَخَوَٰت` (`5` kez) kelimelerinin Kur'an'daki tüm geçişlerinde `و` sonrası med elifi hazfedilerek `إخون / إخونا / أخوتكم` şeklinde yazılmıştır. 4) `10` ayette birden fazla geçer (`4:23`te `5` kez; `12:76`, `24:31`, `33:55`te `3`er kez; `4:12`, `4:176`, `5:31`, `12:69`, `24:61`, `49:10`da `2`şer kez) ve `45` farklı Rasm yazımı içerir.",
+  "derivatives": {
+    "أَخ (`52` tekil + `1` ikil `أَخَوَيْكُمْ` `49:10` = `53 N`)": "Kan kardeşi (`4:12`, `5:30-31`, `12:8-90`, `28:35`), toplum içinden gelen soydaş elçi (`7:65`, `26:106`, `46:21`) ve hak-dava kardeşi (`2:178`, `38:23`, `49:10,12`)",
+    "إِخْوَٰن (`22 N` kırık çoğul — Rasm'da vav sonrası elifi düşer)": "Gönülden birleşen ilke kardeşleri (`3:103`, `9:11`, `15:47`, `33:5`, `59:10`), aile içi mahremiyet (`24:31,61`, `33:55`) veya olumsuz ortaklık (`17:27`, `50:13`)",
+    "أُخْت (`8` tekil + `1` ikil `ٱلْأُخْتَيْنِ` `4:23` + `5` çoğul `أَخَوَٰت` = `14 N`)": "Öz ve süt kız kardeşi (`4:12,23,176`, `20:40`, `28:11`, `24:31,61`, `33:55`) ile benzer topluluk ve eşdeğer olağanüstü belirti/işaret (`7:38`, `43:48`, `19:28`)",
+    "إِخْوَة (`7 N`: `4:11,176`, `12:5,7,58,100`, `49:10`)": "Miras ve Yûsuf kıssasındaki öz kardeşler ile `49:10`da kan kardeşliği sıkılığındaki topluluk birliği"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 178,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:178",
+      "word_position": 19,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ",
+      "context_snippet_turkish_tabula_rasa": "... Öldüren, ölenin kardeşi tarafından bağışlanmışsa, kendisine örfe uymak ve bağışlayana güzellikle diyet ödemek gerekir. Bu, Rabbiniz'den bir hafifletme ve rahmettir. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Öldürülenler hakkında size kısas farz kılındı: Hür ile hür insan, köle ile köle ve kadın ile kadın. Öldüren, ölenin kardeşi tarafından bağışlanmışsa, kendisine örfe uymak ve bağışlayana güzellikle diyet ödemek gerekir. Bu, Rabbiniz'den bir hafifletme ve rahmettir. Bundan sonra tecavüzde bulunana elem verici azab vardır.",
+      "contextual_meaning": "Toplumsal hukuk, yetim koruma ve ilke kardeşliği (`2:178,220`, `9:11`, `33:5`, `38:23`): Kısasta insanî kardeşlik bağıyla af kapısı, babası bilinmeyenlerle ilke kardeşliği ve adalet ölçüsü."
+    },
+    {
+      "surah": 2,
+      "ayah": 220,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:220",
+      "word_position": 13,
+      "target_word_uthmani": "فَإِخْوَٰنُكُمْ",
+      "target_word_rasm": "فإخونكم",
+      "target_word_literal_irab": "Kardeşleriniz / kardeşleri (`إِخْوَٰنُكُمْ / إِخْوَٰنُهُمْ / إِخْوَٰنُ`, kırık çoğul merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "خَيْرٌ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer onlarla bir arada yaşarsanız, artık onlar sizin kardeşlerinizdir. Allah düzeltenden bozanı ayırdetmesini bilir. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَٰمَىٰ قُلْ إِصْلَاحٌ لَّهُمْ خَيْرٌ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana yetimleri sorarlar, de ki: \"Onların işlerini düzeltmek hayırlıdır\". Eğer onlarla bir arada yaşarsanız, artık onlar sizin kardeşlerinizdir. Allah düzeltenden bozanı ayırdetmesini bilir. Allah dileseydi sizi zora sokardı. Allah şüphesiz güçlüdür, Hakim'dir.",
+      "contextual_meaning": "Toplumsal hukuk, yetim koruma ve ilke kardeşliği (`2:178,220`, `9:11`, `33:5`, `38:23`): Kısasta insanî kardeşlik bağıyla af kapısı, babası bilinmeyenlerle ilke kardeşliği ve adalet ölçüsü."
+    },
+    {
+      "surah": 3,
+      "ayah": 103,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:103",
+      "word_position": 19,
+      "target_word_uthmani": "إِخْوَٰنًا",
+      "target_word_rasm": "إخونا",
+      "target_word_literal_irab": "Gönülden kardeşler olarak (`إِخْوَٰنًا`, nekre kırık çoğul isim mansûb — yazıda elif hazifli)",
+      "context_snippet_arabic": "قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا",
+      "context_snippet_turkish_tabula_rasa": "... Düşmandınız, kalblerinizin arasını uzlaştırdı da onun nimeti sayesinde kardeş oldunuz. Bir ateş çukurunun kenarında idiniz, sizi oradan kurtardı. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Toptan Allah'ın ipine sarılın, ayrılmayın. Allah'ın size olan nimetini anın: Düşmandınız, kalblerinizin arasını uzlaştırdı da onun nimeti sayesinde kardeş oldunuz. Bir ateş çukurunun kenarında idiniz, sizi oradan kurtardı. Allah, doğru yola erişesiniz diye size böylece ayetlerini açıklar.",
+      "contextual_meaning": "Gönül birliği, seçilmiş soy halkası ve kardeş onuru (`3:103`, `6:87`, `15:47`, `49:12`, `59:10`): Düşmanlıktan kalp birliğiyle `إِخْوَٰنًا` konumuna geçme, seçkin hidayet halkası ve gıybetten kardeş etine dokunur gibi sakınma."
+    },
+    {
+      "surah": 3,
+      "ayah": 156,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:156",
+      "word_position": 9,
+      "target_word_uthmani": "لِإِخْوَٰنِهِمْ",
+      "target_word_rasm": "لإخونهم",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Yolculuğa çıkan veya savaşa giden kardeşleri hakkında: \"Onlar yanımızda olsalardı ölmezler ve öldürülmezlerdi\" diyen gerçeğin üzerini örtenler gibi olmayın ki, Allah bunu onların kalblerinde bir hasret olarak bıraksın. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Yolculuğa çıkan veya savaşa giden kardeşleri hakkında: \"Onlar yanımızda olsalardı ölmezler ve öldürülmezlerdi\" diyen gerçeğin üzerini örtenler gibi olmayın ki, Allah bunu onların kalblerinde bir hasret olarak bıraksın. Dirilten de öldüren de Allah'tır. Allah işlediklerinizi görür.",
+      "contextual_meaning": "Yanıltıcı/bozguncu dayanışma uyarısı veya soy bağı hitabı (`3:156,168`, `7:202`, `19:28`, `33:18`, `59:11`): Kardeşçe görünüp geri çekilmeye çağıranlar, sapmada destekleşenler veya Meryem'e soy bağıyla seslenilmesi (`19:28`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 168,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:168",
+      "word_position": 3,
+      "target_word_uthmani": "لِإِخْوَٰنِهِمْ",
+      "target_word_rasm": "لإخونهم",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar oturup, kardeşleri için: \"Bize itaat etselerdi öldürülmezlerdi\" dediler. De ki: \"Eğer doğru sözlü iseniz, ölümü kendinizden savın\".",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ قَالُوا۟ لِإِخْوَٰنِهِمْ وَقَعَدُوا۟ لَوْ أَطَاعُونَا مَا قُتِلُوا۟ قُلْ فَٱدْرَءُوا۟ عَنْ أَنفُسِكُمُ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar oturup, kardeşleri için: \"Bize itaat etselerdi öldürülmezlerdi\" dediler. De ki: \"Eğer doğru sözlü iseniz, ölümü kendinizden savın\".",
+      "contextual_meaning": "Yanıltıcı/bozguncu dayanışma uyarısı veya soy bağı hitabı (`3:156,168`, `7:202`, `19:28`, `33:18`, `59:11`): Kardeşçe görünüp geri çekilmeye çağıranlar, sapmada destekleşenler veya Meryem'e soy bağıyla seslenilmesi (`19:28`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 46,
+      "target_word_uthmani": "إِخْوَةٌ",
+      "target_word_rasm": "إخوة",
+      "target_word_literal_irab": "Erkek ve kız kardeşler / sıkı kardeşlerdir (`إِخْوَةٌ`, nekre kırık çoğul isim merfû)",
+      "context_snippet_arabic": "فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. ...",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 12,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:12",
+      "word_position": 58,
+      "target_word_uthmani": "أَخٌ",
+      "target_word_rasm": "أخ",
+      "target_word_literal_irab": "Bir erkek kardeşi (`أَخٌ`, nekre tekil eril isim merfû)",
+      "context_snippet_arabic": "أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer bir erkek veya kadına kelale yollu (çocuğu ve babası olmadığı halde) varis olunuyor ve bunların ana-bir erkek veya bir kız kardeşi bulunuyorsa, her birine edilen vasiyetten veya borçtan arta kalanın altıda biri düşer; ikiden çoksalar, üçte birine, zarara uğratılmaksızın ortak olurlar. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَآ أَوْ دَيْنٍ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم مِّنۢ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَآ أَوْ دَيْنٍ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ مِنۢ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّ وَصِيَّةً مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlarınızın çocukları yoksa bıraktıklarının yarısı sizindir, çocukları varsa, bıraktıklarının ettikleri vasiyetten veya borçtan arta kalanın dörtte biri sizindir. Sizin çocuğunuz yoksa ettiğiniz vasiyet veya borç çıktıktan sonra bıraktıklarınızın dörtte biri karılarınızındır; çocuğunuz varsa, bıraktıklarınızın sekizde biri onlarındır. Eğer bir erkek veya kadına kelale yollu (çocuğu ve babası olmadığı halde) varis olunuyor ve bunların ana-bir erkek veya bir kız kardeşi bulunuyorsa, her birine edilen vasiyetten veya borçtan arta kalanın altıda biri düşer; ikiden çoksalar, üçte birine, zarara uğratılmaksızın ortak olurlar. Bunlar Allah tarafından tavsiye edilmiştir. Allah bilendir. Halim'dir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 12,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:12",
+      "word_position": 60,
+      "target_word_uthmani": "أُخْتٌ",
+      "target_word_rasm": "أخت",
+      "target_word_literal_irab": "Bir kız kardeşi (`أُخْتٌ`, nekre tekil dişil isim merfû)",
+      "context_snippet_arabic": "وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا",
+      "context_snippet_turkish_tabula_rasa": "... Eğer bir erkek veya kadına kelale yollu (çocuğu ve babası olmadığı halde) varis olunuyor ve bunların ana-bir erkek veya bir kız kardeşi bulunuyorsa, her birine edilen vasiyetten veya borçtan arta kalanın altıda biri düşer; ikiden çoksalar, üçte birine, zarara uğratılmaksızın ortak olurlar. ...",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَآ أَوْ دَيْنٍ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم مِّنۢ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَآ أَوْ دَيْنٍ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ مِنۢ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّ وَصِيَّةً مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Kadınlarınızın çocukları yoksa bıraktıklarının yarısı sizindir, çocukları varsa, bıraktıklarının ettikleri vasiyetten veya borçtan arta kalanın dörtte biri sizindir. Sizin çocuğunuz yoksa ettiğiniz vasiyet veya borç çıktıktan sonra bıraktıklarınızın dörtte biri karılarınızındır; çocuğunuz varsa, bıraktıklarınızın sekizde biri onlarındır. Eğer bir erkek veya kadına kelale yollu (çocuğu ve babası olmadığı halde) varis olunuyor ve bunların ana-bir erkek veya bir kız kardeşi bulunuyorsa, her birine edilen vasiyetten veya borçtan arta kalanın altıda biri düşer; ikiden çoksalar, üçte birine, zarara uğratılmaksızın ortak olurlar. Bunlar Allah tarafından tavsiye edilmiştir. Allah bilendir. Halim'dir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَخَوَٰتُكُمْ",
+      "target_word_rasm": "وأخوتكم",
+      "target_word_literal_irab": "Ve kız kardeşleriniz (`وَأَخَوَٰتُكُمْ`, çoğul dişil isim merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FP|NOM"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْأَخِ",
+      "target_word_rasm": "ٱلأخ",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلْأُخْتِ",
+      "target_word_rasm": "ٱلأخت",
+      "target_word_literal_irab": "Kız kardeşin / kız kardeşine / benzerinden (`ٱلْأُخْتِ / لِأُخْتِهِۦ / أُخْتِهَا`, tekil dişil isim mecrûr)",
+      "context_snippet_arabic": "وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|GEN"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 15,
+      "target_word_uthmani": "وَأَخَوَٰتُكُم",
+      "target_word_rasm": "وأخوتكم",
+      "target_word_literal_irab": "Ve kız kardeşleriniz (`وَأَخَوَٰتُكُمْ`, çoğul dişil isim merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FP|NOM"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 45,
+      "target_word_uthmani": "ٱلْأُخْتَيْنِ",
+      "target_word_rasm": "ٱلأختين",
+      "target_word_literal_irab": "İki kız kardeşi (`ٱلْأُخْتَيْنِ`, marife ikil dişil isim mecrûr)",
+      "context_snippet_arabic": "وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FD|GEN"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 176,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:176",
+      "word_position": 14,
+      "target_word_uthmani": "أُخْتٌ",
+      "target_word_rasm": "أخت",
+      "target_word_literal_irab": "Bir kız kardeşi (`أُخْتٌ`, nekre tekil dişil isim merfû)",
+      "context_snippet_arabic": "لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا",
+      "context_snippet_turkish_tabula_rasa": "Senden fetva isterler, de ki: \"Allah size ikinci dereceden mirasçılar hakkında fetva veriyor: \"Şayet çocuğu olmayıp bir kızkardeşi bulunan kimse ölürse, bıraktığının yarısı kızkardeşe kalır. ...",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden fetva isterler, de ki: \"Allah size ikinci dereceden mirasçılar hakkında fetva veriyor: \"Şayet çocuğu olmayıp bir kızkardeşi bulunan kimse ölürse, bıraktığının yarısı kızkardeşe kalır. Fakat kızkardeşinin çocuğu yoksa kendisi, ona tamamen varis olur. Eğer iki kızkardeş kalmışsa, bıraktığının üçte ikisi onlaradır. Eğer mirasçılar erkek ve kadın kardeşlerse, erkeğe, iki dişinin hissesi kadar vardır. Doğru yoldan saparsınız diye Allah size açıklıyor.\" Allah her şeyi bilir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 4,
+      "ayah": 176,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:176",
+      "word_position": 35,
+      "target_word_uthmani": "إِخْوَةً",
+      "target_word_rasm": "إخوة",
+      "target_word_literal_irab": "Çokça erkek ve kız kardeşler (`إِخْوَةً`, nekre kırık çoğul isim mansûb)",
+      "context_snippet_arabic": "تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ",
+      "context_snippet_turkish_tabula_rasa": "Senden fetva isterler, de ki: \"Allah size ikinci dereceden mirasçılar hakkında fetva veriyor: \"Şayet çocuğu olmayıp bir kızkardeşi bulunan kimse ölürse, bıraktığının yarısı kızkardeşe kalır. ...",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden fetva isterler, de ki: \"Allah size ikinci dereceden mirasçılar hakkında fetva veriyor: \"Şayet çocuğu olmayıp bir kızkardeşi bulunan kimse ölürse, bıraktığının yarısı kızkardeşe kalır. Fakat kızkardeşinin çocuğu yoksa kendisi, ona tamamen varis olur. Eğer iki kızkardeş kalmışsa, bıraktığının üçte ikisi onlaradır. Eğer mirasçılar erkek ve kadın kardeşlerse, erkeğe, iki dişinin hissesi kadar vardır. Doğru yoldan saparsınız diye Allah size açıklıyor.\" Allah her şeyi bilir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 5,
+      "ayah": 25,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:25",
+      "word_position": 8,
+      "target_word_uthmani": "وَأَخِى",
+      "target_word_rasm": "وأخى",
+      "target_word_literal_irab": "Erkek kardeşimi / kardeşim (`أَخِى`, 1. tekil iyelik zamirli tekil isim)",
+      "context_snippet_arabic": "أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Rabbim! Ben ancak kendime ve kardeşime söz geçirebiliyorum; artık bizimle bu yoldan çıkmış milletin arasını ayır\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Ben ancak kendime ve kardeşime söz geçirebiliyorum; artık bizimle bu yoldan çıkmış milletin arasını ayır\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 5,
+      "ayah": 30,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:30",
+      "word_position": 5,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine, kardeşini öldürmekte kendi benliğine uydu ve onu öldürerek, zarara uğrayanlardan oldu.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ قَتْلَ أَخِيهِ فَقَتَلَهُۥ فَأَصْبَحَ مِنَ ٱلْخَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine, kardeşini öldürmekte kendi benliğine uydu ve onu öldürerek, zarara uğrayanlardan oldu.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 5,
+      "ayah": 31,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:31",
+      "word_position": 11,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kardeşinin ölüsünü nasıl gömeceğini göstermek üzere, ona yeri eşeleyen bir karga gönderdi. \"Bana yazıklar olsun! Kardeşimin ölüsünü örtmek için bu karga kadar olmaktan aciz kaldım\" dedi de ettiğine yananlardan oldu.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kardeşinin ölüsünü nasıl gömeceğini göstermek üzere, ona yeri eşeleyen bir karga gönderdi. \"Bana yazıklar olsun! Kardeşimin ölüsünü örtmek için bu karga kadar olmaktan aciz kaldım\" dedi de ettiğine yananlardan oldu.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 5,
+      "ayah": 31,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:31",
+      "word_position": 22,
+      "target_word_uthmani": "أَخِى",
+      "target_word_rasm": "أخى",
+      "target_word_literal_irab": "Kardeşimin / öz kardeşim (`أَخِى`, 1. tekil iyelik zamirli tekil isim)",
+      "context_snippet_arabic": "ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kardeşinin ölüsünü nasıl gömeceğini göstermek üzere, ona yeri eşeleyen bir karga gönderdi. \"Bana yazıklar olsun! Kardeşimin ölüsünü örtmek için bu karga kadar olmaktan aciz kaldım\" dedi de ettiğine yananlardan oldu.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kardeşinin ölüsünü nasıl gömeceğini göstermek üzere, ona yeri eşeleyen bir karga gönderdi. \"Bana yazıklar olsun! Kardeşimin ölüsünü örtmek için bu karga kadar olmaktan aciz kaldım\" dedi de ettiğine yananlardan oldu.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 6,
+      "ayah": 87,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:87",
+      "word_position": 4,
+      "target_word_uthmani": "وَإِخْوَٰنِهِمْ",
+      "target_word_rasm": "وإخونهم",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّٰتِهِمْ وَإِخْوَٰنِهِمْ وَٱجْتَبَيْنَٰهُمْ وَهَدَيْنَٰهُمْ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Babalarından, soylarından, kardeşlerinden bir kısmını seçtik ve doğru yola eriştirdik.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّٰتِهِمْ وَإِخْوَٰنِهِمْ وَٱجْتَبَيْنَٰهُمْ وَهَدَيْنَٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarından, soylarından, kardeşlerinden bir kısmını seçtik ve doğru yola eriştirdik.",
+      "contextual_meaning": "Gönül birliği, seçilmiş soy halkası ve kardeş onuru (`3:103`, `6:87`, `15:47`, `49:12`, `59:10`): Düşmanlıktan kalp birliğiyle `إِخْوَٰنًا` konumuna geçme, seçkin hidayet halkası ve gıybetten kardeş etine dokunur gibi sakınma."
+    },
+    {
+      "surah": 7,
+      "ayah": 38,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:38",
+      "word_position": 18,
+      "target_word_uthmani": "أُخْتَهَا",
+      "target_word_rasm": "أختها",
+      "target_word_literal_irab": "Benzerini / ey kardeşi (`أُخْتَهَا / يَٰٓأُخْتَ`, tekil dişil isim mansûb)",
+      "context_snippet_arabic": "دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah, \" Sizden önce geçmiş görünmeyen bilinçli varlık ve insan ümmetleriyle beraber ateşe girin\" der. Her ümmet girdikçe kendi yoldaşına lanet eder. Hepsi birb...",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|ACC"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًا ضِعْفًا مِّنَ ٱلنَّارِ قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِن لَّا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \" Sizden önce geçmiş görünmeyen bilinçli varlık ve insan ümmetleriyle beraber ateşe girin\" der. Her ümmet girdikçe kendi yoldaşına lanet eder. Hepsi birbiri ardından yakıcı yıkım yurdunda toplanınca, sonrakiler öncekiler için, \"Rabbimiz! Bizi sapıtanlar işte bunlardır, onlara ateş azabını kat kat ver\" derler, Allah, \"Hepsinin kat kattır, ama bilmezsiniz\" der.",
+      "contextual_meaning": "Karakter, topluluk ve işaretlerde eşdeğer kardeşlik (`أُخْتَهَا` `7:38`, `43:48`; `إِخْوَٰنَ ٱلشَّيَٰطِينِ` `17:27`): Aynı huyu, gidişatı veya işlevi paylaşan benzer varlıkların kardeş sayılması."
+    },
+    {
+      "surah": 7,
+      "ayah": 65,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:65",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Ad milletine de, kardeşleri Hud'u gönderdik \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur, karşı gelmekten sakınmaz mısınız?\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ أَفَلَا تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletine de, kardeşleri Hud'u gönderdik \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur, karşı gelmekten sakınmaz mısınız?\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 73,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:73",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Semud milletine de kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milletine de kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur. Rabbinizden size bir belge geldi: Allah'ın bu dişi devesi size bir delildir, onu bırakın, Allah'ın toprağında otlasın; ona kötülük etmeyin, yoksa can yakıcı azaba uğrarsınız.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 85,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:85",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Medyen halkına da kardeşleri Şuayb'ı gönderdik, onlara şöyle dedi: \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen halkına da kardeşleri Şuayb'ı gönderdik, onlara şöyle dedi: \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur. Rabbinizden size bir belge geldi. Ölçü ve tartıyı tam yapın, insanların eşyasını eksik vermeyin, düzelttikten sonra yeryüzünde bozgunculuk etmeyin; güven duy bilin ki, bunlar sizin için hayırlıdır.\"",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 111,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:111",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَخَاهُ",
+      "target_word_rasm": "وأخاه",
+      "target_word_literal_irab": "Kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ",
+      "context_snippet_turkish_tabula_rasa": "\"Onu ve kardeşini eğle; şehirlere toplayıcılar gönder, bütün bilgin sihirbazları sana getirsinler\" dediler.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Onu ve kardeşini eğle; şehirlere toplayıcılar gönder, bütün bilgin sihirbazları sana getirsinler\" dediler.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 7,
+      "ayah": 142,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:142",
+      "word_position": 14,
+      "target_word_uthmani": "لِأَخِيهِ",
+      "target_word_rasm": "لأخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى",
+      "context_snippet_turkish_tabula_rasa": "... Musa, kardeşi Harun'a, \"Milletim içinde benim yerime geç, onları ıslah et, bozguncuların yoluna gitme\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'ya otuz gece vade verip sonra buna on gece daha kattık; böylece Rabbinin tayin ettiği müddet kırk geceye tamamlandı. Musa, kardeşi Harun'a, \"Milletim içinde benim yerime geç, onları ıslah et, bozguncuların yoluna gitme\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 7,
+      "ayah": 150,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:150",
+      "word_position": 20,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ قَالَ",
+      "context_snippet_turkish_tabula_rasa": "Musa, milletine, kızgın ve üzgün olarak dönünce \"Benim arkamdan ne kötü olmuşsunuz! Rabbinizin emrinin çabucak gelmesini mi istiyorsunuz?\" dedi, levhaları attı ve kardeşinin başından tutup kendine doğru çekti. Harun: ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milletine, kızgın ve üzgün olarak dönünce \"Benim arkamdan ne kötü olmuşsunuz! Rabbinizin emrinin çabucak gelmesini mi istiyorsunuz?\" dedi, levhaları attı ve kardeşinin başından tutup kendine doğru çekti. Harun: \"Ey annem oğlu! Bu millet beni küçümsedi; az kalsın öldürüyorlardı. Bana, düşmanları sevindirecek şekilde davranma, beni bu zalim milletle bir sayma\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 7,
+      "ayah": 151,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:151",
+      "word_position": 5,
+      "target_word_uthmani": "وَلِأَخِى",
+      "target_word_rasm": "ولأخى",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ",
+      "context_snippet_turkish_tabula_rasa": "Musa \"Rabbim! Beni ve kardeşimi bağışla, bize acı, Sen merhametlilerin merhametlisisin\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa \"Rabbim! Beni ve kardeşimi bağışla, bize acı, Sen merhametlilerin merhametlisisin\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 7,
+      "ayah": 202,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:202",
+      "word_position": 1,
+      "target_word_uthmani": "وَإِخْوَٰنُهُمْ",
+      "target_word_rasm": "وإخونهم",
+      "target_word_literal_irab": "Kardeşleriniz / kardeşleri (`إِخْوَٰنُكُمْ / إِخْوَٰنُهُمْ / إِخْوَٰنُ`, kırık çoğul merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı gücün kardeşleri onları azgınlığa sürüklerler ve bundan hiç geri durmazlar.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ ثُمَّ لَا يُقْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı gücün kardeşleri onları azgınlığa sürüklerler ve bundan hiç geri durmazlar.",
+      "contextual_meaning": "Yanıltıcı/bozguncu dayanışma uyarısı veya soy bağı hitabı (`3:156,168`, `7:202`, `19:28`, `33:18`, `59:11`): Kardeşçe görünüp geri çekilmeye çağıranlar, sapmada destekleşenler veya Meryem'e soy bağıyla seslenilmesi (`19:28`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 11,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:11",
+      "word_position": 7,
+      "target_word_uthmani": "فَإِخْوَٰنُكُمْ",
+      "target_word_rasm": "فإخونكم",
+      "target_word_literal_irab": "Kardeşleriniz / kardeşleri (`إِخْوَٰنُكُمْ / إِخْوَٰنُهُمْ / إِخْوَٰنُ`, kırık çoğul merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَنُفَصِّلُ",
+      "context_snippet_turkish_tabula_rasa": "Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse, sizin yaşam ve hesap sistemi kardeşiniz olurlar. Bilen kimseler için ayetleri uzun uzadıya açıklıyoruz.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَنُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse, sizin yaşam ve hesap sistemi kardeşiniz olurlar. Bilen kimseler için ayetleri uzun uzadıya açıklıyoruz.",
+      "contextual_meaning": "Toplumsal hukuk, yetim koruma ve ilke kardeşliği (`2:178,220`, `9:11`, `33:5`, `38:23`): Kısasta insanî kardeşlik bağıyla af kapısı, babası bilinmeyenlerle ilke kardeşliği ve adalet ölçüsü."
+    },
+    {
+      "surah": 9,
+      "ayah": 23,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:23",
+      "word_position": 7,
+      "target_word_uthmani": "وَإِخْوَٰنَكُمْ",
+      "target_word_rasm": "وإخونكم",
+      "target_word_literal_irab": "Kardeşlerinizi / yoldaş kardeşleri (`إِخْوَٰنَكُمْ / إِخْوَٰنَ / إِخْوَٰنَهُمْ`, kırık çoğul mansûb — yazıda elif hazifli)",
+      "context_snippet_arabic": "لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Babalarınızı, kardeşlerinizi küfrü güven bağı tercih ediyorlarsa dost edinmeyin. Sizden onları kim dost edinirse doğrusu kendine yazık etmiş olurlar.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Babalarınızı, kardeşlerinizi küfrü güven bağı tercih ediyorlarsa dost edinmeyin. Sizden onları kim dost edinirse doğrusu kendine yazık etmiş olurlar.",
+      "contextual_meaning": "Kardeşlik bağının hakikat ve hesap karşısındaki sınırı (`9:23-24`, `58:22`, `70:12`, `80:34`): Değerler çiğnendiğinde ilkenin öz kardeşlikten üstün tutulması ve hesap günündeki kaçış."
+    },
+    {
+      "surah": 9,
+      "ayah": 24,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:24",
+      "word_position": 6,
+      "target_word_uthmani": "وَإِخْوَٰنُكُمْ",
+      "target_word_rasm": "وإخونكم",
+      "target_word_literal_irab": "Kardeşleriniz / kardeşleri (`إِخْوَٰنُكُمْ / إِخْوَٰنُهُمْ / إِخْوَٰنُ`, kırık çoğul merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ",
+      "context_snippet_turkish_tabula_rasa": "... \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Babalarınız, oğullarınız, kardeşleriniz, eşleriniz, akrabanız, elde ettiğiniz mallar, durgun gitmesinden korktuğunuz ticaret, hoşunuza giden evler sizce Allah'tan, elçisinden ve Allah yolunda savaşmaktan daha sevgili ise, Allah'ın buyruğu gelene kadar bekleyin. Allah fasık kimseleri doğru yola eriştirmez.\"",
+      "contextual_meaning": "Kardeşlik bağının hakikat ve hesap karşısındaki sınırı (`9:23-24`, `58:22`, `70:12`, `80:34`): Değerler çiğnendiğinde ilkenin öz kardeşlikten üstün tutulması ve hesap günündeki kaçış."
+    },
+    {
+      "surah": 10,
+      "ayah": 87,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:87",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَخِيهِ",
+      "target_word_rasm": "وأخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا",
+      "context_snippet_turkish_tabula_rasa": "Musa ve kardeşine: \"Mısır'da milletinize evler hazırlayın; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa ve kardeşine: \"Mısır'da milletinize evler hazırlayın; evlerinizi yöneliş ve irtibat odağı edinin, irtibat ve sorumluluk bağını ayakta tutun\" diye vahyettik, \"güvene erenlere müjde et.\"",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 11,
+      "ayah": 50,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:50",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Ad milletine kardeşleri Hud'u gönderdik. Şöyle dedi: ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletine kardeşleri Hud'u gönderdik. Şöyle dedi: \"Ey milletim! Allah'a kulluk edin. O'ndan başka sığınak merciiniz yoktur; yoksa sadece yalan uyduran kimseler olursunuz.\"",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 61,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:61",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Semud milletine kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟ إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Semud milletine kardeşleri Salih'i gönderdik. \"Ey milletim! Allah'a kulluk edin; O'ndan başka sığınak merciiniz yoktur; sizi yeryüzünde yaratıp orayı imar etmenizi dileyen O'dur. Öyleyse O'ndan mağfiret dileyin, sonra da O'na tevbe edin. Doğrusu Rabbim size yakın ve duaları kabul edendir\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 11,
+      "ayah": 84,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:84",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Medyen halkına kardeşleri Şuayb'ı gönderdik. Şöyle dedi: ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen halkına kardeşleri Şuayb'ı gönderdik. Şöyle dedi: \"Ey milletim! Allah'a kulluk edin; O'ndan başka sığınak merciiniz yoktur. Ölçüyü tartıyı eksik tutmayın. Doğrusu ben sizi bolluk içinde görüyorum ve hakkınızda kuşatıcı bir günün azabından korkuyorum.\"",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 12,
+      "ayah": 5,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:5",
+      "word_position": 7,
+      "target_word_uthmani": "إِخْوَتِكَ",
+      "target_word_rasm": "إخوتك",
+      "target_word_literal_irab": "Kardeşlerine / kardeşleriyle (`إِخْوَتِكَ / إِخْوَتِهِۦٓ`, zamire muzâf kırık çoğul mecrûr)",
+      "context_snippet_arabic": "تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا",
+      "context_snippet_turkish_tabula_rasa": "Babası şunları söyledi: \"Oğulcuğum! Rüyanı kardeşlerine anlatma, yoksa sana tuzak kurarlar; zira saptırıcı yıkıcı güç insanın apaçık düşmanıdır\".",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Babası şunları söyledi: \"Oğulcuğum! Rüyanı kardeşlerine anlatma, yoksa sana tuzak kurarlar; zira saptırıcı yıkıcı güç insanın apaçık düşmanıdır\".",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 7,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:7",
+      "word_position": 5,
+      "target_word_uthmani": "وَإِخْوَتِهِۦٓ",
+      "target_word_rasm": "وإخوته",
+      "target_word_literal_irab": "Kardeşlerine / kardeşleriyle (`إِخْوَتِكَ / إِخْوَتِهِۦٓ`, zamire muzâf kırık çoğul mecrûr)",
+      "context_snippet_arabic": "كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌ لِّلسَّآئِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Yusuf ve kardeşlerinin olayında, soranlara nice ibretler vardır.",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|GEN"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌ لِّلسَّآئِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Yusuf ve kardeşlerinin olayında, soranlara nice ibretler vardır.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 8,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:8",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَخُوهُ",
+      "target_word_rasm": "وأخوه",
+      "target_word_literal_irab": "Kardeşi / kardeşin / soydaş kardeşleri (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ`, Esmâ-i Hamse `و` ile merfû)",
+      "context_snippet_arabic": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri demişlerdi ki: \"Yusuf ve özkardeşi babamıza bizden daha sevgilidir. Oysa biz bir cemaatiz. Babamız açık bir yanlışlık içindedir.\"",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 58,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:58",
+      "word_position": 2,
+      "target_word_uthmani": "إِخْوَةُ",
+      "target_word_rasm": "إخوة",
+      "target_word_literal_irab": "Yûsuf'un kardeşleri / öz kardeşlerim (`إِخْوَةُ / إِخْوَتِىٓ`, muzâf kırık çoğul isim)",
+      "context_snippet_arabic": "وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf'un kardeşleri gelip yanına girdiler. Kendisini tanımadıkları halde o onları tanıdı.",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|NOM"
+      },
+      "ayah_text_arabic_full": "وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf'un kardeşleri gelip yanına girdiler. Kendisini tanımadıkları halde o onları tanıdı.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 59,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:59",
+      "word_position": 6,
+      "target_word_uthmani": "بِأَخٍ",
+      "target_word_rasm": "بأخ",
+      "target_word_literal_irab": "Bir erkek kardeşinizi (`بِأَخٍ`, nekre tekil eril isim mecrûr)",
+      "context_snippet_arabic": "بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onların yüklerini hazırlatınca şöyle dedi: \"Baba bir kardeşinizi bana getirin. Sizlere ölçüyü bol tuttuğumu ve benim misafir konuklayanların en iyisi olduğumu görmüyor musunuz?\"",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yüklerini hazırlatınca şöyle dedi: \"Baba bir kardeşinizi bana getirin. Sizlere ölçüyü bol tuttuğumu ve benim misafir konuklayanların en iyisi olduğumu görmüyor musunuz?\"",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 63,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:63",
+      "word_position": 12,
+      "target_word_uthmani": "أَخَانَا",
+      "target_word_rasm": "أخانا",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Babalarına döndüklerinde, \"Ey babamız! Bize yiyecek yasak edildi, kardeşimizi bizimle beraber gönder de yiyecek alalım. Onu elbette koruruz\" dediler.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babalarına döndüklerinde, \"Ey babamız! Bize yiyecek yasak edildi, kardeşimizi bizimle beraber gönder de yiyecek alalım. Onu elbette koruruz\" dediler.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 64,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:64",
+      "word_position": 9,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "\"Daha önce kardeşini size emanet ettiğim gibi, şimdi onu emanet eder miyim? Ama Allah en iyi koruyandır, O merhametlilerin merhametlisidir\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Daha önce kardeşini size emanet ettiğim gibi, şimdi onu emanet eder miyim? Ama Allah en iyi koruyandır, O merhametlilerin merhametlisidir\" dedi.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 65,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:65",
+      "word_position": 19,
+      "target_word_uthmani": "أَخَانَا",
+      "target_word_rasm": "أخانا",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ",
+      "context_snippet_turkish_tabula_rasa": "... ailemize onunla yine yiyecek getirir, kardeşimizi de korur ve bir deve yükü de artırmış oluruz; esasen bu az bir şeydir\" dediler.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüklerini açınca karşılık olarak götürdükleri mallarının kendilerine iade edilmiş olduğunu gördüler. \"Ey babamız! Daha ne isteriz; işte mallarımız da bize iade edilmiş; ailemize onunla yine yiyecek getirir, kardeşimizi de korur ve bir deve yükü de artırmış oluruz; esasen bu az bir şeydir\" dediler.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 69,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:69",
+      "word_position": 7,
+      "target_word_uthmani": "أَخَاهُ",
+      "target_word_rasm": "أخاه",
+      "target_word_literal_irab": "Kardeşini / senin öz kardeşin (`أَخَاهُ / أَخُوكَ`, Esmâ-i Hamse mansûb ve `و` ile merfû)",
+      "context_snippet_arabic": "يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ قَالَ إِنِّىٓ أَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "Yusuf'un yanına girdiklerinde, kardeşini bağrına bastı ve: \"Ben senin kardeşinim, onların yaptıklarına artık üzülme\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf'un yanına girdiklerinde, kardeşini bağrına bastı ve: \"Ben senin kardeşinim, onların yaptıklarına artık üzülme\" dedi.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 69,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:69",
+      "word_position": 11,
+      "target_word_uthmani": "أَخُوكَ",
+      "target_word_rasm": "أخوك",
+      "target_word_literal_irab": "Kardeşini / senin öz kardeşin (`أَخَاهُ / أَخُوكَ`, Esmâ-i Hamse mansûb ve `و` ile merfû)",
+      "context_snippet_arabic": "قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا",
+      "context_snippet_turkish_tabula_rasa": "Yusuf'un yanına girdiklerinde, kardeşini bağrına bastı ve: \"Ben senin kardeşinim, onların yaptıklarına artık üzülme\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf'un yanına girdiklerinde, kardeşini bağrına bastı ve: \"Ben senin kardeşinim, onların yaptıklarına artık üzülme\" dedi.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 70,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:70",
+      "word_position": 8,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf onların yüklerini yükletirken, bir su kabını kardeşinin yüküne koydurdu. Sonra bir münadi şöyle bağırdı: \"Ey kervancılar, siz hırsızsınız!\"",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf onların yüklerini yükletirken, bir su kabını kardeşinin yüküne koydurdu. Sonra bir münadi şöyle bağırdı: \"Ey kervancılar, siz hırsızsınız!\"",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 76,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:76",
+      "word_position": 5,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن",
+      "context_snippet_turkish_tabula_rasa": "Yusuf kardeşinin yükünden önce onlarınkini aramaya başladı; sonra kardeşinin yükünden su kabını çıkardı. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf kardeşinin yükünden önce onlarınkini aramaya başladı; sonra kardeşinin yükünden su kabını çıkardı. İşte biz Yusuf'a böyle bir plan kullanmasını vahyettik. Çünkü hükümdarın kanunlarına göre kardeşini alıkoyamazdı, meğer ki Allah dileye. Dilediğimizi derecelerle yükseltiriz. Her ilim sahibinden üstün bir bilen bulunur.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 76,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:76",
+      "word_position": 10,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf kardeşinin yükünden önce onlarınkini aramaya başladı; sonra kardeşinin yükünden su kabını çıkardı. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf kardeşinin yükünden önce onlarınkini aramaya başladı; sonra kardeşinin yükünden su kabını çıkardı. İşte biz Yusuf'a böyle bir plan kullanmasını vahyettik. Çünkü hükümdarın kanunlarına göre kardeşini alıkoyamazdı, meğer ki Allah dileye. Dilediğimizi derecelerle yükseltiriz. Her ilim sahibinden üstün bir bilen bulunur.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 76,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:76",
+      "word_position": 17,
+      "target_word_uthmani": "أَخَاهُ",
+      "target_word_rasm": "أخاه",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ",
+      "context_snippet_turkish_tabula_rasa": "Yusuf kardeşinin yükünden önce onlarınkini aramaya başladı; sonra kardeşinin yükünden su kabını çıkardı. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Yusuf kardeşinin yükünden önce onlarınkini aramaya başladı; sonra kardeşinin yükünden su kabını çıkardı. İşte biz Yusuf'a böyle bir plan kullanmasını vahyettik. Çünkü hükümdarın kanunlarına göre kardeşini alıkoyamazdı, meğer ki Allah dileye. Dilediğimizi derecelerle yükseltiriz. Her ilim sahibinden üstün bir bilen bulunur.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 77,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:77",
+      "word_position": 6,
+      "target_word_uthmani": "أَخٌ",
+      "target_word_rasm": "أخ",
+      "target_word_literal_irab": "Bir erkek kardeşi (`أَخٌ`, nekre tekil eril isim merfû)",
+      "context_snippet_arabic": "يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ",
+      "context_snippet_turkish_tabula_rasa": "\"Çalmışsa, daha önce kardeşi de çalmıştı\" dediler. Yusuf bunu içinde sakladı, onlara açmadı. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ مَّكَانًا وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Çalmışsa, daha önce kardeşi de çalmıştı\" dediler. Yusuf bunu içinde sakladı, onlara açmadı. İçinden, \"Durumunuz pek kötüdür; anlattığınızı Allah daha iyi bilir\" dedi.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 87,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:87",
+      "word_position": 6,
+      "target_word_uthmani": "وَأَخِيهِ",
+      "target_word_rasm": "وأخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Oğullarım! Gidin, Yusuf'u ve kardeşini arayın. Allah'ın rahmetinden ümidinizi kesmeyin; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Oğullarım! Gidin, Yusuf'u ve kardeşini arayın. Allah'ın rahmetinden ümidinizi kesmeyin; doğrusu gerçeğin üzerini örtenlerden başkası Allah'ın rahmetinden ümidini kesmez.\"",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 89,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:89",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَخِيهِ",
+      "target_word_rasm": "وأخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Siz, Yusuf ve kardeşine bilmeden neler yaptığınızın farkında mısınız?\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Siz, Yusuf ve kardeşine bilmeden neler yaptığınızın farkında mısınız?\" dedi.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 90,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:90",
+      "word_position": 9,
+      "target_word_uthmani": "أَخِى",
+      "target_word_rasm": "أخى",
+      "target_word_literal_irab": "Kardeşimin / öz kardeşim (`أَخِى`, 1. tekil iyelik zamirli tekil isim)",
+      "context_snippet_arabic": "أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى قَدْ مَنَّ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "\"Yoksa sen Yusuf musun?\" dediler. \"Ben Yusuf'um, bu da kardeşim. Allah bize iyilikte bulundu; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Yoksa sen Yusuf musun?\" dediler. \"Ben Yusuf'um, bu da kardeşim. Allah bize iyilikte bulundu; doğrusu kim kötülükten sakınır ve sebat edip direnirse bilsin ki Allah iyi davrananların ecrini katiyen zayi etmez\" dedi..",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 12,
+      "ayah": 100,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:100",
+      "word_position": 37,
+      "target_word_uthmani": "إِخْوَتِىٓ",
+      "target_word_rasm": "إخوتى",
+      "target_word_literal_irab": "Yûsuf'un kardeşleri / öz kardeşlerim (`إِخْوَةُ / إِخْوَتِىٓ`, muzâf kırık çoğul isim)",
+      "context_snippet_arabic": "ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ",
+      "context_snippet_turkish_tabula_rasa": "... saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra, beni hapisten çıkaran, sizi çölden getiren Rabbim bana pek çok iyilikte bulundu. Doğrusu Rabbim dilediğine lütufkardır, O şüphesiz bilendir, Hakim'dir\" dedi.",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|NOM"
+      },
+      "ayah_text_arabic_full": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a boyun eğme ve teslimiyet edip) eğildiler. O zaman Yusuf: \"Babacığım! İşte bu, vaktiyle gördüğüm rüyanın çıkışıdır; Rabbim onu gerçekleştirdi. saptırıcı yıkıcı güç, benimle kardeşlerimin arasını bozduktan sonra, beni hapisten çıkaran, sizi çölden getiren Rabbim bana pek çok iyilikte bulundu. Doğrusu Rabbim dilediğine lütufkardır, O şüphesiz bilendir, Hakim'dir\" dedi.",
+      "contextual_meaning": "Kardeşler arası kıskançlık sınavı ve bağışlama dönüşümü (`5:30-31`, `12:5-100`): İlk kardeş cinayeti pişmanlığından Yûsuf'un hasetçi kardeşleriyle (`إِخْوَة`) kucaklaşmasına uzanan imtihan çizgisi."
+    },
+    {
+      "surah": 15,
+      "ayah": 47,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:47",
+      "word_position": 7,
+      "target_word_uthmani": "إِخْوَٰنًا",
+      "target_word_rasm": "إخونا",
+      "target_word_literal_irab": "Gönülden kardeşler olarak (`إِخْوَٰنًا`, nekre kırık çoğul isim mansûb — yazıda elif hazifli)",
+      "context_snippet_arabic": "صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Biz onların gönüllerinde olan kini çıkardık, artık onlar sedirler üzerinde karşılıklı oturan kardeşlerdir.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onların gönüllerinde olan kini çıkardık, artık onlar sedirler üzerinde karşılıklı oturan kardeşlerdir.",
+      "contextual_meaning": "Gönül birliği, seçilmiş soy halkası ve kardeş onuru (`3:103`, `6:87`, `15:47`, `49:12`, `59:10`): Düşmanlıktan kalp birliğiyle `إِخْوَٰنًا` konumuna geçme, seçkin hidayet halkası ve gıybetten kardeş etine dokunur gibi sakınma."
+    },
+    {
+      "surah": 17,
+      "ayah": 27,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:27",
+      "word_position": 4,
+      "target_word_uthmani": "إِخْوَٰنَ",
+      "target_word_rasm": "إخون",
+      "target_word_literal_irab": "Kardeşlerinizi / yoldaş kardeşleri (`إِخْوَٰنَكُمْ / إِخْوَٰنَ / إِخْوَٰنَهُمْ`, kırık çoğul mansûb — yazıda elif hazifli)",
+      "context_snippet_arabic": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟ إِخْوَٰنَ ٱلشَّيَٰطِينِ وَكَانَ ٱلشَّيْطَٰنُ",
+      "context_snippet_turkish_tabula_rasa": "Saçıp savuranlar, şüphesiz saptırıcı yıkıcı güçlerle kardeş olmuş olurlar; saptırıcı yıkıcı güç ise Rabbine karşı pek nankördür.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُبَذِّرِينَ كَانُوٓا۟ إِخْوَٰنَ ٱلشَّيَٰطِينِ وَكَانَ ٱلشَّيْطَٰنُ لِرَبِّهِۦ كَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Saçıp savuranlar, şüphesiz saptırıcı yıkıcı güçlerle kardeş olmuş olurlar; saptırıcı yıkıcı güç ise Rabbine karşı pek nankördür.",
+      "contextual_meaning": "Karakter, topluluk ve işaretlerde eşdeğer kardeşlik (`أُخْتَهَا` `7:38`, `43:48`; `إِخْوَٰنَ ٱلشَّيَٰطِينِ` `17:27`): Aynı huyu, gidişatı veya işlevi paylaşan benzer varlıkların kardeş sayılması."
+    },
+    {
+      "surah": 19,
+      "ayah": 28,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:28",
+      "word_position": 1,
+      "target_word_uthmani": "يَٰٓأُخْتَ",
+      "target_word_rasm": "يأخت",
+      "target_word_literal_irab": "Benzerini / ey kardeşi (`أُخْتَهَا / يَٰٓأُخْتَ`, tekil dişil isim mansûb)",
+      "context_snippet_arabic": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ",
+      "context_snippet_turkish_tabula_rasa": "... Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuğu alıp kavmine getirdi, onlar: \"Meryem! Utanılacak bir şey yaptın. Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "contextual_meaning": "Yanıltıcı/bozguncu dayanışma uyarısı veya soy bağı hitabı (`3:156,168`, `7:202`, `19:28`, `33:18`, `59:11`): Kardeşçe görünüp geri çekilmeye çağıranlar, sapmada destekleşenler veya Meryem'e soy bağıyla seslenilmesi (`19:28`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 53,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:53",
+      "word_position": 5,
+      "target_word_uthmani": "أَخَاهُ",
+      "target_word_rasm": "أخاه",
+      "target_word_literal_irab": "Kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Rahmetimizden, kardeşi Harun'u bir elçi olarak ona bağışladık.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Rahmetimizden, kardeşi Harun'u bir elçi olarak ona bağışladık.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 20,
+      "ayah": 30,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:30",
+      "word_position": 2,
+      "target_word_uthmani": "أَخِى",
+      "target_word_rasm": "أخى",
+      "target_word_literal_irab": "Erkek kardeşimi / kardeşim (`أَخِى`, 1. tekil iyelik zamirli tekil isim)",
+      "context_snippet_arabic": "هَٰرُونَ أَخِى",
+      "context_snippet_turkish_tabula_rasa": "... Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "هَٰرُونَ أَخِى",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 20,
+      "ayah": 40,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:40",
+      "word_position": 3,
+      "target_word_uthmani": "أُخْتُكَ",
+      "target_word_rasm": "أختك",
+      "target_word_literal_irab": "Kız kardeşin (`أُخْتُكَ`, zamire muzâf tekil dişil isim merfû)",
+      "context_snippet_arabic": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kızkardeşin Firavun'un sarayına giderek: \"Ona bakacak birini size göstereyim mi?\" diyordu. ...",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kızkardeşin Firavun'un sarayına giderek: \"Ona bakacak birini size göstereyim mi?\" diyordu. Böylece, annen üzülmesin, sevinsin diye, seni ona iade etmiştik. Sen bir cana kıymıştın, seni üzüntüden kurtarmış ve seni birçok musibetlerle denemiştik. Bunun için, Medyen halkı arasında yıllarca kalmıştın. Sonra, ey Musa, elçilik görevi görevini yüklenecek bir yaşa gelince dönüp geldin.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 20,
+      "ayah": 42,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:42",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَخُوكَ",
+      "target_word_rasm": "وأخوك",
+      "target_word_literal_irab": "Kardeşi / kardeşin / soydaş kardeşleri (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ`, Esmâ-i Hamse `و` ile merfû)",
+      "context_snippet_arabic": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَٰتِى وَلَا تَنِيَا",
+      "context_snippet_turkish_tabula_rasa": "Sen ve kardeşin, ayetlerimle gidin; beni anmakta gevşek davranmayın.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "ٱذْهَبْ أَنتَ وَأَخُوكَ بِـَٔايَٰتِى وَلَا تَنِيَا فِى ذِكْرِى",
+      "ayah_text_turkish_tabula_rasa_full": "Sen ve kardeşin, ayetlerimle gidin; beni anmakta gevşek davranmayın.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 23,
+      "ayah": 45,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:45",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَخَاهُ",
+      "target_word_rasm": "وأخاه",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ",
+      "context_snippet_turkish_tabula_rasa": "Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına apaçık göstergelerimiz ve apaçık delille gönderdik. Büyüklük tasladılar. Zaten mağrur bir topluluktular.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına apaçık göstergelerimiz ve apaçık delille gönderdik. Büyüklük tasladılar. Zaten mağrur bir topluluktular.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 35,
+      "target_word_uthmani": "إِخْوَٰنِهِنَّ",
+      "target_word_rasm": "إخونهن",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 38,
+      "target_word_uthmani": "إِخْوَٰنِهِنَّ",
+      "target_word_rasm": "إخونهن",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 24,
+      "ayah": 31,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:31",
+      "word_position": 41,
+      "target_word_uthmani": "أَخَوَٰتِهِنَّ",
+      "target_word_rasm": "أخوتهن",
+      "target_word_literal_irab": "Kız kardeşlerinizin / kız kardeşlerinin (`أَخَوَٰتِكُمْ / أَخَوَٰتِهِنَّ`, çoğul dişil isim mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ",
+      "context_snippet_turkish_tabula_rasa": "... Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. ...",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kadınlara da söyle: Gözlerini bakılması yasak olandan çevirsinler, iffetlerini korusunlar. Süslerini, kendiliğinden görünen kısmı müstesna, açmasınlar. Baş örtülerini yakalarının üzerine salsınlar. Süslerini kocaları veya babaları ve kayınpederleri veya oğulları veya kocalarının oğulları veya kardeşleri veya erkek kardeşlerinin oğulları veya kızkardeşlerinin oğulları veya müslüman kadınları veya cariyeleri veya erkekliği kalmamış hizmetçiler, ya da kadınların mahrem yerlerini henüz anlamayan çocuklardan başkasına göstermesinler. Gizledikleri süslerin bilinmesi için ayaklarını yere vurmasınlar. Ey güvene erenler! Saadete ermeniz için hepiniz tevbe ederek Allah'ın hükmüne dönün.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 28,
+      "target_word_uthmani": "إِخْوَٰنِكُمْ",
+      "target_word_rasm": "إخونكم",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör için bir sorumluluk yoktur. Topal için bir sorumluluk yoktur. Hastaya da bir sorumluluk yoktur. Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. Evlere girdiğiniz zaman, kendinize ehlinize Allah katından bereket, esenlik ve güzellik dileyerek selam verin. Allah size ayetleri, düşünesiniz diye böylece açıklar.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 31,
+      "target_word_uthmani": "أَخَوَٰتِكُمْ",
+      "target_word_rasm": "أخوتكم",
+      "target_word_literal_irab": "Kız kardeşlerinizin / kız kardeşlerinin (`أَخَوَٰتِكُمْ / أَخَوَٰتِهِنَّ`, çoğul dişil isim mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör için bir sorumluluk yoktur. Topal için bir sorumluluk yoktur. Hastaya da bir sorumluluk yoktur. Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. Evlere girdiğiniz zaman, kendinize ehlinize Allah katından bereket, esenlik ve güzellik dileyerek selam verin. Allah size ayetleri, düşünesiniz diye böylece açıklar.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 25,
+      "ayah": 35,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:35",
+      "word_position": 7,
+      "target_word_uthmani": "أَخَاهُ",
+      "target_word_rasm": "أخاه",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "ٱلْكِتَٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرًا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Musa'ya Kitap verdik, kardeşi Harun'u da kendisine vezir yaptık.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Musa'ya Kitap verdik, kardeşi Harun'u da kendisine vezir yaptık.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 26,
+      "ayah": 36,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:36",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَخَاهُ",
+      "target_word_rasm": "وأخاه",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ",
+      "context_snippet_turkish_tabula_rasa": "\"Onu ve kardeşini alıkoy, şehirlere, sana bütün bilgin sihirbazları getirecek toplayıcılar gönder\" dediler.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Onu ve kardeşini alıkoy, şehirlere, sana bütün bilgin sihirbazları getirecek toplayıcılar gönder\" dediler.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 26,
+      "ayah": 106,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:106",
+      "word_position": 4,
+      "target_word_uthmani": "أَخُوهُمْ",
+      "target_word_rasm": "أخوهم",
+      "target_word_literal_irab": "Kardeşi / kardeşin / soydaş kardeşleri (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ`, Esmâ-i Hamse `و` ile merfû)",
+      "context_snippet_arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 124,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:124",
+      "word_position": 4,
+      "target_word_uthmani": "أَخُوهُمْ",
+      "target_word_rasm": "أخوهم",
+      "target_word_literal_irab": "Kardeşi / kardeşin / soydaş kardeşleri (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ`, Esmâ-i Hamse `و` ile merfû)",
+      "context_snippet_arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 142,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:142",
+      "word_position": 4,
+      "target_word_uthmani": "أَخُوهُمْ",
+      "target_word_rasm": "أخوهم",
+      "target_word_literal_irab": "Kardeşi / kardeşin / soydaş kardeşleri (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ`, Esmâ-i Hamse `و` ile merfû)",
+      "context_snippet_arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَٰلِحٌ أَلَا تَتَّقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَٰلِحٌ أَلَا تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 26,
+      "ayah": 161,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:161",
+      "word_position": 4,
+      "target_word_uthmani": "أَخُوهُمْ",
+      "target_word_rasm": "أخوهم",
+      "target_word_literal_irab": "Kardeşi / kardeşin / soydaş kardeşleri (`أَخُوهُ / أَخُوكَ / أَخُوهُمْ`, Esmâ-i Hamse `و` ile merfû)",
+      "context_snippet_arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 27,
+      "ayah": 45,
+      "surah_name": "Neml",
+      "ayah_ref": "27:45",
+      "word_position": 5,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا أَنِ ٱعْبُدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Semud milletine kardeşleri Salih'i \"Allah'a kulluk ediniz\" desin diye gönderdik. Hemen birbiriyle çekişen iki zümreye ayrıldılar.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ فَإِذَا هُمْ فَرِيقَانِ يَخْتَصِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Semud milletine kardeşleri Salih'i \"Allah'a kulluk ediniz\" desin diye gönderdik. Hemen birbiriyle çekişen iki zümreye ayrıldılar.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 28,
+      "ayah": 11,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:11",
+      "word_position": 2,
+      "target_word_uthmani": "لِأُخْتِهِۦ",
+      "target_word_rasm": "لأخته",
+      "target_word_literal_irab": "Kız kardeşin / kız kardeşine / benzerinden (`ٱلْأُخْتِ / لِأُخْتِهِۦ / أُخْتِهَا`, tekil dişil isim mecrûr)",
+      "context_snippet_arabic": "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın ablasına: \"Onu izle\" dedi. O da, kimse farkına varmadan, Musa'yı uzaktan gözetledi.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَتْ لِأُخْتِهِۦ قُصِّيهِ فَبَصُرَتْ بِهِۦ عَن جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın ablasına: \"Onu izle\" dedi. O da, kimse farkına varmadan, Musa'yı uzaktan gözetledi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 28,
+      "ayah": 34,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:34",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَخِى",
+      "target_word_rasm": "وأخى",
+      "target_word_literal_irab": "Kardeşimin / öz kardeşim (`أَخِى`, 1. tekil iyelik zamirli tekil isim)",
+      "context_snippet_arabic": "وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ",
+      "context_snippet_turkish_tabula_rasa": "... Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. Onu, beni destekleyen bir yardımcı olarak benimle gönder, çünkü beni yalanlamalarından korkarım\" dedi.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًا فَأَرْسِلْهُ مَعِىَ رِدْءًا يُصَدِّقُنِىٓ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. Onu, beni destekleyen bir yardımcı olarak benimle gönder, çünkü beni yalanlamalarından korkarım\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 28,
+      "ayah": 35,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:35",
+      "word_position": 4,
+      "target_word_uthmani": "بِأَخِيكَ",
+      "target_word_rasm": "بأخيك",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَٰنًا",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Seni kardeşinle destekleyeceğiz; ikinize bir kudret vereceğiz ki, onlar size el uzatamayacaklardır. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَٰنًا فَلَا يَصِلُونَ إِلَيْكُمَا بِـَٔايَٰتِنَآ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلْغَٰلِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Seni kardeşinle destekleyeceğiz; ikinize bir kudret vereceğiz ki, onlar size el uzatamayacaklardır. Ayetlerimizle ikiniz ve ikinize uyanlar üstün geleceklerdir\" dedi.",
+      "contextual_meaning": "Mûsâ, Hârûn ve ablası arasındaki omuzdaşlık (`28:34-35`, `19:53`, `20:30,40`, `7:111`): Pazunun kardeşle sımsıkı güçlendirilmesi ve zorlu görevde aile dayanışması."
+    },
+    {
+      "surah": 29,
+      "ayah": 36,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:36",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَاهُمْ",
+      "target_word_rasm": "أخاهم",
+      "target_word_literal_irab": "Soydaş/öz kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَانَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَٰقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "Medyen halkına kardeşleri Şuayb'ı gönderdik. O, \"Ey milletim! Allah'a kulluk edin, ahiret gününe umut besleyin. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ ٱلْءَاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen halkına kardeşleri Şuayb'ı gönderdik. O, \"Ey milletim! Allah'a kulluk edin, ahiret gününe umut besleyin. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın\" dedi.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 5,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:5",
+      "word_position": 11,
+      "target_word_uthmani": "فَإِخْوَٰنُكُمْ",
+      "target_word_rasm": "فإخونكم",
+      "target_word_literal_irab": "Kardeşleriniz / kardeşleri (`إِخْوَٰنُكُمْ / إِخْوَٰنُهُمْ / إِخْوَٰنُ`, kırık çoğul merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları yaşam ve hesap sistemi kardeşi ve dostlarınız olarak kabul edin. İçinizden kasdederek yaptıklarınız bir yana, yanılmalarınızda size bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evlatlıkları babalarına nisbet edin, bu Allah katında en doğru olandır. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları yaşam ve hesap sistemi kardeşi ve dostlarınız olarak kabul edin. İçinizden kasdederek yaptıklarınız bir yana, yanılmalarınızda size bir sorumluluk yoktur. Allah, bağışlar ve merhamet eder.",
+      "contextual_meaning": "Toplumsal hukuk, yetim koruma ve ilke kardeşliği (`2:178,220`, `9:11`, `33:5`, `38:23`): Kısasta insanî kardeşlik bağıyla af kapısı, babası bilinmeyenlerle ilke kardeşliği ve adalet ölçüsü."
+    },
+    {
+      "surah": 33,
+      "ayah": 18,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:18",
+      "word_position": 7,
+      "target_word_uthmani": "لِإِخْوَٰنِهِمْ",
+      "target_word_rasm": "لإخونهم",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. Bunlar güven duy, Allah, bu sebeple işlerini boşa çıkarmıştır; bu, Allah için kolaydır.",
+      "contextual_meaning": "Yanıltıcı/bozguncu dayanışma uyarısı veya soy bağı hitabı (`3:156,168`, `7:202`, `19:28`, `33:18`, `59:11`): Kardeşçe görünüp geri çekilmeye çağıranlar, sapmada destekleşenler veya Meryem'e soy bağıyla seslenilmesi (`19:28`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 55,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:55",
+      "word_position": 9,
+      "target_word_uthmani": "إِخْوَٰنِهِنَّ",
+      "target_word_rasm": "إخونهن",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَٰنُهُنَّ وَٱتَّقِينَ ٱللَّهَ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların; babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 33,
+      "ayah": 55,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:55",
+      "word_position": 12,
+      "target_word_uthmani": "إِخْوَٰنِهِنَّ",
+      "target_word_rasm": "إخونهن",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ",
+      "context_snippet_turkish_tabula_rasa": "... babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَٰنُهُنَّ وَٱتَّقِينَ ٱللَّهَ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların; babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 33,
+      "ayah": 55,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:55",
+      "word_position": 15,
+      "target_word_uthmani": "أَخَوَٰتِهِنَّ",
+      "target_word_rasm": "أخوتهن",
+      "target_word_literal_irab": "Kız kardeşlerinizin / kız kardeşlerinin (`أَخَوَٰتِكُمْ / أَخَوَٰتِهِنَّ`, çoğul dişil isim mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "... babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَٰنُهُنَّ وَٱتَّقِينَ ٱللَّهَ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların; babaları, oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, hizmetçi kadınları ve cariyeleri hakkında bir sorumluluğu yoktur. Allah'tan sakının, çünkü Allah her şeye şahiddir.",
+      "contextual_meaning": "Miras, nikâh sınırı ve ev mahremiyeti hukuku (`4:11-23,176`, `24:31,61`, `33:55`): Öz, süt ve baba/anne bir kardeşlerin tereke payları, evlilik yasağı ve rahat ziyaret sınırları."
+    },
+    {
+      "surah": 38,
+      "ayah": 23,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:23",
+      "word_position": 3,
+      "target_word_uthmani": "أَخِى",
+      "target_word_rasm": "أخى",
+      "target_word_literal_irab": "Kardeşimin / öz kardeşim (`أَخِى`, 1. tekil iyelik zamirli tekil isim)",
+      "context_snippet_arabic": "إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Bu kardeşimin doksan dokuz dişi koyunu, benim de bir tek dişi koyunum vardır; O'nu da bana ver dedi ve tartışmada beni yendi.\"",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا وَعَزَّنِى فِى ٱلْخِطَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu kardeşimin doksan dokuz dişi koyunu, benim de bir tek dişi koyunum vardır; O'nu da bana ver dedi ve tartışmada beni yendi.\"",
+      "contextual_meaning": "Toplumsal hukuk, yetim koruma ve ilke kardeşliği (`2:178,220`, `9:11`, `33:5`, `38:23`): Kısasta insanî kardeşlik bağıyla af kapısı, babası bilinmeyenlerle ilke kardeşliği ve adalet ölçüsü."
+    },
+    {
+      "surah": 43,
+      "ayah": 48,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:48",
+      "word_position": 9,
+      "target_word_uthmani": "أُخْتِهَا",
+      "target_word_rasm": "أختها",
+      "target_word_literal_irab": "Kız kardeşin / kız kardeşine / benzerinden (`ٱلْأُخْتِ / لِأُخْتِهِۦ / أُخْتِهَا`, tekil dişil isim mecrûr)",
+      "context_snippet_arabic": "هِىَ أَكْبَرُ مِنْ أُخْتِهَا وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlara gösterdiğimiz her apaçık gösterge diğerinden daha büyüktü; doğru yola dönmeleri için onları azaba uğrattık.",
+      "morphology": {
+        "lemma": ">uxot",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>uxot|ROOT:Axw|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرِيهِم مِّنْ ءَايَةٍ إِلَّا هِىَ أَكْبَرُ مِنْ أُخْتِهَا وَأَخَذْنَٰهُم بِٱلْعَذَابِ لَعَلَّهُمْ يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara gösterdiğimiz her apaçık gösterge diğerinden daha büyüktü; doğru yola dönmeleri için onları azaba uğrattık.",
+      "contextual_meaning": "Karakter, topluluk ve işaretlerde eşdeğer kardeşlik (`أُخْتَهَا` `7:38`, `43:48`; `إِخْوَٰنَ ٱلشَّيَٰطِينِ` `17:27`): Aynı huyu, gidişatı veya işlevi paylaşan benzer varlıkların kardeş sayılması."
+    },
+    {
+      "surah": 46,
+      "ayah": 21,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:21",
+      "word_position": 2,
+      "target_word_uthmani": "أَخَا",
+      "target_word_rasm": "أخا",
+      "target_word_literal_irab": "Kardeşlerini / kardeşini (`أَخَاهُمْ / أَخَاهُ / أَخَا`, Esmâ-i Hamse `ا` ile mansûb)",
+      "context_snippet_arabic": "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ",
+      "context_snippet_turkish_tabula_rasa": "Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 49,
+      "ayah": 10,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:10",
+      "word_position": 3,
+      "target_word_uthmani": "إِخْوَةٌ",
+      "target_word_rasm": "إخوة",
+      "target_word_literal_irab": "Erkek ve kız kardeşler / sıkı kardeşlerdir (`إِخْوَةٌ`, nekre kırık çoğul isim merfû)",
+      "context_snippet_arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz güvene erenler birbiri ile kardeştirler; öyle ise dargın olan kardeşlerinizin arasını düzeltin; Allah'tan sakının ki size acısın.",
+      "morphology": {
+        "lemma": "<ixowapN",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<ixowapN|ROOT:Axw|P|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz güvene erenler birbiri ile kardeştirler; öyle ise dargın olan kardeşlerinizin arasını düzeltin; Allah'tan sakının ki size acısın.",
+      "contextual_meaning": "Sarsılmaz toplumsal kardeşlik ve arabuluculuk (`إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ` `49:10`): Biyolojik çekirdek kardeşlik kelimesi `إِخْوَة` ile ortak bilince sahip toplum bireylerinin onarımcı dayanışması vurgulanır."
+    },
+    {
+      "surah": 49,
+      "ayah": 10,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:10",
+      "word_position": 6,
+      "target_word_uthmani": "أَخَوَيْكُمْ",
+      "target_word_rasm": "أخويكم",
+      "target_word_literal_irab": "İki kardeşinizin (`أَخَوَيْكُمْ`, ikil + `كُمْ`, `بَيْنَ` ardında mecrûr)",
+      "context_snippet_arabic": "إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz güvene erenler birbiri ile kardeştirler; öyle ise dargın olan kardeşlerinizin arasını düzeltin; Allah'tan sakının ki size acısın.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MD|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz güvene erenler birbiri ile kardeştirler; öyle ise dargın olan kardeşlerinizin arasını düzeltin; Allah'tan sakının ki size acısın.",
+      "contextual_meaning": "Sarsılmaz toplumsal kardeşlik ve arabuluculuk (`إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ` `49:10`): Biyolojik çekirdek kardeşlik kelimesi `إِخْوَة` ile ortak bilince sahip toplum bireylerinin onarımcı dayanışması vurgulanır."
+    },
+    {
+      "surah": 49,
+      "ayah": 12,
+      "surah_name": "Hucurât",
+      "ayah_ref": "49:12",
+      "word_position": 23,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Zannın çoğundan sakının, zira zannın bir kısmı sapma ve kusurdur. Birbirinizin suçunu araştırmayın; kimse kimseyi çekiştirmesin; hangi biriniz ölü kardeşinin etini yemekten hoşlanır? Ondan tiksinirsiniz; Allah'tan sakının, şüphesiz Allah tevbeleri daima kabul edendir, acıyandır.",
+      "contextual_meaning": "Gönül birliği, seçilmiş soy halkası ve kardeş onuru (`3:103`, `6:87`, `15:47`, `49:12`, `59:10`): Düşmanlıktan kalp birliğiyle `إِخْوَٰنًا` konumuna geçme, seçkin hidayet halkası ve gıybetten kardeş etine dokunur gibi sakınma."
+    },
+    {
+      "surah": 50,
+      "ayah": 13,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:13",
+      "word_position": 3,
+      "target_word_uthmani": "وَإِخْوَٰنُ",
+      "target_word_rasm": "وإخون",
+      "target_word_literal_irab": "Kardeşleriniz / kardeşleri (`إِخْوَٰنُكُمْ / إِخْوَٰنُهُمْ / إِخْوَٰنُ`, kırık çoğul merfû — yazıda elif hazifli)",
+      "context_snippet_arabic": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi elçileri yalanlamışlardı da tehdidim gerçekleşmişti.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi elçileri yalanlamışlardı da tehdidim gerçekleşmişti.",
+      "contextual_meaning": "Toplumun içinden yetişmiş soydaş elçi (`أَخَاهُمْ / أَخُوهُمْ`): Âd, Semûd, Medyen ve Lût halklarına yabancı değil, kendi içlerinden dili ve derdi ortak bir kardeşlerinin gönderilmesi."
+    },
+    {
+      "surah": 58,
+      "ayah": 22,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:22",
+      "word_position": 19,
+      "target_word_uthmani": "إِخْوَٰنَهُمْ",
+      "target_word_rasm": "إخونهم",
+      "target_word_literal_irab": "Kardeşlerinizi / yoldaş kardeşleri (`إِخْوَٰنَكُمْ / إِخْوَٰنَ / إِخْوَٰنَهُمْ`, kırık çoğul mansûb — yazıda elif hazifli)",
+      "context_snippet_arabic": "أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a ve ahiret gününe güvene eren bir milletin, babaları veya oğulları veya kardeşleri ya da akrabaları olsa bile Allah'a ve elçisine karşı gelenlere, sevgi beslediklerini görmezsin. İşte Allah, güven bağı bunların kalblerine yazmış, katından bir nur ile onları desteklemiştir. ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve ahiret gününe güvene eren bir milletin, babaları veya oğulları veya kardeşleri ya da akrabaları olsa bile Allah'a ve elçisine karşı gelenlere, sevgi beslediklerini görmezsin. İşte Allah, güven bağı bunların kalblerine yazmış, katından bir nur ile onları desteklemiştir. Onları, içlerinden ırmaklar akan, içinde temelli kalacakları esenlik bahçelerine koyar. Allah onlardan hoşnut olmuştur, onlar da Allah'tan hoşnut olmuştur. İşte bunlar, Allah'tan yana olanlardır. İyi bilin ki, saadete erecek olanlar, Allah'tan yana olanlardır.",
+      "contextual_meaning": "Kardeşlik bağının hakikat ve hesap karşısındaki sınırı (`9:23-24`, `58:22`, `70:12`, `80:34`): Değerler çiğnendiğinde ilkenin öz kardeşlikten üstün tutulması ve hesap günündeki kaçış."
+    },
+    {
+      "surah": 59,
+      "ayah": 10,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:10",
+      "word_position": 9,
+      "target_word_uthmani": "وَلِإِخْوَٰنِنَا",
+      "target_word_rasm": "ولإخوننا",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbimiz! Bizi ve bizden önce güvene ermiş olan kardeşlerimizi bağışla; kalbimizde güvene erenlere karşı kin bırakma; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan sonra gelenler: \"Rabbimiz! Bizi ve bizden önce güvene ermiş olan kardeşlerimizi bağışla; kalbimizde güvene erenlere karşı kin bırakma; Rabbimiz! Şüphesiz Sen şefkatlisin, merhametlisin\" derler.",
+      "contextual_meaning": "Gönül birliği, seçilmiş soy halkası ve kardeş onuru (`3:103`, `6:87`, `15:47`, `49:12`, `59:10`): Düşmanlıktan kalp birliğiyle `إِخْوَٰنًا` konumuna geçme, seçkin hidayet halkası ve gıybetten kardeş etine dokunur gibi sakınma."
+    },
+    {
+      "surah": 59,
+      "ayah": 11,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:11",
+      "word_position": 7,
+      "target_word_uthmani": "لِإِخْوَٰنِهِمُ",
+      "target_word_rasm": "لإخونهم",
+      "target_word_literal_irab": "Kardeşlerine / kardeşlerinizin (`إِخْوَٰنِهِمْ / إِخْوَٰنِكُمْ / إِخْوَٰنِهِنَّ`, kırık çoğul mecrûr — yazıda elif hazifli)",
+      "context_snippet_arabic": "ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "iki çıkışlı kaypakların, kitap ehlinin gerçeğin üzerini örtenlerinden olan kardeşlerine: \"Eğer siz yurdunuzdan çıkarılırsanız and olsun ki, biz de sizinle beraber çıkarız; ...",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "iki çıkışlı kaypakların, kitap ehlinin gerçeğin üzerini örtenlerinden olan kardeşlerine: \"Eğer siz yurdunuzdan çıkarılırsanız and olsun ki, biz de sizinle beraber çıkarız; sizin aleyhinizde kimseye asla uymayız; eğer savaşa tutuşursanız mutlaka size yardım ederiz\" dediklerini görmedin mi? Allah onların yalancı olduklarına şahidlik eder.",
+      "contextual_meaning": "Yanıltıcı/bozguncu dayanışma uyarısı veya soy bağı hitabı (`3:156,168`, `7:202`, `19:28`, `33:18`, `59:11`): Kardeşçe görünüp geri çekilmeye çağıranlar, sapmada destekleşenler veya Meryem'e soy bağıyla seslenilmesi (`19:28`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 12,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:12",
+      "word_position": 2,
+      "target_word_uthmani": "وَأَخِيهِ",
+      "target_word_rasm": "وأخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "context_snippet_turkish_tabula_rasa": "... Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.",
+      "contextual_meaning": "Kardeşlik bağının hakikat ve hesap karşısındaki sınırı (`9:23-24`, `58:22`, `70:12`, `80:34`): Değerler çiğnendiğinde ilkenin öz kardeşlikten üstün tutulması ve hesap günündeki kaçış."
+    },
+    {
+      "surah": 80,
+      "ayah": 34,
+      "surah_name": "Abese",
+      "ayah_ref": "80:34",
+      "word_position": 5,
+      "target_word_uthmani": "أَخِيهِ",
+      "target_word_rasm": "أخيه",
+      "target_word_literal_irab": "Kardeşinin / kardeşine / öz kardeşinden (`أَخِيهِ / لِأَخِيهِ / أَخِى / بِأَخِيكَ`, `ى` ile mecrûr)",
+      "context_snippet_arabic": "يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "context_snippet_turkish_tabula_rasa": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "morphology": {
+        "lemma": ">ax",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>ax|ROOT:Axw|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "contextual_meaning": "Kardeşlik bağının hakikat ve hesap karşısındaki sınırı (`9:23-24`, `58:22`, `70:12`, `80:34`): Değerler çiğnendiğinde ilkenin öz kardeşlikten üstün tutulması ve hesap günündeki kaçış."
+    }
+  ]
+}

@@ -1,0 +1,1832 @@
+{
+  "root": "ن-ج-و",
+  "root_latin": "N-C-W (njw)",
+  "concept_name": "Necât / Necvâ (Kuşatmadan Yüksek Selamete Çekip Kurtarma ve Tenhaya Çekilip Gizlice Konuşma)",
+  "rank": 132,
+  "total_occurrences": 84,
+  "unique_ayahs_count": 75,
+  "unified_core_mechanism": "`ن-ج-و` kökünün Kur'an'daki `84` geçişinin tamamı tek bir uzamsal hareketten doğar: 'bir şeyi çevreleyen kuşatma, sular veya kalabalığın ortasından ayırıp yüksek, salim ve yalıtılmış bir zemine (`نَجْوَة`) çekmek'. Bu kök (1) fiziksel/tarihî düzlemde (`67` kurtuluş türevi) Mûsâ ve İsrâiloğullarını denizden (`2:49-50`), Nûh'u tufandan (`7:64`, `29:15`), Lût'u helak şehrinden (`7:83`, `27:57`), İbrâhîm'i ateşten (`29:24`), Yûnus'u karanlık darlıktan (`21:88`) ve deniz yolcusunu dalgalardan (`6:63-64`, `17:67`, `31:32`) salim karaya çıkarır; (2) iletişim düzleminde ise (`17` gizlilik türevi) kişiyi kalabalığın içinden tenha köşeye çekerek baş başa konuşmayı (`12:80`, `19:52`, `58:7-13`) anlatır ve bu gizli fısıltının bile Yaratıcı'nın bilgisi dışında kalamayacağını (`9:78`, `43:80`, `58:7`) vurgular.",
+  "physical_core": "Çevreleyen tehlike veya kalabalıktan sıyrılıp selin ve kalabalığın erişemeyeceği 'yüksek, temiz ve ayrılmış tepeye (`نَجْوَة`) çekilmek' (`ٱلتَّخَلُّصُ وَٱلِٱنْفِصَالُ إِلَى مَوْضِعٍ مُرْتَفِعٍ وَمَعْزُولٍ`). İster felaket dalgalarından karaya çıkarılıp kurtulmak (`نَجَا / نَجَّى / أَنجَى`), isterse kalabalıktan tek veya iki kişi tenhaya çekilip fısıldaşmak (`نَجْوَى / نَجِيّ`) olsun; iki anlam kolu da aynı somut uzamsal hareketten doğar: çevreden ayırıp yalıtılmış güvenli yüksekliğe alma (`خَلَصُوا۟ نَجِيًّا` `12:80`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `nun-cîm-vâv (نجو)` maddesini iki asıl üzerinden açıklar: (1) deriyi soymak, sıyrılıp hızla gitmek ve sel sularının çıkamadığı yüksek arazi parçası (`النَّجْوَة`); (2) kalabalıktan sıyrılarak gizli sır konuşması (`النَّجْوَى / النَّجِيّ`) kurmak.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) iki anlam arasındaki organik köprüyü doğrudan çizer: 'Birini suların basmadığı yüksek bir yere (`نجوة`) almak kurtarmak (`نَجَاة`), sözü başkalarının duyamayacağı tenha bir kenara çekip konuşmak ise sırdaşlık (`نَجْوَى`) demektir.' `17:47`deki `وَإِذْ هُمْ نَجْوَىٰٓ` terkibinde masdarın tüm 'gizlice fısıldaşan topluluğa' ad olduğunu belirtir.",
+    "lisan_al_arab": "Klasik sözlük (*Lisânü'l-Arab*) `نَجَا يَنْجُو` fiilinin aslında nâkıs-ı vâvî (`نَجَوْتُ` `28:25`) olduğunu, II. bâb `نَجَّى` ve IV. bâb `أَنجَى` geçişli biçimlerininse 'beladan ayırıp salim alana çıkarmak' anlamında birleştiğini; `نَجِيّ` (`12:80`, `19:52`) sözcüğünün tekil, çoğul ve hal olarak 'özel görüşme konumu' bildirdiğini kaydeder.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `84` geçiş iki kanatta ortak mekaniği işletir: (1) `67` kurtuluş geçişi (`نَجَا`, `نَجَّى`, `أَنجَى`, `ٱلنَّجَوٰةِ`, `نَاجٍ`, `مُنَجُّون`) insanın tek başına kaldığı deniz/zorba kuşatmasından (`2:49-50`, `6:63-64`, `10:22`, `29:65`, `31:32`) veya toplu helaklerden yüksek bir emniyete alınmasıdır; (2) `17` gizlilik/yakınlık geçişi ise (`نَٰجَى`, `تَنَٰجَى`, `نَجْوَى`, `نَجِيّ`) kalabalıktan ayrılıp gizlice konuşmayı (`12:80`, `19:52`, `58:7-13`) anlatır ve `58:7` ile Allah'ın her gizli fısıltıda üçüncü/altıncı tanık olduğunu hatırlatır."
+  },
+  "semitic_cognates": {
+    "ugaritic_and_northwest": "Ugaritçede doğrudan *ngy* (`𐎐𐎂𐎊`, 'kaçmak, güvene sıyrılmak') Arapça `n-j-w/y` ile kökteş olarak geçer. Buna karşılık İbranice ve Aramcada aynı anlamsal kökteşlik yerleşmemiştir: İbranice 'kurtarmak' için *y-sh-ʿ* (`יֵשַׁע`) ve 'parlamak' için farklı bir kök olan `נ-ג-ה` (*nāgāh*, 'ışımak') kullanır; Süryanice/Aramca ise *p-ṣ-y* ve *š-z-b* köklerini seçer.",
+    "akkadian_separation": "Doğu Samicesi Akadçada geçen *nagû* kelimesi ya 'uzak kıyı bölgesi / bölge, ada' (coğrafi isim) ya da 'sevinçle şarkı söylemek' (fiil) anlamındadır ve Arapça `ن-ج-و` ('kurtulmak / gizlice konuşmak') kökünden anlam ve tarihsel hat bakımından ayrı değerlendirilir.",
+    "phonological_note": "Karşılaştırmalı Semitik sesbilim dürüstlüğüyle: `n-j-w/y` Ugaritçe *ngy* ile paylaşılan bölgesel bir Batı/Orta Samice köküdür (`Proto-Semitic *g > Arapça ج /c/` düzenli ses kayması). Diğer taraftan Arapça içinde `نَاجَيْتُ` ve `نَجْوَى` kolunun gelişimi İbn Fâris'in gösterdiği 'çevreden yüksek/yalıtılmış alana çekme' semantik genişlemesine dayanır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "غ-ر-ق / ه-ل-ك / أ-خ-ذ (`فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ ... وَأَغْرَقْنَا` `2:50`, `7:64,165`, `10:73`, `21:9`, `40:41` — Dalga ve Ateşten Yüksek Zemine Çıkarılmak vs Suda Boğulup Helak Edilmek)",
+      "غ-ب-ر (`فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ` `7:83`, `15:59`, `27:57`, `29:32,33`, `37:134` — Kurtarılanlar Saflarına Çekilmek vs Geride Tozun İçinde Kalmak)",
+      "ع-ل-ن / ج-ه-ر & بِرّ / إِثْم (`سِرَّهُمْ وَنَجْوَىٰهُمْ` `9:78`, `43:80` & `فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ ... وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ` `58:8-9` — Kötülük ve Düşmanlık Fısıltısı vs Erdemli ve Şeffaf Dayanışma Fısıltısı)"
+    ],
+    "key_ayahs": [
+      "2:49",
+      "2:50",
+      "4:114",
+      "6:63",
+      "6:64",
+      "7:64",
+      "7:72",
+      "7:83",
+      "7:89",
+      "7:141",
+      "7:165",
+      "9:78",
+      "10:22",
+      "10:23",
+      "10:73",
+      "10:86",
+      "10:92",
+      "10:103",
+      "11:58",
+      "11:66",
+      "11:94",
+      "11:116",
+      "12:42",
+      "12:45",
+      "12:80",
+      "12:110",
+      "14:6",
+      "15:59",
+      "17:47",
+      "17:67",
+      "19:52",
+      "19:72",
+      "20:40",
+      "20:62",
+      "20:80",
+      "21:3",
+      "21:9",
+      "21:71",
+      "21:74",
+      "21:76",
+      "21:88",
+      "23:28",
+      "26:65",
+      "26:118",
+      "26:119",
+      "26:169",
+      "26:170",
+      "27:53",
+      "27:57",
+      "28:21",
+      "28:25",
+      "29:15",
+      "29:24",
+      "29:32",
+      "29:33",
+      "29:65",
+      "31:32",
+      "37:76",
+      "37:115",
+      "37:134",
+      "39:61",
+      "40:41",
+      "41:18",
+      "43:80",
+      "44:30",
+      "54:34",
+      "58:7",
+      "58:8",
+      "58:9",
+      "58:10",
+      "58:12",
+      "58:13",
+      "61:10",
+      "66:11",
+      "70:14"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ن-ج-و` çevresinden yalıtılmış yüksek emniyete almak ve kenara çekip gizli konuşmaksa, Kur'an onu neyle karşıtlaştırır?' Cevap: (1) Kurtarma ekseninde mutlak zıddı `غَرِقَ` (suların altında boğulmak `2:50`, `7:64`, `10:73`), `غَبَرَ` (arkada helak tozuna terk edilmek `7:83`, `27:57`, `37:134`) ve `ٱلنَّار` (ateşe çağrılmak `40:41`, `29:24`) olur. (2) Konuşma ekseninde ise gizli fısıltı (`نَجْوَى` `4:114`, `58:8-10`) kötülük ve kumpas aracı yapıldığında bozgunculuğa dönerken, Allah'ın şahitliği bilinciyle iyilik, paylaşım ve uzlaşı konuşulduğunda (`4:114`, `58:9`) arındırıcı bir kaynağa dönüşür."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`نَجَّىٰ` (II. bab: `6:63`, `10:103`, `21:88`, `2:49` — Belanın içinden adım adım ve özenle çıkarıp kurtarma) vs `أَنجَىٰ` (IV. bab: `6:63`, `10:103`, `21:88`, `2:50` — Felaket anında kesin/ânî sıyırıp selamete ulaştırma)",
+      "`أَدْعُوكُمْ إِلَى ٱلنَّجَوٰةِ` (`40:41`: Yüksek emniyete / kurtuluşa çağrı) vs `وَتَدْعُونَنِىٓ إِلَى ٱلنَّارِ` (`40:41`: Yakıcı ateşe çağrı)",
+      "`سِرَّهُمْ` (`9:78`, `43:80`: Kişinin kendi içinde sakladığı sır) vs `وَنَجْوَىٰهُمْ` (`9:78`, `43:80`: İki-üç kişinin baş başa fısıldaşması)",
+      "`نَجَّيْنَٰهُم ... وَنَذَرُ ٱلظَّٰلِمِينَ` (`19:72`: Sakınanların çekilip çıkarılması) vs `وَنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّا` (`19:72`: Zalimlerin diz çökmüş bırakılması)",
+      "`فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ` (`58:9`: Sapma ve düşmanlık fısıltısı yasağı) vs `وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ` (`58:9`: İyilik ve sakınma eksenli danışma emri)"
+    ],
+    "mechanical_difference": "1) `2:49-50`, `6:63`, `10:103` ve `21:88`de Kur'an aynı bağlamda II. bab (`نَجَّى`) ile IV. bab (`أَنجَى`) biçimlerini yan yana kullanır: II. bab süreci ve özenli korumayı öne çıkarırken (`2:49` uzun Firavun esaretinden kurtarma; `6:63` sıkça yalvarılan 'bizi sürekli kurtaran Kim?'), IV. bab tek seferlik kesin hamleyi (`2:50` denizin tam kapanışında çekip alma; `6:63` 'eğer şundan kurtarırsan') vurgular! 2) `9:78` ve `43:80` içteki gizlilik (`سِرّ`) ile iki kişi arasındaki gizli toplantıyı (`نَجْوَى`) yan yana sayarak ikisinin de ilâhî ilme açık olduğunu koyar; `58:7` bunu 'üç kişinin fısıltısında dördüncü O'dur' cümlesiyle mutlaklaştırır. 3) `58:12` ise elçiyle yalnız baş başa (`نَٰجَيْتُمُ ٱلرَّسُولَ`) görüşme ayrıcalığının suistimal edilmemesi için ön paylaşım (`صَدَقَة`) ölçüsü getirir, `58:13` ise bunu esnetir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "2:49-50 & 7:141 & 10:92 & 20:80 & 66:11",
+      "role": "Firavun Esaretinden, Denizden ve Cesedin Çıkarılmasından Kurtuluş Çapası",
+      "literal_meaning": "'Sizi Firavun hanedanının ağır azabından kurtardık (`2:49`)', 'denizi yarıp sizi çıkardık (`2:50`)', 'bugün bedenini çıkarıp karaya yükselteceğiz (`10:92 نُنَجِّيكَ بِبَدَنِكَ`)' ve 'Rabbim beni Firavun'dan ve zalim toplumdan kurtar (`66:11`).'"
+    },
+    {
+      "ref": "10:103 & 21:88 & 19:72 & 39:61 & 40:41",
+      "role": "İlâhî Kurtuluş Yasası ve Ateş vs Yüksek Selamet Çapası (`نُـۨجِى ٱلْمُؤْمِنِينَ`)",
+      "literal_meaning": "'Elçilerimizi ve güvenenleri kurtarırız; güvenenleri kurtarmak üzerimize haktır (`10:103`, `21:88`)', 'sakınanları kurtarırız (`19:72`, `39:61`)' ve 'ben sizi kurtuluşa çağırıyorum, siz beni ateşe çağırıyorsunuz (`40:41`).'"
+    },
+    {
+      "ref": "6:63-64 & 10:22-23 & 17:67 & 29:65 & 31:32",
+      "role": "Fırtına ve Karanlıklardan Karaya Çıkarılış Sınavı Çapası",
+      "literal_meaning": "'Kara ve denizin karanlıklarından sizi kim kurtarır; O sizi her kederden kurtarıp karaya çıkarınca yine ortak koşarsınız (`6:63-64`, `17:67`, `29:65`, `31:32`) veya azgınlaşırsınız (`10:22-23`).'"
+    },
+    {
+      "ref": "12:42,45,80 & 19:52 & 28:25",
+      "role": "Zindandan/Tuzaktan Kurtuluş ve Tenha Yakınlaşma Çapası (`خَلَصُوا۟ نَجِيًّا`)",
+      "literal_meaning": "'O ikisinden kurtulacağını sandığına dedi (`12:42`), ikisinden kurtulan hatırladı (`12:45`)', 'kardeşler konuşmak üzere tenhaya çekildi (`12:80 خَلَصُوا۟ نَجِيًّا`)', 'Mûsâ'yı özel konuşma (`19:52 نَجِيًّا`) için yaklaştırdık' ve 'korkma, zalim toplumdan kurtuldun (`28:25 نَجَوْتَ`).'"
+    },
+    {
+      "ref": "4:114 & 58:7-10,12-13 & 9:78 & 43:80",
+      "role": "Gizli Konuşma (`نَجْوَى`) Etiği ve İlâhî Şahitlik Çapası",
+      "literal_meaning": "'Paylaşım, iyilik ve ara bulma emreden dışında gizli konuşmalarının çoğunda hayır yoktur (`4:114`)', 'üç kişinin fısıltısında dördüncü Allah'tır (`58:7`)', 'sapma ve düşmanlık fısıltısı etmeyin, iyilik ve sakınma üzerine fısıldaşın (`58:8-9`)' ve 'elçiyle baş başa konuşacağınızda (`58:12-13`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'daki `84` geçiş `67 V + 17 N` dağılımındadır (`5` ayrı fiil bâbı: Form I `2`, II `37`, III `1`, IV `23`, VI `4` + `5` isim lemması; `54` farklı Rasm-ı Osmânî yazımı). 2) Mushaf hattı ve Kıraat bakımından Kur'an'ın en ünlü örneklerinden biri `21:88` (`وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ`) kelimesidir: Osmânî mushaflarda iki nûn yerine tek nûn ile `نجى` yazılmış, okumada düşmemesi için üste küçük nûn (`ۨ`) eklenmiştir. Cumhur (ve Hafs) `نُنْجِى` (IV. bâb malûm muzârî) okurken, İbn Âmir eş-Şâmî ve Asım'dan Şu'be (Ebû Bekir) doğrudan tek nûnlu Osmânî hattına uyarak `نُجِّىَ` (II. bâb meçhûl mâzî, şeddeli cîm ile; sonrasını hâl/mef'ûl mantığıyla mansûb okuyarak `نُجِّىَ ٱلْمُؤْمِنِينَ`) okur! 3) `10:103`te de aynı ayette hem II. bab `نُنَجِّى` hem de sonundaki `ي` harfi Osmânî hatta hazfedilmiş IV. bab `نُنجِ` (`ننج`) biçimi yan yana gelir. 4) `40:41` (`ٱلنَّجَوٰةِ`) kelimesi `صَلَوٰة / زَكَوٰة / حَيَوٰة` sınıfında vav üzerine hançer elifle yazılır. 5) Form III (`58:12 نَٰجَيْتُمُ`), Form VI (`58:8-9 تَنَٰجَيْتُمْ / وَيَتَنَٰجَوْنَ`) ve zamir önündeki `نَجْوَىٰ` (`4:114 نجوىهم`, `58:12-13 نجوىكم`) imlalarında hem bâb elifi hazfedilir hem de maksûr `ى` korunur. 6) `28:25` (`نَجَوْتَ`) muhatap sîgasında kökün aslî üçüncü harfi `و` açıkça görünürken, `12:42` (`نَاجٍ`) ism-i fâilinde düşerek tenvîne döner.",
+  "derivatives": {
+    "نَجَّىٰ - يُنَجِّى (`37 V` II. bab & `2 N` `مُنَجُّوكَ / لَمُنَجُّوهُمْ`)": "Esaret, fırtına ve büyük sıkıntı çemberinden adım adım çekip selamete çıkarma (`2:49`, `6:63-64`, `10:92,103`, `11:58`, `15:59`, `21:71-88`, `29:32-33,65`, `39:61`, `66:11`)",
+    "أَنجَىٰ - يُنجِى (`23 V` IV. bab)": "Tufan, deniz yarılması ve şehir helakleri anında kesinkes ayırıp güvenli zemine ulaştırma (`2:50`, `7:64,72,83,141,165`, `10:22,103`, `20:80`, `21:9,88`, `29:15,24`, `61:10`, `70:14`)",
+    "نَجَا - يَنْجُو (`2 V` `12:45`, `28:25` & `1 N` `نَاجٍ` `12:42` & `1 N` `ٱلنَّجَوٰةِ` `40:41`)": "Bizzat tehlikeden sıyrılıp kurtulma ve ateşe karşı gerçek kurtuluş çağrısı",
+    "نَجْوَىٰ (`11 N`), نَجِيّ (`2 N`), نَٰجَىٰ (`1 V` `58:12`) & تَنَٰجَىٰ (`4 V` `58:8-9`)": "Kalabalıktan tenhaya çekilip yapılan gizli fısıltı ve özel görüşme (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-13`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 49,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:49",
+      "word_position": 2,
+      "target_word_uthmani": "نَجَّيْنَٰكُم",
+      "target_word_rasm": "نجينكم",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "Size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtarmıştık; bu Rabbinizin büyük bir imtihanı idi.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtarmıştık; bu Rabbinizin büyük bir imtihanı idi.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 50,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:50",
+      "word_position": 5,
+      "target_word_uthmani": "فَأَنجَيْنَٰكُمْ",
+      "target_word_rasm": "فأنجينكم",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "Denizi yarıp sizi kurtarmış ve gözlerinizin önünde Firavun ailesini batırmıştık.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Denizi yarıp sizi kurtarmış ve gözlerinizin önünde Firavun ailesini batırmıştık.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 4,
+      "ayah": 114,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:114",
+      "word_position": 6,
+      "target_word_uthmani": "نَّجْوَىٰهُمْ",
+      "target_word_rasm": "نجوىهم",
+      "target_word_literal_irab": "Gizli konuşmadan / fısıltısından (`مِن نَّجْوَىٰ / عَنِ ٱلنَّجْوَىٰ`, takdirî kesra ile mecrûr masdar)",
+      "context_snippet_arabic": "فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ",
+      "context_snippet_turkish_tabula_rasa": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَّا خَيْرَ فِى كَثِيرٍ مِّن نَّجْوَىٰهُمْ إِلَّا مَنْ أَمَرَ بِصَدَقَةٍ أَوْ مَعْرُوفٍ أَوْ إِصْلَٰحٍۭ بَيْنَ ٱلنَّاسِ وَمَن يَفْعَلْ ذَٰلِكَ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak sadaka vermeyi yahut iyilik yapmayı ve insanların arasını düzeltmeyi gözeten kimseler müstesna, onların gizli toplantılarının çoğunda hayır yoktur. Bunları, Allah'ın rızasını kazanmak için yapana büyük ecir vereceğiz.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 63,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:63",
+      "word_position": 3,
+      "target_word_uthmani": "يُنَجِّيكُم",
+      "target_word_rasm": "ينجيكم",
+      "target_word_literal_irab": "Sizi/onları kurtarır (`يُنَجِّيكُم / وَيُنَجِّى`, II. bab muzârî merfû 3. tekil eril)",
+      "context_snippet_arabic": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Kara ve denizin karanlıklarından sizi kim kurtarır? Bundan bizi kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız diye O'na gizli gizli yalvarır yakarırsınız. \"",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kara ve denizin karanlıklarından sizi kim kurtarır? Bundan bizi kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız diye O'na gizli gizli yalvarır yakarırsınız.\"",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 63,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:63",
+      "word_position": 12,
+      "target_word_uthmani": "أَنجَىٰنَا",
+      "target_word_rasm": "أنجىنا",
+      "target_word_literal_irab": "Kurtardı (`أَنجَىٰ / أَنجَىٰنَا / أَنجَىٰهُمْ / فَأَنجَىٰهُ`, IV. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ",
+      "context_snippet_turkish_tabula_rasa": "... \"Kara ve denizin karanlıklarından sizi kim kurtarır? Bundan bizi kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız diye O'na gizli gizli yalvarır yakarırsınız. \"",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Kara ve denizin karanlıklarından sizi kim kurtarır? Bundan bizi kurtarırsan nimetin değerini bilip açığa vuranlardan olacağız diye O'na gizli gizli yalvarır yakarırsınız.\"",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 6,
+      "ayah": 64,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:64",
+      "word_position": 3,
+      "target_word_uthmani": "يُنَجِّيكُم",
+      "target_word_rasm": "ينجيكم",
+      "target_word_literal_irab": "Sizi/onları kurtarır (`يُنَجِّيكُم / وَيُنَجِّى`, II. bab muzârî merfû 3. tekil eril)",
+      "context_snippet_arabic": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Allah sizi ondan ve her sıkıntıdan kurtarır, sonra da O'na ortak koşarsınız.\"",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah sizi ondan ve her sıkıntıdan kurtarır, sonra da O'na ortak koşarsınız.\"",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 64,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:64",
+      "word_position": 2,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُ",
+      "target_word_rasm": "فأنجينه",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَكَذَّبُوهُ فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِى",
+      "context_snippet_turkish_tabula_rasa": "Onu yalanladılar; biz de onu ve gemide beraberinde olanları kurtardık, ayetlerimizi yalan sayanları suda boğduk, çünkü onlar kör bir milletti.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ فِى ٱلْفُلْكِ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمًا عَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu yalanladılar; biz de onu ve gemide beraberinde olanları kurtardık, ayetlerimizi yalan sayanları suda boğduk, çünkü onlar kör bir milletti.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 72,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:72",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُ",
+      "target_word_rasm": "فأنجينه",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍ",
+      "context_snippet_turkish_tabula_rasa": "Biz, rahmetimizle, Hud'u ve beraberinde bulunanları kurtardık, ayetlerimizi yalan sayarak güven duy kökünü kestik.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَمَا كَانُوا۟ مُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, rahmetimizle, Hud'u ve beraberinde bulunanları kurtardık, ayetlerimizi yalan sayarak güven duy kökünü kestik.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 83,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:83",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُ",
+      "target_word_rasm": "فأنجينه",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine Lut'u ve taraftarlarını kurtardık; yalnız karısı, geride kalıp helake uğrayanlardan oldu.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine Lut'u ve taraftarlarını kurtardık; yalnız karısı, geride kalıp helake uğrayanlardan oldu.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 89,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:89",
+      "word_position": 12,
+      "target_word_uthmani": "نَجَّىٰنَا",
+      "target_word_rasm": "نجىنا",
+      "target_word_literal_irab": "Kurtardı (`نَجَّىٰنَا / نَجَّىٰكُمْ / نَجَّىٰهُمْ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Milletinin büyüklük taslayan ileri gelenleri, \"Ey Şuayb! Ya yaşam sistemimize dönersiniz ya da, and olsun ki seni ve güvene erenleri seninle beraber kentimizden çıkarırız\" dediler. Şuayb, onlara: ...",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَٰتِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milletinin büyüklük taslayan ileri gelenleri, \"Ey Şuayb! Ya yaşam sistemimize dönersiniz ya da, and olsun ki seni ve güvene erenleri seninle beraber kentimizden çıkarırız\" dediler. Şuayb, onlara: \"İstemezsek de mi? Allah bizi yaşam sisteminizden kurtardıktan sonra ona dönecek olursak, doğrusu Allah'a karşı yalan uydurmuş oluruz. Rabbimizin dilemesi bir yana, yaşam sisteminize dönmek bize yakışmaz. Rabbimizin ilmi her şeyi kuşatmıştır. Biz yalnız Allah'a güvendik. Rabbimiz! Bizimle milletimiz arasında hak ile Sen hüküm ver, Sen hükmedenlerin en hayırlısısın\" dedi.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 141,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:141",
+      "word_position": 2,
+      "target_word_uthmani": "أَنجَيْنَٰكُم",
+      "target_word_rasm": "أنجينكم",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "Sizi kötü azaba sokan, kadınlarınızı sağ bırakıp oğullarınızı öldüren Firavun ailesinden kurtarmıştık. Bunda, size Rabbiniz tarafından büyük bir imtihan vardı.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi kötü azaba sokan, kadınlarınızı sağ bırakıp oğullarınızı öldüren Firavun ailesinden kurtarmıştık. Bunda, size Rabbiniz tarafından büyük bir imtihan vardı.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 7,
+      "ayah": 165,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:165",
+      "word_position": 6,
+      "target_word_uthmani": "أَنجَيْنَا",
+      "target_word_rasm": "أنجينا",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine yapılan öğütleri unutunca, Biz fenalıktan menedenleri kurtardık ve zalimleri, Allah'a karşı gelmelerinden ötürü şiddetli azaba uğrattık.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine yapılan öğütleri unutunca, Biz fenalıktan menedenleri kurtardık ve zalimleri, Allah'a karşı gelmelerinden ötürü şiddetli azaba uğrattık.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 9,
+      "ayah": 78,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:78",
+      "word_position": 7,
+      "target_word_uthmani": "وَنَجْوَىٰهُمْ",
+      "target_word_rasm": "ونجوىهم",
+      "target_word_literal_irab": "Gizli konuşma / fısıltıları (`نَجْوَىٰ / نَجْوَىٰهُمْ / نَجْوَىٰكُمْ`, takdirî zamme ile merfû masdar — maksûr `ى` zamir önünde korunur)",
+      "context_snippet_arabic": "ٱللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَىٰهُمْ وَأَنَّ ٱللَّهَ عَلَّٰمُ",
+      "context_snippet_turkish_tabula_rasa": "İkiyüzlüler, Allah'ın onların sırlarını ve gizli toplantılarını bildiğini, Allah'ın görünmeyenleri bilen olduğunu bilmiyorlar mıydı?",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَىٰهُمْ وَأَنَّ ٱللَّهَ عَلَّٰمُ ٱلْغُيُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "İkiyüzlüler, Allah'ın onların sırlarını ve gizli toplantılarını bildiğini, Allah'ın görünmeyenleri bilen olduğunu bilmiyorlar mıydı?",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 22,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:22",
+      "word_position": 36,
+      "target_word_uthmani": "أَنجَيْتَنَا",
+      "target_word_rasm": "أنجيتنا",
+      "target_word_literal_irab": "Bizi kurtarırsan (`أَنجَيْتَنَا`, IV. bab mâzî 2. tekil eril — şart cümlesi)",
+      "context_snippet_arabic": "لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ",
+      "context_snippet_turkish_tabula_rasa": "... bir fırtına çıkıp da onları her taraftan dalgaların sardığı ve çepeçevre kuşatıldıklarını sandıkları anda ise Allah'ın yaşam sistemine sarılarak, \"Bizi bu tehlikeden kurtarırsan and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye O'na yalvarırlar.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi karada ve denizde yürüten Allah'tır. Bulunduğunuz gemi, içindekileri güzel bir rüzgarla götürürken yolcular neşelenirler; bir fırtına çıkıp da onları her taraftan dalgaların sardığı ve çepeçevre kuşatıldıklarını sandıkları anda ise Allah'ın yaşam sistemine sarılarak, \"Bizi bu tehlikeden kurtarırsan and olsun ki nimetin değerini bilip açığa vuranlardan oluruz\" diye O'na yalvarırlar.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 23,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:23",
+      "word_position": 2,
+      "target_word_uthmani": "أَنجَىٰهُمْ",
+      "target_word_rasm": "أنجىهم",
+      "target_word_literal_irab": "Kurtardı (`أَنجَىٰ / أَنجَىٰنَا / أَنجَىٰهُمْ / فَأَنجَىٰهُ`, IV. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah onları kurtarınca, hemen yeryüzünde haksız yere taşkınlıklara başlarlar. Ey insanlar! Geçici dünya hayatında yaptığınız taşkınlık aleyhinizedir. ...",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُكُمْ فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah onları kurtarınca, hemen yeryüzünde haksız yere taşkınlıklara başlarlar. Ey insanlar! Geçici dünya hayatında yaptığınız taşkınlık aleyhinizedir. Sonra dönüşünüz Bizedir. Yaptıklarınızı size bildiririz.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 73,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:73",
+      "word_position": 2,
+      "target_word_uthmani": "فَنَجَّيْنَٰهُ",
+      "target_word_rasm": "فنجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَكَذَّبُوهُ فَنَجَّيْنَٰهُ وَمَن مَّعَهُۥ فِى",
+      "context_snippet_turkish_tabula_rasa": "Onu yalancı saydılar; ama Biz onu ve gemide beraberinde bulunanları kurtardık. Onları ötekilerin yerine geçirdik, ayetlerimizi yalanlayanları suda boğduk. ...",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَكَذَّبُوهُ فَنَجَّيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَٰهُمْ خَلَٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu yalancı saydılar; ama Biz onu ve gemide beraberinde bulunanları kurtardık. Onları ötekilerin yerine geçirdik, ayetlerimizi yalanlayanları suda boğduk. Uyarılanlardan söz dinlemeyenlerin sonlarının nasıl olduğuna bir bak.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 86,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:86",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَجِّنَا",
+      "target_word_rasm": "ونجنا",
+      "target_word_literal_irab": "Kurtar (`نَجِّنِى / وَنَجِّنَا`, II. bab emir/dua 2. tekil eril — nâkıs fiilde son harf düşmüş)",
+      "context_snippet_arabic": "وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'a güvendik; Ey Rabbimiz! Zalim bir millet ile bizi sınama, rahmetinle bizi gerçeğin üzerini örtenlerden kurtar\" dediler.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:naj~aY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "وَنَجِّنَا بِرَحْمَتِكَ مِنَ ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a güvendik; Ey Rabbimiz! Zalim bir millet ile bizi sınama, rahmetinle bizi gerçeğin üzerini örtenlerden kurtar\" dediler.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 92,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:92",
+      "word_position": 2,
+      "target_word_uthmani": "نُنَجِّيكَ",
+      "target_word_rasm": "ننجيك",
+      "target_word_literal_irab": "Bedeninle çıkarıp kurtaracağız (`نُنَجِّيكَ`, II. bab muzârî 1. çoğul)",
+      "context_snippet_arabic": "فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ",
+      "context_snippet_turkish_tabula_rasa": "\"Senden sonrakilere bir ibret teşkil etmesi için bugün sadece senin cesedini çıkarıp (sahile) atacağız\" dedik. Doğrusu insanların çoğu ayetlerimizden habersizdir.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَٰتِنَا لَغَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Senden sonrakilere bir ibret teşkil etmesi için bugün sadece senin cesedini çıkarıp (sahile) atacağız\" dedik. Doğrusu insanların çoğu ayetlerimizden habersizdir.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 103,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:103",
+      "word_position": 2,
+      "target_word_uthmani": "نُنَجِّى",
+      "target_word_rasm": "ننجى",
+      "target_word_literal_irab": "Kurtarırız (`نُنَجِّى`, II. bab muzârî merfû 1. çoğul)",
+      "context_snippet_arabic": "ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Sonra Biz, elçi ve güvene erenleri böylece kurtarırız, güvene erenleri (verdiğimiz söz gereğince) kurtarmamız Bize haktır.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra Biz, elçi ve güvene erenleri böylece kurtarırız, güvene erenleri (verdiğimiz söz gereğince) kurtarmamız Bize haktır.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 10,
+      "ayah": 103,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:103",
+      "word_position": 9,
+      "target_word_uthmani": "نُنجِ",
+      "target_word_rasm": "ننج",
+      "target_word_literal_irab": "Kurtarırız (`نُنجِ`, IV. bab muzârî 1. çoğul — son `ي` Osmânî hatta hazfedilmiş)",
+      "context_snippet_arabic": "كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra Biz, elçi ve güvene erenleri böylece kurtarırız, güvene erenleri (verdiğimiz söz gereğince) kurtarmamız Bize haktır.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra Biz, elçi ve güvene erenleri böylece kurtarırız, güvene erenleri (verdiğimiz söz gereğince) kurtarmamız Bize haktır.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 58,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:58",
+      "word_position": 4,
+      "target_word_uthmani": "نَجَّيْنَا",
+      "target_word_rasm": "نجينا",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُودًا وَٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Buyruğumuz gelince, Hud'u ve beraberindeki güvene erenleri, rahmetimizle kurtardık. Onları çetin bir azabdan koruduk.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُودًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Buyruğumuz gelince, Hud'u ve beraberindeki güvene erenleri, rahmetimizle kurtardık. Onları çetin bir azabdan koruduk.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 58,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:58",
+      "word_position": 11,
+      "target_word_uthmani": "وَنَجَّيْنَٰهُم",
+      "target_word_rasm": "ونجينهم",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
+      "context_snippet_turkish_tabula_rasa": "Buyruğumuz gelince, Hud'u ve beraberindeki güvene erenleri, rahmetimizle kurtardık. Onları çetin bir azabdan koruduk.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا هُودًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَنَجَّيْنَٰهُم مِّنْ عَذَابٍ غَلِيظٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Buyruğumuz gelince, Hud'u ve beraberindeki güvene erenleri, rahmetimizle kurtardık. Onları çetin bir azabdan koruduk.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 66,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:66",
+      "word_position": 4,
+      "target_word_uthmani": "نَجَّيْنَا",
+      "target_word_rasm": "نجينا",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا صَٰلِحًا وَٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Buyruğumuz gelince, Salih'i ve beraberindeki güvene erenleri katımızdan bir rahmet olarak o günün rezilliğinden kurtardık. Doğrusu Rabbin pek kuvvetli ve güçlüdür.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا صَٰلِحًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَمِنْ خِزْىِ يَوْمِئِذٍ إِنَّ رَبَّكَ هُوَ ٱلْقَوِىُّ ٱلْعَزِيزُ",
+      "ayah_text_turkish_tabula_rasa_full": "Buyruğumuz gelince, Salih'i ve beraberindeki güvene erenleri katımızdan bir rahmet olarak o günün rezilliğinden kurtardık. Doğrusu Rabbin pek kuvvetli ve güçlüdür.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 94,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:94",
+      "word_position": 4,
+      "target_word_uthmani": "نَجَّيْنَا",
+      "target_word_rasm": "نجينا",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Buyruğumuz gelince, Şuayb'ı ve beraberindeki güvene erenleri katımızdan bir rahmet olarak kurtardık. Haksızlık yapanları bir çığlık yakaladı, oldukları yerde diz üstü çöküverdiler.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Buyruğumuz gelince, Şuayb'ı ve beraberindeki güvene erenleri katımızdan bir rahmet olarak kurtardık. Haksızlık yapanları bir çığlık yakaladı, oldukları yerde diz üstü çöküverdiler.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 116,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:116",
+      "word_position": 17,
+      "target_word_uthmani": "أَنجَيْنَا",
+      "target_word_rasm": "أنجينا",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ وَٱتَّبَعَ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Sizden önceki nesillerin ileri gelenleri, yeryüzünde bozgunculuğa engel olmalı değil miydiler? Onlardan kurtardıklarımız pek azdır. Kendilerine verilen nimete karşı haksızlık edenlere uyanlar ise suçlu oldular.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَلَوْلَا كَانَ مِنَ ٱلْقُرُونِ مِن قَبْلِكُمْ أُو۟لُوا۟ بَقِيَّةٍ يَنْهَوْنَ عَنِ ٱلْفَسَادِ فِى ٱلْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُوا۟ مَآ أُتْرِفُوا۟ فِيهِ وَكَانُوا۟ مُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden önceki nesillerin ileri gelenleri, yeryüzünde bozgunculuğa engel olmalı değil miydiler? Onlardan kurtardıklarımız pek azdır. Kendilerine verilen nimete karşı haksızlık edenlere uyanlar ise suçlu oldular.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 42,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:42",
+      "word_position": 5,
+      "target_word_uthmani": "نَاجٍ",
+      "target_word_rasm": "ناج",
+      "target_word_literal_irab": "Kurtulacak olan (`نَاجٍ`, I. bab ism-i fâil, nekre mecrûr — son `ي` düşüp tenvîne dönmüş)",
+      "context_snippet_arabic": "لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ",
+      "context_snippet_turkish_tabula_rasa": "İkisinden, kurtulacağını sandığı kimseye Yusuf: \"Efendinin yanında beni an\" dedi. ...",
+      "morphology": {
+        "lemma": "naAj",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:naAj|ROOT:njw|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisinden, kurtulacağını sandığı kimseye Yusuf: \"Efendinin yanında beni an\" dedi. Ama saptırıcı yıkıcı güç efendisine onu hatırlatmayı unutturdu ve Yusuf bu yüzden daha birkaç yıl hapiste kaldı.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 45,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:45",
+      "word_position": 3,
+      "target_word_uthmani": "نَجَا",
+      "target_word_rasm": "نجا",
+      "target_word_literal_irab": "Kurtulan (`نَجَا`, I. bab nâkıs-ı vâvî mâzî 3. tekil eril)",
+      "context_snippet_arabic": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ",
+      "context_snippet_turkish_tabula_rasa": "Hapisteki iki kişiden kurtulmuş olanı, nice zaman sonra Yusuf'u hatırladı ve: \"Ben size bunu yorumlayacağım, hele beni gönderin\" dedi.",
+      "morphology": {
+        "lemma": "najaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:najaA|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hapisteki iki kişiden kurtulmuş olanı, nice zaman sonra Yusuf'u hatırladı ve: \"Ben size bunu yorumlayacağım, hele beni gönderin\" dedi.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 80,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:80",
+      "word_position": 5,
+      "target_word_uthmani": "نَجِيًّا",
+      "target_word_rasm": "نجيا",
+      "target_word_literal_irab": "Baş başa gizlice konuşan / özel görüşmeci (`نَجِيًّا`, `فَعِيل` kalıbında nekre mansûb hâl ismi)",
+      "context_snippet_arabic": "ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ",
+      "context_snippet_turkish_tabula_rasa": "Ümidsizliğe düşünce, konuşmak üzere bir kenara çekildiler. Büyükleri şöyle dedi: ...",
+      "morphology": {
+        "lemma": "najiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najiy~|ROOT:njw|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ümidsizliğe düşünce, konuşmak üzere bir kenara çekildiler. Büyükleri şöyle dedi: \"Babanızın Allah'a karşı sizden bir söz aldığını, daha önce Yusuf meselesinde de ileri gittiğinizi bilmiyor musunuz? Artık babam bana izin verene veya Allah hakkımda hüküm verene kadar ki O, hükmedenlerin en iyisidir bu yerden ayrılmayacağım. Siz dönün, babanıza gidin ve deyin ki: Ey Babamız! Senin oğlun hırsızlık yaptı, bu bildiğimizden başka bir şey görmedik; görülmeyeni de bilmeyiz; bulunduğumuz kasabanın halkına ve beraberinde olduğumuz kervana da sorabilirsin; biz şüphesiz doğru söylüyoruz.\"",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 12,
+      "ayah": 110,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:110",
+      "word_position": 11,
+      "target_word_uthmani": "فَنُجِّىَ",
+      "target_word_rasm": "فنجى",
+      "target_word_literal_irab": "Kurtarıldı (`فَنُجِّىَ`, II. bab meçhûl mâzî 3. tekil eril)",
+      "context_snippet_arabic": "كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Öyle ki, elçiler ümitsizliğe düşüp, yalanlandıklarını sandıkları bir sırada onlara yardımımız gelmiştir. Böylece, istediğimizi kurtarırız. Azabımız suçlu milletten geri çevrilemeyecektir.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyle ki, elçiler ümitsizliğe düşüp, yalanlandıklarını sandıkları bir sırada onlara yardımımız gelmiştir. Böylece, istediğimizi kurtarırız. Azabımız suçlu milletten geri çevrilemeyecektir.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 14,
+      "ayah": 6,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:6",
+      "word_position": 10,
+      "target_word_uthmani": "أَنجَىٰكُم",
+      "target_word_rasm": "أنجىكم",
+      "target_word_literal_irab": "Kurtardı (`أَنجَىٰ / أَنجَىٰنَا / أَنجَىٰهُمْ / فَأَنجَىٰهُ`, IV. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ",
+      "context_snippet_turkish_tabula_rasa": "... size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtardı; bütün bunlarda Rabbinizden size büyük bir imtihan vardır. ...",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milletine dedi ki: \"Allah'ın size olan nimetlerini anın; size işkence eden, kadınlarınızı sağ bırakıp oğullarınızı boğazlayan Firavun ailesinden sizi kurtardı; bütün bunlarda Rabbinizden size büyük bir imtihan vardır.\"",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 15,
+      "ayah": 59,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:59",
+      "word_position": 5,
+      "target_word_uthmani": "لَمُنَجُّوهُمْ",
+      "target_word_rasm": "لمنجوهم",
+      "target_word_literal_irab": "Mutlaka kurtaracak olanlar (`لَمُنَجُّوهُمْ / مُنَجُّوكَ`, II. bab ism-i fâil çoğul eril merfû — izâfetle `ن` düşmüş)",
+      "context_snippet_arabic": "ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk. ...",
+      "morphology": {
+        "lemma": "munaj~uw",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:munaj~uw|ROOT:njw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şöyle cevap vermişlerdi: \"Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk.\"",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 47,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:47",
+      "word_position": 11,
+      "target_word_uthmani": "نَجْوَىٰٓ",
+      "target_word_rasm": "نجوى",
+      "target_word_literal_irab": "Gizlice fısıldaşan topluluk (`نَجْوَىٰٓ`, masdarın topluluğa ad olduğu merfû haber)",
+      "context_snippet_arabic": "إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّٰلِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Seni dinledikleri zaman neye kulak verdiklerini ve gizli toplantılarında zalimlerin: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediklerini Biz çok iyi biliriz.",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|NOM"
+      },
+      "ayah_text_arabic_full": "نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Seni dinledikleri zaman neye kulak verdiklerini ve gizli toplantılarında zalimlerin: \"Siz sadece büyülenmiş bir adama uyuyorsunuz\" dediklerini Biz çok iyi biliriz.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 17,
+      "ayah": 67,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:67",
+      "word_position": 12,
+      "target_word_uthmani": "نَجَّىٰكُمْ",
+      "target_word_rasm": "نجىكم",
+      "target_word_literal_irab": "Kurtardı (`نَجَّىٰنَا / نَجَّىٰكُمْ / نَجَّىٰهُمْ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "إِلَّآ إِيَّاهُ فَلَمَّا نَجَّىٰكُمْ إِلَى ٱلْبَرِّ أَعْرَضْتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Denizde bir sıkıntıya düştüğünüz zaman, Allah'tan başka yalvardıklarınız kaybolup gider, fakat O sizi karaya çıkararak kurtarınca yüz çevirirsiniz. Zaten insan pek nankördür.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ فَلَمَّا نَجَّىٰكُمْ إِلَى ٱلْبَرِّ أَعْرَضْتُمْ وَكَانَ ٱلْإِنسَٰنُ كَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Denizde bir sıkıntıya düştüğünüz zaman, Allah'tan başka yalvardıklarınız kaybolup gider, fakat O sizi karaya çıkararak kurtarınca yüz çevirirsiniz. Zaten insan pek nankördür.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 52,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:52",
+      "word_position": 7,
+      "target_word_uthmani": "نَجِيًّا",
+      "target_word_rasm": "نجيا",
+      "target_word_literal_irab": "Baş başa gizlice konuşan / özel görüşmeci (`نَجِيًّا`, `فَعِيل` kalıbında nekre mansûb hâl ismi)",
+      "context_snippet_arabic": "ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا",
+      "context_snippet_turkish_tabula_rasa": "Ona Tur'un sağ yanından seslenmiş ve konuşmak için onu yaklaştırmıştık.",
+      "morphology": {
+        "lemma": "najiy~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najiy~|ROOT:njw|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Ona Tur'un sağ yanından seslenmiş ve konuşmak için onu yaklaştırmıştık.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 72,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:72",
+      "word_position": 2,
+      "target_word_uthmani": "نُنَجِّى",
+      "target_word_rasm": "ننجى",
+      "target_word_literal_irab": "Kurtarırız (`نُنَجِّى`, II. bab muzârî merfû 1. çoğul)",
+      "context_snippet_arabic": "ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ",
+      "context_snippet_turkish_tabula_rasa": "Sonra Biz Allah'a karşı gelmekten sakınmış olanları kurtarır, zalimleri de orada diz üstü çökmüş olarak bırakırız.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra Biz Allah'a karşı gelmekten sakınmış olanları kurtarır, zalimleri de orada diz üstü çökmüş olarak bırakırız.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 40,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:40",
+      "word_position": 20,
+      "target_word_uthmani": "فَنَجَّيْنَٰكَ",
+      "target_word_rasm": "فنجينك",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ",
+      "context_snippet_turkish_tabula_rasa": "... Sen bir cana kıymıştın, seni üzüntüden kurtarmış ve seni birçok musibetlerle denemiştik. Bunun için, Medyen halkı arasında yıllarca kalmıştın. ...",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kızkardeşin Firavun'un sarayına giderek: \"Ona bakacak birini size göstereyim mi?\" diyordu. Böylece, annen üzülmesin, sevinsin diye, seni ona iade etmiştik. Sen bir cana kıymıştın, seni üzüntüden kurtarmış ve seni birçok musibetlerle denemiştik. Bunun için, Medyen halkı arasında yıllarca kalmıştın. Sonra, ey Musa, elçilik görevi görevini yüklenecek bir yaşa gelince dönüp geldin.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 62,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:62",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلنَّجْوَىٰ",
+      "target_word_rasm": "ٱلنجوى",
+      "target_word_literal_irab": "Gizli konuşmayı (`ٱلنَّجْوَىٰ / نَجْوَىٰكُمْ`, takdirî fetha ile mansûb masdar)",
+      "context_snippet_arabic": "أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sihirbazlar işi aralarında tartıştılar ve konuşmalarını gizli tuttular.",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|ACC"
+      },
+      "ayah_text_arabic_full": "فَتَنَٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Sihirbazlar işi aralarında tartıştılar ve konuşmalarını gizli tuttular.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 20,
+      "ayah": 80,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:80",
+      "word_position": 4,
+      "target_word_uthmani": "أَنجَيْنَٰكُم",
+      "target_word_rasm": "أنجينكم",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey İsrailoğulları! Sizleri düşmanınızdan kurtardık, Tur'un sağ yanını size vadettik ve üzerinize kudret helvasıyla bıldırcın indirdik.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey İsrailoğulları! Sizleri düşmanınızdan kurtardık, Tur'un sağ yanını size vadettik ve üzerinize kudret helvasıyla bıldırcın indirdik.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 3,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:3",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلنَّجْوَى",
+      "target_word_rasm": "ٱلنجوى",
+      "target_word_literal_irab": "Gizli konuşma / fısıltıları (`نَجْوَىٰ / نَجْوَىٰهُمْ / نَجْوَىٰكُمْ`, takdirî zamme ile merfû masdar — maksûr `ى` zamir önünde korunur)",
+      "context_snippet_arabic": "لَاهِيَةً قُلُوبُهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ",
+      "context_snippet_turkish_tabula_rasa": "Rablerinden kendilerine gelen her yeni ihtarı mutlaka, gönülleri gaflet içinde eğlenerek dinlerler. Zulmedenler, gizli toplantılarında: \"Bu zat, sizin gibi bir insandan başka bir şey midir? Siz, göz göre göre sihre mi uyarsınız?\" diye konuşurlar.",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|NOM"
+      },
+      "ayah_text_arabic_full": "لَاهِيَةً قُلُوبُهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinden kendilerine gelen her yeni ihtarı mutlaka, gönülleri gaflet içinde eğlenerek dinlerler. Zulmedenler, gizli toplantılarında: \"Bu zat, sizin gibi bir insandan başka bir şey midir? Siz, göz göre göre sihre mi uyarsınız?\" diye konuşurlar.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 9,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:9",
+      "word_position": 4,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُمْ",
+      "target_word_rasm": "فأنجينهم",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "ثُمَّ صَدَقْنَٰهُمُ ٱلْوَعْدَ فَأَنجَيْنَٰهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا",
+      "context_snippet_turkish_tabula_rasa": "Sonra Biz onlara verdiğimiz sözü yerine getirdik, kendilerini ve dilediklerimizi kurtardık; aşırı gidenleri ise yok ettik.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "ثُمَّ صَدَقْنَٰهُمُ ٱلْوَعْدَ فَأَنجَيْنَٰهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra Biz onlara verdiğimiz sözü yerine getirdik, kendilerini ve dilediklerimizi kurtardık; aşırı gidenleri ise yok ettik.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 71,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:71",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَجَّيْنَٰهُ",
+      "target_word_rasm": "ونجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَنَجَّيْنَٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "Onu da, Lut'u da, alemler için kutsal kıldığımız yere ulaştırıp kurtardık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا لِلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu da, Lut'u da, alemler için kutsal kıldığımız yere ulaştırıp kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 74,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:74",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَجَّيْنَٰهُ",
+      "target_word_rasm": "ونجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَٰهُ مِنَ ٱلْقَرْيَةِ ٱلَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Lut'a da hüküm ve ilim verdik; onu, çirkin işler işleyen kasabadan kurtardık. Doğrusu onlar yoldan çıkmış kötü bir milletti.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَلُوطًا ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَنَجَّيْنَٰهُ مِنَ ٱلْقَرْيَةِ ٱلَّتِى كَانَت تَّعْمَلُ ٱلْخَبَٰٓئِثَ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ فَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Lut'a da hüküm ve ilim verdik; onu, çirkin işler işleyen kasabadan kurtardık. Doğrusu onlar yoldan çıkmış kötü bir milletti.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 76,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:76",
+      "word_position": 8,
+      "target_word_uthmani": "فَنَجَّيْنَٰهُ",
+      "target_word_rasm": "فنجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ",
+      "context_snippet_turkish_tabula_rasa": "Nuh da daha önceleri Bize yalvarmıştı, onun duasını kabul edip, kendisini ve ailesini büyük sıkıntıdan kurtardık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh da daha önceleri Bize yalvarmıştı, onun duasını kabul edip, kendisini ve ailesini büyük sıkıntıdan kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 88,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:88",
+      "word_position": 3,
+      "target_word_uthmani": "وَنَجَّيْنَٰهُ",
+      "target_word_rasm": "ونجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ وَكَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Biz de ona cevap verip, onu üzüntüden kurtarmıştık. güvene erenleri böyle kurtarırız.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de ona cevap verip, onu üzüntüden kurtarmıştık. güvene erenleri böyle kurtarırız.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 88,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:88",
+      "word_position": 7,
+      "target_word_uthmani": "نُۨجِى",
+      "target_word_rasm": "نجى",
+      "target_word_literal_irab": "Kurtarırız (`نُۨجِى`, IV. bab muzârî merfû 1. çoğul — Osmânî hatta tek nûn + küçük nûn; İbn Âmir ve Şu'be `نُجِّىَ` II. bab meçhûl okur)",
+      "context_snippet_arabic": "مِنَ ٱلْغَمِّ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "Biz de ona cevap verip, onu üzüntüden kurtarmıştık. güvene erenleri böyle kurtarırız.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de ona cevap verip, onu üzüntüden kurtarmıştık. güvene erenleri böyle kurtarırız.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 23,
+      "ayah": 28,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:28",
+      "word_position": 12,
+      "target_word_uthmani": "نَجَّىٰنَا",
+      "target_word_rasm": "نجىنا",
+      "target_word_literal_irab": "Kurtardı (`نَجَّىٰنَا / نَجَّىٰكُمْ / نَجَّىٰهُمْ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ey Nuh! Sen ve beraberindekiler gemiye yerleşince: \"Bizi zalim milletten kurtaran Allah'a hamdolsun\" de.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Nuh! Sen ve beraberindekiler gemiye yerleşince: \"Bizi zalim milletten kurtaran Allah'a hamdolsun\" de.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 65,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:65",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنجَيْنَا",
+      "target_word_rasm": "وأنجينا",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "Musa ve beraberinde bulunanların hepsini kurtardık.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa ve beraberinde bulunanların hepsini kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 118,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:118",
+      "word_position": 5,
+      "target_word_uthmani": "وَنَجِّنِى",
+      "target_word_rasm": "ونجنى",
+      "target_word_literal_irab": "Kurtar (`نَجِّنِى / وَنَجِّنَا`, II. bab emir/dua 2. tekil eril — nâkıs fiilde son harf düşmüş)",
+      "context_snippet_arabic": "بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Nuh: \"Rabbim! Milletim beni yalanladı. Benimle onların arasında Sen hüküm ver. Beni ve beraberimdeki güvene erenleri kurtar\" dedi.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:naj~aY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Nuh: \"Rabbim! Milletim beni yalanladı. Benimle onların arasında Sen hüküm ver. Beni ve beraberimdeki güvene erenleri kurtar\" dedi.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 119,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:119",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُ",
+      "target_word_rasm": "فأنجينه",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine onu ve beraberinde bulunanları, dolu bir gemi içinde taşıyarak kurtardık.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine onu ve beraberinde bulunanları, dolu bir gemi içinde taşıyarak kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 169,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:169",
+      "word_position": 2,
+      "target_word_uthmani": "نَجِّنِى",
+      "target_word_rasm": "نجنى",
+      "target_word_literal_irab": "Kurtar (`نَجِّنِى / وَنَجِّنَا`, II. bab emir/dua 2. tekil eril — nâkıs fiilde son harf düşmüş)",
+      "context_snippet_arabic": "رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "Lut: \"Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunların yapageldiği kötülükten kurtar\" dedi.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:naj~aY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Lut: \"Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunların yapageldiği kötülükten kurtar\" dedi.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 26,
+      "ayah": 170,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:170",
+      "word_position": 1,
+      "target_word_uthmani": "فَنَجَّيْنَٰهُ",
+      "target_word_rasm": "فنجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine geride kalan yaşlı bir kadın dışında, onu ve ailesini, hepsini kurtardık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine geride kalan yaşlı bir kadın dışında, onu ve ailesini, hepsini kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 53,
+      "surah_name": "Neml",
+      "ayah_ref": "27:53",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَنجَيْنَا",
+      "target_word_rasm": "وأنجينا",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "güvene erip Allah'a karşı gelmekten sakınanları kurtardık.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَأَنجَيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip Allah'a karşı gelmekten sakınanları kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 57,
+      "surah_name": "Neml",
+      "ayah_ref": "27:57",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُ",
+      "target_word_rasm": "فأنجينه",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Bunun üzerine onu ve ailesini kurtardık, yalnız karısının geride kalanlardan olmasını gerekli bulduk.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun üzerine onu ve ailesini kurtardık, yalnız karısının geride kalanlardan olmasını gerekli bulduk.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 21,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:21",
+      "word_position": 7,
+      "target_word_uthmani": "نَجِّنِى",
+      "target_word_rasm": "نجنى",
+      "target_word_literal_irab": "Kurtar (`نَجِّنِى / وَنَجِّنَا`, II. bab emir/dua 2. tekil eril — nâkıs fiilde son harf düşmüş)",
+      "context_snippet_arabic": "يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Musa, korku içinde çevresini gözetleyerek oradan çıktı. \"Rabbim! Beni zalim milletten kurtar\" dedi.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:naj~aY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, korku içinde çevresini gözetleyerek oradan çıktı. \"Rabbim! Beni zalim milletten kurtar\" dedi.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 25,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:25",
+      "word_position": 23,
+      "target_word_uthmani": "نَجَوْتَ",
+      "target_word_rasm": "نجوت",
+      "target_word_literal_irab": "Kurtuldun (`نَجَوْتَ`, I. bab nâkıs-ı vâvî mâzî 2. tekil eril — aslî `و` görünür)",
+      "context_snippet_arabic": "قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "morphology": {
+        "lemma": "najaA",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:najaA|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 15,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:15",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَنجَيْنَٰهُ",
+      "target_word_rasm": "فأنجينه",
+      "target_word_literal_irab": "Kurtardık / çekip çıkardık (`أَنجَيْنَا / أَنجَيْنَٰكُم / فَأَنجَيْنَٰهُ`, IV. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "فَأَنجَيْنَٰهُ وَأَصْحَٰبَ ٱلسَّفِينَةِ وَجَعَلْنَٰهَآ",
+      "context_snippet_turkish_tabula_rasa": "Ama Biz, Nuh'u ve gemide bulunanları kurtardık ve bunu dünyalara bir ibret kıldık.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَأَصْحَٰبَ ٱلسَّفِينَةِ وَجَعَلْنَٰهَآ ءَايَةً لِّلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama Biz, Nuh'u ve gemide bulunanları kurtardık ve bunu dünyalara bir ibret kıldık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 24,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:24",
+      "word_position": 11,
+      "target_word_uthmani": "فَأَنجَىٰهُ",
+      "target_word_rasm": "فأنجىه",
+      "target_word_literal_irab": "Kurtardı (`أَنجَىٰ / أَنجَىٰنَا / أَنجَىٰهُمْ / فَأَنجَىٰهُ`, IV. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Onu öldürün yahut yakın\" demek oldu. Ama Allah onu ateşten kurtardı. Doğrusu bunda, güvene eren kimseler için dersler vardır.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(IV)|LEM:>anjaY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim'in sözlerine milletinin cevabı sadece: \"Onu öldürün yahut yakın\" demek oldu. Ama Allah onu ateşten kurtardı. Doğrusu bunda, güvene eren kimseler için dersler vardır.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 32,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:32",
+      "word_position": 10,
+      "target_word_uthmani": "لَنُنَجِّيَنَّهُۥ",
+      "target_word_rasm": "لننجينه",
+      "target_word_literal_irab": "Onu mutlaka kurtaracağız (`لَنُنَجِّيَنَّهُۥ`, II. bab muzârî 1. çoğul, ağır te'kit nûnlu)",
+      "context_snippet_arabic": "أَعْلَمُ بِمَن فِيهَا لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "İbrahim: \"Ama Lut oradadır\" dedi, elçiler: \"Biz orada olanları daha iyi biliriz; onu ve geride kalanlardan olacak karısı dışında ailesini kurtaracağız\" dediler.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنَّ فِيهَا لُوطًا قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim: \"Ama Lut oradadır\" dedi, elçiler: \"Biz orada olanları daha iyi biliriz; onu ve geride kalanlardan olacak karısı dışında ailesini kurtaracağız\" dediler.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 33,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:33",
+      "word_position": 17,
+      "target_word_uthmani": "مُنَجُّوكَ",
+      "target_word_rasm": "منجوك",
+      "target_word_literal_irab": "Mutlaka kurtaracak olanlar (`لَمُنَجُّوهُمْ / مُنَجُّوكَ`, II. bab ism-i fâil çoğul eril merfû — izâfetle `ن` düşmüş)",
+      "context_snippet_arabic": "وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ",
+      "context_snippet_turkish_tabula_rasa": "... Ona, \"Korkma ve üzülme, doğrusu biz seni ve geride kalacaklardan olan karının dışında, aileni kurtaracağız. Bu kent halkına yaptıkları yolsuzluklardan ötürü gökten, elbette bir azap indireceğiz\" dediler.",
+      "morphology": {
+        "lemma": "munaj~uw",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:munaj~uw|ROOT:njw|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elçilerimiz Lut'a gelince, onun fenasına gitti; çok sıkıldı. Ona, \"Korkma ve üzülme, doğrusu biz seni ve geride kalacaklardan olan karının dışında, aileni kurtaracağız. Bu kent halkına yaptıkları yolsuzluklardan ötürü gökten, elbette bir azap indireceğiz\" dediler.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 29,
+      "ayah": 65,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:65",
+      "word_position": 11,
+      "target_word_uthmani": "نَجَّىٰهُمْ",
+      "target_word_rasm": "نجىهم",
+      "target_word_literal_irab": "Kurtardı (`نَجَّىٰنَا / نَجَّىٰكُمْ / نَجَّىٰهُمْ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ إِذَا",
+      "context_snippet_turkish_tabula_rasa": "... ama Allah onları karaya çıkararak kurtarınca, kendilerine verdiği nimete nankörlük ederek O'na hemen eş koşarlar. Zevklensinler bakalım, yakında bileceklerdir.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gemiye bindikleri zaman, yaşam sistemini yalnız Allah'a has kılarak O'na yalvarırlar; ama Allah onları karaya çıkararak kurtarınca, kendilerine verdiği nimete nankörlük ederek O'na hemen eş koşarlar. Zevklensinler bakalım, yakında bileceklerdir.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 31,
+      "ayah": 32,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:32",
+      "word_position": 11,
+      "target_word_uthmani": "نَجَّىٰهُمْ",
+      "target_word_rasm": "نجىهم",
+      "target_word_literal_irab": "Kurtardı (`نَجَّىٰنَا / نَجَّىٰكُمْ / نَجَّىٰهُمْ`, II. bab mâzî 3. tekil eril)",
+      "context_snippet_arabic": "لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم",
+      "context_snippet_turkish_tabula_rasa": "... onları karaya çıkararak kurtardığında, içlerinden bir kısmı doğru yolda kalır. Zaten ayetlerimizi bilerek ancak hain nankörler gerçeğin üzerini örter.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ وَمَا يَجْحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Dağlar gibi dalgalar insanları kuşattığı zaman, yaşam sistemini tamamen Allah'a has kılarak O'na yalvarırlar; onları karaya çıkararak kurtardığında, içlerinden bir kısmı doğru yolda kalır. Zaten ayetlerimizi bilerek ancak hain nankörler gerçeğin üzerini örter.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 76,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:76",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَجَّيْنَٰهُ",
+      "target_word_rasm": "ونجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ",
+      "context_snippet_turkish_tabula_rasa": "Onu ve ailesini büyük sıkıntıdan kurtarmıştık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onu ve ailesini büyük sıkıntıdan kurtarmıştık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 115,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:115",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَجَّيْنَٰهُمَا",
+      "target_word_rasm": "ونجينهما",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ",
+      "context_snippet_turkish_tabula_rasa": "İkisini ve milletlerini büyük bir sıkıntıdan kurtarmıştık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "İkisini ve milletlerini büyük bir sıkıntıdan kurtarmıştık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 37,
+      "ayah": 134,
+      "surah_name": "Sâffât",
+      "ayah_ref": "37:134",
+      "word_position": 2,
+      "target_word_uthmani": "نَجَّيْنَٰهُ",
+      "target_word_rasm": "نجينه",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "context_snippet_turkish_tabula_rasa": "Geridekiler arasında kalan yaşlı bir kadın dışında, Lut'u ve ailesinin hepsini kurtarmıştık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Geridekiler arasında kalan yaşlı bir kadın dışında, Lut'u ve ailesinin hepsini kurtarmıştık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 61,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:61",
+      "word_position": 1,
+      "target_word_uthmani": "وَيُنَجِّى",
+      "target_word_rasm": "وينجى",
+      "target_word_literal_irab": "Sizi/onları kurtarır (`يُنَجِّيكُم / وَيُنَجِّى`, II. bab muzârî merfû 3. tekil eril)",
+      "context_snippet_arabic": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟",
+      "context_snippet_turkish_tabula_rasa": "Allah, sakınanları başarılarından ötürü kurtarır. Onlara hiçbir kötülük gelmez; onlar üzülmezler.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:naj~aY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "وَيُنَجِّى ٱللَّهُ ٱلَّذِينَ ٱتَّقَوْا۟ بِمَفَازَتِهِمْ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, sakınanları başarılarından ötürü kurtarır. Onlara hiçbir kötülük gelmez; onlar üzülmezler.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 41,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:41",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلنَّجَوٰةِ",
+      "target_word_rasm": "ٱلنجوة",
+      "target_word_literal_irab": "Kurtuluşa (`ٱلنَّجَوٰةِ`, `إِلَى` ile mecrûr dişil isim — vav üzerine hançer elifli Osmânî yazım)",
+      "context_snippet_arabic": "لِىٓ أَدْعُوكُمْ إِلَى ٱلنَّجَوٰةِ وَتَدْعُونَنِىٓ إِلَى ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Nedir başıma gelen? Ben sizi kurtuluşa çağırıyorum, siz beni ateşe çağırıyorsunuz.\"",
+      "morphology": {
+        "lemma": "n~ajaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:n~ajaw`p|ROOT:njw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ مَا لِىٓ أَدْعُوكُمْ إِلَى ٱلنَّجَوٰةِ وَتَدْعُونَنِىٓ إِلَى ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Nedir başıma gelen? Ben sizi kurtuluşa çağırıyorum, siz beni ateşe çağırıyorsunuz.\"",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 41,
+      "ayah": 18,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:18",
+      "word_position": 1,
+      "target_word_uthmani": "وَنَجَّيْنَا",
+      "target_word_rasm": "ونجينا",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "güvene erenleri ve Allah'a karşı gelmekten sakınmış olanları kurtardık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَنَجَّيْنَا ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenleri ve Allah'a karşı gelmekten sakınmış olanları kurtardık.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 43,
+      "ayah": 80,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:80",
+      "word_position": 7,
+      "target_word_uthmani": "وَنَجْوَىٰهُم",
+      "target_word_rasm": "ونجوىهم",
+      "target_word_literal_irab": "Gizli konuşma / fısıltıları (`نَجْوَىٰ / نَجْوَىٰهُمْ / نَجْوَىٰكُمْ`, takdirî zamme ile merfû masdar — maksûr `ى` zamir önünde korunur)",
+      "context_snippet_arabic": "لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa, kendilerinin gizli veya açık konuşmalarını duymayız mı sanırlar? Hayır; öyle değil; yanlarındaki elçilerimiz yazmaktadır.",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa, kendilerinin gizli veya açık konuşmalarını duymayız mı sanırlar? Hayır; öyle değil; yanlarındaki elçilerimiz yazmaktadır.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 44,
+      "ayah": 30,
+      "surah_name": "Duhân",
+      "ayah_ref": "44:30",
+      "word_position": 2,
+      "target_word_uthmani": "نَجَّيْنَا",
+      "target_word_rasm": "نجينا",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, İsrailoğullarını, azgın bir zorba olan Firavun'un alçaltıcı azabından kurtardık.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, İsrailoğullarını, azgın bir zorba olan Firavun'un alçaltıcı azabından kurtardık.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 54,
+      "ayah": 34,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:34",
+      "word_position": 8,
+      "target_word_uthmani": "نَّجَّيْنَٰهُم",
+      "target_word_rasm": "نجينهم",
+      "target_word_literal_irab": "Kurtardık (`نَجَّيْنَا / نَجَّيْنَٰكُم / نَجَّيْنَٰهُ / نَجَّيْنَٰهُمْ`, II. bab mâzî 1. çoğul)",
+      "context_snippet_arabic": "إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ",
+      "context_snippet_turkish_tabula_rasa": "... Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. nimetin değerini bilip açığa vurana işte böyle mükafat veririz.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:naj~aY`|ROOT:njw|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz de üzerlerine taş yağdıran bir rüzgar gönderdik. Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. nimetin değerini bilip açığa vurana işte böyle mükafat veririz.",
+      "contextual_meaning": "Toplu helak ortasında elçilerin ve güvenenlerin seçilerek kurtarılması (`7:64,72,83,89`, `10:73`, `11:58,66,94,116`, `15:59`, `21:9,71,74,76,88`, `23:28`, `26:65,118-119,169-170`, `27:53,57`, `29:15,24,32-33`, `37:76,115,134`, `41:18`, `54:34`): Nûh'un gemiyle tufandan (`7:64`, `10:73`, `21:76`, `23:28`, `26:118-119`, `29:15`, `37:76`), Hûd, Sâlih ve Şuayb'ın rahmetle helakten (`7:72,89`, `11:58,66,94`, `27:53`, `41:18`), Lût'un ve ailesinin seher vakti kirli şehirden (`7:83`, `15:59`, `21:71,74`, `26:169-170`, `27:57`, `29:32-33`, `37:134`, `54:34`), İbrâhîm'in ateşten (`29:24`), Yûnus'un karanlık darlıktan (`21:88`) ve Mûsâ ile Hârûn'un büyük sıkıntıdan (`26:65`, `37:115`) çekip alınması; bozgunculuğa karşı çıkan azınlığın kurtuluşu (`11:116`, `21:9`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 7,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:7",
+      "word_position": 15,
+      "target_word_uthmani": "نَّجْوَىٰ",
+      "target_word_rasm": "نجوى",
+      "target_word_literal_irab": "Gizli konuşmadan / fısıltısından (`مِن نَّجْوَىٰ / عَنِ ٱلنَّجْوَىٰ`, takdirî kesra ile mecrûr masdar)",
+      "context_snippet_arabic": "مَا يَكُونُ مِن نَّجْوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde olanları da, yerde olanları da Allah'ın bildiğini bilmez misin? Üç kişinin gizli bulunduğu yerde dördüncü mutlaka O'dur; beş kişinin gizli bulunduğu yerde altıncıları mutlaka O'dur; ...",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَا يَكُونُ مِن نَّجْوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanları da, yerde olanları da Allah'ın bildiğini bilmez misin? Üç kişinin gizli bulunduğu yerde dördüncü mutlaka O'dur; beş kişinin gizli bulunduğu yerde altıncıları mutlaka O'dur; bunlardan az veya çok, ne olursa olsunlar nerede bulunurlarsa bulunsunlar, mutlak onlarla beraberdir. Sonra, kıyamet günü, işlediklerini onlara haber verir. Doğrusu Allah her şeyi bilendir.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 8,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:8",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلنَّجْوَىٰ",
+      "target_word_rasm": "ٱلنجوى",
+      "target_word_literal_irab": "Gizli konuşmadan / fısıltısından (`مِن نَّجْوَىٰ / عَنِ ٱلنَّجْوَىٰ`, takdirî kesra ile mecrûr masdar)",
+      "context_snippet_arabic": "ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا",
+      "context_snippet_turkish_tabula_rasa": "Gizli toplantıdan menedilen, sonra menolundukları şeyi yapmaya kalkışarak sapma ve ağır kusur işlemek, düşmanlık etmek ve elçiye karşı gelmek konusunda gizli gizli konuşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlarlar; içlerinden, \"Gerçekten elçi olsaydı Allah'ın bizi, söylediklerimizden ötürü, cezalandırması gerekmez miydi?\" derler. ...",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gizli toplantıdan menedilen, sonra menolundukları şeyi yapmaya kalkışarak sapma ve ağır kusur işlemek, düşmanlık etmek ve elçiye karşı gelmek konusunda gizli gizli konuşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlarlar; içlerinden, \"Gerçekten elçi olsaydı Allah'ın bizi, söylediklerimizden ötürü, cezalandırması gerekmez miydi?\" derler. yakıcı yıkım yurdu onlara yeter. Oraya girerler, ne kötü dönüştür!",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 8,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:8",
+      "word_position": 13,
+      "target_word_uthmani": "وَيَتَنَٰجَوْنَ",
+      "target_word_rasm": "ويتنجون",
+      "target_word_literal_irab": "Birbirleriyle gizlice fısıldaşırlar (`وَيَتَنَٰجَوْنَ`, VI. bab muzârî merfû 3. çoğul eril)",
+      "context_snippet_arabic": "لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ",
+      "context_snippet_turkish_tabula_rasa": "Gizli toplantıdan menedilen, sonra menolundukları şeyi yapmaya kalkışarak sapma ve ağır kusur işlemek, düşmanlık etmek ve elçiye karşı gelmek konusunda gizli gizli konuşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlarlar; içlerinden, \"Gerçekten elçi olsaydı Allah'ın bizi, söylediklerimizden ötürü, cezalandırması gerekmez miydi?\" derler. ...",
+      "morphology": {
+        "lemma": "tana`jayo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:tana`jayo|ROOT:njw|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا فَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Gizli toplantıdan menedilen, sonra menolundukları şeyi yapmaya kalkışarak sapma ve ağır kusur işlemek, düşmanlık etmek ve elçiye karşı gelmek konusunda gizli gizli konuşanları görmedin mi? Sana geldiklerinde, Allah'ın seni selamlamadığı bir şekilde seni selamlarlar; içlerinden, \"Gerçekten elçi olsaydı Allah'ın bizi, söylediklerimizden ötürü, cezalandırması gerekmez miydi?\" derler. yakıcı yıkım yurdu onlara yeter. Oraya girerler, ne kötü dönüştür!",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 9,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:9",
+      "word_position": 5,
+      "target_word_uthmani": "تَنَٰجَيْتُمْ",
+      "target_word_rasm": "تنجيتم",
+      "target_word_literal_irab": "Birbirinizle gizlice konuştuğunuzda (`تَنَٰجَيْتُمْ`, VI. bab mâzî 2. çoğul eril)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Gizli konuştuğunuz zaman, sapma ve ağır kusur işlemeyi, düşmanlık etmeyi ve elçiye karşı gelmeyi fısıldaşmayın; iyilik yapmak ve Allah'a karşı gelmekten sakınmayı konuşun; ...",
+      "morphology": {
+        "lemma": "tana`jayo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(VI)|LEM:tana`jayo|ROOT:njw|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Gizli konuştuğunuz zaman, sapma ve ağır kusur işlemeyi, düşmanlık etmeyi ve elçiye karşı gelmeyi fısıldaşmayın; iyilik yapmak ve Allah'a karşı gelmekten sakınmayı konuşun; kıyamet günü huzurunda toplanacağınız Allah'tan sakının.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 9,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:9",
+      "word_position": 7,
+      "target_word_uthmani": "تَتَنَٰجَوْا۟",
+      "target_word_rasm": "تتنجوا",
+      "target_word_literal_irab": "Birbirinizle gizlice konuşmayın (`فَلَا تَتَنَٰجَوْا۟`, VI. bab nehy meczûm 2. çoğul eril)",
+      "context_snippet_arabic": "إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Gizli konuştuğunuz zaman, sapma ve ağır kusur işlemeyi, düşmanlık etmeyi ve elçiye karşı gelmeyi fısıldaşmayın; iyilik yapmak ve Allah'a karşı gelmekten sakınmayı konuşun; ...",
+      "morphology": {
+        "lemma": "tana`jayo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(VI)|LEM:tana`jayo|ROOT:njw|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Gizli konuştuğunuz zaman, sapma ve ağır kusur işlemeyi, düşmanlık etmeyi ve elçiye karşı gelmeyi fısıldaşmayın; iyilik yapmak ve Allah'a karşı gelmekten sakınmayı konuşun; kıyamet günü huzurunda toplanacağınız Allah'tan sakının.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 9,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:9",
+      "word_position": 12,
+      "target_word_uthmani": "وَتَنَٰجَوْا۟",
+      "target_word_rasm": "وتنجوا",
+      "target_word_literal_irab": "Birbirinizle gizlice konuşun (`وَتَنَٰجَوْا۟`, VI. bab emir 2. çoğul eril)",
+      "context_snippet_arabic": "وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ وَٱتَّقُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Gizli konuştuğunuz zaman, sapma ve ağır kusur işlemeyi, düşmanlık etmeyi ve elçiye karşı gelmeyi fısıldaşmayın; iyilik yapmak ve Allah'a karşı gelmekten sakınmayı konuşun; ...",
+      "morphology": {
+        "lemma": "tana`jayo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(VI)|LEM:tana`jayo|ROOT:njw|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَنَٰجَيْتُمْ فَلَا تَتَنَٰجَوْا۟ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَتَنَٰجَوْا۟ بِٱلْبِرِّ وَٱلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Gizli konuştuğunuz zaman, sapma ve ağır kusur işlemeyi, düşmanlık etmeyi ve elçiye karşı gelmeyi fısıldaşmayın; iyilik yapmak ve Allah'a karşı gelmekten sakınmayı konuşun; kıyamet günü huzurunda toplanacağınız Allah'tan sakının.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 10,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:10",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلنَّجْوَىٰ",
+      "target_word_rasm": "ٱلنجوى",
+      "target_word_literal_irab": "Gizli konuşma / fısıltıları (`نَجْوَىٰ / نَجْوَىٰهُمْ / نَجْوَىٰكُمْ`, takdirî zamme ile merfû masdar — maksûr `ى` zamir önünde korunur)",
+      "context_snippet_arabic": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَٰنِ لِيَحْزُنَ",
+      "context_snippet_turkish_tabula_rasa": "Gizli toplantılar güvene erenleri üzmek için saptırıcı yıkıcı gücün istediği şeydir; Allah'ın izni olmadıkça saptırıcı yıkıcı güç onlara bir zarar veremez; ...",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلنَّجْوَىٰ مِنَ ٱلشَّيْطَٰنِ لِيَحْزُنَ ٱلَّذِينَ ءَامَنُوا۟ وَلَيْسَ بِضَآرِّهِمْ شَيْـًٔا إِلَّا بِإِذْنِ ٱللَّهِ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gizli toplantılar güvene erenleri üzmek için saptırıcı yıkıcı gücün istediği şeydir; Allah'ın izni olmadıkça saptırıcı yıkıcı güç onlara bir zarar veremez; güvene erenler yalnız Allah'a güvensinler.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 12,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:12",
+      "word_position": 5,
+      "target_word_uthmani": "نَٰجَيْتُمُ",
+      "target_word_rasm": "نجيتم",
+      "target_word_literal_irab": "Baş başa gizlice konuştuğunuzda (`نَٰجَيْتُمُ`, III. bab mâzî 2. çoğul eril — bâb elifi Rasm'da hazfedilmiş)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! elçiyle hususi olarak konuşacağınızda, bu konuşmanızdan önce fakirlere sadaka veriniz; bu, sizin daha iyi ve daha temiz olmanız içindir. ...",
+      "morphology": {
+        "lemma": "na`jayo",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(III)|LEM:na`jayo|ROOT:njw|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةً ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçiyle hususi olarak konuşacağınızda, bu konuşmanızdan önce fakirlere sadaka veriniz; bu, sizin daha iyi ve daha temiz olmanız içindir. Eğer sadaka verecek bir şey bulamazsanız üzülmeyiniz. Allah şüphesiz bağışlayandır, acıyandır.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 12,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:12",
+      "word_position": 10,
+      "target_word_uthmani": "نَجْوَىٰكُمْ",
+      "target_word_rasm": "نجوىكم",
+      "target_word_literal_irab": "Gizli konuşma / fısıltıları (`نَجْوَىٰ / نَجْوَىٰهُمْ / نَجْوَىٰكُمْ`, takdirî zamme ile merfû masdar — maksûr `ى` zamir önünde korunur)",
+      "context_snippet_arabic": "فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةً ذَٰلِكَ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! elçiyle hususi olarak konuşacağınızda, bu konuşmanızdan önce fakirlere sadaka veriniz; bu, sizin daha iyi ve daha temiz olmanız içindir. ...",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَٰجَيْتُمُ ٱلرَّسُولَ فَقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَةً ذَٰلِكَ خَيْرٌ لَّكُمْ وَأَطْهَرُ فَإِن لَّمْ تَجِدُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! elçiyle hususi olarak konuşacağınızda, bu konuşmanızdan önce fakirlere sadaka veriniz; bu, sizin daha iyi ve daha temiz olmanız içindir. Eğer sadaka verecek bir şey bulamazsanız üzülmeyiniz. Allah şüphesiz bağışlayandır, acıyandır.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 58,
+      "ayah": 13,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:13",
+      "word_position": 6,
+      "target_word_uthmani": "نَجْوَىٰكُمْ",
+      "target_word_rasm": "نجوىكم",
+      "target_word_literal_irab": "Gizli konuşmayı (`ٱلنَّجْوَىٰ / نَجْوَىٰكُمْ`, takdirî fetha ile mansûb masdar)",
+      "context_snippet_arabic": "تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَٰتٍ فَإِذْ لَمْ",
+      "context_snippet_turkish_tabula_rasa": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. ...",
+      "morphology": {
+        "lemma": "najowaY`^",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:najowaY`^|ROOT:njw|M|ACC"
+      },
+      "ayah_text_arabic_full": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَٰتٍ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "Tenhaya çekilip gizlice konuşma etiği ve ilâhî şahitlik (`4:114`, `9:78`, `12:80`, `17:47`, `19:52`, `20:62`, `21:3`, `43:80`, `58:7-10,12-13`): Paylaşım, iyilik ve barış dışındaki gizli konuşmalarda hayır olmaması (`4:114`), sırların ve fısıltıların bilinmesi (`9:78`, `43:80`, `58:7`), kardeşlerin ve büyücülerin kenara çekilip gizlice danışması (`12:80`, `20:62`), elçiye karşı gizli kumpas fısıltıları (`17:47`, `21:3`, `58:8,10`), Mûsâ'nın özel konuşma için yaklaştırılması (`19:52`), iyilik ve sakınma üzerine fısıldaşma emri (`58:9`) ve elçiyle baş başa görüşme öncesi paylaşım ölçüsü (`58:12-13`)."
+    },
+    {
+      "surah": 61,
+      "ayah": 10,
+      "surah_name": "Saff",
+      "ayah_ref": "61:10",
+      "word_position": 8,
+      "target_word_uthmani": "تُنجِيكُم",
+      "target_word_rasm": "تنجيكم",
+      "target_word_literal_irab": "Sizi kurtaracak (`تُنجِيكُم`, IV. bab muzârî merfû 3. tekil dişil — `تِجَٰرَة` sıfatı)",
+      "context_snippet_arabic": "أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sizi can yakıcı bir azabdan kurtaracak, kazançlı bir yolu size göstereyim mi?",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>anjaY`|ROOT:njw|3FS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sizi can yakıcı bir azabdan kurtaracak, kazançlı bir yolu size göstereyim mi?",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    },
+    {
+      "surah": 66,
+      "ayah": 11,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:11",
+      "word_position": 17,
+      "target_word_uthmani": "وَنَجِّنِى",
+      "target_word_rasm": "ونجنى",
+      "target_word_literal_irab": "Kurtar (`نَجِّنِى / وَنَجِّنَا`, II. bab emir/dua 2. tekil eril — nâkıs fiilde son harf düşmüş)",
+      "context_snippet_arabic": "بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Katından bana esenlik bahçesinde bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; beni zalim milletten kurtar\" demişti.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:naj~aY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güven duy Firavun'un karısını misal gösterir: O: \"Rabbim! Katından bana esenlik bahçesinde bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; beni zalim milletten kurtar\" demişti.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 66,
+      "ayah": 11,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:11",
+      "word_position": 21,
+      "target_word_uthmani": "وَنَجِّنِى",
+      "target_word_rasm": "ونجنى",
+      "target_word_literal_irab": "Kurtar (`نَجِّنِى / وَنَجِّنَا`, II. bab emir/dua 2. tekil eril — nâkıs fiilde son harf düşmüş)",
+      "context_snippet_arabic": "مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Katından bana esenlik bahçesinde bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; beni zalim milletten kurtar\" demişti.",
+      "morphology": {
+        "lemma": "naj~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:naj~aY`|ROOT:njw|2MS"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, güven duy Firavun'un karısını misal gösterir: O: \"Rabbim! Katından bana esenlik bahçesinde bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; beni zalim milletten kurtar\" demişti.",
+      "contextual_meaning": "Firavun zorbalığından, denizden ve zalim toplumdan kurtuluş (`2:49-50`, `7:141`, `10:86,92`, `14:6`, `20:40,80`, `28:21,25`, `44:30`, `66:11`): İsrâiloğullarının ağır esaretten ve denizin yarılmasıyla boğulmaktan çekilip çıkarılması (`2:49-50`, `7:141`, `14:6`, `20:80`, `44:30`), Firavun'un bedeninin ibret için karaya çıkarılması (`10:92`), Mûsâ'nın kederden ve zalimlerden kurtuluşu (`20:40`, `28:21,25`) ile zalim toplumdan ve Firavun'dan kurtuluş yakarışları (`10:86`, `66:11`)."
+    },
+    {
+      "surah": 70,
+      "ayah": 14,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:14",
+      "word_position": 6,
+      "target_word_uthmani": "يُنجِيهِ",
+      "target_word_rasm": "ينجيه",
+      "target_word_literal_irab": "Onu kurtarsın (`يُنجِيهِ`, IV. bab muzârî 3. tekil eril)",
+      "context_snippet_arabic": "ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+      "context_snippet_turkish_tabula_rasa": "... Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.",
+      "morphology": {
+        "lemma": ">anjaY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(IV)|LEM:>anjaY`|ROOT:njw|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.",
+      "contextual_meaning": "Kurtuluş yasası, deniz fırtınası sınavı ve gerçek kurtuluşa çağrı (`6:63-64`, `7:165`, `10:22-23,103`, `12:42,45,110`, `17:67`, `19:72`, `29:65`, `31:32`, `39:61`, `40:41`, `61:10`, `70:14`): Karanlıklarda ve dalgalarda içtenlikle yakarıp karaya çıkarılınca yeniden ortak koşma veya azgınlaşma döngüsü (`6:63-64`, `10:22-23`, `17:67`, `29:65`, `31:32`), kötülükten men edenlerin ve sakınanların kurtarılması yasası (`7:165`, `10:103`, `12:110`, `19:72`, `39:61`), zindandan kurtulan arkadaş (`12:42,45`), ateşe karşı kurtuluşa çağrı (`40:41`), can yakıcı azaptan kurtaran kazançlı yol (`61:10`) ve hesap gününde herkesi feda edip kurtulmak isteyen suçlu (`70:14`)."
+    }
+  ]
+}

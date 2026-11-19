@@ -1,0 +1,2047 @@
+{
+  "root": "ص-ح-ب",
+  "root_latin": "S-H-B (SHb)",
+  "concept_name": "Ashâb / Sâhib / Sâhibe (Yan Yanalık, Yol Arkadaşlığı ve Sürekli Birliktelik)",
+  "rank": 116,
+  "total_occurrences": 97,
+  "unique_ayahs_count": 89,
+  "unified_core_mechanism": "Kökün `97` geçişlik tamamı İbn Fâris'in `(صحب)` aslına dayanır: 'Fiziksel yan yanalık, yol arkadaşlığı ve bir durum, mekân ya da sonuca ayrılmaz biçimde eşlik edip onun ehli olmak'. Üç katmanda çalışır: (1) Yakın fiziksel-sosyal beraberlik: omuz omuza meclis arkadaşı (`4:36`), mağara yoldaşı (`9:40`), zindan arkadaşları (`12:39,41`), topluluğun içinden tanıdık arkadaş (`صَاحِبُكُمْ` `53:2`, `81:22`), bilgeyle yolculuk kuralı (`18:76`), anne-babaya dünyevî arkadaşlık (`31:15`) ve hayat eşi (`صَٰحِبَة`). (2) Koruyucu sahiplenme: `21:43`teki `يُصْحَبُونَ` fiiliyle birini yanına alıp himaye etme mekaniği. (3) Kolektif kader ortaklığı (`78` kez `أَصْحَٰب`): mağara, gemi, orman (`أَيْكَة`), hendek (`أُخْدُود`) veya hesap sonrası sonuçlarından esenlik bahçesi ya da ateşin kalıcı ehli haline gelmek (`56:8-41`, `59:20`).",
+  "physical_core": "İki varlığın fiziksel olarak yan yana bulunması, birbirine omuz omuza eşlik etmesi ve bir mekâna/duruma sürekli bağlanıp ayrılmaz üyesi haline gelmesi (`ٱلْمُقَارَنَةُ وَٱلْمُلَازَمَةُ وَٱلتَّقَارُبُ`). Meclis ve yolculukta hemen yanı başındaki kişi (`وَٱلصَّاحِبِ بِٱلْجَنۢبِ` `4:36`), aynı mağarada yan yana bekleyen arkadaş (`9:40`), iki zindan arkadaşı (`12:39,41`), yan yana yaşanan ömür eşi (`صَٰحِبَة` `70:12`, `80:36`), koruyucu himaye (`يُصْحَبُونَ` `21:43`) ve nihayet aynı mekânı kalıcı biçimde paylaşan topluluk (`أَصْحَٰبُ ٱلْكَهْفِ / ٱلسَّفِينَةِ / ٱلْجَنَّةِ / ٱلنَّارِ` `78` geçiş) hep bu somut 'yan yana eşlik ve sürekli birliktelik' çekirdeğinden türer.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris (*Mekâyîsü'l-Luğa*) `sad-ha-ba (صحب)` kökünü tek sahih eksende toplar: 'bir şeyin başka bir şeye eşlik etmesi, yakınlaşıp ayrılmadan onunla birlikte bulunması (`mukârene ve mukârebe`)'. Kökün çoğul halkaları olan `sahb` ve `ashâb` da bir işi, yolu veya mekânı birlikte sürdüren ortakları bildirir.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (*el-Müfredât*) `صَاحِب`'in ister bedensel yan yanalık (`4:36`, `9:40`), isterse düşünsel/kadersel ortaklık (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلنَّارِ`) yoluyla sürekli birleşme ve beraberlik kuran kimse olduğunu vurgular.",
+    "lisan_al_arab": "Klasik sözlük geleneği (*Lisânü'l-Arab*) `صَحِبْتُهُ` ('ona eşlik ettim'), `صَاحَبَهُ` ('onunla yakın arkadaşlık etti' — III. bab `31:15`, `18:76`) çekimlerini kaydettikten sonra `21:43`teki `وَلَا هُم مِّنَّا يُصْحَبُونَ` ayetindeki meçhul fiili 'koruma ve himaye altına alınmazlar (`لَا يُجَارُونَ وَلَا يُمْنَعُونَ`)' şeklinde açıklar; zira Arapçada sığınma veren dost `صَاحِب` ve `جَار` diye anılır.",
+    "arbitration_decision": "Tahkim Kararı: Kur'an'daki `97` geçişin tamamı 'yan yana gelmek, yol arkadaşlığı kurmak ve bir yerin/yönün ayrılmaz mensubu olmak' mekaniğinde birleşir. Kur'an'daki `78` `أَصْحَٰب` terkibini rastgele 'halk/insanlar' diye silikleştirmek yerine her defasında 'o mekânın veya niteliğin sürekli eşlikçileri/ayrılmaz ehli' mekaniğiyle okumak hem mağara yoldaşlarını (`18:9`), hem gemi yolcularını (`29:15`), hem de sağ/sol zümrelerini (`56:8-41`) aynı eksene bağlar."
+  },
+  "semitic_cognates": {
+    "arabic_and_epigraphic_south_arabian": "Merkezî ve Güney Semitik alanında (Arapça `صَحِبَ / صَاحِب` ve Eski Güney Arapça/Sabaca kitabelerinde toplumsal ittifak ve birliktelik bildiren `ṣ-ḥ-b` / sayhadik grup terimleri) kökleşmiş canlı bir sosyal bağ köküdür.",
+    "akkadian": "Doğu Semitik (Akadca) kolunda 'yoldaş, arkadaş' anlamı için `*ṣ-ḥ-b` kökü yer almaz (`ibrum / tappûm` kullanılır); Akadcada geçen `sahāpu` ('sarmak, kaplamak, bastırmak') fiili ise Arapçadaki `س-ح-ب` ('sürüklemek/yaymak') köküyle ilgilidir ve `ص-ح-ب` ile karıştırılmamalıdır.",
+    "hebrew_and_aramaic": "Kuzeybatı Semitik dillerde (İbranice `חָבֵר` *ḥāver* ve Aramca-Süryanice `חַבְרָא / ܚܲܒܪܳܐ` *ḥavrā*) 'yoldaş/arkadaş' kavramı başka köklerle karşılanır; `*ṣ-ḥ-b` doğrudan Merkezî ve Güney Semitik mirasına özgüdür.",
+    "phonological_note": "Karşılaştırmalı Semitik sesbilimde vurgulu `ص` (*ṣ*) ile başlayan `*√ṣ-ḥ-b` kökü, ince `س` (*s*) ile başlayan `*√s-ḥ-b` ('çekip sürüklemek' -> Akadca `sahāpu`, Arapça `سَحَاب / سَحَبَ`) kökünden fonolojik olarak ayrıdır. İran ve Hint-Fars edebî kültürüne Arapçadan geçen `صَاحِب` (*ṣāḥib*) sözcüğü ise 'yakın eşlikçi'den 'sahip ve saygın efendi' (*Sahib*) unvanına doğru ikincil tarihî anlam genişlemesi göstermiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ر-ر / ت-ب-ر-أ (`يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ وَأُمِّهِۦ وَأَبِيهِ وَصَٰحِبَتِهِۦ` `80:34-36`; `فَلَا تُصَٰحِبْنِى` `18:76` — Yan Yana Ayrılmaz Eşlik ve Yoldaşlık vs Ayrılıp Kaçma ve Yol Ayırma)",
+      "ع-د-و (`إِنَّ ٱلشَّيْطَٰنَ لَكُمْ عَدُوٌّ فَٱتَّخِذُوهُ عَدُوًّا إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَٰبِ ٱلسَّعِيرِ` `35:6` — İçten Yol Arkadaşı ve Himaye Eden Dost vs Yıkıma Sürükleyen Açık Düşman)",
+      "أ-ص-ح-ا-ب ٱ-ل-ج-ن-ة vs أ-ص-ح-ا-ب ٱ-ل-ن-ا-ر (`لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ` `59:20`; `7:44,50`; `56:8-41`; `90:18-19` — Sağ ve Esenlik Yurdu Ehli vs Sol ve Yakıcı Yıkım Ehli)"
+    ],
+    "key_ayahs": [
+      "2:39",
+      "2:82",
+      "4:36",
+      "6:71",
+      "6:101",
+      "7:44",
+      "7:50",
+      "7:184",
+      "9:40",
+      "12:39",
+      "18:9",
+      "18:37",
+      "18:76",
+      "20:135",
+      "21:43",
+      "26:61",
+      "29:15",
+      "31:15",
+      "34:46",
+      "53:2",
+      "56:8",
+      "56:9",
+      "59:20",
+      "68:48",
+      "70:12",
+      "72:3",
+      "80:36",
+      "81:22",
+      "90:18",
+      "105:1"
+    ],
+    "reverse_stress_test": "Test Sorusu: '`ص-ح-ب` fiziksel veya kadersel olarak yan yana gelmek, ayrılmaz biçimde eşlik etmek ve koruyup barındırmak ise zıddı nedir?' Cevap: (1) İnsanın dünyadaki en yakın eşi olan `صَٰحِبَة` ve yol arkadaşlarından korkuyla kaçması (`يَفِرُّ ٱلْمَرْءُ ... وَصَٰحِبَتِهِۦ` `80:34-36`; `70:12`), arkadaşlık şartının bitmesiyle yolları ayırması (`فَلَا تُصَاحِبْنِى` `18:76`) ve Yaratıcının ortaklık veya eşten münezzeh kalması (`وَلَمْ تَكُن لَّهُۥ صَٰحِبَةٌ` `6:101`, `72:3`). (2) `21:43`te koruyup sahiplenmenin zıddı savunmasız bırakılmaktır (`وَلَا هُم مِّنَّا يُصْحَبُونَ`). (3) Kur'an boyunca sürekli iki karşıt kutup çarpıştırılır: `أَصْحَٰبُ ٱلْجَنَّةِ / ٱلْيَمِينِ / ٱلْمَيْمَنَةِ` karşısında `أَصْحَٰبُ ٱلنَّارِ / ٱلشِّمَالِ / ٱلْمَشْـَٔمَةِ` (`59:20`, `56:8-9`, `90:18-19`)."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "`ٱلْجَارِ ذِى ٱلْقُرْبَىٰ` (`Yakın/akraba komşu`) & `ٱلْجَارِ ٱلْجُنُبِ` (`Uzak/yabancı komşu`) vs `ٱلصَّاحِبِ بِٱلْجَنۢبِ` (`Bizzat yanında oturup yürüyen yol/meclis arkadaşı`) vs `ٱبْنِ ٱلسَّبِيلِ` (`Geçici yolcu`) — `4:36`",
+      "`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` (`Esenlik ve uğur ehli`) vs `أَصْحَٰبُ ٱلنَّارِ / ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` (`Yıkım ve uğursuzluk ehli`) — `7:44,50`, `56:8-41`, `59:20`, `90:18-19`",
+      "`صَٰحِبَة` (`Yalnız ömürlük dişi eş`) vs `وَلَد` (`Doğan çocuk`) — `6:101`, `72:3`; `70:12` & `80:36`da da kardeş, anne-baba ve çocuktan ayrı zikredilir",
+      "`أَصْحَٰب` (`Aynı kader veya mekânı paylaşan geniş zümre`) vs `وَلِىّ` (`Koruyucu üst dost/veli` `2:257`) & `حِزْب` (`Aynı davada örgütlü taraf/grup` `35:6`)"
+    ],
+    "mechanical_difference": "1) `4:36` ayeti dört toplumsal yakınlık halkasını mekânsal temas derecesine göre ayırır: akraba komşu, uzak komşu, yan omuzundaki arkadaş (`ٱلصَّاحِبِ بِٱلْجَنۢبِ`) ve yoldan geçen yolcu (`ٱبْنِ ٱلسَّبِيلِ`). 2) `70:12` ve `80:36`da `صَٰحِبَة`, kan bağı taşıyan kardeş, anne, baba ve oğullardan ayrı anılarak nikâh/ortaklık yoluyla kurulan yakın eşlik bağını netleştirir. 3) `59:20`de iki zıt grup tek ayette yan yana getirilip üç kez `أَصْحَٰبُ` vurgulanarak eşitsiz sonuçları (`لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ`) pekiştirilir."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "4:36 & 9:40 & 31:15 & 18:76",
+      "role": "İnsanî Yakınlık, Meclis Arkadaşlığı ve Yol Ayrımı Çapası (`وَٱلصَّاحِبِ بِٱلْجَنۢبِ` / `وَصَاحِبْهُمَا` / `فَلَا تُصَاحِبْنِى`)",
+      "literal_meaning": "'Hemen yanı başındaki yol/meclis arkadaşına iyi davran (`4:36`)', 'mağarada ikinin ikincisi olarak arkadaşına üzülme dedi (`9:40`)', 'inançta baskı yapsalar bile anne-babaya dünyada güzelce arkadaşlık et (`31:15`)' ve 'bundan sonra bir şey sorarsam bana yol arkadaşlığı etme (`18:76`).'"
+    },
+    {
+      "ref": "7:184 & 34:46 & 53:2 & 81:22 & 12:39",
+      "role": "Tanıdık Elçi ve Zindan Yoldaşlığı Çapası (`صَاحِبُكُمْ / بِصَاحِبِهِم` & `يَٰصَىٰحِبَىِ ٱلسِّجْنِ`)",
+      "literal_meaning": "'İyi düşünsünler; içlerinden yetişmiş arkadaşlarında akıl tutulmasından eser yoktur (`7:184`, `34:46`, `81:22`)', 'arkadaşınız sapmadı ve azmadı (`53:2`)' ve 'ey iki zindan arkadaşım (`12:39`, `12:41`).'"
+    },
+    {
+      "ref": "21:43 & 6:101 & 72:3 & 80:36",
+      "role": "Himaye Eksikliği ve Eşsiz Yaratıcı Çapası (`يُصْحَبُونَ` & `صَٰحِبَة`)",
+      "literal_meaning": "'Bizden yana korunup sahiplenilerek kurtarılmazlar (`21:43` I. bab meçhul hapax)', 'eşi (`صَٰحِبَةٌ`) yokken nasıl çocuğu olsun (`6:101`, `72:3`)' ve 'kişinin eşinden (`وَصَٰحِبَتِهِۦ`) bile kaçacağı gün (`80:36`, `70:12`).'"
+    },
+    {
+      "ref": "56:8-9,27,41 & 59:20 & 7:44-50",
+      "role": "İki Karşıt Sonuç Ehli Çapası (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلْيَمِينِ` vs `أَصْحَٰبُ ٱلنَّارِ / ٱلشِّمَالِ`)",
+      "literal_meaning": "'Sağ/uğur ehli ne mutludur, sol/yıkım ehli ne bahtsızdır (`56:8-41`, `90:18-19`)' ve 'ateşin ehli ile esenlik bahçesi ehli bir olmaz; esenlik bahçesi ehli kurtuluşa erenlerdir (`59:20`, `7:44-50`).'"
+    },
+    {
+      "ref": "18:9 & 29:15 & 68:48 & 105:1",
+      "role": "Tarihî ve Mekânsal Zümreler Çapası (`أَصْحَٰبَ ٱلْكَهْفِ / ٱلسَّفِينَةِ / ٱلْفِيلِ` & `كَصَاحِبِ ٱلْحُوتِ`)",
+      "literal_meaning": "'Mağara ve kitabe arkadaşları (`18:9`)', 'gemi yolcuları (`29:15`)', 'balığın yanındaki/yoldaşı Yûnus (`68:48`)' ve 'fil ordusunun ehli (`105:1`).'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'da yalnız `3` fiil formu taşır: `1` kez I. bab meçhul muzârî (`وَلَا هُم مِّنَّا يُصْحَبُونَ` `21:43`: 'tarafımızdan sahiplenilip korunmazlar') ve `2` kez III. bab müşâreke/yoldaşlık fiili (`فَلَا تُصَاحِبْنِى` `18:76` nehy-i hâzır; `وَصَاحِبْهُمَا` `31:15` emir). 2) İsim yoğunluğu `94`tür (%96,9): `أَصْحَٰب` kırık çoğulu (`78`: çoğunlukla izâfet içinde muzâf, sadece `6:71`de nekre `أَصْحَٰبٌ`), tekil ism-i fâil `صَاحِب` (`10`), dişil `صَٰحِبَة` (`4`) ve Yûsuf suresinde ikil nida `يَٰصَىٰحِبَىِ` (`2`: `12:39,41` — corpus etiketlemesinde özel lemma `LEM:SaY`Hib` taşır). 3) Çarpıcı Rasm-ı Osmânî özellikleri: `أَصْحَٰب` kelimesinin `78` geçişinin tamamında `ح` ile `ب` arasındaki elif yazıda hazfedilerek `أصحب / فأصحب / وأصحب / لأصحب` yazılır; `صَٰحِبَة` (`4` geçişte `صحبة / وصحبته`) ve `18:76` (`تصحبنى`), `9:40` (`لصحبه`) örneklerinde ilk elif de hazfedilir; `12:39,41`deki `يَٰصَىٰحِبَىِ` (`يصىحبى`) kelimesinde ise çeker elif için `ى` kürsüsü yazılmıştır. 4) `7` ayette birden fazla geçer (`59:20`de `3` kez; `7:44, 7:50, 56:8, 56:9, 56:27, 56:41`de `2`şer kez) ve `20` farklı Rasm yazımı sunar.",
+  "derivatives": {
+    "أَصْحَٰب (`78 N`: `51 NOM + 15 GEN + 12 ACC` kırık çoğul)": "Aynı yolu, mekânı veya akıbeti paylaşan sürekli topluluk; esenlik bahçesi ve sağ ehli (`56:8,27`, `59:20`) ile ateş ve sol ehli (`2:39`, `56:9,41`), tarihî/kıssa zümreleri (`18:9`, `29:15`, `85:4`, `105:1`)",
+    "صَاحِب (`10 N`) & يَٰصَىٰحِبَىِ (`2 N` ikil nida `12:39,41`)": "Birebir yanı başındaki arkadaş (`4:36`, `9:40`, `18:34,37`), toplumun bizzat tanıdığı elçi (`7:184`, `34:46`, `53:2`, `81:22`), balığın yoldaşı Yûnus (`68:48`) ve iki zindan arkadaşı (`12:39,41`)",
+    "صَٰحِبَة (`4 N` dişil: `6:101`, `70:12`, `72:3`, `80:36`)": "İnsanın hayat/ömür eşi (`70:12`, `80:36`) ve Yaratıcının çocuk ile birlikte dişi eşten mutlak arınmışlığı (`6:101`, `72:3`)",
+    "تُصَٰحِب / صَاحِبْ (`2 V` Form III: `18:76`, `31:15`) & يُصْحَبُونَ (`1 V` Form I meçhul `21:43`)": "İkili yol/dünya arkadaşlığı kurmak (`18:76`, `31:15`) ve himaye altına alınıp korunmak (`21:43`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 39,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:39",
+      "word_position": 6,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten kimseler ve ayetlerimizi yalan sayanlar yakıcı yıkım yurdu ehli olanlardır, onlar orada temelli kalacaklardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten kimseler ve ayetlerimizi yalan sayanlar yakıcı yıkım yurdu ehli olanlardır, onlar orada temelli kalacaklardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 2,
+      "ayah": 81,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:81",
+      "word_position": 9,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Hayır öyle değil; kötülük işleyip suçu kendisini kuşatmış olan kimseler; yakıcı yıkım yurdu ehli işte onlardır. Onlar orada temellidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَٰطَتْ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır öyle değil; kötülük işleyip suçu kendisini kuşatmış olan kimseler; yakıcı yıkım yurdu ehli işte onlardır. Onlar orada temellidirler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 2,
+      "ayah": 82,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:82",
+      "word_position": 6,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı işler yapan kimseler esenlik bahçesi ehli olanlardır, onlar da orada temellidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı işler yapan kimseler esenlik bahçesi ehli olanlardır, onlar da orada temellidirler.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 2,
+      "ayah": 119,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:119",
+      "word_position": 9,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu Biz, seni hak ile, müjdeci ve uyarıcı olarak göndermişizdir. Sen, yakıcı yıkım yurdu ehlinden sorumlu tutulmayacaksın.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَلَا تُسْـَٔلُ عَنْ أَصْحَٰبِ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu Biz, seni hak ile, müjdeci ve uyarıcı olarak göndermişizdir. Sen, yakıcı yıkım yurdu ehlinden sorumlu tutulmayacaksın.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 53,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz tesli...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. İşte yakıcı yıkım yurdu ehli onlardır, onlar orada temellidirler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 2,
+      "ayah": 257,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:257",
+      "word_position": 20,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "إِلَى ٱلظُّلُمَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Allah güvene erenlerin dostudur, onları karanlıklardan aydınlığa çıkarır. gerçeğin üzerini örtenlerin ise dostları tağuttur. Onları aydınlıktan karanlıklara sür...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَٱلَّذِينَ كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah güvene erenlerin dostudur, onları karanlıklardan aydınlığa çıkarır. gerçeğin üzerini örtenlerin ise dostları tağuttur. Onları aydınlıktan karanlıklara sürüklerler. İşte onlar yakıcı yıkım yurdu ehlidirler, onlar orada temelli kalacaklardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 2,
+      "ayah": 275,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:275",
+      "word_position": 41,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Faiz yiyenler mahşerde ancak saptırıcı yıkıcı gücün çarptığı kimsenin kalktığı gibi kalkarlar. Bu, onların, \"Zaten alışveriş de faiz gibidir\" demelerindendir. O...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Faiz yiyenler mahşerde ancak saptırıcı yıkıcı gücün çarptığı kimsenin kalktığı gibi kalkarlar. Bu, onların, \"Zaten alışveriş de faiz gibidir\" demelerindendir. Oysa Allah alışverişi helal, faizi haram kıldı. Kime Rabb'inden bir öğüt gelir de faizcilikten geri durursa, geçmişi kendisinedir, onun işi Allah'a aittir. Kim faizciliğe dönerse, işte onlar yakıcı yıkım yurdu ehlidir, onlar orada temelli kalacaklardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 3,
+      "ayah": 116,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:116",
+      "word_position": 14,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ٱللَّهِ شَيْـًٔا وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örten kimselerin malları ve çocukları, Allah'tan yana, onlara bir fayda vermeyecektir. İşte onlar yakıcı yıkım yurdu ehlidirler, onlar orada temellidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örten kimselerin malları ve çocukları, Allah'tan yana, onlara bir fayda vermeyecektir. İşte onlar yakıcı yıkım yurdu ehlidirler, onlar orada temellidirler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 4,
+      "ayah": 36,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:36",
+      "word_position": 18,
+      "target_word_uthmani": "وَٱلصَّاحِبِ",
+      "target_word_rasm": "وٱلصاحب",
+      "target_word_literal_irab": "Hemen yanı başındaki yol/meclis arkadaşına (`وَٱلصَّاحِبِ`, marife tekil eril ism-i fâil mecrûr)",
+      "context_snippet_arabic": "ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a kulluk edin, O'na bir şeyi ortak koşmayın. Ana babaya, yakınlara, yetimlere, düşkünlere, yakın komşuya, uzak komşuya, yanınızdaki arkadaşa, yolcuya ve elinizin altında bulunan kimselere iyilik edin. Allah, kendini beğenip öğünenleri elbette sevmez.",
+      "contextual_meaning": "Yanı başındaki fizikî arkadaş (`وَٱلصَّاحِبِ بِٱلْجَنۢبِ` `4:36`): Uzak komşudan ayrı olarak insanın bizzat omuz omuza yürüdüğü, oturduğu veya yolculuk ettiği yakın eşlikçisine iyi davranma görevi."
+    },
+    {
+      "surah": 4,
+      "ayah": 47,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:47",
+      "word_position": 23,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ",
+      "context_snippet_turkish_tabula_rasa": "Ey Kitap verilenler! Yüzleri silip arkaya çevirerek enseler gibi dümdüz yapmadan, yahut cumartesi güncüleri lanetlediğimiz gibi lanetlemeden önce, yanınızdakini tasdik ederek indirdiğimiz Kuran'a güvene erin; Allah'ın emri daima yapılagelmiştir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Kitap verilenler! Yüzleri silip arkaya çevirerek enseler gibi dümdüz yapmadan, yahut cumartesi güncüleri lanetlediğimiz gibi lanetlemeden önce, yanınızdakini tasdik ederek indirdiğimiz Kuran'a güvene erin; Allah'ın emri daima yapılagelmiştir.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 5,
+      "ayah": 10,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:10",
+      "word_position": 6,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenler ve ayetlerimizi yalanlayanlar, işte onlar yakıcı yıkım yurdu ehlidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler ve ayetlerimizi yalanlayanlar, işte onlar yakıcı yıkım yurdu ehlidirler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 5,
+      "ayah": 29,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:29",
+      "word_position": 9,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ جَزَٰٓؤُا۟",
+      "context_snippet_turkish_tabula_rasa": "Ben, hem benim hem de kendi sapma ve kusurunu yüklenip yakıcı yıkım yurdu ehlinden olmanı isterim, zulmedenlerin cezası budur\".",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِنِّىٓ أُرِيدُ أَن تَبُوٓأَ بِإِثْمِى وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَٰبِ ٱلنَّارِ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ben, hem benim hem de kendi sapma ve kusurunu yüklenip yakıcı yıkım yurdu ehlinden olmanı isterim, zulmedenlerin cezası budur\".",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 5,
+      "ayah": 86,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:86",
+      "word_position": 6,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtüp ayetlerimizi yalanlayanlar, işte onlar yakıcı yıkım yurdu ehlidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtüp ayetlerimizi yalanlayanlar, işte onlar yakıcı yıkım yurdu ehlidirler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 6,
+      "ayah": 71,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:71",
+      "word_position": 25,
+      "target_word_uthmani": "أَصْحَٰبٌ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Kendisine seslenen yol arkadaşları (`أَصْحَٰبٌ`, nekre kırık çoğul isim merfû)",
+      "context_snippet_arabic": "ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى",
+      "context_snippet_turkish_tabula_rasa": "... \"Arkadaşları bize gel diye doğru yola çağırırken, saptırıcı yıkıcı güçlerin yeryüzünde şaşırttıkları bir kimse gibi geriye mi dönelim. Allah bizi doğru yola eriştirdikten sonra, bize faydası olmayan, zarar da veremeyen Allah'tan başka şeylere mi yalvaralım?\" De ki, \"Doğru yol ancak Allah'ın yoludur. ...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Arkadaşları bize gel diye doğru yola çağırırken, saptırıcı yıkıcı güçlerin yeryüzünde şaşırttıkları bir kimse gibi geriye mi dönelim. Allah bizi doğru yola eriştirdikten sonra, bize faydası olmayan, zarar da veremeyen Allah'tan başka şeylere mi yalvaralım?\" De ki, \"Doğru yol ancak Allah'ın yoludur. Alemlerin Rabbine teslim olarak irtibat ve sorumluluk bağını ayakta tutun, Allah'tan sakının diye emrolunduk.\" Kendisine toplanacağınız O'dur.",
+      "contextual_meaning": "Çıkış yoluna çağıran gerçek dostlar (`لَهُۥٓ أَصْحَٰبٌ يَدْعُونَهُۥ` `6:71`): Şaşkın kalmış yolcuyu güvenilir yöne davet eden sağduyulu yol arkadaşları."
+    },
+    {
+      "surah": 6,
+      "ayah": 101,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:101",
+      "word_position": 11,
+      "target_word_uthmani": "صَٰحِبَةٌ",
+      "target_word_rasm": "صحبة",
+      "target_word_literal_irab": "Bir dişi ömür eşi (`صَٰحِبَةٌ`, nekre tekil dişil isim merfû)",
+      "context_snippet_arabic": "وَلَمْ تَكُن لَّهُۥ صَٰحِبَةٌ وَخَلَقَ كُلَّ شَىْءٍ",
+      "context_snippet_turkish_tabula_rasa": "O, gökleri ve yeri yoktan yaratandır. Zevcesi olmadan nasıl çocuğu olabilir? Oysa her şeyi O yaratmıştır, her şeyi bilir.",
+      "morphology": {
+        "lemma": "Sa`Hibap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sa`Hibap|ROOT:SHb|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنَّىٰ يَكُونُ لَهُۥ وَلَدٌ وَلَمْ تَكُن لَّهُۥ صَٰحِبَةٌ وَخَلَقَ كُلَّ شَىْءٍ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "O, gökleri ve yeri yoktan yaratandır. Zevcesi olmadan nasıl çocuğu olabilir? Oysa her şeyi O yaratmıştır, her şeyi bilir.",
+      "contextual_meaning": "Ömür eşinden münezzeh Mutlak Birlik (`وَلَمْ تَكُن لَّهُۥ صَٰحِبَةٌ` `6:101`, `72:3`): Biyolojik doğumun dişi eş (`صَٰحِبَة`) koşuluna bağlı olduğu gösterilerek Yaratıcının eş ve çocuktan arınmışlığı ilan edilir."
+    },
+    {
+      "surah": 7,
+      "ayah": 36,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:36",
+      "word_position": 7,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَٱسْتَكْبَرُوا۟ عَنْهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimizi yalanlayıp onlara karşı büyüklük taslayanlara gelince, işte onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱسْتَكْبَرُوا۟ عَنْهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimizi yalanlayıp onlara karşı büyüklük taslayanlara gelince, işte onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 7,
+      "ayah": 42,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:42",
+      "word_position": 11,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "إِلَّا وُسْعَهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "güvene eren ve yararlı iş işleyenler ki kişiye ancak gücünün yeteceği kadar yükleriz işte esenlik bahçesi ehli onlardır, orada temelli kalacaklardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren ve yararlı iş işleyenler ki kişiye ancak gücünün yeteceği kadar yükleriz işte esenlik bahçesi ehli onlardır, orada temelli kalacaklardır.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 7,
+      "ayah": 44,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:44",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "... Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوا۟ نَعَمْ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline: \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 44,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:44",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ",
+      "context_snippet_turkish_tabula_rasa": "... Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا قَالُوا۟ نَعَمْ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "esenlik bahçesi ehli, yakıcı yıkım yurdu ehline: \"Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?\" diye seslenirler, \"Evet\" derler. Aralarında bir münadi, \"Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti gerçeğin üzerini örten zalimleredir\" diye seslenir.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 46,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:46",
+      "word_position": 10,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "كُلًّۢا بِسِيمَىٰهُمْ وَنَادَوْا۟ أَصْحَٰبَ ٱلْجَنَّةِ أَن سَلَٰمٌ",
+      "context_snippet_turkish_tabula_rasa": "İki taraf arasında bir perde ve burçlar üzerinde her iki tarafı da simalarından tanıyan adamlar vardır; esenlik bahçesi ehline, \"Size selam olsun\" derler. ...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَبَيْنَهُمَا حِجَابٌ وَعَلَى ٱلْأَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّۢا بِسِيمَىٰهُمْ وَنَادَوْا۟ أَصْحَٰبَ ٱلْجَنَّةِ أَن سَلَٰمٌ عَلَيْكُمْ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki taraf arasında bir perde ve burçlar üzerinde her iki tarafı da simalarından tanıyan adamlar vardır; esenlik bahçesi ehline, \"Size selam olsun\" derler. Bunlar henüz girmeyen fakat esenlik bahçesini uman kimselerdir.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 7,
+      "ayah": 47,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:47",
+      "word_position": 5,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "صُرِفَتْ أَبْصَٰرُهُمْ تِلْقَآءَ أَصْحَٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا",
+      "context_snippet_turkish_tabula_rasa": "Gözleri yakıcı yıkım yurdu ehli yönüne çevrilince: \"Rabbimiz! Bizi zalimlerle beraber bulundurma\" derler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا صُرِفَتْ أَبْصَٰرُهُمْ تِلْقَآءَ أَصْحَٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gözleri yakıcı yıkım yurdu ehli yönüne çevrilince: \"Rabbimiz! Bizi zalimlerle beraber bulundurma\" derler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 7,
+      "ayah": 48,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:48",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْأَعْرَافِ رِجَالًا يَعْرِفُونَهُم",
+      "context_snippet_turkish_tabula_rasa": "Burçlarda olanlar, simalarından tanıdıkları adamlara; Topluluğunuz, topladığınız mal ve büyüklük taslamalarınız size fayda vermedi. Allah'ın rahmetine erdirmeye...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلْأَعْرَافِ رِجَالًا يَعْرِفُونَهُم بِسِيمَىٰهُمْ قَالُوا۟ مَآ أَغْنَىٰ عَنكُمْ جَمْعُكُمْ وَمَا كُنتُمْ تَسْتَكْبِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Burçlarda olanlar, simalarından tanıdıkları adamlara; Topluluğunuz, topladığınız mal ve büyüklük taslamalarınız size fayda vermedi. Allah'ın rahmetine erdirmeyeceğine bağlayıcı ahit ettikleriniz bunlar mıydı? Oysa Allah onlara şöyle der: \"esenlik bahçesine girin, size korku yoktur, sizler mahzun da olmayacaksınız.\"",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 50,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:50",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam si...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam sistemlerini alay ve eğlenceye alan, dünya hayatına aldanan gerçeğin üzerini örtenlere ikisini de haram etmiştir\" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile gerçeğin üzerini ört gibi biz de onları unutuyoruz.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 50,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:50",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam si...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam sistemlerini alay ve eğlenceye alan, dünya hayatına aldanan gerçeğin üzerini örtenlere ikisini de haram etmiştir\" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile gerçeğin üzerini ört gibi biz de onları unutuyoruz.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 7,
+      "ayah": 184,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:184",
+      "word_position": 4,
+      "target_word_uthmani": "بِصَاحِبِهِم",
+      "target_word_rasm": "بصاحبهم",
+      "target_word_literal_irab": "Yakın arkadaşlarına / arkadaşının (`بِصَاحِبِهِم / لِصَٰحِبِهِۦ / بِصَاحِبِكُم`, zamire muzâf ism-i fâil mecrûr)",
+      "context_snippet_arabic": "أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "Düşünmüyorlar mı ki, arkadaşları olan elçide deliliğin eseri yoktur. O ancak açıkça uyaran bir kimsedir.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|GEN"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Düşünmüyorlar mı ki, arkadaşları olan elçide deliliğin eseri yoktur. O ancak açıkça uyaran bir kimsedir.",
+      "contextual_meaning": "İçlerinden yetişmiş güvenilir tanıdık arkadaş (`صَاحِبُكُمْ / بِصَاحِبِهِم` `7:184`, `34:46`, `53:2`, `81:22`): Elçiyi karalayanların gerçekte ömrü yanlarında geçmiş, akıl tutulmasından uzak yakın arkadaşlarını iyi tanıdıkları hatırlatılır."
+    },
+    {
+      "surah": 9,
+      "ayah": 40,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:40",
+      "word_position": 18,
+      "target_word_uthmani": "لِصَٰحِبِهِۦ",
+      "target_word_rasm": "لصحبه",
+      "target_word_literal_irab": "Yakın arkadaşlarına / arkadaşının (`بِصَاحِبِهِم / لِصَٰحِبِهِۦ / بِصَاحِبِكُم`, zamire muzâf ism-i fâil mecrûr)",
+      "context_snippet_arabic": "ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ",
+      "context_snippet_turkish_tabula_rasa": "Ona (Muhammed'e) yardım etmezseniz, bilin ki, gerçeğin üzerini örtenler onu Mekke'den çıkardıklarında mağarada bulunan iki kişiden biri olarak Allah ona yardım etmişti. Arkadaşına (Ebu Bekir'e) \"Üzülme, Allah bizimledir\" diyordu; Allah da ona güven vermiş, görmediğiniz askerlerle onu desteklemiş, gerçeğin üzerini örtenlerin sözünü alçaltmıştı. ...",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|GEN"
+      },
+      "ayah_text_arabic_full": "إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ona (Muhammed'e) yardım etmezseniz, bilin ki, gerçeğin üzerini örtenler onu Mekke'den çıkardıklarında mağarada bulunan iki kişiden biri olarak Allah ona yardım etmişti. Arkadaşına (Ebu Bekir'e) \"Üzülme, Allah bizimledir\" diyordu; Allah da ona güven vermiş, görmediğiniz askerlerle onu desteklemiş, gerçeğin üzerini örtenlerin sözünü alçaltmıştı. Ancak Allah'ın sözü yücedir. Allah güçlüdür, hakimdir.",
+      "contextual_meaning": "Mağaradaki kritik yol arkadaşlığı (`لِصَٰحِبِهِۦ لَا تَحْزَنْ` `9:40`): Kuşatma anında iki kişiden birinin diğerini teskin ettiği ve iç huzurla desteklenen omuz omuza yoldaşlık."
+    },
+    {
+      "surah": 9,
+      "ayah": 70,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:70",
+      "word_position": 13,
+      "target_word_uthmani": "وَأَصْحَٰبِ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerinden önce olan Nuh, Ad, Semud milletlerinin, İbrahim milletinin, Medyen ve altüst olmuş şehirler halkının haberleri onlara gelmedi mi? elçileri onlara ...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerinden önce olan Nuh, Ad, Semud milletlerinin, İbrahim milletinin, Medyen ve altüst olmuş şehirler halkının haberleri onlara gelmedi mi? elçileri onlara belgeler getirmişlerdi. Allah onlara zulmetmemiş, onlar kendilerine yazık etmişlerdir.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 9,
+      "ayah": 113,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:113",
+      "word_position": 19,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehli oldukları anlaşıldıktan sonra, akraba bile olsalar, puta tapanlar için mağfiret dilemek elçi'e ve güvene erenlere yaraşmaz.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "مَا كَانَ لِلنَّبِىِّ وَٱلَّذِينَ ءَامَنُوٓا۟ أَن يَسْتَغْفِرُوا۟ لِلْمُشْرِكِينَ وَلَوْ كَانُوٓا۟ أُو۟لِى قُرْبَىٰ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehli oldukları anlaşıldıktan sonra, akraba bile olsalar, puta tapanlar için mağfiret dilemek elçi'e ve güvene erenlere yaraşmaz.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 10,
+      "ayah": 26,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:26",
+      "word_position": 12,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَلَا ذِلَّةٌ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "İyi davrananlara; daima daha iyisi ve üstünü verilir. Onların yüzlerine ne bir karalık, ne de zillet bulaşır. İşte onlar esenlik bahçesi ehlidirler, orada temel...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لِّلَّذِينَ أَحْسَنُوا۟ ٱلْحُسْنَىٰ وَزِيَادَةٌ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌ وَلَا ذِلَّةٌ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyi davrananlara; daima daha iyisi ve üstünü verilir. Onların yüzlerine ne bir karalık, ne de zillet bulaşır. İşte onlar esenlik bahçesi ehlidirler, orada temelli kalırlar.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 10,
+      "ayah": 27,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:27",
+      "word_position": 23,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ٱلَّيْلِ مُظْلِمًا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Kötülük işleyenlere kötülükleri kadar ceza verilir; onların yüzlerini zillet bürür; Allah'a karşı onları savunacak yoktur; yüzleri, geceden kara bir parçayla ör...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük işleyenlere kötülükleri kadar ceza verilir; onların yüzlerini zillet bürür; Allah'a karşı onları savunacak yoktur; yüzleri, geceden kara bir parçayla örtülmüş gibidir. Bunlar yakıcı yıkım yurdu ehlidirler, orada temelli kalırlar.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 11,
+      "ayah": 23,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:23",
+      "word_position": 10,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "إِلَىٰ رَبِّهِمْ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu güvene eren ve yararlı iş yapanlar ve Rablerine boyun eğenler, işte onlar esenlik bahçesi ehlidirler; orada temellidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَخْبَتُوٓا۟ إِلَىٰ رَبِّهِمْ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu güvene eren ve yararlı iş yapanlar ve Rablerine boyun eğenler, işte onlar esenlik bahçesi ehlidirler; orada temellidirler.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 12,
+      "ayah": 39,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:39",
+      "word_position": 1,
+      "target_word_uthmani": "يَٰصَىٰحِبَىِ",
+      "target_word_rasm": "يصىحبى",
+      "target_word_literal_irab": "Ey iki zindan arkadaşım (`يَٰصَىٰحِبَىِ`, nida + ikil muzâf isim — `ى` kürsülü çekerle yazılır)",
+      "context_snippet_arabic": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌ مُّتَفَرِّقُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey mahpus arkadaşlarım! Ayrı ayrı bir sürü uydurma rabler mi daha iyidir, yoksa her şeyden üstün tek Allah mı?\"",
+      "morphology": {
+        "lemma": "SaY`Hib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaY`Hib|ROOT:SHb|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey mahpus arkadaşlarım! Ayrı ayrı bir sürü uydurma rabler mi daha iyidir, yoksa her şeyden üstün tek Allah mı?\"",
+      "contextual_meaning": "Zindan arkadaşlarına ortak mesaj (`يَٰصَىٰحِبَىِ ٱلسِّجْنِ` `12:39,41`): Yûsuf'un aynı dar mekânı paylaştığı iki tutukluya tek ve her şeye gücü yeten Yaratıcıyı anlatması."
+    },
+    {
+      "surah": 12,
+      "ayah": 41,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:41",
+      "word_position": 1,
+      "target_word_uthmani": "يَٰصَىٰحِبَىِ",
+      "target_word_rasm": "يصىحبى",
+      "target_word_literal_irab": "Ey iki zindan arkadaşım (`يَٰصَىٰحِبَىِ`, nida + ikil muzâf isim — `ى` kürsülü çekerle yazılır)",
+      "context_snippet_arabic": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا",
+      "context_snippet_turkish_tabula_rasa": "\"Ey mahpus arkadaşlarım! Biriniz efendinize şarap sunacak, diğeri asılacak ve kuşlar başından yiyecektir. Sorduğunuz iş işte böylece kesinleşmiştir.\"",
+      "morphology": {
+        "lemma": "SaY`Hib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaY`Hib|ROOT:SHb|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey mahpus arkadaşlarım! Biriniz efendinize şarap sunacak, diğeri asılacak ve kuşlar başından yiyecektir. Sorduğunuz iş işte böylece kesinleşmiştir.\"",
+      "contextual_meaning": "Zindan arkadaşlarına ortak mesaj (`يَٰصَىٰحِبَىِ ٱلسِّجْنِ` `12:39,41`): Yûsuf'un aynı dar mekânı paylaştığı iki tutukluya tek ve her şeye gücü yeten Yaratıcıyı anlatması."
+    },
+    {
+      "surah": 13,
+      "ayah": 5,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:5",
+      "word_position": 21,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "فِىٓ أَعْنَاقِهِمْ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Şaşacaksan, onların: \"Biz toprak olunca mı yeniden yaratılacağız?\" demelerine şaşmak gerekir. İşte onlar Rablerini gerçeğin üzerini örtenlerdir. İşte onlar boyu...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍ جَدِيدٍ أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ وَأُو۟لَٰٓئِكَ ٱلْأَغْلَٰلُ فِىٓ أَعْنَاقِهِمْ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şaşacaksan, onların: \"Biz toprak olunca mı yeniden yaratılacağız?\" demelerine şaşmak gerekir. İşte onlar Rablerini gerçeğin üzerini örtenlerdir. İşte onlar boyunlarına demir halkalar vurulanlardır. İşte onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 15,
+      "ayah": 78,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:78",
+      "word_position": 3,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَإِن كَانَ أَصْحَٰبُ ٱلْأَيْكَةِ لَظَٰلِمِينَ",
+      "context_snippet_turkish_tabula_rasa": "Eykeliler de, şüphesiz zalim kimselerdi.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن كَانَ أَصْحَٰبُ ٱلْأَيْكَةِ لَظَٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eykeliler de, şüphesiz zalim kimselerdi.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 15,
+      "ayah": 80,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:80",
+      "word_position": 3,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَلَقَدْ كَذَّبَ أَصْحَٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, Hicr halkı elçiyi yalanlamışlardı.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ كَذَّبَ أَصْحَٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Hicr halkı elçiyi yalanlamışlardı.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 18,
+      "ayah": 9,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:9",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Yoksa sen Mağara ve Kitap ehlini şaşılacak ayetlerimizden mi zannettin?",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "أَمْ حَسِبْتَ أَنَّ أَصْحَٰبَ ٱلْكَهْفِ وَٱلرَّقِيمِ كَانُوا۟ مِنْ ءَايَٰتِنَا عَجَبًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa sen Mağara ve Kitap ehlini şaşılacak ayetlerimizden mi zannettin?",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 18,
+      "ayah": 34,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:34",
+      "word_position": 5,
+      "target_word_uthmani": "لِصَٰحِبِهِۦ",
+      "target_word_rasm": "لصحبه",
+      "target_word_literal_irab": "Yakın arkadaşlarına / arkadaşının (`بِصَاحِبِهِم / لِصَٰحِبِهِۦ / بِصَاحِبِكُم`, zamire muzâf ism-i fâil mecrûr)",
+      "context_snippet_arabic": "لَهُۥ ثَمَرٌ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "Onun gelirleri de vardı. Bu yüzden, arkadaşiyle konuşurken: \"Ben malca senden zengin, nüfusça da senden daha itibarlıyım\" dedi.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَانَ لَهُۥ ثَمَرٌ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onun gelirleri de vardı. Bu yüzden, arkadaşiyle konuşurken: \"Ben malca senden zengin, nüfusça da senden daha itibarlıyım\" dedi.",
+      "contextual_meaning": "İki bağ arkadaşının imtihanı (`لِصَٰحِبِهِۦ / صَاحِبُهُۥ` `18:34,37`): Mal ve çevre çokluğuyla övünen kişiye yol arkadaşının insanın topraktan yaratılışını hatırlatması."
+    },
+    {
+      "surah": 18,
+      "ayah": 37,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:37",
+      "word_position": 3,
+      "target_word_uthmani": "صَاحِبُهُۥ",
+      "target_word_rasm": "صاحبه",
+      "target_word_literal_irab": "Yakın arkadaşınız / arkadaşı (`صَاحِبُهُۥ / صَاحِبُكُمْ`, zamire muzâf ism-i fâil merfû)",
+      "context_snippet_arabic": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ",
+      "context_snippet_turkish_tabula_rasa": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. ...",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ سَوَّىٰكَ رَجُلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendisiyle konuştuğu arkadaşı ona: \"Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı gerçeğin üzerini ört? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: \"Maşallah! Kuvvet ancak Allah'a mahsustur!\" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın\" dedi.",
+      "contextual_meaning": "İki bağ arkadaşının imtihanı (`لِصَٰحِبِهِۦ / صَاحِبُهُۥ` `18:34,37`): Mal ve çevre çokluğuyla övünen kişiye yol arkadaşının insanın topraktan yaratılışını hatırlatması."
+    },
+    {
+      "surah": 18,
+      "ayah": 76,
+      "surah_name": "Kehf",
+      "ayah_ref": "18:76",
+      "word_position": 8,
+      "target_word_uthmani": "تُصَٰحِبْنِى",
+      "target_word_rasm": "تصحبنى",
+      "target_word_literal_irab": "Bana yol arkadaşlığı etme (`تُصَٰحِبْنِى`, III. bab muzârî meczûm, 2. tekil eril + kaynaştırma `ن` + 1. tekil)",
+      "context_snippet_arabic": "شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى قَدْ بَلَغْتَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Bundan sonra sana bir şey sorarsam bana arkadaş olma, o zaman benim tarafımdan mazur sayılırsın\" dedi.",
+      "morphology": {
+        "lemma": "tuSa`Hibo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(III)|LEM:tuSa`Hibo|ROOT:SHb|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ إِن سَأَلْتُكَ عَن شَىْءٍۭ بَعْدَهَا فَلَا تُصَٰحِبْنِى قَدْ بَلَغْتَ مِن لَّدُنِّى عُذْرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Bundan sonra sana bir şey sorarsam bana arkadaş olma, o zaman benim tarafımdan mazur sayılırsın\" dedi.",
+      "contextual_meaning": "Yol arkadaşlığı sınırı (`فَلَا تُصَاحِبْنِى` `18:76` III. bab): Mûsâ'nın bilge yol arkadaşına üçüncü sorudan sonra yol arkadaşlığını bitirme koşulu koyması."
+    },
+    {
+      "surah": 20,
+      "ayah": 135,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:135",
+      "word_position": 7,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "فَتَرَبَّصُوا۟ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Herkes gözlemektedir, siz de gözleyin. Şüphesiz düz yolun sahiplerinin kimler olduğunu ve kimlerin doğru yolda bulunduğunu bileceksiniz.\"",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْ كُلٌّ مُّتَرَبِّصٌ فَتَرَبَّصُوا۟ فَسَتَعْلَمُونَ مَنْ أَصْحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِىِّ وَمَنِ ٱهْتَدَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Herkes gözlemektedir, siz de gözleyin. Şüphesiz düz yolun sahiplerinin kimler olduğunu ve kimlerin doğru yolda bulunduğunu bileceksiniz.\"",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 21,
+      "ayah": 43,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:43",
+      "word_position": 14,
+      "target_word_uthmani": "يُصْحَبُونَ",
+      "target_word_rasm": "يصحبون",
+      "target_word_literal_irab": "Bizden yana sahiplenilip korunmazlar (`يُصْحَبُونَ`, I. bab meçhul muzârî merfû, 3. çoğul eril)",
+      "context_snippet_arabic": "وَلَا هُم مِّنَّا يُصْحَبُونَ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa kendilerini bize karşı savunacak sahte sığınakları mı var? O sahte sığınaklar kendilerine bile yardım edemezler. Katımızdan da dostluk görmezler.",
+      "morphology": {
+        "lemma": "yuSoHabu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:yuSoHabu|ROOT:SHb|3MP"
+      },
+      "ayah_text_arabic_full": "أَمْ لَهُمْ ءَالِهَةٌ تَمْنَعُهُم مِّن دُونِنَا لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa kendilerini bize karşı savunacak sahte sığınakları mı var? O sahte sığınaklar kendilerine bile yardım edemezler. Katımızdan da dostluk görmezler.",
+      "contextual_meaning": "Himaye ve korumadan yoksunluk (`وَلَا هُم مِّنَّا يُصْحَبُونَ` `21:43` I. bab meçhul): Sözde koruyucu odakların kendi taraftarlarını ilâhî yaptırımdan sahiplenip kurtaramayacağı uyarısı."
+    },
+    {
+      "surah": 22,
+      "ayah": 44,
+      "surah_name": "Hac",
+      "ayah_ref": "22:44",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ مَدْيَنَ وَكُذِّبَ مُوسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... Ama Ben, gerçeğin üzerini örtenlere önce mehil verdim, sonra da onları yakalayıverdim; Beni tanımamak nasılmış görsünler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ مَدْيَنَ وَكُذِّبَ مُوسَىٰ فَأَمْلَيْتُ لِلْكَٰفِرِينَ ثُمَّ أَخَذْتُهُمْ فَكَيْفَ كَانَ نَكِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Seni yalancı sayıyorlarsa bil ki, onlardan önce Nuh milleti, Ad, Semud, İbrahim milleti, Lut milleti ve Medyen halkı da elçilerini yalancı saymış ve Musa da yalanlanmıştı. Ama Ben, gerçeğin üzerini örtenlere önce mehil verdim, sonra da onları yakalayıverdim; Beni tanımamak nasılmış görsünler.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 22,
+      "ayah": 51,
+      "surah_name": "Hac",
+      "ayah_ref": "22:51",
+      "word_position": 7,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimizi tartışarak bozmağa uğraşanlar, işte onlar yakıcı yıkım yurdu ehlidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimizi tartışarak bozmağa uğraşanlar, işte onlar yakıcı yıkım yurdu ehlidirler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 25,
+      "ayah": 24,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:24",
+      "word_position": 1,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "أَصْحَٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "O gün, esenlik bahçesi ehlinin kalacağı yer çok iyi, dinlenecekleri yer çok güzeldir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أَصْحَٰبُ ٱلْجَنَّةِ يَوْمَئِذٍ خَيْرٌ مُّسْتَقَرًّا وَأَحْسَنُ مَقِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, esenlik bahçesi ehlinin kalacağı yer çok iyi, dinlenecekleri yer çok güzeldir.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 25,
+      "ayah": 38,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:38",
+      "word_position": 3,
+      "target_word_uthmani": "وَأَصْحَٰبَ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "وَعَادًا وَثَمُودَا۟ وَأَصْحَٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ",
+      "context_snippet_turkish_tabula_rasa": "Ad, Semud milletleri ile Ress'lileri ve bunların arasında birçok nesilleri de yerle bir ettik.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَعَادًا وَثَمُودَا۟ وَأَصْحَٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ad, Semud milletleri ile Ress'lileri ve bunların arasında birçok nesilleri de yerle bir ettik.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 26,
+      "ayah": 61,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:61",
+      "word_position": 5,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ",
+      "context_snippet_turkish_tabula_rasa": "İki topluluk birbirini gördüğünde, Musa'nın adamları: \"İşte yakalandık\" dediler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İki topluluk birbirini gördüğünde, Musa'nın adamları: \"İşte yakalandık\" dediler.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 26,
+      "ayah": 176,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:176",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "كَذَّبَ أَصْحَٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+      "context_snippet_turkish_tabula_rasa": "Ormanlık yerde oturanlar, Eykeliler de elçileri yalanladı.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "كَذَّبَ أَصْحَٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ormanlık yerde oturanlar, Eykeliler de elçileri yalanladı.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 29,
+      "ayah": 15,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:15",
+      "word_position": 2,
+      "target_word_uthmani": "وَأَصْحَٰبَ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "فَأَنجَيْنَٰهُ وَأَصْحَٰبَ ٱلسَّفِينَةِ وَجَعَلْنَٰهَآ ءَايَةً",
+      "context_snippet_turkish_tabula_rasa": "Ama Biz, Nuh'u ve gemide bulunanları kurtardık ve bunu dünyalara bir ibret kıldık.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَنجَيْنَٰهُ وَأَصْحَٰبَ ٱلسَّفِينَةِ وَجَعَلْنَٰهَآ ءَايَةً لِّلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama Biz, Nuh'u ve gemide bulunanları kurtardık ve bunu dünyalara bir ibret kıldık.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 31,
+      "ayah": 15,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:15",
+      "word_position": 14,
+      "target_word_uthmani": "وَصَاحِبْهُمَا",
+      "target_word_rasm": "وصاحبهما",
+      "target_word_literal_irab": "İkisine güzelce arkadaşlık et (`وَصَاحِبْهُمَا`, III. bab emir, 2. tekil eril + ikil zamir)",
+      "context_snippet_arabic": "عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًا",
+      "context_snippet_turkish_tabula_rasa": "Ey insanoğlu! Ana baba, seni, körü körüne Bana ortak koşman için zorlarlarsa, onlara itaat etme; dünya işlerinde onlarla güzel geçin; Bana yönelen kimsenin yolu...",
+      "morphology": {
+        "lemma": "tuSa`Hibo",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(III)|LEM:tuSa`Hibo|ROOT:SHb|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًا وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey insanoğlu! Ana baba, seni, körü körüne Bana ortak koşman için zorlarlarsa, onlara itaat etme; dünya işlerinde onlarla güzel geçin; Bana yönelen kimsenin yoluna uy; sonunda dönüşünüz Bana'dır. O zaman, yaptıklarınızı size bildiririm.",
+      "contextual_meaning": "İlke ayrımına rağmen güzelce arkadaşlık (`وَصَاحِبْهُمَا فِى ٱلدُّنْيَا مَعْرُوفًا` `31:15` III. bab): İnançta baskı yapsalar bile anne ve babaya yanlışta uymayıp dünya ilişkisinde onurlu arkadaşlığı sürdürme dengesi."
+    },
+    {
+      "surah": 34,
+      "ayah": 46,
+      "surah_name": "Sebe'",
+      "ayah_ref": "34:46",
+      "word_position": 13,
+      "target_word_uthmani": "بِصَاحِبِكُم",
+      "target_word_rasm": "بصاحبكم",
+      "target_word_literal_irab": "Yakın arkadaşlarına / arkadaşının (`بِصَاحِبِهِم / لِصَٰحِبِهِۦ / بِصَاحِبِكُم`, zamire muzâf ism-i fâil mecrûr)",
+      "context_snippet_arabic": "ثُمَّ تَتَفَكَّرُوا۟ مَا بِصَاحِبِكُم مِّن جِنَّةٍ إِنْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah için ikişer ikişer ve tek tek kalkınız, sonra düşününüz, göreceksiniz ki arkadaşınızda bir delilik yoktur. O yalnız çetin bir azabın öncesinde sizi uyarmaktadır. ...",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟ مَا بِصَاحِبِكُم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Size tek bir öğüdüm vardır: Allah için ikişer ikişer ve tek tek kalkınız, sonra düşününüz, göreceksiniz ki arkadaşınızda bir delilik yoktur. O yalnız çetin bir azabın öncesinde sizi uyarmaktadır.\"",
+      "contextual_meaning": "İçlerinden yetişmiş güvenilir tanıdık arkadaş (`صَاحِبُكُمْ / بِصَاحِبِهِم` `7:184`, `34:46`, `53:2`, `81:22`): Elçiyi karalayanların gerçekte ömrü yanlarında geçmiş, akıl tutulmasından uzak yakın arkadaşlarını iyi tanıdıkları hatırlatılır."
+    },
+    {
+      "surah": 35,
+      "ayah": 6,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:6",
+      "word_position": 12,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَٰبِ ٱلسَّعِيرِ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç şüphesiz sizin düşmanınızdır; siz de onu düşman tutun; o, kendi taraftarlarını, çılgın alevli yakıcı yıkım yurdu yaranı olmaya çağırır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلشَّيْطَٰنَ لَكُمْ عَدُوٌّ فَٱتَّخِذُوهُ عَدُوًّا إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَٰبِ ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç şüphesiz sizin düşmanınızdır; siz de onu düşman tutun; o, kendi taraftarlarını, çılgın alevli yakıcı yıkım yurdu yaranı olmaya çağırır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 36,
+      "ayah": 13,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:13",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا",
+      "context_snippet_turkish_tabula_rasa": "İnsanlara, halkına elçiler gelen şehri mesel olarak anlat:",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlara, halkına elçiler gelen şehri mesel olarak anlat:",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 36,
+      "ayah": 55,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:55",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "إِنَّ أَصْحَٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu bugün, esenlik bahçesi ehli eğlenceyle meşguldürler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ أَصْحَٰبَ ٱلْجَنَّةِ ٱلْيَوْمَ فِى شُغُلٍ فَٰكِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu bugün, esenlik bahçesi ehli eğlenceyle meşguldürler.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 38,
+      "ayah": 13,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:13",
+      "word_position": 4,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَٰبُ لْـَٔيْكَةِ أُو۟لَٰٓئِكَ ٱلْأَحْزَابُ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan önce Nuh milleti, Ad, sarsılmaz bir saltanatın sahibi Firavun, Semud, Lut milleti, Eykeliler de elçileri yalanlamıştı. İşte bunlar da elçilerine karşı birleşen topluluklardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَثَمُودُ وَقَوْمُ لُوطٍ وَأَصْحَٰبُ لْـَٔيْكَةِ أُو۟لَٰٓئِكَ ٱلْأَحْزَابُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan önce Nuh milleti, Ad, sarsılmaz bir saltanatın sahibi Firavun, Semud, Lut milleti, Eykeliler de elçileri yalanlamıştı. İşte bunlar da elçilerine karşı birleşen topluluklardır.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 39,
+      "ayah": 8,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:8",
+      "word_position": 33,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "قَلِيلًا إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "... Sonra Allah, katından bir nimet verince önceden kime yalvarmış olduğunu unutuverir; Allah'ın yolundan saptırmak için O'na eşler koşar. De ki: ...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِۦ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا إِنَّكَ مِنْ أَصْحَٰبِ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanın başına bir sıkıntı gelince Rabbine yönelerek O'na yalvarır. Sonra Allah, katından bir nimet verince önceden kime yalvarmış olduğunu unutuverir; Allah'ın yolundan saptırmak için O'na eşler koşar. De ki: \"gerçeğin üzerini örtmenle az bir müddet zevklen, şüphesiz sen yakıcı yıkım yurdu ehlisin.\"",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 40,
+      "ayah": 6,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:6",
+      "word_position": 9,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtenlerin yakıcı yıkım yurdu ehli olduklarına dair Rabbinin sözü böylece gerçekleşti.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ حَقَّتْ كَلِمَتُ رَبِّكَ عَلَى ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ أَصْحَٰبُ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenlerin yakıcı yıkım yurdu ehli olduklarına dair Rabbinin sözü böylece gerçekleşti.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 40,
+      "ayah": 43,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:43",
+      "word_position": 21,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "\"Beni kendisine çağırdığınızın, bu dünyada da ahirette de çağırabilecek kabiliyette olmadığında, hepimizin Allah'a döneceğinde, aşırı gidenlerin ateşlikler olduklarında şüphe yoktur. \"",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَا جَرَمَ أَنَّمَا تَدْعُونَنِىٓ إِلَيْهِ لَيْسَ لَهُۥ دَعْوَةٌ فِى ٱلدُّنْيَا وَلَا فِى ٱلْءَاخِرَةِ وَأَنَّ مَرَدَّنَآ إِلَى ٱللَّهِ وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَٰبُ ٱلنَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Beni kendisine çağırdığınızın, bu dünyada da ahirette de çağırabilecek kabiliyette olmadığında, hepimizin Allah'a döneceğinde, aşırı gidenlerin ateşlikler olduklarında şüphe yoktur.\"",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 46,
+      "ayah": 14,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:14",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "İşte onlar, esenlik bahçesi ehlidirler; işlediklerine karşılık olarak, içinde temelli kalacaklardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte onlar, esenlik bahçesi ehlidirler; işlediklerine karşılık olarak, içinde temelli kalacaklardır.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 46,
+      "ayah": 16,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:16",
+      "word_position": 12,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ وَعْدَ ٱلصِّدْقِ",
+      "context_snippet_turkish_tabula_rasa": "İşte, işlediklerini en güzel şekilde kabul ettiğimiz ve kötülüklerini geçtiğimiz bu kimseler, esenlik bahçesi ehli içindedirler. Bu, verilen doğru bir sözdür.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ نَتَقَبَّلُ عَنْهُمْ أَحْسَنَ مَا عَمِلُوا۟ وَنَتَجَاوَزُ عَن سَيِّـَٔاتِهِمْ فِىٓ أَصْحَٰبِ ٱلْجَنَّةِ وَعْدَ ٱلصِّدْقِ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte, işlediklerini en güzel şekilde kabul ettiğimiz ve kötülüklerini geçtiğimiz bu kimseler, esenlik bahçesi ehli içindedirler. Bu, verilen doğru bir sözdür.",
+      "contextual_meaning": "Esenlik bahçesi veya dosdoğru güzergâh ehli (`أَصْحَٰبُ ٱلْجَنَّةِ / ٱلصِّرَٰطِ ٱلسَّوِىِّ` `2:82`, `7:42`, `20:135`, `36:55`, `46:14`): Güven ve erdemli eylemleriyle kalıcı esenlik alanının sürekli sakinleri."
+    },
+    {
+      "surah": 50,
+      "ayah": 12,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:12",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi elçileri yalanlamışlardı da tehdidim gerçekleşmişti.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi elçileri yalanlamışlardı da tehdidim gerçekleşmişti.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 50,
+      "ayah": 14,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:14",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ",
+      "context_snippet_turkish_tabula_rasa": "Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi elçileri yalanlamışlardı da tehdidim gerçekleşmişti.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi elçileri yalanlamışlardı da tehdidim gerçekleşmişti.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 51,
+      "ayah": 59,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:59",
+      "word_position": 7,
+      "target_word_uthmani": "أَصْحَٰبِهِمْ",
+      "target_word_rasm": "أصحبهم",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
+      "context_snippet_turkish_tabula_rasa": "Zulmedenlerin, geçmiş arkadaşlarının suçlarına benzer suçları vardır; cezalarını Benden acele istemesinler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Zulmedenlerin, geçmiş arkadaşlarının suçlarına benzer suçları vardır; cezalarını Benden acele istemesinler.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 53,
+      "ayah": 2,
+      "surah_name": "Necm",
+      "ayah_ref": "53:2",
+      "word_position": 3,
+      "target_word_uthmani": "صَاحِبُكُمْ",
+      "target_word_rasm": "صاحبكم",
+      "target_word_literal_irab": "Yakın arkadaşınız / arkadaşı (`صَاحِبُهُۥ / صَاحِبُكُمْ`, zamire muzâf ism-i fâil merfû)",
+      "context_snippet_arabic": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Arkadaşınız (Muhammed) sapmamış ve azmamıştır.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|NOM"
+      },
+      "ayah_text_arabic_full": "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Arkadaşınız (Muhammed) sapmamış ve azmamıştır.",
+      "contextual_meaning": "İçlerinden yetişmiş güvenilir tanıdık arkadaş (`صَاحِبُكُمْ / بِصَاحِبِهِم` `7:184`, `34:46`, `53:2`, `81:22`): Elçiyi karalayanların gerçekte ömrü yanlarında geçmiş, akıl tutulmasından uzak yakın arkadaşlarını iyi tanıdıkları hatırlatılır."
+    },
+    {
+      "surah": 54,
+      "ayah": 29,
+      "surah_name": "Kamer",
+      "ayah_ref": "54:29",
+      "word_position": 2,
+      "target_word_uthmani": "صَاحِبَهُمْ",
+      "target_word_rasm": "صاحبهم",
+      "target_word_literal_irab": "İçlerinden çağırdıkları adamlarını/arkadaşlarını (`صَاحِبَهُمْ`, zamire muzâf ism-i fâil mansûb)",
+      "context_snippet_arabic": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+      "context_snippet_turkish_tabula_rasa": "Ama bir arkadaşlarını çağırdılar, o da kılıcını alarak deveyi kesti.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|ACC"
+      },
+      "ayah_text_arabic_full": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama bir arkadaşlarını çağırdılar, o da kılıcını alarak deveyi kesti.",
+      "contextual_meaning": "Bozgunculuk için öne sürülen adam (`فَنَادَوْا۟ صَاحِبَهُمْ` `54:29`): Semûd toplumunun suikast için kendi içlerinden çağırıp görevlendirdiği yoldaşları."
+    },
+    {
+      "surah": 56,
+      "ayah": 8,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:8",
+      "word_position": 1,
+      "target_word_uthmani": "فَأَصْحَٰبُ",
+      "target_word_rasm": "فأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "İyi işler işlediklerini belirtmek için, amel defterleri sağdan verilenler; ne mutlu o sağcılara!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "İyi işler işlediklerini belirtmek için, amel defterleri sağdan verilenler; ne mutlu o sağcılara!",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 8,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:8",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "context_snippet_turkish_tabula_rasa": "İyi işler işlediklerini belirtmek için, amel defterleri sağdan verilenler; ne mutlu o sağcılara!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "İyi işler işlediklerini belirtmek için, amel defterleri sağdan verilenler; ne mutlu o sağcılara!",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 9,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:9",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "Kötülük işlediklerini belirtmek üzere, amel defterleri soldan verilenler; ne yazık o solculara!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük işlediklerini belirtmek üzere, amel defterleri soldan verilenler; ne yazık o solculara!",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 9,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:9",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "context_snippet_turkish_tabula_rasa": "Kötülük işlediklerini belirtmek üzere, amel defterleri soldan verilenler; ne yazık o solculara!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kötülük işlediklerini belirtmek üzere, amel defterleri soldan verilenler; ne yazık o solculara!",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 27,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:27",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 27,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:27",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 38,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:38",
+      "word_position": 1,
+      "target_word_uthmani": "لِّأَصْحَٰبِ",
+      "target_word_rasm": "لأصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "لِّأَصْحَٰبِ ٱلْيَمِينِ",
+      "context_snippet_turkish_tabula_rasa": "Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "لِّأَصْحَٰبِ ٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 41,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:41",
+      "word_position": 1,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ",
+      "context_snippet_turkish_tabula_rasa": "Defterleri soldan verilenler; ne yazık o solculara!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Defterleri soldan verilenler; ne yazık o solculara!",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 41,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:41",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ",
+      "context_snippet_turkish_tabula_rasa": "Defterleri soldan verilenler; ne yazık o solculara!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَأَصْحَٰبُ ٱلشِّمَالِ مَآ أَصْحَٰبُ ٱلشِّمَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "Defterleri soldan verilenler; ne yazık o solculara!",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 90,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:90",
+      "word_position": 5,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "context_snippet_turkish_tabula_rasa": "Eğer defteri sağdan verilenlerden ise,",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer defteri sağdan verilenlerden ise,",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 56,
+      "ayah": 91,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:91",
+      "word_position": 4,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "فَسَلَٰمٌ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey sağcılardan olan kişi, sana selam olsun!\" denir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَسَلَٰمٌ لَّكَ مِنْ أَصْحَٰبِ ٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey sağcılardan olan kişi, sana selam olsun!\" denir.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 57,
+      "ayah": 19,
+      "surah_name": "Hadîd",
+      "ayah_ref": "57:19",
+      "word_position": 19,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtüp ayetlerimizi yalanlayanlar, işte onlar da, yakıcı yıkım yurdu ehli olanlardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a ve elçilerine güvene erenlere, dosdoğru olanlara ve Allah yolunda şehit düşenlere, işte onlara, Rableri katında nur ve ecir vardır. gerçeğin üzerini örtüp ayetlerimizi yalanlayanlar, işte onlar da, yakıcı yıkım yurdu ehli olanlardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 58,
+      "ayah": 17,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:17",
+      "word_position": 11,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ٱللَّهِ شَيْـًٔا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Malları ve çocukları, onlara, Allah katında bir fayda sağlamaz. Onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَّن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Malları ve çocukları, onlara, Allah katında bir fayda sağlamaz. Onlar yakıcı yıkım yurdu ehlidirler, orada temelli kalacaklardır.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 59,
+      "ayah": 20,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:20",
+      "word_position": 3,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 59,
+      "ayah": 20,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:20",
+      "word_position": 5,
+      "target_word_uthmani": "وَأَصْحَٰبُ",
+      "target_word_rasm": "وأصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 59,
+      "ayah": 20,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:20",
+      "word_position": 7,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehliyle esenlik bahçesi ehli bir değildir. Kurtuluşa ermiş kimseler esenlik bahçesi ehlidirler.",
+      "contextual_meaning": "Karşıt sonuç ehlinin yüzleşmesi (`أَصْحَٰبُ ٱلْجَنَّةِ` ve `أَصْحَٰبُ ٱلنَّارِ / ٱلْأَعْرَافِ` `7:44-50`, `59:20`): Esenlik yurdu ehli ile ateş ehlinin hiçbir biçimde denk olamayacağı ilkesi."
+    },
+    {
+      "surah": 60,
+      "ayah": 13,
+      "surah_name": "Mümtehine",
+      "ayah_ref": "60:13",
+      "word_position": 18,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَٰبِ ٱلْقُبُورِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın gazabına uğramış milleti dost edinmeyin; gerçeğin üzerini örtenlerin kabirde bulunan kimselerden umutlarını kestikleri gibi, onlar d...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْءَاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَٰبِ ٱلْقُبُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın gazabına uğramış milleti dost edinmeyin; gerçeğin üzerini örtenlerin kabirde bulunan kimselerden umutlarını kestikleri gibi, onlar da, ahiretten umutlarını kesmişlerdir.",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 64,
+      "ayah": 10,
+      "surah_name": "Tegābün",
+      "ayah_ref": "64:10",
+      "word_position": 6,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "gerçeğin üzerini örtüp, ayetlerimizi yalanlayanlar, işte onlar da ateşliklerdir, orada temellidirler. Ne kötü bir dönüştür!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَا وَبِئْسَ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtüp, ayetlerimizi yalanlayanlar, işte onlar da ateşliklerdir, orada temellidirler. Ne kötü bir dönüştür!",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 67,
+      "ayah": 10,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:10",
+      "word_position": 10,
+      "target_word_uthmani": "أَصْحَٰبِ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ",
+      "context_snippet_turkish_tabula_rasa": "\"Eğer kulak vermiş veya akletmiş olsaydık, çılgın alevli yakıcı yıkım yurdu ehli içinde olmazdık\" derler.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Eğer kulak vermiş veya akletmiş olsaydık, çılgın alevli yakıcı yıkım yurdu ehli içinde olmazdık\" derler.",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 67,
+      "ayah": 11,
+      "surah_name": "Mülk",
+      "ayah_ref": "67:11",
+      "word_position": 4,
+      "target_word_uthmani": "لِّأَصْحَٰبِ",
+      "target_word_rasm": "لأصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ",
+      "context_snippet_turkish_tabula_rasa": "Böylece, sapma ve kusurlarını itiraf ederler. Çılgın alevli yakıcı yıkım yurdu ehli yok olsunlar!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَٰبِ ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece, sapma ve kusurlarını itiraf ederler. Çılgın alevli yakıcı yıkım yurdu ehli yok olsunlar!",
+      "contextual_meaning": "Kendi seçtiği yıkıcı sonucun sürekli ehli (`أَصْحَٰبُ ٱلنَّارِ / ٱلْجَحِيمِ / ٱلسَّعِيرِ` `2:39,81`, `7:36`, `67:10-11`): Gerçeği örterek ve zulümde direnerek yakıcı ateş alanının ayrılmaz sakinine dönüşen topluluk."
+    },
+    {
+      "surah": 68,
+      "ayah": 17,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:17",
+      "word_position": 5,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın bağlayıcı ahit etmişlerdi.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın bağlayıcı ahit etmişlerdi.",
+      "contextual_meaning": "Dünya bahçesi sahipleri kıssası (`أَصْحَٰبَ ٱلْجَنَّةِ` `68:17`): Yoksulları mahrum bırakma kararı alıp bahçelerini kaybeden mülk sahipleri örneği."
+    },
+    {
+      "surah": 68,
+      "ayah": 48,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:48",
+      "word_position": 6,
+      "target_word_uthmani": "كَصَاحِبِ",
+      "target_word_rasm": "كصاحب",
+      "target_word_literal_irab": "Balığın yoldaşı / yanındaki gibi (`كَصَاحِبِ`, muzâf ism-i fâil mecrûr)",
+      "context_snippet_arabic": "رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Sen Rabbinin hükmüne kadar sebat edip diren; balık sahibi (Yunus) gibi olma, o, pek üzgün olarak Rabbine seslenmişti.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen Rabbinin hükmüne kadar sebat edip diren; balık sahibi (Yunus) gibi olma, o, pek üzgün olarak Rabbine seslenmişti.",
+      "contextual_meaning": "Balığın karnında sıkışıp kalan Yûnus (`كَصَاحِبِ ٱلْحُوتِ` `68:48`): Bunalıp aceleci davranarak balıkla aynı yerde sıkışan arkadaş örneği üzerinden direnç öğüdü."
+    },
+    {
+      "surah": 70,
+      "ayah": 12,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:12",
+      "word_position": 1,
+      "target_word_uthmani": "وَصَٰحِبَتِهِۦ",
+      "target_word_rasm": "وصحبته",
+      "target_word_literal_irab": "Hayat yoldaşı olan eşinden (`وَصَٰحِبَتِهِۦ`, zamire muzâf tekil dişil isim mecrûr)",
+      "context_snippet_arabic": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "context_snippet_turkish_tabula_rasa": "... Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.",
+      "morphology": {
+        "lemma": "Sa`Hibap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sa`Hibap|ROOT:SHb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.",
+      "contextual_meaning": "Büyük hesap anında eşten bile kaçış (`وَصَٰحِبَتِهِۦ` `70:12`, `80:36`): Korku anında insanın en yakın ömür yoldaşından bile uzaklaşıp kendi derdine düşeceği vurgusu."
+    },
+    {
+      "surah": 72,
+      "ayah": 3,
+      "surah_name": "Cin",
+      "ayah_ref": "72:3",
+      "word_position": 7,
+      "target_word_uthmani": "صَٰحِبَةً",
+      "target_word_rasm": "صحبة",
+      "target_word_literal_irab": "Bir dişi ömür eşi (`صَٰحِبَةً`, nekre tekil dişil isim mansûb)",
+      "context_snippet_arabic": "رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةً وَلَا وَلَدًا",
+      "context_snippet_turkish_tabula_rasa": "\"Doğrusu Rabbimizin yüceliği her yücelikten üstündür. O, zevce ve çocuk edinmemiştir.\"",
+      "morphology": {
+        "lemma": "Sa`Hibap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sa`Hibap|ROOT:SHb|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةً وَلَا وَلَدًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Doğrusu Rabbimizin yüceliği her yücelikten üstündür. O, zevce ve çocuk edinmemiştir.\"",
+      "contextual_meaning": "Ömür eşinden münezzeh Mutlak Birlik (`وَلَمْ تَكُن لَّهُۥ صَٰحِبَةٌ` `6:101`, `72:3`): Biyolojik doğumun dişi eş (`صَٰحِبَة`) koşuluna bağlı olduğu gösterilerek Yaratıcının eş ve çocuktan arınmışlığı ilan edilir."
+    },
+    {
+      "surah": 74,
+      "ayah": 31,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:31",
+      "word_position": 3,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةً",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdunun bekçilerini yalnız kozmik görevlilerden kılmışızdır. Sayılarını bildirmekle de, ancak gerçeğin üzerini örtenlerin denenmesini ve kendileri...",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةً وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًا وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًا كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdunun bekçilerini yalnız kozmik görevlilerden kılmışızdır. Sayılarını bildirmekle de, ancak gerçeğin üzerini örtenlerin denenmesini ve kendilerine kitap verilenlerin kesin bilgi edinmesini ve güvene erenlerin da güven bağı artmasını sağladık. Kendilerine kitap verilenler ve güvene erenler şüpheye düşmesinler. Kalblerinde hastalık bulunanlar ve gerçeğin üzerini örtenler: \"Allah bu misalle neyi muradetti?\" desinler. İşte Allah, böylece, dilediğini saptırır, dilediğini de doğru yola eriştirir. Rabbinin ordularını kendisinden başkası bilmez. Bu, insanoğluna bir öğütten ibarettir.",
+      "contextual_meaning": "Ateş alanının görevli sorumluları (`أَصْحَٰبَ ٱلنَّارِ` `74:31`): Yakıcı düzenin yönetiminden sorumlu kozmik görevliler topluluğu."
+    },
+    {
+      "surah": 74,
+      "ayah": 39,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:39",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبَ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Ayrılmaz eşlikçilerini / halkını (`أَصْحَٰبَ / وَأَصْحَٰبَ`, kırık çoğul muzâf mansûb)",
+      "context_snippet_arabic": "إِلَّآ أَصْحَٰبَ ٱلْيَمِينِ",
+      "context_snippet_turkish_tabula_rasa": "Ancak, defteri sağdan verilenler böyle değildir; onlar esenlik bahçesindedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّآ أَصْحَٰبَ ٱلْيَمِينِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak, defteri sağdan verilenler böyle değildir; onlar esenlik bahçesindedirler. Suçlulara: \"Sizi bu yakıcı ateşe sürükleyen nedir?\" diye sorarlar.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 80,
+      "ayah": 36,
+      "surah_name": "Abese",
+      "ayah_ref": "80:36",
+      "word_position": 1,
+      "target_word_uthmani": "وَصَٰحِبَتِهِۦ",
+      "target_word_rasm": "وصحبته",
+      "target_word_literal_irab": "Hayat yoldaşı olan eşinden (`وَصَٰحِبَتِهِۦ`, zamire muzâf tekil dişil isim mecrûr)",
+      "context_snippet_arabic": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "context_snippet_turkish_tabula_rasa": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "morphology": {
+        "lemma": "Sa`Hibap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Sa`Hibap|ROOT:SHb|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "contextual_meaning": "Büyük hesap anında eşten bile kaçış (`وَصَٰحِبَتِهِۦ` `70:12`, `80:36`): Korku anında insanın en yakın ömür yoldaşından bile uzaklaşıp kendi derdine düşeceği vurgusu."
+    },
+    {
+      "surah": 81,
+      "ayah": 22,
+      "surah_name": "Tekvîr",
+      "ayah_ref": "81:22",
+      "word_position": 2,
+      "target_word_uthmani": "صَاحِبُكُم",
+      "target_word_rasm": "صاحبكم",
+      "target_word_literal_irab": "Yakın arkadaşınız / arkadaşı (`صَاحِبُهُۥ / صَاحِبُكُمْ`, zamire muzâf ism-i fâil merfû)",
+      "context_snippet_arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "context_snippet_turkish_tabula_rasa": "Arkadaşınız (Muhammed) asla deli değildir.",
+      "morphology": {
+        "lemma": "SaAHib",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:SaAHib|ROOT:SHb|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Arkadaşınız (Muhammed) asla deli değildir.",
+      "contextual_meaning": "İçlerinden yetişmiş güvenilir tanıdık arkadaş (`صَاحِبُكُمْ / بِصَاحِبِهِم` `7:184`, `34:46`, `53:2`, `81:22`): Elçiyi karalayanların gerçekte ömrü yanlarında geçmiş, akıl tutulmasından uzak yakın arkadaşlarını iyi tanıdıkları hatırlatılır."
+    },
+    {
+      "surah": 85,
+      "ayah": 4,
+      "surah_name": "Bürûc",
+      "ayah_ref": "85:4",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ",
+      "context_snippet_turkish_tabula_rasa": "Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, güvene ermiş kimselere yaşam sistemlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, güvene ermiş kimselere yaşam sistemlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    },
+    {
+      "surah": 90,
+      "ayah": 18,
+      "surah_name": "Beled",
+      "ayah_ref": "90:18",
+      "word_position": 2,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "context_snippet_turkish_tabula_rasa": "İşte bunlar amel defterleri sağdan verilenlerdir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte bunlar amel defterleri sağdan verilenlerdir.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 90,
+      "ayah": 19,
+      "surah_name": "Beled",
+      "ayah_ref": "90:19",
+      "word_position": 5,
+      "target_word_uthmani": "أَصْحَٰبُ",
+      "target_word_rasm": "أصحب",
+      "target_word_literal_irab": "Sürekli eşlik edenleri / ayrılmaz ehli (`أَصْحَٰبُ / وَأَصْحَٰبُ / فَأَصْحَٰبُ`, kırık çoğul muzâf merfû)",
+      "context_snippet_arabic": "كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimizi gerçeğin üzerini örtenler, işte onlar amel defterleri sollarından verilenlerdir.",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimizi gerçeğin üzerini örtenler, işte onlar amel defterleri sollarından verilenlerdir.",
+      "contextual_meaning": "Sağ/uğur ehli ile sol/yıkım ehli saflaşması (`أَصْحَٰبُ ٱلْمَيْمَنَةِ / ٱلْيَمِينِ` vs `ٱلْمَشْـَٔمَةِ / ٱلشِّمَالِ` `56:8-91`, `74:39`, `90:18-19`): Eylem yönüne göre ayrılan iki zıt kader topluluğu."
+    },
+    {
+      "surah": 105,
+      "ayah": 1,
+      "surah_name": "Fîl",
+      "ayah_ref": "105:1",
+      "word_position": 6,
+      "target_word_uthmani": "بِأَصْحَٰبِ",
+      "target_word_rasm": "بأصحب",
+      "target_word_literal_irab": "Sürekli beraberindeki ehlinin / yoldaşlarının (`أَصْحَٰبِ / لِأَصْحَٰبِ / بِأَصْحَٰبِ`, kırık çoğul muzâf mecrûr)",
+      "context_snippet_arabic": "كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "context_snippet_turkish_tabula_rasa": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+      "morphology": {
+        "lemma": ">aSoHa`b",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>aSoHa`b|ROOT:SHb|MP|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?",
+      "contextual_meaning": "Tarihî olay ve mekân zümreleri (`أَصْحَٰبُ ٱلْكَهْفِ` `18:9`, `ٱلسَّفِينَةِ` `29:15`, `مُوسَىٰ` `26:61`, `ٱلْحِجْرِ / ٱلْأَيْكَةِ / ٱلْأُخْدُودِ / ٱلْفِيلِ` `15:78-80`, `85:4`, `105:1`): Ortak süreci, mekânı ve tarihsel kaderi paylaşan topluluklar."
+    }
+  ]
+}

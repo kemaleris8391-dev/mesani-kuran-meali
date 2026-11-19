@@ -1,0 +1,2480 @@
+{
+  "root": "أ-م-م",
+  "root_latin": "E-M-M (Amm)",
+  "concept_name": "Ümm / Ümmet / İmâm (Yönelinen Ana Kaynak, Anne, Ortak Yönlü Topluluk ve Öncü)",
+  "rank": 96,
+  "total_occurrences": 119,
+  "unique_ayahs_count": 108,
+  "unified_core_mechanism": "Kökün 119 geçişlik tümünü tek merkez çekimi birleştirir: 'Kendisine yönelinen, kendisinden doğulan ve etrafında toplanılan ana kaynak (`أَمَّ / أُمّ`)'. Beş kolda işler: (1) Doğuran anne, sütanne ve temel kaynaklar (`أُمّ`: `4:11,23`, `58:2`, `3:7` `أُمُّ ٱلْكِتَٰبِ`, `6:92` `أُمَّ ٱلْقُرَىٰ`, `101:9`). (2) Ortak gaye veya yaratılışta birleşen topluluk (`6:38` canlılar, `2:143` dengeli tanık toplum, `21:92`), model birey (`16:120`) ve zaman dilimi (`11:8`, `12:45`). (3) Rehber lider, kitap, ana kütük ve işlek ana yol (`إِمَام / أَئِمَّة` `12`: `2:124`, `9:12`, `15:79`, `21:73`, `28:41`, `36:12`). (4) Kutsal merkeze yönelme (`5:2` `ءَآمِّينَ`) ve ön doğrultu (`75:5` `أَمَامَهُۥ`). (5) Kitap geleneği dışı fıtrî halk/elçi (`أُمِّىّ` `6`: `2:78`, `7:157`, `62:2`).",
+  "physical_core": "Ham fiziki çekirdek: 'Her şeyin kendisine yöneldiği, çevresinde toplandığı ve kendisinden neşet ettiği ana merkez (`قَصْد` / `أَصْل` — bir yere veya hedefe doğru dosdoğru yönelmek ve yavrunun kendisine döndüğü ana kucak)'. Bu tek merkezden dört organik halka açılır: (1) Doğuran ve besleyen biyolojik anne (`أُمّ / أُمَّهَات`) ile şehirlerin merkezi (`أُمَّ ٱلْقُرَىٰ`) ve kitabın ana ekseni (`أُمُّ ٱلْكِتَٰبِ`). (2) Önünde gidilip izlenen örnek yol, lider veya ana kütük (`إِمَام` `15:79`, `36:12`) ile öne doğru yön (`أَمَامَهُۥ` `75:5`) ve Kutsal Ev'i kastederek yönelenler (`ءَآمِّينَ` `5:2`). (3) Ortak bir merkez ve gaye etrafında kenetlenen topluluk/zaman dilimi (`أُمَّة`). (4) Annesinden doğduğu fıtrî hal üzere yazılı kitap geleneği dışı kalanlar (`أُمِّىّ`).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris muzâaf `أ-م-م` maddesini dört birbirine kenetli dala ayırır: (1) Kaynak/köken (`أَصْل`), (2) Her şeyin dönüp bağlandığı merkez (`مَرْجِع`: anne `أُمّ`, şehirlerin anası `أُمّ ٱلْقُرَى`, kitabın anası `أُمّ ٱلْكِتَاب`, beynin zarı `أُمّ ٱلرَّأْس`), (3) Ortak yönelişli topluluk (`أُمَّة`), (4) Doğrudan kast ve yöneliş (`أَمَمْتُ كذا = قصدته`: `5:2` `ءَآمِّينَ`).",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلْأُمُّ` her nesnenin ana gövdesi ve kaynağıdır; `ٱلْإِمَامُ` öne düşüp kendisinden sonra gelenlere yön veren rehber, yol (`15:79`) veya ana kitaptır (`36:12`). `أَمَّ ٱلْقَوْمَ` topluluğun önüne geçip rehberlik etti demektir.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): Tek bir şahsiyet bile taşıdığı bütüncül erdemlerle başlı başına bir topluluk temsilcisi sayıldığından `16:120`de İbrâhim için `كَانَ أُمَّةً` denmiştir. Ayrıca `أُمَّة` kelimesinin `11:8` ve `12:45`te `الْحِين / الزَّمَان` ('belirli dönem/süre') anlamında kullanıldığını, `أُمِّىّ` sözcüğünün de 'annesinden doğduğu saf fıtrat üzere okuma-yazma tahsili görmemiş' anlamıyla `أُمّ`a nispet edildiğini belgeler.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât): `أُمّ` kelimesinin Kur'an'da hem biyolojik anneyi (`4:11`, `58:2`), hem de `3:7`deki muhkem ayetlerin ve `13:39` / `43:4`teki ana kayıt kitabının adı olan `أُمُّ ٱلْكِتَٰبِ` ile `101:9`daki kapsayan derin uçurumu (`فَأُمُّهُۥ هَاوِيَةٌ`) ifade ettiğini belirtir. `أُمَّة` ise ortak bir ilke, zaman veya yaratılış biçimi (`6:38` hayvanlar ve kuşlar!) üzerinden bir araya gelen topluluktur.",
+    "arbitration_decision": "Tahkim Kararı: Kökün 119 geçişi beş uyumlu eksende mühürlenir: (1) Ana merkez ve köken (`أُمّ`: anne `4:11,23`, `أُمُّ ٱلْكِتَٰبِ`, `أُمَّ ٱلْقُرَىٰ`, `101:9`), (2) Topluluk, model birey ve zaman birimi (`أُمَّة / أُمَم`: `2:143`, `6:38`, `11:8`, `12:45`, `16:120`, `21:92`), (3) Önünde yürünen önder, ana yol ve ana sicil (`إِمَام / أَئِمَّة`: `2:124`, `9:12`, `15:79`, `17:71`, `36:12`), (4) Doğrudan kast ve ön doğrultu (`5:2` `ءَآمِّينَ` ve `75:5` `أَمَامَهُۥ`), (5) Yazılı kitap geleneği dışı fıtrî halk (`أُمِّىّ` `7:157`, `62:2`)."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "*ʾimm- / *ʾumm- ('anne, kaynak, köken'; Proto-Afroasyatik `*ʾim-` bebek sesleniş katmanıyla paralel) ve bundan gelişen ortak merkez/topluluk anlam alanı.",
+    "hebrew": "İbranice `אֵם` (*ʾēm*: 'anne, ana şehir, yol ayrımı/ana kaynak') ve `אֻמָּה` (*ʾummāh*: 'kabile, halk, millet' — çoğulu `אֻמּוֹת` *ʾummōṯ*) Arapça `أُمّ` ve `أُمَّة` ile birebir ses ve anlam özdeşliği gösterir (modern İbranice *ʾīmā* Aramca alıntıdır).",
+    "aramaic_syriac": "Aramca `אִמָּא` (*ʾimmā*) ve Klasik Süryanice `ܐܶܡܳܐ` (*ʾemmā*: 'anne, ana kaynak') doğrudan ortak kökten gelir; ayrıca Süryanice *ʾumməṯā* (`ܐܘܡܬܐ`) 'halk/topluluk' anlamına yerleşmiştir.",
+    "north_arabian_sabaic": "Epigrafik Güney Arapça (Sebece `ʾm`: 'anne') ve Kuzey Arapça yazıtların tamamında *ʾm* temel akrabalık ve merkez kelimesi olarak Arapça ile ortaktır.",
+    "akkadian_geez": "Doğu Samicede Akadca `ummu` ('anne; ana/temel metin, kaynak, matris') hem biyolojik anne hem 'ana belge/kaynak' mecazını (`أُمُّ ٱلْكِتَٰبِ` paraleli!) taşır; Güney Samicede Klasik Ge'ez `እም` (*ʾəmm*: 'anne') ve Ugaritçe *ʾum* aynı köktendir.",
+    "phonological_note": "Akadcadan (`ummu`) İbranice (`ʾēm`), Aramca/Süryanice (`ʾemmā`), Ugaritçe (`ʾum`), Sebece (`ʾm`), Ge'ez (`ʾəmm`) ve Arapçaya (`ʾumm`) kadar uzanan bu aile ortaklığı, hem `يَد` gibi kesintisiz çekirdeği hem de Akadca `ummu`da dahi görülen 'anne → ana kaynak/metin' anlam sıçramasını tesciller. Arapça ise ikizleşme (`تَضْعِيف`) üzerinden yönelme (`أَمَّ`), ön (`أَمَام`) ve öncü (`إِمَام`) dallarını sistemleştirmiştir."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ف-ر-ق / ش-ي-ع (`أُمَّةً وَٰحِدَةً ↔ فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا` — Tek Ortak Yönelişli Topluluk vs Parçalanıp Fırkalara Bölünme — `2:213`, `21:92-93`, `23:52-53`)",
+      "مُحْكَمَٰت ↔ مُتَشَٰبِهَٰت (`هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ` — Değişmez Ana Eksen Ayetler vs Yoruma Açık Benzeşen Ayetler — `3:7`)",
+      "أَئِمَّةُ ٱلْهُدَى ↔ أَئِمَّةُ ٱلنَّارِ (`أَئِمَّةً يَهْدُونَ بِأَمْرِنَا` `21:73` ↔ `أَئِمَّةً يَدْعُونَ إِلَى ٱلنَّارِ` `28:41` / `أَئِمَّةَ ٱلْكُفْرِ` `9:12`)",
+      "أُمِّيُّونَ ↔ أَهْلُ ٱلْكِتَٰبِ (`وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ` — Önceki Kitap Verilenler vs Kitap Dışı Kalanlar — `3:20`, `3:75`, `62:2`)"
+    ],
+    "key_ayahs": [
+      "3:7 (ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ — ana merkez ile yan kolların dengesi)",
+      "21:73 & 28:41 (أَئِمَّةً يَهْدُونَ بِأَمْرِنَا ↔ أَئِمَّةً يَدْعُونَ إِلَى ٱلنَّارِ — önderlik kutuplaşması)",
+      "21:92-93 & 23:52-53 (أُمَّتُكُمْ أُمَّةً وَٰحِدَةً ↔ تَقَطَّعُوٓا۟ أَمْرَهُم — birlik ve bölünme zıtlığı)",
+      "3:20 & 58:2 (ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ / مَّا هُنَّ أُمَّهَٰتِهِمْ — yazılı kitap geleneği ve gerçek annelik sınırı)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'أ-م-م yönelinen ana merkez, birleştiren topluluk ve önde yürüyen önderse zıddı nedir?' Cevap: Ana eksenden kopup parçalanan hizipler (`زُبُرًا` `23:53`), ana omurgaya (`أُمُّ ٱلْكِتَٰبِ`) zıt bağlamından koparılan müteşabih sapmalar (`3:7`), ve ateşe çağıran sahte öncüler (`28:41`, `9:12`). Çift yönlü Mesânî testi %100 doğrulanır."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "أُمَّتُكُمْ (`Sizin Topluluğunuz / İnşa Edilen Çatı`) vs أُمَّةً وَٰحِدَةً (`Tek Ve Bölünmez Nitelik Halinde`) — `21:92` ve `23:52`",
+      "فِىٓ أُمَّةٍ (`İçine Gönderildiğin Şimdiki Topluluk`) vs أُمَمٌ (`Önceki Tarihsel Kuşaklar`) — `7:38`, `13:30`",
+      "أُمَّةٌ هِىَ أَرْبَىٰ (`Sayıca/Güççe Daha Kabarık Bir Topluluk`) vs مِنْ أُمَّةٍ (`Karşıt Diğer Topluluktan`) — `16:92`",
+      "مَّا هُنَّ أُمَّهَٰتِهِمْ (`Zıhar İddiasının Reddi: Onlar Anneleri Değildir`) vs إِنْ أُمَّهَٰتُهُمْ (`Gerçeğin Sınırı: Anneleri Yalnızca Kendilerini Doğuranlardır`) — `58:2`",
+      "أُمَّهَٰتُكُمْ (`Öz Anneler`) vs أُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ (`Süt Anneler`) vs أُمَّهَٰتُ نِسَآئِكُمْ (`Kayınvalideler`) — Tek Ayette `3` Farklı Annelik Statüsü (`4:23`)"
+    ],
+    "mechanical_difference": "1) `4:23` tek ayette `أُمَّهَٰت` kelimesini üç ayrı hukukî halkada tekrarlar: biyolojik anne, emziren sütanne ve eşin annesi (kayınvalide); `58:2`de ise boşanma bahanesi yapılan 'sen bana annemin sırtı gibisin' sözünü iki kez `أُمَّهَٰتِهِمْ / أُمَّهَٰتُهُمْ` tekrarıyla iptal ederek 'annelik sadece doğurmaktır' ilkesini koyar. 2) `21:92` ve `23:52` aynı cümlede marife `أُمَّتُكُمْ` ile nekre hâl `أُمَّةً وَٰحِدَةً`ı buluşturarak bütün insanî elçilik çizgilerinin tek ortak topluluk olduğunu vurgular."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "3:7 & 13:39 & 43:4",
+      "role": "Ana Eksen Kitap (`أُمُّ ٱلْكِتَٰبِ`) ve Muhkem Merkez Çapası",
+      "literal_meaning": "'Ona kitabı indiren O'dur; onun bir kısmı ana eksen/temel olan (`أُمُّ ٱلْكِتَٰبِ`) muhkem ayetlerdir, diğerleri ise benzeşenlerdir' ve 'Kitabın ana kaynağı (`أُمُّ ٱلْكِتَٰبِ`) O'nun katındadır.'"
+    },
+    {
+      "ref": "6:38 & 16:120",
+      "role": "Canlılar Alemi Ümmeti ve Tek Kişilik Ümmet Çapası (أُمَمٌ أَمْثَالُكُم / إِبْرَٰهِيمَ كَانَ أُمَّةً)",
+      "literal_meaning": "'Yerde yürüyen hiçbir canlı ve iki kanadıyla uçan hiçbir kuş yoktur ki sizin gibi birer ümmet/topluluk (`أُمَمٌ أَمْثَالُكُم`) olmasınlar' ve 'Şüphesiz İbrâhim tek başına bir ümmetti (`كَانَ أُمَّةً`).'"
+    },
+    {
+      "ref": "11:8 & 12:45",
+      "role": "Zaman Dilimi (`أُمَّة` = Süre) Anlamı Çapası (إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ / بَعْدَ أُمَّةٍ)",
+      "literal_meaning": "'Eğer azabı sayılı bir süreye (`إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ`) ertelesek...' ve 'İki arkadaştan kurtulan, uzun bir zaman dilimi sonra (`بَعْدَ أُمَّةٍ`) Yûsuf'u hatırladı.'"
+    },
+    {
+      "ref": "2:124 & 15:79 & 36:12",
+      "role": "Önderlik, İşlek Ana Yol ve Ana Kütük (`إِمَام`) Çapası",
+      "literal_meaning": "'Seni insanlara önder (`إِمَامًا`) yapacağım' ve 'o iki kent göz önünde apaçık bir ana yol üzerindedir (`لَبِإِمَامٍ مُّبِينٍ`)' ve 'her şeyi apaçık bir ana sicilde (`فِىٓ إِمَامٍ مُّبِينٍ`) sayıp kaydettik.'"
+    },
+    {
+      "ref": "5:2 & 75:5",
+      "role": "Yönelme (`ءَآمِّينَ`) ve Ön-Ufuk (`أَمَامَهُۥ`) Hapax Çapaları",
+      "literal_meaning": "'Rablerinin lütfunu ve hoşnutluğunu dileyerek Kutsal Ev'e yönelip gelenlere (`ءَآمِّينَ`) dokunmayın' ve 'insan önünü/geleceğini (`أَمَامَهُۥ`) gözetmeden taşkınlık sürmek ister.'"
+    },
+    {
+      "ref": "4:23 & 58:2",
+      "role": "Üçlü Annelik Hukuku ve Zıhar Sınırı Çapası (أُمَّهَٰتُكُمْ / مَّا هُنَّ أُمَّهَٰتِهِمْ)",
+      "literal_meaning": "'Size anneleriniz, sizi emziren anneleriniz ve eşlerinizin anneleri yasaklandı' ve 'onlar kendilerini doğuran anneleri değildir (`مَّا هُنَّ أُمَّهَٰتِهِمْ`).'"
+    },
+    {
+      "ref": "7:157-158 & 62:2",
+      "role": "Kitap Geleneği Dışı Fıtrî Toplum (`أُمِّىّ`) Çapası",
+      "literal_meaning": "'Kendilerine içlerinden, ayetlerini okuyan ve arındıran bir elçi gönderdiği o kitap dışı fıtrî halka (`فِى ٱلْأُمِّيِّۦنَ`)...' ve 'o ümmî elçiye (`ٱلنَّبِىَّ ٱلْأُمِّىَّ`) uyanlar...'"
+    },
+    {
+      "ref": "2:143 & 21:92 & 101:9",
+      "role": "Dengeli Topluluk (`أُمَّةً وَسَطًا`), Tek Ümmet ve Uçurum Kucağı Çapası",
+      "literal_meaning": "'Böylece sizi dengeli ve tanık bir ümmet (`أُمَّةً وَسَطًا`) kıldık', 'sizin bu ümmetiniz tek bir ümmettir (`أُمَّةً وَٰحِدَةً`)' ve 'tartısı hafif gelenin varıp sarılacağı ana kucak/merkez (`فَأُمُّهُۥ هَاوِيَةٌ`) derin çukurdur.'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kur'an'da hiç çekimli fiili yoktur (`0 V`); buna karşın muzâaf `أَمَّ` fiilinden türeyen I. bab ism-i fâil `ءَآمِّينَ` (`5:2`, dual/çoğul `MP|ACC`: dua sonundaki 'âmîn' değil 'yönelip kastederek gelenler' demektir!) kökün fiil bağlantısını canlı tutar. 2) `أُمّ` kelimesinin tekil/çoğul dağılımı (`35 N`): `24` tekil ve `11` çoğul `أُمَّهَٰت` şeklindedir (`أُمَّات` çoğulu Mushafta hiç geçmez). 3) `أُمَّة` (`64 N`) yalnızca toplum anlamıyla değil `11:8` ve `12:45`te açıkça `الْحِين` (zaman dilimi/süre), `16:120`de ise tek bir şahsiyet (`İbrâhim`) için kullanılır; kırık çoğulu `13` kez `أُمَم` olarak geçer. 4) `إِمَام` (`12 N`) hem tekil (`7`: lider, kitap `11:17`, yol `15:79`, kütük `36:12`) hem kırık çoğul `أَئِمَّة` (`5`: `9:12`, `21:73`, `28:5,41`, `32:24`) olarak gelir; değer yönünden nötrdür (hem hidayet önderleri hem ateş/bozgun önderleri için kullanılır). 5) `10` ayette birden fazla geçer (`4:23` x3, diğer `9`unda x2) ve `44` distinct Rasm-ı Osmânî iskeleti sunar.",
+  "derivatives": {
+    "أُمّ (`24` tekil) & أُمَّهَات (`11` çoğul)": "Anne ve sütanne hukuku (`4:11,23`, `58:2`), ana kitap (`3:7`, `13:39`, `43:4`), kentlerin anası (`6:92`, `42:7`) ve derin uçurum kucağı (`101:9`)",
+    "أُمَّة (`51` tekil) & أُمَم (`13` çoğul)": "Ortak yönelişli toplum (`2:143`, `21:92`), hayvan/kuş toplulukları (`6:38`), tek şahsiyet modeli (`16:120`), yaşam yolu (`43:22`) ve sayılı zaman dilimi (`11:8`, `12:45`)",
+    "إِمَام / أَئِمَّة (`12 N`) & أُمِّىّ (`6`) & ءَآمِّينَ (`5:2`) & أَمَامَ (`75:5`)": "Yol ve sicil (`15:79`, `36:12`), iyi/kötü öncüler (`9:12`, `21:73`, `28:41`), kitap dışı fıtrî halk (`7:157`, `62:2`), yönelip gelenler (`5:2`) ve ön doğrultu (`75:5`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 78,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:78",
+      "word_position": 2,
+      "target_word_uthmani": "أُمِّيُّونَ",
+      "target_word_rasm": "أميون",
+      "target_word_literal_irab": "Önceki vahiy kitaplarına erişimi olmayan veya ana çizgisinden kalma halklar (`أُمِّيُّونَ / ٱلْأُمِّيِّينَ`, çoğul nispet ismi)",
+      "context_snippet_arabic": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ",
+      "context_snippet_turkish_tabula_rasa": "Onların bir kısmının okuyup yazması yoktu. Kitab'ı bilmezlerdi; bildikleri sadece bir takım yalan ve kuruntulardı. Onlar ancak vehim içindedirler.",
+      "morphology": {
+        "lemma": ">um~iY~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~iY~|ROOT:Amm|MP|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların bir kısmının okuyup yazması yoktu. Kitab'ı bilmezlerdi; bildikleri sadece bir takım yalan ve kuruntulardı. Onlar ancak vehim içindedirler.",
+      "contextual_meaning": "Kitap bilgisi veya yazılı vahiy geleneği dışı topluluklar (`2:78` kitabı bilmeyip kuruntuya dalanlar, `3:20,75`, `62:2` kendilerine içlerinden elçi gönderilen halk)."
+    },
+    {
+      "surah": 2,
+      "ayah": 124,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:124",
+      "word_position": 11,
+      "target_word_uthmani": "إِمَامًا",
+      "target_word_rasm": "إماما",
+      "target_word_literal_irab": "Örnek rehber, öncü kitap veya çağrı sicili (`إِمَامًا / بِإِمَٰمِهِمْ`, tekil isim)",
+      "context_snippet_arabic": "إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِى",
+      "context_snippet_turkish_tabula_rasa": "Rabbi İbrahim'i bir takım emirlerle denemiş, o da onları yerine getirmişti. Allah, \"seni insanlara önder kılacağım\" demişti. O \"soyumdan da\" deyince, \"zalimler benim ahdime erişemez\" buyurmuştu.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِى قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbi İbrahim'i bir takım emirlerle denemiş, o da onları yerine getirmişti. Allah, \"seni insanlara önder kılacağım\" demişti. O \"soyumdan da\" deyince, \"zalimler benim ahdime erişemez\" buyurmuştu.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 2,
+      "ayah": 128,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:128",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! İkimizi Sana teslim olanlardan kıl, soyumuzdan da Sana teslim olanlardan bir ümmet yetiştir. Bize boyun eğme ve kulluk yollarımızı göster, tevbemizi kabul buyur, çünkü tevbeleri daima kabul eden, merhametli olan ancak Sensin\".",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! İkimizi Sana teslim olanlardan kıl, soyumuzdan da Sana teslim olanlardan bir ümmet yetiştir. Bize boyun eğme ve kulluk yollarımızı göster, tevbemizi kabul buyur, çünkü tevbeleri daima kabul eden, merhametli olan ancak Sensin\".",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 2,
+      "ayah": 134,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:134",
+      "word_position": 2,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 2,
+      "ayah": 141,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:141",
+      "word_position": 2,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "تِلْكَ أُمَّةٌ قَدْ خَلَتْ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar geçmiş birer ümmettir. Kazandıkları kendilerine, sizin kazandıklarınız da sizedir. Onların yapmış olduklarından sorumlu değilsiniz.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 2,
+      "ayah": 143,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:143",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Böylece sizi insanlara şahid ve örnek olmanız için tam ortada bulunan bir ümmet kıldık. elçi de size şahid ve örnektir. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمْ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece sizi insanlara şahid ve örnek olmanız için tam ortada bulunan bir ümmet kıldık. elçi de size şahid ve örnektir. Senin yöneldiğin yönü, elçiye uyanları, cayacaklardan ayırdetmek için kıble yaptık. Doğrusu Allah'ın yola koyduğu kimselerden başkasına bu ağır bir şeydir. Allah kulluk ve yönelişlerinizi boşa çıkaracak değildir. Doğrusu Allah insanlara şefkat gösterir, merhamet eder.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 2,
+      "ayah": 213,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:213",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar bir tek ümmetti. Allah elçileri müjdeci ve uyarıcı olarak gönderdi; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar bir tek ümmetti. Allah elçileri müjdeci ve uyarıcı olarak gönderdi; insanların ayrılığa düşecekleri hususlarda aralarında hüküm vermek için onlarla birlikte hak Kitaplar indirdi. Ancak Kitap verilenler, kendilerine belgeler geldikten sonra, aralarındaki ihtiras yüzünden onda ayrılığa düştüler. Allah, güvene erenleri, ayrılığa düştükleri gerçeğe kendi izni ile eriştirdi. Allah dilediğini doğru yola eriştirir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 3,
+      "ayah": 7,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:7",
+      "word_position": 10,
+      "target_word_uthmani": "أُمُّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Kitabın veya kentlerin ana merkezi/kaynağı yahut sarılacak kucak (`أُمُّ ٱلْكِتَٰبِ / أُمَّ ٱلْقُرَىٰ / أُمُّهُۥ هَاوِيَةٌ`, tekil isim)",
+      "context_snippet_arabic": "ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ",
+      "context_snippet_turkish_tabula_rasa": "Sana Kitap'ı indiren O'dur. Onda Kitap'ın temeli olan kesin anlamlı ayetler vardır, diğerleri de çeşitli anlamlıdırlar. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana Kitap'ı indiren O'dur. Onda Kitap'ın temeli olan kesin anlamlı ayetler vardır, diğerleri de çeşitli anlamlıdırlar. Kalblerinde eğrilik olan kimseler, fitne çıkarmak, kendilerine göre yorumlamak için onların çeşitli anlamlı olanlarına uyarlar. Oysa onların yorumunu ancak Allah bilir. İlimde derinleşmiş olanlar: \"Ona güvene erdik, hepsi Rabbimiz'in katındandır\" derler. Bunu ancak akıl sahipleri düşünür;",
+      "contextual_meaning": "Ana merkez ve kaynak mecazı (`3:7`, `13:39`, `43:4` hükümlerin dayandığı `أُمُّ ٱلْكِتَٰبِ`, `6:92`, `42:7` kentlerin anası `أُمَّ ٱلْقُرَىٰ`, `101:9` sarıp kuşatan derin uçurum)."
+    },
+    {
+      "surah": 3,
+      "ayah": 20,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:20",
+      "word_position": 13,
+      "target_word_uthmani": "وَٱلْأُمِّيِّۦنَ",
+      "target_word_rasm": "وٱلأمين",
+      "target_word_literal_irab": "Önceki vahiy kitaplarına erişimi olmayan veya ana çizgisinden kalma halklar (`أُمِّيُّونَ / ٱلْأُمِّيِّينَ`, çoğul nispet ismi)",
+      "context_snippet_arabic": "لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ فَإِنْ أَسْلَمُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Eğer seninle tartışmaya girişirlerse, \"Ben bana uyanlarla birlikte kendimi Allah'a verdim\" de. Kendilerine Kitap verilenlere ve kitapsızlara: ...",
+      "morphology": {
+        "lemma": ">um~iY~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~iY~|ROOT:Amm|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer seninle tartışmaya girişirlerse, \"Ben bana uyanlarla birlikte kendimi Allah'a verdim\" de. Kendilerine Kitap verilenlere ve kitapsızlara: \"Siz de İslam oldunuz mu?\" de, şayet İslam olurlarsa doğru yola girmişlerdir, yüz çevirirlerse, sana yalnız tebliğ etmek düşer. Allah kullarını görür.",
+      "contextual_meaning": "Kitap bilgisi veya yazılı vahiy geleneği dışı topluluklar (`2:78` kitabı bilmeyip kuruntuya dalanlar, `3:20,75`, `62:2` kendilerine içlerinden elçi gönderilen halk)."
+    },
+    {
+      "surah": 3,
+      "ayah": 75,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:75",
+      "word_position": 29,
+      "target_word_uthmani": "ٱلْأُمِّيِّۦنَ",
+      "target_word_rasm": "ٱلأمين",
+      "target_word_literal_irab": "Önceki vahiy kitaplarına erişimi olmayan veya ana çizgisinden kalma halklar (`أُمِّيُّونَ / ٱلْأُمِّيِّينَ`, çoğul nispet ismi)",
+      "context_snippet_arabic": "لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ وَيَقُولُونَ عَلَى",
+      "context_snippet_turkish_tabula_rasa": "Kitap ehli arasında kantarla emanet bıraksan onu sana ödeyen ve bir lira emanet etsen, tepesine dikilmedikçe onu sana ödemeyen vardır. Bu, onların: ...",
+      "morphology": {
+        "lemma": ">um~iY~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~iY~|ROOT:Amm|MP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehli arasında kantarla emanet bıraksan onu sana ödeyen ve bir lira emanet etsen, tepesine dikilmedikçe onu sana ödemeyen vardır. Bu, onların: \"Kitapsızlara karşı üzerimize bir sorumluluk yoktur\" demelerindendir. Onlar bile bile Allah'a karşı yalan söylemektedirler.",
+      "contextual_meaning": "Kitap bilgisi veya yazılı vahiy geleneği dışı topluluklar (`2:78` kitabı bilmeyip kuruntuya dalanlar, `3:20,75`, `62:2` kendilerine içlerinden elçi gönderilen halk)."
+    },
+    {
+      "surah": 3,
+      "ayah": 104,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:104",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ",
+      "context_snippet_turkish_tabula_rasa": "Sizden, iyiye çağıran, doğruluğu emreden ve fenalıktan meneden bir cemaat olsun. İşte başarıya erişenler yalnız onlardır.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizden, iyiye çağıran, doğruluğu emreden ve fenalıktan meneden bir cemaat olsun. İşte başarıya erişenler yalnız onlardır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 3,
+      "ayah": 110,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:110",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Siz, insanlar için ortaya çıkarılan, doğruluğu emreden, fenalıktan alıkoyan, Allah'a güvene eren hayırlı bir ümmetsiniz. Kitap ehli güvene ermiş olsalardı, kendileri için daha hayırlı olurdu; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَٰبِ لَكَانَ خَيْرًا لَّهُم مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Siz, insanlar için ortaya çıkarılan, doğruluğu emreden, fenalıktan alıkoyan, Allah'a güvene eren hayırlı bir ümmetsiniz. Kitap ehli güvene ermiş olsalardı, kendileri için daha hayırlı olurdu; içlerinde güvene erenler olmakla beraber, çoğu yoldan çıkmıştır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 3,
+      "ayah": 113,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:113",
+      "word_position": 6,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ",
+      "context_snippet_turkish_tabula_rasa": "... Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيْلِ وَهُمْ يَسْجُدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap ehlinin hepsi bir değildir: Onlardan geceleri boyun eğmeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe güven duy, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 41,
+      "target_word_uthmani": "فَلِأُمِّهِ",
+      "target_word_rasm": "فلأمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 4,
+      "ayah": 11,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:11",
+      "word_position": 47,
+      "target_word_uthmani": "فَلِأُمِّهِ",
+      "target_word_rasm": "فلأمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ",
+      "context_snippet_turkish_tabula_rasa": "... Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah çocuklarınız hakkında, erkeğe iki dişinin hissesi kadar tavsiye eder. Eğer kadınlar ikinin üstünde ise, bırakılanın üçte ikisi onlarındır; şayet bir ise yarısı onundur. Ana babadan her birine, ölenin çocuğu varsa yaptığı vasiyetten veya borcundan arta kalanın altıda biri, çocuğu yoksa, anası babası ona varis olur, anasına üçte bir düşer. Kardeşleri varsa, altıda biri annesinindir; babalarınız ve oğullarınızdan menfaatçe hangisinin size daha yakın olduğunu siz bilmezsiniz. Bunlar Allah tarafından tesbit edilmiştir. Doğrusu Allah bilendir, Hakim olandır.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّهَٰتُكُمْ",
+      "target_word_rasm": "أمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|NOM"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 12,
+      "target_word_uthmani": "وَأُمَّهَٰتُكُمُ",
+      "target_word_rasm": "وأمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|NOM"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 18,
+      "target_word_uthmani": "وَأُمَّهَٰتُ",
+      "target_word_rasm": "وأمهت",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|NOM"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 4,
+      "ayah": 41,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:41",
+      "word_position": 6,
+      "target_word_uthmani": "أُمَّةٍۭ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmete bir şahid getirdiğimiz ve seni de bunlara şahid getirdiğimiz vakit durumları nasıl olacak?",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmete bir şahid getirdiğimiz ve seni de bunlara şahid getirdiğimiz vakit durumları nasıl olacak?",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 16,
+      "target_word_uthmani": "ءَآمِّينَ",
+      "target_word_rasm": "ءامين",
+      "target_word_literal_irab": "Kutsal Ev'e doğru yönelip kastederek gelen kimseler (`ءَآمِّينَ`, I. bab muzâaf ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; ...",
+      "morphology": {
+        "lemma": "A^m~iyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:A^m~iyn|ROOT:Amm|MP|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Tek I. bab ism-i fâil (`ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ` `5:2`): Kutsal Ev'i kastedip oraya yönelen kimselerin dokunulmazlığı (`أَمَّ - يَؤُمُّ` = yönelmek)."
+    },
+    {
+      "surah": 5,
+      "ayah": 17,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:17",
+      "word_position": 24,
+      "target_word_uthmani": "وَأُمَّهُۥ",
+      "target_word_rasm": "وأمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah Meryem oğlu Mesih'i, anasını ve yeryüzünde olanların hepsini yok etmeyi dilerse kim O'na karşı koyabilir?\" Göklerin, yerin ve arasındakilerin hükümranlığı Allah'ındır, dilediğini yaratır. Allah her şeye Kadir'dir.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|ACC"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا يَخْلُقُ مَا يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah ancak Meryem oğlu Mesih'tir\" diyenler and olsun ki gerçeğin üzerini örten olmuşlardır. De ki: \"Allah Meryem oğlu Mesih'i, anasını ve yeryüzünde olanların hepsini yok etmeyi dilerse kim O'na karşı koyabilir?\" Göklerin, yerin ve arasındakilerin hükümranlığı Allah'ındır, dilediğini yaratır. Allah her şeye Kadir'dir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 5,
+      "ayah": 48,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:48",
+      "word_position": 34,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Kuran'ı, önce gelen Kitap'ı tasdik ederek ve ona şahid olarak gerçekle sana indirdik. Allah'ın indirdiği ile aralarında hükmet; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَٰبِ وَمُهَيْمِنًا عَلَيْهِ فَٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ عَمَّا جَآءَكَ مِنَ ٱلْحَقِّ لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'ı, önce gelen Kitap'ı tasdik ederek ve ona şahid olarak gerçekle sana indirdik. Allah'ın indirdiği ile aralarında hükmet; gerçek olan sana gelmiş bulunduğuna göre, onların heveslerine uyma! Her biriniz için bir yol ve bir yöntem kıldık; eğer Allah dileseydi sizi bir tek ümmet yapardı, fakat bu, verdikleriyle sizi denemesi içindir; o halde iyiliklere koşuşun, hepinizin dönüşü Allah'adır. O, ayrılığa düştüğünüz şeyleri size bildirir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 5,
+      "ayah": 66,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:66",
+      "word_position": 18,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Eğer onlar Tevrat'ı, İncil'i ve Rablerinden kendilerine indirilen Kuran'ı gereğince uygulasalardı, her yönden nimete ermiş olurlardı. İçlerinde orta yolu tutan ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer onlar Tevrat'ı, İncil'i ve Rablerinden kendilerine indirilen Kuran'ı gereğince uygulasalardı, her yönden nimete ermiş olurlardı. İçlerinde orta yolu tutan bir zümre vardı, çoğunun işledikleri ise kötü idi.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 5,
+      "ayah": 75,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:75",
+      "word_position": 12,
+      "target_word_uthmani": "وَأُمُّهُۥ",
+      "target_word_rasm": "وأمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ",
+      "context_snippet_turkish_tabula_rasa": "Meryem oğlu Mesih sadece elçidir, -ondan önce de elçiler geçmiştir- onun annesi dosdoğrudur, her ikisi de yemek yerlerdi. Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlu Mesih sadece elçidir, -ondan önce de elçiler geçmiştir- onun annesi dosdoğrudur, her ikisi de yemek yerlerdi. Onlara ayetleri nasıl açıkladığımıza bir bak, sonra da bak ki nasıl yüz çeviriyorlar!",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 5,
+      "ayah": 116,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:116",
+      "word_position": 11,
+      "target_word_uthmani": "وَأُمِّىَ",
+      "target_word_rasm": "وأمى",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ",
+      "context_snippet_turkish_tabula_rasa": "Allah, \"Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki sığınak mercii (ilâh) olarak benimseyin dedin?\" demişti de, \"Haşa, hak olmayan sözü söylemek bana yaraşmaz; eğer söylemişsem, şüphesiz Sen onu bilirsin; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ءَأَنتَ قُلْتَ لِلنَّاسِ ٱتَّخِذُونِى وَأُمِّىَ إِلَٰهَيْنِ مِن دُونِ ٱللَّهِ قَالَ سُبْحَٰنَكَ مَا يَكُونُ لِىٓ أَنْ أَقُولَ مَا لَيْسَ لِى بِحَقٍّ إِن كُنتُ قُلْتُهُۥ فَقَدْ عَلِمْتَهُۥ تَعْلَمُ مَا فِى نَفْسِى وَلَآ أَعْلَمُ مَا فِى نَفْسِكَ إِنَّكَ أَنتَ عَلَّٰمُ ٱلْغُيُوبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \"Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki sığınak mercii (ilâh) olarak benimseyin dedin?\" demişti de, \"Haşa, hak olmayan sözü söylemek bana yaraşmaz; eğer söylemişsem, şüphesiz Sen onu bilirsin; Sen, benim içimde olanı bilirsin; ben Senin içinde olanı bilmem; doğrusu görülmeyeni bilen ancak Sensin\" demişti, \"Ben onlara sadece 'Rabbim ve Rabbiniz olan Allah'a kulluk edin' diye bana emrettiğini söyledim. Aralarında bulunduğum müddetce onlar hakkında şahiddim, beni aralarından aldığında onları Sen gözlüyordun. Sen her şeye şahidsin.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 6,
+      "ayah": 38,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:38",
+      "word_position": 11,
+      "target_word_uthmani": "أُمَمٌ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم مَّا فَرَّطْنَا",
+      "context_snippet_turkish_tabula_rasa": "Yerde yürüyen hayvanlar ve kanatlarıyla uçan kuşlar da ancak sizin gibi birer toplulukturlar. Kitap'da Biz hiçbir şeyi eksik bırakmadık; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ وَلَا طَٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم مَّا فَرَّطْنَا فِى ٱلْكِتَٰبِ مِن شَىْءٍ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yerde yürüyen hayvanlar ve kanatlarıyla uçan kuşlar da ancak sizin gibi birer toplulukturlar. Kitap'da Biz hiçbir şeyi eksik bırakmadık; onlar sonra Rablerine toplanacaklardır.",
+      "contextual_meaning": "Ekolojik evrensellik (`أُمَمٌ أَمْثَالُكُم` `6:38`): Yerde yürüyen ve kanatlarıyla uçan her canlının insan gibi birer ümmet/topluluk oluşu."
+    },
+    {
+      "surah": 6,
+      "ayah": 42,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:42",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَمٍ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَٰهُم",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz ki, senden önce ümmetlere elçiler göndermiştik; onları yalvarsınlar diye darlık ve sıkıntıya sokmuştuk.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَأَخَذْنَٰهُم بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمْ يَتَضَرَّعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz ki, senden önce ümmetlere elçiler göndermiştik; onları yalvarsınlar diye darlık ve sıkıntıya sokmuştuk.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 6,
+      "ayah": 92,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:92",
+      "word_position": 10,
+      "target_word_uthmani": "أُمَّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Kitabın veya kentlerin ana merkezi/kaynağı yahut sarılacak kucak (`أُمُّ ٱلْكِتَٰبِ / أُمَّ ٱلْقُرَىٰ / أُمُّهُۥ هَاوِيَةٌ`, tekil isim)",
+      "context_snippet_arabic": "بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا",
+      "context_snippet_turkish_tabula_rasa": "Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete güvene erenler buna güven duyup emin olurlar,...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|ACC"
+      },
+      "ayah_text_arabic_full": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete güvene erenler buna güven duyup emin olurlar, irtibat ve yöneliş bağlarına da devam ederler.",
+      "contextual_meaning": "Ana merkez ve kaynak mecazı (`3:7`, `13:39`, `43:4` hükümlerin dayandığı `أُمُّ ٱلْكِتَٰبِ`, `6:92`, `42:7` kentlerin anası `أُمَّ ٱلْقُرَىٰ`, `101:9` sarıp kuşatan derin uçurum)."
+    },
+    {
+      "surah": 6,
+      "ayah": 108,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:108",
+      "word_position": 16,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "... Böylece her ümmete işini güzel gösterdik, sonra dönüşleri Rab'lerinedir. O, işlediklerini haber verir.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'tan başka yalvardıklarına sövmeyin ki, onlar da cahillikle ileri giderek Allah'a sövmesinler. Böylece her ümmete işini güzel gösterdik, sonra dönüşleri Rab'lerinedir. O, işlediklerini haber verir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 34,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:34",
+      "word_position": 2,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmet için belirli bir süre vardır; vakitleri dolunca ne bir saat gecikebilir ne de öne geçebilirler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلِكُلِّ أُمَّةٍ أَجَلٌ فَإِذَا جَآءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmet için belirli bir süre vardır; vakitleri dolunca ne bir saat gecikebilir ne de öne geçebilirler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 38,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:38",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَمٍ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن",
+      "context_snippet_turkish_tabula_rasa": "Allah, \" Sizden önce geçmiş görünmeyen bilinçli varlık ve insan ümmetleriyle beraber ateşe girin\" der. Her ümmet girdikçe kendi yoldaşına lanet eder. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًا ضِعْفًا مِّنَ ٱلنَّارِ قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِن لَّا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \" Sizden önce geçmiş görünmeyen bilinçli varlık ve insan ümmetleriyle beraber ateşe girin\" der. Her ümmet girdikçe kendi yoldaşına lanet eder. Hepsi birbiri ardından yakıcı yıkım yurdunda toplanınca, sonrakiler öncekiler için, \"Rabbimiz! Bizi sapıtanlar işte bunlardır, onlara ateş azabını kat kat ver\" derler, Allah, \"Hepsinin kat kattır, ama bilmezsiniz\" der.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 38,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:38",
+      "word_position": 16,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "ٱلنَّارِ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Allah, \" Sizden önce geçmiş görünmeyen bilinçli varlık ve insan ümmetleriyle beraber ateşe girin\" der. Her ümmet girdikçe kendi yoldaşına lanet eder. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًا ضِعْفًا مِّنَ ٱلنَّارِ قَالَ لِكُلٍّ ضِعْفٌ وَلَٰكِن لَّا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, \" Sizden önce geçmiş görünmeyen bilinçli varlık ve insan ümmetleriyle beraber ateşe girin\" der. Her ümmet girdikçe kendi yoldaşına lanet eder. Hepsi birbiri ardından yakıcı yıkım yurdunda toplanınca, sonrakiler öncekiler için, \"Rabbimiz! Bizi sapıtanlar işte bunlardır, onlara ateş azabını kat kat ver\" derler, Allah, \"Hepsinin kat kattır, ama bilmezsiniz\" der.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 150,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:150",
+      "word_position": 25,
+      "target_word_uthmani": "أُمَّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى",
+      "context_snippet_turkish_tabula_rasa": "... Harun: \"Ey annem oğlu! Bu millet beni küçümsedi; az kalsın öldürüyorlardı. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, milletine, kızgın ve üzgün olarak dönünce \"Benim arkamdan ne kötü olmuşsunuz! Rabbinizin emrinin çabucak gelmesini mi istiyorsunuz?\" dedi, levhaları attı ve kardeşinin başından tutup kendine doğru çekti. Harun: \"Ey annem oğlu! Bu millet beni küçümsedi; az kalsın öldürüyorlardı. Bana, düşmanları sevindirecek şekilde davranma, beni bu zalim milletle bir sayma\" dedi.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 157,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:157",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْأُمِّىَّ",
+      "target_word_rasm": "ٱلأمى",
+      "target_word_literal_irab": "Okuryazarlık/kitap geleneği dışı fıtrat üzere yetişen (`ٱلْأُمِّىَّ / ٱلْأُمِّيِّ`, nispet sıfatı)",
+      "context_snippet_arabic": "يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا",
+      "context_snippet_turkish_tabula_rasa": "\"Bu dünyada ve ahirette bizim için güzel olanı yaz; biz Sana yöneldik\" dedi. Allah: ...",
+      "morphology": {
+        "lemma": ">um~iY~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>um~iY~|ROOT:Amm|MS|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu dünyada ve ahirette bizim için güzel olanı yaz; biz Sana yöneldik\" dedi. Allah: \"Azabıma dilediğim kimseyi uğratırım, rahmetim herşeyi kaplamıştır; bunu Allah'a karşı gelmekten sakınanlara, arınma ve gelişme payı verenlere, ayetlerimize güvene erip, yanlarındaki Tevrat ve İncil'de yazılı buldukları, okuyup yazması olmayan elçiye uyanlara yazacağız. O elçi, onlara, uygun olanı emreder ve fenalıktan meneder, temiz şeyleri helal, murdar şeyleri haram kılar, onların ağır yüklerini indirir, zor tekliflerini hafifletir. Bu elçiye güvene eren, hürmet eden, yardım eden, onunla gönderilen nura uyanlar yok mu? İşte onlar saadete erenlerdir\" dedi.",
+      "contextual_meaning": "Vahiy elçisinin sıfatı (`ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ`): Önceki yazılı kitap geleneklerinin dışından yetişmiş fıtrî elçi."
+    },
+    {
+      "surah": 7,
+      "ayah": 158,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:158",
+      "word_position": 24,
+      "target_word_uthmani": "ٱلْأُمِّىِّ",
+      "target_word_rasm": "ٱلأمى",
+      "target_word_literal_irab": "Okuryazarlık/kitap geleneği dışı fıtrat üzere yetişen (`ٱلْأُمِّىَّ / ٱلْأُمِّيِّ`, nispet sıfatı)",
+      "context_snippet_arabic": "بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey insanlar! Doğrusu ben, göklerin ve yerin hükümranı, O'ndan başka sığınak mercii (ilâh) bulunmayan, dirilten ve öldüren Allah'ın, hepiniz için gönderdiği elçisiyim. Allah'a ve okuyup yazması olmayan, haber getiren elçisine -ki o da Allah'a ve sözlerine güven duy- güvene erin; ...",
+      "morphology": {
+        "lemma": ">um~iY~",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:>um~iY~|ROOT:Amm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ey insanlar! Doğrusu ben, göklerin ve yerin hükümranı, O'ndan başka sığınak mercii (ilâh) bulunmayan, dirilten ve öldüren Allah'ın, hepiniz için gönderdiği elçisiyim. Allah'a ve okuyup yazması olmayan, haber getiren elçisine -ki o da Allah'a ve sözlerine güven duy- güvene erin; ona uyun ki doğru yolu bulasınız.\"",
+      "contextual_meaning": "Vahiy elçisinin sıfatı (`ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ`): Önceki yazılı kitap geleneklerinin dışından yetişmiş fıtrî elçi."
+    },
+    {
+      "surah": 7,
+      "ayah": 159,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:159",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın milletinden bir topluluk hakkı gösterirler ve onunla hükmederlerdi.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِن قَوْمِ مُوسَىٰٓ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın milletinden bir topluluk hakkı gösterirler ve onunla hükmederlerdi.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 160,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:160",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَمًا",
+      "target_word_rasm": "أمما",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Biz İsrailoğullarını oymaklar halinde on iki topluluğa ayırdık. Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz İsrailoğullarını oymaklar halinde on iki topluluğa ayırdık. Milleti Musa'dan su isteyince ona: \"Asanla taşa vur\" diye bildirdik; ondan on iki pınar fışkırdı. Herkes içeceği yeri öğrendi. Bulutla üzerlerine gölge yaptık, onlara kudret helvası ve bıldırcın indirdik, \"Size verdiğimiz rızıkların temiz olanlarından yiyin\" dedik. Onlar, karşı gelmekle, Bize değil kendilerine zulmediyorlardı.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 164,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:164",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَإِذْ قَالَتْ أُمَّةٌ مِّنْهُمْ لِمَ تَعِظُونَ",
+      "context_snippet_turkish_tabula_rasa": "Aralarından bir topluluk: \"Allah'ın yok edeceği veya şiddetli azaba uğratacağı bir millete niçin öğüt veriyorsunuz?\" dediler. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قَالَتْ أُمَّةٌ مِّنْهُمْ لِمَ تَعِظُونَ قَوْمًا ٱللَّهُ مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَابًا شَدِيدًا قَالُوا۟ مَعْذِرَةً إِلَىٰ رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Aralarından bir topluluk: \"Allah'ın yok edeceği veya şiddetli azaba uğratacağı bir millete niçin öğüt veriyorsunuz?\" dediler. Öğüt verenler: \"Rabbinize, hiç değilse bir özür beyan edebilmemiz içindir, belki Allah'a karşı gelmekten sakınırlar\" dediler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 168,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:168",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَمًا",
+      "target_word_rasm": "أمما",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Biz onları yeryüzünde iyiler ve aşağılıklar olarak bölük bölük ayırdık; iyiliğe dönerler diye onları güzellikler ve kötülüklerle sınadık.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz onları yeryüzünde iyiler ve aşağılıklar olarak bölük bölük ayırdık; iyiliğe dönerler diye onları güzellikler ve kötülüklerle sınadık.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 7,
+      "ayah": 181,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:181",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَمِمَّنْ خَلَقْنَآ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Yarattıklarımızdan bir topluluk hakkı gösterirler ve onunla hükmederler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمِمَّنْ خَلَقْنَآ أُمَّةٌ يَهْدُونَ بِٱلْحَقِّ وَبِهِۦ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yarattıklarımızdan bir topluluk hakkı gösterirler ve onunla hükmederler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 9,
+      "ayah": 12,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:12",
+      "word_position": 11,
+      "target_word_uthmani": "أَئِمَّةَ",
+      "target_word_rasm": "أئمة",
+      "target_word_literal_irab": "Peşinden gidilen öncüler, önderler (`أَئِمَّةً / أَئِمَّةَ`, kırık çoğul isim)",
+      "context_snippet_arabic": "فِى دِينِكُمْ فَقَٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ إِنَّهُمْ لَآ",
+      "context_snippet_turkish_tabula_rasa": "Eğer andlaşmalarından sonra, bağlayıcı ahitlerini bozarlar, yaşam sisteminize dil uzatırlarsa, gerçeğin üzerini örtmede önde gidenlerle savaşın, çünkü onların b...",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِن نَّكَثُوٓا۟ أَيْمَٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ فَقَٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ إِنَّهُمْ لَآ أَيْمَٰنَ لَهُمْ لَعَلَّهُمْ يَنتَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer andlaşmalarından sonra, bağlayıcı ahitlerini bozarlar, yaşam sisteminize dil uzatırlarsa, gerçeğin üzerini örtmede önde gidenlerle savaşın, çünkü onların bağlayıcı ahitleri sayılmaz, belki vazgeçerler.",
+      "contextual_meaning": "Olumsuz öncülük (`9:12` gerçeği örtme öncüleri, `28:41` yakıcı ateşe çağıran liderler): `أَئِمَّة` kelimesinin hem iyilik hem kötülük önderliğinde kullanılabildiği."
+    },
+    {
+      "surah": 10,
+      "ayah": 19,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:19",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا",
+      "context_snippet_turkish_tabula_rasa": "İnsanlar bir tek ümmettiler, sonra ayrılığa düştüler; şayet Rabbinden, daha önce bir takdir geçmemiş olsaydı, aralarında ihtilafa düştükleri şeyler hakkında hüküm çoktan verilmiş olurdu.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İnsanlar bir tek ümmettiler, sonra ayrılığa düştüler; şayet Rabbinden, daha önce bir takdir geçmemiş olsaydı, aralarında ihtilafa düştükleri şeyler hakkında hüküm çoktan verilmiş olurdu.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 10,
+      "ayah": 47,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:47",
+      "word_position": 2,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَلِكُلِّ أُمَّةٍ رَّسُولٌ فَإِذَا جَآءَ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmetin bir elçiyi vardır. Onlara elçileri geldiğinde aralarında adaletle hüküm verilmiş olur. Onların hakları yenmez.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلِكُلِّ أُمَّةٍ رَّسُولٌ فَإِذَا جَآءَ رَسُولُهُمْ قُضِىَ بَيْنَهُم بِٱلْقِسْطِ وَهُمْ لَا يُظْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmetin bir elçiyi vardır. Onlara elçileri geldiğinde aralarında adaletle hüküm verilmiş olur. Onların hakları yenmez.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 10,
+      "ayah": 49,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:49",
+      "word_position": 13,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ لِكُلِّ أُمَّةٍ أَجَلٌ إِذَا جَآءَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın dilemesi dışında ben kendime bir fayda ve zarar verecek durumda değilim. Her ümmet için bir süre vardır; süreleri sona erince bir saat bile geciktirilmezler ve öne de alınmazlar. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ لِكُلِّ أُمَّةٍ أَجَلٌ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ın dilemesi dışında ben kendime bir fayda ve zarar verecek durumda değilim. Her ümmet için bir süre vardır; süreleri sona erince bir saat bile geciktirilmezler ve öne de alınmazlar.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 11,
+      "ayah": 8,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:8",
+      "word_position": 6,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Belirli ve sayılı bir zaman dilimi / uzunca bir süre (`أُمَّةٍ مَّعْدُودَةٍ / بَعْدَ أُمَّةٍ`, isim mecrûr)",
+      "context_snippet_arabic": "عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, onların azabını sayılı bir süreye kadar ertelesek, \"Onu alıkoyan nedir?\" derler. Bilin ki, onlara azab geldiği gün, artık geri çevrilmez; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَئِنْ أَخَّرْنَا عَنْهُمُ ٱلْعَذَابَ إِلَىٰٓ أُمَّةٍ مَّعْدُودَةٍ لَّيَقُولُنَّ مَا يَحْبِسُهُۥٓ أَلَا يَوْمَ يَأْتِيهِمْ لَيْسَ مَصْرُوفًا عَنْهُمْ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, onların azabını sayılı bir süreye kadar ertelesek, \"Onu alıkoyan nedir?\" derler. Bilin ki, onlara azab geldiği gün, artık geri çevrilmez; alaya aldıkları şey onları mahvedecektir.",
+      "contextual_meaning": "Zaman birimi olarak `أُمَّة` (`11:8` sayılı bir süreye ertelenmesi, `12:45` uzun bir zaman dilimi sonra hatırlaması)."
+    },
+    {
+      "surah": 11,
+      "ayah": 17,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:17",
+      "word_position": 14,
+      "target_word_uthmani": "إِمَامًا",
+      "target_word_rasm": "إماما",
+      "target_word_literal_irab": "Örnek rehber, öncü kitap veya çağrı sicili (`إِمَامًا / بِإِمَٰمِهِمْ`, tekil isim)",
+      "context_snippet_arabic": "قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً أُو۟لَٰٓئِكَ يُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbinin katından bir belgesi ve onun arkasından da bir şahidi olanlar, önlerinde de Musa'nın Kitap'ı önder ve rahmet olarak bulunanlardır ki, işte onlar Kuran'a güven duyup emin olurlar. Hangi topluluk onu gerçeğin üzerini örterse yeri ateştir; ...",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbinin katından bir belgesi ve onun arkasından da bir şahidi olanlar, önlerinde de Musa'nın Kitap'ı önder ve rahmet olarak bulunanlardır ki, işte onlar Kuran'a güven duyup emin olurlar. Hangi topluluk onu gerçeğin üzerini örterse yeri ateştir; senin de bundan şüphen olmasın. Doğrusu o, Rabbinden bir gerçektir, fakat insanların çoğu güven duyup teslim olmazlar.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 11,
+      "ayah": 48,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:48",
+      "word_position": 9,
+      "target_word_uthmani": "أُمَمٍ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ وَأُمَمٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Nuh! Sana ve seninle beraber olan topluluklara bizden bir selamet ve bereketle gemiden in. Ama birçok toplulukları da geçindireceğiz, sonra onlara can yakıcı bir azab vereceğiz\" denildi.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Nuh! Sana ve seninle beraber olan topluluklara bizden bir selamet ve bereketle gemiden in. Ama birçok toplulukları da geçindireceğiz, sonra onlara can yakıcı bir azab vereceğiz\" denildi.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 11,
+      "ayah": 48,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:48",
+      "word_position": 12,
+      "target_word_uthmani": "وَأُمَمٌ",
+      "target_word_rasm": "وأمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "أُمَمٍ مِّمَّن مَّعَكَ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Nuh! Sana ve seninle beraber olan topluluklara bizden bir selamet ve bereketle gemiden in. Ama birçok toplulukları da geçindireceğiz, sonra onlara can yakıcı bir azab vereceğiz\" denildi.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قِيلَ يَٰنُوحُ ٱهْبِطْ بِسَلَٰمٍ مِّنَّا وَبَرَكَٰتٍ عَلَيْكَ وَعَلَىٰٓ أُمَمٍ مِّمَّن مَّعَكَ وَأُمَمٌ سَنُمَتِّعُهُمْ ثُمَّ يَمَسُّهُم مِّنَّا عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Nuh! Sana ve seninle beraber olan topluluklara bizden bir selamet ve bereketle gemiden in. Ama birçok toplulukları da geçindireceğiz, sonra onlara can yakıcı bir azab vereceğiz\" denildi.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 11,
+      "ayah": 118,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:118",
+      "word_position": 6,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةً وَٰحِدَةً وَلَا يَزَالُونَ",
+      "context_snippet_turkish_tabula_rasa": "Eğer Rabbin dileseydi insanları tek bir ümmet kılardı. Fakat, Rabbinin merhamet ettikleri bir yana, hala ayrılıktadırlar, esasen onları bunun için yaratmıştır. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةً وَٰحِدَةً وَلَا يَزَالُونَ مُخْتَلِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer Rabbin dileseydi insanları tek bir ümmet kılardı. Fakat, Rabbinin merhamet ettikleri bir yana, hala ayrılıktadırlar, esasen onları bunun için yaratmıştır. Rabbinin \"And olsun ki yakıcı yıkım yurdunu hep insan ve görünmeyen bilinçli varlık ile dolduracağım\" sözü yerine gelmiştir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 12,
+      "ayah": 45,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:45",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Belirli ve sayılı bir zaman dilimi / uzunca bir süre (`أُمَّةٍ مَّعْدُودَةٍ / بَعْدَ أُمَّةٍ`, isim mecrûr)",
+      "context_snippet_arabic": "مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Hapisteki iki kişiden kurtulmuş olanı, nice zaman sonra Yusuf'u hatırladı ve: \"Ben size bunu yorumlayacağım, hele beni gönderin\" dedi.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Hapisteki iki kişiden kurtulmuş olanı, nice zaman sonra Yusuf'u hatırladı ve: \"Ben size bunu yorumlayacağım, hele beni gönderin\" dedi.",
+      "contextual_meaning": "Zaman birimi olarak `أُمَّة` (`11:8` sayılı bir süreye ertelenmesi, `12:45` uzun bir zaman dilimi sonra hatırlaması)."
+    },
+    {
+      "surah": 13,
+      "ayah": 30,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:30",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن",
+      "context_snippet_turkish_tabula_rasa": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; de ki: \"O benim Rabbim'dir, O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güvenirim, dönüşüm de O'nadır.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 13,
+      "ayah": 30,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:30",
+      "word_position": 9,
+      "target_word_uthmani": "أُمَمٌ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana vahyettiğimizi okuman için, seni de onlardan önce nice ümmetlerin gelip geçtiği bir ümmete gönderdik; o ümmet merhametli olan Allah'ı gerçeğin üzerini örter; de ki: \"O benim Rabbim'dir, O'ndan başka sığınak mercii (ilâh) yoktur, yalnız O'na güvenirim, dönüşüm de O'nadır.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 13,
+      "ayah": 39,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:39",
+      "word_position": 7,
+      "target_word_uthmani": "أُمُّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Kitabın veya kentlerin ana merkezi/kaynağı yahut sarılacak kucak (`أُمُّ ٱلْكِتَٰبِ / أُمَّ ٱلْقُرَىٰ / أُمُّهُۥ هَاوِيَةٌ`, tekil isim)",
+      "context_snippet_arabic": "يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ",
+      "context_snippet_turkish_tabula_rasa": "Allah dilediğini siler, dilediğini bırakır; Ana Kitap O'nun katındadır.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dilediğini siler, dilediğini bırakır; Ana Kitap O'nun katındadır.",
+      "contextual_meaning": "Ana merkez ve kaynak mecazı (`3:7`, `13:39`, `43:4` hükümlerin dayandığı `أُمُّ ٱلْكِتَٰبِ`, `6:92`, `42:7` kentlerin anası `أُمَّ ٱلْقُرَىٰ`, `101:9` sarıp kuşatan derin uçurum)."
+    },
+    {
+      "surah": 15,
+      "ayah": 5,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:5",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir ümmet kendi süresini öne alamaz, geciktiremez de.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَّا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir ümmet kendi süresini öne alamaz, geciktiremez de.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 15,
+      "ayah": 79,
+      "surah_name": "Hicr",
+      "ayah_ref": "15:79",
+      "word_position": 4,
+      "target_word_uthmani": "لَبِإِمَامٍ",
+      "target_word_rasm": "لبإمام",
+      "target_word_literal_irab": "Apaçık göz önündeki ana yol veya kapsamlı ana kayıt sicili (`بِإِمَامٍ مُّبِينٍ / إِمَامٍ مُّبِينٍ`, tekil isim mecrûr)",
+      "context_snippet_arabic": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Bunun için onlardan da öç aldık. Hala her iki memleket de işlek bir yol üzerindedirler.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunun için onlardan da öç aldık. Hala her iki memleket de işlek bir yol üzerindedirler.",
+      "contextual_meaning": "Ana yol ve ana sicil (`15:79` hâlâ göz önündeki işlek ana yol üzerinde; `36:12` her izin ve eserin yazıldığı apaçık ana kütük)."
+    },
+    {
+      "surah": 16,
+      "ayah": 36,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:36",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولًا أَنِ ٱعْبُدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki, her ümmete: \"Allah'a kulluk edin, azdırıcılardan kaçının\" diyen elçi göndermişizdir. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّٰغُوتَ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَٰلَةُ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, her ümmete: \"Allah'a kulluk edin, azdırıcılardan kaçının\" diyen elçi göndermişizdir. Allah içlerinden kimini doğru yola eriştirdi, kimi de sapıklığı haketti. Yeryüzünde gezin; elçileri yalanlayanların sonlarının nasıl olduğunugörün.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 63,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:63",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَمٍ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "لَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a and olsun ki, senden önceki ümmetlere elçiler gönderdik. saptırıcı yıkıcı güç yaptıklarını onlara hep güzel gösterdi. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "تَٱللَّهِ لَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَهُوَ وَلِيُّهُمُ ٱلْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a and olsun ki, senden önceki ümmetlere elçiler gönderdik. saptırıcı yıkıcı güç yaptıklarını onlara hep güzel gösterdi. Bugün de dostları odur. Onlara can yakıcı azap vardır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 78,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:78",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّهَٰتِكُمْ",
+      "target_word_rasm": "أمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا",
+      "context_snippet_turkish_tabula_rasa": "Allah sizi annelerinizin karnından bir şey bilmez halde çıkarmıştır. Belki nimetin değerini bilip açığa vurursunuz diye size kulak, göz ve kalp vermiştir.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah sizi annelerinizin karnından bir şey bilmez halde çıkarmıştır. Belki nimetin değerini bilip açığa vurursunuz diye size kulak, göz ve kalp vermiştir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 84,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:84",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "نَبْعَثُ مِن كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا",
+      "context_snippet_turkish_tabula_rasa": "Kıyamet günü her ümmetten bir şahit getiririz; gerçeğin üzerini örtenlere itiraz için izin de verilmez, onların özürleri de dinlenmez.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ نَبْعَثُ مِن كُلِّ أُمَّةٍ شَهِيدًا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا۟ وَلَا هُمْ يُسْتَعْتَبُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kıyamet günü her ümmetten bir şahit getiririz; gerçeğin üzerini örtenlere itiraz için izin de verilmez, onların özürleri de dinlenmez.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 89,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:89",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "نَبْعَثُ فِى كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِم مِّنْ",
+      "context_snippet_turkish_tabula_rasa": "O gün her ümmetten bir kişiyi onlara şahit tutarız. Seni de ümmetine şahit getiririz. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ نَبْعَثُ فِى كُلِّ أُمَّةٍ شَهِيدًا عَلَيْهِم مِّنْ أَنفُسِهِمْ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَٰٓؤُلَآءِ وَنَزَّلْنَا عَلَيْكَ ٱلْكِتَٰبَ تِبْيَٰنًا لِّكُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً وَبُشْرَىٰ لِلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün her ümmetten bir kişiyi onlara şahit tutarız. Seni de ümmetine şahit getiririz. Sana her şeyi açıklayan ve Müslümanlara doğruyu gösteren bir rehber, rahmet ve müjde olarak Kuran'ı indirdik.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 92,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:92",
+      "word_position": 16,
+      "target_word_uthmani": "أُمَّةٌ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ",
+      "context_snippet_turkish_tabula_rasa": "Bir ümmetin diğerinden daha çok olmasından ötürü, aranızdaki bağlayıcı ahitleri bozarak, ipliğini iyice eğirip katladıktan sonra bozan kadın gibi olmayın. Allah onunla sizi dener. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَٰثًا تَتَّخِذُونَ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir ümmetin diğerinden daha çok olmasından ötürü, aranızdaki bağlayıcı ahitleri bozarak, ipliğini iyice eğirip katladıktan sonra bozan kadın gibi olmayın. Allah onunla sizi dener. And olsun ki, ayrılığa düştüğünüz şeyleri size kıyamet günü açıklar.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 92,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:92",
+      "word_position": 20,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "هِىَ أَرْبَىٰ مِنْ أُمَّةٍ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Bir ümmetin diğerinden daha çok olmasından ötürü, aranızdaki bağlayıcı ahitleri bozarak, ipliğini iyice eğirip katladıktan sonra bozan kadın gibi olmayın. Allah onunla sizi dener. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَٰثًا تَتَّخِذُونَ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bir ümmetin diğerinden daha çok olmasından ötürü, aranızdaki bağlayıcı ahitleri bozarak, ipliğini iyice eğirip katladıktan sonra bozan kadın gibi olmayın. Allah onunla sizi dener. And olsun ki, ayrılığa düştüğünüz şeyleri size kıyamet günü açıklar.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 93,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:93",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُضِلُّ",
+      "context_snippet_turkish_tabula_rasa": "Allah dileseydi sizi tek bir ümmet yapardı. Ama O, istediğini saptırır, istediğini doğru yola eriştirir. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَلَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah dileseydi sizi tek bir ümmet yapardı. Ama O, istediğini saptırır, istediğini doğru yola eriştirir. İşlediklerinizden, and olsun ki, sorumlu tutulacaksınız.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 16,
+      "ayah": 120,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:120",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Tek başına başlı başına bir örnek topluluk/model şahsiyet (`أُمَّةً`, tekil isim mansûb)",
+      "context_snippet_arabic": "إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا",
+      "context_snippet_turkish_tabula_rasa": "İbrahim, şüphesiz Allah'a boyun eğen ve O'na yönelen bir önderdi; puta tapanlardan değildi.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İbrahim, şüphesiz Allah'a boyun eğen ve O'na yönelen bir önderdi; puta tapanlardan değildi.",
+      "contextual_meaning": "Tek kişilik model (`إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةً` `16:120`): Bir değer sistemini tek başına temsil eden kimsenin başlı başına bir ümmet oluşu."
+    },
+    {
+      "surah": 17,
+      "ayah": 71,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:71",
+      "word_position": 5,
+      "target_word_uthmani": "بِإِمَٰمِهِمْ",
+      "target_word_rasm": "بإممهم",
+      "target_word_literal_irab": "Örnek rehber, öncü kitap veya çağrı sicili (`إِمَامًا / بِإِمَٰمِهِمْ`, tekil isim)",
+      "context_snippet_arabic": "نَدْعُوا۟ كُلَّ أُنَاسٍۭ بِإِمَٰمِهِمْ فَمَنْ أُوتِىَ كِتَٰبَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Bir gün bütün insanları önderleriyle beraber çağırırız. O gün kitabı sağından verilenler, işte onlar kitablarını okurlar. Onlara kıl kadar haksizlik edilmez.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|GEN"
+      },
+      "ayah_text_arabic_full": "يَوْمَ نَدْعُوا۟ كُلَّ أُنَاسٍۭ بِإِمَٰمِهِمْ فَمَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُو۟لَٰٓئِكَ يَقْرَءُونَ كِتَٰبَهُمْ وَلَا يُظْلَمُونَ فَتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bir gün bütün insanları önderleriyle beraber çağırırız. O gün kitabı sağından verilenler, işte onlar kitablarını okurlar. Onlara kıl kadar haksizlik edilmez.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 28,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:28",
+      "word_position": 10,
+      "target_word_uthmani": "أُمُّكِ",
+      "target_word_rasm": "أمك",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "context_snippet_turkish_tabula_rasa": "... Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuğu alıp kavmine getirdi, onlar: \"Meryem! Utanılacak bir şey yaptın. Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi\" dediler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 20,
+      "ayah": 38,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:38",
+      "word_position": 4,
+      "target_word_uthmani": "أُمِّكَ",
+      "target_word_rasm": "أمك",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey Musa! İstediğin sana verildi\" dedi, \"Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ أَوْحَيْنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey Musa! İstediğin sana verildi\" dedi, \"Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 20,
+      "ayah": 40,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:40",
+      "word_position": 12,
+      "target_word_uthmani": "أُمِّكَ",
+      "target_word_rasm": "أمك",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Ona bakacak birini size göstereyim mi?\" diyordu. Böylece, annen üzülmesin, sevinsin diye, seni ona iade etmiştik. Sen bir cana kıymıştın, seni üzüntüden kurtarmış ve seni birçok musibetlerle denemiştik. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Kızkardeşin Firavun'un sarayına giderek: \"Ona bakacak birini size göstereyim mi?\" diyordu. Böylece, annen üzülmesin, sevinsin diye, seni ona iade etmiştik. Sen bir cana kıymıştın, seni üzüntüden kurtarmış ve seni birçok musibetlerle denemiştik. Bunun için, Medyen halkı arasında yıllarca kalmıştın. Sonra, ey Musa, elçilik görevi görevini yüklenecek bir yaşa gelince dönüp geldin.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 20,
+      "ayah": 94,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:94",
+      "word_position": 2,
+      "target_word_uthmani": "يَبْنَؤُمَّ",
+      "target_word_rasm": "يبنؤم",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى",
+      "context_snippet_turkish_tabula_rasa": "Harun: \"Ey Annemoğlu! Saçımdan sakalımdan tutma; doğrusu İsrailoğulları arasına ayrılık koydun, sözüme bakmadın demenden korktum\" dedi.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى",
+      "ayah_text_turkish_tabula_rasa_full": "Harun: \"Ey Annemoğlu! Saçımdan sakalımdan tutma; doğrusu İsrailoğulları arasına ayrılık koydun, sözüme bakmadın demenden korktum\" dedi.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 21,
+      "ayah": 73,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:73",
+      "word_position": 2,
+      "target_word_uthmani": "أَئِمَّةً",
+      "target_word_rasm": "أئمة",
+      "target_word_literal_irab": "Peşinden gidilen öncüler, önderler (`أَئِمَّةً / أَئِمَّةَ`, kırık çoğul isim)",
+      "context_snippet_arabic": "وَجَعَلْنَٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ",
+      "context_snippet_turkish_tabula_rasa": "Onları, buyruğumuz altında insanları doğru yola götüren önderler yaptık; onlara, iyi işler yapmayı, yöneliş ve sorumluluk bağı kılmayı, arınma ve gelişme payı vermeyi vahyettik. ...",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ وَكَانُوا۟ لَنَا عَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, buyruğumuz altında insanları doğru yola götüren önderler yaptık; onlara, iyi işler yapmayı, yöneliş ve sorumluluk bağı kılmayı, arınma ve gelişme payı vermeyi vahyettik. Onlar, bize kulluk eden kimselerdi.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 21,
+      "ayah": 92,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:92",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّتُكُمْ",
+      "target_word_rasm": "أمتكم",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu tevhid yaşam sistemini olan Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim, artık Bana kulluk edin.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu tevhid yaşam sistemini olan Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim, artık Bana kulluk edin.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 21,
+      "ayah": 92,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:92",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu tevhid yaşam sistemini olan Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim, artık Bana kulluk edin.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu tevhid yaşam sistemini olan Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim, artık Bana kulluk edin.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 22,
+      "ayah": 34,
+      "surah_name": "Hac",
+      "ayah_ref": "22:34",
+      "word_position": 2,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا لِّيَذْكُرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Her ümmet için, Allah'ın kendilerine rızk olarak verdiği yakınlaşma sunusu hayvanların üzerlerine O'nun adını anarak yakınlaşma sunusu kesmeyi meşru kıldık. Sizin sığınak merciiniz tek bir sığınak mercii (ilâh)'dır, O'na teslim olun. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا لِّيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ فَلَهُۥٓ أَسْلِمُوا۟ وَبَشِّرِ ٱلْمُخْبِتِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmet için, Allah'ın kendilerine rızk olarak verdiği yakınlaşma sunusu hayvanların üzerlerine O'nun adını anarak yakınlaşma sunusu kesmeyi meşru kıldık. Sizin sığınak merciiniz tek bir sığınak mercii (ilâh)'dır, O'na teslim olun. Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 22,
+      "ayah": 67,
+      "surah_name": "Hac",
+      "ayah_ref": "22:67",
+      "word_position": 2,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmete, yerine getirmeleri gerekli kulluk ve yönelişler koyduk. Öyleyse, bu konuda seninle çekişmelerine fırsat verme; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "لِّكُلِّ أُمَّةٍ جَعَلْنَا مَنسَكًا هُمْ نَاسِكُوهُ فَلَا يُنَٰزِعُنَّكَ فِى ٱلْأَمْرِ وَٱدْعُ إِلَىٰ رَبِّكَ إِنَّكَ لَعَلَىٰ هُدًى مُّسْتَقِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmete, yerine getirmeleri gerekli kulluk ve yönelişler koyduk. Öyleyse, bu konuda seninle çekişmelerine fırsat verme; Rabbine davet et, sen şüphesiz doğru yol üzerindesin. Seninle tartışırlarsa: \"Allah yaptığınızı çok iyi bilir; ayrılığa düştüğünüz şeyler hakkında, kıyamet günü aranızda Allah hükmedecektir\" de.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 23,
+      "ayah": 43,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:43",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+      "context_snippet_turkish_tabula_rasa": "Hiçbir ümmet, kendi süresini ne çabuklaştırabilir ve ne de geciktirebilir.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hiçbir ümmet, kendi süresini ne çabuklaştırabilir ve ne de geciktirebilir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 23,
+      "ayah": 44,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:44",
+      "word_position": 8,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ فَأَتْبَعْنَا",
+      "context_snippet_turkish_tabula_rasa": "Sonra birbiri peşinden elçi gönderdik. Her ümmete elçiyi geldikçe onu yalancı saydılar. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ فَأَتْبَعْنَا بَعْضَهُم بَعْضًا وَجَعَلْنَٰهُمْ أَحَادِيثَ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra birbiri peşinden elçi gönderdik. Her ümmete elçiyi geldikçe onu yalancı saydılar. Onları birbiri peşinden yok edip hepsini birer efsane yaptık. güven duy millet, rahmetden ırak olsun!",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 23,
+      "ayah": 50,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:50",
+      "word_position": 4,
+      "target_word_uthmani": "وَأُمَّهُۥٓ",
+      "target_word_rasm": "وأمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَٰهُمَآ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Meryem oğlunu da, annesini de apaçık gösterge kıldık. Her ikisini de, pınarı bulunan, oturmaya elverişli yüksek bir yere yerleştirdik.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Meryem oğlunu da, annesini de apaçık gösterge kıldık. Her ikisini de, pınarı bulunan, oturmaya elverişli yüksek bir yere yerleştirdik.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 23,
+      "ayah": 52,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:52",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّتُكُمْ",
+      "target_word_rasm": "أمتكم",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz bu Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim; öyleyse Benden sakının.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz bu Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim; öyleyse Benden sakının.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 23,
+      "ayah": 52,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:52",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz bu Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim; öyleyse Benden sakının.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz bu Müslümanlık, bir tek yaşam ve hesap sistemi olarak sizin yaşam sisteminizdir ve Ben de Rabbinizim; öyleyse Benden sakının.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 24,
+      "ayah": 61,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:61",
+      "word_position": 25,
+      "target_word_uthmani": "أُمَّهَٰتِكُمْ",
+      "target_word_rasm": "أمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kör için bir sorumluluk yoktur. Topal için bir sorumluluk yoktur. Hastaya da bir sorumluluk yoktur. Evlerinizde veya babalarınızın evlerinde veya annelerinizin evlerinde veya erkek kardeşlerinizin evlerinde veya kız kardeşlerinizin evlerinde veya amcalarınızın evlerinde veya halalarınızın evlerinde veya dayılarınızın evlerinde veya teyzelerinizin evlerinde veya kahyası olup anahtarları elinde olan evlerde, ya da dostlarınızın evlerinde izinsiz yemek yemenizde bir sorumluluk yoktur. Bir arada veya ayrı ayrı yemenizde de bir sorumluluk yoktur. Evlere girdiğiniz zaman, kendinize ehlinize Allah katından bereket, esenlik ve güzellik dileyerek selam verin. Allah size ayetleri, düşünesiniz diye böylece açıklar.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 25,
+      "ayah": 74,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:74",
+      "word_position": 13,
+      "target_word_uthmani": "إِمَامًا",
+      "target_word_rasm": "إماما",
+      "target_word_literal_irab": "Örnek rehber, öncü kitap veya çağrı sicili (`إِمَامًا / بِإِمَٰمِهِمْ`, tekil isim)",
+      "context_snippet_arabic": "أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbimiz! Bize eşlerimizden ve çocuklarımızdan gözümüzün aydınlığı olacak insanlar ihsan et ve bizi, Allah'a karşı gelmekten sakınanlara önder yap\" derler.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar: \"Rabbimiz! Bize eşlerimizden ve çocuklarımızdan gözümüzün aydınlığı olacak insanlar ihsan et ve bizi, Allah'a karşı gelmekten sakınanlara önder yap\" derler.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 27,
+      "ayah": 83,
+      "surah_name": "Neml",
+      "ayah_ref": "27:83",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ",
+      "context_snippet_turkish_tabula_rasa": "O gün her ümmetin ayetlerimizi yalanlayanlarını toplarız. Onlar bir arada tutulup, hesap yerine sevkedilirler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمْ يُوزَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün her ümmetin ayetlerimizi yalanlayanlarını toplarız. Onlar bir arada tutulup, hesap yerine sevkedilirler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 28,
+      "ayah": 5,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:5",
+      "word_position": 10,
+      "target_word_uthmani": "أَئِمَّةً",
+      "target_word_rasm": "أئمة",
+      "target_word_literal_irab": "Peşinden gidilen öncüler, önderler (`أَئِمَّةً / أَئِمَّةَ`, kırık çoğul isim)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ",
+      "context_snippet_turkish_tabula_rasa": "Biz, memlekette güçsüz sayılanlara iyilikte bulunmak, onları önderler kılmak, onları varis yapmak, memlekete yerleştirmek; Firavun, Haman ve her ikisinin askerlerine, çekinmekte oldukları şeyleri göstermek istiyorduk.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسْتُضْعِفُوا۟ فِى ٱلْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ ٱلْوَٰرِثِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz, memlekette güçsüz sayılanlara iyilikte bulunmak, onları önderler kılmak, onları varis yapmak, memlekete yerleştirmek; Firavun, Haman ve her ikisinin askerlerine, çekinmekte oldukları şeyleri göstermek istiyorduk.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 28,
+      "ayah": 7,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:7",
+      "word_position": 3,
+      "target_word_uthmani": "أُمِّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın annesine: \"Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın annesine: \"Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; korkma, üzülme; Biz şüphesiz onu sana döndüreceğiz ve elçi yapacağız\" diye bildirmiştik.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 28,
+      "ayah": 10,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:10",
+      "word_position": 3,
+      "target_word_uthmani": "أُمِّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا إِن",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın annesi, gönlü bomboş sabahı etti, oğlundan başka bir şey düşünemiyordu. Allah'ın vaadine iyice güven duy için kalbini pekiştirmeseydik, neredeyse saraya alınan çocuğun kendi oğlu olduğunu açığa vuracaktı.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَٰرِغًا إِن كَادَتْ لَتُبْدِى بِهِۦ لَوْلَآ أَن رَّبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın annesi, gönlü bomboş sabahı etti, oğlundan başka bir şey düşünemiyordu. Allah'ın vaadine iyice güven duy için kalbini pekiştirmeseydik, neredeyse saraya alınan çocuğun kendi oğlu olduğunu açığa vuracaktı.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 28,
+      "ayah": 13,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:13",
+      "word_position": 3,
+      "target_word_uthmani": "أُمِّهِۦ",
+      "target_word_rasm": "أمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا",
+      "context_snippet_turkish_tabula_rasa": "Böylece onu, annesinin gözü aydın olsun, üzülmesin, Allah'ın verdiği sözün gerçek olduğunu bilsin diye, ona geri çevirdik. Fakat çoğu bilmezler.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "فَرَدَدْنَٰهُ إِلَىٰٓ أُمِّهِۦ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece onu, annesinin gözü aydın olsun, üzülmesin, Allah'ın verdiği sözün gerçek olduğunu bilsin diye, ona geri çevirdik. Fakat çoğu bilmezler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 28,
+      "ayah": 23,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:23",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Derdiniz nedir?\" dedi. \"Çobanlar ayrılana kadar biz sulamayız. Babamız çok yaşlıdır, onun için bu işi biz yapıyoruz\" dediler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen suyuna geldiğinde, davarlarını sulayan bir insan topluluğu buldu. Onlardan başka, hayvanlarını sudan alıkoyan iki kadın gördü. Onlara: \"Derdiniz nedir?\" dedi. \"Çobanlar ayrılana kadar biz sulamayız. Babamız çok yaşlıdır, onun için bu işi biz yapıyoruz\" dediler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 28,
+      "ayah": 41,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:41",
+      "word_position": 2,
+      "target_word_uthmani": "أَئِمَّةً",
+      "target_word_rasm": "أئمة",
+      "target_word_literal_irab": "Peşinden gidilen öncüler, önderler (`أَئِمَّةً / أَئِمَّةَ`, kırık çoğul isim)",
+      "context_snippet_arabic": "وَجَعَلْنَٰهُمْ أَئِمَّةً يَدْعُونَ إِلَى ٱلنَّارِ",
+      "context_snippet_turkish_tabula_rasa": "Onları, ateşe çağıran önderler kıldık; kıyamet günü yardım görmezler.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَٰهُمْ أَئِمَّةً يَدْعُونَ إِلَى ٱلنَّارِ وَيَوْمَ ٱلْقِيَٰمَةِ لَا يُنصَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, ateşe çağıran önderler kıldık; kıyamet günü yardım görmezler.",
+      "contextual_meaning": "Olumsuz öncülük (`9:12` gerçeği örtme öncüleri, `28:41` yakıcı ateşe çağıran liderler): `أَئِمَّة` kelimesinin hem iyilik hem kötülük önderliğinde kullanılabildiği."
+    },
+    {
+      "surah": 28,
+      "ayah": 59,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:59",
+      "word_position": 9,
+      "target_word_uthmani": "أُمِّهَا",
+      "target_word_rasm": "أمها",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Rabbin şehirlerin anasına, onlara ayetlerimizi okuyacak bir elçi göndermedikçe onları yok etmiş değildir. Zaten Biz yalnız, halkı zalim olan şehirleri yok etmişizdir.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِىٓ أُمِّهَا رَسُولًا يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَمَا كُنَّا مُهْلِكِى ٱلْقُرَىٰٓ إِلَّا وَأَهْلُهَا ظَٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbin şehirlerin anasına, onlara ayetlerimizi okuyacak bir elçi göndermedikçe onları yok etmiş değildir. Zaten Biz yalnız, halkı zalim olan şehirleri yok etmişizdir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 28,
+      "ayah": 75,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:75",
+      "word_position": 4,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Her ümmetten bir şahit çıkarır ve \"kesin delilinizi ortaya koyun\" deriz. O zaman, gerçeğin Allah'a ait olduğunu, uydurduklarının kendilerini bırakıp kaçtığını anlarlar.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmetten bir şahit çıkarır ve \"kesin delilinizi ortaya koyun\" deriz. O zaman, gerçeğin Allah'a ait olduğunu, uydurduklarının kendilerini bırakıp kaçtığını anlarlar.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 29,
+      "ayah": 18,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:18",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَمٌ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "تُكَذِّبُوا۟ فَقَدْ كَذَّبَ أُمَمٌ مِّن قَبْلِكُمْ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "Eğer siz elçiyi yalanlıyorsanız bilin ki, sizden önceki ümmetler de yalanlamışlardı. elçiye düşen, sadece apaçık tebliğdir.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَإِن تُكَذِّبُوا۟ فَقَدْ كَذَّبَ أُمَمٌ مِّن قَبْلِكُمْ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer siz elçiyi yalanlıyorsanız bilin ki, sizden önceki ümmetler de yalanlamışlardı. elçiye düşen, sadece apaçık tebliğdir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 31,
+      "ayah": 14,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:14",
+      "word_position": 5,
+      "target_word_uthmani": "أُمُّهُۥ",
+      "target_word_rasm": "أمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ",
+      "context_snippet_turkish_tabula_rasa": "Biz insana, ana ve babasına karşı iyi davranmasını tavsiye etmişizdir. Annesi onu, güçsüzlükten güçsüzlüğe uğrayarak karnında taşımıştı. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz insana, ana ve babasına karşı iyi davranmasını tavsiye etmişizdir. Annesi onu, güçsüzlükten güçsüzlüğe uğrayarak karnında taşımıştı. Çocuğun sütten kesilmesi iki yıl içinde olur. Bana ve ana babana nimetin değerini bilip açığa vur diye tavsiyede bulunmuşuzdur. Dönüş Bana'dır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 32,
+      "ayah": 24,
+      "surah_name": "Secde",
+      "ayah_ref": "32:24",
+      "word_position": 3,
+      "target_word_uthmani": "أَئِمَّةً",
+      "target_word_rasm": "أئمة",
+      "target_word_literal_irab": "Peşinden gidilen öncüler, önderler (`أَئِمَّةً / أَئِمَّةَ`, kırık çoğul isim)",
+      "context_snippet_arabic": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا",
+      "context_snippet_turkish_tabula_rasa": "sebat edip direnerek ayetlerimize kesin olarak güven duy ötürü, aralarından, onları buyruğumuzla doğru yola götüren önderler yaptık.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ وَكَانُوا۟ بِـَٔايَٰتِنَا يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat edip direnerek ayetlerimize kesin olarak güven duy ötürü, aralarından, onları buyruğumuzla doğru yola götüren önderler yaptık.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 33,
+      "ayah": 4,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:4",
+      "word_position": 15,
+      "target_word_uthmani": "أُمَّهَٰتِكُمْ",
+      "target_word_rasm": "أمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah, zıhar yapmanız suretiyle eşlerinizi, anneleriniz gibi yaratmamıştır; evlatlıklarınızı da öz oğullarınız gibi saymanızı meşru kılmamıştır. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah insanın içine iki kalp koymamıştır. Allah, zıhar yapmanız suretiyle eşlerinizi, anneleriniz gibi yaratmamıştır; evlatlıklarınızı da öz oğullarınız gibi saymanızı meşru kılmamıştır. Bunlar sizin dillerinize doladığınız boş sözlerdir. Allah gerçeği söylemektedir, doğru yola O eriştirir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 33,
+      "ayah": 6,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:6",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَّهَٰتُهُمْ",
+      "target_word_rasm": "أمهتهم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenlerin, elçiyi kendi kendi benliklerinden çok sevmeleri gerekir; onun eşleri onların anneleridir; akraba olanlar, miras hususunda, Allah'ın Kitap'ında birbirlerine güvene erenler ve muhacirlerden daha yakındırlar. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا كَانَ ذَٰلِكَ فِى ٱلْكِتَٰبِ مَسْطُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenlerin, elçiyi kendi kendi benliklerinden çok sevmeleri gerekir; onun eşleri onların anneleridir; akraba olanlar, miras hususunda, Allah'ın Kitap'ında birbirlerine güvene erenler ve muhacirlerden daha yakındırlar. Dostlarınıza yapacağınız uygun bir vasiyet bunun dışındadır. Bu Kitap'ta yazılı bulunmaktadır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 35,
+      "ayah": 24,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:24",
+      "word_position": 8,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَنَذِيرًا وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Biz seni, müjdeci ve uyarıcı olarak, gerçekle gönderdik. Geçmiş her ümmet içinde de mutlaka bir uyarıcı bulunagelmiştir.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Biz seni, müjdeci ve uyarıcı olarak, gerçekle gönderdik. Geçmiş her ümmet içinde de mutlaka bir uyarıcı bulunagelmiştir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 35,
+      "ayah": 42,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:42",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْأُمَمِ",
+      "target_word_rasm": "ٱلأمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا نُفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a bağlayıcı ahit etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 36,
+      "ayah": 12,
+      "surah_name": "Yâsîn",
+      "ayah_ref": "36:12",
+      "word_position": 13,
+      "target_word_uthmani": "إِمَامٍ",
+      "target_word_rasm": "إمام",
+      "target_word_literal_irab": "Apaçık göz önündeki ana yol veya kapsamlı ana kayıt sicili (`بِإِمَامٍ مُّبِينٍ / إِمَامٍ مُّبِينٍ`, tekil isim mecrûr)",
+      "context_snippet_arabic": "شَىْءٍ أَحْصَيْنَٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz ölüleri dirilten, işlediklerini ve eserlerini yazan Biziz; herşeyi, apaçık bir kitabda saymışızdır.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَٰرَهُمْ وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ فِىٓ إِمَامٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz ölüleri dirilten, işlediklerini ve eserlerini yazan Biziz; herşeyi, apaçık bir kitabda saymışızdır.",
+      "contextual_meaning": "Ana yol ve ana sicil (`15:79` hâlâ göz önündeki işlek ana yol üzerinde; `36:12` her izin ve eserin yazıldığı apaçık ana kütük)."
+    },
+    {
+      "surah": 39,
+      "ayah": 6,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:6",
+      "word_position": 18,
+      "target_word_uthmani": "أُمَّهَٰتِكُمْ",
+      "target_word_rasm": "أمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ",
+      "context_snippet_turkish_tabula_rasa": "Sizi bir tek tek bir candan ve özden yaratmış, sonra ondan eşini varetmiştir; sizin için hayvanlardan sekiz çift meydana getirmiştir; sizi annelerinizin karınlarında üç türlü karanlık içinde, yaratılıştan yaratılışa geçirerek yaratmıştır; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizi bir tek tek bir candan ve özden yaratmış, sonra ondan eşini varetmiştir; sizin için hayvanlardan sekiz çift meydana getirmiştir; sizi annelerinizin karınlarında üç türlü karanlık içinde, yaratılıştan yaratılışa geçirerek yaratmıştır; işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka sığınak mercii (ilâh) yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 40,
+      "ayah": 5,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:5",
+      "word_position": 10,
+      "target_word_uthmani": "أُمَّةٍۭ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "بَعْدِهِمْ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَٰدَلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Onlardan önce, Nuh milleti, ardından, elçilere karşı gelen topluluklar da elçilerini yalanlamış; her ümmet, elçisini cezalandırmaya azmetmişti. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَٱلْأَحْزَابُ مِنۢ بَعْدِهِمْ وَهَمَّتْ كُلُّ أُمَّةٍۭ بِرَسُولِهِمْ لِيَأْخُذُوهُ وَجَٰدَلُوا۟ بِٱلْبَٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ فَأَخَذْتُهُمْ فَكَيْفَ كَانَ عِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan önce, Nuh milleti, ardından, elçilere karşı gelen topluluklar da elçilerini yalanlamış; her ümmet, elçisini cezalandırmaya azmetmişti. Hakkı batılla gidermek için mücadele etmişlerdi. Bunun üzerine Ben onları yakaladım. Cezalandırmam nasılmış?",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 41,
+      "ayah": 25,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:25",
+      "word_position": 15,
+      "target_word_uthmani": "أُمَمٍ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن",
+      "context_snippet_turkish_tabula_rasa": "... Verilen söz, gerek görünmeyen bilinçli varlıklardan ve gerekse insanlardan, gelip geçmiş ümmetler içinde, onların aleyhine gerçekleşmiştir. Doğrusu onlar hüsranda idiler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yanına bir takım yardakçılar koyarız da geçmişlerini geleceklerini onlara güzel gösterirler. Verilen söz, gerek görünmeyen bilinçli varlıklardan ve gerekse insanlardan, gelip geçmiş ümmetler içinde, onların aleyhine gerçekleşmiştir. Doğrusu onlar hüsranda idiler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 42,
+      "ayah": 7,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:7",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Kitabın veya kentlerin ana merkezi/kaynağı yahut sarılacak kucak (`أُمُّ ٱلْكِتَٰبِ / أُمَّ ٱلْقُرَىٰ / أُمُّهُۥ هَاوِيَةٌ`, tekil isim)",
+      "context_snippet_arabic": "قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا",
+      "context_snippet_turkish_tabula_rasa": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|ACC"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ",
+      "ayah_text_turkish_tabula_rasa_full": "Böylece şehirlerin anası olan Mekke'de ve çevresinde bulunanları uyarman, şüphe götürmeyen toplanma günü ile uyarman için sana Arapça okunan bir Kitap vahyettik. İnsanların bir takımı esenlik bahçesine, bir takımı da çılgın alevli yakıcı yıkım yurduna girer.",
+      "contextual_meaning": "Ana merkez ve kaynak mecazı (`3:7`, `13:39`, `43:4` hükümlerin dayandığı `أُمُّ ٱلْكِتَٰبِ`, `6:92`, `42:7` kentlerin anası `أُمَّ ٱلْقُرَىٰ`, `101:9` sarıp kuşatan derin uçurum)."
+    },
+    {
+      "surah": 42,
+      "ayah": 8,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:8",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ",
+      "context_snippet_turkish_tabula_rasa": "Eğer dilemiş olsaydı hepsini bir tek ümmet yapardı. Ama, O, rahmetine dilediğini kavuşturur. Zalimlerin ise bir dost ve yardımcısı olmaz.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةً وَٰحِدَةً وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّ وَلَا نَصِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer dilemiş olsaydı hepsini bir tek ümmet yapardı. Ama, O, rahmetine dilediğini kavuşturur. Zalimlerin ise bir dost ve yardımcısı olmaz.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 43,
+      "ayah": 4,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:4",
+      "word_position": 3,
+      "target_word_uthmani": "أُمِّ",
+      "target_word_rasm": "أم",
+      "target_word_literal_irab": "Kitabın veya kentlerin ana merkezi/kaynağı yahut sarılacak kucak (`أُمُّ ٱلْكِتَٰبِ / أُمَّ ٱلْقُرَىٰ / أُمُّهُۥ هَاوِيَةٌ`, tekil isim)",
+      "context_snippet_arabic": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَٰبِ لَدَيْنَا لَعَلِىٌّ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz o, Bizim katımızda Ana Kitap'ta mevcut, yüce ve hikmet dolu bir Kitap'dır.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz o, Bizim katımızda Ana Kitap'ta mevcut, yüce ve hikmet dolu bir Kitap'dır.",
+      "contextual_meaning": "Ana merkez ve kaynak mecazı (`3:7`, `13:39`, `43:4` hükümlerin dayandığı `أُمُّ ٱلْكِتَٰبِ`, `6:92`, `42:7` kentlerin anası `أُمَّ ٱلْقُرَىٰ`, `101:9` sarıp kuşatan derin uçurum)."
+    },
+    {
+      "surah": 43,
+      "ayah": 22,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:22",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم",
+      "context_snippet_turkish_tabula_rasa": "Hayır; \"Doğrusu Biz babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerinden gitmekteyiz\" derler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; \"Doğrusu Biz babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerinden gitmekteyiz\" derler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 43,
+      "ayah": 23,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:23",
+      "word_position": 17,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم",
+      "context_snippet_turkish_tabula_rasa": "Senden önce, herhangi bir şehre gönderdiğimiz uyarıcıya, şımarık varlıklıları sadece: \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Senden önce, herhangi bir şehre gönderdiğimiz uyarıcıya, şımarık varlıklıları sadece: \"Doğrusu babalarımızı bir yaşam ve hesap sistemi üzerinde bulduk, biz de onların izlerini izlemekteyiz\" dediler.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 43,
+      "ayah": 33,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:33",
+      "word_position": 5,
+      "target_word_uthmani": "أُمَّةً",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "أَن يَكُونَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً لَّجَعَلْنَا لِمَن",
+      "context_snippet_turkish_tabula_rasa": "Eğer bütün insanlar tek ümmet olma durumuna gelmeyecek olsaydı, Rahman olan Allah'ı gerçeğin üzerini örtenlerin evlerinin tavanlarını, üzerinde yükseldikleri merdivenleri, evlerinin kapılarını, üzerine yaslanacakları kerevetleri gümüşten yapar ve altın bezeklerle işlerdik. Bunların hepsi ancak dünya hayatının geçimliğidir. ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَوْلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِٱلرَّحْمَٰنِ لِبُيُوتِهِمْ سُقُفًا مِّن فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer bütün insanlar tek ümmet olma durumuna gelmeyecek olsaydı, Rahman olan Allah'ı gerçeğin üzerini örtenlerin evlerinin tavanlarını, üzerinde yükseldikleri merdivenleri, evlerinin kapılarını, üzerine yaslanacakları kerevetleri gümüşten yapar ve altın bezeklerle işlerdik. Bunların hepsi ancak dünya hayatının geçimliğidir. Ahiret, Rabbinin katında O'na karşı gelmekten sakınanlaradır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 45,
+      "ayah": 28,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:28",
+      "word_position": 3,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ",
+      "context_snippet_turkish_tabula_rasa": "Her ümmeti diz üstü çökmüş olarak görürsün. Her ümmet kitabına çağrılır. Onlara denir ki: \"Bugün, size işlediğinizin karşılığı verilecektir.\"",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmeti diz üstü çökmüş olarak görürsün. Her ümmet kitabına çağrılır. Onlara denir ki: \"Bugün, size işlediğinizin karşılığı verilecektir.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 45,
+      "ayah": 28,
+      "surah_name": "Câsiye",
+      "ayah_ref": "45:28",
+      "word_position": 6,
+      "target_word_uthmani": "أُمَّةٍ",
+      "target_word_rasm": "أمة",
+      "target_word_literal_irab": "Ortak bir yöneliş, inanç veya yaşam yolu etrafında birleşen topluluk (`أُمَّةٌ / أُمَّةً / أُمَّتُكُمْ`, tekil isim)",
+      "context_snippet_arabic": "أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا",
+      "context_snippet_turkish_tabula_rasa": "Her ümmeti diz üstü çökmüş olarak görürsün. Her ümmet kitabına çağrılır. Onlara denir ki: \"Bugün, size işlediğinizin karşılığı verilecektir.\"",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FS|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmeti diz üstü çökmüş olarak görürsün. Her ümmet kitabına çağrılır. Onlara denir ki: \"Bugün, size işlediğinizin karşılığı verilecektir.\"",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 46,
+      "ayah": 12,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:12",
+      "word_position": 5,
+      "target_word_uthmani": "إِمَامًا",
+      "target_word_rasm": "إماما",
+      "target_word_literal_irab": "Örnek rehber, öncü kitap veya çağrı sicili (`إِمَامًا / بِإِمَٰمِهِمْ`, tekil isim)",
+      "context_snippet_arabic": "قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً وَهَٰذَا كِتَٰبٌ",
+      "context_snippet_turkish_tabula_rasa": "... Bu Kuran da, zulmedenleri uyarmak ve iyi davrananlara müjde olmak üzere Arap diliyle indirilmiş, kendinden öncekileri doğrulayan bir Kitap'dır.",
+      "morphology": {
+        "lemma": "<imaAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:<imaAm|ROOT:Amm|MS|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً وَهَٰذَا كِتَٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kuran'dan önce, Musa'nın kitabı (Tevrat), bir rahmet ve rehberdi. Bu Kuran da, zulmedenleri uyarmak ve iyi davrananlara müjde olmak üzere Arap diliyle indirilmiş, kendinden öncekileri doğrulayan bir Kitap'dır.",
+      "contextual_meaning": "Doğruluk önderliği ve rehber kitap (`2:124` İbrâhim'in insanlara önder kılınması, `11:17`, `46:12` Mûsâ'nın kitabı, `17:71` herkesin kendi önderi/kütüğüyle çağrılması, `21:73`, `25:74`, `28:5`, `32:24`)."
+    },
+    {
+      "surah": 46,
+      "ayah": 15,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:15",
+      "word_position": 6,
+      "target_word_uthmani": "أُمُّهُۥ",
+      "target_word_rasm": "أمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا",
+      "context_snippet_turkish_tabula_rasa": "Biz insana, anne ve babasına karşı iyi davranmasını tavsiye etmişizdir; zira annesi, onu, karnında, zorluğa uğrayarak taşımış; ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Biz insana, anne ve babasına karşı iyi davranmasını tavsiye etmişizdir; zira annesi, onu, karnında, zorluğa uğrayarak taşımış; onu güçlükle doğurmuştur. Taşınması ve sütten kesilmesi otuz ay sürer. Sonunda erginlik çağına erince ve kırk yaşına varınca: \"Rabbim! Bana ve anne babama verdiğin nimete nimetin değerini bilip açığa vurmamı ve benim hoşnut olacağın yararlı bir işi yapmamı sağla; bana verdiğin gibi soyuma da salah ver; doğrusu Sana yöneldim, ben, kendini Sana verenlerdenim\" demesi gerekir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 46,
+      "ayah": 18,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:18",
+      "word_position": 7,
+      "target_word_uthmani": "أُمَمٍ",
+      "target_word_rasm": "أمم",
+      "target_word_literal_irab": "Topluluklar, kuşaklar ve canlı türleri (`أُمَمٌ / أُمَمٍ / أُمَمًا`, kırık çoğul)",
+      "context_snippet_arabic": "عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن",
+      "context_snippet_turkish_tabula_rasa": "Annesine babasına: \"Of ikinizden; ...",
+      "morphology": {
+        "lemma": ">um~ap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~ap|ROOT:Amm|FP|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Annesine babasına: \"Of ikinizden; benden önce nice nesiller gelip geçmişken beni tekrar diriltilmemle mi tehdit ediyorsunuz?\" diyen kimseye, anne babası Allah'a sığınarak: \"Sana yazıklar olsun! güven duy; doğrusu Allah'ın sözü gerçektir\" dedikleri halde: \"Bu, Kuran öncekilerin masallarından başka bir şey değildir\" diye cevap verenler işte onlar kendilerinden önce görünmeyen bilinçli varlıklardan ve insanlardan gelip geçmiş ümmetler içinde, Allah'ın azap vadinin aleyhlerinde gerçekleştiği kimselerdir. Doğrusu onlar hüsranda olanlardır.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 53,
+      "ayah": 32,
+      "surah_name": "Necm",
+      "ayah_ref": "53:32",
+      "word_position": 24,
+      "target_word_uthmani": "أُمَّهَٰتِكُمْ",
+      "target_word_rasm": "أمهتكم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "أَجِنَّةٌ فِى بُطُونِ أُمَّهَٰتِكُمْ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... iyi davrananlara, ufak tefek kabahatleri bir yana büyük sapma ve kusurlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ إِنَّ رَبَّكَ وَٰسِعُ ٱلْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ أُمَّهَٰتِكُمْ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük sapma ve kusurlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 58,
+      "ayah": 2,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:2",
+      "word_position": 8,
+      "target_word_uthmani": "أُمَّهَٰتِهِمْ",
+      "target_word_rasm": "أمهتهم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "İçinizde karılarını \"zıhar\" yapanlar bilsinler ki, karıları anneleri değildir; anneleri ancak, onları doğuranlardır. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizde karılarını \"zıhar\" yapanlar bilsinler ki, karıları anneleri değildir; anneleri ancak, onları doğuranlardır. Doğrusu söyledikleri kötü ve asılsız bir sözdür. Allah şüphesiz affedendir, bağışlayandır.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 58,
+      "ayah": 2,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:2",
+      "word_position": 10,
+      "target_word_uthmani": "أُمَّهَٰتُهُمْ",
+      "target_word_rasm": "أمهتهم",
+      "target_word_literal_irab": "Anneler / doğuran gerçek analar (`أُمَّهَٰتُكُمْ / أُمَّهَٰتُهُمْ`, çoğul isim)",
+      "context_snippet_arabic": "هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "İçinizde karılarını \"zıhar\" yapanlar bilsinler ki, karıları anneleri değildir; anneleri ancak, onları doğuranlardır. ...",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ",
+      "ayah_text_turkish_tabula_rasa_full": "İçinizde karılarını \"zıhar\" yapanlar bilsinler ki, karıları anneleri değildir; anneleri ancak, onları doğuranlardır. Doğrusu söyledikleri kötü ve asılsız bir sözdür. Allah şüphesiz affedendir, bağışlayandır.",
+      "contextual_meaning": "Aile hukuku (`4:11` annenin miras hakkı, `4:23` biyolojik anne ile sütannenin evlilik sınırı, `58:2` eşlerin zıharla anne kılınamayacağı gerçeği)."
+    },
+    {
+      "surah": 62,
+      "ayah": 2,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:2",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْأُمِّيِّۦنَ",
+      "target_word_rasm": "ٱلأمين",
+      "target_word_literal_irab": "Önceki vahiy kitaplarına erişimi olmayan veya ana çizgisinden kalma halklar (`أُمِّيُّونَ / ٱلْأُمِّيِّينَ`, çoğul nispet ismi)",
+      "context_snippet_arabic": "ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Kitapsız (okuma-yazma bilmeyen) kimseler arasından, kendilerine ayetlerini okuyan, onları arıtan, onlara Kitabı ve hikmeti öğreten bir elçi gönderen O'dur. Onlar, daha önce, şüphesiz apaçık bir sapıklık içinde idiler.",
+      "morphology": {
+        "lemma": ">um~iY~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~iY~|ROOT:Amm|MP|GEN"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitapsız (okuma-yazma bilmeyen) kimseler arasından, kendilerine ayetlerini okuyan, onları arıtan, onlara Kitabı ve hikmeti öğreten bir elçi gönderen O'dur. Onlar, daha önce, şüphesiz apaçık bir sapıklık içinde idiler.",
+      "contextual_meaning": "Kitap bilgisi veya yazılı vahiy geleneği dışı topluluklar (`2:78` kitabı bilmeyip kuruntuya dalanlar, `3:20,75`, `62:2` kendilerine içlerinden elçi gönderilen halk)."
+    },
+    {
+      "surah": 75,
+      "ayah": 5,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:5",
+      "word_position": 5,
+      "target_word_uthmani": "أَمَامَهُۥ",
+      "target_word_rasm": "أمامه",
+      "target_word_literal_irab": "Kendi önünü ve geleceğini hesaba katmadan (`أَمَامَهُۥ`, zaman-mekân zarfı mansûb)",
+      "context_snippet_arabic": "يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Ama, insanoğlu gelecekte de suç işlemek ister de: \"Kıyamet günü ne zamanmış! \" der.",
+      "morphology": {
+        "lemma": ">amaAm",
+        "pos": "T",
+        "features": "STEM|POS:T|LEM:>amaAm|ROOT:Amm|ACC"
+      },
+      "ayah_text_arabic_full": "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama, insanoğlu gelecekte de suç işlemek ister de: \"Kıyamet günü ne zamanmış! \" der.",
+      "contextual_meaning": "Zaman-mekân zarfı hapax (`أَمَامَهُۥ` `75:5`): İnsanın kendi önünü ve geleceğini bile hiçe sayarak sınırsız taşkınlık yapmak istemesi."
+    },
+    {
+      "surah": 80,
+      "ayah": 35,
+      "surah_name": "Abese",
+      "ayah_ref": "80:35",
+      "word_position": 1,
+      "target_word_uthmani": "وَأُمِّهِۦ",
+      "target_word_rasm": "وأمه",
+      "target_word_literal_irab": "Doğuran anne / ana (`أُمِّهِ / أُمَّهُۥ / أُمُّكَ`, tekil isim)",
+      "context_snippet_arabic": "وَأُمِّهِۦ وَأَبِيهِ",
+      "context_snippet_turkish_tabula_rasa": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|GEN"
+      },
+      "ayah_text_arabic_full": "وَأُمِّهِۦ وَأَبِيهِ",
+      "ayah_text_turkish_tabula_rasa_full": "O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.",
+      "contextual_meaning": "Ortak bir yöneliş ve ilke çevresinde bütünleşen topluluk (`2:143` dengeli tanık topluluk, `3:110`, `21:92`, `23:52` tek ümmet ilkesi) veya anne sevgisi/sorumluluğu."
+    },
+    {
+      "surah": 101,
+      "ayah": 9,
+      "surah_name": "Kāria",
+      "ayah_ref": "101:9",
+      "word_position": 1,
+      "target_word_uthmani": "فَأُمُّهُۥ",
+      "target_word_rasm": "فأمه",
+      "target_word_literal_irab": "Kitabın veya kentlerin ana merkezi/kaynağı yahut sarılacak kucak (`أُمُّ ٱلْكِتَٰبِ / أُمَّ ٱلْقُرَىٰ / أُمُّهُۥ هَاوِيَةٌ`, tekil isim)",
+      "context_snippet_arabic": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Onların yeri bir çukurdur.",
+      "morphology": {
+        "lemma": ">um~",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:>um~|ROOT:Amm|FS|NOM"
+      },
+      "ayah_text_arabic_full": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların yeri bir çukurdur.",
+      "contextual_meaning": "Ana merkez ve kaynak mecazı (`3:7`, `13:39`, `43:4` hükümlerin dayandığı `أُمُّ ٱلْكِتَٰبِ`, `6:92`, `42:7` kentlerin anası `أُمَّ ٱلْقُرَىٰ`, `101:9` sarıp kuşatan derin uçurum)."
+    }
+  ]
+}

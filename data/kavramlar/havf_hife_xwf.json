@@ -1,0 +1,2581 @@
+{
+  "root": "خ-و-ف",
+  "root_latin": "H-W-F (Xwf)",
+  "concept_name": "Havf / Hîfe / Tehavvüf (Tehlike Beklentisinden Doğan Ürküntü, İç Çekince ve Kenardan Azaltma)",
+  "rank": 92,
+  "total_occurrences": 124,
+  "unique_ayahs_count": 112,
+  "unified_core_mechanism": "Kökün 124 geçişlik ağı tek eksen üzerinde çalışır: 'Yaklaşan zarar, kayıp veya adaletsizlik ihtimalini öngörerek duyulan ürperti ve tedbir bilinci'. Bu enerji Kur'an'da dört ana işleve yönelir: (1) Güvenlik-tehlike ekseni (`خَوْف ↔ أَمْن`: `16:112`, `24:55`, `106:4`) ve geçmiş üzüntüsüyle birleşen gelecek güvencesi (`لَا خَوْفٌ عَلَيْهِمْ` `14` ayet). (2) Ahlâkî ve hukukî tedbir mekanizması (`2:229`, `4:3`, `4:34-35`, `4:128` adalet ve aile hukuku ihtiyatı; `7:56`, `13:12`, `32:16` korku-umut dengesi). (3) Kriz anı iç sarsıntısı ve sahte korkutmalara direniş (`خِيفَة` `6`, `خَائِف` `3`, `33:19` ikiyüzlü korkaklığı, `3:175` ve `39:36` sahte korkutmaları reddetme). (4) Caydırıcı eğitim ve kenardan azaltma yasası (`خَوَّفَ` `4`, `تَخْوِيف` `17:59`, `تَخَوُّف` `16:47`).",
+  "physical_core": "Ham fiziki çekirdek: 'Yaklaşan bir zarar, düşman veya eksilme belirtisini sezip içten ürpermek, kaçıp sakınmaya yönelmek' ile V. bab `تَخَوُّف`un somut kökü olan 'bir şeyin kenarından azar azar eksiltip aşındırmak (`تَنَقُّص`)' eylemidir. İnsanda bu kökle kurulan duygu, gök gürültüsü ve şimşekten ürküp yağmur ummaya (`خَوْفًا وَطَمَعًا` `13:12`, `30:24`), açlık ve saldırı kaygısından kurtulup güvenceye kavuşmaya (`16:112`, `106:4`) ve içe ansızın saplanan somut ürpertiye (`أَوْجَسَ خِيفَةً` `20:67`) dayanır.",
+  "dictionary_arbitration": {
+    "ibn_faris": "İbn Fâris kökün tek birleşik aslını `ٱلذُّعْرُ وَٱلْفَزَعُ` (ürküntü, korku ve tedirginlik) diye belirler; ayrıca `خِيفَة` (`xiyfap`) kelimesindeki `yâ` harfinin aslında kök ortasındaki `vâv` olup öncesindeki kesreden ötürü `yâ`ya dönüştüğünü vurgular.",
+    "kitab_al_ayn": "Halil b. Ahmed (Kitâbü'l-Ayn): `ٱلْخَوْف` güvenin (`ٱلْأَمْن`) tam karşıtı olarak gelecek kötülükten çekinmek ve ürpermektir; `فَزَع` ise beklenmedik andaki ani sarsıntıdır.",
+    "lisan_al_arab": "İbn Manzûr (Lisânü'l-Arab): `خَافَ يَخَافُ` aslen `خَوِفَ يَخْوَفُ` (ecvef vâvî) olup telaffuz hafifliği için `خَافَ` biçimini almıştır (`خَوْف`, `خِيفَة`, `مَخَافَة`). Ayrıca `16:47`deki `عَلَىٰ تَخَوُّفٍ` ifadesini deve hörgücünün veya bir nesnenin kenarlarından yavaş yavaş eksiltilip tüketilmesi (`تَنَقُّص`) yanında yaklaşan korku sarmalı anlamıyla da açıklar.",
+    "ragib_mufredat": "Râgıb el-İsfahânî (el-Müfredât) Mesânî ve Furûk'ta temel ayrımı kurar: `ٱلْخَوْف` sanılan veya bilinen bir belirti üzerine hoşlanılmayan bir sonucun beklentisidir (`تَوَقُّعُ مَكْرُوهٍ عَنْ أَمَارَةٍ مَظْنُونَةٍ أَوْ مَعْلُومَةٍ`) ve `ٱلْأَمْن`in (güvenlik) zıddıdır. Buna karşılık `ٱلْخَشْيَة` bilgi ve derin saygının eşlik ettiği özel ürpertidir (`خَوْفٌ يَشُوبُهُ تَعْظِيمٌ عَنْ عِلْمٍ`, `35:28`). `خِيفَة` ise kalpte hissedilen anlık iç ürperti hâlidir (`20:67`).",
+    "arbitration_decision": "Tahkim Kararı: Kök dört keskin eksende mühürlenir: (1) Zarar belirtisinden doğan genel tehlike beklentisi (`خَوْف`, karşıtı `أَمْن`), (2) İlahî uyarı veya psikolojik iç ürperti (`خِيفَة` `11:70`, `20:67`, `51:28`), (3) II. bab `خَوَّفَ / تَخْوِيف` ile başkasına korku/gözdağı verme (`3:175`, `17:59-60`, `39:16,36`), (4) V. bab `تَخَوُّف` (`16:47`) ile kenardan azar azar eksiltme/daraltma."
+  },
+  "semitic_cognates": {
+    "proto_semitic": "Proto-Samicede genel 'korkmak' kavramı daha çok `*y-r-ʾ` ve `*d-ḥ-l` kökleriyle taşınır; `*ḫ-w-f` kökü özellikle Orta/Kuzey Arapçada birincil 'korku, zarar beklentisi' kökü olarak kristalleşmiştir.",
+    "hebrew": "İbranicede 'korkmak' için birincil kök *yārēʾ* (`ירא`, Arapça `و-ر-ع` ile ses/anlam ilişkili) veya `pḥd` (`פחד`) kullanılır; ses karşılığı olan *ḫ-w-f* anlamında doğrudan bir İbranice 'korkmak' fiili bulunmaz.",
+    "aramaic_syriac": "Eski Aramca ve Klasik Süryanicede 'korkmak, çekinmek' anlamı standart olarak *dəḥal* (`ܕܚܠ`) veya titremek anlamlı *zūʿ* (`זוע`) kökleriyle verilir; *ḫ-w-f* ses yapısında yerli Aramca paralel bulunmaz (geç dönem rastlantıları yerel/alıntıdır).",
+    "north_arabian_sabaic": "Antik Kuzey Arapça (Safavî/Arapça çizgisi) içerisinde *ḫwf* 'korku' kavramı kökleşmişken, Epigrafik Güney Arapça (Sebece, Katabanca, Maince) yazıtlarda standart 'korku/endişe' fiili olarak doğrudan *ḫwf* kökü yaygın biçimde belgelenmemiştir; Güney Arapçada farklı güvenlik ve korku kökleri tercih edilir.",
+    "akkadian_geez": "Doğu Samicede Akadca 'korkmak' için *palāḫu* ('korkmak, hürmetle hizmet etmek') ve *šahātu*, Klasik Ge'ez ise *farha* kökünü kullanır; doğrudan `*ḫ-w-f` kökü mevcut değildir.",
+    "phonological_note": "Karşılaştırmalı Samice söz varlığı açısından `خ-و-ف` kökü, ortak Proto-Samice `*y-r-ʾ` / `*d-ḥ-l` katmanının yanında özellikle Arapça çekirdeğinin geliştirdiği özgün bir ecvef vâvî (`vâv`'lı orta illeti `خَوِفَ -> خَافَ / خِيفَة` şeklinde `elif` ve `yâ`'ya dönüşen) psikolojik güvenlik-tehlike köküdür."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "أ-م-ن (`خَوْف` Tehlike Kaygısı ve Ürküntü ↔ `أَمْن / ءَامِن` Güvenlik ve Huzur — `4:83`, `6:81`, `16:112`, `24:55`, `106:4`)",
+      "ط-م-ع (`خَوْفًا وَطَمَعًا` Zarar Endişesi ↔ İyilik ve Rahmet Umudu — `7:56`, `13:12`, `30:24`, `32:16`)",
+      "ح-ز-ن (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ` Gelecek Korkusu ve Geçmiş Üzüntüsünün Eşzamanlı Kalkması — `14` ayet)",
+      "خ-ش-ي (`لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` Yetişilme Tehlikesi Korkusu vs Bilinçli Derin Çekince — `20:77`)"
+    ],
+    "key_ayahs": [
+      "6:81 (وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ ... فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ — korku ve güvenlik mukayesesi)",
+      "24:55 & 106:4 (وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا / وَءَامَنَهُم مِّنْ خَوْفٍۭ — korkudan güvenliğe dönüşüm yasası)",
+      "7:56 & 13:12 (خَوْفًا وَطَمَعًا — korku ile umut dengesi)",
+      "20:77 (لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ — iki kökün tek cümlede yan yana ayrımı)"
+    ],
+    "reverse_stress_test": "Test Sorusu: 'خ-و-ف yaklaşan bir tehlikeden ürküp kaygılanmaksa zıddı nedir?' Cevap: `أ-م-ن` (güven ve emniyet) ile duygu ekseninde `ط-م-ع` (umut ve beklenti). `24:55`teki `مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا`, `106:4`teki `ءَامَنَهُم مِّنْ خَوْفٍۭ` ve `6:81`deki `فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ` ayetleri bu çift yönlü Mesânî simetrisini %100 kanıtlar."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "يُخَوِّفُ (`II. Bab: Korkutup Gözdağı Vermek`) vs فَلَا تَخَافُوهُمْ (`Yersiz İnsan Korkusu Yasağı`) vs وَخَافُونِ (`Emir: Yalnız Benden Çekinin`) — `3:175`",
+      "لَّا تَخَٰفُ دَرَكًا (`Yakalanma Korkusu`) vs وَلَا تَخْشَىٰ (`İçsel Derin Endişe/Haşyet`) — `20:77`",
+      "أَوْجَسَ ... خِيفَةً (`İçte Doğan Ani Ürperti`) vs لَا تَخَفْ (`Korkuya Kapılmama Güvencesi`) — `11:70` ve `51:28`",
+      "خِفْتِ (`Olayın Başlangıcında Duyulan İlk Kaygı`) vs وَلَا تَخَافِى (`Sürece Devam Ederken Korkmama`) — `28:7`",
+      "تَخَافُونَهُمْ (`Fiilen Duyduğunuz Korku`) vs كَخِيفَتِكُمْ (`Kendi Kendinizden Duyduğunuz İç Çekince Düzeyi`) — `30:28`",
+      "جَآءَ ٱلْخَوْفُ (`Kriz Anı Geldiğinde Donup Kalma`) vs ذَهَبَ ٱلْخَوْفُ (`Korku Geçince Sivri Dilli Olma`) — `33:19`"
+    ],
+    "mechanical_difference": "1) Kök `3:175`te tek ayette `3` kez farklı kalıpta akar: bozguncu odağın gözdağı vermesi (`يُخَوِّفُ` II. bab), yersiz korkunun yasaklanması (`فَلَا تَخَافُوهُمْ` nehiy) ve tüm kökteki tek olumlu çoğul emir olan `وَخَافُونِ` ('yalnız Benden korkup sakının'). 2) `11:70` ve `51:28`de İbrâhim ve Lût kıssalarında önce kalpte beliren somut isim `خِيفَةً` ('bir ürperti sezdi'), hemen ardından fiille `لَا تَخَفْ` ('korkma') diyerek isim-fiil farkını gösterir. 3) `20:77` aynı ayette `خ-و-ف`u yakalanma/fiziksel tehlike (`دَرَكًا`) ile, `خ-ش-ي` kökünü ise daha geniş iç haşyetle (`وَلَا تَخْشَىٰ`) yan yana getirerek Furûk sınırını bizzat çizer."
+  },
+  "anchor_ayahs": [
+    {
+      "ref": "3:175",
+      "role": "Üçlü Bab ve Kip Çapası (يُخَوِّفُ ... فَلَا تَخَافُوهُمْ وَخَافُونِ)",
+      "literal_meaning": "'O ayartıcı güç ancak kendi yandaşlarıyla sizi korkutup durur (`يُخَوِّفُ`); siz onlardan korkmayın (`فَلَا تَخَافُوهُمْ`), gerçeğe gönülden güvenenlerseniz Benden korkup sakının (`وَخَافُونِ`).'"
+    },
+    {
+      "ref": "20:67-68 & 20:77",
+      "role": "İç Ürperti (`خِيفَة`) ve `خوف` vs `خشية` Furûk Çapası",
+      "literal_meaning": "'Mûsâ içinde bir ürperti (`خِيفَةً`) hissetti; Korkma (`لَا تَخَفْ`), üstün olan sensin dedik' ve 'Denizde kuru bir yol aç: ne yetişilmekten korkarsın (`لَا تَخَٰفُ`) ne de endişe duyarsın (`وَلَا تَخْشَىٰ`).'"
+    },
+    {
+      "ref": "16:47",
+      "role": "V. Bab Hapax (`عَلَىٰ تَخَوُّفٍ`) Çapası",
+      "literal_meaning": "'Yahut onları kenarlarından azar azar eksilterek / korku sarmalı içinde (`عَلَىٰ تَخَوُّفٍ`) yakalamayacağından mı eminler? Kuşkusuz Rabbiniz çok şefkatli ve merhametlidir.'"
+    },
+    {
+      "ref": "17:59",
+      "role": "II. Bab Masdar Hapax (`تَخْوِيفًا`) Çapası",
+      "literal_meaning": "'Biz o olağanüstü belgeleri yalnızca caydırıcı uyarı ve korkutma (`تَخْوِيفًا`) olsun diye göndeririz.'"
+    },
+    {
+      "ref": "2:38 & 46:13",
+      "role": "Gelecek-Geçmiş Güven Formülü Çapası (لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ)",
+      "literal_meaning": "'Kim Rabbimiz Allah'tır deyip dosdoğru yürürse onlara hiçbir korku (`لَا خَوْفٌ`) yoktur ve onlar üzülmeyeceklerdir de.'"
+    },
+    {
+      "ref": "13:12 & 7:56",
+      "role": "Korku-Umut Dengesi Çapası (خَوْفًا وَطَمَعًا)",
+      "literal_meaning": "'Size şimşeği hem zarardan korku hem rahmetten umut (`خَوْفًا وَطَمَعًا`) kaynağı olarak gösteren O'dur.'"
+    },
+    {
+      "ref": "24:55 & 106:4",
+      "role": "Korkudan Güvenliğe Geçiş Çapası (مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا / ءَامَنَهُم مِّنْ خَوْفٍۭ)",
+      "literal_meaning": "'Korkularının ardından onları mutlaka güvenliğe kavuşturacaktır (`مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا`)' ve 'onları açlıktan doyuran ve korkudan güvene erdiren (`مِّنْ خَوْفٍۭ`).'"
+    },
+    {
+      "ref": "4:34 & 2:229",
+      "role": "Hukukî Öngörü ve Aile İhtiyatı Çapası (خِفْتُمْ / تَخَافُونَ)",
+      "literal_meaning": "'Allah'ın sınırlarını ayakta tutamayacaklarından endişe ederseniz (`خِفْتُمْ`)...' ve 'yetimlerin hakkını gözetememekten korkarsanız (`خِفْتُمْ`)...'"
+    }
+  ],
+  "grammar_and_branch_rules": "1) Kök üç babda çekimlenir: I. bab ecvef vâvî `خَافَ` (< `خَوِفَ`: `83 V` + `3` ism-i fâil `خَآئِف`), II. bab `خَوَّفَ` (`4 V` + `1` masdar `تَخْوِيف` `17:59`), V. bab `تَخَوُّف` (`1` masdar `16:47`). 2) `26:21`deki `خِفْتُكُمْ` fiili ilk harfindeki kesreden ötürü otomatik korpusta `PASS` (meçhul) etiketlense de Arapça sarfta `خَوِفَ` (`فَعِلَ`) ecvefinin malum `1S` çekimidir ve `-كُمْ` zamirini doğrudan nesne alır; kökte gerçek anlamda edilgen fiil yoktur. 3) `خَوْف` (`26 N`) ile `خِيفَة` (`6 N`) arasındaki morfolojik fark: `خَوْف` (`فَعْل`) genel hal ve nesnel tehlike ortamı (`أَمْن` zıddı) iken, `خِيفَة` (`فِعْلَة`, kesre yüzünden `vâv → yâ` dönüşümüyle) bireyin o an kalbinde hissettiği somut korku ürpertisini (`أَوْجَسَ خِيفَةً` `11:70`, `20:67`, `51:28`) anlatır. 4) Tüm kökte olumlu emir kipi (`IMPV`) yalnızca `3:175`te `وَخَافُونِ` (`2MP` + düşmüş mütekellim yâ'sı) olarak gelir; diğer bütün komutlar `لَا تَخَفْ / لَا تَخَافُوا۟ / وَلَا تَخَافِى` (`28:7` `2FS`) şeklinde nehiydir. 5) Rasm-ı Osmânî'de `52` ayrı iskelet vardır (`خِفْتُ / خِفْتُمْ / تَخَفْ` şekillerinde orta illet harfi cezimden dolayı düşer, `خَافَ / يَخَافُ / خَائِف` biçimlerinde elifle yazılır).",
+  "derivatives": {
+    "خَافَ (`83 V`, I. bab malum ecvef) & خَآئِف (`3 N`, ism-i fâil)": "Tehlike ve adaletsizlik kaygısı (`4:3`, `4:34-35`), elçilere 'korkma' güvencesi (`11:70`, `20:68`, `28:7`), sahte odaklardan değil yalnız Allah'tan çekinme (`3:175`, `6:81`) ve şehirde kollayan korku (`28:18,21`)",
+    "خَوْف (`26 N`, sade masdar) & خِيفَة (`6 N`, `v→y` durum ismi)": "`لَا خَوْفٌ` güven müjdesi (`14` ayet), `خَوْفًا وَطَمَعًا` duygu dengesi (`4` ayet), `خَوْف ↔ أَمْن` dönüşümü (`24:55`, `106:4`) ve içsel ürperti (`11:70`, `20:67`, `51:28`)",
+    "خَوَّفَ (`4 V`, II. bab) & تَخْوِيف (`1 N`, `17:59`) & تَخَوُّف (`1 N`, V. bab `16:47`)": "Caydırıcı uyarı (`17:59`, `39:16`), bozguncu gözdağı (`3:175`, `39:36`) ve uçlardan azar azar eksiltme/korku sarmalı (`16:47`)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 38,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:38",
+      "word_position": 13,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "\"İnin oradan hepiniz, tarafımdan size bir yol gösteren gelecektir; Benim yoluma uyanlar için artık korku yoktur, onlar üzülmeyeceklerdir\" dedik.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"İnin oradan hepiniz, tarafımdan size bir yol gösteren gelecektir; Benim yoluma uyanlar için artık korku yoktur, onlar üzülmeyeceklerdir\" dedik.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 62,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:62",
+      "word_position": 20,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz, güvene erenler, Yahudi olanlar, Hıristiyanlar ve Sabiilerden Allah'a ve ahiret gününe güvene erip yararlı iş yapanların ecirleri Rablerinin katındadır. Onlar için artık korku yoktur. ...",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz, güvene erenler, Yahudi olanlar, Hıristiyanlar ve Sabiilerden Allah'a ve ahiret gününe güvene erip yararlı iş yapanların ecirleri Rablerinin katındadır. Onlar için artık korku yoktur. Onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 112,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:112",
+      "word_position": 13,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Hayır, öyle değil; iyilik yaparak kendini Allah'a veren kimsenin ecri Rabbi'nin katındadır. Onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır, öyle değil; iyilik yaparak kendini Allah'a veren kimsenin ecri Rabbi'nin katındadır. Onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 114,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:114",
+      "word_position": 21,
+      "target_word_uthmani": "خَآئِفِينَ",
+      "target_word_rasm": "خائفين",
+      "target_word_literal_irab": "İçeri ancak korkuyla çekinerek girebilenler (`خَآئِفِينَ`, I. bab ism-i fâil çoğul mansûb)",
+      "context_snippet_arabic": "أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ لَهُمْ فِى ٱلدُّنْيَا",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeleri gerekir. Dünyada rezillik onlaradır, ahirette büyük azab da onlaradır.",
+      "morphology": {
+        "lemma": "xaA^}if",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:xaA^}if|ROOT:xwf|MP|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın mescidlerinde O'nun isminin anılmasını yasak eden ve oraların yıkılmasına çalışan kimseden daha zalim kim vardır? Onların oralara korkmadan girememeleri gerekir. Dünyada rezillik onlaradır, ahirette büyük azab da onlaradır.",
+      "contextual_meaning": "I. bab ism-i fâil (`2:114` anma evlerine saygı ve çekince duymadan girememek gerekenler, `28:18,21` Mûsâ'nın kentte tehlikeyi kollayarak ürküntüyle yürümesi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 155,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:155",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْخَوْفِ",
+      "target_word_rasm": "ٱلخوف",
+      "target_word_literal_irab": "Tehlike ve korku hâlinden/ortamından (`ٱلْخَوْفِ / خَوْفٍۭ / خَوْفِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sebat edip direnenleri müjdele.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Muhakkak sizi biraz korku, biraz açlık ve mallardan, canlardan, ürünlerden biraz eksiltmekle deneriz, sebat edip direnenleri müjdele.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 2,
+      "ayah": 182,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:182",
+      "word_position": 2,
+      "target_word_uthmani": "خَافَ",
+      "target_word_rasm": "خاف",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا",
+      "context_snippet_turkish_tabula_rasa": "Vasiyet edenin yanılacağından veya sapma ve kusura gireceğinden endişe duyan kimse, ilgililerin arasını düzeltirse ona sapma ve ağır kusur yoktur. Allah şüphesiz bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Vasiyet edenin yanılacağından veya sapma ve kusura gireceğinden endişe duyan kimse, ilgililerin arasını düzeltirse ona sapma ve ağır kusur yoktur. Allah şüphesiz bağışlar ve merhamet eder.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 2,
+      "ayah": 229,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:229",
+      "word_position": 18,
+      "target_word_uthmani": "يَخَافَآ",
+      "target_word_rasm": "يخافا",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ",
+      "context_snippet_turkish_tabula_rasa": "... İkisi Allah'ın yasalarını koruyamamaktan korkmadıkça kadınlara verdiklerinizden (mehirden) bir şey almanız size helal değildir. Eğer Allah'ın yasalarını ikisi koruyamıyacaklar diye korkarsanız, o zaman kadının fidye vermesinde (mehrinden vazgeçerse) ikisine de sapma ve ağır kusur yoktur. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MD|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ٱلطَّلَٰقُ مَرَّتَانِ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Boşanma iki defadır. Ya iyilikle tutma ya da iyilik yaparak bırakmadır. İkisi Allah'ın yasalarını koruyamamaktan korkmadıkça kadınlara verdiklerinizden (mehirden) bir şey almanız size helal değildir. Eğer Allah'ın yasalarını ikisi koruyamıyacaklar diye korkarsanız, o zaman kadının fidye vermesinde (mehrinden vazgeçerse) ikisine de sapma ve ağır kusur yoktur. Bunlar Allah'ın yasalarıdır, onları bozmayın. Allah'ın yasalarını bozanlar ancak zalimlerdir.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 2,
+      "ayah": 229,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:229",
+      "word_position": 24,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "حُدُودَ ٱللَّهِ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ",
+      "context_snippet_turkish_tabula_rasa": "... İkisi Allah'ın yasalarını koruyamamaktan korkmadıkça kadınlara verdiklerinizden (mehirden) bir şey almanız size helal değildir. Eğer Allah'ın yasalarını ikisi koruyamıyacaklar diye korkarsanız, o zaman kadının fidye vermesinde (mehrinden vazgeçerse) ikisine de sapma ve ağır kusur yoktur. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "ٱلطَّلَٰقُ مَرَّتَانِ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Boşanma iki defadır. Ya iyilikle tutma ya da iyilik yaparak bırakmadır. İkisi Allah'ın yasalarını koruyamamaktan korkmadıkça kadınlara verdiklerinizden (mehirden) bir şey almanız size helal değildir. Eğer Allah'ın yasalarını ikisi koruyamıyacaklar diye korkarsanız, o zaman kadının fidye vermesinde (mehrinden vazgeçerse) ikisine de sapma ve ağır kusur yoktur. Bunlar Allah'ın yasalarıdır, onları bozmayın. Allah'ın yasalarını bozanlar ancak zalimlerdir.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 2,
+      "ayah": 239,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:239",
+      "word_position": 2,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا",
+      "context_snippet_turkish_tabula_rasa": "Eğer korkarsanız, yaya yahut binekte iken kılın, güvene erişince, bilmediklerinizi öğrettiği gibi Allah'ı anın.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer korkarsanız, yaya yahut binekte iken kılın, güvene erişince, bilmediklerinizi öğrettiği gibi Allah'ı anın.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 2,
+      "ayah": 262,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:262",
+      "word_position": 20,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Mallarını Allah yolunda dolaşıma sokup paylaşarak sonra dolaşıma sokup paylaştıkları şeyin ardından başa kakmayan ve eza etmeyenlerin ecirleri Rablerinin katındadır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ ثُمَّ لَا يُتْبِعُونَ مَآ أَنفَقُوا۟ مَنًّا وَلَآ أَذًى لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarını Allah yolunda dolaşıma sokup paylaşarak sonra dolaşıma sokup paylaştıkları şeyin ardından başa kakmayan ve eza etmeyenlerin ecirleri Rablerinin katındadır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 274,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:274",
+      "word_position": 13,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gece gündüz, açık gizli, mallarını dolaşıma sokup paylaştıranların mükafatlarını Rab'leri verecektir. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 2,
+      "ayah": 277,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:277",
+      "word_position": 15,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı işler işleyenlerin, irtibat bağını ayakta tutup, arınma ve gelişme payı verenlerin Rab'leri katında ecirleri vardır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı işler işleyenlerin, irtibat bağını ayakta tutup, arınma ve gelişme payı verenlerin Rab'leri katında ecirleri vardır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 170,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:170",
+      "word_position": 15,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 3,
+      "ayah": 175,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:175",
+      "word_position": 4,
+      "target_word_uthmani": "يُخَوِّفُ",
+      "target_word_rasm": "يخوف",
+      "target_word_literal_irab": "Gözdağı verip korkutuyor / korkutur (`يُخَوِّفُ / وَنُخَوِّفُهُمْ / وَيُخَوِّفُونَكَ`, II. bab muzâri)",
+      "context_snippet_arabic": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ",
+      "context_snippet_turkish_tabula_rasa": "İşte o saptırıcı yıkıcı güç ancak kendi dostlarını korkutur, güven duy onlardan korkmayın, Benden korkun.",
+      "morphology": {
+        "lemma": "yuxaw~ifu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuxaw~ifu|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte o saptırıcı yıkıcı güç ancak kendi dostlarını korkutur, güven duy onlardan korkmayın, Benden korkun.",
+      "contextual_meaning": "Üçlü Furûk (`3:175`): Ayartıcı güç kendi yandaşlarıyla gözdağı verir (`يُخَوِّفُ`); siz ise onlardan korkmayın (`فَلَا تَخَافُوهُمْ`), yalnızca Benden çekinin (`وَخَافُونِ`)."
+    },
+    {
+      "surah": 3,
+      "ayah": 175,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:175",
+      "word_position": 7,
+      "target_word_uthmani": "تَخَافُوهُمْ",
+      "target_word_rasm": "تخافوهم",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم",
+      "context_snippet_turkish_tabula_rasa": "İşte o saptırıcı yıkıcı güç ancak kendi dostlarını korkutur, güven duy onlardan korkmayın, Benden korkun.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte o saptırıcı yıkıcı güç ancak kendi dostlarını korkutur, güven duy onlardan korkmayın, Benden korkun.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 3,
+      "ayah": 175,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:175",
+      "word_position": 8,
+      "target_word_uthmani": "وَخَافُونِ",
+      "target_word_rasm": "وخافون",
+      "target_word_literal_irab": "Yalnız Benden korkup çekinin (`وَخَافُونِ`, I. bab emir `2MP` + gizli `1S` zamiri)",
+      "context_snippet_arabic": "أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "İşte o saptırıcı yıkıcı güç ancak kendi dostlarını korkutur, güven duy onlardan korkmayın, Benden korkun.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte o saptırıcı yıkıcı güç ancak kendi dostlarını korkutur, güven duy onlardan korkmayın, Benden korkun.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 4,
+      "ayah": 3,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:3",
+      "word_position": 2,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى",
+      "context_snippet_turkish_tabula_rasa": "Eğer, velisi olduğunuz mal sahibi yetim kızlarla evlenmekle onlara haksızlık yapmaktan korkarsanız onlarla değil, hoşunuza giden başka kadınlarla iki, üç ve dörde kadar evlenebilirsiniz; şayet, aralarında adaletsizlik yapmaktan korkarsanız bir tane almalısınız veya sahip olduğunuz ile yetinmelisiniz. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer, velisi olduğunuz mal sahibi yetim kızlarla evlenmekle onlara haksızlık yapmaktan korkarsanız onlarla değil, hoşunuza giden başka kadınlarla iki, üç ve dörde kadar evlenebilirsiniz; şayet, aralarında adaletsizlik yapmaktan korkarsanız bir tane almalısınız veya sahip olduğunuz ile yetinmelisiniz. Doğru yoldan sapmamanız için en uygunu budur.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 4,
+      "ayah": 3,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:3",
+      "word_position": 17,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً",
+      "context_snippet_turkish_tabula_rasa": "Eğer, velisi olduğunuz mal sahibi yetim kızlarla evlenmekle onlara haksızlık yapmaktan korkarsanız onlarla değil, hoşunuza giden başka kadınlarla iki, üç ve dörde kadar evlenebilirsiniz; şayet, aralarında adaletsizlik yapmaktan korkarsanız bir tane almalısınız veya sahip olduğunuz ile yetinmelisiniz. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer, velisi olduğunuz mal sahibi yetim kızlarla evlenmekle onlara haksızlık yapmaktan korkarsanız onlarla değil, hoşunuza giden başka kadınlarla iki, üç ve dörde kadar evlenebilirsiniz; şayet, aralarında adaletsizlik yapmaktan korkarsanız bir tane almalısınız veya sahip olduğunuz ile yetinmelisiniz. Doğru yoldan sapmamanız için en uygunu budur.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 4,
+      "ayah": 9,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:9",
+      "word_position": 9,
+      "target_word_uthmani": "خَافُوا۟",
+      "target_word_rasm": "خافوا",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ",
+      "context_snippet_turkish_tabula_rasa": "Arkalarında cılız çocuklar bıraktıkları takdirde, bundan endişe edecek olanlar, haksızlık yapmaktan korksunlar; dürüst söz söylesinler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا",
+      "ayah_text_turkish_tabula_rasa_full": "Arkalarında cılız çocuklar bıraktıkları takdirde, bundan endişe edecek olanlar, haksızlık yapmaktan korksunlar; dürüst söz söylesinler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 4,
+      "ayah": 34,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:34",
+      "word_position": 23,
+      "target_word_uthmani": "تَخَافُونَ",
+      "target_word_rasm": "تخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ",
+      "context_snippet_turkish_tabula_rasa": "... Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın kimini kimine üstün kılmasından ötürü ve erkeklerin, mallarından sarfetmelerinden dolayı erkekler kadınlar üzerine hakimdirler. İyi kadınlar, gönülden boyun eğenler ve Allah'ın korunmasını emrettiğini, kocasının bulunmadığı zaman da koruyanlardır. Serkeşlik etmelerinden endişelendiğiniz kadınlara öğüt verin, yataklarında onları yalnız bırakın, nihayet dövün. Size itaat ediyorlarsa aleyhlerine yol aramayın. Doğrusu Allah Yüce'dir, Büyük'tür.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 4,
+      "ayah": 35,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:35",
+      "word_position": 2,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Karı kocanın arasının açılmasından endişelenirseniz, erkeğin ailesinden bir hakem ve kadının ailesinden bir hakem gönderin; bunlar düzeltmek isterlerse, Allah onların aralarını buldurur. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَٱبْعَثُوا۟ حَكَمًا مِّنْ أَهْلِهِۦ وَحَكَمًا مِّنْ أَهْلِهَآ إِن يُرِيدَآ إِصْلَٰحًا يُوَفِّقِ ٱللَّهُ بَيْنَهُمَآ إِنَّ ٱللَّهَ كَانَ عَلِيمًا خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Karı kocanın arasının açılmasından endişelenirseniz, erkeğin ailesinden bir hakem ve kadının ailesinden bir hakem gönderin; bunlar düzeltmek isterlerse, Allah onların aralarını buldurur. Doğrusu Allah her şeyi Bilen ve haberdar olandır.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 4,
+      "ayah": 83,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:83",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْخَوْفِ",
+      "target_word_rasm": "ٱلخوف",
+      "target_word_literal_irab": "Tehlike ve korku hâlinden/ortamından (`ٱلْخَوْفِ / خَوْفٍۭ / خَوْفِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ",
+      "context_snippet_turkish_tabula_rasa": "Kendilerine güven veya korku hususunda bir haber geldiğinde onu yayarlar; halbuki o haberi elçi'e veya kendilerinden buyruk sahibi olanlara götürselerdi, onlardan sonuç çıkarmaya kadir olanlar onu bilirdi. ...",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا جَآءَهُمْ أَمْرٌ مِّنَ ٱلْأَمْنِ أَوِ ٱلْخَوْفِ أَذَاعُوا۟ بِهِۦ وَلَوْ رَدُّوهُ إِلَى ٱلرَّسُولِ وَإِلَىٰٓ أُو۟لِى ٱلْأَمْرِ مِنْهُمْ لَعَلِمَهُ ٱلَّذِينَ يَسْتَنۢبِطُونَهُۥ مِنْهُمْ وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ لَٱتَّبَعْتُمُ ٱلشَّيْطَٰنَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine güven veya korku hususunda bir haber geldiğinde onu yayarlar; halbuki o haberi elçi'e veya kendilerinden buyruk sahibi olanlara götürselerdi, onlardan sonuç çıkarmaya kadir olanlar onu bilirdi. Allah'ın size bol nimeti ve rahmeti olmasaydı, pek azınız bir yana, saptırıcı yıkıcı güce uyardınız.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 4,
+      "ayah": 101,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:101",
+      "word_position": 13,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ",
+      "context_snippet_turkish_tabula_rasa": "Yolculuk ettiğinizde, gerçeğin üzerini örtenlerin size bir fenalık yapmasından korkarsanız, irtibat bağını kısaltmanızda size bir sorumluluk yoktur. Zira gerçeğin üzerini örtenler, size apaçık düşmandırlar.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ إِنَّ ٱلْكَٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yolculuk ettiğinizde, gerçeğin üzerini örtenlerin size bir fenalık yapmasından korkarsanız, irtibat bağını kısaltmanızda size bir sorumluluk yoktur. Zira gerçeğin üzerini örtenler, size apaçık düşmandırlar.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 4,
+      "ayah": 128,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:128",
+      "word_position": 3,
+      "target_word_uthmani": "خَافَتْ",
+      "target_word_rasm": "خافت",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا",
+      "context_snippet_turkish_tabula_rasa": "Eğer kadın, kocasının serkeşliğinden veya aldırışsızlığından endişe ederse, aralarında anlaşmaya çalışmalarında kendilerine bir engel yoktur. Anlaşmak daha hayırlıdır. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3FS"
+      },
+      "ayah_text_arabic_full": "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا وَٱلصُّلْحُ خَيْرٌ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer kadın, kocasının serkeşliğinden veya aldırışsızlığından endişe ederse, aralarında anlaşmaya çalışmalarında kendilerine bir engel yoktur. Anlaşmak daha hayırlıdır. benlikler ve canlar kıskançlığa meyyaldir. Eğer iyi davranır ve haksızlıktan sakınırsaniz bilin ki, Allah işlediklerinizden şüphesiz haberdardır.",
+      "contextual_meaning": "Aile ve yetim hukukunda öngörülü tedbir (`خِفْتُمْ / تَخَافُونَ`): Evlilikte sınırların korunamamasından, yetim hakkının çiğnenmesinden veya aile geçimsizliğinden duyulan ihtiyatlı kaygı."
+    },
+    {
+      "surah": 5,
+      "ayah": 23,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:23",
+      "word_position": 5,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا",
+      "context_snippet_turkish_tabula_rasa": "Korkanlar arasında bulunan, Allah'ın nimete erdirdiği iki adam: \"Üstlerine kapıdan yürüyün, oradan girerseniz şüphesiz galip gelirsiniz; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Korkanlar arasında bulunan, Allah'ın nimete erdirdiği iki adam: \"Üstlerine kapıdan yürüyün, oradan girerseniz şüphesiz galip gelirsiniz; eğer güven duy Allah'a güvenin\" demişlerdi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 5,
+      "ayah": 28,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:28",
+      "word_position": 13,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "إِلَيْكَ لِأَقْتُلَكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "\"Beni öldürmek üzere elini bana uzatırsan, ben seni öldürmek için sana elimi uzatmam, çünkü ben, Alemlerin Rabbi olan Allah'tan korkarım.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Beni öldürmek üzere elini bana uzatırsan, ben seni öldürmek için sana elimi uzatmam, çünkü ben, Alemlerin Rabbi olan Allah'tan korkarım.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 5,
+      "ayah": 54,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:54",
+      "word_position": 26,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَٰفِرِينَ يُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Aranızda yaşam sisteminden kim dönerse bilsin ki, Allah, sevdiği ve onların O'nu sevdiği, güvene erenlere karşı alçak gönüllü, gerçeğin üzerini örtenlere karşı güçlü, Allah yolunda cihad eden, yerenin yermesinden korkmayan bir millet getirir. Bu, Allah'ın dilediğine verdiği bol nimetidir. Allah her şeyi kaplar ve bilir.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 5,
+      "ayah": 69,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:69",
+      "word_position": 16,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "وَعَمِلَ صَٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu güvene erenler, yahudiler, sabiiler ve hıristiyanlardan Allah'a ve ahiret gününe güvene eren, yararlı iş yapan kimselere korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلصَّٰبِـُٔونَ وَٱلنَّصَٰرَىٰ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَعَمِلَ صَٰلِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu güvene erenler, yahudiler, sabiiler ve hıristiyanlardan Allah'a ve ahiret gününe güvene eren, yararlı iş yapan kimselere korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 5,
+      "ayah": 94,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:94",
+      "word_position": 15,
+      "target_word_uthmani": "يَخَافُهُۥ",
+      "target_word_rasm": "يخافه",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "لِيَعْلَمَ ٱللَّهُ مَن يَخَافُهُۥ بِٱلْغَيْبِ فَمَنِ ٱعْتَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Gıyabında Kendisinden, kimin korktuğunu ortaya koymak için, (ihramlıyken) elinizin ve mızraklarınızın ulaştığı avdan bir şeyle Allah and olsun ki sizi dener. Bundan sonra kim haddi aşarsa ona elem verici azab vardır.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَيَبْلُوَنَّكُمُ ٱللَّهُ بِشَىْءٍ مِّنَ ٱلصَّيْدِ تَنَالُهُۥٓ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ ٱللَّهُ مَن يَخَافُهُۥ بِٱلْغَيْبِ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Gıyabında Kendisinden, kimin korktuğunu ortaya koymak için, (ihramlıyken) elinizin ve mızraklarınızın ulaştığı avdan bir şeyle Allah and olsun ki sizi dener. Bundan sonra kim haddi aşarsa ona elem verici azab vardır.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 5,
+      "ayah": 108,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:108",
+      "word_position": 9,
+      "target_word_uthmani": "يَخَافُوٓا۟",
+      "target_word_rasm": "يخافوا",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Bu, şahidliği gerektiği gibi yapmalarını veya bağlayıcı ahitlerinden sonra bağlayıcı ahitlerin kabul edilmemesinden korkmalarını daha iyi sağlar. Allah'tan sakının, dinleyin. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ أَدْنَىٰٓ أَن يَأْتُوا۟ بِٱلشَّهَٰدَةِ عَلَىٰ وَجْهِهَآ أَوْ يَخَافُوٓا۟ أَن تُرَدَّ أَيْمَٰنٌۢ بَعْدَ أَيْمَٰنِهِمْ وَٱتَّقُوا۟ ٱللَّهَ وَٱسْمَعُوا۟ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu, şahidliği gerektiği gibi yapmalarını veya bağlayıcı ahitlerinden sonra bağlayıcı ahitlerin kabul edilmemesinden korkmalarını daha iyi sağlar. Allah'tan sakının, dinleyin. Allah fasık kimselere yol göstermez.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 6,
+      "ayah": 15,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:15",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "\"Ben Rabbime karşı gelirsem, büyük günün azabından korkarım\" de.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ben Rabbime karşı gelirsem, büyük günün azabından korkarım\" de.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 6,
+      "ayah": 48,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:48",
+      "word_position": 11,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "elçileri ancak müjdeci ve uyarıcı olarak gönderiyoruz. Kim güven duy ve kendi benliğini ıslah ederse onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "elçileri ancak müjdeci ve uyarıcı olarak gönderiyoruz. Kim güven duy ve kendi benliğini ıslah ederse onlara korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 6,
+      "ayah": 51,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:51",
+      "word_position": 4,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Rablerine toplanacaklarından korkanları Kuran ile uyar. O'ndan başka bir dost ve aracıları yoktur. Umulur ki Allah'tan sakınalar.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerine toplanacaklarından korkanları Kuran ile uyar. O'ndan başka bir dost ve aracıları yoktur. Umulur ki Allah'tan sakınalar.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 6,
+      "ayah": 80,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:80",
+      "word_position": 10,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَقَدْ هَدَىٰنِ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ",
+      "context_snippet_turkish_tabula_rasa": "... \"Beni doğru yola eriştirmişken, Allah hakkında benimle mi tartışıyorsunuz? O'na ortak koştuklarınızdan korkmuyorum, meğer ki Rabbim bir şeyi dilemiş ola. Rabbim ilimce her şeyi kuşatmıştır; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَحَآجَّهُۥ قَوْمُهُۥ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ وَلَآ أَخَافُ مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًٔا وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا أَفَلَا تَتَذَكَّرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Milleti onunla tartışmaya girişti. \"Beni doğru yola eriştirmişken, Allah hakkında benimle mi tartışıyorsunuz? O'na ortak koştuklarınızdan korkmuyorum, meğer ki Rabbim bir şeyi dilemiş ola. Rabbim ilimce her şeyi kuşatmıştır; hala öğüt kabul etmez misiniz?\" dedi.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 6,
+      "ayah": 81,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:81",
+      "word_position": 2,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'a koştuğunuz ortaklardan nasıl korkarım? Oysa siz, Allah'ın hakkında size bir delil indirmediği bir şeyi O'na ortak koşmaktan korkmuyorsunuz. İki taraftan hangisine güvenmek daha gereklidir, bir bilseniz. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًا فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a koştuğunuz ortaklardan nasıl korkarım? Oysa siz, Allah'ın hakkında size bir delil indirmediği bir şeyi O'na ortak koşmaktan korkmuyorsunuz. İki taraftan hangisine güvenmek daha gereklidir, bir bilseniz.\"",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 6,
+      "ayah": 81,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:81",
+      "word_position": 6,
+      "target_word_uthmani": "تَخَافُونَ",
+      "target_word_rasm": "تخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'a koştuğunuz ortaklardan nasıl korkarım? Oysa siz, Allah'ın hakkında size bir delil indirmediği bir şeyi O'na ortak koşmaktan korkmuyorsunuz. İki taraftan hangisine güvenmek daha gereklidir, bir bilseniz. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًا فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'a koştuğunuz ortaklardan nasıl korkarım? Oysa siz, Allah'ın hakkında size bir delil indirmediği bir şeyi O'na ortak koşmaktan korkmuyorsunuz. İki taraftan hangisine güvenmek daha gereklidir, bir bilseniz.\"",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 7,
+      "ayah": 35,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:35",
+      "word_position": 14,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "ٱتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey Adem oğulları! Size aranızdan ayetlerimizi okuyan elçiler geldiğinde, onların bildirdiklerine karşı gelmekten sakınan ve gidişini düzeltenlere, işte onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰبَنِىٓ ءَادَمَ إِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى فَمَنِ ٱتَّقَىٰ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey Adem oğulları! Size aranızdan ayetlerimizi okuyan elçiler geldiğinde, onların bildirdiklerine karşı gelmekten sakınan ve gidişini düzeltenlere, işte onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 49,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:49",
+      "word_position": 11,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "... \"esenlik bahçesine girin, size korku yoktur, sizler mahzun da olmayacaksınız. \"",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Burçlarda olanlar, simalarından tanıdıkları adamlara; Topluluğunuz, topladığınız mal ve büyüklük taslamalarınız size fayda vermedi. Allah'ın rahmetine erdirmeyeceğine bağlayıcı ahit ettikleriniz bunlar mıydı? Oysa Allah onlara şöyle der: \"esenlik bahçesine girin, size korku yoktur, sizler mahzun da olmayacaksınız.\"",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 7,
+      "ayah": 56,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:56",
+      "word_position": 8,
+      "target_word_uthmani": "خَوْفًا",
+      "target_word_rasm": "خوفا",
+      "target_word_literal_irab": "Hem korku hem de umut besleyerek (`خَوْفًا وَطَمَعًا`, masdar-hal mansûb)",
+      "context_snippet_arabic": "بَعْدَ إِصْلَٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ",
+      "context_snippet_turkish_tabula_rasa": "Düzeltilmişken, yeryüzünde bozgunculuk yapmayın. Allah'a korkarak ve umutla yalvarın. Doğrusu Allah'ın rahmeti iyi davrananlara yakındır.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Düzeltilmişken, yeryüzünde bozgunculuk yapmayın. Allah'a korkarak ve umutla yalvarın. Doğrusu Allah'ın rahmeti iyi davrananlara yakındır.",
+      "contextual_meaning": "Duygu dengesi (`خَوْفًا وَطَمَعًا` `7:56`, `13:12`, `30:24`, `32:16`): Şimşeği görüp hem zarardan korkmak hem yağmur umuduyla dolmak arasındaki dengeli bilinç."
+    },
+    {
+      "surah": 7,
+      "ayah": 59,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:59",
+      "word_position": 16,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur; doğrusu sizin için büyük günün azabından korkuyorum\" dedi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "لَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥٓ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Nuh'u milletine gönderdik. \"Ey milletim! Allah'a kulluk edin, O'ndan başka sığınak merciiniz yoktur; doğrusu sizin için büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 7,
+      "ayah": 205,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:205",
+      "word_position": 6,
+      "target_word_uthmani": "وَخِيفَةً",
+      "target_word_rasm": "وخيفة",
+      "target_word_literal_irab": "İçinde beliren bir çekince ve ürperti (`خِيفَةً`, fi'le kalıbı `v→y` dönüşümlü isim mansûb)",
+      "context_snippet_arabic": "فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Rabbini gönülden ve korkarak içinden hafif bir sesle sabah akşam an, gafillerden olma.",
+      "morphology": {
+        "lemma": "xiyfap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xiyfap|ROOT:xwf|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbini gönülden ve korkarak içinden hafif bir sesle sabah akşam an, gafillerden olma.",
+      "contextual_meaning": "İç sarsıntı ve ürperti (`7:205` sessiz iç yalvarış, `13:13` gök gürültüsünün ürperti vermesi, `30:28` kendi eşlerinizden/yetkilerinizden duyduğunuz çekince kıyaslaması)."
+    },
+    {
+      "surah": 8,
+      "ayah": 26,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:26",
+      "word_position": 8,
+      "target_word_uthmani": "تَخَافُونَ",
+      "target_word_rasm": "تخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ",
+      "context_snippet_turkish_tabula_rasa": "Yeryüzünde az sayıda olduğunuz ve zayıf sayıldığınız için insanların sizi esir olarak alıp götürmesinden korktuğunuz zamanları, hatırlayın. Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرُوٓا۟ إِذْ أَنتُمْ قَلِيلٌ مُّسْتَضْعَفُونَ فِى ٱلْأَرْضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمْ وَأَيَّدَكُم بِنَصْرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yeryüzünde az sayıda olduğunuz ve zayıf sayıldığınız için insanların sizi esir olarak alıp götürmesinden korktuğunuz zamanları, hatırlayın. Allah, nimetin değerini bilip açığa vurasınız diye sizi barındırmış, yardımıyla desteklemiş, temiz şeylerle rızıklandırmıştır.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 8,
+      "ayah": 48,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:48",
+      "word_position": 32,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ وَٱللَّهُ شَدِيدُ",
+      "context_snippet_turkish_tabula_rasa": "... doğrusu sizin görmediğinizi ben görüyorum ve şüphesiz Allah'tan korkuyorum, Allah'ın azabı şiddetlidir\" dedi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌ لَّكُمْ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç onlara işlediklerini güzel gösterdi ve \"Bugün insanlardan sizi yenecek kimse yoktur; doğrusu ben de size yardımcıyım\" dedi. İki ordu karşılaşınca da, geri dönüp, \"Benim sizinle ilgim yok; doğrusu sizin görmediğinizi ben görüyorum ve şüphesiz Allah'tan korkuyorum, Allah'ın azabı şiddetlidir\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 8,
+      "ayah": 58,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:58",
+      "word_position": 2,
+      "target_word_uthmani": "تَخَافَنَّ",
+      "target_word_rasm": "تخافن",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً",
+      "context_snippet_turkish_tabula_rasa": "Eğer bir topluluğun anlaşmaya hıyanet etmesinden korkarsan, sen de onlara karşı anlaşmayı bozarak aynı şekilde davran. Doğrusu Allah hainleri sevmez.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS"
+      },
+      "ayah_text_arabic_full": "وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْخَآئِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer bir topluluğun anlaşmaya hıyanet etmesinden korkarsan, sen de onlara karşı anlaşmayı bozarak aynı şekilde davran. Doğrusu Allah hainleri sevmez.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 9,
+      "ayah": 28,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:28",
+      "word_position": 15,
+      "target_word_uthmani": "خِفْتُمْ",
+      "target_word_rasm": "خفتم",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. Allah şüphesiz bilendir, hakimdir.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 10,
+      "ayah": 15,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:15",
+      "word_position": 33,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "... \"Onu kendiliğimden değiştiremem, ben ancak, bana vahyolunana uyarım. Ben Rabbime karşı gelirsem, büyük günün azabına uğramaktan korkarım. \"",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimiz onlara açık açık okununca, bizimle karşılaşmayı ummayanlar, \"Bundan başka bir Kuran getir veya bunu değiştir\" dediler. De ki: \"Onu kendiliğimden değiştiremem, ben ancak, bana vahyolunana uyarım. Ben Rabbime karşı gelirsem, büyük günün azabına uğramaktan korkarım.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 10,
+      "ayah": 62,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:62",
+      "word_position": 6,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "İyi bilin ki, Allah'ın dostlarına korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İyi bilin ki, Allah'ın dostlarına korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 10,
+      "ayah": 83,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:83",
+      "word_position": 9,
+      "target_word_uthmani": "خَوْفٍ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Tehlike ve korku hâlinden/ortamından (`ٱلْخَوْفِ / خَوْفٍۭ / خَوْفِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ",
+      "context_snippet_turkish_tabula_rasa": "Firavun ve erkanının kendilerine fenalık yapmasından korktuklarından, milletinin bir kısım gençleri dışında, kimse Musa'ya güven duy, çünkü Firavun o yerde hakimdi. O, gerçekten aşırı gidenlerdendi.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun ve erkanının kendilerine fenalık yapmasından korktuklarından, milletinin bir kısım gençleri dışında, kimse Musa'ya güven duy, çünkü Firavun o yerde hakimdi. O, gerçekten aşırı gidenlerdendi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 11,
+      "ayah": 3,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:3",
+      "word_position": 21,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَأَنِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُمَتِّعْكُم مَّتَٰعًا حَسَنًا إِلَىٰٓ أَجَلٍ مُّسَمًّى وَيُؤْتِ كُلَّ ذِى فَضْلٍ فَضْلَهُۥ وَإِن تَوَلَّوْا۟ فَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ كَبِيرٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 11,
+      "ayah": 26,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:26",
+      "word_position": 7,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... doğrusu ben hakkınızda can yakıcı bir günün azabından korkuyorum\" dedi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki biz Nuh'u kendi milletine gönderdik; \"Ben sizin için apaçık bir uyarıcıyım; Allah'tan başkasına kulluk etmeyin; doğrusu ben hakkınızda can yakıcı bir günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 11,
+      "ayah": 70,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:70",
+      "word_position": 10,
+      "target_word_uthmani": "خِيفَةً",
+      "target_word_rasm": "خيفة",
+      "target_word_literal_irab": "İçinde beliren bir çekince ve ürperti (`خِيفَةً`, fi'le kalıbı `v→y` dönüşümlü isim mansûb)",
+      "context_snippet_arabic": "نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ",
+      "context_snippet_turkish_tabula_rasa": "Ellerini ona uzatmadıklarını görünce, durumlarını beğenmedi ve içine korku düştü. Onlar, \"Korkma, biz Lut milletine gönderildik\" dediler.",
+      "morphology": {
+        "lemma": "xiyfap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xiyfap|ROOT:xwf|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ellerini ona uzatmadıklarını görünce, durumlarını beğenmedi ve içine korku düştü. Onlar, \"Korkma, biz Lut milletine gönderildik\" dediler.",
+      "contextual_meaning": "Derin iç ürperti (`أَوْجَسَ ... خِيفَةً` `11:70`, `20:67`, `51:28`): Elçilerin insanî olarak hissettiği iç çekince ve hemen ardından gelen `لَا تَخَفْ` (`korkma`) tesellisi."
+    },
+    {
+      "surah": 11,
+      "ayah": 70,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:70",
+      "word_position": 13,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "خِيفَةً قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ellerini ona uzatmadıklarını görünce, durumlarını beğenmedi ve içine korku düştü. Onlar, \"Korkma, biz Lut milletine gönderildik\" dediler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ellerini ona uzatmadıklarını görünce, durumlarını beğenmedi ve içine korku düştü. Onlar, \"Korkma, biz Lut milletine gönderildik\" dediler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 11,
+      "ayah": 84,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:84",
+      "word_position": 22,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu ben sizi bolluk içinde görüyorum ve hakkınızda kuşatıcı bir günün azabından korkuyorum. \"",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Medyen halkına kardeşleri Şuayb'ı gönderdik. Şöyle dedi: \"Ey milletim! Allah'a kulluk edin; O'ndan başka sığınak merciiniz yoktur. Ölçüyü tartıyı eksik tutmayın. Doğrusu ben sizi bolluk içinde görüyorum ve hakkınızda kuşatıcı bir günün azabından korkuyorum.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 11,
+      "ayah": 103,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:103",
+      "word_position": 6,
+      "target_word_uthmani": "خَافَ",
+      "target_word_rasm": "خاف",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "ذَٰلِكَ لَءَايَةً لِّمَنْ خَافَ عَذَابَ ٱلْءَاخِرَةِ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Ahiretin azabından korkanlara, bunda, hiç şüphesiz ibret vardır. Bu, insanların toplanacağı gündür; bu, görülecek bir gündür.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّمَنْ خَافَ عَذَابَ ٱلْءَاخِرَةِ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ahiretin azabından korkanlara, bunda, hiç şüphesiz ibret vardır. Bu, insanların toplanacağı gündür; bu, görülecek bir gündür.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 12,
+      "ayah": 13,
+      "surah_name": "Yûsuf",
+      "ayah_ref": "12:13",
+      "word_position": 7,
+      "target_word_uthmani": "وَأَخَافُ",
+      "target_word_rasm": "وأخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ",
+      "context_snippet_turkish_tabula_rasa": "Babaları, \"Onu götürmeniz beni üzüyor; siz farkına varmadan onu kurdun yemesinden korkarım\" dedi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Babaları, \"Onu götürmeniz beni üzüyor; siz farkına varmadan onu kurdun yemesinden korkarım\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 13,
+      "ayah": 12,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:12",
+      "word_position": 5,
+      "target_word_uthmani": "خَوْفًا",
+      "target_word_rasm": "خوفا",
+      "target_word_literal_irab": "Hem korku hem de umut besleyerek (`خَوْفًا وَطَمَعًا`, masdar-hal mansûb)",
+      "context_snippet_arabic": "ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ",
+      "context_snippet_turkish_tabula_rasa": "Korku ve ümide düşürmek için size şimşeği gösteren, yağmurla yüklü bulutları meydana getiren O'dur.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ",
+      "ayah_text_turkish_tabula_rasa_full": "Korku ve ümide düşürmek için size şimşeği gösteren, yağmurla yüklü bulutları meydana getiren O'dur.",
+      "contextual_meaning": "Duygu dengesi (`خَوْفًا وَطَمَعًا` `7:56`, `13:12`, `30:24`, `32:16`): Şimşeği görüp hem zarardan korkmak hem yağmur umuduyla dolmak arasındaki dengeli bilinç."
+    },
+    {
+      "surah": 13,
+      "ayah": 13,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:13",
+      "word_position": 6,
+      "target_word_uthmani": "خِيفَتِهِۦ",
+      "target_word_rasm": "خيفته",
+      "target_word_literal_irab": "İçten ürpertisinin ve çekincesinin şiddetinden (`خِيفَتِهِۦ / كَخِيفَتِكُمْ`, fi'le kalıbı isim mecrûr)",
+      "context_snippet_arabic": "بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ",
+      "context_snippet_turkish_tabula_rasa": "O'nu, gök gürlemesi hamd ile, kozmik görevliler de korkularından tesbih ederler. Onlar pek kuvvetli olan Allah hakkında çekişirken, O, yıldırımları gönderir de onlarla dilediğini çarpar.",
+      "morphology": {
+        "lemma": "xiyfap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xiyfap|ROOT:xwf|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ",
+      "ayah_text_turkish_tabula_rasa_full": "O'nu, gök gürlemesi hamd ile, kozmik görevliler de korkularından tesbih ederler. Onlar pek kuvvetli olan Allah hakkında çekişirken, O, yıldırımları gönderir de onlarla dilediğini çarpar.",
+      "contextual_meaning": "İç sarsıntı ve ürperti (`7:205` sessiz iç yalvarış, `13:13` gök gürültüsünün ürperti vermesi, `30:28` kendi eşlerinizden/yetkilerinizden duyduğunuz çekince kıyaslaması)."
+    },
+    {
+      "surah": 13,
+      "ayah": 21,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:21",
+      "word_position": 11,
+      "target_word_uthmani": "وَيَخَافُونَ",
+      "target_word_rasm": "ويخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوٓءَ ٱلْحِسَابِ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Allah'ın birleştirilmesini emrettiği şeyi birleştirirler, Rablerinden korkarlar; kötü hesaptan ürkerler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوٓءَ ٱلْحِسَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Allah'ın birleştirilmesini emrettiği şeyi birleştirirler, Rablerinden korkarlar; kötü hesaptan ürkerler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 14,
+      "ayah": 14,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:14",
+      "word_position": 7,
+      "target_word_uthmani": "خَافَ",
+      "target_word_rasm": "خاف",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "بَعْدِهِمْ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz, haksızlık edenleri yok edeceğiz, onlardan sonra yeryüzüne sizi yerleştireceğiz. Bu, makamımdan ve tehdidimden korkanlar içindir. \" diye vahyetti.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, elçilerine: \"Ya bizim yaşam sistemimize dönersiniz ya da sizi memleketimizden çıkarırız\" dediler. Rableri elçilere: \"Biz, haksızlık edenleri yok edeceğiz, onlardan sonra yeryüzüne sizi yerleştireceğiz. Bu, makamımdan ve tehdidimden korkanlar içindir.\" diye vahyetti.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 14,
+      "ayah": 14,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:14",
+      "word_position": 9,
+      "target_word_uthmani": "وَخَافَ",
+      "target_word_rasm": "وخاف",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Biz, haksızlık edenleri yok edeceğiz, onlardan sonra yeryüzüne sizi yerleştireceğiz. Bu, makamımdan ve tehdidimden korkanlar içindir. \" diye vahyetti.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "gerçeğin üzerini örtenler, elçilerine: \"Ya bizim yaşam sistemimize dönersiniz ya da sizi memleketimizden çıkarırız\" dediler. Rableri elçilere: \"Biz, haksızlık edenleri yok edeceğiz, onlardan sonra yeryüzüne sizi yerleştireceğiz. Bu, makamımdan ve tehdidimden korkanlar içindir.\" diye vahyetti.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 16,
+      "ayah": 47,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:47",
+      "word_position": 4,
+      "target_word_uthmani": "تَخَوُّفٍ",
+      "target_word_rasm": "تخوف",
+      "target_word_literal_irab": "Uçlardan/kenarlardan azar azar kırpılıp eksiltilerek veya korku sarmalı içinde (`عَلَىٰ تَخَوُّفٍ`, V. bab masdar mecrûr)",
+      "context_snippet_arabic": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ",
+      "context_snippet_turkish_tabula_rasa": "Veya hareket halindelerken -ki Allah'ı aciz bırakamazlar- ya da yok olmak endişesindeyken onlara azabın gelmesinden güvende midirler? Doğrusu Rabbin şefkatlidir, merhametlidir.",
+      "morphology": {
+        "lemma": "taxaw~uf",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(V)|LEM:taxaw~uf|ROOT:xwf|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍ فَإِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Veya hareket halindelerken -ki Allah'ı aciz bırakamazlar- ya da yok olmak endişesindeyken onlara azabın gelmesinden güvende midirler? Doğrusu Rabbin şefkatlidir, merhametlidir.",
+      "contextual_meaning": "V. bab hapax `تَخَوُّفٍ` (`16:47`): Tarihte toplumların gücünü kenarlardan azar azar kırpıp eksilterek (`tenakkus`) veya korku kıskacıyla yakalama yasası."
+    },
+    {
+      "surah": 16,
+      "ayah": 50,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:50",
+      "word_position": 1,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ",
+      "context_snippet_turkish_tabula_rasa": "Üstün olan Rablerinden korkarlar ve emrolundukları şeyleri yaparlar.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Üstün olan Rablerinden korkarlar ve emrolundukları şeyleri yaparlar.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 16,
+      "ayah": 112,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:112",
+      "word_position": 21,
+      "target_word_uthmani": "وَٱلْخَوْفِ",
+      "target_word_rasm": "وٱلخوف",
+      "target_word_literal_irab": "Tehlike ve korku hâlinden/ortamından (`ٱلْخَوْفِ / خَوْفٍۭ / خَوْفِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Allah size güven ve huzur içinde olan bir kasabayı misal verir: Her taraftan oraya bolca rızık geliyordu. ...",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَضَرَبَ ٱللَّهُ مَثَلًا قَرْيَةً كَانَتْ ءَامِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size güven ve huzur içinde olan bir kasabayı misal verir: Her taraftan oraya bolca rızık geliyordu. Ama Allah'ın nimetlerine nankörlük ettiler; bu yüzden Allah onlara yaptıklarına karşılık açlık ve korku belasını tattırdı.",
+      "contextual_meaning": "Toplumsal güvenlik ve açlık-korku sınaması (`24:55` ve `106:4` korkudan sonra güvene çıkarma; `16:112` nankörlüğün ardından açlık ve korku elbisesi giydirilmesi)."
+    },
+    {
+      "surah": 17,
+      "ayah": 57,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:57",
+      "word_position": 12,
+      "target_word_uthmani": "وَيَخَافُونَ",
+      "target_word_rasm": "ويخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ إِنَّ عَذَابَ",
+      "context_snippet_turkish_tabula_rasa": "Taptıkları putlar Rablerine daha yakın olmak için vesile ararlar. O'nun rahmetini umar, azabından korkarlar. Zira Rabbinin azabı korkmağa değer.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Taptıkları putlar Rablerine daha yakın olmak için vesile ararlar. O'nun rahmetini umar, azabından korkarlar. Zira Rabbinin azabı korkmağa değer.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 17,
+      "ayah": 59,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:59",
+      "word_position": 21,
+      "target_word_uthmani": "تَخْوِيفًا",
+      "target_word_rasm": "تخويفا",
+      "target_word_literal_irab": "Caydırıcı uyarı ve dehşetli korkutma amacıyla (`تَخْوِيفًا`, II. bab masdar mansûb)",
+      "context_snippet_arabic": "نُرْسِلُ بِٱلْءَايَٰتِ إِلَّا تَخْوِيفًا",
+      "context_snippet_turkish_tabula_rasa": "... Semud milletine gözle görülebilen bir apaçık gösterge, bir dişi deve vermiştik de ona zulmetmişlerdi. Oysa Biz apaçık göstergeleri yalnız korkutmak için göndeririz.",
+      "morphology": {
+        "lemma": "taxowiyf",
+        "pos": "N",
+        "features": "STEM|POS:N|VN|(II)|LEM:taxowiyf|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا مَنَعَنَآ أَن نُّرْسِلَ بِٱلْءَايَٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلْأَوَّلُونَ وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُوا۟ بِهَا وَمَا نُرْسِلُ بِٱلْءَايَٰتِ إِلَّا تَخْوِيفًا",
+      "ayah_text_turkish_tabula_rasa_full": "Bizi apaçık gösterge göndermekten alıkoyan, ancak, öncekilerin onları yalanlamış olmalarıdır. Semud milletine gözle görülebilen bir apaçık gösterge, bir dişi deve vermiştik de ona zulmetmişlerdi. Oysa Biz apaçık göstergeleri yalnız korkutmak için göndeririz.",
+      "contextual_meaning": "II. bab masdar hapax `تَخْوِيفًا` (`17:59`): Olağanüstü belgelerin ve uyarıların sırf gösteri için değil caydırıcı uyarı amacıyla gönderilmesi."
+    },
+    {
+      "surah": 17,
+      "ayah": 60,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:60",
+      "word_position": 20,
+      "target_word_uthmani": "وَنُخَوِّفُهُمْ",
+      "target_word_rasm": "ونخوفهم",
+      "target_word_literal_irab": "Gözdağı verip korkutuyor / korkutur (`يُخَوِّفُ / وَنُخَوِّفُهُمْ / وَيُخَوِّفُونَكَ`, II. bab muzâri)",
+      "context_snippet_arabic": "ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "... Biz onları korkutuyoruz, fakat bu onlara büyük taşkınlık vermekten başka birşeye yaramıyor.",
+      "morphology": {
+        "lemma": "yuxaw~ifu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuxaw~ifu|ROOT:xwf|1P"
+      },
+      "ayah_text_arabic_full": "وَإِذْ قُلْنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِ وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِىٓ أَرَيْنَٰكَ إِلَّا فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِى ٱلْقُرْءَانِ وَنُخَوِّفُهُمْ فَمَا يَزِيدُهُمْ إِلَّا طُغْيَٰنًا كَبِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sana: \"Rabbin şüphesiz insanları kuşatmıştır\" demiştik; sana gösterdiğimiz rüya ile ve Kuran'da lanetlenmiş ağaçla, sadece insanları denedik. Biz onları korkutuyoruz, fakat bu onlara büyük taşkınlık vermekten başka birşeye yaramıyor.",
+      "contextual_meaning": "İkinci bab korkutma (`17:60`, `39:16`, `39:36`): Hem ilâhî azap uyarısıyla sarsma (`39:16`) hem karşıtların sahte ortaklarla elçiye gözdağı vermeye çalışması (`39:36`)."
+    },
+    {
+      "surah": 19,
+      "ayah": 5,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:5",
+      "word_position": 2,
+      "target_word_uthmani": "خِفْتُ",
+      "target_word_rasm": "خفت",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, benden sonra yerime geçecek yakınlarımın iyi hareket etmeyeceklerinden korkuyorum. Karım da kısırdır. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ وَلِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, benden sonra yerime geçecek yakınlarımın iyi hareket etmeyeceklerinden korkuyorum. Karım da kısırdır. Katından bana bir oğul bağışla ki, bana ve Yakub oğullarına mirasçı olsun. Rabbim! Onun, rızanı kazanmasını da sağla.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 19,
+      "ayah": 45,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:45",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ",
+      "context_snippet_turkish_tabula_rasa": "\"Babacığım! Doğrusu sana Rahman katından bir azabın gelmesinden korkuyorum ki böylece saptırıcı yıkıcı gücün dostu olarak kalırsın.\"",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَبَتِ إِنِّىٓ أَخَافُ أَن يَمَسَّكَ عَذَابٌ مِّنَ ٱلرَّحْمَٰنِ فَتَكُونَ لِلشَّيْطَٰنِ وَلِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Babacığım! Doğrusu sana Rahman katından bir azabın gelmesinden korkuyorum ki böylece saptırıcı yıkıcı gücün dostu olarak kalırsın.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 20,
+      "ayah": 21,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:21",
+      "word_position": 4,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قَالَ خُذْهَا وَلَا تَخَفْ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Onu al, korkma; biz onu yine eski durumuna çevireceğiz. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ خُذْهَا وَلَا تَخَفْ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Onu al, korkma; biz onu yine eski durumuna çevireceğiz. Daha büyük apaçık gösterge sana göstermemiz için elini koltuğunun altına koy da, diğer bir apaçık gösterge olarak, kusursuz, bembeyaz çıksın\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 20,
+      "ayah": 45,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:45",
+      "word_position": 4,
+      "target_word_uthmani": "نَخَافُ",
+      "target_word_rasm": "نخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ",
+      "context_snippet_turkish_tabula_rasa": "Musa ve kardeşi: \"Rabbimiz! Onun bize kötülük etmesinden veya azgınlığının artmasından korkarız\" dediler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1P"
+      },
+      "ayah_text_arabic_full": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa ve kardeşi: \"Rabbimiz! Onun bize kötülük etmesinden veya azgınlığının artmasından korkarız\" dediler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 20,
+      "ayah": 46,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:46",
+      "word_position": 3,
+      "target_word_uthmani": "تَخَافَآ",
+      "target_word_rasm": "تخافا",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قَالَ لَا تَخَافَآ إِنَّنِى مَعَكُمَآ أَسْمَعُ",
+      "context_snippet_turkish_tabula_rasa": "Allah: Korkmayın, dedi; Ben sizinle beraberim; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2D|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قَالَ لَا تَخَافَآ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: Korkmayın, dedi; Ben sizinle beraberim; görür ve işitirim. Ona gidin şöyle söyleyin: \"Doğrusu biz senin Rabbinin elçileriyiz. İsrailoğullarını bizimle beraber gönder, onlara azabetme; Rabbinden sana bir apaçık gösterge getirdik; selam, doğru yolda gidene olsun! Doğrusu bize, yalanlayıp sırt çevirene azap edileceği vahyolundu.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 20,
+      "ayah": 67,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:67",
+      "word_position": 4,
+      "target_word_uthmani": "خِيفَةً",
+      "target_word_rasm": "خيفة",
+      "target_word_literal_irab": "İçinde beliren bir çekince ve ürperti (`خِيفَةً`, fi'le kalıbı `v→y` dönüşümlü isim mansûb)",
+      "context_snippet_arabic": "فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةً مُّوسَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Bu yüzden Musa içinde bir korku hissetti.",
+      "morphology": {
+        "lemma": "xiyfap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xiyfap|ROOT:xwf|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَوْجَسَ فِى نَفْسِهِۦ خِيفَةً مُّوسَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu yüzden Musa içinde bir korku hissetti.",
+      "contextual_meaning": "Derin iç ürperti (`أَوْجَسَ ... خِيفَةً` `11:70`, `20:67`, `51:28`): Elçilerin insanî olarak hissettiği iç çekince ve hemen ardından gelen `لَا تَخَفْ` (`korkma`) tesellisi."
+    },
+    {
+      "surah": 20,
+      "ayah": 68,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:68",
+      "word_position": 3,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "\"Korkma, sen muhakkak daha üstünsün\" dedik.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "قُلْنَا لَا تَخَفْ إِنَّكَ أَنتَ ٱلْأَعْلَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Korkma, sen muhakkak daha üstünsün\" dedik.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 20,
+      "ayah": 77,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:77",
+      "word_position": 15,
+      "target_word_uthmani": "تَخَٰفُ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "ٱلْبَحْرِ يَبَسًا لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ",
+      "context_snippet_turkish_tabula_rasa": "And olsun ki Musa'ya: \"Kullarımı geceleyin yürüt, denizde onlara kuru bir yol aç, batmaktan ve düşmanların yetişmesinden korkma, endişe etme\" diye vahyettik.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى ٱلْبَحْرِ يَبَسًا لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Musa'ya: \"Kullarımı geceleyin yürüt, denizde onlara kuru bir yol aç, batmaktan ve düşmanların yetişmesinden korkma, endişe etme\" diye vahyettik.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 20,
+      "ayah": 112,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:112",
+      "word_position": 8,
+      "target_word_uthmani": "يَخَافُ",
+      "target_word_rasm": "يخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+      "context_snippet_turkish_tabula_rasa": "güvene ermiş olarak, yararlı işler işleyen kimse, haksızlıktan ve hakkının yeneceğinden korkmaz.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا",
+      "ayah_text_turkish_tabula_rasa_full": "güvene ermiş olarak, yararlı işler işleyen kimse, haksızlıktan ve hakkının yeneceğinden korkmaz.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 24,
+      "ayah": 37,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:37",
+      "word_position": 14,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "Bunları ne ticaret ve ne de alışveriş Allah'ı anmaktan, yöneliş ve sorumluluk bağı kılmaktan, arınma ve gelişme payı vermekten alıkoyar. Bunlar, gönüllerin ve gözlerin döneceği günden korkarlar.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "رِجَالٌ لَّا تُلْهِيهِمْ تِجَٰرَةٌ وَلَا بَيْعٌ عَن ذِكْرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ ٱلْقُلُوبُ وَٱلْأَبْصَٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunları ne ticaret ve ne de alışveriş Allah'ı anmaktan, yöneliş ve sorumluluk bağı kılmaktan, arınma ve gelişme payı vermekten alıkoyar. Bunlar, gönüllerin ve gözlerin döneceği günden korkarlar.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 24,
+      "ayah": 50,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:50",
+      "word_position": 7,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "أَمِ ٱرْتَابُوٓا۟ أَمْ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Kalplerinde hastalık mı var, yoksa şüphelenmişler midir, yahut Allah'ın ve elçisinin onlara haksızlık yapacağından mı korkmaktadırlar? Hayır; onlar sadece zalimdirler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "أَفِى قُلُوبِهِم مَّرَضٌ أَمِ ٱرْتَابُوٓا۟ أَمْ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيْهِمْ وَرَسُولُهُۥ بَلْ أُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kalplerinde hastalık mı var, yoksa şüphelenmişler midir, yahut Allah'ın ve elçisinin onlara haksızlık yapacağından mı korkmaktadırlar? Hayır; onlar sadece zalimdirler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 24,
+      "ayah": 55,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:55",
+      "word_position": 25,
+      "target_word_uthmani": "خَوْفِهِمْ",
+      "target_word_rasm": "خوفهم",
+      "target_word_literal_irab": "Tehlike ve korku hâlinden/ortamından (`ٱلْخَوْفِ / خَوْفٍۭ / خَوْفِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا",
+      "context_snippet_turkish_tabula_rasa": "Allah, içinizden güvene erip yararlı iş işleyenlere, onlardan öncekileri halef kıldığı gibi, onları da yeryüzüne halef kılacağına, onlar için beğendiği yaşam sistemini temelli yerleştireceğine, korkularını güvene çevireceğine dair söz vermiştir. Çünkü onlar Bana kulluk eder, hiçbir şeyi Bana ortak koşmazlar. ...",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden güvene erip yararlı iş işleyenlere, onlardan öncekileri halef kıldığı gibi, onları da yeryüzüne halef kılacağına, onlar için beğendiği yaşam sistemini temelli yerleştireceğine, korkularını güvene çevireceğine dair söz vermiştir. Çünkü onlar Bana kulluk eder, hiçbir şeyi Bana ortak koşmazlar. Bundan sonra gerçeğin üzerini örten kimseler, işte onlar artık yoldan çıkmış olanlardır.",
+      "contextual_meaning": "Toplumsal güvenlik ve açlık-korku sınaması (`24:55` ve `106:4` korkudan sonra güvene çıkarma; `16:112` nankörlüğün ardından açlık ve korku elbisesi giydirilmesi)."
+    },
+    {
+      "surah": 26,
+      "ayah": 12,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:12",
+      "word_position": 4,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum\" demişti.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 26,
+      "ayah": 14,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:14",
+      "word_position": 4,
+      "target_word_uthmani": "فَأَخَافُ",
+      "target_word_rasm": "فأخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+      "context_snippet_turkish_tabula_rasa": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum\" demişti.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 26,
+      "ayah": 21,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:21",
+      "word_position": 4,
+      "target_word_uthmani": "خِفْتُكُمْ",
+      "target_word_rasm": "خفتكم",
+      "target_word_literal_irab": "Sizden korkup çekindiğimde (`خِفْتُكُمْ`, I. bab ecvef vâvî mâzî `1S` malum; zahirî kesre sebebiyle `PASS` etiketlenmiştir)",
+      "context_snippet_arabic": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "... \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni elçi yaptı. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni elçi yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür\" dedi.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 26,
+      "ayah": 135,
+      "surah_name": "Şuarâ",
+      "ayah_ref": "26:135",
+      "word_position": 2,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 27,
+      "ayah": 10,
+      "surah_name": "Neml",
+      "ayah_ref": "27:10",
+      "word_position": 14,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يُعَقِّبْ يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ",
+      "context_snippet_turkish_tabula_rasa": "\"Değneğini at!\" Musa, değneğinin yılan gibi hareketler yaptığını görünce, arkasına bakmadan dönüp kaçtı. \"Ey Musa! Korkma; Benim katımda elçiler korkmaz; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Değneğini at!\" Musa, değneğinin yılan gibi hareketler yaptığını görünce, arkasına bakmadan dönüp kaçtı. \"Ey Musa! Korkma; Benim katımda elçiler korkmaz; yalnız haksızlık eden bunun dışındadır. Kötü hali iyiliğe çeviren kimse bilsin ki Ben şüphesiz bağışlarım, merhamet ederim. Elini koynuna sok, Firavun ve milletine gönderilen dokuz apaçık göstergeden biri olarak kusursuz, bembeyaz çıksın. Gerçekten onlar yoldan çıkmış bir millettir.\"",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 27,
+      "ayah": 10,
+      "surah_name": "Neml",
+      "ayah_ref": "27:10",
+      "word_position": 17,
+      "target_word_uthmani": "يَخَافُ",
+      "target_word_rasm": "يخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+      "context_snippet_turkish_tabula_rasa": "\"Değneğini at!\" Musa, değneğinin yılan gibi hareketler yaptığını görünce, arkasına bakmadan dönüp kaçtı. \"Ey Musa! Korkma; Benim katımda elçiler korkmaz; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Değneğini at!\" Musa, değneğinin yılan gibi hareketler yaptığını görünce, arkasına bakmadan dönüp kaçtı. \"Ey Musa! Korkma; Benim katımda elçiler korkmaz; yalnız haksızlık eden bunun dışındadır. Kötü hali iyiliğe çeviren kimse bilsin ki Ben şüphesiz bağışlarım, merhamet ederim. Elini koynuna sok, Firavun ve milletine gönderilen dokuz apaçık göstergeden biri olarak kusursuz, bembeyaz çıksın. Gerçekten onlar yoldan çıkmış bir millettir.\"",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 28,
+      "ayah": 7,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:7",
+      "word_position": 8,
+      "target_word_uthmani": "خِفْتِ",
+      "target_word_rasm": "خفت",
+      "target_word_literal_irab": "Başına bir şey gelmesinden korktuğunda / korkma! (`خِفْتِ / وَلَا تَخَافِى`, I. bab dişil çekim `2FS`)",
+      "context_snippet_arabic": "أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın annesine: \"Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; korkma, üzülme; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|2FS"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın annesine: \"Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; korkma, üzülme; Biz şüphesiz onu sana döndüreceğiz ve elçi yapacağız\" diye bildirmiştik.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 28,
+      "ayah": 7,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:7",
+      "word_position": 14,
+      "target_word_uthmani": "تَخَافِى",
+      "target_word_rasm": "تخافى",
+      "target_word_literal_irab": "Başına bir şey gelmesinden korktuğunda / korkma! (`خِفْتِ / وَلَا تَخَافِى`, I. bab dişil çekim `2FS`)",
+      "context_snippet_arabic": "فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا",
+      "context_snippet_turkish_tabula_rasa": "Musa'nın annesine: \"Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; korkma, üzülme; ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَيْنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنْ أَرْضِعِيهِ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِى ٱلْيَمِّ وَلَا تَخَافِى وَلَا تَحْزَنِىٓ إِنَّا رَآدُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ ٱلْمُرْسَلِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa'nın annesine: \"Çocuğu emzir, başına gelecekten korktuğun zaman onu suya bırak; korkma, üzülme; Biz şüphesiz onu sana döndüreceğiz ve elçi yapacağız\" diye bildirmiştik.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 28,
+      "ayah": 18,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:18",
+      "word_position": 4,
+      "target_word_uthmani": "خَآئِفًا",
+      "target_word_rasm": "خائفا",
+      "target_word_literal_irab": "Çevresini kollayarak ürküntü içinde (`خَآئِفًا`, I. bab ism-i fâil tekil mansûb)",
+      "context_snippet_arabic": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا يَتَرَقَّبُ فَإِذَا ٱلَّذِى",
+      "context_snippet_turkish_tabula_rasa": "Şehirde, korku içinde etrafı gözetip dolaşarak sabahladı. Dün kendisinden yardım isteyen kimse bağırarak ondan yine yardım istiyordu. ...",
+      "morphology": {
+        "lemma": "xaA^}if",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:xaA^}if|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَصْبَحَ فِى ٱلْمَدِينَةِ خَآئِفًا يَتَرَقَّبُ فَإِذَا ٱلَّذِى ٱسْتَنصَرَهُۥ بِٱلْأَمْسِ يَسْتَصْرِخُهُۥ قَالَ لَهُۥ مُوسَىٰٓ إِنَّكَ لَغَوِىٌّ مُّبِينٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şehirde, korku içinde etrafı gözetip dolaşarak sabahladı. Dün kendisinden yardım isteyen kimse bağırarak ondan yine yardım istiyordu. Musa ona: \"Doğrusu sen besbelli bir azgınsın\" dedi.",
+      "contextual_meaning": "I. bab ism-i fâil (`2:114` anma evlerine saygı ve çekince duymadan girememek gerekenler, `28:18,21` Mûsâ'nın kentte tehlikeyi kollayarak ürküntüyle yürümesi)."
+    },
+    {
+      "surah": 28,
+      "ayah": 21,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:21",
+      "word_position": 3,
+      "target_word_uthmani": "خَآئِفًا",
+      "target_word_rasm": "خائفا",
+      "target_word_literal_irab": "Çevresini kollayarak ürküntü içinde (`خَآئِفًا`, I. bab ism-i fâil tekil mansûb)",
+      "context_snippet_arabic": "فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ قَالَ رَبِّ",
+      "context_snippet_turkish_tabula_rasa": "Musa, korku içinde çevresini gözetleyerek oradan çıktı. \"Rabbim! Beni zalim milletten kurtar\" dedi.",
+      "morphology": {
+        "lemma": "xaA^}if",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|LEM:xaA^}if|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa, korku içinde çevresini gözetleyerek oradan çıktı. \"Rabbim! Beni zalim milletten kurtar\" dedi.",
+      "contextual_meaning": "I. bab ism-i fâil (`2:114` anma evlerine saygı ve çekince duymadan girememek gerekenler, `28:18,21` Mûsâ'nın kentte tehlikeyi kollayarak ürküntüyle yürümesi)."
+    },
+    {
+      "surah": 28,
+      "ayah": 25,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:25",
+      "word_position": 22,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "... O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "O sırada, kadınlardan biri utana utana yürüyüp ona geldi: \"Babam sana sulama ücretini ödemek için seni çağırıyor\" dedi. Musa ona gelince, başından geçeni anlattı. O: \"Korkma, artık zalim milletten kurtuldun\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 28,
+      "ayah": 31,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:31",
+      "word_position": 16,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ إِنَّكَ مِنَ ٱلْءَامِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "... \"Ey Musa! Dön gel; korkma; şüphesiz güvende olanlardansın\" denildi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَأَنْ أَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ يَٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ إِنَّكَ مِنَ ٱلْءَامِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Değneğini at.\" Musa, değneğin yılan gibi hareketler yaptığını görünce, dönüp arkasına bakmadan kaçtı. \"Ey Musa! Dön gel; korkma; şüphesiz güvende olanlardansın\" denildi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 28,
+      "ayah": 33,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:33",
+      "word_position": 7,
+      "target_word_uthmani": "فَأَخَافُ",
+      "target_word_rasm": "فأخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَن يَقْتُلُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَن يَقْتُلُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. Onu, beni destekleyen bir yardımcı olarak benimle gönder, çünkü beni yalanlamalarından korkarım\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 28,
+      "ayah": 34,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:34",
+      "word_position": 12,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "رِدْءًا يُصَدِّقُنِىٓ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَأَخِى هَٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًا فَأَرْسِلْهُ مَعِىَ رِدْءًا يُصَدِّقُنِىٓ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa: \"Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. Onu, beni destekleyen bir yardımcı olarak benimle gönder, çünkü beni yalanlamalarından korkarım\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 29,
+      "ayah": 33,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:33",
+      "word_position": 13,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ إِنَّا",
+      "context_snippet_turkish_tabula_rasa": "... Ona, \"Korkma ve üzülme, doğrusu biz seni ve geride kalacaklardan olan karının dışında, aileni kurtaracağız. Bu kent halkına yaptıkları yolsuzluklardan ötürü gökten, elbette bir azap indireceğiz\" dediler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Elçilerimiz Lut'a gelince, onun fenasına gitti; çok sıkıldı. Ona, \"Korkma ve üzülme, doğrusu biz seni ve geride kalacaklardan olan karının dışında, aileni kurtaracağız. Bu kent halkına yaptıkları yolsuzluklardan ötürü gökten, elbette bir azap indireceğiz\" dediler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 30,
+      "ayah": 24,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:24",
+      "word_position": 5,
+      "target_word_uthmani": "خَوْفًا",
+      "target_word_rasm": "خوفا",
+      "target_word_literal_irab": "Hem korku hem de umut besleyerek (`خَوْفًا وَطَمَعًا`, masdar-hal mansûb)",
+      "context_snippet_arabic": "ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Size korku ve ümit veren şimşeği göstermesi, gökten su indirip ölümünden sonra yeri onunla diriltmesi O'nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size korku ve ümit veren şimşeği göstermesi, gökten su indirip ölümünden sonra yeri onunla diriltmesi O'nun varlığının belgelerindendir. Bunlarda, düşünen millet için dersler vardır.",
+      "contextual_meaning": "Duygu dengesi (`خَوْفًا وَطَمَعًا` `7:56`, `13:12`, `30:24`, `32:16`): Şimşeği görüp hem zarardan korkmak hem yağmur umuduyla dolmak arasındaki dengeli bilinç."
+    },
+    {
+      "surah": 30,
+      "ayah": 28,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:28",
+      "word_position": 20,
+      "target_word_uthmani": "تَخَافُونَهُمْ",
+      "target_word_rasm": "تخافونهم",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve bir...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 30,
+      "ayah": 28,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:28",
+      "word_position": 21,
+      "target_word_uthmani": "كَخِيفَتِكُمْ",
+      "target_word_rasm": "كخيفتكم",
+      "target_word_literal_irab": "İçten ürpertisinin ve çekincesinin şiddetinden (`خِيفَتِهِۦ / كَخِيفَتِكُمْ`, fi'le kalıbı isim mecrûr)",
+      "context_snippet_arabic": "فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ",
+      "context_snippet_turkish_tabula_rasa": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve bir...",
+      "morphology": {
+        "lemma": "xiyfap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xiyfap|ROOT:xwf|F|GEN"
+      },
+      "ayah_text_arabic_full": "ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَٰنُكُم مِّن شُرَكَآءَ فِى مَا رَزَقْنَٰكُمْ فَأَنتُمْ فِيهِ سَوَآءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size kendinizden bir misal vermektedir: Size verdiğimiz rızıklarda, emrinizde bulunan kölelerinizin de eşit surette hak sahibi olmalarına razı olur ve birbirinizi saydığınız gibi bu ortaklarınızı sayar mısınız? Düşünen millete ayetleri böylece uzun uzadıya açıklarız.",
+      "contextual_meaning": "İç sarsıntı ve ürperti (`7:205` sessiz iç yalvarış, `13:13` gök gürültüsünün ürperti vermesi, `30:28` kendi eşlerinizden/yetkilerinizden duyduğunuz çekince kıyaslaması)."
+    },
+    {
+      "surah": 32,
+      "ayah": 16,
+      "surah_name": "Secde",
+      "ayah_ref": "32:16",
+      "word_position": 7,
+      "target_word_uthmani": "خَوْفًا",
+      "target_word_rasm": "خوفا",
+      "target_word_literal_irab": "Hem korku hem de umut besleyerek (`خَوْفًا وَطَمَعًا`, masdar-hal mansûb)",
+      "context_snippet_arabic": "ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ayetlerimize ancak, kendilerine hatırlatıldığı zaman boyun eğmeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan dolaşıma sokup paylaştıranlar güven duy.",
+      "contextual_meaning": "Duygu dengesi (`خَوْفًا وَطَمَعًا` `7:56`, `13:12`, `30:24`, `32:16`): Şimşeği görüp hem zarardan korkmak hem yağmur umuduyla dolmak arasındaki dengeli bilinç."
+    },
+    {
+      "surah": 33,
+      "ayah": 19,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:19",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْخَوْفُ",
+      "target_word_rasm": "ٱلخوف",
+      "target_word_literal_irab": "O gerçek savaş korkusu ve tehlikesi (`ٱلْخَوْفُ`, marife isim merfû)",
+      "context_snippet_arabic": "عَلَيْكُمْ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "... Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. ...",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَشِحَّةً عَلَيْكُمْ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. Bunlar güven duy, Allah, bu sebeple işlerini boşa çıkarmıştır; bu, Allah için kolaydır.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 33,
+      "ayah": 19,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:19",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلْخَوْفُ",
+      "target_word_rasm": "ٱلخوف",
+      "target_word_literal_irab": "O gerçek savaş korkusu ve tehlikesi (`ٱلْخَوْفُ`, marife isim merfû)",
+      "context_snippet_arabic": "ٱلْمَوْتِ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ",
+      "context_snippet_turkish_tabula_rasa": "... Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. ...",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|NOM"
+      },
+      "ayah_text_arabic_full": "أَشِحَّةً عَلَيْكُمْ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine \"Bize gelin, zorlanmadıkça savaşa gitmeyin\" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. Bunlar güven duy, Allah, bu sebeple işlerini boşa çıkarmıştır; bu, Allah için kolaydır.",
+      "contextual_meaning": "Cesaret ve emanet sınavı (`6:81` sahte ortakları korkulacak sanma yanılgısı, `20:77` `لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ` mutlak güven, `28:7` anneye `korkma` güveni, `33:19` savaş korkusu gelip gidince tavır değiştirenler)."
+    },
+    {
+      "surah": 38,
+      "ayah": 22,
+      "surah_name": "Sâd",
+      "ayah_ref": "38:22",
+      "word_position": 9,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا",
+      "context_snippet_turkish_tabula_rasa": "Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: \"Korkma, birbirinin hakkına tecavüz etmiş iki davacıyız; aramızda adaletle hükmet, ondan ayrılma, bizi doğru yola çıkar.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 39,
+      "ayah": 13,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:13",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Rabbime karşı gelirsem, doğrusu büyük günün azabından korkarım.\"",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Rabbime karşı gelirsem, doğrusu büyük günün azabından korkarım.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 39,
+      "ayah": 16,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:16",
+      "word_position": 11,
+      "target_word_uthmani": "يُخَوِّفُ",
+      "target_word_rasm": "يخوف",
+      "target_word_literal_irab": "Gözdağı verip korkutuyor / korkutur (`يُخَوِّفُ / وَنُخَوِّفُهُمْ / وَيُخَوِّفُونَكَ`, II. bab muzâri)",
+      "context_snippet_arabic": "تَحْتِهِمْ ظُلَلٌ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Onlara üstlerinden kat kat ateş vardır. Allah kullarını bununla korkutur. Ey kullarım, Benden sakının.",
+      "morphology": {
+        "lemma": "yuxaw~ifu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuxaw~ifu|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "لَهُم مِّن فَوْقِهِمْ ظُلَلٌ مِّنَ ٱلنَّارِ وَمِن تَحْتِهِمْ ظُلَلٌ ذَٰلِكَ يُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥ يَٰعِبَادِ فَٱتَّقُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlara üstlerinden kat kat ateş vardır. Allah kullarını bununla korkutur. Ey kullarım, Benden sakının.",
+      "contextual_meaning": "İkinci bab korkutma (`17:60`, `39:16`, `39:36`): Hem ilâhî azap uyarısıyla sarsma (`39:16`) hem karşıtların sahte ortaklarla elçiye gözdağı vermeye çalışması (`39:36`)."
+    },
+    {
+      "surah": 39,
+      "ayah": 36,
+      "surah_name": "Zümer",
+      "ayah_ref": "39:36",
+      "word_position": 5,
+      "target_word_uthmani": "وَيُخَوِّفُونَكَ",
+      "target_word_rasm": "ويخوفونك",
+      "target_word_literal_irab": "Gözdağı verip korkutuyor / korkutur (`يُخَوِّفُ / وَنُخَوِّفُهُمْ / وَيُخَوِّفُونَكَ`, II. bab muzâri)",
+      "context_snippet_arabic": "ٱللَّهُ بِكَافٍ عَبْدَهُۥ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Allah, kuluna yetmez mi? Seni O'ndan başka şeylerle korkutuyorlar. Allah'ın, saptırdığını doğru yola koyacak yoktur.",
+      "morphology": {
+        "lemma": "yuxaw~ifu",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:yuxaw~ifu|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "أَلَيْسَ ٱللَّهُ بِكَافٍ عَبْدَهُۥ وَيُخَوِّفُونَكَ بِٱلَّذِينَ مِن دُونِهِۦ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, kuluna yetmez mi? Seni O'ndan başka şeylerle korkutuyorlar. Allah'ın, saptırdığını doğru yola koyacak yoktur.",
+      "contextual_meaning": "İkinci bab korkutma (`17:60`, `39:16`, `39:36`): Hem ilâhî azap uyarısıyla sarsma (`39:16`) hem karşıtların sahte ortaklarla elçiye gözdağı vermeye çalışması (`39:36`)."
+    },
+    {
+      "surah": 40,
+      "ayah": 26,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:26",
+      "word_position": 9,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَلْيَدْعُ رَبَّهُۥٓ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Onun, sizin yaşam sisteminizi değiştireceğinden veya yeryüzünde bozgun çıkaracağından korkuyorum\" dedi.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ",
+      "ayah_text_turkish_tabula_rasa_full": "Firavun: \"Beni bırakın da Musa'yı öldüreyim, o, Rabbine yalvaradursun. Onun, sizin yaşam sisteminizi değiştireceğinden veya yeryüzünde bozgun çıkaracağından korkuyorum\" dedi.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 40,
+      "ayah": 30,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:30",
+      "word_position": 6,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ",
+      "context_snippet_turkish_tabula_rasa": "güvene ermiş olan adam dedi ki: \"Ey milletim! Doğrusu ben sizin için, Nuh milletinin, Ad, Semud ve onlardan sonra gelenlerin durumu gibi, elçileri yalanlayan toplulukların uğradıkları bir günün benzerinden korkuyorum. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene ermiş olan adam dedi ki: \"Ey milletim! Doğrusu ben sizin için, Nuh milletinin, Ad, Semud ve onlardan sonra gelenlerin durumu gibi, elçileri yalanlayan toplulukların uğradıkları bir günün benzerinden korkuyorum. Allah kullara zulüm dilemez.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 40,
+      "ayah": 32,
+      "surah_name": "Mü'min (Gāfir)",
+      "ayah_ref": "40:32",
+      "word_position": 3,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey milletim! Ahu figan gününden sizin hesabınıza korkuyorum.\"",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَيَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُمْ يَوْمَ ٱلتَّنَادِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey milletim! Ahu figan gününden sizin hesabınıza korkuyorum.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 41,
+      "ayah": 30,
+      "surah_name": "Fussilet",
+      "ayah_ref": "41:30",
+      "word_position": 12,
+      "target_word_uthmani": "تَخَافُوا۟",
+      "target_word_rasm": "تخافوا",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... \"Korkmayınız, üzülmeyiniz, size söz verilen esenlik bahçesiyle sevinin, biz dünya hayatında da, ahirette de size dostuz. Burada, canlarınızın çektiği, umduğunuz şeyler, bağışlayan ve acıyan Allah katından bir ziyafet olarak size sunulur\" diyerek inerler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP|MOOD:SUBJ"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz Allah'tır\" deyip sonra da doğrulukta devam edenler, onları, kozmik görevliler, ölümleri anında: \"Korkmayınız, üzülmeyiniz, size söz verilen esenlik bahçesiyle sevinin, biz dünya hayatında da, ahirette de size dostuz. Burada, canlarınızın çektiği, umduğunuz şeyler, bağışlayan ve acıyan Allah katından bir ziyafet olarak size sunulur\" diyerek inerler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 43,
+      "ayah": 68,
+      "surah_name": "Zuhruf",
+      "ayah_ref": "43:68",
+      "word_position": 3,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "يَٰعِبَادِ لَا خَوْفٌ عَلَيْكُمُ ٱلْيَوْمَ وَلَآ",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Ey kullarım! Bugün size korku yoktur, siz üzülmeyeceksiniz\" der.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰعِبَادِ لَا خَوْفٌ عَلَيْكُمُ ٱلْيَوْمَ وَلَآ أَنتُمْ تَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Ey kullarım! Bugün size korku yoktur, siz üzülmeyeceksiniz\" der.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 46,
+      "ayah": 13,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:13",
+      "word_position": 9,
+      "target_word_uthmani": "خَوْفٌ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Üzerlerinde hiçbir endişe ve korku (`لَا خَوْفٌ`, nekre isim merfû)",
+      "context_snippet_arabic": "ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu, \"Rabbimiz Allah'tır\" deyip, sonra da dosdoğru gidenlere korku yoktur, onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu, \"Rabbimiz Allah'tır\" deyip, sonra da dosdoğru gidenlere korku yoktur, onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Mesânî güven formülü (`لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ`): Geleceğe dönük tehlike kaygısı (`خَوْف`) ile geçmişe dönük üzüntünün (`حَزَن`) eşzamanlı sıfırlanması."
+    },
+    {
+      "surah": 46,
+      "ayah": 21,
+      "surah_name": "Ahkāf",
+      "ayah_ref": "46:21",
+      "word_position": 21,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ",
+      "context_snippet_turkish_tabula_rasa": "... ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "وَٱذْكُرْ أَخَا عَادٍ إِذْ أَنذَرَ قَوْمَهُۥ بِٱلْأَحْقَافِ وَقَدْ خَلَتِ ٱلنُّذُرُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦٓ أَلَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, \"Allah'tan başkasına kulluk etmeyin\" diyen nice uyarıcılar gelip geçmişken, Ahkaf bölgesindeki milletini uyarmış \"Doğrusu sizin için, büyük günün azabından korkuyorum\" demişti.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 48,
+      "ayah": 27,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:27",
+      "word_position": 18,
+      "target_word_uthmani": "تَخَافُونَ",
+      "target_word_rasm": "تخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ",
+      "context_snippet_turkish_tabula_rasa": "... Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MP"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Allah, elçisinin rüyasının gerçek olduğunu tasdik eder. Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. Size, bundan başka, yakın zamanda bir zafer verecektir.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 50,
+      "ayah": 45,
+      "surah_name": "Kāf",
+      "ayah_ref": "50:45",
+      "word_position": 12,
+      "target_word_uthmani": "يَخَافُ",
+      "target_word_rasm": "يخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+      "context_snippet_turkish_tabula_rasa": "Onların dediklerini Biz biliriz. Sen onların üzerinde bir zorba değilsin; söz verdiğim günden korkanlara Kuran'la öğüt ver.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların dediklerini Biz biliriz. Sen onların üzerinde bir zorba değilsin; söz verdiğim günden korkanlara Kuran'la öğüt ver.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 51,
+      "ayah": 28,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:28",
+      "word_position": 3,
+      "target_word_uthmani": "خِيفَةً",
+      "target_word_rasm": "خيفة",
+      "target_word_literal_irab": "İçinde beliren bir çekince ve ürperti (`خِيفَةً`, fi'le kalıbı `v→y` dönüşümlü isim mansûb)",
+      "context_snippet_arabic": "فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ",
+      "context_snippet_turkish_tabula_rasa": "(Yemediklerini görünce) onlardan endişeye düştü; \"Korkma\" dediler ve ona bilgin bir oğul sahibi olacağını müjdelediler.",
+      "morphology": {
+        "lemma": "xiyfap",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xiyfap|ROOT:xwf|F|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "(Yemediklerini görünce) onlardan endişeye düştü; \"Korkma\" dediler ve ona bilgin bir oğul sahibi olacağını müjdelediler.",
+      "contextual_meaning": "Derin iç ürperti (`أَوْجَسَ ... خِيفَةً` `11:70`, `20:67`, `51:28`): Elçilerin insanî olarak hissettiği iç çekince ve hemen ardından gelen `لَا تَخَفْ` (`korkma`) tesellisi."
+    },
+    {
+      "surah": 51,
+      "ayah": 28,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:28",
+      "word_position": 6,
+      "target_word_uthmani": "تَخَفْ",
+      "target_word_rasm": "تخف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ",
+      "context_snippet_turkish_tabula_rasa": "(Yemediklerini görünce) onlardan endişeye düştü; \"Korkma\" dediler ve ona bilgin bir oğul sahibi olacağını müjdelediler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|2MS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "(Yemediklerini görünce) onlardan endişeye düştü; \"Korkma\" dediler ve ona bilgin bir oğul sahibi olacağını müjdelediler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 51,
+      "ayah": 37,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:37",
+      "word_position": 5,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "context_snippet_turkish_tabula_rasa": "Can yakıcı azabdan korkanlar için, o beldede bir işaret, bir kalıntı bıraktık.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "وَتَرَكْنَا فِيهَآ ءَايَةً لِّلَّذِينَ يَخَافُونَ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "ayah_text_turkish_tabula_rasa_full": "Can yakıcı azabdan korkanlar için, o beldede bir işaret, bir kalıntı bıraktık.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 55,
+      "ayah": 46,
+      "surah_name": "Rahmân",
+      "ayah_ref": "55:46",
+      "word_position": 2,
+      "target_word_uthmani": "خَافَ",
+      "target_word_rasm": "خاف",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "context_snippet_turkish_tabula_rasa": "Rabbine karşı durmaktan korkan kimseye iki esenlik bahçesi vardır.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbine karşı durmaktan korkan kimseye iki esenlik bahçesi vardır.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 59,
+      "ayah": 16,
+      "surah_name": "Haşr",
+      "ayah_ref": "59:16",
+      "word_position": 14,
+      "target_word_uthmani": "أَخَافُ",
+      "target_word_rasm": "أخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Alemlerin Rabbi olan Allah'tan korkarım\" diyen saptırıcı yıkıcı gücün durumu gibidir.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1S"
+      },
+      "ayah_text_arabic_full": "كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "İkiyüzlülerin durumu insana: \"gerçeğin üzerini ört!\" deyip, insan da gerçeğin üzerini ört: \"Doğrusu ben senden uzağım; Alemlerin Rabbi olan Allah'tan korkarım\" diyen saptırıcı yıkıcı gücün durumu gibidir.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 72,
+      "ayah": 13,
+      "surah_name": "Cin",
+      "ayah_ref": "72:13",
+      "word_position": 11,
+      "target_word_uthmani": "يَخَافُ",
+      "target_word_rasm": "يخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+      "context_snippet_turkish_tabula_rasa": "\"Şüphesiz, doğruluk rehberi olan Kuran'ı dinlediğimizde ona güvene erdik; kim Rabbine güven duy, o, ecrinin eksiltileceğinden ve kendisine haksızlık edileceğinden korkmaz. ...",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şüphesiz, doğruluk rehberi olan Kuran'ı dinlediğimizde ona güvene erdik; kim Rabbine güven duy, o, ecrinin eksiltileceğinden ve kendisine haksızlık edileceğinden korkmaz.\"",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 74,
+      "ayah": 53,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:53",
+      "word_position": 4,
+      "target_word_uthmani": "يَخَافُونَ",
+      "target_word_rasm": "يخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "كَلَّا بَل لَّا يَخَافُونَ ٱلْءَاخِرَةَ",
+      "context_snippet_turkish_tabula_rasa": "Hayır; daha doğrusu ahiretten korkmazlar.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "كَلَّا بَل لَّا يَخَافُونَ ٱلْءَاخِرَةَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hayır; daha doğrusu ahiretten korkmazlar.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 76,
+      "ayah": 7,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:7",
+      "word_position": 3,
+      "target_word_uthmani": "وَيَخَافُونَ",
+      "target_word_rasm": "ويخافون",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ",
+      "context_snippet_turkish_tabula_rasa": "Onlar verdikleri sözleri yerine getirirler, fenalığı yaygın olan bir günden korkarlar.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MP"
+      },
+      "ayah_text_arabic_full": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًا كَانَ شَرُّهُۥ مُسْتَطِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar verdikleri sözleri yerine getirirler, fenalığı yaygın olan bir günden korkarlar.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 76,
+      "ayah": 10,
+      "surah_name": "İnsân",
+      "ayah_ref": "76:10",
+      "word_position": 2,
+      "target_word_uthmani": "نَخَافُ",
+      "target_word_rasm": "نخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا",
+      "context_snippet_turkish_tabula_rasa": "... Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız\" derler.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|1P"
+      },
+      "ayah_text_arabic_full": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "\"Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız\" derler.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 79,
+      "ayah": 40,
+      "surah_name": "Nâziât",
+      "ayah_ref": "79:40",
+      "word_position": 3,
+      "target_word_uthmani": "خَافَ",
+      "target_word_rasm": "خاف",
+      "target_word_literal_irab": "Korktu / çekindiler / endişe ettiniz (`خَافَ / خِفْتُمْ / خَافَتْ`, I. bab ecvef mâzî)",
+      "context_snippet_arabic": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى",
+      "context_snippet_turkish_tabula_rasa": "Ama kim Rabbinin azametinden korkup da kendini kötülükten alıkoymuşsa, varacağı yer şüphesiz esenlik bahçesidir.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ama kim Rabbinin azametinden korkup da kendini kötülükten alıkoymuşsa, varacağı yer şüphesiz esenlik bahçesidir.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 91,
+      "ayah": 15,
+      "surah_name": "Şems",
+      "ayah_ref": "91:15",
+      "word_position": 2,
+      "target_word_uthmani": "يَخَافُ",
+      "target_word_rasm": "يخاف",
+      "target_word_literal_irab": "Korkarım / korkarlar / korkma! / korkmayın! (`أَخَافُ / لَا تَخَفْ / يَخَافُونَ`, I. bab ecvef muzâri)",
+      "context_snippet_arabic": "وَلَا يَخَافُ عُقْبَٰهَا",
+      "context_snippet_turkish_tabula_rasa": "Bu işin sonundan O'nun korkusu yoktur.",
+      "morphology": {
+        "lemma": "xaAfa",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|LEM:xaAfa|ROOT:xwf|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا يَخَافُ عُقْبَٰهَا",
+      "ayah_text_turkish_tabula_rasa_full": "Bu işin sonundan O'nun korkusu yoktur.",
+      "contextual_meaning": "Tehlike beklentisine karşı ahlâkî duyarlılık, elçilerin sorumluluk kaygısı (`إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ`) ve yersiz insan korkusunun aşılması."
+    },
+    {
+      "surah": 106,
+      "ayah": 4,
+      "surah_name": "Kureyş",
+      "ayah_ref": "106:4",
+      "word_position": 7,
+      "target_word_uthmani": "خَوْفٍۭ",
+      "target_word_rasm": "خوف",
+      "target_word_literal_irab": "Tehlike ve korku hâlinden/ortamından (`ٱلْخَوْفِ / خَوْفٍۭ / خَوْفِهِمْ`, isim mecrûr)",
+      "context_snippet_arabic": "جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.",
+      "morphology": {
+        "lemma": "xawof",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:xawof|ROOT:xwf|M|INDEF|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.",
+      "contextual_meaning": "Toplumsal güvenlik ve açlık-korku sınaması (`24:55` ve `106:4` korkudan sonra güvene çıkarma; `16:112` nankörlüğün ardından açlık ve korku elbisesi giydirilmesi)."
+    }
+  ]
+}

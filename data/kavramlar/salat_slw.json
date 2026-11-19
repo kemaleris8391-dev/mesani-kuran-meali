@@ -1,0 +1,2046 @@
+{
+  "root": "ص-ل-و",
+  "root_latin": "S-L-V",
+  "concept_name": "Salât (Yöneliş, İrtibat ve Sorumluluk Bağı)",
+  "rank": null,
+  "total_occurrences": 99,
+  "unique_ayahs_count": 90,
+  "unified_core_mechanism": "Bir amaca, ilkeye, vahye veya toplumsal sorumluluğa sırt dönmeyip (tevellâ etmeyip); yüzünü dönerek yönelme, ilahi bilinçle yakarış ve irtibat bağı kurma ve bu bağın gereği olan görevin arkasında durup kesintisiz sahiplenme mekanizması.",
+  "physical_core": "At yarışında öndeki lider atın (es-Sâbik) hemen arkasına kenetlenip başını onun kuyruk sokumuna (es-Salā) koyarak ayrılmadan takip eden ikinci ata 'el-Musallî' denir. Kökün fiziksel merkezi: Omurganın kalça kemikleriyle birleşip büküldüğü kuyruk sokumu bölgesi (es-Salavân).",
+  "dictionary_arbitration": {
+    "ibn_faris": "İzleyen atın (el-Musallî) öndekinin arkasında durup takibi; aynı zamanda ص-ل-ي ile karıştırılan ateşe maruz kalma aslı.",
+    "lisan_al_arab": "Dua, tebrik, ibadet ve ateşte ısıtılan eğri odunu düzeltme (tasliye) mecazları.",
+    "ragib_mufredat": "Namaz ve dua özel anlamları; boyun eğme ve sırt dönmenin karşıtı.",
+    "arbitration_decision": "Kıyâme 75:31-32 ve Alak 96:10-13 ayetlerinde \"sallâ\" fiilinin karşısına açıkça \"tevellâ\" (sırtını dönüp çekip gitmek) konulmuştur. Sırt dönmenin zıttı dua değil, yüzünü dönmek, irtibat kurmak ve sorumluluğun arkasında durmaktır. Bu anlam Ahzâb 33:56 (Allah'ın nebîye salâtı) dahil tüm ayetlerde sıfır çelişkiyle çalışan tek mekanizmadır."
+  },
+  "semitic_cognates": {
+    "aramaic_syriac": "ṣlā / ܨܠܳܐ (eğilmek, yönelmek, uzanmak; ṣlōthā = yöneliş, yakarış, dua)",
+    "geez": "ṣallaya (yönelmek, yakarışta bulunmak)",
+    "sabaic": "ṣly (yönelmek, bağlılık ve yakarış sunmak)",
+    "philological_note": "Arapça ص-ل-و kökünün Sami dillerindeki asıl eşkökenli omurgası Aramice/Süryanice ṣlā, Ge'ez ṣallaya ve Geç Sebece ṣly kökleridir. İbranice צָלָה (H6740 - ateşte kavurmak) kökü ص-ل-و değil ص-ل-ي (ateşte yanmak) ile eşkökenlidir; İbranice צָלַع (tsala' - H6760) ise son harfi ayın (ע) olduğundan Arapça ض-ل-ع (kaburga/aksamak) köküne aittir, ص-ل-و ile ilgisi yoktur."
+  },
+  "mesani_opposite": {
+    "key_ayahs": [
+      "75:31-32",
+      "96:10-13",
+      "80:1",
+      "47:22",
+      "92:16",
+      "3:63",
+      "20:48"
+    ],
+    "reverse_stress_test": "Kur'an'ın genelinde 'تَوَلَّى' (tevellâ); hakikatten, ilahi çağrıdan ve sorumluluktan sırt çevirip ilgiyi kesmek, bağdan kopup uzaklaşmaktır (80:1, 47:22, 92:16, 3:63, 20:48). Tevellâ'nın Kur'an'daki tüm kullanımlarının tam tersi alındığında, ortaya çıkan kavram 'صَلَّى'dır: Yani sırt dönmeyip yüzünü dönmek; bağ kurmak, yönelip yakarmak ve sorumluluğu üstlenip arkasında durmaktır. 75:31-32 ve 96:10-13 ayetlerinde صَلَّى ile تَوَلَّى doğrudan birbirinin Mesânî zıttı olarak konumlandırılarak bu simetriyi kesinleştirir.",
+    "roots": [
+      "و-ل-ي (Tevellâ - Sırt çevirmek, ilgisini kesip bağdan ve sorumluluktan kopup uzaklaşmak)"
+    ]
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "Duâ",
+      "Kıyâm",
+      "Zikr",
+      "Salât"
+    ],
+    "mechanical_difference": "Duâ: Yalnızca sözlü çağrı ve niyaz | Kıyâm: Harekete geçip ayakta durmak, nöbet tutmak | Zikr: Bilinci diri tutup anmak ve hatırlamak | Salât: Sırt çevirmenin (tevellâ) zıddı olarak yüzünü dönüp bağlanmak; yakarma bağı kurarak sorumluluğun arkasında durmak ve kesintisiz sahiplenmek",
+    "term_comparisons": {
+      "Duâ": "Yalnızca sözlü çağrı ve niyaz",
+      "Kıyâm": "Harekete geçip ayakta durmak, nöbet tutmak",
+      "Zikr": "Bilinci diri tutup anmak ve hatırlamak",
+      "Salât": "Sırt çevirmenin (tevellâ) zıddı olarak yüzünü dönüp bağlanmak; yakarma bağı kurarak sorumluluğun arkasında durmak ve kesintisiz sahiplenmek"
+    }
+  },
+  "anchor_ayahs": [
+    "75:31-32 (Sırt çevirmenin [tevellâ] zıddı olarak salât)",
+    "33:56 (Allah ve meleklerin nebînin arkasında durup desteklemesi)",
+    "107:4-7 (Sosyal dayanışmadan kopuk gafil salât uyarısı)"
+  ],
+  "grammar_and_branch_rules": "Kur'an'da fiil yalnızca Form II (sallâ) olarak geçer. 'صلى على' öznesi Allah/melekler/elçi olduğunda 'arkasında durup desteklemek'; 'صلى لـ' veya isimleşmiş 'ekâme's-salâte' insan öznesinde 'yöneliş ve sorumluluk bağını kurup ayakta tutmak' anlamındadır.",
+  "derivatives": {
+    "صلاة (Salât)": "Yöneliş, yakarış, kesintisiz irtibat ve sorumluluk bağı (78 tekil صلاة + 5 çoğul صلوات)",
+    "صلى (Sallâ)": "Yüzünü döndü, bağ kurdu, yöneldi, arkasında durup destekledi",
+    "مصلين (Musallîn)": "Sırt çevirmeyip yönelenler, bağ kurup davanın arkasında duranlar",
+    "مصلى (Musallâ)": "Yöneliş ve bağlanma makamı / odak noktası (2:125)"
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 3,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:3",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, gaybe güven duyup emin olurlar, irtibat ve sorumluluk bağını ayakta tutarlar, kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, gaybe güven duyup emin olurlar, irtibat ve sorumluluk bağını ayakta tutarlar, kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Vahye ve hakikate sırt dönmeyip yüzünü dönerek kurulan irtibat ve sorumluluk bağı; bu bağın ayakta tutulması ve kurumsallaştırılması."
+    },
+    {
+      "surah": 2,
+      "ayah": 43,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:43",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, boyun bükenlerle birlikte boyun büküp esneyin.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, boyun bükenlerle birlikte boyun büküp esneyin.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 45,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:45",
+      "word_position": 3,
+      "target_word_uthmani": "وَٱلصَّلَوٰةِ",
+      "target_word_rasm": "وٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "sebat ve direnç ve irtibat bağıyla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına yöneliş ve sorumluluk bağı elbette ağır gelir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَٰشِعِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "sebat ve direnç ve irtibat bağıyla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına yöneliş ve sorumluluk bağı elbette ağır gelir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 2,
+      "ayah": 83,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:83",
+      "word_position": 20,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ",
+      "context_snippet_turkish_tabula_rasa": "İsrailoğullarından, \"Allah'tan başkasına kulluk etmeyin, anne babaya, yakınlara, yetimlere, düşkünlere iyilik edin, insanlarla güzel güzel konuşun, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin\" diye söz almıştık. Sonra siz pek azınız müstesna, döndünüz; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "İsrailoğullarından, \"Allah'tan başkasına kulluk etmeyin, anne babaya, yakınlara, yetimlere, düşkünlere iyilik edin, insanlarla güzel güzel konuşun, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin\" diye söz almıştık. Sonra siz pek azınız müstesna, döndünüz; hala da yüz çevirip duruyorsunuz.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 110,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:110",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَمَا",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, kendiniz için önden gönderdiğiniz her hayrı Allah katında bulacaksınız. Allah yaptıklarınızı şüphesiz görür.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, kendiniz için önden gönderdiğiniz her hayrı Allah katında bulacaksınız. Allah yaptıklarınızı şüphesiz görür.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 2,
+      "ayah": 125,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:125",
+      "word_position": 11,
+      "target_word_uthmani": "مُصَلًّى",
+      "target_word_rasm": "مصلى",
+      "target_word_literal_irab": "Yöneliş ve irtibat makamı / odaklanma durağı (mekân ismi)",
+      "context_snippet_arabic": "مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ",
+      "context_snippet_turkish_tabula_rasa": "Kabeyi, insanlar için toplanma ve güven yeri kılmıştık. İbrahim'in makamını yöneliş ve sorumluluk bağı yeri edinin, dedik. Evimi ziyaret edenler, kendini kulluk ve yönelişe verenler, tevazu ile öne eğilme ve boyun eğenler için temiz tutun diye İbrahim ve İsmail'e ahd verdik.",
+      "morphology": {
+        "lemma": "muSal~FY",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:muSal~FY|ROOT:Slw|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+      "ayah_text_turkish_tabula_rasa_full": "Kabeyi, insanlar için toplanma ve güven yeri kılmıştık. İbrahim'in makamını yöneliş ve sorumluluk bağı yeri edinin, dedik. Evimi ziyaret edenler, kendini kulluk ve yönelişe verenler, tevazu ile öne eğilme ve boyun eğenler için temiz tutun diye İbrahim ve İsmail'e ahd verdik.",
+      "contextual_meaning": "İrtibat, yöneliş ve odaklanma makamı / duruş alanı."
+    },
+    {
+      "surah": 2,
+      "ayah": 153,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:153",
+      "word_position": 6,
+      "target_word_uthmani": "وَٱلصَّلَوٰةِ",
+      "target_word_rasm": "وٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ إِنَّ ٱللَّهَ مَعَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! sebat ve direnç ve irtibat bağıyla yardım dileyin. Allah, muhakkak ki sebat edip direnenlerle beraberdir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! sebat ve direnç ve irtibat bağıyla yardım dileyin. Allah, muhakkak ki sebat edip direnenlerle beraberdir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 2,
+      "ayah": 157,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:157",
+      "word_position": 3,
+      "target_word_uthmani": "صَلَوَٰتٌ",
+      "target_word_rasm": "صلوت",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağı (özne / mübtedâ merfû')",
+      "context_snippet_arabic": "أُو۟لَٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ",
+      "context_snippet_turkish_tabula_rasa": "Rablerinin mağfiret ve rahmeti onlaradır. O'nun yolunda olanlar da onlardır.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "أُو۟لَٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rablerinin mağfiret ve rahmeti onlaradır. O'nun yolunda olanlar da onlardır.",
+      "contextual_meaning": "Rablerinden gelen yakınlık, sahiplenme, manevi destek ve koruma bağları."
+    },
+    {
+      "surah": 2,
+      "ayah": 177,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:177",
+      "word_position": 33,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzlerinizi doğudan yana ve batıdan yana çevirmeniz iyi olmak demek değildir; Lakin iyi olan, Allah'a, ahiret gününe, kozmik görevlilere, Kitap'a, elçilere güvene eren, O'nun sevgisiyle, yakınlarına, yetimlere, düşkünlere, yolculara, yoksullara ve köleler uğrunda mal veren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahidleştiklerinde ahidlerine vefa gösterenler, zorda, darda ve savaş alanında sebat edip direnenlerdir. İşte onlar doğru olanlardır ve sakınanlar ancak onlardır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 2,
+      "ayah": 238,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:238",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوَٰتِ",
+      "target_word_rasm": "ٱلصلوت",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve yöneliş bağlarına ve orta irtibat bağına devam edin; gönülden boyun eğerek Allah için irtibat bağı için ayağa kalkın.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve yöneliş bağlarına ve orta irtibat bağına devam edin; gönülden boyun eğerek Allah için irtibat bağı için ayağa kalkın.",
+      "contextual_meaning": "İrtibat ve yöneliş bağlarının titizlikle korunması ve aksatılmaksızın sürdürülmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 238,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:238",
+      "word_position": 4,
+      "target_word_uthmani": "وَٱلصَّلَوٰةِ",
+      "target_word_rasm": "وٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve yöneliş bağlarına ve orta irtibat bağına devam edin; gönülden boyun eğerek Allah için irtibat bağı için ayağa kalkın.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve yöneliş bağlarına ve orta irtibat bağına devam edin; gönülden boyun eğerek Allah için irtibat bağı için ayağa kalkın.",
+      "contextual_meaning": "İrtibat ve yöneliş bağlarının titizlikle korunması ve aksatılmaksızın sürdürülmesi."
+    },
+    {
+      "surah": 2,
+      "ayah": 277,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:277",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene erip yararlı işler işleyenlerin, irtibat bağını ayakta tutup, arınma ve gelişme payı verenlerin Rab'leri katında ecirleri vardır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erip yararlı işler işleyenlerin, irtibat bağını ayakta tutup, arınma ve gelişme payı verenlerin Rab'leri katında ecirleri vardır. Onlara korku yoktur ve onlar üzülmeyeceklerdir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 3,
+      "ayah": 39,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:39",
+      "word_position": 5,
+      "target_word_uthmani": "يُصَلِّى",
+      "target_word_rasm": "يصلى",
+      "target_word_literal_irab": "Yüzünü dönüp yönelir, bağ kurar (Form II muzâri fiil)",
+      "context_snippet_arabic": "ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ",
+      "context_snippet_turkish_tabula_rasa": "Mabedde irtibat bağını ayakta tutarken kozmik görevliler ona seslendiler: \"Allah sana Allah'ın emriyle (vücud bulan İsa'yı) tasdik eden, efendi, iffetli, iyilerden bir elçi olarak Yahya'yı müjdeler\".",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Sal~aY`|ROOT:Slw|3MS"
+      },
+      "ayah_text_arabic_full": "فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Mabedde irtibat bağını ayakta tutarken kozmik görevliler ona seslendiler: \"Allah sana Allah'ın emriyle (vücud bulan İsa'yı) tasdik eden, efendi, iffetli, iyilerden bir elçi olarak Yahya'yı müjdeler\".",
+      "contextual_meaning": "Yüzünü dönerek yöneldi, irtibat kurdu, arkasında durup sahiplendi."
+    },
+    {
+      "surah": 4,
+      "ayah": 43,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:43",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Sarhoşken, ne dediğinizi bilene kadar, cünübken, yolcu olan müstesna gusledene kadar irtibat bağına yaklaşmayın. Eğer hasta veya yolculukta iseniz yahut biriniz ayak yolundan gelmişseniz veya kadınlara yaklaşmışsanız ve bu durumlarda su bulamamışsanız tertemiz bir toprağa teyemmüm edin, yüzlerinize ve ellerinize sürün. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Sarhoşken, ne dediğinizi bilene kadar, cünübken, yolcu olan müstesna gusledene kadar irtibat bağına yaklaşmayın. Eğer hasta veya yolculukta iseniz yahut biriniz ayak yolundan gelmişseniz veya kadınlara yaklaşmışsanız ve bu durumlarda su bulamamışsanız tertemiz bir toprağa teyemmüm edin, yüzlerinize ve ellerinize sürün. Allah affeder ve bağışlar.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 77,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:77",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا",
+      "context_snippet_turkish_tabula_rasa": "... \"Elinizi savaştan çekin, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin\" denenleri görmedin mi? Onlara savaş farz kılındığında, içlerinden bir takımı hemen, insanlardan, Allah'tan korkar gibi, hatta daha çok korkarlar ve \"Rabbimiz! Bize savaşı niçin farz kıldın, bizi yakın bir zamana kadar tehir edemez miydin?\" derler. De ki: ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Kendilerine: \"Elinizi savaştan çekin, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin\" denenleri görmedin mi? Onlara savaş farz kılındığında, içlerinden bir takımı hemen, insanlardan, Allah'tan korkar gibi, hatta daha çok korkarlar ve \"Rabbimiz! Bize savaşı niçin farz kıldın, bizi yakın bir zamana kadar tehir edemez miydin?\" derler. De ki: \"Dünya geçimliği azdır, ahiret, Allah'a karşı gelmekten sakınan için hayırlıdır, size zerre kadar zulmedilmez\".",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 4,
+      "ayah": 101,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:101",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن",
+      "context_snippet_turkish_tabula_rasa": "Yolculuk ettiğinizde, gerçeğin üzerini örtenlerin size bir fenalık yapmasından korkarsanız, irtibat bağını kısaltmanızda size bir sorumluluk yoktur. Zira gerçeğin üzerini örtenler, size apaçık düşmandırlar.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ إِنَّ ٱلْكَٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yolculuk ettiğinizde, gerçeğin üzerini örtenlerin size bir fenalık yapmasından korkarsanız, irtibat bağını kısaltmanızda size bir sorumluluk yoktur. Zira gerçeğin üzerini örtenler, size apaçık düşmandırlar.",
+      "contextual_meaning": "Güvenlik riski ve çatışma ortamında irtibat ve yöneliş ritminin kısaltılarak ve nöbetleşe icra edilmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 102,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:102",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم",
+      "context_snippet_turkish_tabula_rasa": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; kılmayan öbür kısım gelsin, seninle beraber kılsınlar, tedbirli olsunlar, silahlarını alsınlar. gerçeğin üzerini örtenler, size ansızın bir baskın vermek için, silah ve eşyanızdan ayrılmış bulunmanızı dilerler. Yağmurdan zarar görecekseniz veya hasta olursanız, silahlarınızı bırakmanıza engel yoktur, fakat dikkatli olun. Allah gerçeğin üzerini örtenlere şüphesiz ağır bir azab hazırlamıştır.",
+      "contextual_meaning": "Güvenlik riski ve çatışma ortamında irtibat ve yöneliş ritminin kısaltılarak ve nöbetleşe icra edilmesi."
+    },
+    {
+      "surah": 4,
+      "ayah": 102,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:102",
+      "word_position": 22,
+      "target_word_uthmani": "يُصَلُّوا۟",
+      "target_word_rasm": "يصلوا",
+      "target_word_literal_irab": "Yüzünü dönüp yönelir, bağ kurar (Form II muzâri fiil)",
+      "context_snippet_arabic": "طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; ...",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Sal~aY`|ROOT:Slw|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; kılmayan öbür kısım gelsin, seninle beraber kılsınlar, tedbirli olsunlar, silahlarını alsınlar. gerçeğin üzerini örtenler, size ansızın bir baskın vermek için, silah ve eşyanızdan ayrılmış bulunmanızı dilerler. Yağmurdan zarar görecekseniz veya hasta olursanız, silahlarınızı bırakmanıza engel yoktur, fakat dikkatli olun. Allah gerçeğin üzerini örtenlere şüphesiz ağır bir azab hazırlamıştır.",
+      "contextual_meaning": "Yüzünü dönerek yöneldi, irtibat kurdu, arkasında durup sahiplendi."
+    },
+    {
+      "surah": 4,
+      "ayah": 102,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:102",
+      "word_position": 23,
+      "target_word_uthmani": "فَلْيُصَلُّوا۟",
+      "target_word_rasm": "فليصلوا",
+      "target_word_literal_irab": "Yüzünü dönüp yönelir, bağ kurar (Form II muzâri fiil)",
+      "context_snippet_arabic": "أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; ...",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Sal~aY`|ROOT:Slw|3MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَإِذَا كُنتَ فِيهِمْ فَأَقَمْتَ لَهُمُ ٱلصَّلَوٰةَ فَلْتَقُمْ طَآئِفَةٌ مِّنْهُم مَّعَكَ وَلْيَأْخُذُوٓا۟ أَسْلِحَتَهُمْ فَإِذَا سَجَدُوا۟ فَلْيَكُونُوا۟ مِن وَرَآئِكُمْ وَلْتَأْتِ طَآئِفَةٌ أُخْرَىٰ لَمْ يُصَلُّوا۟ فَلْيُصَلُّوا۟ مَعَكَ وَلْيَأْخُذُوا۟ حِذْرَهُمْ وَأَسْلِحَتَهُمْ وَدَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ تَغْفُلُونَ عَنْ أَسْلِحَتِكُمْ وَأَمْتِعَتِكُمْ فَيَمِيلُونَ عَلَيْكُم مَّيْلَةً وَٰحِدَةً وَلَا جُنَاحَ عَلَيْكُمْ إِن كَانَ بِكُمْ أَذًى مِّن مَّطَرٍ أَوْ كُنتُم مَّرْضَىٰٓ أَن تَضَعُوٓا۟ أَسْلِحَتَكُمْ وَخُذُوا۟ حِذْرَكُمْ إِنَّ ٱللَّهَ أَعَدَّ لِلْكَٰفِرِينَ عَذَابًا مُّهِينًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sen içlerinde olup da irtibat bağını ayakta tuttuğun zaman, bir kısmı seninle beraber irtibat bağı için ayağa kalksın ve silahlarını da yanlarına alsınlar; boyun eğip teslim olmayı yaptıktan sonra onlar arkanıza geçsinler; kılmayan öbür kısım gelsin, seninle beraber kılsınlar, tedbirli olsunlar, silahlarını alsınlar. gerçeğin üzerini örtenler, size ansızın bir baskın vermek için, silah ve eşyanızdan ayrılmış bulunmanızı dilerler. Yağmurdan zarar görecekseniz veya hasta olursanız, silahlarınızı bırakmanıza engel yoktur, fakat dikkatli olun. Allah gerçeğin üzerini örtenlere şüphesiz ağır bir azab hazırlamıştır.",
+      "contextual_meaning": "Yüzünü dönerek yöneldi, irtibat kurdu, arkasında durup sahiplendi."
+    },
+    {
+      "surah": 4,
+      "ayah": 103,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:103",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا",
+      "context_snippet_turkish_tabula_rasa": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. yöneliş ve sorumluluk bağı şüphesiz, güvene erenlere belirli vakitlerde farz kılınmıştır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 103,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:103",
+      "word_position": 13,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ",
+      "context_snippet_turkish_tabula_rasa": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. yöneliş ve sorumluluk bağı şüphesiz, güvene erenlere belirli vakitlerde farz kılınmıştır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 103,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:103",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat bağını kıldıktan başka, Allah'ı ayakta iken, otururken, yan yatarken de anın. Emniyete kavuştuğunuzda, irtibat bağını gereğince kılın. yöneliş ve sorumluluk bağı şüphesiz, güvene erenlere belirli vakitlerde farz kılınmıştır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 142,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:142",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Onlar irtibat bağına tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu iki çıkışlı kaypaklar Allah'ı aldatmağa çalışırlar, oysa O, onlara aldatmanın ne olduğunu gösterecektir. Onlar irtibat bağına tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 4,
+      "ayah": 162,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:162",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Fakat onlardan ilimde derinleşmiş olanlara, sana indirilen Kitap'a ve senden önce indirilen Kitap'a güvene eren güvene erenlere, yöneliş ve sorumluluk bağı kılanlara, arınma ve gelişme payı verenlere, Allah'a ve ahiret gününe güvene erenlere, elbette büyük ecir vereceğiz.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ مِنْهُمْ وَٱلْمُؤْمِنُونَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَٱلْمُقِيمِينَ ٱلصَّلَوٰةَ وَٱلْمُؤْتُونَ ٱلزَّكَوٰةَ وَٱلْمُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أُو۟لَٰٓئِكَ سَنُؤْتِيهِمْ أَجْرًا عَظِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Fakat onlardan ilimde derinleşmiş olanlara, sana indirilen Kitap'a ve senden önce indirilen Kitap'a güvene eren güvene erenlere, yöneliş ve sorumluluk bağı kılanlara, arınma ve gelişme payı verenlere, Allah'a ve ahiret gününe güvene erenlere, elbette büyük ecir vereceğiz.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 6,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:6",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! irtibat bağına kalktığınızda yüzlerinizi, dirseklere kadar ellerinizi, -başlarınızı meshedip- topuk kemiklerine kadar ayaklarınızı yıkayın. Eğer cünüpseniz yıkanıp temizlenin; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! irtibat bağına kalktığınızda yüzlerinizi, dirseklere kadar ellerinizi, -başlarınızı meshedip- topuk kemiklerine kadar ayaklarınızı yıkayın. Eğer cünüpseniz yıkanıp temizlenin; şayet hasta veya yolculukta iseniz veya ayak yolundan gelmişseniz yahut kadınlara yaklaşmışsanız ve su bulamamışsanız temiz bir toprağa teyemmüm edin, yüzlerinizi, ellerinizi onunla meshedin. Allah sizi zorlamak istemez, Allah sizi arıtıp üzerinize olan nimetini tamamlamak ister ki nimetin değerini bilip açığa vurasınız.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 12,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:12",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم",
+      "context_snippet_turkish_tabula_rasa": "... \"Ben şüphesiz sizinleyim, yöneliş ve sorumluluk bağı kılarsanız, arınma ve gelişme payı verirseniz, elçilerime güven duy ve onlara yardım ederseniz, Allah uğrunda güzel bir takdimede bulunursanız, and olsun ki kötülüklerinizi örterim. And olsun ki, sizi içlerinden ırmaklar akan esenlik bahçelerine koyarım. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, Allah, İsrailoğullarından söz almıştı. Onlardan oniki reis seçtik. Allah: \"Ben şüphesiz sizinleyim, yöneliş ve sorumluluk bağı kılarsanız, arınma ve gelişme payı verirseniz, elçilerime güven duy ve onlara yardım ederseniz, Allah uğrunda güzel bir takdimede bulunursanız, and olsun ki kötülüklerinizi örterim. And olsun ki, sizi içlerinden ırmaklar akan esenlik bahçelerine koyarım. Bundan sonra sizden kim gerçeğin üzerini örterse şüphesiz doğru yoldan sapmış olur\" dedi.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 55,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:55",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizin dostunuz ancak Allah, O'nun elçiyi ve irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve tevazu ile öne eğilme eden güvene erenlerdir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُمْ رَٰكِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sizin dostunuz ancak Allah, O'nun elçiyi ve irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve tevazu ile öne eğilme eden güvene erenlerdir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 58,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:58",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا",
+      "context_snippet_turkish_tabula_rasa": "irtibat bağına çağırdığınızda onu alay ve eğlenceye alırlar. Bu, onların akletmeyen bir topluluk olmasındandır.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَإِذَا نَادَيْتُمْ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوًا وَلَعِبًا ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat bağına çağırdığınızda onu alay ve eğlenceye alırlar. Bu, onların akletmeyen bir topluluk olmasındandır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 91,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:91",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ فَهَلْ أَنتُم مُّنتَهُونَ",
+      "context_snippet_turkish_tabula_rasa": "saptırıcı yıkıcı güç şüphesiz içki ve kumar yüzünden aranıza düşmanlık ve kin sokmak ve sizi Allah'ı anmaktan, irtibat bağından alıkoymak ister. Artık bunlardan vazgeçersiniz değil mi?",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يُرِيدُ ٱلشَّيْطَٰنُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ فِى ٱلْخَمْرِ وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ فَهَلْ أَنتُم مُّنتَهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "saptırıcı yıkıcı güç şüphesiz içki ve kumar yüzünden aranıza düşmanlık ve kin sokmak ve sizi Allah'ı anmaktan, irtibat bağından alıkoymak ister. Artık bunlardan vazgeçersiniz değil mi?",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 5,
+      "ayah": 106,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:106",
+      "word_position": 31,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ",
+      "context_snippet_turkish_tabula_rasa": "... şayet yolculukta olup başınıza da ölüm musibeti gelmişse, irtibat bağından sonra alıkoyacağınız, şüpheleniyorsanız, \"Akraba bile olsa bağlayıcı ahitle hiçbir değeri değiştirmeyeceğiz, Allah'ın şahidliğini gizlemeyeceğiz, yoksa şüphesiz ağır sapmaya düşenlerden oluruz\" diye bağlayıcı ahit eden sizden olmayan iki kişiyi şahid tutun.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Ölüm birinize geldiği zaman vasiyet ederken içinizden iki adil kimseyi; şayet yolculukta olup başınıza da ölüm musibeti gelmişse, irtibat bağından sonra alıkoyacağınız, şüpheleniyorsanız, \"Akraba bile olsa bağlayıcı ahitle hiçbir değeri değiştirmeyeceğiz, Allah'ın şahidliğini gizlemeyeceğiz, yoksa şüphesiz ağır sapmaya düşenlerden oluruz\" diye bağlayıcı ahit eden sizden olmayan iki kişiyi şahid tutun.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 6,
+      "ayah": 72,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:72",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ وَهُوَ ٱلَّذِىٓ",
+      "context_snippet_turkish_tabula_rasa": "... Alemlerin Rabbine teslim olarak irtibat ve sorumluluk bağını ayakta tutun, Allah'tan sakının diye emrolunduk. \" Kendisine toplanacağınız O'dur.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَنْ أَقِيمُوا۟ ٱلصَّلَوٰةَ وَٱتَّقُوهُ وَهُوَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Arkadaşları bize gel diye doğru yola çağırırken, saptırıcı yıkıcı güçlerin yeryüzünde şaşırttıkları bir kimse gibi geriye mi dönelim. Allah bizi doğru yola eriştirdikten sonra, bize faydası olmayan, zarar da veremeyen Allah'tan başka şeylere mi yalvaralım?\" De ki, \"Doğru yol ancak Allah'ın yoludur. Alemlerin Rabbine teslim olarak irtibat ve sorumluluk bağını ayakta tutun, Allah'tan sakının diye emrolunduk.\" Kendisine toplanacağınız O'dur.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 6,
+      "ayah": 92,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:92",
+      "word_position": 21,
+      "target_word_uthmani": "صَلَاتِهِمْ",
+      "target_word_rasm": "صلاتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "بِهِۦ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Ahirete güvene erenler buna güven duyup emin olurlar, irtibat ve yöneliş bağlarına da devam ederler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَهَٰذَا كِتَٰبٌ أَنزَلْنَٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْءَاخِرَةِ يُؤْمِنُونَ بِهِۦ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete güvene erenler buna güven duyup emin olurlar, irtibat ve yöneliş bağlarına da devam ederler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 6,
+      "ayah": 162,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:162",
+      "word_position": 3,
+      "target_word_uthmani": "صَلَاتِى",
+      "target_word_rasm": "صلاتى",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"irtibat bağım, kulluk ve yönelişlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّ صَلَاتِى وَنُسُكِى وَمَحْيَاىَ وَمَمَاتِى لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"irtibat bağım, kulluk ve yönelişlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 7,
+      "ayah": 170,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:170",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "يُمَسِّكُونَ بِٱلْكِتَٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ",
+      "context_snippet_turkish_tabula_rasa": "Ardlarından yerlerine gelen bir takım kötüler, Kitap'a mirasçı oldular. \"Biz nasıl olsa affedileceğiz\" diyerek Kitap'ın hükümlerini değiştirme karşılığı bu değe...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ardlarından yerlerine gelen bir takım kötüler, Kitap'a mirasçı oldular. \"Biz nasıl olsa affedileceğiz\" diyerek Kitap'ın hükümlerini değiştirme karşılığı bu değersiz dünyanın mallarını alırlar; yine ona benzer geçici bir şey kendilerine gelince onu da kabul ederlerdi. Onlardan, Allah'a karşı ancak gerçeği söyleyeceklerine dair Kitap üzerine söz alınmamış mıydı? Kitap'da olanları okumamışlar mıydı? Allah'a karşı gelmekten sakınanlar için, ahiret yurdu vardır, düşünmüyor musunuz? Biz, iyiliğe çalışanların ecrini elbette zayi etmeyiz.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 8,
+      "ayah": 3,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:3",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "güvene erenler ancak, o kimselerdir ki Allah anıldığı zaman kalbleri titrer, ayetleri okunduğu zaman bu onların güven bağı artırır. Ve Rablerine güvenirler; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene erenler ancak, o kimselerdir ki Allah anıldığı zaman kalbleri titrer, ayetleri okunduğu zaman bu onların güven bağı artırır. Ve Rablerine güvenirler; irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan yerli yerince dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 8,
+      "ayah": 35,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:35",
+      "word_position": 3,
+      "target_word_uthmani": "صَلَاتُهُمْ",
+      "target_word_rasm": "صلاتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağı (özne / mübtedâ merfû')",
+      "context_snippet_arabic": "وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Kabe'deki tapınmaları sadece ıslık çalmak ve el çırpmaktan başka bir şey değildir. gerçeğin üzerini örtmenize karşılık artık azabı tadın.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|NOM"
+      },
+      "ayah_text_arabic_full": "وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا مُكَآءً وَتَصْدِيَةً فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kabe'deki tapınmaları sadece ıslık çalmak ve el çırpmaktan başka bir şey değildir. gerçeğin üzerini örtmenize karşılık artık azabı tadın.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 5,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:5",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse yollarını serbest bırakın. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli aylar çıkınca, puta tapanları bulduğunuz yerde öldürün; onları yakalayıp hapsedin; her gözetleme yerinde onları bekleyin. Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse yollarını serbest bırakın. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 11,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:11",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse, sizin yaşam ve hesap sistemi kardeşiniz olurlar. Bilen kimseler için ayetleri uzun uzadıya açıklıyoruz.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَنُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse, sizin yaşam ve hesap sistemi kardeşiniz olurlar. Bilen kimseler için ayetleri uzun uzadıya açıklıyoruz.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 18,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:18",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın mescidlerini sadece, Allah'a ve ahiret gününe güvene eren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ancak Allah'tan korkan kimseler onarır. İşte onlar doğru yolda bulunanlardan olabilirler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın mescidlerini sadece, Allah'a ve ahiret gününe güvene eren, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ancak Allah'tan korkan kimseler onarır. İşte onlar doğru yolda bulunanlardan olabilirler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 54,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:54",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Verdiklerinin kabul olunmasına engel olan, Allah'ı ve elçisini gerçeğin üzerini ört, irtibat bağına tembel tembel gelmeleri, istemeye istemeye vermeleridir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَٰتُهُمْ إِلَّآ أَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَٰرِهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Verdiklerinin kabul olunmasına engel olan, Allah'ı ve elçisini gerçeğin üzerini ört, irtibat bağına tembel tembel gelmeleri, istemeye istemeye vermeleridir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 71,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:71",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ",
+      "context_snippet_turkish_tabula_rasa": "... irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payı verirler, Allah'a ve elçisine itaat ederler. İşte Allah bunlara rahmet edecektir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren erkekler ve güvene eren kadınlar birbirlerinin velileridir; iyiyi emreder kötülükten alıkorlar; irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payı verirler, Allah'a ve elçisine itaat ederler. İşte Allah bunlara rahmet edecektir. Allah şüphesiz güçlüdür, hakimdir.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 9,
+      "ayah": 84,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:84",
+      "word_position": 2,
+      "target_word_uthmani": "تُصَلِّ",
+      "target_word_rasm": "تصل",
+      "target_word_literal_irab": "Yüzünü dönüp yönelir, bağ kurar (Form II muzâri fiil)",
+      "context_snippet_arabic": "وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم",
+      "context_snippet_turkish_tabula_rasa": "Onlardan ölen kimsenin irtibat bağını sakın kılma, mezarı başında da durma! Çünkü onlar Allah'ı ve elçisini gerçeğin üzerini örttüler, fasık olarak öldüler.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Sal~aY`|ROOT:Slw|3FS|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ إِنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَٰسِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlardan ölen kimsenin irtibat bağını sakın kılma, mezarı başında da durma! Çünkü onlar Allah'ı ve elçisini gerçeğin üzerini örttüler, fasık olarak öldüler.",
+      "contextual_meaning": "Yüzünü dönerek yöneldi, irtibat kurdu, arkasında durup sahiplendi."
+    },
+    {
+      "surah": 9,
+      "ayah": 99,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:99",
+      "word_position": 14,
+      "target_word_uthmani": "وَصَلَوَٰتِ",
+      "target_word_rasm": "وصلوت",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ أَلَآ إِنَّهَا",
+      "context_snippet_turkish_tabula_rasa": "Bedevilerden, Allah'a ve ahiret gününe güvene eren, sarfettiğini, Allah katında boyun eğme ve kulluk ve elçinin dualarına nail olmağa vesile sayanlar da vardır. Bilin ki, verdikleri onlar için kulluk ve yöneliştir. Allah, onlara rahmet edecektir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلْأَعْرَابِ مَن يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِۦٓ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Bedevilerden, Allah'a ve ahiret gününe güvene eren, sarfettiğini, Allah katında boyun eğme ve kulluk ve elçinin dualarına nail olmağa vesile sayanlar da vardır. Bilin ki, verdikleri onlar için kulluk ve yöneliştir. Allah, onlara rahmet edecektir. Allah şüphesiz bağışlar ve merhamet eder.",
+      "contextual_meaning": "Elçinin destek, sahiplenme ve esenlik duası; güvene erenler için manevi sükûnet kaynağı olan irtibat bağı."
+    },
+    {
+      "surah": 9,
+      "ayah": 103,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:103",
+      "word_position": 8,
+      "target_word_uthmani": "وَصَلِّ",
+      "target_word_rasm": "وصل",
+      "target_word_literal_irab": "Yüzünü dönüp yönel, bağ kur (Form II emir fiil)",
+      "context_snippet_arabic": "تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ",
+      "context_snippet_turkish_tabula_rasa": "Mallarının bir kısmını, kendilerini temizleyip arıtacak sadaka olarak al, onlara dua et; senin duan onlar için bir güvendir. Allah işitir ve bilir.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Sal~aY`|ROOT:Slw|2MS"
+      },
+      "ayah_text_arabic_full": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarının bir kısmını, kendilerini temizleyip arıtacak sadaka olarak al, onlara dua et; senin duan onlar için bir güvendir. Allah işitir ve bilir.",
+      "contextual_meaning": "Yüzünü dönerek yöneldi, irtibat kurdu, arkasında durup sahiplendi."
+    },
+    {
+      "surah": 9,
+      "ayah": 103,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:103",
+      "word_position": 11,
+      "target_word_uthmani": "صَلَوٰتَكَ",
+      "target_word_rasm": "صلوتك",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ وَٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Mallarının bir kısmını, kendilerini temizleyip arıtacak sadaka olarak al, onlara dua et; senin duan onlar için bir güvendir. Allah işitir ve bilir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Mallarının bir kısmını, kendilerini temizleyip arıtacak sadaka olarak al, onlara dua et; senin duan onlar için bir güvendir. Allah işitir ve bilir.",
+      "contextual_meaning": "Elçinin destek, sahiplenme ve esenlik duası; güvene erenler için manevi sükûnet kaynağı olan irtibat bağı."
+    },
+    {
+      "surah": 10,
+      "ayah": 87,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:87",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "... evlerinizi yöneliş ve irtibat odağı edinin, irtibat ve sorumluluk bağını ayakta tutun\" diye vahyettik, \"güvene erenlere müjde et. \"",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Musa ve kardeşine: \"Mısır'da milletinize evler hazırlayın; evlerinizi yöneliş ve irtibat odağı edinin, irtibat ve sorumluluk bağını ayakta tutun\" diye vahyettik, \"güvene erenlere müjde et.\"",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 11,
+      "ayah": 87,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:87",
+      "word_position": 3,
+      "target_word_uthmani": "أَصَلَوٰتُكَ",
+      "target_word_rasm": "أصلوتك",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağı (özne / mübtedâ merfû')",
+      "context_snippet_arabic": "قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|NOM"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ يَٰشُعَيْبُ أَصَلَوٰتُكَ تَأْمُرُكَ أَن نَّتْرُكَ مَا يَعْبُدُ ءَابَآؤُنَآ أَوْ أَن نَّفْعَلَ فِىٓ أَمْوَٰلِنَا مَا نَشَٰٓؤُا۟ إِنَّكَ لَأَنتَ ٱلْحَلِيمُ ٱلرَّشِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey Şuayb! Babalarımızın taptığını bırakmamızı emreden veya mallarımızı istediğimiz gibi kullanmamızı meneden senin irtibat bağının mıdır? Sen doğrusu aklı başında, yumuşak huylu birisin\" dediler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 11,
+      "ayah": 114,
+      "surah_name": "Hûd",
+      "ayah_ref": "11:114",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا",
+      "context_snippet_turkish_tabula_rasa": "Gündüzün iki ucunda ve gecenin gündüze yakın zamanlarında irtibat ve sorumluluk bağını ayakta tut. Doğrusu iyilikler kötülükleri giderir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Gündüzün iki ucunda ve gecenin gündüze yakın zamanlarında irtibat ve sorumluluk bağını ayakta tut. Doğrusu iyilikler kötülükleri giderir. Bu, öğüt kabul edenlere bir öğüttür.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 13,
+      "ayah": 22,
+      "surah_name": "Ra'd",
+      "ayah_ref": "13:22",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَٰٓئِكَ لَهُمْ عُقْبَى ٱلدَّارِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Rablerinin rızasını dileyerek sebat edip direnirler, irtibat ve sorumluluk bağını ayakta tutarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça dolaşıma sokup paylaştırırlar; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn esenlik bahçeleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. kozmik görevliler her kapıdan yanlarına girip: \"sebat edip direnmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!\" derler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 14,
+      "ayah": 31,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:31",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "güvene eren kullarıma söyle, irtibat bağını kılsınlar; alışveriş ve dostluğun olmayacağı günün gelmesinden önce, kendilerine verdiğimiz rızıktan açık ve gizli sarfetsinler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "قُل لِّعِبَادِىَ ٱلَّذِينَ ءَامَنُوا۟ يُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُنفِقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خِلَٰلٌ",
+      "ayah_text_turkish_tabula_rasa_full": "güvene eren kullarıma söyle, irtibat bağını kılsınlar; alışveriş ve dostluğun olmayacağı günün gelmesinden önce, kendilerine verdiğimiz rızıktan açık ve gizli sarfetsinler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 14,
+      "ayah": 37,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:37",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! Ben çocuklarımdan kimini, yöneliş ve sorumluluk bağı kılabilmeleri için Senin kutsal evinin yanında, ziraata elverişsiz bir vadiye yerleştirdim. Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! Ben çocuklarımdan kimini, yöneliş ve sorumluluk bağı kılabilmeleri için Senin kutsal evinin yanında, ziraata elverişsiz bir vadiye yerleştirdim. Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır.\"",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 14,
+      "ayah": 40,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:40",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى رَبَّنَا",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbim! Beni ve çocuklarımı yöneliş ve sorumluluk bağı kılanlardan eyle. Rabbimiz! Duamı kabul buyur.\"",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbim! Beni ve çocuklarımı yöneliş ve sorumluluk bağı kılanlardan eyle. Rabbimiz! Duamı kabul buyur.\"",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 17,
+      "ayah": 78,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:78",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sabah irtibat bağına kozmik görevliler şahit olur.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا",
+      "ayah_text_turkish_tabula_rasa_full": "Güneşin batıya yönelmesinden gecenin kararmasına kadar irtibat ve sorumluluk bağını ayakta tut; sabah vakti de irtibat ve sorumluluk bağını ayakta tut, zira sabah irtibat bağına kozmik görevliler şahit olur.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 17,
+      "ayah": 110,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:110",
+      "word_position": 15,
+      "target_word_uthmani": "بِصَلَاتِكَ",
+      "target_word_rasm": "بصلاتك",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ٱلْحُسْنَىٰ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا",
+      "context_snippet_turkish_tabula_rasa": "... \" irtibat bağını ayakta tutarken sesini yükseltme, gizli de okuma, ikisi ortasında bir yol tut.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"İster Allah deyin, ister Rahman deyin, hangisini derseniz deyin, en güzel isimler O'nundur.\" irtibat bağını ayakta tutarken sesini yükseltme, gizli de okuma, ikisi ortasında bir yol tut.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 19,
+      "ayah": 31,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:31",
+      "word_position": 7,
+      "target_word_uthmani": "بِٱلصَّلَوٰةِ",
+      "target_word_rasm": "بٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "مَا كُنتُ وَأَوْصَٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ",
+      "context_snippet_turkish_tabula_rasa": "... Yaşadığım müddetçe irtibat bağını ayakta tutmamı, arınma ve gelişme payı vermemi ve anneme iyi davranmamı emretti. Beni bedbaht bir zorba kılmadı. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Çocuk: \"Ben şüphesiz Allah'ın kuluyum. Bana kitap verdi ve beni elçi yaptı, nerede olursam olayım beni mübarek kıldı. Yaşadığım müddetçe irtibat bağını ayakta tutmamı, arınma ve gelişme payı vermemi ve anneme iyi davranmamı emretti. Beni bedbaht bir zorba kılmadı. Doğduğum günde, öleceğim günde, dirileceğim günde bana selam olsun\" dedi.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 19,
+      "ayah": 55,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:55",
+      "word_position": 4,
+      "target_word_uthmani": "بِٱلصَّلَوٰةِ",
+      "target_word_rasm": "بٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ",
+      "context_snippet_turkish_tabula_rasa": "Çevresinde bulunanlara irtibat bağını ayakta tutmalarını, arınma ve gelişme payı vermelerini emrederdi. Rabbinin katında hoşnutluğa ermişti.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَكَانَ يَأْمُرُ أَهْلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرْضِيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Çevresinde bulunanlara irtibat bağını ayakta tutmalarını, arınma ve gelişme payı vermelerini emrederdi. Rabbinin katında hoşnutluğa ermişti.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 19,
+      "ayah": 59,
+      "surah_name": "Meryem",
+      "ayah_ref": "19:59",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ فَسَوْفَ",
+      "context_snippet_turkish_tabula_rasa": "Onların ardından, irtibat bağını bırakan, şehvetlerine uyan bir nesil geldi. İşte bunlar azgınlıklarının karşılığını göreceklerdir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ فَسَوْفَ يَلْقَوْنَ غَيًّا",
+      "ayah_text_turkish_tabula_rasa_full": "Onların ardından, irtibat bağını bırakan, şehvetlerine uyan bir nesil geldi. İşte bunlar azgınlıklarının karşılığını göreceklerdir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 20,
+      "ayah": 14,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:14",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+      "context_snippet_turkish_tabula_rasa": "\"Şüphesiz Ben Allah'ım, Benden başka sığınak mercii (ilâh) yoktur; Bana kulluk et; Beni anmak için irtibat ve sorumluluk bağını ayakta tut.\"",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Şüphesiz Ben Allah'ım, Benden başka sığınak mercii (ilâh) yoktur; Bana kulluk et; Beni anmak için irtibat ve sorumluluk bağını ayakta tut.\"",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 20,
+      "ayah": 132,
+      "surah_name": "Tâhâ",
+      "ayah_ref": "20:132",
+      "word_position": 3,
+      "target_word_uthmani": "بِٱلصَّلَوٰةِ",
+      "target_word_rasm": "بٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا",
+      "context_snippet_turkish_tabula_rasa": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَأْمُرْ أَهْلَكَ بِٱلصَّلَوٰةِ وَٱصْطَبِرْ عَلَيْهَا لَا نَسْـَٔلُكَ رِزْقًا نَّحْنُ نَرْزُقُكَ وَٱلْعَٰقِبَةُ لِلتَّقْوَىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Ehline irtibat bağını ayakta tutmalarını emret, kendin de onda devamlı ol. Biz senden rızık istemiyoruz, sana rızık veren Biziz. Sonuç Allah'a karşı gelmekten sakınanındır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 21,
+      "ayah": 73,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:73",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ وَكَانُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... onlara, iyi işler yapmayı, yöneliş ve sorumluluk bağı kılmayı, arınma ve gelişme payı vermeyi vahyettik. Onlar, bize kulluk eden kimselerdi.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَجَعَلْنَٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ وَكَانُوا۟ لَنَا عَٰبِدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları, buyruğumuz altında insanları doğru yola götüren önderler yaptık; onlara, iyi işler yapmayı, yöneliş ve sorumluluk bağı kılmayı, arınma ve gelişme payı vermeyi vahyettik. Onlar, bize kulluk eden kimselerdi.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 22,
+      "ayah": 35,
+      "surah_name": "Hac",
+      "ayah_ref": "22:35",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "context_snippet_turkish_tabula_rasa": "... Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمْ وَٱلْمُقِيمِى ٱلصَّلَوٰةِ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her ümmet için, Allah'ın kendilerine rızk olarak verdiği yakınlaşma sunusu hayvanların üzerlerine O'nun adını anarak yakınlaşma sunusu kesmeyi meşru kıldık. Sizin sığınak merciiniz tek bir sığınak mercii (ilâh)'dır, O'na teslim olun. Allah anıldığı zaman kalbleri titreyen, başlarına gelene sebat edip direnen, irtibat bağını kurup sürdüren, kendilerine verdiğimiz rızıktan dolaşıma sokup paylaştıran ve Allah'a gönül vermiş olan kimselere müjde et.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 22,
+      "ayah": 40,
+      "surah_name": "Hac",
+      "ayah_ref": "22:40",
+      "word_position": 21,
+      "target_word_uthmani": "وَصَلَوَٰتٌ",
+      "target_word_rasm": "وصلوت",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağı (özne / mübtedâ merfû')",
+      "context_snippet_arabic": "لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَٰجِدُ يُذْكَرُ فِيهَا",
+      "context_snippet_turkish_tabula_rasa": "Onlar haksız yere ve \"Rabbimiz Allah'tır\" dediler diye yurtlarından çıkarılmışlardır. Allah insanların bir kısmını diğeriyle savmasaydı, manastırlar, kiliseler,...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|FP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar haksız yere ve \"Rabbimiz Allah'tır\" dediler diye yurtlarından çıkarılmışlardır. Allah insanların bir kısmını diğeriyle savmasaydı, manastırlar, kiliseler, havralar ve içinde Allah'ın adı çok anılan camiler yıkılıp giderdi. And olsun ki, Allah'a yardım edenlere O da yardım eder. Doğrusu Allah kuvvetlidir, güçlüdür.",
+      "contextual_meaning": "İçinde Allah'ın adının anıldığı ve bağlılık gösterilen toplanma ve yöneliş odakları."
+    },
+    {
+      "surah": 22,
+      "ayah": 41,
+      "surah_name": "Hac",
+      "ayah_ref": "22:41",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "فِى ٱلْأَرْضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Onları biz yeryüzüne yerleştirirsek irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payı verirler, uygun olanı emrederler, fenalığı yasak ederler. İşlerin sonucu Allah'a aittir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ إِن مَّكَّنَّٰهُمْ فِى ٱلْأَرْضِ أَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ وَأَمَرُوا۟ بِٱلْمَعْرُوفِ وَنَهَوْا۟ عَنِ ٱلْمُنكَرِ وَلِلَّهِ عَٰقِبَةُ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları biz yeryüzüne yerleştirirsek irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payı verirler, uygun olanı emrederler, fenalığı yasak ederler. İşlerin sonucu Allah'a aittir.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 22,
+      "ayah": 78,
+      "surah_name": "Hac",
+      "ayah_ref": "22:78",
+      "word_position": 34,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Artık, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, Allah'a sarılın. O sizin sahibinizdir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَجَٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah uğrunda gereği gibi cihat edin. O, sizi seçmiş, babanız İbrahim'in yolu olan yaşam sisteminde sizin için bir zorluk kılmamıştır. Daha önce ve Kuran'da, elçinin size şahit olması, sizin de insanlara şahit olmanız için size müslüman adını veren O'dur. Artık, irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, Allah'a sarılın. O sizin sahibinizdir. Ne güzel sahip ve ne güzel yardımcıdır!",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 23,
+      "ayah": 2,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:2",
+      "word_position": 4,
+      "target_word_uthmani": "صَلَاتِهِمْ",
+      "target_word_rasm": "صلاتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَٰشِعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar irtibat ve yöneliş halinde huşu içindedirler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَٰشِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar irtibat ve yöneliş halinde huşu içindedirler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 23,
+      "ayah": 9,
+      "surah_name": "Mü'minûn",
+      "ayah_ref": "23:9",
+      "word_position": 4,
+      "target_word_uthmani": "صَلَوَٰتِهِمْ",
+      "target_word_rasm": "صلوتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve yöneliş bağlarına riayet ederler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|FP|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve yöneliş bağlarına riayet ederler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 24,
+      "ayah": 37,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:37",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلصَّلَوٰةِ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ذِكْرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bunları ne ticaret ve ne de alışveriş Allah'ı anmaktan, yöneliş ve sorumluluk bağı kılmaktan, arınma ve gelişme payı vermekten alıkoyar. Bunlar, gönüllerin ve gözlerin döneceği günden korkarlar.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "رِجَالٌ لَّا تُلْهِيهِمْ تِجَٰرَةٌ وَلَا بَيْعٌ عَن ذِكْرِ ٱللَّهِ وَإِقَامِ ٱلصَّلَوٰةِ وَإِيتَآءِ ٱلزَّكَوٰةِ يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ ٱلْقُلُوبُ وَٱلْأَبْصَٰرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunları ne ticaret ve ne de alışveriş Allah'ı anmaktan, yöneliş ve sorumluluk bağı kılmaktan, arınma ve gelişme payı vermekten alıkoyar. Bunlar, gönüllerin ve gözlerin döneceği günden korkarlar.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 24,
+      "ayah": 41,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:41",
+      "word_position": 16,
+      "target_word_uthmani": "صَلَاتَهُۥ",
+      "target_word_rasm": "صلاته",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ",
+      "context_snippet_turkish_tabula_rasa": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıkl...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Göklerde ve yerde olan kimselerin, sıra sıra uçan kuşların Allah'ı tesbih ettiğini görmez misin? Her biri kendi niyaz ve tesbihini bilir. Allah, onların yaptıklarını bilendir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 24,
+      "ayah": 56,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:56",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, elçiye itaat edin ki size merhamet edilsin.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱلرَّسُولَ لَعَلَّكُمْ تُرْحَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payı verin, elçiye itaat edin ki size merhamet edilsin.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 24,
+      "ayah": 58,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:58",
+      "word_position": 17,
+      "target_word_uthmani": "صَلَوٰةِ",
+      "target_word_rasm": "صلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "مَرَّٰتٍ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Ellerinizin altında olan köle ve cariyeler ve sizden henüz erginliğe ermemiş olanlar, sabah irtibat bağından önce, öğle sıcağında soyunduğunuzda ve yatsı irtibat bağından sonra yanınıza gireceklerinde üç defa izin istesinler. Bunlar, sizin açık bulunabileceğiniz üç vakittir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِيَسْتَـْٔذِنكُمُ ٱلَّذِينَ مَلَكَتْ أَيْمَٰنُكُمْ وَٱلَّذِينَ لَمْ يَبْلُغُوا۟ ٱلْحُلُمَ مِنكُمْ ثَلَٰثَ مَرَّٰتٍ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ثَلَٰثُ عَوْرَٰتٍ لَّكُمْ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌۢ بَعْدَهُنَّ طَوَّٰفُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Ellerinizin altında olan köle ve cariyeler ve sizden henüz erginliğe ermemiş olanlar, sabah irtibat bağından önce, öğle sıcağında soyunduğunuzda ve yatsı irtibat bağından sonra yanınıza gireceklerinde üç defa izin istesinler. Bunlar, sizin açık bulunabileceğiniz üç vakittir. Bu vakitlerin dışında birbirinizin yanına girip çıkmakta size de, onlara da bir sorumluluk yoktur. Allah size ayetlerini böylece açıklar. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 24,
+      "ayah": 58,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:58",
+      "word_position": 26,
+      "target_word_uthmani": "صَلَوٰةِ",
+      "target_word_rasm": "صلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ثَلَٰثُ عَوْرَٰتٍ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Ellerinizin altında olan köle ve cariyeler ve sizden henüz erginliğe ermemiş olanlar, sabah irtibat bağından önce, öğle sıcağında soyunduğunuzda ve yatsı irtibat bağından sonra yanınıza gireceklerinde üç defa izin istesinler. Bunlar, sizin açık bulunabileceğiniz üç vakittir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِيَسْتَـْٔذِنكُمُ ٱلَّذِينَ مَلَكَتْ أَيْمَٰنُكُمْ وَٱلَّذِينَ لَمْ يَبْلُغُوا۟ ٱلْحُلُمَ مِنكُمْ ثَلَٰثَ مَرَّٰتٍ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ثَلَٰثُ عَوْرَٰتٍ لَّكُمْ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌۢ بَعْدَهُنَّ طَوَّٰفُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Ellerinizin altında olan köle ve cariyeler ve sizden henüz erginliğe ermemiş olanlar, sabah irtibat bağından önce, öğle sıcağında soyunduğunuzda ve yatsı irtibat bağından sonra yanınıza gireceklerinde üç defa izin istesinler. Bunlar, sizin açık bulunabileceğiniz üç vakittir. Bu vakitlerin dışında birbirinizin yanına girip çıkmakta size de, onlara da bir sorumluluk yoktur. Allah size ayetlerini böylece açıklar. Allah bilendir, Hakim'dir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 27,
+      "ayah": 3,
+      "surah_name": "Neml",
+      "ayah_ref": "27:3",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم",
+      "context_snippet_turkish_tabula_rasa": "Bunlar, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahirete de kesin olarak güvene eren güvene erenlere doğruluk rehberi ve müjdedir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bunlar, irtibat bağını kurup sürdüren, arınma ve gelişme payı veren ve ahirete de kesin olarak güvene eren güvene erenlere doğruluk rehberi ve müjdedir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 29,
+      "ayah": 45,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:45",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "مِنَ ٱلْكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Kitap'tan sana vahyolunanı oku; irtibat ve sorumluluk bağını ayakta tut; muhakkak ki yöneliş ve sorumluluk bağı hayasızlıktan ve fenalıktan alıkor; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap'tan sana vahyolunanı oku; irtibat ve sorumluluk bağını ayakta tut; muhakkak ki yöneliş ve sorumluluk bağı hayasızlıktan ve fenalıktan alıkor; Allah'ı anmak en büyük şeydir! Allah Yaptıklarınızı bilir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 29,
+      "ayah": 45,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:45",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "وَأَقِمِ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ",
+      "context_snippet_turkish_tabula_rasa": "Kitap'tan sana vahyolunanı oku; irtibat ve sorumluluk bağını ayakta tut; muhakkak ki yöneliş ve sorumluluk bağı hayasızlıktan ve fenalıktan alıkor; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap'tan sana vahyolunanı oku; irtibat ve sorumluluk bağını ayakta tut; muhakkak ki yöneliş ve sorumluluk bağı hayasızlıktan ve fenalıktan alıkor; Allah'ı anmak en büyük şeydir! Allah Yaptıklarınızı bilir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 30,
+      "ayah": 31,
+      "surah_name": "Rûm",
+      "ayah_ref": "30:31",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ",
+      "context_snippet_turkish_tabula_rasa": "Allah'a yönelerek O'na karşı gelmekten sakınınız, irtibat ve sorumluluk bağını ayakta tutunuz, yaşam sistemlerinde ayrılığa düşüp fırka fırka olan, her fırkasının da kendisinde bulunanla sevindiği otoriteyi bölüşüp ortak koşanlardan olmayınız.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a yönelerek O'na karşı gelmekten sakınınız, irtibat ve sorumluluk bağını ayakta tutunuz, yaşam sistemlerinde ayrılığa düşüp fırka fırka olan, her fırkasının da kendisinde bulunanla sevindiği otoriteyi bölüşüp ortak koşanlardan olmayınız.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 31,
+      "ayah": 4,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:4",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم",
+      "context_snippet_turkish_tabula_rasa": "O kimseler irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payını verirler; ahirete de yakinen güven duyup emin olurlar.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "O kimseler irtibat ve sorumluluk bağını ayakta tutarlar, arınma ve gelişme payını verirler; ahirete de yakinen güven duyup emin olurlar.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 31,
+      "ayah": 17,
+      "surah_name": "Lokmân",
+      "ayah_ref": "31:17",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ",
+      "context_snippet_turkish_tabula_rasa": "\"Ey oğulcuğum! irtibat bağını kıl, uygun olanı buyurup fenalığı önle, başına gelene sebat edip diren; doğrusu bunlar, azmedilmeğe değer işlerdir.\"",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ مَآ أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Ey oğulcuğum! irtibat bağını kıl, uygun olanı buyurup fenalığı önle, başına gelene sebat edip diren; doğrusu bunlar, azmedilmeğe değer işlerdir.\"",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 33,
+      "ayah": 33,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:33",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ",
+      "context_snippet_turkish_tabula_rasa": "... eski Cahiliyye'de olduğu gibi açılıp saçılmayın; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Evlerinizde oturun; eski Cahiliyye'de olduğu gibi açılıp saçılmayın; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a ve elçisine itaat edin. Ey elçinin ev halkı! (ehl-i beyt) Şüphesiz Allah sizden kusuru giderip sizi tertemiz yapmak ister.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 33,
+      "ayah": 43,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:43",
+      "word_position": 3,
+      "target_word_uthmani": "يُصَلِّى",
+      "target_word_rasm": "يصلى",
+      "target_word_literal_irab": "Arkasında durup destek verirler (Form II muzâri fiil + alâ)",
+      "context_snippet_arabic": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَٰٓئِكَتُهُۥ لِيُخْرِجَكُم",
+      "context_snippet_turkish_tabula_rasa": "Karanlıklardan aydınlığa çıkarmak için size rahmet ve istiğfar eden Allah ve kozmik görevlileridir. güvene erenlere merhamet eden O'dur.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Sal~aY`|ROOT:Slw|3MS"
+      },
+      "ayah_text_arabic_full": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Karanlıklardan aydınlığa çıkarmak için size rahmet ve istiğfar eden Allah ve kozmik görevlileridir. güvene erenlere merhamet eden O'dur.",
+      "contextual_meaning": "Allah'ın ve kozmik görevlilerinin kullarını karanlıklardan aydınlığa çıkarmak için onlara yönelip arkalarında durması ve desteklemesi."
+    },
+    {
+      "surah": 33,
+      "ayah": 56,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:56",
+      "word_position": 4,
+      "target_word_uthmani": "يُصَلُّونَ",
+      "target_word_rasm": "يصلون",
+      "target_word_literal_irab": "Arkasında durup destek verirler (Form II muzâri fiil + alâ)",
+      "context_snippet_arabic": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ يَٰٓأَيُّهَا",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Allah ve kozmik görevlileri elçiyi överler: Ey güvene erenler! Siz de onu övün, ona arkasında durup destek verin ve esenlik dileyin.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Sal~aY`|ROOT:Slw|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Allah ve kozmik görevlileri elçiyi överler: Ey güvene erenler! Siz de onu övün, ona arkasında durup destek verin ve esenlik dileyin.",
+      "contextual_meaning": "Allah'ın ve kozmik görevlilerin elçinin arkasında durup destek vermesi; güvene erenlerin de ona sırt dönmeyip tam bir bağlılıkla yanında durma çağrısı."
+    },
+    {
+      "surah": 33,
+      "ayah": 56,
+      "surah_name": "Ahzâb",
+      "ayah_ref": "33:56",
+      "word_position": 10,
+      "target_word_uthmani": "صَلُّوا۟",
+      "target_word_rasm": "صلوا",
+      "target_word_literal_irab": "Onun arkasında durup destek verin (Form II emir fiil + alâ)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz Allah ve kozmik görevlileri elçiyi överler: Ey güvene erenler! Siz de onu övün, ona arkasında durup destek verin ve esenlik dileyin.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Sal~aY`|ROOT:Slw|2MP"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Allah ve kozmik görevlileri elçiyi överler: Ey güvene erenler! Siz de onu övün, ona arkasında durup destek verin ve esenlik dileyin.",
+      "contextual_meaning": "Allah'ın ve kozmik görevlilerin elçinin arkasında durup destek vermesi; güvene erenlerin de ona sırt dönmeyip tam bir bağlılıkla yanında durma çağrısı."
+    },
+    {
+      "surah": 35,
+      "ayah": 18,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:18",
+      "word_position": 26,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا",
+      "context_snippet_turkish_tabula_rasa": "... Sen ancak, görmediği halde Rablerinden korkanları, irtibat bağını kılanları uyarırsın. Kim arınırsa, ancak kendisi için arınmış olur; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "ağır sapmaya düşen kimse diğerinin sapma ve kusurunu çekmez. sapma ve ağır kusur yükü ağır olan kimse, onun taşınmasını istese, yakını olsa bile, yükünden birşey taşınmaz. Sen ancak, görmediği halde Rablerinden korkanları, irtibat bağını kılanları uyarırsın. Kim arınırsa, ancak kendisi için arınmış olur; dönüş ancak Allah'adır.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 35,
+      "ayah": 29,
+      "surah_name": "Fâtır",
+      "ayah_ref": "35:29",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın Kitap'ına uyanlar, irtibat bağını kılanlar, kendilerine verdiğimiz rızıktan gizli ve açık dolaşıma sokup paylaştıranlar, tükenmeyecek bir kazanç umabilirler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَٰرَةً لَّن تَبُورَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın Kitap'ına uyanlar, irtibat bağını kılanlar, kendilerine verdiğimiz rızıktan gizli ve açık dolaşıma sokup paylaştıranlar, tükenmeyecek bir kazanç umabilirler.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 42,
+      "ayah": 38,
+      "surah_name": "Şûrâ",
+      "ayah_ref": "42:38",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... güvene erip Rablerine güvenen, büyük sapma ve kusurlardan ve hayasızlıklardan çekinen, öfkelendiklerinde bile bağışlayanlar, Rablerinin çağrısına cevap verenler ve irtibat bağını kurup sürdürenler için daha iyi ve daha süreklidir. Onların işleri aralarında danışma iledir. ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size verilen herhangi bir şey, sadece dünya hayatının bir geçimliğidir. Allah katında olan; güvene erip Rablerine güvenen, büyük sapma ve kusurlardan ve hayasızlıklardan çekinen, öfkelendiklerinde bile bağışlayanlar, Rablerinin çağrısına cevap verenler ve irtibat bağını kurup sürdürenler için daha iyi ve daha süreklidir. Onların işleri aralarında danışma iledir. Kendilerine verdiğimiz rızıktan da dolaşıma sokup paylaştırırlar.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 58,
+      "ayah": 13,
+      "surah_name": "Mücâdele",
+      "ayah_ref": "58:13",
+      "word_position": 15,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "ءَأَشْفَقْتُمْ أَن تُقَدِّمُوا۟ بَيْنَ يَدَىْ نَجْوَىٰكُمْ صَدَقَٰتٍ فَإِذْ لَمْ تَفْعَلُوا۟ وَتَابَ ٱللَّهُ عَلَيْكُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hususi konuşmanızdan önce sadaka vermekten ürktünüz mü ki bunu yerine getirmediniz? Ama Allah, tevbenizi kabul etmiştir. Öyleyse irtibat ve sorumluluk bağını ayakta tutun, arınma ve gelişme payını verin, Allah'a ve elçisine itaat edin. Allah, işlediklerinizden haberdardır.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 62,
+      "ayah": 9,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:9",
+      "word_position": 6,
+      "target_word_uthmani": "لِلصَّلَوٰةِ",
+      "target_word_rasm": "للصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Cuma günü yöneliş ve sorumluluk bağı için ezan okunduğu zaman Allah'ı anmaya koşun; alım satımı bırakın; bilseniz, bu sizin için daha iyidir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Cuma günü yöneliş ve sorumluluk bağı için ezan okunduğu zaman Allah'ı anmaya koşun; alım satımı bırakın; bilseniz, bu sizin için daha iyidir.",
+      "contextual_meaning": "Toplumsal toplanma gününde (Cuma) ilahi çağrıya yönelerek kurulan ortak sorumluluk bağı."
+    },
+    {
+      "surah": 62,
+      "ayah": 10,
+      "surah_name": "Cuma",
+      "ayah_ref": "62:10",
+      "word_position": 3,
+      "target_word_uthmani": "ٱلصَّلَوٰةُ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağı (özne / mübtedâ merfû')",
+      "context_snippet_arabic": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ",
+      "context_snippet_turkish_tabula_rasa": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "yöneliş ve sorumluluk bağı bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok anın ki saadete erişesiniz.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 70,
+      "ayah": 22,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:22",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْمُصَلِّينَ",
+      "target_word_rasm": "ٱلمصلين",
+      "target_word_literal_irab": "Sırt çevirmeyip sürekli yönelenler, bağ kurup davanın arkasında duranlar (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "إِلَّا ٱلْمُصَلِّينَ",
+      "context_snippet_turkish_tabula_rasa": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "morphology": {
+        "lemma": "muSal~iyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:muSal~iyn|ROOT:Slw|MP|ACC"
+      },
+      "ayah_text_arabic_full": "إِلَّا ٱلْمُصَلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "contextual_meaning": "Hakikate sırt dönmeyip sürekli yönelen, sorumluluk bağını diri tutan kimseler."
+    },
+    {
+      "surah": 70,
+      "ayah": 23,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:23",
+      "word_position": 4,
+      "target_word_uthmani": "صَلَاتِهِمْ",
+      "target_word_rasm": "صلاتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+      "context_snippet_turkish_tabula_rasa": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 70,
+      "ayah": 34,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:34",
+      "word_position": 4,
+      "target_word_uthmani": "صَلَاتِهِمْ",
+      "target_word_rasm": "صلاتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "context_snippet_turkish_tabula_rasa": "irtibat ve yöneliş bağlarına riayet edenler,",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "irtibat ve yöneliş bağlarına riayet edenler,",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 73,
+      "ayah": 20,
+      "surah_name": "Müzzemmil",
+      "ayah_ref": "73:20",
+      "word_position": 54,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; ...",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz Rabbin, senin ve beraberinde bulunanlardan bir topluluğun gecenin üçte ikisinden biraz az, yarısı ve üçte biri kadar vakit içinde kalktığını bilir. Gece ve gündüzü Allah ölçer; sizin bu vakitleri takdir edemeyeceğinizi bildiğinden tevbenizi kabul etmiştir. Artık, Kuran'dan kolayınıza geleni okuyun; Allah, içinizden, hasta olanları, Allah'ın lütfundan rızık aramak üzere yeryüzünde dolaşacak olan kimseleri ve Allah yolunda savaşacak olanları şüphesiz bilir. Kuran'dan kolayınıza geleni okuyun; irtibat ve sorumluluk bağını ayakta tutun; arınma ve gelişme payını verin; Allah'a güzel ödünç takdiminde bulunun; kendiniz için yaptığınız iyiliği daha iyi ve daha büyük ecir olarak Allah katında bulursunuz. Allah'tan bağışlanma dileyin; Allah elbette bağışlar ve merhamet eder.",
+      "contextual_meaning": "Sorumluluk ve yöneliş bağının ayakta tutulması (arınma ve toplumsal dayanışma payı ile bütünlenişi)."
+    },
+    {
+      "surah": 74,
+      "ayah": 43,
+      "surah_name": "Müddessir",
+      "ayah_ref": "74:43",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْمُصَلِّينَ",
+      "target_word_rasm": "ٱلمصلين",
+      "target_word_literal_irab": "Sırt çevirmeyip sürekli yönelenler, bağ kurup davanın arkasında duranlar (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar derler ki: \"yöneliş ve sorumluluk bağı kılanlardan değildik.\"",
+      "morphology": {
+        "lemma": "muSal~iyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:muSal~iyn|ROOT:Slw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar derler ki: \"yöneliş ve sorumluluk bağı kılanlardan değildik.\"",
+      "contextual_meaning": "Hakikate sırt dönmeyip sürekli yönelen, sorumluluk bağını diri tutan kimseler."
+    },
+    {
+      "surah": 75,
+      "ayah": 31,
+      "surah_name": "Kıyâme",
+      "ayah_ref": "75:31",
+      "word_position": 4,
+      "target_word_uthmani": "صَلَّىٰ",
+      "target_word_rasm": "صلى",
+      "target_word_literal_irab": "Ne de yönelip bağ kurdu / arkasında durdu (Form II mâzî fiil, nefiy)",
+      "context_snippet_arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "O, elçiyi doğrulamamış, yönelip bağ kurmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Sal~aY`|ROOT:Slw|3MS"
+      },
+      "ayah_text_arabic_full": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "O, elçiyi doğrulamamış, yönelip bağ kurmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti.",
+      "contextual_meaning": "Sırtını dönüp kaçmanın (tevellâ) zıddı olarak hakikate yönelip davanın arkasında durmama hali."
+    },
+    {
+      "surah": 87,
+      "ayah": 15,
+      "surah_name": "A'lâ",
+      "ayah_ref": "87:15",
+      "word_position": 4,
+      "target_word_uthmani": "فَصَلَّىٰ",
+      "target_word_rasm": "فصلى",
+      "target_word_literal_irab": "Yüzünü dönüp yöneldi, davanın arkasında durdu (Form II mâzî fiil)",
+      "context_snippet_arabic": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "context_snippet_turkish_tabula_rasa": "Arınmış olan, Rabbinin adını anıp irtibat bağını kurup sürdüren, saadete erişecektir.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Sal~aY`|ROOT:Slw|3MS"
+      },
+      "ayah_text_arabic_full": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+      "ayah_text_turkish_tabula_rasa_full": "Arınmış olan, Rabbinin adını anıp irtibat bağını kurup sürdüren, saadete erişecektir.",
+      "contextual_meaning": "Yüzünü yalnızca Rabbine dönüp bağ kurdu, O'nun davasının arkasında durdu."
+    },
+    {
+      "surah": 96,
+      "ayah": 10,
+      "surah_name": "Alak",
+      "ayah_ref": "96:10",
+      "word_position": 3,
+      "target_word_uthmani": "صَلَّىٰٓ",
+      "target_word_rasm": "صلى",
+      "target_word_literal_irab": "Yüzünü dönüp yöneldi, davanın arkasında durdu (Form II mâzî fiil)",
+      "context_snippet_arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "context_snippet_turkish_tabula_rasa": "Sen, irtibat bağını kurup sürdüren kulu bundan menedeni gördün mü?",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Sal~aY`|ROOT:Slw|3MS"
+      },
+      "ayah_text_arabic_full": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "ayah_text_turkish_tabula_rasa_full": "Sen, irtibat bağını kurup sürdüren kulu bundan menedeni gördün mü?",
+      "contextual_meaning": "Bir kulun yüce iradeye yüzünü dönüp bağlanmasını engellemeye kalkışan zorba tavır."
+    },
+    {
+      "surah": 98,
+      "ayah": 5,
+      "surah_name": "Beyyine",
+      "ayah_ref": "98:5",
+      "word_position": 11,
+      "target_word_uthmani": "ٱلصَّلَوٰةَ",
+      "target_word_rasm": "ٱلصلوة",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağını (mef'ûl / belirtili nesne mansûb)",
+      "context_snippet_arabic": "ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ وَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Oysa onlar, doğruya yönelerek, yaşam sistemini yalnız Allah'a has kılarak O'na kulluk etmek, irtibat bağını kılmak ve arınma ve gelişme payını vermekle emrolunmuşlardı. Dosdoğru olan yaşam ve hesap sistemi de budur.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|ACC"
+      },
+      "ayah_text_arabic_full": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
+      "ayah_text_turkish_tabula_rasa_full": "Oysa onlar, doğruya yönelerek, yaşam sistemini yalnız Allah'a has kılarak O'na kulluk etmek, irtibat bağını kılmak ve arınma ve gelişme payını vermekle emrolunmuşlardı. Dosdoğru olan yaşam ve hesap sistemi de budur.",
+      "contextual_meaning": "Bilinçli yöneliş, irtibat ve hakikate karşı kesintisiz sorumluluk bağı."
+    },
+    {
+      "surah": 107,
+      "ayah": 4,
+      "surah_name": "Mâûn",
+      "ayah_ref": "107:4",
+      "word_position": 2,
+      "target_word_uthmani": "لِّلْمُصَلِّينَ",
+      "target_word_rasm": "للمصلين",
+      "target_word_literal_irab": "Sırt çevirmeyip sürekli yönelenler, bağ kurup davanın arkasında duranlar (etken sıfat / ismi fâil)",
+      "context_snippet_arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "context_snippet_turkish_tabula_rasa": "Vay o yöneliş ve sorumluluk bağı kılanların haline ki:",
+      "morphology": {
+        "lemma": "muSal~iyn",
+        "pos": "N",
+        "features": "STEM|POS:N|ACT|PCPL|(II)|LEM:muSal~iyn|ROOT:Slw|MP|GEN"
+      },
+      "ayah_text_arabic_full": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Vay o yöneliş ve sorumluluk bağı kılanların haline ki:",
+      "contextual_meaning": "Hakikate sırt dönmeyip sürekli yönelen, sorumluluk bağını diri tutan kimseler."
+    },
+    {
+      "surah": 107,
+      "ayah": 5,
+      "surah_name": "Mâûn",
+      "ayah_ref": "107:5",
+      "word_position": 4,
+      "target_word_uthmani": "صَلَاتِهِمْ",
+      "target_word_rasm": "صلاتهم",
+      "target_word_literal_irab": "İrtibat ve sorumluluk bağına / bağının (mecrûr)",
+      "context_snippet_arabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "context_snippet_turkish_tabula_rasa": "Onlar yönelip kurdukları irtibat bağından gafildirler.",
+      "morphology": {
+        "lemma": "Salaw`p",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Salaw`p|ROOT:Slw|F|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar yönelip kurdukları irtibat bağından gafildirler.",
+      "contextual_meaning": "Yöneliş ve irtibat bağlarının özünden habersiz olan, onu sadece şekilsel gösterişe alet edenlerin gafleti."
+    },
+    {
+      "surah": 108,
+      "ayah": 2,
+      "surah_name": "Kevser",
+      "ayah_ref": "108:2",
+      "word_position": 1,
+      "target_word_uthmani": "فَصَلِّ",
+      "target_word_rasm": "فصل",
+      "target_word_literal_irab": "Yüzünü dönüp yönel, bağ kur (Form II emir fiil)",
+      "context_snippet_arabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "context_snippet_turkish_tabula_rasa": "Öyleyse Rabbin için irtibat ve sorumluluk bağını ayakta tut, yakınlaşma sunusu kes.",
+      "morphology": {
+        "lemma": "Sal~aY`",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPV|(II)|LEM:Sal~aY`|ROOT:Slw|2MS"
+      },
+      "ayah_text_arabic_full": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "ayah_text_turkish_tabula_rasa_full": "Öyleyse Rabbin için irtibat ve sorumluluk bağını ayakta tut, yakınlaşma sunusu kes.",
+      "contextual_meaning": "Yüzünü yalnızca Rabbine dönüp bağ kurdu, O'nun davasının arkasında durdu."
+    }
+  ]
+}
