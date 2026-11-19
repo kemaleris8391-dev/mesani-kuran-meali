@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "project": "Tabula Rasa Mesânî Kuran Meali",
-  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 31/100 — Toplam 136 Kök Mühürlü)",
+  "phase": "Faz 1 - Top 100 Tamamlandı (100/100) + İkinci 100 (Seçenek A: 32/100 — Toplam 137 Kök Mühürlü)",
   "verification_status": "Mühürlü & Çift Yönlü Mesânî Onaylı (Two-Way Mesânî Audited)",
   "locked_roots": {
     "ك-ف-ر": {
@@ -14248,6 +14248,89 @@
         "كَيْفَ (62 geçiş)": "Yalın hâl, oluş biçimi ve mekanizma sorgulayıcısı/belirleyicisi (2:28, 2:259-260, 3:6, 5:31, 10:35, 25:45, 29:19-20, 30:42,48,50, 71:15, 74:19-20, 88:17-20, 105:1).",
         "فَكَيْفَ (16 geçiş)": "Önceki olgu veya kural ihlalinin kaçınılmaz neticesi olan çarpıcı hâli yüzleştiren sonuç sorgusu (3:25, 4:41, 4:62, 7:93, 13:32, 22:44, 34:45, 35:26, 40:5, 47:27, 54:16,18,21,30, 67:18, 73:17).",
         "وَكَيْفَ (5 geçiş)": "Açık kanıt, antlaşma veya bilgi sınırı ortadayken karşıt tutumun mantıksal imkânsızlığını vurgulayan yüzleştirme (3:101, 4:21, 5:43, 6:81, 18:68)."
+      }
+    },
+    "ح-ر-م": {
+      "root_latin": "H-R-M (Hrm)",
+      "arabic": "ح-ر-م",
+      "rank": 135,
+      "morphology_and_rasm": {
+        "rasm_examples": [
+          "وحرم (21:95 — Paris BnF Arabe 6140 [g] el yazmasında elifsiz وحرم iskeleti; Hafs/cumhur وَحَرَٰمٌ ve Şu'be/Hamza/Kisâî/Halef وَحِرْمٌ kıraatlerine açık)",
+          "الحرمت / حرمت (2:194 وَٱلْحُرُمَٰتُ ve 22:30 حُرُمَٰتِ — cemi müennes elifi hazfedilmiş iskelet)",
+          "حرم (5:1, 5:95, 9:36 حُرُمٌ ve 6:119 حَرَّمَ — Birmingham Islamic Arabic 1572b yazmasında sabit iskelet)",
+          "حرمت (4:23, 5:3, 6:138 حُرِّمَتْ — Birmingham Islamic Arabic 1572b yazmasında وانعم حرمت طهورها)",
+          "الحرام / محرم / محرمة / محروم (tam elifli ve mimli yerleşik iskeletler)"
+        ],
+        "verb_forms_used": [
+          "Form II (حَرَّمَ / يُحَرِّمُ / حُرِّمَ — 39 geçiş: 28 etken mâzi, 6 edilgen mâzi, 5 etken muzâri; Kur'an'da tüm fiil geçişleri yalnız II. babdandır, I. ve IV. bab fiil yoktur)"
+        ],
+        "preposition_patterns": [
+          "حَرَّمَ / حُرِّمَ + عَلَى (erişim kilidinin veya kısıtlamanın yüklendiği muhatabı belirtir: 2:173, 4:23, 5:3, 5:72, 7:157, 28:12)",
+          "مُحَرَّم / مُحَرَّمَة / حَرَام + عَلَى (yasak veya giriş engelinin bağlandığı kişi/topluluk: 2:85, 5:26, 6:139, 6:145, 21:95)",
+          "حَرَّمَ + doğrudan nesne (عَلَى olmadan doğrudan dokunulmaz kılma: 2:275, 6:151, 17:33, 25:68, 27:91)",
+          "عَنْ ٱلْمَسْجِدِ ٱلْحَرَامِ (صَدَّ عَنْ kalıbıyla dokunulmaz merkeze erişimin haksızca engellenmesi: 2:217, 5:2, 8:34, 22:25, 48:25)"
+        ],
+        "approx_frequency": "83 geçiş / 71 ayet (25 sure — referans amaçlı)"
+      },
+      "physical_core": "Bir nesnenin, alanın, su kaynağının veya canlının etrafına geçilmez bir engelleme kalkanı ve sıkı sınır çekerek dış erişimi kesmek (İbn Fâris: el-men' ve't-teşdîd; kuyu çevresinde başkasının kazmasına kapalı tutulan koruma kuşağı 'harîmü'l-bi'r' ve henüz yumuşatılmamış sert deri kırbaç 'sevtun muharrem').",
+      "ibn_faris_asl": {
+        "text": "(حَرَمَ) الْحَاءُ وَالرَّاءُ وَالْمِيمُ أَصْلٌ وَاحِدٌ، وَهُوَ الْمَنْعُ وَالتَّشْدِيدُ. فَالْحَرَامُ: ضِدُّ الْحَلَالِ. قَالَ اللَّهُ تَعَالَى: {وَحَرَامٌ عَلَى قَرْيَةٍ أَهْلَكْنَاهَا}. وَقُرِئَتْ: {وَحِرْمٌ}. وَسَوْطٌ مُحَرَّمٌ، إِذَا لَمْ يُلَيَّنْ بَعْدُ... وَالْحَرِيمُ: حَرِيمُ الْبِئْرِ، وَهُوَ مَا حَوْلَهَا، يُحَرَّمُ عَلَى غَيْرِ صَاحِبِهَا أَنْ يَحْفِرَ فِيهِ.",
+        "source": "Mu'cemü Mekâyîsi'l-Luğa (حرم maddesi)"
+      },
+      "dictionary_arbitration": {
+        "ibn_faris": "Tek bir asıl tespit eder: Engellemek ve sıkılaştırmak (el-men' ve't-teşdîd). Yumuşatılmamış sert kırbaç (sevtun muharrem), kuyu çevresindeki dokunulmaz koruma kuşağı (harîmü'l-bi'r) ve el sürülmeyen yasaklı alan (harîm) bu tek somut asıldan türetilir.",
+        "lisan_al_arab": "Haramı helalin tam zıddı olarak belirler; henüz uysallaştırılıp sırtına binilemeyen geçit vermez deve (nâkatün muharreme), tabaklanmamış ham deri (cildün muharrem), evin ve kuyunun başkasının müdahalesine kapalı güvenlik alanı (harîmü'd-dâr / el-bi'r), barış güvencesindeki dokunulmaz kişi (muhrim/müsâlim) ve rızık kapısı kapalı kalmış kimse (mahrûm) şahitleriyle engelleme ve koruma çekirdeğini pekiştirir.",
+        "ragib_mufredat": "Kur'an'daki kullanımları dörtlü mekanik tasnife ayırır: (1) fizyolojik/ilâhî sevk ile engelleme (28:12), (2) zorunlu/kozmik kapatma (5:26, 5:72, 7:50, 21:95), (3) yasal ve ahlaki sınır koyma (2:85, 6:145) ve (4) geçim/ürün akışından yoksun bırakılma (51:19, 56:67).",
+        "arbitration_decision": "Batı Sami epigrafisi (Sebece ḥrm dokunulmazlık ve mḥrm korumalı kutsal alan, İbranice ḥāram sıradan kullanıma kapatma), Kur'an içi Mesânî zıtları (ح-ل-ل düğümü çözmek, خ-ط-ف yağmalanmak), %100 ayet stres testi (28:12 süt emme engeli, 29:67 güvenli sığınak, 68:27 mahsul yoksunluğu) ve عَلَى harf-i cer vektörü ışığında; dar ceza-ödül terimleşmesi elenir. İbn Fâris'in 'engelleme ve sıkılaştırma' çekirdeği ile Râgıb'ın dörtlü erişim kilidi modeli hakem kararı olarak mühürlenir."
+      },
+      "semitic_cognates": {
+        "hebrew": "חָרַם (ḥāram, BDB / Strong's H2763) ve חֵרֶם (ḥērem, H2764): sıradan insan kullanımından kesin biçimde ayırıp erişime kapatmak, tahsis etmek, yasak altına almak; H2764 ayrıca içine hapsedip çıkışı kesen ağ/tuzak anlamına gelir. (Ayrı ses kökü olan H2763b 'burnu yarıklı/basık olmak' Proto-Sami *ḫrm olup Arapça خرم ile ilgilidir, bu kök dışındadır.)",
+        "aramaic_and_syriac": "Palmira yazıtlarında ḥrm 'dokunulmaz/tahsis edilmiş', Nebatî yazıtlarında mḥrm 'korumalı kutsal alan'; Babil Aramicesi ve Süryanicede ḥrm (ܚܪܡ) 'yasaklamak, topluluktan tecrit etmek', ḥermā (ܚܶܪܡܳܐ) 'yasak, tecrit ve ayrılmış nesne'.",
+        "akkadian": "Doğrudan fiil eşkökenlisi tespit edilmedi (Kogan 2015: Akadca aynı anlam alanı için Sümerce kökenli asakku ve ikkibu sözcüklerini kullanır; ḫarāmu/ḫarimtu kıyası fonolojik ve semantik açıdan doğrulanmamıştır).",
+        "geez_and_esa": "Eski Güney Arapça/Sebece ḥrm 'dokunulmazlık ve yasaklılık ilkesi' ile mḥrm 'girişi sıkı kurallarla korunan kutsal alan' (Me'rib Evvâm yazıtları); Klasik Ethiopic (Ge'ez) ḥarama 'sıradan kullanımdan menetmek, yasaklamak, dokunulmaz kılmak'.",
+        "note": "Proto-Batı Sami *ḥrm kökünde boğaz ünsüzü *ḥ tüm Batı Sami kollarında düzenli korunur; ortak semantik çekirdek 'sıradan erişime kapatmak, tecrit etmek ve koruma kuşağına almak'tır."
+      },
+      "mesani_opposite": {
+        "roots": [
+          "ح-ل-ل (Düğümü çözmek, bağı gevşetip serbest erişime açmak: 2:275, 3:50, 3:93, 4:160, 5:1-2, 5:87, 5:96, 7:157, 9:37, 10:59, 16:116, 22:30, 66:1)",
+          "خ-ط-ف & ع-د-و (Güvensiz biçimde kapılıp yağmalanma ve sınırı çiğneyip saldırma: 2:194, 5:2, 29:67)",
+          "ر-ز-ق (Yaşam payının ve bereketin kesintisiz akıtılması: 6:140, 7:32, 10:59, 51:19, 56:67, 68:27)"
+        ],
+        "key_ayahs": [
+          "2:275 (وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟)",
+          "7:157 (وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ)",
+          "5:87 & 66:1 (لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ / لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ)",
+          "29:67 (جَعَلْنَا حَرَمًا ءَامِنًا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ)",
+          "2:194 (وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ)"
+        ],
+        "reverse_stress_test": "ح-ل-ل kökünün fiziksel çekirdeği olan 'düğümü çözmek, bağı gevşetip serbest bırakmak' (20:27, 5:2) tam tersine çevrildiğinde 'bağlamak, sıkıca kilitleyip erişimi kapatmak' ortaya çıkar; خ-ط-ف (yağmalanma) ve ع-د-و (sınır çiğneme) köklerinin tersi ise 'saldırıya kapatılmış güvenli dokunulmazlık alanı'dır. Zıt kutupların Kur'an'daki tüm kullanımları bu tek çekirdeği sıfır çelişkiyle doğrular."
+      },
+      "same_ayah_furuk": {
+        "paired_concepts": [
+          "حُرُمَٰتِ ٱللَّهِ [22:30] vs شَعَٰٓئِرَ ٱللَّهِ [22:32, 5:2]",
+          "ٱلسَّآئِل [S-E-L] vs ٱلْمَحْرُوم [H-R-M] [51:19, 70:25]",
+          "حَرَمًا [H-R-M] vs ءَامِنًا [E-M-N] [28:57, 29:67]",
+          "حَرَّمَ [H-R-M] vs ٱضْطُرَّ [D-R-R] [2:173, 5:3, 6:119, 6:145, 16:115]"
+        ],
+        "mechanical_difference": "شَعَائِر bilinci uyandıran görünür işaret ve toplanma sembolleridir; حُرُمَات ise ihlal edilmesine kilit vurulmuş dokunulmaz hak, can, zaman ve mekân sınırlarıdır. 51:19 ve 70:25'te ٱلسَّآئِل ihtiyacını dile getirip açıkça talep eden, ٱلْمَحْرُوم ise geçim ve verim kanalı tıkanıp erişimden yoksun kalmış kimsedir. 28:57 ve 29:67'de حَرَم saldırıya hukuken kapatılmış dokunulmazlık statüsü, ءَامِن ise bu korumanın doğurduğu korkusuzluk ve esenlik sonucudur."
+      },
+      "anchor_ayahs": [
+        "28:12 (وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ — bebeğin başka süt annelerden emmesinin fizyolojik olarak kilitlenip engellenmesi)",
+        "5:26 (فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً — belirli bir toprağa giriş yolunun kırk yıl boyunca kapatılması)",
+        "56:67 & 68:27 (بَلْ نَحْنُ مَحْرُومُونَ — ürünü afetle yok olup hasada erişimden mahrum bırakılma)",
+        "28:57 & 29:67 (حَرَمًا ءَامِنًا — çevredeki yağmadan yalıtılmış, saldırıya kapalı güvenli sığınak bölgesi)",
+        "6:151 & 17:33 (ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ — masum canın saldırıya kapatılmış dokunulmazlığı)",
+        "7:157 (وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ — zararlıya erişim kilidi koyup temiz olanı serbest bırakma yasası)"
+      ],
+      "unified_core_mechanism": "Bir nesnenin, canın, mekânın, zamanın, eylemin veya kaynağın çevresine geçilmez bir engelleme kilidi ve sıkı koruma sınırı çekerek erişimi kapatmak.",
+      "grammar_and_branch_rules": "1) Form II fiil (حَرَّمَ / حُرِّمَ / يُحَرِّمُ — 39 kez): Nesne zararlı/kirli ise tüketim ve eylemden menetme (2:173, 2:275, 7:33, 7:157); nesne değerli can, aile yakını veya güvenli yurt ise saldırı ve ihlale karşı dokunulmaz kılma (4:23, 6:151, 27:91); bağlam fizyolojik veya kozmik ise fiilî erişim yolunu kapatma (5:72, 7:50, 28:12); özne yetkisiz insan ise keyfî yasaklama uydurması (5:87, 6:140, 66:1). 2) İsim/sıfat حَرَام / حُرُم / حَرَم (33 kez): Saldırıya kapalı güvenli merkez, barış ayları, kısıtlama statüsündeki kişiler, yasaklanan şeyler ve geri dönüşsüz kozmik engel (21:95). 3) حُرُمَٰت (2 kez): Korunması zorunlu dokunulmaz sınırlar (2:194, 22:30). 4) مُحَرَّم / مُحَرَّمَة (5 kez): Erişime veya ihlale kapatılmış yer, gıda ya da fiil. 5) مَحْرُوم (4 kez): Rızık veya hasat akışına erişimi kesilerek yoksun kalmış kişi.",
+      "derivatives": {
+        "حَرَّمَ / يُحَرِّمُ / حُرِّمَ (Form II fiil - 39 geçiş)": "Zararlıyı yasaklamak (2:173, 2:275, 7:33, 7:157), canı ve yurdu dokunulmaz kılmak (6:151, 27:91), fizyolojik/kozmik erişimi kilitlemek (5:72, 7:50, 28:12) veya keyfî yasak koymak (6:140, 9:37, 66:1).",
+        "حَرَام / حُرُم / حَرَم (33 geçiş)": "Saldırıya kapalı dokunulmaz merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), ateşkes ayları (ٱلشَّهْرَ ٱلْحَرَامَ, أَرْبَعَةٌ حُرُمٌ), kısıtlama statüsündekiler (حُرُمًا), yasaklı şey (10:59, 16:116) ve imkânsızlık kilidi (21:95).",
+        "مُحَرَّم / مُحَرَّمَة (5 geçiş)": "Erişime veya saldırıya kapatılmış sözleşme yasağı (2:85), toprak (5:26), gıda (6:139, 6:145) ve dokunulmaz ev (14:37).",
+        "مَحْرُوم (4 geçiş)": "Geçim veya mahsul akışına erişimi engellenerek yoksun kalmış kişi (51:19, 56:67, 68:27, 70:25).",
+        "حُرُمَٰت (2 geçiş)": "İhlale kapalı dokunulmaz hak, zaman ve mekân sınırları (2:194, 22:30)."
       }
     }
   }

@@ -1,0 +1,1725 @@
+{
+  "root": "ح-ر-م",
+  "root_latin": "H-R-M (Hrm)",
+  "concept_name": "Haram / Tahrîm / Mahrum (Erişim Kilidi, Yasaklama, Dokunulmazlık ve Yoksunluk)",
+  "rank": 135,
+  "total_occurrences": 83,
+  "unique_ayahs_count": 71,
+  "unified_core_mechanism": "Bir nesnenin, canın, mekânın, zamanın, eylemin veya kaynağın çevresine geçilmez bir engelleme kilidi ve sıkı koruma sınırı çekerek erişimi kapatmak.",
+  "physical_core": "Bir nesnenin, alanın, su kaynağının veya canlının etrafına geçilmez bir engelleme kalkanı ve sıkı sınır çekerek dış erişimi kesmek (İbn Fâris: el-men' ve't-teşdîd; kuyu çevresinde başkasının kazmasına kapalı tutulan koruma kuşağı 'harîmü'l-bi'r' ve henüz yumuşatılmamış sert deri kırbaç 'sevtun muharrem').",
+  "dictionary_arbitration": {
+    "ibn_faris": "Tek bir asıl tespit eder: Engellemek ve sıkılaştırmak (el-men' ve't-teşdîd). Yumuşatılmamış sert kırbaç (sevtun muharrem), kuyu çevresindeki dokunulmaz koruma kuşağı (harîmü'l-bi'r) ve el sürülmeyen yasaklı alan (harîm) bu tek somut asıldan türetilir.",
+    "lisan_al_arab": "Haramı helalin tam zıddı olarak belirler; henüz uysallaştırılıp sırtına binilemeyen geçit vermez deve (nâkatün muharreme), tabaklanmamış ham deri (cildün muharrem), evin ve kuyunun başkasının müdahalesine kapalı güvenlik alanı (harîmü'd-dâr / el-bi'r), barış güvencesindeki dokunulmaz kişi (muhrim/müsâlim) ve rızık kapısı kapalı kalmış kimse (mahrûm) şahitleriyle engelleme ve koruma çekirdeğini pekiştirir.",
+    "ragib_mufredat": "Kur'an'daki kullanımları dörtlü mekanik tasnife ayırır: (1) fizyolojik/ilâhî sevk ile engelleme (28:12), (2) zorunlu/kozmik kapatma (5:26, 5:72, 7:50, 21:95), (3) yasal ve ahlaki sınır koyma (2:85, 6:145) ve (4) geçim/ürün akışından yoksun bırakılma (51:19, 56:67).",
+    "arbitration_decision": "Batı Sami epigrafisi (Sebece ḥrm dokunulmazlık ve mḥrm korumalı kutsal alan, İbranice ḥāram sıradan kullanıma kapatma), Kur'an içi Mesânî zıtları (ح-ل-ل düğümü çözmek, خ-ط-ف yağmalanmak), %100 ayet stres testi (28:12 süt emme engeli, 29:67 güvenli sığınak, 68:27 mahsul yoksunluğu) ve عَلَى harf-i cer vektörü ışığında; dar ceza-ödül terimleşmesi elenir. İbn Fâris'in 'engelleme ve sıkılaştırma' çekirdeği ile Râgıb'ın dörtlü erişim kilidi modeli hakem kararı olarak mühürlenir."
+  },
+  "semitic_cognates": {
+    "hebrew": "חָרַם (ḥāram, BDB / Strong's H2763) ve חֵרֶם (ḥērem, H2764): sıradan insan kullanımından kesin biçimde ayırıp erişime kapatmak, tahsis etmek, yasak altına almak; H2764 ayrıca içine hapsedip çıkışı kesen ağ/tuzak anlamına gelir. (Ayrı ses kökü olan H2763b 'burnu yarıklı/basık olmak' Proto-Sami *ḫrm olup Arapça خرم ile ilgilidir, bu kök dışındadır.)",
+    "aramaic_and_syriac": "Palmira yazıtlarında ḥrm 'dokunulmaz/tahsis edilmiş', Nebatî yazıtlarında mḥrm 'korumalı kutsal alan'; Babil Aramicesi ve Süryanicede ḥrm (ܚܪܡ) 'yasaklamak, topluluktan tecrit etmek', ḥermā (ܚܶܪܡܳܐ) 'yasak, tecrit ve ayrılmış nesne'.",
+    "akkadian": "Doğrudan fiil eşkökenlisi tespit edilmedi (Kogan 2015: Akadca aynı anlam alanı için Sümerce kökenli asakku ve ikkibu sözcüklerini kullanır; ḫarāmu/ḫarimtu kıyası fonolojik ve semantik açıdan doğrulanmamıştır).",
+    "geez_and_esa": "Eski Güney Arapça/Sebece ḥrm 'dokunulmazlık ve yasaklılık ilkesi' ile mḥrm 'girişi sıkı kurallarla korunan kutsal alan' (Me'rib Evvâm yazıtları); Klasik Ethiopic (Ge'ez) ḥarama 'sıradan kullanımdan menetmek, yasaklamak, dokunulmaz kılmak'.",
+    "note": "Proto-Batı Sami *ḥrm kökünde boğaz ünsüzü *ḥ tüm Batı Sami kollarında düzenli korunur; ortak semantik çekirdek 'sıradan erişime kapatmak, tecrit etmek ve koruma kuşağına almak'tır."
+  },
+  "mesani_opposite": {
+    "roots": [
+      "ح-ل-ل (Düğümü çözmek, bağı gevşetip serbest erişime açmak: 2:275, 3:50, 3:93, 4:160, 5:1-2, 5:87, 5:96, 7:157, 9:37, 10:59, 16:116, 22:30, 66:1)",
+      "خ-ط-ف & ع-د-و (Güvensiz biçimde kapılıp yağmalanma ve sınırı çiğneyip saldırma: 2:194, 5:2, 29:67)",
+      "ر-ز-ق (Yaşam payının ve bereketin kesintisiz akıtılması: 6:140, 7:32, 10:59, 51:19, 56:67, 68:27)"
+    ],
+    "key_ayahs": [
+      "2:275 (وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟)",
+      "7:157 (وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ)",
+      "5:87 & 66:1 (لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ / لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ)",
+      "29:67 (جَعَلْنَا حَرَمًا ءَامِنًا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ)",
+      "2:194 (وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ)"
+    ],
+    "reverse_stress_test": "ح-ل-ل kökünün fiziksel çekirdeği olan 'düğümü çözmek, bağı gevşetip serbest bırakmak' (20:27, 5:2) tam tersine çevrildiğinde 'bağlamak, sıkıca kilitleyip erişimi kapatmak' ortaya çıkar; خ-ط-ف (yağmalanma) ve ع-د-و (sınır çiğneme) köklerinin tersi ise 'saldırıya kapatılmış güvenli dokunulmazlık alanı'dır. Zıt kutupların Kur'an'daki tüm kullanımları bu tek çekirdeği sıfır çelişkiyle doğrular."
+  },
+  "same_ayah_furuk": {
+    "paired_concepts": [
+      "حُرُمَٰتِ ٱللَّهِ [22:30] vs شَعَٰٓئِرَ ٱللَّهِ [22:32, 5:2]",
+      "ٱلسَّآئِل [S-E-L] vs ٱلْمَحْرُوم [H-R-M] [51:19, 70:25]",
+      "حَرَمًا [H-R-M] vs ءَامِنًا [E-M-N] [28:57, 29:67]",
+      "حَرَّمَ [H-R-M] vs ٱضْطُرَّ [D-R-R] [2:173, 5:3, 6:119, 6:145, 16:115]"
+    ],
+    "mechanical_difference": "شَعَائِر bilinci uyandıran görünür işaret ve toplanma sembolleridir; حُرُمَات ise ihlal edilmesine kilit vurulmuş dokunulmaz hak, can, zaman ve mekân sınırlarıdır. 51:19 ve 70:25'te ٱلسَّآئِل ihtiyacını dile getirip açıkça talep eden, ٱلْمَحْرُوم ise geçim ve verim kanalı tıkanıp erişimden yoksun kalmış kimsedir. 28:57 ve 29:67'de حَرَم saldırıya hukuken kapatılmış dokunulmazlık statüsü, ءَامِن ise bu korumanın doğurduğu korkusuzluk ve esenlik sonucudur."
+  },
+  "anchor_ayahs": [
+    "28:12 (وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ — bebeğin başka süt annelerden emmesinin fizyolojik olarak kilitlenip engellenmesi)",
+    "5:26 (فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً — belirli bir toprağa giriş yolunun kırk yıl boyunca kapatılması)",
+    "56:67 & 68:27 (بَلْ نَحْنُ مَحْرُومُونَ — ürünü afetle yok olup hasada erişimden mahrum bırakılma)",
+    "28:57 & 29:67 (حَرَمًا ءَامِنًا — çevredeki yağmadan yalıtılmış, saldırıya kapalı güvenli sığınak bölgesi)",
+    "6:151 & 17:33 (ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ — masum canın saldırıya kapatılmış dokunulmazlığı)",
+    "7:157 (وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ — zararlıya erişim kilidi koyup temiz olanı serbest bırakma yasası)"
+  ],
+  "grammar_and_branch_rules": "1) Form II fiil (حَرَّمَ / حُرِّمَ / يُحَرِّمُ — 39 kez): Nesne zararlı/kirli ise tüketim ve eylemden menetme (2:173, 2:275, 7:33, 7:157); nesne değerli can, aile yakını veya güvenli yurt ise saldırı ve ihlale karşı dokunulmaz kılma (4:23, 6:151, 27:91); bağlam fizyolojik veya kozmik ise fiilî erişim yolunu kapatma (5:72, 7:50, 28:12); özne yetkisiz insan ise keyfî yasaklama uydurması (5:87, 6:140, 66:1). 2) İsim/sıfat حَرَام / حُرُم / حَرَم (33 kez): Saldırıya kapalı güvenli merkez, barış ayları, kısıtlama statüsündeki kişiler, yasaklanan şeyler ve geri dönüşsüz kozmik engel (21:95). 3) حُرُمَٰت (2 kez): Korunması zorunlu dokunulmaz sınırlar (2:194, 22:30). 4) مُحَرَّم / مُحَرَّمَة (5 kez): Erişime veya ihlale kapatılmış yer, gıda ya da fiil. 5) مَحْرُوم (4 kez): Rızık veya hasat akışına erişimi kesilerek yoksun kalmış kişi.",
+  "derivatives": {
+    "حَرَّمَ / يُحَرِّمُ / حُرِّمَ (Form II fiil - 39 geçiş)": "Zararlıyı yasaklamak (2:173, 2:275, 7:33, 7:157), canı ve yurdu dokunulmaz kılmak (6:151, 27:91), fizyolojik/kozmik erişimi kilitlemek (5:72, 7:50, 28:12) veya keyfî yasak koymak (6:140, 9:37, 66:1).",
+    "حَرَام / حُرُم / حَرَم (33 geçiş)": "Saldırıya kapalı dokunulmaz merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), ateşkes ayları (ٱلشَّهْرَ ٱلْحَرَامَ, أَرْبَعَةٌ حُرُمٌ), kısıtlama statüsündekiler (حُرُمًا), yasaklı şey (10:59, 16:116) ve imkânsızlık kilidi (21:95).",
+    "مُحَرَّم / مُحَرَّمَة (5 geçiş)": "Erişime veya saldırıya kapatılmış sözleşme yasağı (2:85), toprak (5:26), gıda (6:139, 6:145) ve dokunulmaz ev (14:37).",
+    "مَحْرُوم (4 geçiş)": "Geçim veya mahsul akışına erişimi engellenerek yoksun kalmış kişi (51:19, 56:67, 68:27, 70:25).",
+    "حُرُمَٰت (2 geçiş)": "İhlale kapalı dokunulmaz hak, zaman ve mekân sınırları (2:194, 22:30)."
+  },
+  "ayah_occurrences": [
+    {
+      "surah": 2,
+      "ayah": 85,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:85",
+      "word_position": 20,
+      "target_word_uthmani": "مُحَرَّمٌ",
+      "target_word_rasm": "محرم",
+      "target_word_literal_irab": "Yasaklanmış / dokunulmaz kılınmış (مُحَرَّم — II. bab ism-i mef'ûl; erişime veya saldırıya kapalı tutulan)",
+      "context_snippet_arabic": "أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ",
+      "context_snippet_turkish_tabula_rasa": "Sonra siz, birbirinizi öldüren, aranızdan bir takımı memleketlerinden süren, onlara karşı sapma ve ağır kusur ve düşmanlıkta birleşen, onları çıkarmak haramken size esir olarak geldiklerinde fidyelerini vermeye kalkan kimselersiniz. Kitabın bir kısmına güvene erip, bir kısmını gerçeğin üzerini örtme mı ediyorsunuz? Aranızda böyle yapanın cezası ancak dünya hayatında rezil olmaktır. ...",
+      "morphology": {
+        "lemma": "muHar~am",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muHar~am|ROOT:Hrm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sonra siz, birbirinizi öldüren, aranızdan bir takımı memleketlerinden süren, onlara karşı sapma ve ağır kusur ve düşmanlıkta birleşen, onları çıkarmak haramken size esir olarak geldiklerinde fidyelerini vermeye kalkan kimselersiniz. Kitabın bir kısmına güvene erip, bir kısmını gerçeğin üzerini örtme mı ediyorsunuz? Aranızda böyle yapanın cezası ancak dünya hayatında rezil olmaktır. Ahiret gününde de azabın en şiddetlisine onlar uğratılırlar. Allah yaptıklarınızdan gafil değildir.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 2,
+      "ayah": 144,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:144",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "... Hoşnud olacağın kıbleye seni elbette çevireceğiz. Artık yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir; bulunduğunuz yerde yüzlerinizi o yöne çevirin. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yüzünü göğe çevirip durduğunu görüyoruz. Hoşnud olacağın kıbleye seni elbette çevireceğiz. Artık yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir; bulunduğunuz yerde yüzlerinizi o yöne çevirin. Doğrusu Kitap verilenler, bunun Rab'lerinden bir gerçek olduğunu bilirler. Allah onların yaptıklarından gafil değildir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 149,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:149",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَإِنَّهُۥ لَلْحَقُّ مِن",
+      "context_snippet_turkish_tabula_rasa": "Her nereden yola çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir, şüphesiz bu Rabbinden bir haktır. Allah, yaptıklarınızdan gafil değildir.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her nereden yola çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir, şüphesiz bu Rabbinden bir haktır. Allah, yaptıklarınızdan gafil değildir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 150,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:150",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ",
+      "context_snippet_turkish_tabula_rasa": "Her nereden çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir. İnsanların zulmedenlerinden başkalarının size karşı gösterecekleri bir hüccet olmaması için, her nerede olursanız, yüzlerinizi oranın semtine çevirin, bu hususta onlardan korkmayın. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Her nereden çıkarsan, yüzünü boyun eğme ve teslimiyet odağı-i Haram semtine çevir. İnsanların zulmedenlerinden başkalarının size karşı gösterecekleri bir hüccet olmaması için, her nerede olursanız, yüzlerinizi oranın semtine çevirin, bu hususta onlardan korkmayın. Benden korkun da size olan nimetimi tamamlayayım. Böylece doğru yolu bulursunuz.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 173,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:173",
+      "word_position": 2,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ",
+      "context_snippet_turkish_tabula_rasa": "Şüphesiz size ölü hayvan etini, kanı, domuz etini, Allah'tan başkası için kesilen hayvanı haram kılmıştır; fakat, darda kalana, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere sapma ve ağır kusur sayılmaz. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Şüphesiz size ölü hayvan etini, kanı, domuz etini, Allah'tan başkası için kesilen hayvanı haram kılmıştır; fakat, darda kalana, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere sapma ve ağır kusur sayılmaz. Çünkü Allah bağışlayandır, merhamet edendir.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 2,
+      "ayah": 191,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:191",
+      "word_position": 16,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ فِيهِ",
+      "context_snippet_turkish_tabula_rasa": "... dokunulmaz teslimiyet odağı'ın yanında, onlar savaşmadıkça siz de onlarla savaşmayın. Sizinle savaşırlarsa onları öldürün. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأَخْرِجُوهُم مِّنْ حَيْثُ أَخْرَجُوكُمْ وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ وَلَا تُقَٰتِلُوهُمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ حَتَّىٰ يُقَٰتِلُوكُمْ فِيهِ فَإِن قَٰتَلُوكُمْ فَٱقْتُلُوهُمْ كَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Onları bulduğunuz yerde öldürün. Sizi çıkardıkları yerden siz de onları çıkarın. Fitne çıkarmak, adam öldürmekten daha kötüdür. dokunulmaz teslimiyet odağı'ın yanında, onlar savaşmadıkça siz de onlarla savaşmayın. Sizinle savaşırlarsa onları öldürün. gerçeğin üzerini örtenlerin cezası böyledir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 194,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:194",
+      "word_position": 2,
+      "target_word_uthmani": "ٱلْحَرَامُ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ",
+      "context_snippet_turkish_tabula_rasa": "Hürmetli ay, hürmetli aya mukabildir, hürmetler karşılıklıdır; o halde, size tecavüz edene (saldırana), size saldırdıkları gibi saldırın. Allah'tan sakının ve A...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli ay, hürmetli aya mukabildir, hürmetler karşılıklıdır; o halde, size tecavüz edene (saldırana), size saldırdıkları gibi saldırın. Allah'tan sakının ve Allah'ın sakınanlarla beraber olduğunu bilin.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 194,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:194",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ",
+      "context_snippet_turkish_tabula_rasa": "Hürmetli ay, hürmetli aya mukabildir, hürmetler karşılıklıdır; o halde, size tecavüz edene (saldırana), size saldırdıkları gibi saldırın. Allah'tan sakının ve A...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli ay, hürmetli aya mukabildir, hürmetler karşılıklıdır; o halde, size tecavüz edene (saldırana), size saldırdıkları gibi saldırın. Allah'tan sakının ve Allah'ın sakınanlarla beraber olduğunu bilin.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 194,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:194",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱلْحُرُمَٰتُ",
+      "target_word_rasm": "وٱلحرمت",
+      "target_word_literal_irab": "Dokunulmaz sınırlar (حُرُمَٰت — çoğul isim; çiğnenmesi yasak olan korunan alan, zaman ve haklar)",
+      "context_snippet_arabic": "ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ",
+      "context_snippet_turkish_tabula_rasa": "Hürmetli ay, hürmetli aya mukabildir, hürmetler karşılıklıdır; o halde, size tecavüz edene (saldırana), size saldırdıkları gibi saldırın. Allah'tan sakının ve A...",
+      "morphology": {
+        "lemma": "Huruma`t",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Huruma`t|ROOT:Hrm|FP|NOM"
+      },
+      "ayah_text_arabic_full": "ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَٰتُ قِصَاصٌ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli ay, hürmetli aya mukabildir, hürmetler karşılıklıdır; o halde, size tecavüz edene (saldırana), size saldırdıkları gibi saldırın. Allah'tan sakının ve Allah'ın sakınanlarla beraber olduğunu bilin.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 196,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:196",
+      "word_position": 66,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟",
+      "context_snippet_turkish_tabula_rasa": "... Güven içinde olursanız, büyük yöneliş toplanmasına kadar umreden faydalanabilen kimseye kolayına gelen bir yakınlaşma sunusu kesmek, bulamayana, büyük yöneliş toplanması esnasında üç gün ve döndüğünüzde yedi gün, ki o tam on gündür öz denetim ve sakınma tutmak gerekir. Bu, ailesi dokunulmaz teslimiyet odağı'da oturmayan kimseler içindir. Allah'tan sakının ve Allah'ın cezasının şiddetli olacağını bilin.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Başladığınız büyük yöneliş toplanması ve umreyi Allah için tamamlayın. Alıkonursanız, kolayınıza gelen bir yakınlaşma sunusu gönderin. yakınlaşma sunusu, yerine ulaşıncaya kadar, başlarınızı tıraş etmeyin. İçinizde hasta olan veya başından rahatsız bulunan varsa fidye olarak ya öz denetim ve sakınma tutması, ya sadaka vermesi ya da yakınlaşma sunusu kesmesi gerekir. Güven içinde olursanız, büyük yöneliş toplanmasına kadar umreden faydalanabilen kimseye kolayına gelen bir yakınlaşma sunusu kesmek, bulamayana, büyük yöneliş toplanması esnasında üç gün ve döndüğünüzde yedi gün, ki o tam on gündür öz denetim ve sakınma tutmak gerekir. Bu, ailesi dokunulmaz teslimiyet odağı'da oturmayan kimseler içindir. Allah'tan sakının ve Allah'ın cezasının şiddetli olacağını bilin.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 198,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:198",
+      "word_position": 17,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Rabbiniz'den refah istemenizde bir engel yoktur. Arafat'tan indiğinizde, Allah'ı Meşari Haram'da anın; O'nu, size gösterdiği şekilde zikredin. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍ فَٱذْكُرُوا۟ ٱللَّهَ عِندَ ٱلْمَشْعَرِ ٱلْحَرَامِ وَٱذْكُرُوهُ كَمَا هَدَىٰكُمْ وَإِن كُنتُم مِّن قَبْلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Rabbiniz'den refah istemenizde bir engel yoktur. Arafat'tan indiğinizde, Allah'ı Meşari Haram'da anın; O'nu, size gösterdiği şekilde zikredin. Nitekim siz önceleri hiç şüphesiz sapıklardandınız.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. İşte yakıcı yıkım yurdu ehli onlardır, onlar orada temellidirler.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 217,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:217",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ",
+      "context_snippet_turkish_tabula_rasa": "... Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ قُلْ قِتَالٌ فِيهِ كَبِيرٌ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana hürmet edilen ayı, o aydaki savaşı sorarlar. De ki: \"O ayda savaşmak büyük suçtur. Allah yolundan alıkoymak, O'nu gerçeğin üzerini örtmek, dokunulmaz teslimiyet odağı'a engel olmak ve halkını oradan çıkarmak Allah katında daha büyük suçtur. Fitne çıkarmak ise öldürmekten daha büyüktür\". Güçleri yeterse, yaşam sisteminizden döndürünceye kadar sizinle savaşa devam ederler. İçinizden yaşam sisteminden dönüp gerçeğin üzerini örten olarak ölen olursa, bunların işleri dünya ve ahirette boşa gitmiş olur. İşte yakıcı yıkım yurdu ehli onlardır, onlar orada temellidirler.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 2,
+      "ayah": 275,
+      "surah_name": "Bakara",
+      "ayah_ref": "2:275",
+      "word_position": 24,
+      "target_word_uthmani": "وَحَرَّمَ",
+      "target_word_rasm": "وحرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ",
+      "context_snippet_turkish_tabula_rasa": "... Bu, onların, \"Zaten alışveriş de faiz gibidir\" demelerindendir. Oysa Allah alışverişi helal, faizi haram kıldı. Kime Rabb'inden bir öğüt gelir de faizcilikten geri durursa, geçmişi kendisinedir, onun işi Allah'a aittir. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Faiz yiyenler mahşerde ancak saptırıcı yıkıcı gücün çarptığı kimsenin kalktığı gibi kalkarlar. Bu, onların, \"Zaten alışveriş de faiz gibidir\" demelerindendir. Oysa Allah alışverişi helal, faizi haram kıldı. Kime Rabb'inden bir öğüt gelir de faizcilikten geri durursa, geçmişi kendisinedir, onun işi Allah'a aittir. Kim faizciliğe dönerse, işte onlar yakıcı yıkım yurdu ehlidir, onlar orada temelli kalacaklardır.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 3,
+      "ayah": 50,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:50",
+      "word_position": 11,
+      "target_word_uthmani": "حُرِّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)",
+      "context_snippet_arabic": "لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ وَجِئْتُكُم بِـَٔايَةٍ",
+      "context_snippet_turkish_tabula_rasa": "\"Benden önce gelen Tevrat'ı tasdik etmekle beraber size yasak edilenlerin bir kısmını helal kılmak üzere, Rabbinizden size bir ayet getirdim. Allah'tan sakının ve bana itaat edin; ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Benden önce gelen Tevrat'ı tasdik etmekle beraber size yasak edilenlerin bir kısmını helal kılmak üzere, Rabbinizden size bir ayet getirdim. Allah'tan sakının ve bana itaat edin; çünkü Allah benim de Rabbim, sizin de Rabbinizdir. O'na kulluk edin, bu doğru yoldur\".",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 3,
+      "ayah": 93,
+      "surah_name": "Âl-i İmrân",
+      "ayah_ref": "3:93",
+      "word_position": 9,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ",
+      "context_snippet_turkish_tabula_rasa": "Tevrat'ın indirilmesinden önce İsrail'in kendisine haram ettiğinden başka bütün yiyecekler İsrailoğullarına helal idi. De ki: ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Tevrat'ın indirilmesinden önce İsrail'in kendisine haram ettiğinden başka bütün yiyecekler İsrailoğullarına helal idi. De ki: \"Doğru sözlü iseniz Tevrat'ı getirip okuyun\".",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 4,
+      "ayah": 23,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:23",
+      "word_position": 1,
+      "target_word_uthmani": "حُرِّمَتْ",
+      "target_word_rasm": "حرمت",
+      "target_word_literal_irab": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)",
+      "context_snippet_arabic": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ",
+      "context_snippet_turkish_tabula_rasa": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Har~ama|ROOT:Hrm|3FS"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Sizlere, analarınız, kızlarınız, kızkardeşleriniz, halalarınız, teyzeleriniz, kardeşlerinizin kızları, kızkardeşlerinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, karılarınızın anneleri, kendileriyle gerdeğe girdiğiniz kadınlarınızin yanınızda kalan üvey kızlarınız ki onlarla gerdeğe girmemişseniz size bir engel yoktur, öz oğullarınızın eşleri ve iki kız kardeşi bir arada almak suretiyle evlenmek, -geçmişte olanlar artık geçmiştir- size haram kılındı. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 4,
+      "ayah": 160,
+      "surah_name": "Nisâ",
+      "ayah_ref": "4:160",
+      "word_position": 5,
+      "target_word_uthmani": "حَرَّمْنَا",
+      "target_word_rasm": "حرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ",
+      "context_snippet_turkish_tabula_rasa": "Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan gerçeğin üzerini örtenlere, elem verici azab hazırladık.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَن سَبِيلِ ٱللَّهِ كَثِيرًا",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan gerçeğin üzerini örtenlere, elem verici azab hazırladık.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 5,
+      "ayah": 1,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:1",
+      "word_position": 18,
+      "target_word_uthmani": "حُرُمٌ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Akidleri yerine getirin. İhramda iken avlanmayı helal görmeksizin, size bildirilecek olanlar dışında, hayvanlar helal kılındı; Allah dilediği...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَوْفُوا۟ بِٱلْعُقُودِ أُحِلَّتْ لَكُم بَهِيمَةُ ٱلْأَنْعَٰمِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّى ٱلصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ ٱللَّهَ يَحْكُمُ مَا يُرِيدُ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Akidleri yerine getirin. İhramda iken avlanmayı helal görmeksizin, size bildirilecek olanlar dışında, hayvanlar helal kılındı; Allah dilediği hükmü verir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْحَرَامَ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 18,
+      "target_word_uthmani": "ٱلْحَرَامَ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 2,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:2",
+      "word_position": 35,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın nişanelerine, hürmet edilen aya, hediye olan yakınlaşma sunusuna, gerdanlıklar takılan hayvanlara, Rab'lerinden bol nimet ve rıza talep ederek Beyt-i Haram'a gelenlere sakın hürmetsizlik etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi boyun eğme ve teslimiyet odağı-i Haram'dan menettiği için bir topluluğa olan kininiz, aşırı gitmenize sebep olmasın; iyilikte ve fenalıktan sakınmakta yardımlaşın, sapma ve ağır kusur işlemek ve aşırı gitmekte yardımlaşmayın. Allah'tan sakının, Allah'ın cezası şiddetlidir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 3,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:3",
+      "word_position": 1,
+      "target_word_uthmani": "حُرِّمَتْ",
+      "target_word_rasm": "حرمت",
+      "target_word_literal_irab": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)",
+      "context_snippet_arabic": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ",
+      "context_snippet_turkish_tabula_rasa": "Leş, kan, domuz eti, Allah'tan başkası adına kesilenler, -canları çıkmadan önce kesmemişseniz, boğulmuş, bir yerine vurularak öldürülmüş, düşüp yuvarlanmış, başka bir hayvan tarafından süsülmüş, yırtıcı hayvan tarafından yenmiş olanları- dikili taşlar üzerine boğazlananlar ile fal oklarıyla kısmet aramanız size haram kılındı; bunlar fasıklıktır. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Har~ama|ROOT:Hrm|3FS"
+      },
+      "ayah_text_arabic_full": "حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Leş, kan, domuz eti, Allah'tan başkası adına kesilenler, -canları çıkmadan önce kesmemişseniz, boğulmuş, bir yerine vurularak öldürülmüş, düşüp yuvarlanmış, başka bir hayvan tarafından süsülmüş, yırtıcı hayvan tarafından yenmiş olanları- dikili taşlar üzerine boğazlananlar ile fal oklarıyla kısmet aramanız size haram kılındı; bunlar fasıklıktır. Bugün, gerçeğin üzerini örtenler sizi yaşam sisteminizden etmekten umutlarını kesmişlerdir, onlardan korkmayın, Benden korkun. Bugün, size yaşam sisteminizi bütünledim, üzerinize olan nimetimi tamamladım, yaşam ve hesap sistemi olarak sizin için İslam'ı beğendim. Açlıktan darda kalan, sapma ve kusura kaymaksızın yiyebilir. Doğrusu Allah Bağışlayan'dır, merhametli olandır.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 5,
+      "ayah": 26,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:26",
+      "word_position": 3,
+      "target_word_uthmani": "مُحَرَّمَةٌ",
+      "target_word_rasm": "محرمة",
+      "target_word_literal_irab": "Erişime kapatılmış (مُحَرَّمَة — II. bab dişil ism-i mef'ûl; giriş yasağı konulan alan)",
+      "context_snippet_arabic": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً",
+      "context_snippet_turkish_tabula_rasa": "Allah: \"Orası onlara kırk yıl haram kılındı; yeryüzünde şaşkın şaşkın dolaşacaklar. Sen, yoldan çıkmış millet için tasalanma\" dedi.",
+      "morphology": {
+        "lemma": "muHar~amap",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muHar~amap|ROOT:Hrm|F|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah: \"Orası onlara kırk yıl haram kılındı; yeryüzünde şaşkın şaşkın dolaşacaklar. Sen, yoldan çıkmış millet için tasalanma\" dedi.",
+      "contextual_meaning": "Fizyolojik, tarihsel ve kozmik erişim kilidi: Yasal hitabın ötesinde doğrudan varlık yasasıyla kapının kapatılması — bebeğin yabancı süt annelere kapanması (28:12), kırk yıl toprak girişinin engellenmesi (5:26), yıkılmış kentin geri dönüşünün imkânsız kılınması (21:95) ve ortak koşanlar ile gerçeği örtenlere nihaî esenlik ile rızkın kapatılması (5:72, 7:50)."
+    },
+    {
+      "surah": 5,
+      "ayah": 72,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:72",
+      "word_position": 24,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ",
+      "context_snippet_turkish_tabula_rasa": "... kim Allah'a ortak koşarsa muhakkak Allah ona esenlik bahçesini haram eder, varacağı yer ateştir, zulmedenlerin yardımcıları yoktur\" dedi.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ وَقَالَ ٱلْمَسِيحُ يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki, \"Allah ancak Meryem oğlu Mesih'tir\" diyenler gerçeğin üzerini örten oldular. Oysa Mesih, \"Ey İsrailoğulları! Rabbim ve Rabbiniz olan Allah'a kulluk edin; kim Allah'a ortak koşarsa muhakkak Allah ona esenlik bahçesini haram eder, varacağı yer ateştir, zulmedenlerin yardımcıları yoktur\" dedi.",
+      "contextual_meaning": "Fizyolojik, tarihsel ve kozmik erişim kilidi: Yasal hitabın ötesinde doğrudan varlık yasasıyla kapının kapatılması — bebeğin yabancı süt annelere kapanması (28:12), kırk yıl toprak girişinin engellenmesi (5:26), yıkılmış kentin geri dönüşünün imkânsız kılınması (21:95) ve ortak koşanlar ile gerçeği örtenlere nihaî esenlik ile rızkın kapatılması (5:72, 7:50)."
+    },
+    {
+      "surah": 5,
+      "ayah": 87,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:87",
+      "word_position": 5,
+      "target_word_uthmani": "تُحَرِّمُوا۟",
+      "target_word_rasm": "تحرموا",
+      "target_word_literal_irab": "Erişime kapatıyor / yasaklıyor (يُحَرِّمُ / تُحَرِّمُ — II. bab etken muzâri fiil; hüküm veya yasaklama eylemi)",
+      "context_snippet_arabic": "ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Allah'ın size helal ettiği temiz şeyleri haram kılmayın, hududu da aşmayın, doğrusu Allah aşırı gidenleri sevmez.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Har~ama|ROOT:Hrm|2MP|MOOD:JUS"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ وَلَا تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Allah'ın size helal ettiği temiz şeyleri haram kılmayın, hududu da aşmayın, doğrusu Allah aşırı gidenleri sevmez.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 5,
+      "ayah": 95,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:95",
+      "word_position": 8,
+      "target_word_uthmani": "حُرُمٌ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُۥ مِنكُم",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! İhramlı iken avı öldürmeyin. Sizden bile bile onu öldürene, ehli hayvanlardan öldürdüğü kadar olduğuna içinizden iki adil kimsenin hükmedeceğ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّٰرَةٌ طَعَامُ مَسَٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ عَفَا ٱللَّهُ عَمَّا سَلَفَ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! İhramlı iken avı öldürmeyin. Sizden bile bile onu öldürene, ehli hayvanlardan öldürdüğü kadar olduğuna içinizden iki adil kimsenin hükmedeceği, Kabe'ye ulaşacak bir yakınlaşma sunusunu ödeme, yahut düşkünlere yemek yedirme şeklinde keffaret ya da yaptığının ağırlığını tatmak üzere bunlara denk öz denetim ve sakınma tutma vardır. Allah geçmiştekileri affetmiştir, kim tekrar yaparsa Allah ondan öç alır. Allah Güçlü'dür, Öçalıcı'dır.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 96,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:96",
+      "word_position": 9,
+      "target_word_uthmani": "وَحُرِّمَ",
+      "target_word_rasm": "وحرم",
+      "target_word_literal_irab": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)",
+      "context_snippet_arabic": "مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ",
+      "context_snippet_turkish_tabula_rasa": "Deniz avı ve onu yemek size de, yolculara da, geçimlik olarak helal kılınmıştır. İhramlı bulunduğunuz sürece kara avı size haram kılınmıştır. Huzuruna toplanacağınız Allah'tan sakının.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Deniz avı ve onu yemek size de, yolculara da, geçimlik olarak helal kılınmıştır. İhramlı bulunduğunuz sürece kara avı size haram kılınmıştır. Huzuruna toplanacağınız Allah'tan sakının.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 96,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:96",
+      "word_position": 15,
+      "target_word_uthmani": "حُرُمًا",
+      "target_word_rasm": "حرما",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ",
+      "context_snippet_turkish_tabula_rasa": "Deniz avı ve onu yemek size de, yolculara da, geçimlik olarak helal kılınmıştır. İhramlı bulunduğunuz sürece kara avı size haram kılınmıştır. Huzuruna toplanacağınız Allah'tan sakının.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|MP|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Deniz avı ve onu yemek size de, yolculara da, geçimlik olarak helal kılınmıştır. İhramlı bulunduğunuz sürece kara avı size haram kılınmıştır. Huzuruna toplanacağınız Allah'tan sakının.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 97,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:97",
+      "word_position": 5,
+      "target_word_uthmani": "ٱلْحَرَامَ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "ٱللَّهُ ٱلْكَعْبَةَ ٱلْبَيْتَ ٱلْحَرَامَ قِيَٰمًا لِّلنَّاسِ وَٱلشَّهْرَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, hürmetli ev Kabe'yi, hürmetli ayı, yakınlaşma sunusunu, boynu tasmalı yakınlaşma sunularını insanların faydası için ortaya koydu. Bu, Allah'ın göklerde v...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|ACC"
+      },
+      "ayah_text_arabic_full": "جَعَلَ ٱللَّهُ ٱلْكَعْبَةَ ٱلْبَيْتَ ٱلْحَرَامَ قِيَٰمًا لِّلنَّاسِ وَٱلشَّهْرَ ٱلْحَرَامَ وَٱلْهَدْىَ وَٱلْقَلَٰٓئِدَ ذَٰلِكَ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hürmetli ev Kabe'yi, hürmetli ayı, yakınlaşma sunusunu, boynu tasmalı yakınlaşma sunularını insanların faydası için ortaya koydu. Bu, Allah'ın göklerde ve yerde olanları bildiğini ve Allah'ın şüphesiz her şeyi Bilen olduğunu bilmeniz içindir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 5,
+      "ayah": 97,
+      "surah_name": "Mâide",
+      "ayah_ref": "5:97",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْحَرَامَ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "قِيَٰمًا لِّلنَّاسِ وَٱلشَّهْرَ ٱلْحَرَامَ وَٱلْهَدْىَ وَٱلْقَلَٰٓئِدَ ذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Allah, hürmetli ev Kabe'yi, hürmetli ayı, yakınlaşma sunusunu, boynu tasmalı yakınlaşma sunularını insanların faydası için ortaya koydu. Bu, Allah'ın göklerde v...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|M|ACC"
+      },
+      "ayah_text_arabic_full": "جَعَلَ ٱللَّهُ ٱلْكَعْبَةَ ٱلْبَيْتَ ٱلْحَرَامَ قِيَٰمًا لِّلنَّاسِ وَٱلشَّهْرَ ٱلْحَرَامَ وَٱلْهَدْىَ وَٱلْقَلَٰٓئِدَ ذَٰلِكَ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah, hürmetli ev Kabe'yi, hürmetli ayı, yakınlaşma sunusunu, boynu tasmalı yakınlaşma sunularını insanların faydası için ortaya koydu. Bu, Allah'ın göklerde ve yerde olanları bildiğini ve Allah'ın şüphesiz her şeyi Bilen olduğunu bilmeniz içindir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 6,
+      "ayah": 119,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:119",
+      "word_position": 14,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا",
+      "context_snippet_turkish_tabula_rasa": "Size ne oluyor ki, Allah size darda kalmanızın dışında, haram olanları genişçe anlatmışken adının üzerine anıldığı şeyden yemiyorsunuz? Doğrusu çoğunluk, heva ve heveslerine uyarak, bilmeden sapıtıyorlar. Aşırı gidenleri en iyi bilen Rabbindir.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "وَمَا لَكُمْ أَلَّا تَأْكُلُوا۟ مِمَّا ذُكِرَ ٱسْمُ ٱللَّهِ عَلَيْهِ وَقَدْ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيْكُمْ إِلَّا مَا ٱضْطُرِرْتُمْ إِلَيْهِ وَإِنَّ كَثِيرًا لَّيُضِلُّونَ بِأَهْوَآئِهِم بِغَيْرِ عِلْمٍ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِٱلْمُعْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Size ne oluyor ki, Allah size darda kalmanızın dışında, haram olanları genişçe anlatmışken adının üzerine anıldığı şeyden yemiyorsunuz? Doğrusu çoğunluk, heva ve heveslerine uyarak, bilmeden sapıtıyorlar. Aşırı gidenleri en iyi bilen Rabbindir.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 138,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:138",
+      "word_position": 13,
+      "target_word_uthmani": "حُرِّمَتْ",
+      "target_word_rasm": "حرمت",
+      "target_word_literal_irab": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)",
+      "context_snippet_arabic": "نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌ لَّا",
+      "context_snippet_turkish_tabula_rasa": "\"Bu hayvanlar ve ekinleri dilediğimizden başkasının yemesi yasaktır; bir kısım hayvanların sırtlarına yük vurmak da haramdır\" iddiasında bulunarak ve bir kısım hayvanları keserken de Allah'ın adını anmamak suretiyle O'na iftira ederler. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Har~ama|ROOT:Hrm|3FS"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ هَٰذِهِۦٓ أَنْعَٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu hayvanlar ve ekinleri dilediğimizden başkasının yemesi yasaktır; bir kısım hayvanların sırtlarına yük vurmak da haramdır\" iddiasında bulunarak ve bir kısım hayvanları keserken de Allah'ın adını anmamak suretiyle O'na iftira ederler. Allah, yaptıkları iftiralara karşı onları cezalandıracaktır.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 139,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:139",
+      "word_position": 9,
+      "target_word_uthmani": "وَمُحَرَّمٌ",
+      "target_word_rasm": "ومحرم",
+      "target_word_literal_irab": "Yasaklanmış / dokunulmaz kılınmış (مُحَرَّم — II. bab ism-i mef'ûl; erişime veya saldırıya kapalı tutulan)",
+      "context_snippet_arabic": "ٱلْأَنْعَٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا وَإِن",
+      "context_snippet_turkish_tabula_rasa": "\"Bu hayvanların karınlarında olan yavrular yalnız erkeklerimize mahsus olup, eşlerimize yasaktır. Ölü doğacak olursa hepsi ona ortak olurlar\" dediler. ...",
+      "morphology": {
+        "lemma": "muHar~am",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muHar~am|ROOT:Hrm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَقَالُوا۟ مَا فِى بُطُونِ هَٰذِهِ ٱلْأَنْعَٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ سَيَجْزِيهِمْ وَصْفَهُمْ إِنَّهُۥ حَكِيمٌ عَلِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu hayvanların karınlarında olan yavrular yalnız erkeklerimize mahsus olup, eşlerimize yasaktır. Ölü doğacak olursa hepsi ona ortak olurlar\" dediler. Allah bu türlü sözlerin cezasını verecektir, çünkü O hakimdir, bilendir.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 140,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:140",
+      "word_position": 9,
+      "target_word_uthmani": "وَحَرَّمُوا۟",
+      "target_word_rasm": "وحرموا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Beyinsizlikleri yüzünden, körü körüne çocuklarını öldürenler ve Allah'ın kendilerine verdiği nimetleri Allah'a iftira ederek haram sayanlar mahvolmuşlardır; onlar sapıtmışlardır, zaten doğru yolda da değillerdi.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MP"
+      },
+      "ayah_text_arabic_full": "قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Beyinsizlikleri yüzünden, körü körüne çocuklarını öldürenler ve Allah'ın kendilerine verdiği nimetleri Allah'a iftira ederek haram sayanlar mahvolmuşlardır; onlar sapıtmışlardır, zaten doğru yolda da değillerdi.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 143,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:143",
+      "word_position": 11,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا",
+      "context_snippet_turkish_tabula_rasa": "... \"İki erkeği mi, yoksa iki dişiyi mi veya o iki dişinin rahimlerinde bulunan yavruları mı haram kılmıştır? Doğru sözlü iseniz bana bilgiye dayanarak cevap verin. \"",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ نَبِّـُٔونِى بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sekiz çift: Koyundan iki ve keçiden iki; de ki: \"İki erkeği mi, yoksa iki dişiyi mi veya o iki dişinin rahimlerinde bulunan yavruları mı haram kılmıştır? Doğru sözlü iseniz bana bilgiye dayanarak cevap verin.\"",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 144,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:144",
+      "word_position": 9,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا",
+      "context_snippet_turkish_tabula_rasa": "... \"İki erkeği mi, yoksa iki dişiyi mi veya o iki dişinin rahimlerinde bulunan yavruları mı haram kılmıştır? Yoksa Allah size bunları buyururken orada mı idiniz?\" İnsanları, bilmediklerinden sapıtmak için Allah'a karşı yalan uyduranlardan daha zalim kimdir? Allah, zalim milleti doğru yola eriştirmez.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ بِهَٰذَا فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Deveden iki, sığırdan iki yaratmıştır; de ki: \"İki erkeği mi, yoksa iki dişiyi mi veya o iki dişinin rahimlerinde bulunan yavruları mı haram kılmıştır? Yoksa Allah size bunları buyururken orada mı idiniz?\" İnsanları, bilmediklerinden sapıtmak için Allah'a karşı yalan uyduranlardan daha zalim kimdir? Allah, zalim milleti doğru yola eriştirmez.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 145,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:145",
+      "word_position": 8,
+      "target_word_uthmani": "مُحَرَّمًا",
+      "target_word_rasm": "محرما",
+      "target_word_literal_irab": "Yasaklanmış / dokunulmaz kılınmış (مُحَرَّم — II. bab ism-i mef'ûl; erişime veya saldırıya kapalı tutulan)",
+      "context_snippet_arabic": "مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "... \"Bana vahyolunanda, leş, akıtılmış kan, domuz eti ki pistir ve sapma ve ağır kusur işlenerek Allah'tan başkası adına kesilen hayvandan başkasını yemenin haram olduğuna dair bir emir bulamıyorum; fakat darda kalan, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere bunlardan da yiyebilir. ...",
+      "morphology": {
+        "lemma": "muHar~am",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muHar~am|ROOT:Hrm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Bana vahyolunanda, leş, akıtılmış kan, domuz eti ki pistir ve sapma ve ağır kusur işlenerek Allah'tan başkası adına kesilen hayvandan başkasını yemenin haram olduğuna dair bir emir bulamıyorum; fakat darda kalan, başkasının payına el uzatmamak ve zaruret miktarını aşmamak üzere bunlardan da yiyebilir.\" Doğrusu Rabbin bağışlar ve merhamet eder.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 146,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:146",
+      "word_position": 4,
+      "target_word_uthmani": "حَرَّمْنَا",
+      "target_word_rasm": "حرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ",
+      "context_snippet_turkish_tabula_rasa": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. Biz şüphesiz doğru sözlüyüzdür.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 146,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:146",
+      "word_position": 11,
+      "target_word_uthmani": "حَرَّمْنَا",
+      "target_word_rasm": "حرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا",
+      "context_snippet_turkish_tabula_rasa": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yahudilere tırnaklı her hayvanı haram kıldık. Onlara sığır ve davarın sırt, bağırsak ve kemik yağları hariç, iç yağlarını da haram kıldık. Aşırı gitmelerinden ötürü onları bu şekilde cezalandırdık. Biz şüphesiz doğru sözlüyüzdür.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 148,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:148",
+      "word_position": 12,
+      "target_word_uthmani": "حَرَّمْنَا",
+      "target_word_rasm": "حرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ كَذَٰلِكَ",
+      "context_snippet_turkish_tabula_rasa": "Puta tapanlar, \"Allah dileseydi babalarımız ve biz puta tapmaz ve hiçbir şeyi haram kılmazdık\" diyecekler; onlardan öncekiler de, Bizim şiddetli azabımızı tadana kadar böyle demişlerdi. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Puta tapanlar, \"Allah dileseydi babalarımız ve biz puta tapmaz ve hiçbir şeyi haram kılmazdık\" diyecekler; onlardan öncekiler de, Bizim şiddetli azabımızı tadana kadar böyle demişlerdi. Onlara \"Bize karşı çıkarabileceğiniz bir bilginiz var mı? Siz ancak zanna uyuyorsunuz ve sadece tahminde bulunuyorsunuz\" de.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 150,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:150",
+      "word_position": 8,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا فَإِن شَهِدُوا۟",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın bunu haram kıldığına şahidlik edecek şahidlerinizi getirin\". Şahidlik ederlerse, onlarla beraber olup sözlerini kabullenme; ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشْهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَا فَإِن شَهِدُوا۟ فَلَا تَشْهَدْ مَعَهُمْ وَلَا تَتَّبِعْ أَهْوَآءَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ وَهُم بِرَبِّهِمْ يَعْدِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ın bunu haram kıldığına şahidlik edecek şahidlerinizi getirin\". Şahidlik ederlerse, onlarla beraber olup sözlerini kabullenme; ayetlerimizi yalanlayanların ve ahirete güven duy heveslerine uyma; onlar Rablerine başkalarını eşit tutuyorlar.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 6,
+      "ayah": 151,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:151",
+      "word_position": 5,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. Allah bunları size düşünesiniz diye buyurmaktadır.\"",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 6,
+      "ayah": 151,
+      "surah_name": "En'âm",
+      "ayah_ref": "6:151",
+      "word_position": 34,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Gelin size Rabbinizin haram kıldığı şeyleri söyleyeyim: O'na hiçbir şeyi ortak koşmayın, anaya babaya iyilik yapın, yoksulluk korkusuyla çocuklarınızı öldürmeyin, sizin ve onların rızkını veren Biziz, gizli ve açık kötülüklere yaklaşmayın, Allah'ın haram kıldığı cana haksız yere kıymayın. Allah bunları size düşünesiniz diye buyurmaktadır.\"",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 7,
+      "ayah": 32,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:32",
+      "word_position": 3,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "قُلْ مَنْ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِىٓ",
+      "context_snippet_turkish_tabula_rasa": "\"Allah'ın kulları için yarattığı ziynet ve temiz rızıkları haram kılan kimdir?\" \"Bunlar, dünya hayatında güven duy, kıyamet gününde de yalnız onlar içindir\" de. Bilen kimseler için ayetlerimizi böylece uzun uzun açıklıyoruz.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ مَنْ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِىٓ أَخْرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَٰتِ مِنَ ٱلرِّزْقِ قُلْ هِىَ لِلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا خَالِصَةً يَوْمَ ٱلْقِيَٰمَةِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Allah'ın kulları için yarattığı ziynet ve temiz rızıkları haram kılan kimdir?\" \"Bunlar, dünya hayatında güven duy, kıyamet gününde de yalnız onlar içindir\" de. Bilen kimseler için ayetlerimizi böylece uzun uzun açıklıyoruz.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 7,
+      "ayah": 33,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:33",
+      "word_position": 3,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا",
+      "context_snippet_turkish_tabula_rasa": "... \"Rabbim sadece, açık ve gizli fenalıkları, sapma ve kusuru, haksız yere tecavüzü, hakkında hiçbir delil indirmediği şeyi Allah'a ortak koşmanızı, Allah'a karşı bilmediğiniz şeyleri söylemenizi haram kılmıştır. \"",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Rabbim sadece, açık ve gizli fenalıkları, sapma ve kusuru, haksız yere tecavüzü, hakkında hiçbir delil indirmediği şeyi Allah'a ortak koşmanızı, Allah'a karşı bilmediğiniz şeyleri söylemenizi haram kılmıştır.\"",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 7,
+      "ayah": 50,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:50",
+      "word_position": 18,
+      "target_word_uthmani": "حَرَّمَهُمَا",
+      "target_word_rasm": "حرمهما",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ",
+      "context_snippet_turkish_tabula_rasa": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam sistemlerini alay ve eğlenceye alan, dünya hayatına aldanan gerçeğin üzerini örtenlere ikisini de haram etmiştir\" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile gerçeğin üzerini ört gibi biz de onları unutuyoruz.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "وَنَادَىٰٓ أَصْحَٰبُ ٱلنَّارِ أَصْحَٰبَ ٱلْجَنَّةِ أَنْ أَفِيضُوا۟ عَلَيْنَا مِنَ ٱلْمَآءِ أَوْ مِمَّا رَزَقَكُمُ ٱللَّهُ قَالُوٓا۟ إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "yakıcı yıkım yurdu ehli esenlik bahçesi ehline, \"Bize biraz su veya Allah'ın size verdiği rızıktan gönderin\" diye seslenirler, onlar da, \"Doğrusu Allah yaşam sistemlerini alay ve eğlenceye alan, dünya hayatına aldanan gerçeğin üzerini örtenlere ikisini de haram etmiştir\" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile gerçeğin üzerini ört gibi biz de onları unutuyoruz.",
+      "contextual_meaning": "Fizyolojik, tarihsel ve kozmik erişim kilidi: Yasal hitabın ötesinde doğrudan varlık yasasıyla kapının kapatılması — bebeğin yabancı süt annelere kapanması (28:12), kırk yıl toprak girişinin engellenmesi (5:26), yıkılmış kentin geri dönüşünün imkânsız kılınması (21:95) ve ortak koşanlar ile gerçeği örtenlere nihaî esenlik ile rızkın kapatılması (5:72, 7:50)."
+    },
+    {
+      "surah": 7,
+      "ayah": 157,
+      "surah_name": "A'râf",
+      "ayah_ref": "7:157",
+      "word_position": 21,
+      "target_word_uthmani": "وَيُحَرِّمُ",
+      "target_word_rasm": "ويحرم",
+      "target_word_literal_irab": "Erişime kapatıyor / yasaklıyor (يُحَرِّمُ / تُحَرِّمُ — II. bab etken muzâri fiil; hüküm veya yasaklama eylemi)",
+      "context_snippet_arabic": "وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ",
+      "context_snippet_turkish_tabula_rasa": "... O elçi, onlara, uygun olanı emreder ve fenalıktan meneder, temiz şeyleri helal, murdar şeyleri haram kılar, onların ağır yüklerini indirir, zor tekliflerini hafifletir. Bu elçiye güvene eren, hürmet eden, yardım eden, onunla gönderilen nura uyanlar yok mu? İşte onlar saadete erenlerdir\" dedi.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Bu dünyada ve ahirette bizim için güzel olanı yaz; biz Sana yöneldik\" dedi. Allah: \"Azabıma dilediğim kimseyi uğratırım, rahmetim herşeyi kaplamıştır; bunu Allah'a karşı gelmekten sakınanlara, arınma ve gelişme payı verenlere, ayetlerimize güvene erip, yanlarındaki Tevrat ve İncil'de yazılı buldukları, okuyup yazması olmayan elçiye uyanlara yazacağız. O elçi, onlara, uygun olanı emreder ve fenalıktan meneder, temiz şeyleri helal, murdar şeyleri haram kılar, onların ağır yüklerini indirir, zor tekliflerini hafifletir. Bu elçiye güvene eren, hürmet eden, yardım eden, onunla gönderilen nura uyanlar yok mu? İşte onlar saadete erenlerdir\" dedi.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 8,
+      "ayah": 34,
+      "surah_name": "Enfâl",
+      "ayah_ref": "8:34",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ",
+      "context_snippet_turkish_tabula_rasa": "Yoksa dokunulmaz teslimiyet odağı'a girmekten menederlerken Allah onlara niçin azab etmesin? Hem de O'nun dostu değiller; O'nun dostları ancak karşı gelmekten sakınanlardır. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yoksa dokunulmaz teslimiyet odağı'a girmekten menederlerken Allah onlara niçin azab etmesin? Hem de O'nun dostu değiller; O'nun dostları ancak karşı gelmekten sakınanlardır. Fakat çoğu bunu bilmiyorlar.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 5,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:5",
+      "word_position": 4,
+      "target_word_uthmani": "ٱلْحُرُمُ",
+      "target_word_rasm": "ٱلحرم",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ",
+      "context_snippet_turkish_tabula_rasa": "Hürmetli aylar çıkınca, puta tapanları bulduğunuz yerde öldürün; onları yakalayıp hapsedin; her gözetleme yerinde onları bekleyin. Eğer tevbe eder, irtibat ve s...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|MP|NOM"
+      },
+      "ayah_text_arabic_full": "فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Hürmetli aylar çıkınca, puta tapanları bulduğunuz yerde öldürün; onları yakalayıp hapsedin; her gözetleme yerinde onları bekleyin. Eğer tevbe eder, irtibat ve sorumluluk bağını ayakta tutar ve arınma ve gelişme payı verirlerse yollarını serbest bırakın. Doğrusu Allah bağışlar ve merhamet eder.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 7,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:7",
+      "word_position": 14,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ",
+      "context_snippet_turkish_tabula_rasa": "dokunulmaz teslimiyet odağı'ın yanında andlaştıklarınızın dışında, puta tapanların Allah katında ve elçiyi önünde nasıl bir andlaşmaları olabilir. Size doğru davrandıkça siz de onlara doğru davranın. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "dokunulmaz teslimiyet odağı'ın yanında andlaştıklarınızın dışında, puta tapanların Allah katında ve elçiyi önünde nasıl bir andlaşmaları olabilir. Size doğru davrandıkça siz de onlara doğru davranın. Allah, sözleşmelerini bozmaktan sakınanları sever.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 19,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:19",
+      "word_position": 6,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "büyük yöneliş toplanmasına gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret gününe güven duy, Allah yolunda cihat edenle bir mi tuttunuz? Allah katında bir olmazlar; Allah zulmeden milleti doğru yola eriştirmez.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَجَٰهَدَ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "büyük yöneliş toplanmasına gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret gününe güven duy, Allah yolunda cihat edenle bir mi tuttunuz? Allah katında bir olmazlar; Allah zulmeden milleti doğru yola eriştirmez.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 28,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:28",
+      "word_position": 10,
+      "target_word_uthmani": "ٱلْحَرَامَ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا",
+      "context_snippet_turkish_tabula_rasa": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|ACC"
+      },
+      "ayah_text_arabic_full": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Ey güvene erenler! Doğrusu puta tapanlar pistirler, bu sebeple, bu yıllardan sonra dokunulmaz teslimiyet odağı'a yaklaşmasınlar. Eğer fakirlikten korkarsanız, bilin ki Allah dilerse sizi bol nimetiyle zenginleştirecektir. Allah şüphesiz bilendir, hakimdir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 29,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:29",
+      "word_position": 10,
+      "target_word_uthmani": "يُحَرِّمُونَ",
+      "target_word_rasm": "يحرمون",
+      "target_word_literal_irab": "Erişime kapatıyor / yasaklıyor (يُحَرِّمُ / تُحَرِّمُ — II. bab etken muzâri fiil; hüküm veya yasaklama eylemi)",
+      "context_snippet_arabic": "بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Kitap verilenlerden, Allah'a, ahiret gününe güven duy, Allah'ın ve elçisinin haram kıldığını haram saymayan, hak yaşam sistemini yaşam ve hesap sistemi edinmeyenlerle, boyunlarını büküp kendi elleriyle cizye verene kadar savaşın.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Har~ama|ROOT:Hrm|3MP"
+      },
+      "ayah_text_arabic_full": "قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَٰغِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap verilenlerden, Allah'a, ahiret gününe güven duy, Allah'ın ve elçisinin haram kıldığını haram saymayan, hak yaşam sistemini yaşam ve hesap sistemi edinmeyenlerle, boyunlarını büküp kendi elleriyle cizye verene kadar savaşın.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 9,
+      "ayah": 29,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:29",
+      "word_position": 12,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا",
+      "context_snippet_turkish_tabula_rasa": "Kitap verilenlerden, Allah'a, ahiret gününe güven duy, Allah'ın ve elçisinin haram kıldığını haram saymayan, hak yaşam sistemini yaşam ve hesap sistemi edinmeyenlerle, boyunlarını büküp kendi elleriyle cizye verene kadar savaşın.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَٰغِرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Kitap verilenlerden, Allah'a, ahiret gününe güven duy, Allah'ın ve elçisinin haram kıldığını haram saymayan, hak yaşam sistemini yaşam ve hesap sistemi edinmeyenlerle, boyunlarını büküp kendi elleriyle cizye verene kadar savaşın.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 9,
+      "ayah": 36,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:36",
+      "word_position": 18,
+      "target_word_uthmani": "حُرُمٌ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)",
+      "context_snippet_arabic": "وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın gökleri ve yeri yarattığı günkü yazısında, Allah'a göre ayların sayısı onikidir. Bunlardan dördü hürmetli aydır. Bu dosdoğru bir nizamdır. Öyleyse o ay...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "ADJ",
+        "features": "STEM|POS:ADJ|LEM:HaraAm|ROOT:Hrm|MP|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ وَقَٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَٰتِلُونَكُمْ كَآفَّةً وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın gökleri ve yeri yarattığı günkü yazısında, Allah'a göre ayların sayısı onikidir. Bunlardan dördü hürmetli aydır. Bu dosdoğru bir nizamdır. Öyleyse o aylar içinde kendinize yazık etmeyin, topyekun sizinle savaşan putperestlerle siz de topyekun savaşın, Allah'ın sakınanlarla beraber olduğunu bilin.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 37,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:37",
+      "word_position": 12,
+      "target_word_uthmani": "وَيُحَرِّمُونَهُۥ",
+      "target_word_rasm": "ويحرمونه",
+      "target_word_literal_irab": "Erişime kapatıyor / yasaklıyor (يُحَرِّمُ / تُحَرِّمُ — II. bab etken muzâri fiil; hüküm veya yasaklama eylemi)",
+      "context_snippet_arabic": "كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenler Allah'ın haram kıldığı ayların sayısına uydurmak için, onu bir yıl haram, bir yıl helal sayıyor, böylece Allah'ın haram kıldığını helalkılıyorlar. Kötü işleri kendilerine güzel göründü. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Har~ama|ROOT:Hrm|3MP"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sapıtmak için hürmetli ayların yerlerini değiştirip geciktirmek, küfürde gerçekten ileri gitmekdir. gerçeğin üzerini örtenler Allah'ın haram kıldığı ayların sayısına uydurmak için, onu bir yıl haram, bir yıl helal sayıyor, böylece Allah'ın haram kıldığını helalkılıyorlar. Kötü işleri kendilerine güzel göründü. Allah gerçeğin üzerini örten toplumu doğru yola eriştirmez.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 37,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:37",
+      "word_position": 17,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenler Allah'ın haram kıldığı ayların sayısına uydurmak için, onu bir yıl haram, bir yıl helal sayıyor, böylece Allah'ın haram kıldığını helalkılıyorlar. Kötü işleri kendilerine güzel göründü. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sapıtmak için hürmetli ayların yerlerini değiştirip geciktirmek, küfürde gerçekten ileri gitmekdir. gerçeğin üzerini örtenler Allah'ın haram kıldığı ayların sayısına uydurmak için, onu bir yıl haram, bir yıl helal sayıyor, böylece Allah'ın haram kıldığını helalkılıyorlar. Kötü işleri kendilerine güzel göründü. Allah gerçeğin üzerini örten toplumu doğru yola eriştirmez.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 9,
+      "ayah": 37,
+      "surah_name": "Tevbe",
+      "ayah_ref": "9:37",
+      "word_position": 21,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ زُيِّنَ لَهُمْ",
+      "context_snippet_turkish_tabula_rasa": "... gerçeğin üzerini örtenler Allah'ın haram kıldığı ayların sayısına uydurmak için, onu bir yıl haram, bir yıl helal sayıyor, böylece Allah'ın haram kıldığını helalkılıyorlar. Kötü işleri kendilerine güzel göründü. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَٰلِهِمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sapıtmak için hürmetli ayların yerlerini değiştirip geciktirmek, küfürde gerçekten ileri gitmekdir. gerçeğin üzerini örtenler Allah'ın haram kıldığı ayların sayısına uydurmak için, onu bir yıl haram, bir yıl helal sayıyor, böylece Allah'ın haram kıldığını helalkılıyorlar. Kötü işleri kendilerine güzel göründü. Allah gerçeğin üzerini örten toplumu doğru yola eriştirmez.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 10,
+      "ayah": 59,
+      "surah_name": "Yûnus",
+      "ayah_ref": "10:59",
+      "word_position": 11,
+      "target_word_uthmani": "حَرَامًا",
+      "target_word_rasm": "حراما",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَٰلًا قُلْ ءَآللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah'ın size indirdiği rızkın bir kısmını haram, bir kısmını helal kıldığınızı görmüyor musunuz?\" De ki: \"Size Allah mı izin verdi, yoksa Allah'a karşı yalan mı uyduruyorsunuz?\"",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَٰلًا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Allah'ın size indirdiği rızkın bir kısmını haram, bir kısmını helal kıldığınızı görmüyor musunuz?\" De ki: \"Size Allah mı izin verdi, yoksa Allah'a karşı yalan mı uyduruyorsunuz?\"",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 14,
+      "ayah": 37,
+      "surah_name": "İbrâhîm",
+      "ayah_ref": "14:37",
+      "word_position": 12,
+      "target_word_uthmani": "ٱلْمُحَرَّمِ",
+      "target_word_rasm": "ٱلمحرم",
+      "target_word_literal_irab": "Yasaklanmış / dokunulmaz kılınmış (مُحَرَّم — II. bab ism-i mef'ûl; erişime veya saldırıya kapalı tutulan)",
+      "context_snippet_arabic": "زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ",
+      "context_snippet_turkish_tabula_rasa": "\"Rabbimiz! Ben çocuklarımdan kimini, yöneliş ve sorumluluk bağı kılabilmeleri için Senin kutsal evinin yanında, ziraata elverişsiz bir vadiye yerleştirdim. Rabb...",
+      "morphology": {
+        "lemma": "muHar~am",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|(II)|LEM:muHar~am|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةً مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Rabbimiz! Ben çocuklarımdan kimini, yöneliş ve sorumluluk bağı kılabilmeleri için Senin kutsal evinin yanında, ziraata elverişsiz bir vadiye yerleştirdim. Rabbimiz! İnsanların gönüllerini onlara meylettir, nimetin değerini bilip açığa vurmaları için onları ürünlerle rızıklandır.\"",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 16,
+      "ayah": 35,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:35",
+      "word_position": 17,
+      "target_word_uthmani": "حَرَّمْنَا",
+      "target_word_rasm": "حرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن",
+      "context_snippet_turkish_tabula_rasa": "... \"Allah dileseydi O'ndan başka hiçbir şeye ne biz ve ne de babalarımız tapardı. O'nun buyruğu olmaksızın hiçbir şeyi haram kılmazdık\" dediler. Kendilerinden öncekiler de böyle yapmıştı. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'a eş koşanlar: \"Allah dileseydi O'ndan başka hiçbir şeye ne biz ve ne de babalarımız tapardı. O'nun buyruğu olmaksızın hiçbir şeyi haram kılmazdık\" dediler. Kendilerinden öncekiler de böyle yapmıştı. elçilere apaçık tebliğden başka ne vazife düşer?",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 16,
+      "ayah": 115,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:115",
+      "word_position": 2,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ",
+      "context_snippet_turkish_tabula_rasa": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkasının adına kesilenleri haram etmiştir. Darda kalan, aşırı gitmemek ve başkasının hakkına el uzatmamak şartiyle bunun dışındadır. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Allah size ancak leşi, kanı, domuz etini ve Allah'tan başkasının adına kesilenleri haram etmiştir. Darda kalan, aşırı gitmemek ve başkasının hakkına el uzatmamak şartiyle bunun dışındadır. Allah şüphesiz bağışlar, merhamet eder.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 16,
+      "ayah": 116,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:116",
+      "word_position": 10,
+      "target_word_uthmani": "حَرَامٌ",
+      "target_word_rasm": "حرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "هَٰذَا حَلَٰلٌ وَهَٰذَا حَرَامٌ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ",
+      "context_snippet_turkish_tabula_rasa": "Diliniz yalana alışmış olduğu için, \"şu haram, bu helaldir\" demeyin, zira Allah'a karşı yalan uydurmuş olursunuz. Allah'a karşı yalan uyduranlar ise, saadete şüphesiz erişemezler.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌ وَهَٰذَا حَرَامٌ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Diliniz yalana alışmış olduğu için, \"şu haram, bu helaldir\" demeyin, zira Allah'a karşı yalan uydurmuş olursunuz. Allah'a karşı yalan uyduranlar ise, saadete şüphesiz erişemezler.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 16,
+      "ayah": 118,
+      "surah_name": "Nahl",
+      "ayah_ref": "16:118",
+      "word_position": 4,
+      "target_word_uthmani": "حَرَّمْنَا",
+      "target_word_rasm": "حرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ",
+      "context_snippet_turkish_tabula_rasa": "Sana anlattıklarımızı, daha önce, yahudi olanlara da haram kılmıştık; biz onlara zulmetmedik, onlar kendilerine zulmediyorlardı.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Sana anlattıklarımızı, daha önce, yahudi olanlara da haram kılmıştık; biz onlara zulmetmedik, onlar kendilerine zulmediyorlardı.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 17,
+      "ayah": 1,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:1",
+      "word_position": 8,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا",
+      "context_snippet_turkish_tabula_rasa": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ",
+      "ayah_text_turkish_tabula_rasa_full": "Kulunu (Muhammed'i) bir gece dokunulmaz teslimiyet odağı'dan (Mekke'den), kendisine bir kısım ayetlerimizi göstermek için, çevresini mübarek kıldığımız Mescidi Aksa'ya (Kudüs'e) götüren Allah'ın şanı yücedir. Doğrusu O, işitir ve görür.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 17,
+      "ayah": 33,
+      "surah_name": "İsrâ",
+      "ayah_ref": "17:33",
+      "word_position": 5,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ",
+      "context_snippet_turkish_tabula_rasa": "Allah'ın haram kıldığı cana haksız yere kıymayın. Haksız yere öldürülenin velisine bir yetki tanımışızdır. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِۦ سُلْطَٰنًا فَلَا يُسْرِف فِّى ٱلْقَتْلِ إِنَّهُۥ كَانَ مَنصُورًا",
+      "ayah_text_turkish_tabula_rasa_full": "Allah'ın haram kıldığı cana haksız yere kıymayın. Haksız yere öldürülenin velisine bir yetki tanımışızdır. Artık o da öldürmekte aşırı gitmesin. Zira kendisi ne de olsa yardım görmüştür.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 21,
+      "ayah": 95,
+      "surah_name": "Enbiyâ",
+      "ayah_ref": "21:95",
+      "word_position": 1,
+      "target_word_uthmani": "وَحَرَٰمٌ",
+      "target_word_rasm": "وحرم",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَٰهَآ",
+      "context_snippet_turkish_tabula_rasa": "Yok ettiğimiz kasaba halkının ahirette ceza görmek üzere Bize dönmemesi imkansızdır.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|INDEF|NOM"
+      },
+      "ayah_text_arabic_full": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Yok ettiğimiz kasaba halkının ahirette ceza görmek üzere Bize dönmemesi imkansızdır.",
+      "contextual_meaning": "Fizyolojik, tarihsel ve kozmik erişim kilidi: Yasal hitabın ötesinde doğrudan varlık yasasıyla kapının kapatılması — bebeğin yabancı süt annelere kapanması (28:12), kırk yıl toprak girişinin engellenmesi (5:26), yıkılmış kentin geri dönüşünün imkânsız kılınması (21:95) ve ortak koşanlar ile gerçeği örtenlere nihaî esenlik ile rızkın kapatılması (5:72, 7:50)."
+    },
+    {
+      "surah": 22,
+      "ayah": 25,
+      "surah_name": "Hac",
+      "ayah_ref": "22:25",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ",
+      "context_snippet_turkish_tabula_rasa": "Doğrusu gerçeğin üzerini örtenleri, Allah'ın yolundan, yerli ve yolcu bütün insanlar için eşit kılınan dokunulmaz teslimiyet odağı'dan alıkoyanları ve orada zulm ile yanlış yola saptırmak isteyeni, can yakıcı bir azaba uğratırız.",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلْمَسْجِدِ ٱلْحَرَامِ ٱلَّذِى جَعَلْنَٰهُ لِلنَّاسِ سَوَآءً ٱلْعَٰكِفُ فِيهِ وَٱلْبَادِ وَمَن يُرِدْ فِيهِ بِإِلْحَادٍۭ بِظُلْمٍ نُّذِقْهُ مِنْ عَذَابٍ أَلِيمٍ",
+      "ayah_text_turkish_tabula_rasa_full": "Doğrusu gerçeğin üzerini örtenleri, Allah'ın yolundan, yerli ve yolcu bütün insanlar için eşit kılınan dokunulmaz teslimiyet odağı'dan alıkoyanları ve orada zulm ile yanlış yola saptırmak isteyeni, can yakıcı bir azaba uğratırız.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 22,
+      "ayah": 30,
+      "surah_name": "Hac",
+      "ayah_ref": "22:30",
+      "word_position": 4,
+      "target_word_uthmani": "حُرُمَٰتِ",
+      "target_word_rasm": "حرمت",
+      "target_word_literal_irab": "Dokunulmaz sınırlar (حُرُمَٰت — çoğul isim; çiğnenmesi yasak olan korunan alan, zaman ve haklar)",
+      "context_snippet_arabic": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيْرٌ",
+      "context_snippet_turkish_tabula_rasa": "... Kim Allah'ın yasaklarına saygı gösterirse, bu Rabbinin katında kendi iyiliğinedir. (Haram olduğu) size okunanlar dışında kalan hayvanlar, size helal kılındı. ...",
+      "morphology": {
+        "lemma": "Huruma`t",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:Huruma`t|ROOT:Hrm|FP|GEN"
+      },
+      "ayah_text_arabic_full": "ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ وَأُحِلَّتْ لَكُمُ ٱلْأَنْعَٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَٰنِ وَٱجْتَنِبُوا۟ قَوْلَ ٱلزُّورِ",
+      "ayah_text_turkish_tabula_rasa_full": "İşte böyle. Kim Allah'ın yasaklarına saygı gösterirse, bu Rabbinin katında kendi iyiliğinedir. (Haram olduğu) size okunanlar dışında kalan hayvanlar, size helal kılındı. O halde pis putlardan sakının; yalan sözden kaçının.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 24,
+      "ayah": 3,
+      "surah_name": "Nûr",
+      "ayah_ref": "24:3",
+      "word_position": 15,
+      "target_word_uthmani": "وَحُرِّمَ",
+      "target_word_rasm": "وحرم",
+      "target_word_literal_irab": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)",
+      "context_snippet_arabic": "زَانٍ أَوْ مُشْرِكٌ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ",
+      "context_snippet_turkish_tabula_rasa": "... Zina eden kadınla da, ancak zina eden veya putperest olan bir erkek evlenebilir. Bu, güvene erenlere yasak edilmiştir.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|PASS|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوْ مُشْرِكٌ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "Zina eden erkek, ancak zina eden veya putperest bir kadınla evlenebilir. Zina eden kadınla da, ancak zina eden veya putperest olan bir erkek evlenebilir. Bu, güvene erenlere yasak edilmiştir.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 25,
+      "ayah": 68,
+      "surah_name": "Furkān",
+      "ayah_ref": "25:68",
+      "word_position": 12,
+      "target_word_uthmani": "حَرَّمَ",
+      "target_word_rasm": "حرم",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ",
+      "context_snippet_turkish_tabula_rasa": "Onlar, Allah'ın yanında başka sığınak mercii (ilâh) tutup ona yalvarmazlar. Allah'ın haram kıldığı cana haksız yere kıymazlar. Zina etmezler. ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar, Allah'ın yanında başka sığınak mercii (ilâh) tutup ona yalvarmazlar. Allah'ın haram kıldığı cana haksız yere kıymazlar. Zina etmezler. Bunları yapan sapma ve kusura girmiş olur.",
+      "contextual_meaning": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+    },
+    {
+      "surah": 27,
+      "ayah": 91,
+      "surah_name": "Neml",
+      "ayah_ref": "27:91",
+      "word_position": 9,
+      "target_word_uthmani": "حَرَّمَهَا",
+      "target_word_rasm": "حرمها",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "هَٰذِهِ ٱلْبَلْدَةِ ٱلَّذِى حَرَّمَهَا وَلَهُۥ كُلُّ شَىْءٍ",
+      "context_snippet_turkish_tabula_rasa": "De ki: \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum.\" K...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|3MS"
+      },
+      "ayah_text_arabic_full": "إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَٰذِهِ ٱلْبَلْدَةِ ٱلَّذِى حَرَّمَهَا وَلَهُۥ كُلُّ شَىْءٍ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ",
+      "ayah_text_turkish_tabula_rasa_full": "De ki: \"Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum.\" Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. De ki: \"Ben sadece, uyaranlardan biriyim.\"",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 28,
+      "ayah": 12,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:12",
+      "word_position": 1,
+      "target_word_uthmani": "وَحَرَّمْنَا",
+      "target_word_rasm": "وحرمنا",
+      "target_word_literal_irab": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)",
+      "context_snippet_arabic": "وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن",
+      "context_snippet_turkish_tabula_rasa": "Önceden, süt annelerin memesini kabul etmemesini sağladık. Musa'nın ablası: \"Size, sizin adınıza ona bakacak, iyi davranacak bir ev halkını tavsiye edeyim mi?\" ...",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|PERF|(II)|LEM:Har~ama|ROOT:Hrm|1P"
+      },
+      "ayah_text_arabic_full": "وَحَرَّمْنَا عَلَيْهِ ٱلْمَرَاضِعَ مِن قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰٓ أَهْلِ بَيْتٍ يَكْفُلُونَهُۥ لَكُمْ وَهُمْ لَهُۥ نَٰصِحُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Önceden, süt annelerin memesini kabul etmemesini sağladık. Musa'nın ablası: \"Size, sizin adınıza ona bakacak, iyi davranacak bir ev halkını tavsiye edeyim mi?\" dedi.",
+      "contextual_meaning": "Fizyolojik, tarihsel ve kozmik erişim kilidi: Yasal hitabın ötesinde doğrudan varlık yasasıyla kapının kapatılması — bebeğin yabancı süt annelere kapanması (28:12), kırk yıl toprak girişinin engellenmesi (5:26), yıkılmış kentin geri dönüşünün imkânsız kılınması (21:95) ve ortak koşanlar ile gerçeği örtenlere nihaî esenlik ile rızkın kapatılması (5:72, 7:50)."
+    },
+    {
+      "surah": 28,
+      "ayah": 57,
+      "surah_name": "Kasas",
+      "ayah_ref": "28:57",
+      "word_position": 12,
+      "target_word_uthmani": "حَرَمًا",
+      "target_word_rasm": "حرما",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ",
+      "context_snippet_turkish_tabula_rasa": "\"Seninle beraber doğru yolda gidersek, yurdumuzdan ediliriz\" dediler. Onları katımızdan bir rızık olarak her şeyin ürününün toplandığı güvenli ve kutlu bir yere...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "وَقَالُوٓا۟ إِن نَّتَّبِعِ ٱلْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَآ أَوَلَمْ نُمَكِّن لَّهُمْ حَرَمًا ءَامِنًا يُجْبَىٰٓ إِلَيْهِ ثَمَرَٰتُ كُلِّ شَىْءٍ رِّزْقًا مِّن لَّدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "\"Seninle beraber doğru yolda gidersek, yurdumuzdan ediliriz\" dediler. Onları katımızdan bir rızık olarak her şeyin ürününün toplandığı güvenli ve kutlu bir yere yerleştirmedik mi? Ama çoğu bilmezler.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 29,
+      "ayah": 67,
+      "surah_name": "Ankebût",
+      "ayah_ref": "29:67",
+      "word_position": 5,
+      "target_word_uthmani": "حَرَمًا",
+      "target_word_rasm": "حرما",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "يَرَوْا۟ أَنَّا جَعَلْنَا حَرَمًا ءَامِنًا وَيُتَخَطَّفُ ٱلنَّاسُ",
+      "context_snippet_turkish_tabula_rasa": "Çevrelerinde insanlar kapılıp götürülürken Bizim Mekke'yi güven içinde ve kutsal bir yer kıldığımızı görmediler mi? Batıla güvene erip Allah'ın nimetini gerçeği...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|INDEF|ACC"
+      },
+      "ayah_text_arabic_full": "أَوَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا حَرَمًا ءَامِنًا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ ٱللَّهِ يَكْفُرُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Çevrelerinde insanlar kapılıp götürülürken Bizim Mekke'yi güven içinde ve kutsal bir yer kıldığımızı görmediler mi? Batıla güvene erip Allah'ın nimetini gerçeğin üzerini örtme mı ediyorlar?",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 48,
+      "ayah": 25,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:25",
+      "word_position": 7,
+      "target_word_uthmani": "ٱلْحَرَامِ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن",
+      "context_snippet_turkish_tabula_rasa": "Onlar gerçeğin üzerini örtenlerdir, sizi dokunulmaz teslimiyet odağı'ı ziyaretten ve bağlı yakınlaşma sunularını yerlerine gitmekten alıkoyanlardır. Eğer, oradaki henüz tanımadığınız güvene ermiş erkeklerle güvene ermiş kadınları bilmeyerek ezmek suretiyle üzüntüye kapılmanız ihtimali olmasaydı Allah savaşı önlemezdi. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا",
+      "ayah_text_turkish_tabula_rasa_full": "Onlar gerçeğin üzerini örtenlerdir, sizi dokunulmaz teslimiyet odağı'ı ziyaretten ve bağlı yakınlaşma sunularını yerlerine gitmekten alıkoyanlardır. Eğer, oradaki henüz tanımadığınız güvene ermiş erkeklerle güvene ermiş kadınları bilmeyerek ezmek suretiyle üzüntüye kapılmanız ihtimali olmasaydı Allah savaşı önlemezdi. Allah, dilediklerine rahmet etmek için böyle yapmıştır. Eğer güven duy gerçeğin üzerini örtenler birbirinden ayrılmış olsalardı, gerçeğin üzerini örtenleri can yakıcı bir azaba uğratırdık.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 48,
+      "ayah": 27,
+      "surah_name": "Fetih",
+      "ayah_ref": "48:27",
+      "word_position": 9,
+      "target_word_uthmani": "ٱلْحَرَامَ",
+      "target_word_rasm": "ٱلحرام",
+      "target_word_literal_irab": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)",
+      "context_snippet_arabic": "بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "... Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. ...",
+      "morphology": {
+        "lemma": "HaraAm",
+        "pos": "N",
+        "features": "STEM|POS:N|LEM:HaraAm|ROOT:Hrm|M|ACC"
+      },
+      "ayah_text_arabic_full": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا",
+      "ayah_text_turkish_tabula_rasa_full": "And olsun ki Allah, elçisinin rüyasının gerçek olduğunu tasdik eder. Ey güvene erenler! Siz, Allah dilerse, güven içinde, başlarınızı tıraş etmiş veya saçlarınızı kısaltmış olarak, korkmadan dokunulmaz teslimiyet odağı'a gireceksiniz. Allah, sizin bilmediğinizi bilir. Size, bundan başka, yakın zamanda bir zafer verecektir.",
+      "contextual_meaning": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+    },
+    {
+      "surah": 51,
+      "ayah": 19,
+      "surah_name": "Zâriyât",
+      "ayah_ref": "51:19",
+      "word_position": 5,
+      "target_word_uthmani": "وَٱلْمَحْرُومِ",
+      "target_word_rasm": "وٱلمحروم",
+      "target_word_literal_irab": "Erişimden engellenmiş / yoksun kalmış (مَحْرُوم — I. bab ism-i mef'ûl; rızık veya üründen yoksun bırakılan)",
+      "context_snippet_arabic": "أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "context_snippet_turkish_tabula_rasa": "Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.",
+      "morphology": {
+        "lemma": "maHoruwm",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maHoruwm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.",
+      "contextual_meaning": "Geçim ve hasat akışından yoksunluk: Afet yüzünden ürününü yitirip hasada erişimi kesilenler (56:67, 68:27) ile ekonomik imkân kanalı kapalı kalmış yoksun kimselerin (51:19, 70:25) toplumun varlıkları üzerindeki tanınmış hakkı."
+    },
+    {
+      "surah": 56,
+      "ayah": 67,
+      "surah_name": "Vâkıa",
+      "ayah_ref": "56:67",
+      "word_position": 3,
+      "target_word_uthmani": "مَحْرُومُونَ",
+      "target_word_rasm": "محرومون",
+      "target_word_literal_irab": "Erişimden engellenmiş / yoksun kalmış (مَحْرُوم — I. bab ism-i mef'ûl; rızık veya üründen yoksun bırakılan)",
+      "context_snippet_arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "context_snippet_turkish_tabula_rasa": "Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; \"Doğrusu borç altına girdik, hatta yoksun kaldık\".",
+      "morphology": {
+        "lemma": "maHoruwm",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maHoruwm|ROOT:Hrm|MP|NOM"
+      },
+      "ayah_text_arabic_full": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; \"Doğrusu borç altına girdik, hatta yoksun kaldık\".",
+      "contextual_meaning": "Geçim ve hasat akışından yoksunluk: Afet yüzünden ürününü yitirip hasada erişimi kesilenler (56:67, 68:27) ile ekonomik imkân kanalı kapalı kalmış yoksun kimselerin (51:19, 70:25) toplumun varlıkları üzerindeki tanınmış hakkı."
+    },
+    {
+      "surah": 66,
+      "ayah": 1,
+      "surah_name": "Tahrîm",
+      "ayah_ref": "66:1",
+      "word_position": 4,
+      "target_word_uthmani": "تُحَرِّمُ",
+      "target_word_rasm": "تحرم",
+      "target_word_literal_irab": "Erişime kapatıyor / yasaklıyor (يُحَرِّمُ / تُحَرِّمُ — II. bab etken muzâri fiil; hüküm veya yasaklama eylemi)",
+      "context_snippet_arabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ",
+      "context_snippet_turkish_tabula_rasa": "Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine yasak ediyorsun? Allah bağışlayandır, acıyandır.",
+      "morphology": {
+        "lemma": "Har~ama",
+        "pos": "V",
+        "features": "STEM|POS:V|IMPF|(II)|LEM:Har~ama|ROOT:Hrm|2MS"
+      },
+      "ayah_text_arabic_full": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "ayah_text_turkish_tabula_rasa_full": "Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine yasak ediyorsun? Allah bağışlayandır, acıyandır.",
+      "contextual_meaning": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+    },
+    {
+      "surah": 68,
+      "ayah": 27,
+      "surah_name": "Kalem",
+      "ayah_ref": "68:27",
+      "word_position": 3,
+      "target_word_uthmani": "مَحْرُومُونَ",
+      "target_word_rasm": "محرومون",
+      "target_word_literal_irab": "Erişimden engellenmiş / yoksun kalmış (مَحْرُوم — I. bab ism-i mef'ûl; rızık veya üründen yoksun bırakılan)",
+      "context_snippet_arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "context_snippet_turkish_tabula_rasa": "Bahçeyi gördüklerinde: \"Herhalde yolumuzu şaşırmış olacağız; belki de biz yoksun bırakıldık\" dediler.",
+      "morphology": {
+        "lemma": "maHoruwm",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maHoruwm|ROOT:Hrm|MP|NOM"
+      },
+      "ayah_text_arabic_full": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "ayah_text_turkish_tabula_rasa_full": "Bahçeyi gördüklerinde: \"Herhalde yolumuzu şaşırmış olacağız; belki de biz yoksun bırakıldık\" dediler.",
+      "contextual_meaning": "Geçim ve hasat akışından yoksunluk: Afet yüzünden ürününü yitirip hasada erişimi kesilenler (56:67, 68:27) ile ekonomik imkân kanalı kapalı kalmış yoksun kimselerin (51:19, 70:25) toplumun varlıkları üzerindeki tanınmış hakkı."
+    },
+    {
+      "surah": 70,
+      "ayah": 25,
+      "surah_name": "Meâric",
+      "ayah_ref": "70:25",
+      "word_position": 2,
+      "target_word_uthmani": "وَٱلْمَحْرُومِ",
+      "target_word_rasm": "وٱلمحروم",
+      "target_word_literal_irab": "Erişimden engellenmiş / yoksun kalmış (مَحْرُوم — I. bab ism-i mef'ûl; rızık veya üründen yoksun bırakılan)",
+      "context_snippet_arabic": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "context_snippet_turkish_tabula_rasa": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azab...",
+      "morphology": {
+        "lemma": "maHoruwm",
+        "pos": "N",
+        "features": "STEM|POS:N|PASS|PCPL|LEM:maHoruwm|ROOT:Hrm|M|GEN"
+      },
+      "ayah_text_arabic_full": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "ayah_text_turkish_tabula_rasa_full": "Ancak yöneliş ve sorumluluk bağı ayakta tutup yöneliş ve irtibatlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.",
+      "contextual_meaning": "Geçim ve hasat akışından yoksunluk: Afet yüzünden ürününü yitirip hasada erişimi kesilenler (56:67, 68:27) ile ekonomik imkân kanalı kapalı kalmış yoksun kimselerin (51:19, 70:25) toplumun varlıkları üzerindeki tanınmış hakkı."
+    }
+  ]
+}

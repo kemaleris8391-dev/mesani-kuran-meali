@@ -11,7 +11,7 @@
   "projected_total_locked_roots": 205,
   "projected_cumulative_tokens": 38066,
   "projected_cumulative_percentage": 76.18,
-  "locked_in_second_100": 31,
+  "locked_in_second_100": 32,
   "prelocked_skipped_in_range": [
     {
       "global_rank": 101,
@@ -571,8 +571,8 @@
       "buckwalter": "Hrm",
       "frequency": 83,
       "unique_ayahs": 71,
-      "concept_label": "Analiz Bekliyor (Har~ama, HaraAm, muHar~am)",
-      "is_locked": false,
+      "concept_label": "Haram / Tahrîm / Mahrum (Erişim Kilidi, Yasaklama, Dokunulmazlık ve Yoksunluk)",
+      "is_locked": true,
       "sample_ayah": "2:85",
       "top_lemmas": [
         "Har~ama",

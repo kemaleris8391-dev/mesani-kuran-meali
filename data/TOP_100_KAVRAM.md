@@ -8,7 +8,7 @@
 - **Kur'an Toplam Kök Sayısı:** 1.652 Kök
 - **Toplam Kök Geçişi:** 49,968 Kelime
 - **İlk 100 Kökün Toplam Geçişi:** 30,191 Kelime (**%60.42**)
-- **Şu Ana Kadar Mühürlenen Kökler (Faz 1):** 136 Kök (Top 100 içinde: 100 Kök)
+- **Şu Ana Kadar Mühürlenen Kökler (Faz 1):** 137 Kök (Top 100 içinde: 100 Kök)
 
 ---
 

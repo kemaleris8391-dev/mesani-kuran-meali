@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_locked": 136,
+    "total_locked": 137,
     "description": "AI Studio ve Web LLM bağlamı için hafifletilmiş kilitli kökler özeti"
   },
   "locked_roots": {
@@ -1417,6 +1417,16 @@
         "ظ-ن-ن & ك-ذ-ب (Kanıtsız Sanı ve Bilgisiz Yalanlama <-> كَيْفَ ile Gözlemsel/Mantıksal Sorgu: 10:35-39)",
         "ب-ي-ن & ع-ل-م (Apaçık Belirme ve Kesin Kavrayış — كَيْفَ sorusunun somut çözümü: 2:259, 14:45)",
         "كَذَٰلِكَ (İşte Böyle! — كَيْفَ tarz sorusunun olumlu karşılığı: 30:19/50, 2:259-260)"
+      ]
+    },
+    "ح-ر-م": {
+      "latin": "H-R-M (Hrm)",
+      "core": "Bir nesnenin, canın, mekânın, zamanın, eylemin veya kaynağın çevresine geçilmez bir engelleme kilidi ve sıkı koruma sınırı çekerek erişimi kapatmak.",
+      "physical": "Bir nesnenin, alanın, su kaynağının veya canlının etrafına geçilmez bir engelleme kalkanı ve sıkı sınır çekerek dış erişimi kesmek (İbn Fâris: el-men' ve't-teşdîd; kuyu çevresinde başkasının kazmasına kapalı tutulan koruma kuşağı 'harîmü'l-bi'r' ve henüz yumuşatılmamış sert deri kırbaç 'sevtun muharrem').",
+      "opposites": [
+        "ح-ل-ل (Düğümü çözmek, bağı gevşetip serbest erişime açmak: 2:275, 3:50, 3:93, 4:160, 5:1-2, 5:87, 5:96, 7:157, 9:37, 10:59, 16:116, 22:30, 66:1)",
+        "خ-ط-ف & ع-د-و (Güvensiz biçimde kapılıp yağmalanma ve sınırı çiğneyip saldırma: 2:194, 5:2, 29:67)",
+        "ر-ز-ق (Yaşam payının ve bereketin kesintisiz akıtılması: 6:140, 7:32, 10:59, 51:19, 56:67, 68:27)"
       ]
     }
   }

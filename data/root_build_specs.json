@@ -1,1 +1,167 @@
-{}
+{
+  "ح-ر-م": {
+    "buckwalter": "Hrm",
+    "slug": "haram_mahrum_hrm",
+    "concept_name": "Haram / Tahrîm / Mahrum (Erişim Kilidi, Yasaklama, Dokunulmazlık ve Yoksunluk)",
+    "keywords": [
+      "haram",
+      "yasak",
+      "dokunulmaz",
+      "mahrum",
+      "hurumat",
+      "muharrem",
+      "kisitlama"
+    ],
+    "irab_rules": [
+      {
+        "lemma": "Har~ama",
+        "features_contains": [
+          "PERF",
+          "PASS"
+        ],
+        "label": "Erişime kapatıldı / yasaklandı (حُرِّمَ / حُرِّمَتْ — II. bab edilgen mâzi fiil; nâib-i fâil yasaklanan nesne veya fiil)"
+      },
+      {
+        "lemma": "Har~ama",
+        "features_contains": [
+          "PERF"
+        ],
+        "label": "Erişime kapattı / dokunulmaz kıldı / yasakladı (حَرَّمَ — II. bab etken mâzi fiil; عَلَى ile kısıtlanan tarafı bağlar)"
+      },
+      {
+        "lemma": "Har~ama",
+        "features_contains": [
+          "IMPF"
+        ],
+        "label": "Erişime kapatıyor / yasaklıyor (يُحَرِّمُ / تُحَرِّمُ — II. bab etken muzâri fiil; hüküm veya yasaklama eylemi)"
+      },
+      {
+        "lemma": "HaraAm",
+        "features_contains": [
+          "ADJ"
+        ],
+        "label": "Dokunulmaz / ihlale kapalı (ٱلْحَرَام / حُرُم — sıfat; güvenli merkez, zaman kuşağı veya korunan makam)"
+      },
+      {
+        "lemma": "HaraAm",
+        "label": "Dokunulmaz sığınak / yasak / kısıtlama statüsü (حَرَام / حَرَم / حُرُم — isim; güvenli bölge, kısıtlı hâl veya erişim yasağı)"
+      },
+      {
+        "lemma": "Huruma`t",
+        "label": "Dokunulmaz sınırlar (حُرُمَٰت — çoğul isim; çiğnenmesi yasak olan korunan alan, zaman ve haklar)"
+      },
+      {
+        "lemma": "muHar~am",
+        "label": "Yasaklanmış / dokunulmaz kılınmış (مُحَرَّم — II. bab ism-i mef'ûl; erişime veya saldırıya kapalı tutulan)"
+      },
+      {
+        "lemma": "muHar~amap",
+        "label": "Erişime kapatılmış (مُحَرَّمَة — II. bab dişil ism-i mef'ûl; giriş yasağı konulan alan)"
+      },
+      {
+        "lemma": "maHoruwm",
+        "label": "Erişimden engellenmiş / yoksun kalmış (مَحْرُوم — I. bab ism-i mef'ûl; rızık veya üründen yoksun bırakılan)"
+      }
+    ],
+    "irab_default": "Erişim kilidi, yasaklama, dokunulmazlık veya yoksunluk (ح-ر-م kökü)",
+    "context_clusters": [
+      {
+        "ayahs": [
+          "2:173",
+          "3:50",
+          "3:93",
+          "4:160",
+          "5:3",
+          "5:87",
+          "6:119",
+          "6:138",
+          "6:139",
+          "6:140",
+          "6:143",
+          "6:144",
+          "6:145",
+          "6:146",
+          "6:148",
+          "6:150",
+          "7:32",
+          "7:157",
+          "10:59",
+          "16:35",
+          "16:115",
+          "16:116",
+          "16:118",
+          "66:1"
+        ],
+        "text": "Beslenme sınırları ve keyfî yasaklama reddi: Yaratıcı yalnız kirli ve zararlı olana erişim kilidi koyar (2:173, 5:3, 6:145, 7:157), zorunluluk kıskacında yaşamı korumak için esneklik tanır; buna karşılık insanların temiz rızıkları ve güzellikleri yetkisizce yasak ilan etmesi kesin biçimde reddedilir (5:87, 6:140, 7:32, 10:59, 16:116, 66:1)."
+      },
+      {
+        "ayahs": [
+          "2:85",
+          "2:275",
+          "4:23",
+          "6:151",
+          "7:33",
+          "9:29",
+          "17:33",
+          "24:3",
+          "25:68"
+        ],
+        "text": "Can, aile, ekonomi ve toplum hukukunda dokunulmazlık sınırları: Masum cana kıymak (6:151, 17:33, 25:68), sömürücü fazlalık/ribâ (2:275), yurtlarından zorla sürmek (2:85), yakın kan-süt hısımlığıyla evlilik (4:23), iffetsiz birliktelik (24:3) ve açık-gizli taşkınlıklar (7:33) kesin koruma kilidiyle yasaklanmıştır."
+      },
+      {
+        "ayahs": [
+          "2:144",
+          "2:149",
+          "2:150",
+          "2:191",
+          "2:194",
+          "2:196",
+          "2:198",
+          "2:217",
+          "5:1",
+          "5:2",
+          "5:95",
+          "5:96",
+          "5:97",
+          "8:34",
+          "9:5",
+          "9:7",
+          "9:19",
+          "9:28",
+          "9:36",
+          "9:37",
+          "14:37",
+          "17:1",
+          "22:25",
+          "22:30",
+          "27:91",
+          "28:57",
+          "29:67",
+          "48:25",
+          "48:27"
+        ],
+        "text": "Dokunulmaz güvenli merkez, sığınak ve barış ayları: Saldırıya, yağmaya ve çatışmaya kapatılmış ortak merkez (ٱلْمَسْجِدِ ٱلْحَرَامِ, ٱلْبَيْتَ ٱلْحَرَامَ, حَرَمًا ءَامِنًا), dört dokunulmaz barış ayı (9:36), kısıtlama statüsündeyken kara avının kapatılması (5:1, 5:95-96) ve bu korunan sınırların (حُرُمَٰت) karşılıklı saygıyla gözetilmesi (2:194, 22:30)."
+      },
+      {
+        "ayahs": [
+          "5:26",
+          "5:72",
+          "7:50",
+          "21:95",
+          "28:12"
+        ],
+        "text": "Fizyolojik, tarihsel ve kozmik erişim kilidi: Yasal hitabın ötesinde doğrudan varlık yasasıyla kapının kapatılması — bebeğin yabancı süt annelere kapanması (28:12), kırk yıl toprak girişinin engellenmesi (5:26), yıkılmış kentin geri dönüşünün imkânsız kılınması (21:95) ve ortak koşanlar ile gerçeği örtenlere nihaî esenlik ile rızkın kapatılması (5:72, 7:50)."
+      },
+      {
+        "ayahs": [
+          "51:19",
+          "56:67",
+          "68:27",
+          "70:25"
+        ],
+        "text": "Geçim ve hasat akışından yoksunluk: Afet yüzünden ürününü yitirip hasada erişimi kesilenler (56:67, 68:27) ile ekonomik imkân kanalı kapalı kalmış yoksun kimselerin (51:19, 70:25) toplumun varlıkları üzerindeki tanınmış hakkı."
+      }
+    ],
+    "context_default": "Bir nesnenin, canın, mekânın, zamanın veya kaynağın etrafına geçilmez bir engelleme kilidi ve koruma sınırı çekerek erişimi kapatma mekanizması."
+  }
+}
